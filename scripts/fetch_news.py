@@ -231,11 +231,16 @@ def main():
     print(f"\n─── DÖVİZ KURLARI ───")
     exchange_rates = fetch_exchange_rates()
 
+    # Fetch weather
+    print(f"\n─── HAVA DURUMU ───")
+    weather = fetch_weather()
+
     # Write output
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "categories": all_news,
         "exchange_rates": exchange_rates,
+        "weather": weather,
     }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
@@ -281,6 +286,32 @@ def fetch_exchange_rates():
             pass
 
     return rates
+
+
+def fetch_weather():
+    """Fetch current weather via wttr.in (text mode, IP-based)."""
+    weather = {"condition": None, "temp": None, "wind": None, "humidity": None}
+    try:
+        req = Request("https://wttr.in/?format=%C|%t|%w|%h&lang=tr", headers={"User-Agent": "curl/8.0"})
+        with urlopen(req, timeout=15) as resp:
+            data = resp.read()
+        if data:
+            decoded = data.decode("utf-8").strip()
+            parts = decoded.split("|")
+            if len(parts) >= 4 and not decoded.startswith("<"):
+                weather["condition"] = parts[0].strip()
+                weather["temp"] = parts[1].strip()
+                weather["wind"] = parts[2].strip()
+                weather["humidity"] = parts[3].strip()
+                print(f"  ✓ {weather['condition']} {weather['temp']}")
+            else:
+                print(f"  [!] HTML response from wttr.in: {decoded[:80]}")
+        else:
+            print("  [!] No data from wttr.in")
+    except Exception as e:
+        print(f"  [!] Weather error: {e}")
+    return weather
+
 
 if __name__ == "__main__":
     main()

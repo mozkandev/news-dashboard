@@ -155,38 +155,27 @@
   }
 
   /* ─── Weather Widget ──────────────────────────────── */
-  async function fetchWeather() {
-    try {
-      const resp = await fetch(
-        "https://wttr.in/?format=%C|%t|%w|%h&lang=tr",
-        { cache: "no-cache" }
-      );
-      if (!resp.ok) throw new Error("Weather failed");
-      const text = await resp.text();
-      const parts = text.split("|").map((s) => s.trim());
-      const condition = parts[0] || "";
-      const temp = parts[1] || "";
-      const wind = parts[2] || "";
-      const humidity = parts[3] || "";
-      weatherText.textContent = `${condition} ${temp} Rüzgar: ${wind}  Nem: ${humidity}`;
-
-      // Weather icons based on condition
-      const iconMap = {
-        sunny: "☀️", clear: "🌙", cloudy: "☁️", overcast: "☁️",
-        rain: "🌧", "light rain": "🌦", "heavy rain": "🌧",
-        snow: "❄️", fog: "🌫", mist: "🌫", thunder: "⛈",
-        "patchy rain": "🌦",
-      };
-      const condLower = condition.toLowerCase();
-      let icon = "🌤";
-      for (const [key, emoji] of Object.entries(iconMap)) {
-        if (condLower.includes(key)) { icon = emoji; break; }
-      }
-      const widgetIcon = weatherText.closest(".widget").querySelector(".widget-icon");
-      if (widgetIcon) widgetIcon.textContent = icon;
-    } catch {
+  function renderWeather(data) {
+    if (!data || !data.weather || !data.weather.condition) {
       weatherText.textContent = "🌤 Hava durumu alınamadı";
+      return;
     }
+    const w = data.weather;
+    const iconMap = {
+      sunny: "☀️", clear: "🌙", cloudy: "☁️", overcast: "☁️",
+      rain: "🌧", "light rain": "🌦", "heavy rain": "🌧",
+      snow: "❄️", fog: "🌫", mist: "🌫", thunder: "⛈",
+      "patchy rain": "🌦", "parçalı bulutlu": "⛅",
+      "az bulutlu": "🌤", "kapalı": "☁️",
+    };
+    const condLower = (w.condition || "").toLowerCase();
+    let icon = "🌤";
+    for (const [key, emoji] of Object.entries(iconMap)) {
+      if (condLower.includes(key)) { icon = emoji; break; }
+    }
+    weatherText.textContent = `${w.condition} ${w.temp}  Rüzgar: ${w.wind}  Nem: ${w.humidity}`;
+    const widgetIcon = weatherText.closest(".widget").querySelector(".widget-icon");
+    if (widgetIcon) widgetIcon.textContent = icon;
   }
 
   /* ─── Exchange Rate Widget ────────────────────────── */
@@ -324,6 +313,8 @@
           allData = data;
           render();
           renderExchange(data);
+          renderWeather(data);
+          updateFavoritesUI();
           return;
         }
       } catch { continue; }
@@ -340,6 +331,8 @@
           allData = data;
           render();
           renderExchange(data);
+          renderWeather(data);
+          updateFavoritesUI();
           return;
         }
       }
@@ -415,12 +408,7 @@
     setupRefresh();
     setupFavoritesToggle();
     fetchNews();
-    fetchWeather();
-    updateFavoritesUI();
     startAutoRefresh();
-
-    // Refresh weather every 30 min
-    setInterval(fetchWeather, 30 * 60 * 1000);
   }
 
   if (document.readyState === "loading") {
