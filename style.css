@@ -352,14 +352,138 @@ footer {
 /* ─── Responsive ──────────────────────────────────── */
 @media (max-width: 768px) {
   .header-inner { flex-direction: column; align-items: flex-start; }
-  .filters { top: 109px; }
+  .filters { position: static; top: auto; }
   .filter-btn { padding: 5px 10px; font-size: 0.75rem; }
   .search-box { min-width: 100%; margin-top: 4px; }
   .news-grid { grid-template-columns: 1fr; }
   .footer-inner { flex-direction: column; text-align: center; }
+  .widget-bar { flex-direction: column; }
+  .widget-weather, .widget-exchange { flex: none; width: 100%; }
 }
 
 @media (max-width: 480px) {
   html { font-size: 15px; }
   header h1 { font-size: 1.1rem; }
 }
+
+/* ─── Icon Button ──────────────────────────────────── */
+.icon-btn {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  color: var(--text-secondary);
+}
+.icon-btn:hover { background: var(--surface-hover); color: var(--text); border-color: var(--accent); }
+.icon-btn:active { transform: scale(0.9); }
+.icon-btn.spinning { animation: spin 0.6s linear infinite; }
+
+/* ─── Widget Bar ───────────────────────────────────── */
+.widget-bar {
+  display: flex;
+  gap: 10px;
+  padding: 12px 0;
+  flex-wrap: wrap;
+}
+.widget {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  transition: all 0.2s;
+  cursor: default;
+}
+.widget:hover { border-color: var(--text-secondary); background: var(--surface-hover); }
+.widget-icon { font-size: 1.1rem; }
+.widget-label { color: var(--text); }
+.widget-weather, .widget-exchange { flex: 1; min-width: 180px; }
+.widget-favorites { cursor: pointer; }
+.widget-favorites:hover { border-color: #d29922; }
+.widget-favorites.has-items .widget-label { color: #d29922; font-weight: 600; }
+
+/* ─── Favorites Panel ──────────────────────────────── */
+.favorites-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 16px;
+  padding: 16px;
+}
+.favorites-panel.hidden { display: none; }
+.favorites-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.favorites-header h3 { font-size: 0.95rem; color: #d29922; }
+.clear-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.clear-btn:hover { border-color: #f85149; color: #f85149; }
+.favorites-list { display: flex; flex-direction: column; gap: 8px; }
+.fav-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: var(--bg);
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+.fav-item a {
+  flex: 1;
+  font-size: 0.85rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.fav-remove {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+.fav-remove:hover { color: #f85149; background: rgba(248,81,73,0.1); }
+
+/* ─── Bookmark Button ─────────────────────────────── */
+.bookmark-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: all 0.2s;
+  color: var(--text-secondary);
+  flex-shrink: 0;
+}
+.bookmark-btn:hover { color: #d29922; background: rgba(210,153,34,0.1); }
+.bookmark-btn.saved { color: #d29922; }
+
+/* ─── Filter Spacer ────────────────────────────────── */
+.filter-spacer { flex: 1; }

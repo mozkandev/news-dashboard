@@ -227,10 +227,15 @@ def main():
     for cat, items in all_news.items():
         print(f"    {cat}: {len(items)} haber")
 
+    # Fetch exchange rates
+    print(f"\n─── DÖVİZ KURLARI ───")
+    exchange_rates = fetch_exchange_rates()
+
     # Write output
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "categories": all_news,
+        "exchange_rates": exchange_rates,
     }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
@@ -238,6 +243,44 @@ def main():
 
     print(f"\n  ✓ Kaydedildi: {OUTPUT_FILE}")
     print("=" * 60)
+
+def fetch_exchange_rates():
+    """Fetch USD/TRY and EUR/TRY exchange rates."""
+    rates = {"usd_try": None, "eur_try": None, "eur_usd": None}
+    try:
+        data = fetch_url("https://open.er-api.com/v6/latest/USD")
+        if data:
+            parsed = json.loads(data)
+            if parsed.get("result") == "success":
+                rates["eur_usd"] = round(parsed["rates"].get("EUR", 0), 4)
+                rates["usd_try"] = round(parsed["rates"].get("TRY", 0), 4)
+                print(f"  ✓ USD/TRY: {rates['usd_try']} | EUR/USD: {rates['eur_usd']}")
+
+        data = fetch_url("https://open.er-api.com/v6/latest/EUR")
+        if data:
+            parsed = json.loads(data)
+            if parsed.get("result") == "success":
+                rates["eur_try"] = round(parsed["rates"].get("TRY", 0), 4)
+                print(f"  ✓ EUR/TRY: {rates['eur_try']}")
+    except Exception as e:
+        print(f"  [!] Döviz kuru hatası: {e}")
+
+    # Also try alternative API as fallback
+    if not all(rates.values()):
+        try:
+            data = fetch_url("https://api.exchangerate-api.com/v4/latest/USD")
+            if data:
+                parsed = json.loads(data)
+                if parsed.get("result") == "success" or "rates" in parsed:
+                    rates["eur_usd"] = round(parsed["rates"].get("EUR", 0), 4)
+                    rates["usd_try"] = round(parsed["rates"].get("TRY", 0), 4)
+                    print(f"  ✓ (fallback) USD/TRY: {rates['usd_try']}")
+                    if "EUR" in parsed.get("rates", {}):
+                        rates["eur_try"] = round(parsed["rates"]["TRY"] / parsed["rates"]["EUR"], 4)
+        except Exception:
+            pass
+
+    return rates
 
 if __name__ == "__main__":
     main()

@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>News Dashboard</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0d1117">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 </head>
 <body>
@@ -14,21 +16,50 @@
       <div class="header-meta">
         <span id="update-time" class="update-badge">Yükleniyor...</span>
         <span id="total-count" class="count-badge">0 haber</span>
+        <button id="refresh-btn" class="icon-btn" title="Yenile">🔄</button>
       </div>
     </div>
   </header>
 
   <main class="container">
+    <!-- Widget Bar -->
+    <div class="widget-bar" id="widget-bar">
+      <div class="widget widget-weather" id="weather-widget">
+        <span class="widget-icon">🌤</span>
+        <span class="widget-label" id="weather-text">Hava durumu yükleniyor...</span>
+      </div>
+      <div class="widget widget-exchange" id="exchange-widget">
+        <span class="widget-icon">💱</span>
+        <span class="widget-label" id="exchange-text">Döviz yükleniyor...</span>
+      </div>
+      <div class="widget widget-favorites" id="favorites-widget">
+        <span class="widget-icon">🔖</span>
+        <span class="widget-label" id="favorites-text">Kaydedilenler</span>
+      </div>
+    </div>
+
+    <!-- Filters -->
     <div class="filters">
       <button class="filter-btn active" data-filter="all">🔄 Tümü</button>
       <button class="filter-btn" data-filter="teknoloji">💻 Teknoloji</button>
       <button class="filter-btn" data-filter="dunya">🌍 Dünya</button>
       <button class="filter-btn" data-filter="turkiye">🇹🇷 Türkiye</button>
+      <div class="filter-spacer"></div>
       <div class="search-box">
         <input type="text" id="search" placeholder="Haberde ara..." />
       </div>
     </div>
 
+    <!-- Favorites Panel (hidden by default) -->
+    <div id="favorites-panel" class="favorites-panel hidden">
+      <div class="favorites-header">
+        <h3>🔖 Kaydedilen Haberler</h3>
+        <button id="clear-favorites-btn" class="clear-btn">Temizle</button>
+      </div>
+      <div id="favorites-list" class="favorites-list"></div>
+    </div>
+
+    <!-- News -->
     <div id="news-container">
       <div class="loading">Haberler yükleniyor...</div>
     </div>
@@ -39,6 +70,8 @@
       <span>Kaynaklar: HackerNews, TechCrunch, The Verge, Webtekno, ShiftDelete, BBC, Guardian, NPR, Sözcü, NTV</span>
       <span class="source-links">
         <a href="https://github.com/mozkandev/news-dashboard" target="_blank">GitHub</a>
+        <span class="footer-sep">·</span>
+        <span id="footer-update">—</span>
       </span>
     </div>
   </footer>
