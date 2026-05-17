@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+</head>
+<body>
+  <header>
+    <div class="container header-inner">
+      <h1>📰 News Dashboard</h1>
+      <div class="header-meta">
+        <span id="update-time" class="update-badge">Yükleniyor...</span>
+        <span id="total-count" class="count-badge">0 haber</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="filters">
+      <button class="filter-btn active" data-filter="all">🔄 Tümü</button>
+      <button class="filter-btn" data-filter="teknoloji">💻 Teknoloji</button>
+      <button class="filter-btn" data-filter="dunya">🌍 Dünya</button>
+      <button class="filter-btn" data-filter="turkiye">🇹🇷 Türkiye</button>
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Haberde ara..." />
+      </div>
+    </div>
+
+    <div id="news-container">
+      <div class="loading">Haberler yükleniyor...</div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <span>Kaynaklar: HackerNews, TechCrunch, The Verge, Webtekno, ShiftDelete, BBC, Guardian, NPR, Sözcü, NTV</span>
+      <span class="source-links">
+        <a href="https://github.com/mozkandev/news-dashboard" target="_blank">GitHub</a>
+      </span>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

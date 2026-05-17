@@ -1,0 +1,73 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # Her 30 dakikada bir
+  push:
+    branches: [main]
+  workflow_dispatch:          # Manuel tetikleme
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "news"
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch news
+        run: python3 scripts/fetch_news.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet news.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "news-dashboard-bot"
+          git config user.email "bot@news-dashboard"
+          git add news.json
+          git commit -m "chore: update news [skip ci]"
+          git push
+
+  deploy:
+    needs: fetch
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
