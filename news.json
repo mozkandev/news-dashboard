@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-17T21:27:24.572271+00:00",
+  "updated_at": "2026-05-17T22:27:06.820432+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Prolog Coding Horror",
+        "link": "https://www.metalevel.at/prolog/horror",
+        "description": "Article URL: https://www.metalevel.at/prolog/horror Comments URL: https://news.ycombinator.com/item?id=48173268 Points: 17 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-17T21:15:51+00:00"
+      },
       {
         "title": "Galaxy M47’nin Özellikleri Sızdı",
         "link": "https://shiftdelete.net/galaxy-m47nin-ozellikleri-sizdi",
         "description": "Samsung Galaxy M47, Geekbench testinde Snapdragon 6 Gen 3 işlemcisiyle görüntülendi. İşte yeni Samsung telefon hakkında bilinen tüm detaylar.",
         "source": "ShiftDelete",
         "published": "2026-05-17T21:00:00+00:00"
-      },
-      {
-        "title": "Fired Atlassian engineer posts breakdown of every system he built",
-        "link": "https://twitter.com/polydao/status/2055197994635424038",
-        "description": "Article URL: https://twitter.com/polydao/status/2055197994635424038 Comments URL: https://news.ycombinator.com/item?id=48172847 Points: 12 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-05-17T20:20:02+00:00"
       },
       {
         "title": "Apple’s Siri revamp could include auto-deleting chats",
@@ -38,9 +38,9 @@
         "published": "2026-05-17T19:46:34+00:00"
       },
       {
-        "title": "VoIP brings back old-fashioned pay phones to rural Vermont",
+        "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
         "link": "https://spectrum.ieee.org/payphone-voip",
-        "description": "Article URL: https://spectrum.ieee.org/payphone-voip Comments URL: https://news.ycombinator.com/item?id=48172505 Points: 18 # Comments: 0",
+        "description": "Article URL: https://spectrum.ieee.org/payphone-voip Comments URL: https://news.ycombinator.com/item?id=48172505 Points: 68 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-05-17T19:39:10+00:00"
       },
@@ -61,7 +61,7 @@
       {
         "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
         "link": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
-        "description": "Article URL: https://www.sciencedaily.com/releases/2026/05/260513221821.htm Comments URL: https://news.ycombinator.com/item?id=48171906 Points: 31 # Comments: 19",
+        "description": "Article URL: https://www.sciencedaily.com/releases/2026/05/260513221821.htm Comments URL: https://news.ycombinator.com/item?id=48171906 Points: 36 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-05-17T18:42:35+00:00"
       },
@@ -96,7 +96,7 @@
       {
         "title": "The occasional ECONNRESET",
         "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-        "description": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html Comments URL: https://news.ycombinator.com/item?id=48170799 Points: 72 # Comments: 16",
+        "description": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html Comments URL: https://news.ycombinator.com/item?id=48170799 Points: 81 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-05-17T17:09:36+00:00"
       },
@@ -124,7 +124,7 @@
       {
         "title": "Don’t Outsource the Learning",
         "link": "https://addyosmani.com/blog/dont-outsource-learning/",
-        "description": "Article URL: https://addyosmani.com/blog/dont-outsource-learning/ Comments URL: https://news.ycombinator.com/item?id=48170118 Points: 28 # Comments: 11",
+        "description": "Article URL: https://addyosmani.com/blog/dont-outsource-learning/ Comments URL: https://news.ycombinator.com/item?id=48170118 Points: 39 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-05-17T16:04:08+00:00"
       },
@@ -157,13 +157,6 @@
         "published": "2026-05-17T15:00:00+00:00"
       },
       {
-        "title": "XS: A programming language. Anywhere, anytime, by anyone",
-        "link": "https://xslang.org",
-        "description": "Article URL: https://xslang.org Comments URL: https://news.ycombinator.com/item?id=48169424 Points: 52 # Comments: 33",
-        "source": "HackerNews",
-        "published": "2026-05-17T14:48:23+00:00"
-      },
-      {
         "title": "Revamped Siri will reportedly offer auto-deleting chats",
         "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
         "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut...",
@@ -180,23 +173,30 @@
       {
         "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
         "link": "https://github.com/tech4bot/rk3562deb",
-        "description": "Article URL: https://github.com/tech4bot/rk3562deb Comments URL: https://news.ycombinator.com/item?id=48168668 Points: 190 # Comments: 97",
+        "description": "Article URL: https://github.com/tech4bot/rk3562deb Comments URL: https://news.ycombinator.com/item?id=48168668 Points: 205 # Comments: 111",
         "source": "HackerNews",
         "published": "2026-05-17T13:16:27+00:00"
       },
       {
         "title": "AI is a technology not a product",
         "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-        "description": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 261 # Comments: 94",
+        "description": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 273 # Comments: 102",
         "source": "HackerNews",
         "published": "2026-05-17T13:11:20+00:00"
       },
       {
         "title": "CUDA Books",
         "link": "https://github.com/alternbits/awesome-cuda-books",
-        "description": "Article URL: https://github.com/alternbits/awesome-cuda-books Comments URL: https://news.ycombinator.com/item?id=48168485 Points: 88 # Comments: 17",
+        "description": "Article URL: https://github.com/alternbits/awesome-cuda-books Comments URL: https://news.ycombinator.com/item?id=48168485 Points: 99 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-05-17T12:52:06+00:00"
+      },
+      {
+        "title": "I don't think AI will make your processes go faster",
+        "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "description": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 446 # Comments: 318",
+        "source": "HackerNews",
+        "published": "2026-05-17T12:13:45+00:00"
       },
       {
         "title": "Oddity is masterfully tense horror from the director of Hokum",
@@ -504,7 +504,7 @@
       {
         "title": "Canada confirms first hantavirus case in isolation in British Columbia",
         "link": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia",
-        "description": "The person was on board the MV Hondius, the center of the outbreak that has claimed three lives Canadian officials said on Saturday that a test for one of the four Canadians currently quarantining in British Columbia after being exposed to the...",
+        "description": "The person was onboard the MV Hondius, the center of the outbreak that has claimed three lives Canadian officials said on Saturday that a test for one of the four Canadians currently quarantining in British Columbia after being exposed to the...",
         "source": "The Guardian",
         "published": "2026-05-16T20:12:56+00:00"
       },
@@ -567,25 +567,60 @@
     ],
     "turkiye": [
       {
-        "title": "Beton ve tuğla tarihe karışıyor: Dev yazıcıyla ev inşa ettiler",
-        "link": "https://www.sozcu.com.tr/beton-ve-tugla-tarihe-karisiyor-dev-yaziciyla-ev-insa-ettiler-p320474",
-        "description": "Beton ve tuğla tarihe karışıyor: Dev yazıcıyla ev inşa ettiler",
+        "title": "Rasim Ozan Kütahyalı'nın mal varlığı ortaya çıktı...",
+        "link": "https://www.sozcu.com.tr/rasim-ozan-kutahyali-neleri-var-mal-varligi-nedir-p320462",
+        "description": "Rasim Ozan Kütahyalı'nın mal varlığı ortaya çıktı...",
         "source": "Sözcü",
-        "published": "2026-05-18T00:25:02+03:00"
+        "published": "2026-05-18T01:09:00+03:00"
+      },
+      {
+        "title": "AKP'li Metin Külünk'ten çarpıcı çıkış: Seçmen Cumhur İttifakı'nı dövmek istiyor",
+        "link": "https://www.sozcu.com.tr/metin-kulunk-akp-uyari-p320479",
+        "description": "AKP'li Metin Külünk'ten çarpıcı çıkış: Seçmen Cumhur İttifakı'nı dövmek istiyor",
+        "source": "Sözcü",
+        "published": "2026-05-18T01:02:02+03:00"
+      },
+      {
+        "title": "Her yıl kurdukları dev bambu köprüyle iki bölgeyi birbirine bağlıyorlar",
+        "link": "https://www.sozcu.com.tr/her-yil-kurduklari-dev-bambu-kopruyle-iki-bolgeyi-birbirine-bagliyorlar-p320480",
+        "description": "Her yıl kurdukları dev bambu köprüyle iki bölgeyi birbirine bağlıyorlar",
+        "source": "Sözcü",
+        "published": "2026-05-18T01:01:09+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Mayıs 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-mayis-2026-1724778",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-18T00:00:00+03:00"
+        "published": "2026-05-18T01:00:01+03:00"
       },
       {
-        "title": "Rasim Ozan Kütahyalı'nın mal varlığı ortaya çıktı...",
-        "link": "https://www.sozcu.com.tr/rasim-ozan-kutahyali-neleri-var-mal-varligi-nedir-p320462",
-        "description": "Rasim Ozan Kütahyalı'nın mal varlığı ortaya çıktı...",
+        "title": "Alacak tartışmasında akrabasına kurşun yağdırdı",
+        "link": "https://www.sozcu.com.tr/alacak-tartismasinda-akrabasina-kursun-yagdirdi-p320478",
+        "description": "Alacak tartışmasında akrabasına kurşun yağdırdı",
         "source": "Sözcü",
-        "published": "2026-05-17T23:47:03+03:00"
+        "published": "2026-05-18T00:53:36+03:00"
+      },
+      {
+        "title": "ABD ordusuna şok! Uçaklar havada çapıştı",
+        "link": "https://www.sozcu.com.tr/abd-ordusuna-sok-ucaklar-havada-capisti-p320466",
+        "description": "ABD ordusuna şok! Uçaklar havada çapıştı",
+        "source": "Sözcü",
+        "published": "2026-05-18T00:33:32+03:00"
+      },
+      {
+        "title": "Okan Buruk'tan Mauro Icardi açıklaması",
+        "link": "https://www.sozcu.com.tr/okan-buruk-tan-mauro-icardi-aciklamasi-p320476",
+        "description": "Okan Buruk'tan Mauro Icardi açıklaması",
+        "source": "Sözcü",
+        "published": "2026-05-18T00:29:31+03:00"
+      },
+      {
+        "title": "Beton ve tuğla tarihe karışıyor: Dev yazıcıyla ev inşa ettiler",
+        "link": "https://www.sozcu.com.tr/beton-ve-tugla-tarihe-karisiyor-dev-yaziciyla-ev-insa-ettiler-p320474",
+        "description": "Beton ve tuğla tarihe karışıyor: Dev yazıcıyla ev inşa ettiler",
+        "source": "Sözcü",
+        "published": "2026-05-18T00:25:02+03:00"
       },
       {
         "title": "Süper Lig'de 2 gol kralı çıktı!",
@@ -607,41 +642,6 @@
         "description": "Gençlerbirliği Trabzon'u yendi, ligde kaldı",
         "source": "Sözcü",
         "published": "2026-05-17T23:20:22+03:00"
-      },
-      {
-        "title": "Küme düştüler sahaya daldılar! Eski Trabzonspor teknik direktörüne saldırdılar",
-        "link": "https://www.sozcu.com.tr/kume-dustuler-sahaya-daldilar-eski-trabzonspor-teknik-direktorune-saldirdilar-p320456",
-        "description": "Küme düştüler sahaya daldılar! Eski Trabzonspor teknik direktörüne saldırdılar",
-        "source": "Sözcü",
-        "published": "2026-05-17T23:15:06+03:00"
-      },
-      {
-        "title": "Tarihe geçen hakem skandalı! Neymar'ı yanlışlıkla oyundan çıkardı",
-        "link": "https://www.sozcu.com.tr/tarihe-gecen-hakem-skandali-neymar-i-yanlislikla-oyundan-cikardi-p320452",
-        "description": "Tarihe geçen hakem skandalı! Neymar'ı yanlışlıkla oyundan çıkardı",
-        "source": "Sözcü",
-        "published": "2026-05-17T23:05:47+03:00"
-      },
-      {
-        "title": "Bursa'da akılalmaz olay: İki çocuk Fenerbahçeliler Derneği'ni ateşe verdi",
-        "link": "https://www.sozcu.com.tr/bursa-inegolr-fenerbahce-dernegi-yangin-p320447",
-        "description": "Bursa'da akılalmaz olay: İki çocuk Fenerbahçeliler Derneği'ni ateşe verdi",
-        "source": "Sözcü",
-        "published": "2026-05-17T22:49:32+03:00"
-      },
-      {
-        "title": "Tonlarca ağırlıktaki kaya düşecek gibi görünüyor ama yıllardır yerinden oynamıyor",
-        "link": "https://www.sozcu.com.tr/tonlarca-agirliktaki-kaya-dusecek-gibi-gorunuyor-ama-yillardir-yerinden-oynamiyor-p320449",
-        "description": "Tonlarca ağırlıktaki kaya düşecek gibi görünüyor ama yıllardır yerinden oynamıyor",
-        "source": "Sözcü",
-        "published": "2026-05-17T22:30:43+03:00"
-      },
-      {
-        "title": "Antalyaspor küme düşen son takım oldu!",
-        "link": "https://www.sozcu.com.tr/antalyaspor-kume-dusen-son-takim-oldu-p320446",
-        "description": "Antalyaspor küme düşen son takım oldu!",
-        "source": "Sözcü",
-        "published": "2026-05-17T22:12:52+03:00"
       },
       {
         "title": "Kavga ihbarına giden iki polis şehit oldu",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8597
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+87°F",
-    "wind": "↑17mph",
-    "humidity": "43%"
+    "condition": "Güneşli",
+    "temp": "+92°F",
+    "wind": "↗7mph",
+    "humidity": "34%"
   }
 }
