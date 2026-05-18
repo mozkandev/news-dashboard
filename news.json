@@ -1,76 +1,146 @@
 {
-  "updated_at": "2026-05-18T03:41:42.846708+00:00",
+  "updated_at": "2026-05-18T08:04:31.811780+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "There Is No 'Hard Problem of Consciousness'",
+        "title": "iPhone Üreticisi Foxconn, Türkiye'de Telefon Üretimine Başlıyor",
+        "link": "\n                    https://www.webtekno.com/iphone-ureticisi-foxconn-turkiye-telefon-uretimine-basliyor-h217035.html\n                    ",
+        "description": "iPhone'un üretim havuzunun büyük kısmını sağlayan Foxconn, yakında Türkiye'ye geri dönüyor.",
+        "source": "Webtekno",
+        "published": "2026-05-18T10:37:29+03:00"
+      },
+      {
+        "title": "Korkunç İddia: Telefon Fiyatlarına %40 Zam Geliyor!",
+        "link": "\n                    https://www.webtekno.com/telefon-fiyatlari-yuzde-40-zam-geliyor-h217032.html\n                    ",
+        "description": "General Mobile Yöneticisi İlkay Cihaner, akıllı telefon fiyatlarına bu yıl %40 zam gelebileceğini açıkladı.",
+        "source": "Webtekno",
+        "published": "2026-05-18T09:57:18+03:00"
+      },
+      {
+        "title": "Türkiye'nin İlk Katlanabilir Telefonu Geliyor!",
+        "link": "\n                    https://www.webtekno.com/turkiye-ilk-katlanabilir-telefonu-geliyor-h217030.html\n                    ",
+        "description": "Çok yakında Türkiye'nin ilk yerli katlanabilir telefonunun geleceği açıklandı. İşte markası.",
+        "source": "Webtekno",
+        "published": "2026-05-18T09:56:59+03:00"
+      },
+      {
+        "title": "GTA 6 Çıkış Tarihi Kesinleşti!",
+        "link": "https://shiftdelete.net/gta-6-cikis-tarihi-kesinlesti",
+        "description": "GTA 6 cephesinden resmi ve çok önemli açıklamalar gelmeye devam ediyor. Rockstar Games’in çatı şirketi olan Take-Two Interactive’in CEO’su Strauss Zelnick, katıldığı son röportajda oyun dünyasını heyecanlandıran detayları paylaşıyor. Sektörde...",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T08:00:30+00:00"
+      },
+      {
+        "title": "Samsung Exynos 2800 ile Telefonlarda Yeni Dönem Başlıyor",
+        "link": "https://shiftdelete.net/samsung-exynos-2800-ile-telefonlarda-yeni-donem-basliyor",
+        "description": "Samsung, mobil işlemci pazarında devrim yaratacak yeni bir teknoloji üzerinde çalışıyor. Akıllı telefonlarda ve tabletlerde bulut tabanlı sistemlere olan bağımlılığı azaltarak yapay zeka işlemlerini doğrudan cihaz içinde (on-device AI) çözmeyi...",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T07:30:27+00:00"
+      },
+      {
+        "title": "Xiaomi Yeni XRING O3 İşlemcisini Yıl Sonunda Tanıtıyor",
+        "link": "https://shiftdelete.net/xiaomi-yeni-xring-o3-islemcisini-yil-sonunda-tanitiyor",
+        "description": "Telefon pazarında donanım bağımsızlığı elde etmek, küresel teknoloji devlerinin en büyük stratejik hedefleri arasında yer alıyor. Bu doğrultuda geçtiğimiz yıl kendi geliştirdiği ilk mobil işlemcisi XRING O1 ile büyük sükse yaratan Xiaomi, vites...",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T07:00:48+00:00"
+      },
+      {
+        "title": "Türkiye’de İlk: Yerli Üretim Katlanabilir Telefon Ekim Ayında General Mobile’dan Geliyor",
+        "link": "https://shiftdelete.net/turkiyede-ilk-yerli-uretim-katlanabilir-telefon-ekim-ayinda-general-mobiledan-geliyor",
+        "description": "Ülkemizin önde gelen yerli teknoloji markalarından General Mobile, sektöre damga vuracak yeni projesini paylaşıyor. Şirket tarafından yapılan resmi açıklamalara göre, Türkiye’nin ilk yerli üretim logolu katlanabilir akıllı telefonu önümüzdeki ekim...",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T06:46:40+00:00"
+      },
+      {
+        "title": "Huawei Fotoğraf Yarışmasında Dünya İkincisi Olan Türk Fotoğrafçının Ödül Krizi Mutlu Sonla Bitti",
+        "link": "https://shiftdelete.net/huawei-fotograf-yarismasinda-dunya-ikincisi-olan-turk-fotografcinin-odul-krizi-mutlu-sonla-bitti",
+        "description": "Huawei tarafından düzenlenen ve mobil fotoğrafçılık dünyasının en prestijli organizasyonlarından biri olan Huawei XMAGE Mobil Fotoğrafçılık Ödülleri’nde dünya ikincisi olarak göğsümüzü kabartan Tokatlı fotoğrafçı Mehmet Emin Coruş, aylardır...",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T06:30:58+00:00"
+      },
+      {
+        "title": "Türkiye Teknoloji Üssü Oluyor: General Mobile ve Foxconn Üretim için Dev Ortaklığa İmza Attı",
+        "link": "https://shiftdelete.net/turkiye-teknoloji-ussu-oluyor-general-mobile-ve-foxconn-uretim-icin-dev-ortakliga-imza-atti",
+        "description": "General Mobile, küresel elektronik imalat pazarının en büyük oyuncusu ve Apple’ın da ana üreticisi konumundaki Tayvan merkezli Foxconn ile devasa bir iş birliğine imza atıyor. İki şirket arasında temelleri 2021 yılında atılan stratejik ortaklık,...",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T06:14:04+00:00"
+      },
+      {
+        "title": "WIRED Türkiye Yayın Hayatına Başladı",
+        "link": "https://shiftdelete.net/wired-turkiye-yayin-hayatina-basladi",
+        "description": "WIRED, Turkuvaz Medya Grubu çatısı altında Türkiye’deki yayın hayatına resmen adım atıyor. Global vizyonu yerel dinamiklerle buluşturmayı hedefleyen WIRED Türkiye, 15 Mayıs’ta Rixos Tersane İstanbul’da düzenlenen görkemli bir lansman etkinliğiyle iş...",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T06:04:14+00:00"
+      },
+      {
+        "title": "Android 17’nin 3D Emojileri Sızdı",
+        "link": "https://shiftdelete.net/android-17nin-3d-emojileri-sizdi",
+        "description": "Android 17 ile gelecek olan yeni 3D emoji tasarımları internete sızdı. Google'ın Pixel telefonlar için hazırladığı yeni emojilere dair tüm detaylar burada.",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T06:00:00+00:00"
+      },
+      {
+        "title": "Bu Monitör Çantanıza Sığıyor",
+        "link": "https://shiftdelete.net/bu-monitor-cantaniza-sigiyor",
+        "description": "Aura Displays, katlanabilir 13.3 inç AMOLED panele sahip taşınabilir monitörü Single Flex Pro'yu tanıttı. İşte cihazın özellikleri ve fiyatı.",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T05:30:00+00:00"
+      },
+      {
+        "title": "Akıllı Telefon Fiyatlarında Yüzde 40 Artış İddiası",
+        "link": "https://shiftdelete.net/akilli-telefon-fiyatlarinda-yuzde-40-artis-iddiasi",
+        "description": "General Mobile Genel Müdür Yardımcısı İlkay Cihaner, küresel tedarik sorunları nedeniyle akıllı telefon fiyatlarında yüzde 40 artış bekliyor.",
+        "source": "ShiftDelete",
+        "published": "2026-05-18T05:00:00+00:00"
+      },
+      {
+        "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+        "link": "https://www.youtube.com/watch?v=1OIxzewWilc",
+        "description": "Article URL: https://www.youtube.com/watch?v=1OIxzewWilc Comments URL: https://news.ycombinator.com/item?id=48175637 Points: 21 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-05-18T04:38:58+00:00"
+      },
+      {
+        "title": "It is time to give up the dualism introduced by the debate on consciousness",
         "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-        "description": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/ Comments URL: https://news.ycombinator.com/item?id=48175140 Points: 12 # Comments: 7",
+        "description": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/ Comments URL: https://news.ycombinator.com/item?id=48175140 Points: 35 # Comments: 108",
         "source": "HackerNews",
         "published": "2026-05-18T02:59:34+00:00"
       },
       {
-        "title": "Most Americans don't trust AI – or the people in charge of it",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
-        "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 26 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-05-18T01:39:30+00:00"
-      },
-      {
         "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
         "link": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-        "description": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html Comments URL: https://news.ycombinator.com/item?id=48173962 Points: 14 # Comments: 1",
+        "description": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html Comments URL: https://news.ycombinator.com/item?id=48173962 Points: 106 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-05-17T23:10:09+00:00"
       },
       {
-        "title": "Design posters showcasing your country's electrical grid",
-        "link": "https://github.com/open-energy-transition/grid2poster",
-        "description": "Article URL: https://github.com/open-energy-transition/grid2poster Comments URL: https://news.ycombinator.com/item?id=48173849 Points: 67 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-05-17T22:47:05+00:00"
-      },
-      {
-        "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-        "link": "https://xca-attacks.github.io/fabricked/",
-        "description": "Article URL: https://xca-attacks.github.io/fabricked/ Comments URL: https://news.ycombinator.com/item?id=48173708 Points: 29 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-05-17T22:23:30+00:00"
-      },
-      {
         "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
         "link": "https://www.jdhodges.com/blog/thinkpad-history/",
-        "description": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 62 # Comments: 32",
+        "description": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 94 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-05-17T21:56:40+00:00"
       },
       {
         "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
         "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-        "description": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base Comments URL: https://news.ycombinator.com/item?id=48173468 Points: 126 # Comments: 106",
+        "description": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base Comments URL: https://news.ycombinator.com/item?id=48173468 Points: 187 # Comments: 170",
         "source": "HackerNews",
         "published": "2026-05-17T21:45:30+00:00"
       },
       {
         "title": "GenCAD",
         "link": "https://gencad.github.io/",
-        "description": "Article URL: https://gencad.github.io/ Comments URL: https://news.ycombinator.com/item?id=48173429 Points: 153 # Comments: 34",
+        "description": "Article URL: https://gencad.github.io/ Comments URL: https://news.ycombinator.com/item?id=48173429 Points: 271 # Comments: 66",
         "source": "HackerNews",
         "published": "2026-05-17T21:40:35+00:00"
       },
       {
         "title": "Prolog Coding Horror",
         "link": "https://www.metalevel.at/prolog/horror",
-        "description": "Article URL: https://www.metalevel.at/prolog/horror Comments URL: https://news.ycombinator.com/item?id=48173268 Points: 69 # Comments: 25",
+        "description": "Article URL: https://www.metalevel.at/prolog/horror Comments URL: https://news.ycombinator.com/item?id=48173268 Points: 119 # Comments: 48",
         "source": "HackerNews",
         "published": "2026-05-17T21:15:51+00:00"
-      },
-      {
-        "title": "Galaxy M47’nin Özellikleri Sızdı",
-        "link": "https://shiftdelete.net/galaxy-m47nin-ozellikleri-sizdi",
-        "description": "Samsung Galaxy M47, Geekbench testinde Snapdragon 6 Gen 3 işlemcisiyle görüntülendi. İşte yeni Samsung telefon hakkında bilinen tüm detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T21:00:00+00:00"
       },
       {
         "title": "Apple’s Siri revamp could include auto-deleting chats",
@@ -78,13 +148,6 @@
         "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
         "source": "TechCrunch",
         "published": "2026-05-17T20:15:00+00:00"
-      },
-      {
-        "title": "Forza Horizon 6 Steam’de Rekor Kırdı",
-        "link": "https://shiftdelete.net/forza-horizon-6-steamde-rekor-kirdi",
-        "description": "Forza Horizon 6, Steam'de 170.000 oyuncuyu geçerek serinin rekorunu kırdı. Oyunun detayları ve çıkış tarihi haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T20:00:00+00:00"
       },
       {
         "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
@@ -96,44 +159,9 @@
       {
         "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
         "link": "https://spectrum.ieee.org/payphone-voip",
-        "description": "Article URL: https://spectrum.ieee.org/payphone-voip Comments URL: https://news.ycombinator.com/item?id=48172505 Points: 124 # Comments: 37",
+        "description": "Article URL: https://spectrum.ieee.org/payphone-voip Comments URL: https://news.ycombinator.com/item?id=48172505 Points: 147 # Comments: 44",
         "source": "HackerNews",
         "published": "2026-05-17T19:39:10+00:00"
-      },
-      {
-        "title": "Sağlıkta Dijital Dönüşüm ve Yapay Zeka Etkisi",
-        "link": "https://shiftdelete.net/saglikta-dijital-donusum-ve-yapay-zeka-etkisi",
-        "description": "İnnova tarafından Ankara’da düzenlenen İnnova Proje Yönetişimi Zirvesi, “Yapay Zeka ile Güçlenen Liderlik” temasıyla teknoloji ve sağlık dünyasının zirvesini bir araya getirdi. Etkinlikte dikkat çeken en önemli konuşmalardan birini yapan Sağlık...",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T19:16:31+00:00"
-      },
-      {
-        "title": "Vatandaşa 1 Yıllık ChatGPT Plus Hediye: Şartlar Neler?",
-        "link": "https://shiftdelete.net/vatandasa-1-yillik-chatgpt-plus-hediye-sartlar-neler",
-        "description": "OpenAI, Malta ile yaptığı iş birliği kapsamında vatandaşlara bir yıl boyunca ücretsiz ChatGPT Plus aboneliği sunacağını açıkladı.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T19:00:00+00:00"
-      },
-      {
-        "title": "X’te Mavi Tikiniz Yoksa Paylaşım Yapamayacaksınız",
-        "link": "https://shiftdelete.net/xte-mavi-tikiniz-yoksa-paylasim-yapamayacaksiniz",
-        "description": "X, onaylanmamış hesaplar için günlük paylaşım limitlerini güncelledi. Artık bu hesaplar günde en fazla 50 orijinal paylaşım yapabilecek.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T18:18:00+00:00"
-      },
-      {
-        "title": "ASELSAN KORKUT Sistemiyle Şov Yaptı",
-        "link": "https://shiftdelete.net/aselsan-korkut-sistemiyle-sov-yapti",
-        "description": "ASELSAN, EFES-2026 Tatbikatı'nda sergilenen KORKUT Hava Savunma Top Sistemi'nin atış görüntülerini paylaştı. Sistemin teknik özellikleri ve detayları haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T18:17:00+00:00"
-      },
-      {
-        "title": "iPhone Fold Kalite Testini Geçemedi",
-        "link": "https://shiftdelete.net/iphone-fold-kalite-testini-gecemedi",
-        "description": "Apple'ın geliştirdiği iPhone Fold modelinde menteşe mekanizması kaynaklı üretim sorunları yaşanıyor. İşte katlanabilir telefon hakkındaki son detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T18:00:00+00:00"
       },
       {
         "title": "Microsoft is retiring Teams’ Together Mode",
@@ -141,13 +169,6 @@
         "description": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being...",
         "source": "The Verge",
         "published": "2026-05-17T17:15:28-04:00"
-      },
-      {
-        "title": "YouTube’un Deepfake Tespit Aracı Herkese Açıldı",
-        "link": "https://shiftdelete.net/youtubeun-deepfake-tespit-araci-herkese-acildi",
-        "description": "YouTube, yapay zeka ile oluşturulan deepfake içeriklerini tespit eden aracını 18 yaş ve üzeri tüm içerik üreticilerine açıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T17:00:00+00:00"
       },
       {
         "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
@@ -164,18 +185,11 @@
         "published": "2026-05-17T16:05:00+00:00"
       },
       {
-        "title": "Galaxy S24’e One UI 8.5 Geldi",
-        "link": "https://shiftdelete.net/galaxy-s24e-one-ui-8-5-geldi",
-        "description": "Samsung, Galaxy S24 serisi ve katlanabilir modelleri için One UI 8.5 güncellemesini ABD'de başlattı. Güncelleme detaylarına ve kontrol yöntemine göz atın.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T16:00:00+00:00"
-      },
-      {
-        "title": "Microsoft’un Veri Merkezi Ülkenin Elektriğini Kesiyor",
-        "link": "https://shiftdelete.net/microsoftun-veri-merkezi-ulkenin-elektrigini-kesiyor",
-        "description": "Microsoft ve G42'nin Kenya'daki 1 milyar dolarlık veri merkezi projesi, finansal ve enerji kaynaklı anlaşmazlıklar nedeniyle duraksadı.",
-        "source": "ShiftDelete",
-        "published": "2026-05-17T15:30:00+00:00"
+        "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+        "link": "https://github.com/MinishLab/semble",
+        "description": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching...",
+        "source": "HackerNews",
+        "published": "2026-05-17T15:37:07+00:00"
       },
       {
         "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its physical-world thesis",
@@ -197,6 +211,13 @@
         "description": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising...",
         "source": "The Verge",
         "published": "2026-05-17T13:22:23-04:00"
+      },
+      {
+        "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+        "link": "https://github.com/tech4bot/rk3562deb",
+        "description": "Article URL: https://github.com/tech4bot/rk3562deb Comments URL: https://news.ycombinator.com/item?id=48168668 Points: 337 # Comments: 153",
+        "source": "HackerNews",
+        "published": "2026-05-17T13:16:27+00:00"
       },
       {
         "title": "Oddity is masterfully tense horror from the director of Hokum",
@@ -304,27 +325,6 @@
         "published": "2026-05-16T11:19:55+03:00"
       },
       {
-        "title": "Xbox'ın Adı Artık XBOX Oldu",
-        "link": "\n                    https://www.webtekno.com/xbox-adi-artik-xbox-oldu-h217015.html\n                    ",
-        "description": "Xbox CEO'su Asha Sharma, kullanıcılara sorduğu anketin sonuçlanmasının ardından markanın yazılış şeklini büyük harflerle XBOX olarak değiştirdi.",
-        "source": "Webtekno",
-        "published": "2026-05-16T11:00:01+03:00"
-      },
-      {
-        "title": "[16-31 Mayıs] GeForce NOW'a Eklenecek Yeni Oyunlar Açıklandı",
-        "link": "\n                    https://www.webtekno.com/16-31-mayis-geforce-now-yeni-oyunlar-h217014.html\n                    ",
-        "description": "NVIDIA, bulut oyun platformu NVIDIA GeForce NOW'a her ay yepyeni oyunlar ekliyor. Bu ay eklenecek yeni oyunlar da açıklanmış durumda.",
-        "source": "Webtekno",
-        "published": "2026-05-16T10:26:43+03:00"
-      },
-      {
-        "title": "130 TL Değerindeki Oyun Steam'de Ücretsiz Oldu",
-        "link": "\n                    https://www.webtekno.com/dino-running-from-a-furry-gamesforfarm-steam-ucretsiz-oyun-h217011.html\n                    ",
-        "description": "Steam'de bu hafta bir oyun daha ücretsiz olarak dağıtılıyor.",
-        "source": "Webtekno",
-        "published": "2026-05-16T09:52:37+03:00"
-      },
-      {
         "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
         "link": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
         "description": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical...",
@@ -355,6 +355,41 @@
     ],
     "dunya": [
       {
+        "title": "Early intervention and tougher action against parents to tackle youth crime",
+        "link": "https://www.bbc.com/news/articles/cx21p5qp23xo?at_medium=RSS&at_campaign=rss",
+        "description": "The measures aim to prevent reoffending but campaigners say they fall short of the \"ambitious action\" needed.",
+        "source": "BBC News",
+        "published": "2026-05-18T07:49:02+00:00"
+      },
+      {
+        "title": "Escaped tiger shot by German police after attacking man",
+        "link": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
+        "description": "The tiger escaped a facility owned by local trainer Carmen Zander, also known as Germany's \"Tiger Queen\", according to local media reports.",
+        "source": "BBC News",
+        "published": "2026-05-18T07:07:53+00:00"
+      },
+      {
+        "title": "UK companies linked to payments for small-boat crossings, BBC finds",
+        "link": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss",
+        "description": "Smugglers are directing migrants to pay using a network of British businesses, secret filming reveals.",
+        "source": "BBC News",
+        "published": "2026-05-18T05:00:33+00:00"
+      },
+      {
+        "title": "Peru's electoral board confirms June 7 presidential runoff",
+        "link": "https://www.npr.org/2026/05/18/g-s1-122536/peru-presidential-runoff",
+        "description": "Authorities confirmed on Sunday the official results of the first round of the presidential elections in early April, with Keiko Fujimori and Roberto Sánchez advancing to the runoff on June 7.",
+        "source": "NPR",
+        "published": "2026-05-18T01:50:23-04:00"
+      },
+      {
+        "title": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
+        "link": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant",
+        "description": "A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an \"unprovoked terrorist attack.\"",
+        "source": "NPR",
+        "published": "2026-05-18T01:37:00-04:00"
+      },
+      {
         "title": "Moment two fighter jets collide mid-air at US air show",
         "link": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
         "description": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
@@ -383,13 +418,6 @@
         "published": "2026-05-17T23:02:56+00:00"
       },
       {
-        "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
-        "link": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
-        "description": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
-        "source": "BBC News",
-        "published": "2026-05-17T23:02:15+00:00"
-      },
-      {
         "title": "'All I thought about was running for my life': Footballer recalls train stabbing attack",
         "link": "https://www.bbc.com/sport/football/articles/cp8py1n500lo?at_medium=RSS&at_campaign=rss",
         "description": "Footballer Jonathan Gjoshe was among the 11 passengers seriously injured in a knife attack on a train as it travelled through Cambridgeshire last November.",
@@ -409,13 +437,6 @@
         "description": "The number of people killed in state-sanctioned executions worldwide rose to a 44-year high in 2025, according to a new report from Amnesty International.",
         "source": "NPR",
         "published": "2026-05-17T20:01:00-04:00"
-      },
-      {
-        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-        "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
-        "source": "BBC News",
-        "published": "2026-05-17T19:23:20+00:00"
       },
       {
         "title": "Military aircrew in 'stable condition' following midair collision at Idaho air show",
@@ -444,13 +465,6 @@
         "description": "Thousands of people rallied Saturday in Montgomery, Alabama, to push back against conservative states' efforts to dismantle congressional districts that helped secure Black political representation.",
         "source": "NPR",
         "published": "2026-05-17T12:21:03-04:00"
-      },
-      {
-        "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
-        "link": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss",
-        "description": "Culture Secretary Lisa Nandy tells the BBC that the prime minister has \"shown before that he's up for a fight\" and she \"wouldn't write [him] off\".",
-        "source": "BBC News",
-        "published": "2026-05-17T11:11:31+00:00"
       },
       {
         "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others",
@@ -486,20 +500,6 @@
         "description": "Firefighters say setting fires on purpose is one of the best ways to protect against massive wildfires later. But the Trump administration is banning or stalling preventative burning across the U.S.",
         "source": "NPR",
         "published": "2026-05-17T05:00:00-04:00"
-      },
-      {
-        "title": "How a CEO and Trump donor is weaponizing tariffs against his rivals",
-        "link": "https://www.npr.org/2026/05/17/nx-s1-5726366/ceo-trump-donor-quartz-kitchen-countertop-tariffs",
-        "description": "Cambria CEO Marty Davis has successfully asked the U.S. government to put tariffs on quartz. His business competitors are crying foul.",
-        "source": "NPR",
-        "published": "2026-05-17T05:00:00-04:00"
-      },
-      {
-        "title": "New York Magazine reviewing work of writer facing plagiarism allegations",
-        "link": "https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan",
-        "description": "The high-profile writer, who has written a forthcoming book about New York Mayor Zohran Mamdani, is being investigated by the magazine after being called out for copying the work of other writers.",
-        "source": "NPR",
-        "published": "2026-05-17T00:23:48-04:00"
       },
       {
         "title": "Canada confirms first hantavirus case in isolation in British Columbia",
@@ -567,60 +567,165 @@
     ],
     "turkiye": [
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Mayıs 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-mayis-2026-1724778",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-05-18T06:30:00+03:00"
+        "title": "Son Dakika: İsrail Sumud filosuna saldırıyor",
+        "link": "https://www.sozcu.com.tr/son-dakika-israil-sumud-filosuna-saldiriyor-p320575",
+        "description": "Son Dakika: İsrail Sumud filosuna saldırıyor",
+        "source": "Sözcü",
+        "published": "2026-05-18T11:02:19+03:00"
       },
       {
-        "title": "MHP lideri Bahçeli'den süreç için yeni hamle önerisi",
+        "title": "Bursaspor'dan dünyada ses getirecek transfer",
+        "link": "https://www.sozcu.com.tr/bursaspor-dan-dunyada-ses-getirecek-transfer-p320579",
+        "description": "Bursaspor'dan dünyada ses getirecek transfer",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:55:01+03:00"
+      },
+      {
+        "title": "Masum bir fotoğraf çekerken bir anda parmak iziniz çalınabilir",
+        "link": "https://www.sozcu.com.tr/masum-bir-fotograf-cekerken-bir-anda-parmak-iziniz-calinabilir-p320578",
+        "description": "Masum bir fotoğraf çekerken bir anda parmak iziniz çalınabilir",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:52:54+03:00"
+      },
+      {
+        "title": "Tekne kazasında bacağını kaybetmişti: Survivor yarışmacısı Stavros Floros'un son hali...",
+        "link": "https://www.sozcu.com.tr/tekne-kazasinda-bacagini-kaybetmisti-survivor-yarismacisi-stavros-floros-un-son-hali-p320567",
+        "description": "Tekne kazasında bacağını kaybetmişti: Survivor yarışmacısı Stavros Floros'un son hali...",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:47:58+03:00"
+      },
+      {
+        "title": "Elektrikli aracına izinsiz şarj pahalıya patladı! Doktora milyonluk ceza",
+        "link": "https://www.sozcu.com.tr/elektrikli-aracina-izinsiz-sarj-pahaliya-patladi-doktora-milyonluk-ceza-p320573",
+        "description": "Elektrikli aracına izinsiz şarj pahalıya patladı! Doktora milyonluk ceza",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:45:52+03:00"
+      },
+      {
+        "title": "SOLOTÜRK ve Türk Yıldızları nefes kesti",
+        "link": "https://www.ntv.com.tr/turkiye/video-soloturk-ve-turk-yildizlari-nefes-kesti-1724822",
+        "description": "Samsun'da 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı etkinlikleri kapsamında gösteri yapacak olan SOLOTÜRK ve Türk Yıldızları, prova uçuşu gerçekleştirdi.",
+        "source": "NTV",
+        "published": "2026-05-18T10:31:28+03:00"
+      },
+      {
+        "title": "CHP’nin yeni miting adresi belli oldu",
+        "link": "https://www.sozcu.com.tr/chp-nin-yeni-mitinginin-adresi-belli-oldu-p320564",
+        "description": "CHP’nin yeni miting adresi belli oldu",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:28:15+03:00"
+      },
+      {
+        "title": "Tüketicinin güveni mayısta yükseldi",
+        "link": "https://www.sozcu.com.tr/tuketicinin-guveni-mayista-yukseldi-p320560",
+        "description": "Tüketicinin güveni mayısta yükseldi",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:20:21+03:00"
+      },
+      {
+        "title": "Antalya'da kan donduran olay sonrası katil konuştu! Selektör katliamı...",
+        "link": "https://www.sozcu.com.tr/antalya-da-kan-donduran-olay-sonrasi-katil-konustu-selektor-katliami-p320558",
+        "description": "Antalya'da kan donduran olay sonrası katil konuştu! Selektör katliamı...",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:19:16+03:00"
+      },
+      {
+        "title": "Komşu ülkenin inadına 2 kilometrelik baraj inşa edip su bağımsızlığını ilan edecekler",
+        "link": "https://www.sozcu.com.tr/komsu-ulkenin-inadina-2-kilometrelik-baraj-insa-edip-su-bagimsizligini-ilan-edecekler-p320557",
+        "description": "Komşu ülkenin inadına 2 kilometrelik baraj inşa edip su bağımsızlığını ilan edecekler",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:14:53+03:00"
+      },
+      {
+        "title": "Dünyada sadece Türkiye'de var: Bir tek onların girmesine izin veriliyor",
+        "link": "https://www.sozcu.com.tr/dunyada-sadece-turkiye-de-var-bir-tek-onlarin-girmesine-izin-veriliyor-p320556",
+        "description": "Dünyada sadece Türkiye'de var: Bir tek onların girmesine izin veriliyor",
+        "source": "Sözcü",
+        "published": "2026-05-18T10:12:53+03:00"
+      },
+      {
+        "title": "20 ilde yasa dışı bahis operasyonu: 183 gözaltı kararı",
+        "link": "https://www.ntv.com.tr/turkiye/20-ilde-yasa-disi-bahis-operasyonu-183-gozalti-karari-1724812",
+        "description": "Antalya merkezli 20 ilde düzenlenen yasa dışı bahis operasyonunda 183 şüpheli hakkında gözaltı kararı verildi. Şüphelilerin hesaplarında 11,3 milyar lirayı aşan işlem hacmi tespit edildi.",
+        "source": "NTV",
+        "published": "2026-05-18T09:48:15+03:00"
+      },
+      {
+        "title": "Tepebaşı Belediyesi'ne yolsuzluk operasyonu: 25 şüpheli adliyede",
+        "link": "https://www.ntv.com.tr/turkiye/tepebasi-belediyesine-yolsuzluk-operasyonu-25-supheli-adliyede-1724815",
+        "description": "CHP'li Eskişehir Tepebaşı Belediyesi'ne yönelik gerçekleştirilen yolsuzluk operasyonunda gözaltına alınan 25 şüpheli adliyeye sevk edildi.",
+        "source": "NTV",
+        "published": "2026-05-18T09:43:21+03:00"
+      },
+      {
+        "title": "İBB'ye yeni dalga operasyon. 57 kişi gözaltına alındı",
+        "link": "https://www.ntv.com.tr/turkiye/ibbye-yeni-dalga-operasyon-57-kisi-gozaltina-alindi-1724799",
+        "description": "İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik yeni dalga operasyonda, Boğaziçi A.Ş.'de ihaleye fesat karıştırdıkları iddiasıyla 57 şüpheli gözaltına alındı.",
+        "source": "NTV",
+        "published": "2026-05-18T09:25:47+03:00"
+      },
+      {
+        "title": "Yasa dışı bahis soruşturması. Rasim Ozan Kütahyalı tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-yasa-disi-bahis-sorusturmasi-rasim-ozan-kutahyali-tutuklandi-1724803",
+        "description": "Adana merkezli yürütülen yasa dışı bahis operasyonu kapsamında gözaltına alınan Rasim Ozan Kütahyalı tutuklandı.",
+        "source": "NTV",
+        "published": "2026-05-18T08:56:15+03:00"
+      },
+      {
+        "title": "Resmi Gazete'de bugün (18 Mayıs 2026 Resmi Gazete kararları)",
+        "link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-18-mayis-2026-resmi-gazete-kararlari-1724802",
+        "description": "Resmi Gazete'de 18 Mayıs 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 18 Mayıs 2026 tarihli ve 33257 Sayılı Resmi Gazete ayrıntıları.",
+        "source": "NTV",
+        "published": "2026-05-18T08:50:21+03:00"
+      },
+      {
+        "title": "Kontrolden çıkan otomobil dereye uçtu",
+        "link": "https://www.ntv.com.tr/turkiye/video-kontrolden-cikan-otomobil-dereye-uctu-1724807",
+        "description": "Düzce'nin Yığılca ilçesinde kontrolden çıkarak dereye uçan otomobilin sürücüsü yaralandı.",
+        "source": "NTV",
+        "published": "2026-05-18T08:37:28+03:00"
+      },
+      {
+        "title": "İBB'ye yeni operasyonda 57 kişi gözaltına alındı",
+        "link": "https://www.bbc.com/turkce/articles/c9q3wvy2r40o?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul Büyükşehir Belediyesi iştiraki Boğaziçi AŞ'ye \"ihaleye fesat karıştırma\" suçlamasıyla düzenlenen operasyonda aralarında şirketin genel müdürü Sema Akça'nın da bulunduğu 57 kişi gözaltına alındı",
+        "source": "BBC Turkish",
+        "published": "2026-05-18T07:54:14+00:00"
+      },
+      {
+        "title": "Bahçeli'den Terörsüz Türkiye süreci için yeni öneriler",
         "link": "https://www.ntv.com.tr/turkiye/mhp-lideri-bahceliden-surec-icin-yeni-hamle-onerisi-1724788",
-        "description": "MHP Genel Başkanı Devlet Bahçeli \"Terörsüz Türkiye\" sürecine ilişkin yeni değerlendirmelerde bulundu. Bahçeli, \"Öcalan'ın mahkumiyet hali saklı kalmak üzere bir sosyal statüyle teçhiz edilmesi, Öcalan'ın münfesih PKK'nın kurucu önderliği yerine,...",
+        "description": "MHP Genel Başkanı Devlet Bahçeli \"Terörsüz Türkiye\" sürecinde yeni bir hamleye ve buna bağlı yol haritasına ihtiyaç bulunduğunu belirterek, \"Öcalan'ın mahkumiyet hali saklı kalmak üzere bir sosyal statüyle teçhiz edilmesini\" önerdi. Bahçeli,...",
         "source": "NTV",
-        "published": "2026-05-18T05:49:30+03:00"
+        "published": "2026-05-18T07:42:03+03:00"
       },
       {
-        "title": "'Yasak aşk' skandalında yeni gelişme: Başkaları da varmış",
-        "link": "https://www.sozcu.com.tr/yasak-ask-skandalinda-yeni-gelisme-baskalari-da-varmis-p320486",
-        "description": "'Yasak aşk' skandalında yeni gelişme: Başkaları da varmış",
-        "source": "Sözcü",
-        "published": "2026-05-18T05:30:20+03:00"
+        "title": "İBB'ye ihale operasyonu. gözaltına alınan 12 kişi adliyeye sevk edildi",
+        "link": "https://www.ntv.com.tr/turkiye/ibbye-ihale-operasyonu-gozaltina-alinan-12-kisi-adliyeye-sevk-edildi-1724791",
+        "description": "İBB'ye yönelik yolsuzluk soruşturması kapsamında, İstanbul Büyükşehir Belediyesi Yol Bakım ve Onarım Şube Müdürlüğü'nce ve Elektronik Sistemler Şube Müdürlüğü'nce ihalelere fesat karıştırıldığı iddiasıyla gözaltına alınan 12 şüpheli adliyeye sevk...",
+        "source": "NTV",
+        "published": "2026-05-18T07:25:02+03:00"
       },
       {
-        "title": "‘Babanın malını mı satıyorsun’ diyerek hastaneyi kurtardılar",
-        "link": "https://www.sozcu.com.tr/babanin-malini-mi-satiyorsun-diyerek-hastaneyi-kurtardilar-p320485",
-        "description": "‘Babanın malını mı satıyorsun’ diyerek hastaneyi kurtardılar",
-        "source": "Sözcü",
-        "published": "2026-05-18T05:30:20+03:00"
+        "title": "Bahçeli'den Öcalan için 'sosyal statü' çağrısı",
+        "link": "https://www.bbc.com/turkce/articles/czx2kv2v9d0o?at_medium=RSS&at_campaign=rss",
+        "description": "MHP Genel Başkanı Devlet Bahçeli, PKK lideri Abdullah Öcalan'a yeni bir sosyal statü verilmesi gerektiğini söyledi. Bahçeli ayrıca sürecin sürdürülebilmesi için iki ayrı komisyon önerdi.",
+        "source": "BBC Turkish",
+        "published": "2026-05-18T07:08:06+00:00"
       },
       {
-        "title": "Lükste başbakanı sollayan AKP’li",
-        "link": "https://www.sozcu.com.tr/lukste-basbakani-sollayan-akp-li-p320484",
-        "description": "Lükste başbakanı sollayan AKP’li",
-        "source": "Sözcü",
-        "published": "2026-05-18T05:30:20+03:00"
+        "title": "Yasa dışı bahis operasyonu: Rasim Ozan Kütahyalı tutuklandı",
+        "link": "https://www.bbc.com/turkce/articles/c8930qne97wo?at_medium=RSS&at_campaign=rss",
+        "description": "Adana merkezli \"yasa dışı bahis, kara para aklama, rüşvet ve dolandırıcılık\" suçlamalarıyla başlatılan operasyonda gözaltına alınan TV yorumcusu Rasim Ozan Kütahyalı tutuklandı.",
+        "source": "BBC Turkish",
+        "published": "2026-05-18T06:01:12+00:00"
       },
       {
-        "title": "Trump’ın pisti bitiyor",
-        "link": "https://www.sozcu.com.tr/trump-in-pisti-bitiyor-p320483",
-        "description": "Trump’ın pisti bitiyor",
-        "source": "Sözcü",
-        "published": "2026-05-18T05:30:20+03:00"
-      },
-      {
-        "title": "Bilet fiyatları memleket hasretinin önüne geçti",
-        "link": "https://www.sozcu.com.tr/bilet-fiyatlari-memleket-hasretinin-onune-gecti-p320482",
-        "description": "Bilet fiyatları memleket hasretinin önüne geçti",
-        "source": "Sözcü",
-        "published": "2026-05-18T05:30:20+03:00"
-      },
-      {
-        "title": "Emekliler bir milyon dilekçeye koşuyor",
-        "link": "https://www.sozcu.com.tr/emekliler-bir-milyon-dilekceye-kosuyor-p320481",
-        "description": "Emekliler bir milyon dilekçeye koşuyor",
-        "source": "Sözcü",
-        "published": "2026-05-18T05:30:20+03:00"
+        "title": "Küflü gıdalar yenilebilir mi, hangileri risk taşır?",
+        "link": "https://www.bbc.com/turkce/articles/c8r80zj3kn1o?at_medium=RSS&at_campaign=rss",
+        "description": "Uzmanlar küflü ekmek, peynir, meyve veya reçeli yemenin ne zaman güvenli olduğunu ve ne zaman atılacağını açıklıyor.",
+        "source": "BBC Turkish",
+        "published": "2026-05-18T04:26:14+00:00"
       },
       {
         "title": "17 yaşındaki genç, nişanlısının babasını silahla vurarak öldürdü",
@@ -630,18 +735,11 @@
         "published": "2026-05-18T04:13:02+03:00"
       },
       {
-        "title": "Görenler gözlerine inanamadı! Çölde 5 gün sonra mucize",
-        "link": "https://www.sozcu.com.tr/gorenler-gozlerine-inanamadi-colde-5-gun-sonra-mucize-p320487",
-        "description": "Görenler gözlerine inanamadı! Çölde 5 gün sonra mucize",
-        "source": "Sözcü",
-        "published": "2026-05-18T03:52:10+03:00"
-      },
-      {
-        "title": "Karadeniz için sel uyarısı. Yeni haftada hava nasıl olacak?",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-karadeniz-icin-sel-uyarisi-yeni-haftada-hava-nasil-olacak-1724783",
-        "description": "Yapılan son değerlendirmelere göre bugün Karadeniz için sel ve su baskını uyarısı yapıldı. Yeni haftada ise neredeyse tüm yurtta hafta boyunca yağışlar etkili olacak.",
-        "source": "NTV",
-        "published": "2026-05-18T03:20:16+03:00"
+        "title": "Ukrayna'nın cephe hattındaki 'ölüm bölgesi' içinde yeni silahlar savaşı nasıl dönüştürüyor?",
+        "link": "https://www.bbc.com/turkce/articles/cvgzwyl0ljwo?at_medium=RSS&at_campaign=rss",
+        "description": "Makineler cephedeki insanların yerini giderek daha fazla alıyor, ancak birlikler bölgeyi savunmak için hala hayati önem taşıyor.",
+        "source": "BBC Turkish",
+        "published": "2026-05-18T03:47:42+00:00"
       },
       {
         "title": "Hantavirüs: Kanadalı yolcunun da testi pozitif çıktı",
@@ -658,41 +756,6 @@
         "published": "2026-05-18T03:03:43+00:00"
       },
       {
-        "title": "Şehit polis Emrah Koç'tan geriye bu görüntüler kaldı",
-        "link": "https://www.ntv.com.tr/turkiye/video-sehit-polis-emrah-koctan-geriye-bu-goruntuler-kaldi-1724781",
-        "description": "Tekirdağ'ın Çorlu ilçesinde kavga ihbarına gittiği adreste silahla vurularak şehit olan 2 polis memurundan Emrah Koç'un saz çalan bir arkadaşına eşlik ederek, 'Ela Gözlüm Ben Bu Elden Gidersem' adlı türküyü söylediği görüntüleri ortaya çıktı.",
-        "source": "NTV",
-        "published": "2026-05-18T01:38:23+03:00"
-      },
-      {
-        "title": "AKP'li Metin Külünk'ten çarpıcı çıkış: Seçmen Cumhur İttifakı'nı dövmek istiyor",
-        "link": "https://www.sozcu.com.tr/metin-kulunk-akp-uyari-p320479",
-        "description": "AKP'li Metin Külünk'ten çarpıcı çıkış: Seçmen Cumhur İttifakı'nı dövmek istiyor",
-        "source": "Sözcü",
-        "published": "2026-05-18T01:02:02+03:00"
-      },
-      {
-        "title": "Her yıl kurdukları dev bambu köprüyle iki bölgeyi birbirine bağlıyorlar",
-        "link": "https://www.sozcu.com.tr/her-yil-kurduklari-dev-bambu-kopruyle-iki-bolgeyi-birbirine-bagliyorlar-p320480",
-        "description": "Her yıl kurdukları dev bambu köprüyle iki bölgeyi birbirine bağlıyorlar",
-        "source": "Sözcü",
-        "published": "2026-05-18T01:01:09+03:00"
-      },
-      {
-        "title": "Alacak tartışmasında akrabasına kurşun yağdırdı",
-        "link": "https://www.sozcu.com.tr/alacak-tartismasinda-akrabasina-kursun-yagdirdi-p320478",
-        "description": "Alacak tartışmasında akrabasına kurşun yağdırdı",
-        "source": "Sözcü",
-        "published": "2026-05-18T00:53:36+03:00"
-      },
-      {
-        "title": "Dünya Sağlık Örgütü, Ebola için 'küresel acil durum' ilan etti",
-        "link": "https://www.bbc.com/turkce/articles/c4g4kzrxn73o?at_medium=RSS&at_campaign=rss",
-        "description": "Dünya Sağlık Örgütü, Demokratik Kongo Cumhuriyeti'nde Ebola salgınını uluslararası düzeyde halk sağlığı acil durumu olarak tanımladı. Ancak salgının bir pandemi acil durumu kriterlerini karşılamadığını söyledi.",
-        "source": "BBC Turkish",
-        "published": "2026-05-17T23:29:52+00:00"
-      },
-      {
         "title": "Kongo'daki Ebola salgını ne kadar endişe verici?",
         "link": "https://www.bbc.com/turkce/articles/c1j28yxpl96o?at_medium=RSS&at_campaign=rss",
         "description": "Dünya Sağlık Örgütü'nün (WHO) uluslararası halk sağlığı acil durumu ilan etmesi, Covid-19 benzeri bir pandeminin erken aşamalarında olduğumuz anlamına geliyor mu?",
@@ -705,69 +768,6 @@
         "description": "Donald Trump, savaşı sona erdirmeye yönelik görüşmelerin tıkanmasının ardından İran'a \"zaman azalıyor\" uyarısında bulundu. Mesaj, Trump'ın 17 Mayıs'ta İsrail Başbakanı Binyamin Netanyahu ile yapması beklenen görüşme esnasında geldi. Diğer yandan...",
         "source": "BBC Turkish",
         "published": "2026-05-17T22:50:55+00:00"
-      },
-      {
-        "title": "Vatandaş polis katilini linç etmek istedi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-vatandas-polis-katilini-linc-etmek-istedi-1724757",
-        "description": "Tekirdağ'ın Çorlu ilçesinde silahlı kavga ihbarına giden polis ekiplerine ateş açıldı. İki polis memuru şehit oldu. Polislere ateş açan kişinin yakalanma görüntüleri ortaya çıktı. Vatandaşlar zanlıyı linç etmek istedi.",
-        "source": "NTV",
-        "published": "2026-05-17T17:45:42+03:00"
-      },
-      {
-        "title": "Çorlu’da polis katiline linç girişimi",
-        "link": "https://www.ntv.com.tr/turkiye/video-corluda-polis-katiline-linc-girisimi-1724758",
-        "description": "Çorlu’da polis memurlarının şehit olduğu olaya ilişkin saldırının ardından bölgeye gelen polis ekipleri, zanlı O.A.’yı gözaltına aldı. Vatandaşlar ise polis katilini linç etmek istedi.",
-        "source": "NTV",
-        "published": "2026-05-17T17:18:33+03:00"
-      },
-      {
-        "title": "Emine Erdoğan'dan sağlıklı gıda vurgusu. Tarım ve Orman Bakanlığı'nın yeni düzenlemesine destek verdi",
-        "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-saglikli-gida-vurgusu-tarim-ve-orman-bakanliginin-yeni-duzenlemesine-destek-verdi-1724755",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, sağlıklı ve güvenilir gıdanın önemine dikkat çekti.",
-        "source": "NTV",
-        "published": "2026-05-17T16:46:22+03:00"
-      },
-      {
-        "title": "Döviz bürosuna silahlı saldırı: Saldırganla boğuşarak tabancasını tuttu, hayatta kaldı",
-        "link": "https://www.ntv.com.tr/turkiye/video-doviz-burosuna-silahli-saldiri-saldirganla-bogusarak-tabancasini-tuttu-hayatta-kaldi-1724739",
-        "description": "Hatay'ın Reyhanlı ilçesinde döviz bürosunda iş yeri sahibi Surur Döner’in silahlı saldırıya uğradığı olayın güvenlik kamerası görüntüleri ortaya çıktı.",
-        "source": "NTV",
-        "published": "2026-05-17T15:44:42+03:00"
-      },
-      {
-        "title": "New York'ta 43. Türk Günü yürüyüşü. İletişim Başkanı Duran: Türkiye her alanda ağırlığını artırıyor",
-        "link": "https://www.ntv.com.tr/turkiye/new-yorkta-43-turk-gunu-yuruyusu-iletisim-baskani-duran-turkiye-her-alanda-agirligini-artiriyor-1724738",
-        "description": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, New York'ta geleneksel olarak düzenlenen 43. Türk Günü Yürüyüşüne video mesaj gönderdi.",
-        "source": "NTV",
-        "published": "2026-05-17T15:31:20+03:00"
-      },
-      {
-        "title": "İtalya'nın Modena kentinde araç kalabalığa daldı: 4'ü ağır 8 yaralı",
-        "link": "https://www.bbc.com/turkce/articles/c4gv7728p8zo?at_medium=RSS&at_campaign=rss",
-        "description": "İtalya'nın kuzeyindeki Modena kentinde cumartesi günü otomobilini kalabalığın üzerine süren bir kişi 8 kişiyi yaraladı.",
-        "source": "BBC Turkish",
-        "published": "2026-05-17T14:37:37+00:00"
-      },
-      {
-        "title": "Çinli ajanların ABD'de kurduğu iddia edilen 'gizli karakol' nasıl ortaya çıktı?",
-        "link": "https://www.bbc.com/turkce/articles/cz9213l1jvdo?at_medium=RSS&at_campaign=rss",
-        "description": "Uzmanlar, ABD'deki iki casusluk vakasının, Çin'in son on yılda küresel olarak nüfuz oluşturma girişimlerini gösterdiğini söylüyor. Bu vakalardan biri olan Manhattan'daki \"ofis\", Çin'in kurduğu söylenen denizaşırı karakollardan birisi olarak...",
-        "source": "BBC Turkish",
-        "published": "2026-05-17T10:55:30+00:00"
-      },
-      {
-        "title": "Beynin yaşlanmasını geciktirmek için üç eğlenceli yol",
-        "link": "https://www.bbc.com/turkce/articles/cedpvngy6q4o?at_medium=RSS&at_campaign=rss",
-        "description": "Beynimiz zorluklarla beslenerek gelişiyor ancak sağlığa yarar sağlaması için her şeyin zorlu bir iş olması gerekmiyonr. İşte yaşlandıkça beyninizi korumanın üç basit ve eğlenceli yolu.",
-        "source": "BBC Turkish",
-        "published": "2026-05-17T07:40:26+00:00"
-      },
-      {
-        "title": "'Ateş etmeyin, ben Müslümanım': İran Savaşı sırasında yükselen Somalili korsan saldırıları",
-        "link": "https://www.bbc.com/turkce/articles/clyp1q75jnwo?at_medium=RSS&at_campaign=rss",
-        "description": "İran savaşı bölgedeki istikrarsızlığı körüklerken Somali açıklarında korsanlık yeniden başladı ve şu anda üç ticari gemi rehin tutuluyor.",
-        "source": "BBC Turkish",
-        "published": "2026-05-17T07:38:54+00:00"
       },
       {
         "title": "Abone olmak için tıklayın",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8606
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+73°F",
-    "wind": "↓16mph",
-    "humidity": "14%"
+    "condition": "Açık",
+    "temp": "+69°F",
+    "wind": "→4mph",
+    "humidity": "61%"
   }
 }
