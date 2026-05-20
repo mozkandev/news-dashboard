@@ -1,32 +1,109 @@
 {
-  "updated_at": "2026-05-20T01:30:53.472470+00:00",
+  "updated_at": "2026-05-20T06:08:32.075508+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Steam’de Oyun Keşfi Artık Daha Kolay",
+        "link": "https://shiftdelete.net/steamde-oyun-kesfi-artik-daha-kolay",
+        "description": "Valve, Steam mağazasındaki oyun keşfini iyileştirmek için etiket sistemini güncelledi. 17 yeni etiket eklenirken 28 tanesi kaldırıldı.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T06:00:00+00:00"
+      },
+      {
+        "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+        "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+        "description": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
+        "source": "TechCrunch",
+        "published": "2026-05-20T05:45:00+00:00"
+      },
+      {
+        "title": "Apple Sports Uygulaması Türkiye’de Kullanıma Sunuldu",
+        "link": "https://shiftdelete.net/apple-sports-uygulamasi-turkiyede-kullanima-sunuldu",
+        "description": "Apple, sporseverlerin kalbini çalacak yeni bir hamleye imza atıyor. İlk olarak sınırlı sayıda ülkede kullanıma sunulan ücretsiz spor uygulaması Apple Sports, gerçekleştirilen devasa küresel genişleme dalgasıyla birlikte artık çok daha fazla...",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T05:30:15+00:00"
+      },
+      {
+        "title": "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
+        "link": "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html",
+        "description": "Article URL: https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html Comments URL: https://news.ycombinator.com/item?id=48203333 Points: 24 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-05-20T05:07:23+00:00"
+      },
+      {
+        "title": "Apple Intelligence ile Erişilebilirlik Özellikleri Gelişiyor",
+        "link": "https://shiftdelete.net/apple-intelligence-ile-erisilebilirlik-ozellikleri-gelisiyor",
+        "description": "Apple, Apple Intelligence destekli yeni erişilebilirlik özelliklerini tanıttı. İşte VoiceOver, altyazı ve Vision Pro güncellemeleri hakkında tüm detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T05:00:00+00:00"
+      },
+      {
+        "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+        "link": "https://andlukyane.com//blog/minimax-m27-workflows",
+        "description": "Article URL: https://andlukyane.com//blog/minimax-m27-workflows Comments URL: https://news.ycombinator.com/item?id=48203249 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-05-20T04:51:42+00:00"
+      },
+      {
+        "title": "SpaceX’in Starbase Tesisinde İş Kazası Ölümle Sonuçlandı",
+        "link": "https://shiftdelete.net/spacexin-starbase-tesisinde-is-kazasi-olumle-sonuclandi",
+        "description": "SpaceX'in Starbase tesisinde bir çalışanın ölümüyle sonuçlanan iş kazası sonrası OSHA soruşturma başlattı. Starship V3 fırlatması ertelendi.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T04:30:00+00:00"
+      },
+      {
+        "title": "GitHub Compromised",
+        "link": "https://twitter.com/i/status/2056949168208552080",
+        "description": "Article URL: https://twitter.com/i/status/2056949168208552080 Comments URL: https://news.ycombinator.com/item?id=48202993 Points: 88 # Comments: 23",
+        "source": "HackerNews",
+        "published": "2026-05-20T04:12:48+00:00"
+      },
+      {
+        "title": "Bu Telefonu Az Kullanan Para Kazanıyor",
+        "link": "https://shiftdelete.net/bu-telefonu-az-kullanan-para-kazaniyor",
+        "description": "Minimalist Light Phone III, Noble Mobile iş birliğiyle satışa çıktı. Daha az veri tüketenlere para iadesi sunan bu yeni modeli keşfedin.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T04:00:00+00:00"
+      },
+      {
+        "title": "Evals will break",
+        "link": "https://wanglun1996.github.io/blog/your-evals-will-break.html",
+        "description": "Article URL: https://wanglun1996.github.io/blog/your-evals-will-break.html Comments URL: https://news.ycombinator.com/item?id=48202658 Points: 23 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-20T03:10:30+00:00"
+      },
+      {
+        "title": "FiveThirtyEight articles on the Internet Archive",
+        "link": "https://fivethirtyeightindex.com/",
+        "description": "Article URL: https://fivethirtyeightindex.com/ Comments URL: https://news.ycombinator.com/item?id=48201973 Points: 116 # Comments: 28",
+        "source": "HackerNews",
+        "published": "2026-05-20T01:34:19+00:00"
+      },
+      {
         "title": "Railway Blocked by Google Cloud",
         "link": "https://status.railway.com/?date=20260519",
-        "description": "Article URL: https://status.railway.com/?date=20260519 Comments URL: https://news.ycombinator.com/item?id=48201484 Points: 36 # Comments: 4",
+        "description": "Article URL: https://status.railway.com/?date=20260519 Comments URL: https://news.ycombinator.com/item?id=48201484 Points: 373 # Comments: 174",
         "source": "HackerNews",
         "published": "2026-05-20T00:23:54+00:00"
       },
       {
         "title": "GitHub is investigating unauthorized access to their internal repositories",
         "link": "https://twitter.com/github/status/2056884788179726685",
-        "description": "Article URL: https://twitter.com/github/status/2056884788179726685 Comments URL: https://news.ycombinator.com/item?id=48201316 Points: 77 # Comments: 16",
+        "description": "Article URL: https://twitter.com/github/status/2056884788179726685 Comments URL: https://news.ycombinator.com/item?id=48201316 Points: 319 # Comments: 95",
         "source": "HackerNews",
         "published": "2026-05-20T00:01:18+00:00"
       },
       {
-        "title": "Railway Is Having a Major Outage",
-        "link": "https://status.railway.com/#/",
-        "description": "Article URL: https://status.railway.com/#/ Comments URL: https://news.ycombinator.com/item?id=48200827 Points: 50 # Comments: 36",
+        "title": "HTML-in-Canvas Demos",
+        "link": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
+        "description": "Article URL: https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md Comments URL: https://news.ycombinator.com/item?id=48201222 Points: 23 # Comments: 7",
         "source": "HackerNews",
-        "published": "2026-05-19T23:01:56+00:00"
+        "published": "2026-05-19T23:49:03+00:00"
       },
       {
         "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
         "link": "https://github.com/wiltodelta/remove-ai-watermarks",
-        "description": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 99 # Comments: 61",
+        "description": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 211 # Comments: 115",
         "source": "HackerNews",
         "published": "2026-05-19T22:30:31+00:00"
       },
@@ -159,7 +236,7 @@
       {
         "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
         "link": "https://openai.com/index/advancing-content-provenance/",
-        "description": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 182 # Comments: 96",
+        "description": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 244 # Comments: 128",
         "source": "HackerNews",
         "published": "2026-05-19T19:34:30+00:00"
       },
@@ -171,32 +248,11 @@
         "published": "2026-05-19T19:33:48-04:00"
       },
       {
-        "title": "Dumb ways for an open source project to die",
-        "link": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-        "description": "Article URL: https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html Comments URL: https://news.ycombinator.com/item?id=48198127 Points: 142 # Comments: 77",
-        "source": "HackerNews",
-        "published": "2026-05-19T19:22:56+00:00"
-      },
-      {
         "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
         "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
         "description": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
         "source": "TechCrunch",
         "published": "2026-05-19T19:15:31+00:00"
-      },
-      {
-        "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-        "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-        "description": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 159 # Comments: 38",
-        "source": "HackerNews",
-        "published": "2026-05-19T19:14:12+00:00"
-      },
-      {
-        "title": "Minnesota becomes first state to ban prediction markets",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-        "description": "Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets Comments URL: https://news.ycombinator.com/item?id=48197980 Points: 417 # Comments: 140",
-        "source": "HackerNews",
-        "published": "2026-05-19T19:13:26+00:00"
       },
       {
         "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
@@ -220,25 +276,11 @@
         "published": "2026-05-19T18:59:05-04:00"
       },
       {
-        "title": "Disney erased FiveThirtyEight",
-        "link": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
-        "description": "Article URL: https://www.natesilver.net/p/disney-erased-fivethirtyeight Comments URL: https://news.ycombinator.com/item?id=48197703 Points: 299 # Comments: 182",
-        "source": "HackerNews",
-        "published": "2026-05-19T18:56:25+00:00"
-      },
-      {
         "title": "Google’ın Yeni Android Halo Özelliği Neler Sunacak?",
         "link": "https://shiftdelete.net/googlein-yeni-android-halo-ozelligi-neler-sunacak",
         "description": "Google, I/O etkinliğinde tanıttığı Android Halo özelliği ile asistan durumunu ekranın üst kısmına taşıyor. İşte Android 17 ile gelecek yeni özellik.",
         "source": "ShiftDelete",
         "published": "2026-05-19T18:54:00+00:00"
-      },
-      {
-        "title": "The TTY Demystified (2008)",
-        "link": "https://www.linusakesson.net/programming/tty/index.php",
-        "description": "Article URL: https://www.linusakesson.net/programming/tty/index.php Comments URL: https://news.ycombinator.com/item?id=48197445 Points: 36 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-05-19T18:40:19+00:00"
       },
       {
         "title": "Xbox Game Pass Mayıs ve Haziran Ayı Oyun Listesi Açıklandı",
@@ -269,53 +311,11 @@
         "published": "2026-05-19T18:10:02+00:00"
       },
       {
-        "title": "Google’dan Yeni Alışveriş Asistanı Universal Cart",
-        "link": "https://shiftdelete.net/googlein-yeni-alisveris-asistani-universal-cart",
-        "description": "Google, alışveriş deneyimini kolaylaştıran yeni asistanı Universal Cart'ı tanıttı. İşte Google'ın yeni alışveriş aracı hakkında tüm detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-05-19T18:04:00+00:00"
-      },
-      {
-        "title": "OpenAI Yapay Zeka İçerikleri Tespit Edebilecek",
-        "link": "https://shiftdelete.net/openai-yapay-zeka-icerikleri-tespit-edebilecek",
-        "description": "OpenAI, yapay zeka içeriklerini tespit etmek için C2PA ve Google SynthID teknolojilerini birleştirerek yeni bir doğrulama dönemi başlatıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-05-19T18:00:00+00:00"
-      },
-      {
-        "title": "YouTube’da Sohbet Ederek Arama Yapma Dönemi",
-        "link": "https://shiftdelete.net/youtubeda-sohbet-ederek-arama-yapma-donemi",
-        "description": "Google, YouTube'da konuşmaya dayalı arama yapmayı sağlayan Ask YouTube özelliğini duyurdu. İşte yeni özellik hakkında tüm detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-05-19T17:59:00+00:00"
-      },
-      {
-        "title": "Google AI Modu Yeni Özelliklere Kavuşuyor",
-        "link": "https://shiftdelete.net/google-ai-modu-yeni-ozelliklere-kavusuyor",
-        "description": "Google I/O 2026'da tanıtılan yeni arama motoru özellikleri, Gemini 3.5 Flash entegrasyonu ve yeni arama asistanları hakkında detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-05-19T17:53:00+00:00"
-      },
-      {
         "title": "Google’s Genie world model can now simulate real streets with Street View",
         "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
         "description": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
         "source": "TechCrunch",
         "published": "2026-05-19T17:51:39+00:00"
-      },
-      {
-        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-        "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-        "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-        "source": "TechCrunch",
-        "published": "2026-05-19T17:51:30+00:00"
-      },
-      {
-        "title": "Gemini 3.5 ve Android Halo ile Yapay Zekanın Geleceği Şekilleniyor",
-        "link": "https://shiftdelete.net/gemini-3-5-ve-android-halo-ile-yapay-zekanin-gelecegi-sekilleniyor",
-        "description": "Google, her yıl merakla beklenen geliştirici konferansı Google I/O 2026 kapsamında teknoloji dünyasında yeni bir dönemin kapılarını aralıyor. Bu yılki etkinlikte, yapay zeka modellerinin sadece komutlara yanıt veren araçlar olmaktan çıkıp,...",
-        "source": "ShiftDelete",
-        "published": "2026-05-19T17:45:44+00:00"
       },
       {
         "title": "Here are our favorite Memorial Day deals (so far)",
@@ -339,11 +339,11 @@
         "published": "2026-05-19T16:13:14-04:00"
       },
       {
-        "title": "Ugreen’s new soccer ball-shaped tracker has up to 7 years of battery life",
-        "link": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
-        "description": "Ugreen has announced a new Apple Find My-compatible tracker with a novel design that limits where you can hide it, but greatly benefits battery life. Inspired by \"major football tournaments\" the company doesn't call out by name, the Ugreen FineTrack...",
+        "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
+        "link": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
+        "description": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made history by driving 24,901 miles...",
         "source": "The Verge",
-        "published": "2026-05-19T15:49:11-04:00"
+        "published": "2026-05-19T15:44:41-04:00"
       },
       {
         "title": "Nintendo’s $500 Switch 2 bundle includes a game, and it’s available now",
@@ -355,6 +355,62 @@
     ],
     "dunya": [
       {
+        "title": "UK loosens Russian oil sanctions as fuel prices rise",
+        "link": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+        "description": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+        "source": "BBC News",
+        "published": "2026-05-20T05:56:49+00:00"
+      },
+      {
+        "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
+        "link": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&at_campaign=rss",
+        "description": "Channel 4 has wider questions to answer after allegations made by three women who took part in the show.",
+        "source": "BBC News",
+        "published": "2026-05-20T05:52:59+00:00"
+      },
+      {
+        "title": "'Ghost brokers' targeting 16 to 25 year-olds with fake car insurance online",
+        "link": "https://www.bbc.com/news/articles/c1w29zw0q44o?at_medium=RSS&at_campaign=rss",
+        "description": "The finance watchdog warns bogus brokers are selling fake car insurance through social media.",
+        "source": "BBC News",
+        "published": "2026-05-20T05:48:23+00:00"
+      },
+      {
+        "title": "Deputy British ambassador to US abruptly leaves post",
+        "link": "https://www.bbc.com/news/articles/c0520j079n2o?at_medium=RSS&at_campaign=rss",
+        "description": "Until his sudden departure, James Roscoe held one the most senior, high-profile roles in the British diplomatic service",
+        "source": "BBC News",
+        "published": "2026-05-20T05:45:11+00:00"
+      },
+      {
+        "title": "Boss of Sarah Ferguson-linked firm used royal links to threaten worker with jail",
+        "link": "https://www.bbc.com/news/articles/c4g8kv7ykv8o?at_medium=RSS&at_campaign=rss",
+        "description": "In a recording obtained by the BBC, the worker was threatened with jail for allegedly hacking emails at lifestyle app vVoosh.",
+        "source": "BBC News",
+        "published": "2026-05-20T05:00:59+00:00"
+      },
+      {
+        "title": "Did Trump really rescue Venezuela? – podcast",
+        "link": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
+        "description": "Tom Phillips on life in the country four months after the US abduction of the former president Nicolás Maduro “The last time I flew out of Venezuela was right at the start of August 2024, just after the disputed presidential election,” the...",
+        "source": "The Guardian",
+        "published": "2026-05-20T02:00:19+00:00"
+      },
+      {
+        "title": "Bolivia's capital under siege as protests deepen crisis for President Paz",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5828203/bolivia-capital-protests-crisis",
+        "description": "Bolivia's President Rodrigo Paz faces a deepening crisis as widespread protests and blockades leave the political capital under siege less than six months after he took office.",
+        "source": "NPR",
+        "published": "2026-05-20T01:48:42-04:00"
+      },
+      {
+        "title": "WHO chief concerned over 'scale and speed' of Ebola outbreak",
+        "link": "https://www.npr.org/2026/05/20/g-s1-122971/who-chief-concerned-over-scale-and-speed-of-ebola-outbreak",
+        "description": "The World Health Organization top official has expressed concern over the rapid spread of a rare type of Ebola in Congo. Authorities have reported at least 134 suspected deaths and over 500 cases.",
+        "source": "NPR",
+        "published": "2026-05-20T01:36:28-04:00"
+      },
+      {
         "title": "Trump-backed challenger defeats Republican rebel Massie in primary",
         "link": "https://www.bbc.com/news/articles/cwy2vw8j0ddo?at_medium=RSS&at_campaign=rss",
         "description": "The Kentucky race has been viewed as a key test of President Trump's grip on the Republican Party.",
@@ -362,11 +418,11 @@
         "published": "2026-05-20T01:28:37+00:00"
       },
       {
-        "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
-        "link": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&at_campaign=rss",
-        "description": "Channel 4 has wider questions to answer after allegations made by three women who took part in the show.",
-        "source": "BBC News",
-        "published": "2026-05-20T00:18:16+00:00"
+        "title": "Xi and Putin meet to reaffirm China-Russia ties days after Trump's visit",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5828196/xi-putin-meet-beijing",
+        "description": "Chinese leader Xi Jinping welcomed Russian President Vladimir Putin in Beijing on Wednesday in a meeting meant to reaffirm ties and that takes place only days after a visit by President Donald Trump.",
+        "source": "NPR",
+        "published": "2026-05-20T01:26:20-04:00"
       },
       {
         "title": "Dozens of romance scammers arrested after specialist fraud squad investigation",
@@ -376,32 +432,11 @@
         "published": "2026-05-19T23:56:01+00:00"
       },
       {
-        "title": "Friendship or geopolitics? BBC breaks down Xi and Putin relationship",
-        "link": "https://www.bbc.com/news/videos/ce9p1kyedy7o?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC’s Laura Bicker and Steven Rosenberg explain the relationship between the Russian and Chinese leaders as the pair meet in Beijing.",
-        "source": "BBC News",
-        "published": "2026-05-19T23:51:23+00:00"
-      },
-      {
         "title": "UK should set maximum working temperature rules, advisers say",
         "link": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
         "description": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
         "source": "BBC News",
         "published": "2026-05-19T23:40:12+00:00"
-      },
-      {
-        "title": "Young drivers targeted by 'ghost brokers' selling fake car insurance online",
-        "link": "https://www.bbc.com/news/articles/c1w29zw0q44o?at_medium=RSS&at_campaign=rss",
-        "description": "The finance watchdog warns bogus brokers are selling fake car insurance through social media.",
-        "source": "BBC News",
-        "published": "2026-05-19T23:02:47+00:00"
-      },
-      {
-        "title": "Supermarkets urged to limit food prices by government",
-        "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
-        "description": "Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.",
-        "source": "BBC News",
-        "published": "2026-05-19T23:01:42+00:00"
       },
       {
         "title": "Twenty-two years in the making - how Arsenal celebrated title win",
@@ -411,7 +446,14 @@
         "published": "2026-05-19T22:16:08+00:00"
       },
       {
-        "title": "In Georgia, Republican primary for governor goes to a runoff between Trump backers",
+        "title": "Southampton expelled from Championship play-offs for spying on Middlesbrough",
+        "link": "https://www.bbc.com/sport/football/articles/cwy2pnpqjl7o?at_medium=RSS&at_campaign=rss",
+        "description": "Southampton have been thrown out of the play-offs after admitting they spied on three clubs during the Championship season.",
+        "source": "BBC News",
+        "published": "2026-05-19T22:06:35+00:00"
+      },
+      {
+        "title": "In Georgia, two GOP Trump backers vie to face former Atlanta mayor for governor",
         "link": "https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate",
         "description": "Georgia is a swing state where both Democrats and Republicans are deciding the direction their parties will take in the fall in races for the senate and the governor's mansion.",
         "source": "NPR",
@@ -453,13 +495,6 @@
         "published": "2026-05-19T17:13:14+00:00"
       },
       {
-        "title": "Surrey Police investigating child sex abuse allegations after Epstein files release",
-        "link": "https://www.bbc.com/news/articles/c0k2d2pl6x0o?at_medium=RSS&at_campaign=rss",
-        "description": "The force said no arrests have been made in relation to the offences dating back to the 1980s and 1990s.",
-        "source": "BBC News",
-        "published": "2026-05-19T16:44:57+00:00"
-      },
-      {
         "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
         "link": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
         "description": "Investigation launched as video circulates online showing officer firing at vehicle and colleagues dragging away body Authorities in Jamaica have launched an investigation after CCTV footage of a woman’s fatal shooting by police sent shock waves...",
@@ -479,13 +514,6 @@
         "description": "Officials will determine if standard process was followed before lethal strikes in Caribbean and eastern Pacific Sign up for the Breaking News US newsletter email The Pentagon’s internal watchdog has opened an investigation into whether US military...",
         "source": "The Guardian",
         "published": "2026-05-19T15:53:27+00:00"
-      },
-      {
-        "title": "BBC confirms new Strictly Come Dancing hosts",
-        "link": "https://www.bbc.com/news/articles/cgep5ez80rzo?at_medium=RSS&at_campaign=rss",
-        "description": "The trio replace Tess Daly and Claudia Winkleman, who left the BBC dance competition last year.",
-        "source": "BBC News",
-        "published": "2026-05-19T15:16:33+00:00"
       },
       {
         "title": "Trump endorses Ken Paxton over incumbent John Cornyn in Texas Senate primary runoff",
@@ -516,32 +544,11 @@
         "published": "2026-05-19T12:19:01-04:00"
       },
       {
-        "title": "Can't keep a habit? This comic shares a proven formula to make it stick",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5825984/cant-keep-a-habit-this-comic-shares-a-proven-formula-to-make-it-stick",
-        "description": "In this illustrated guide, behavioral scientist BJ Fogg breaks down his Tiny Habits framework to help you rethink your approach to starting (or restarting) a habit.",
-        "source": "NPR",
-        "published": "2026-05-19T12:19:00-04:00"
-      },
-      {
-        "title": "A study investigates: Did the abrupt end of USAID have an impact on violence?",
-        "link": "https://www.npr.org/2026/05/19/g-s1-122281/u-s-aid-usaid-trump-violence",
-        "description": "That's the provocative question that researchers dug into after the U.S. shut down its premier aid agency.",
-        "source": "NPR",
-        "published": "2026-05-19T10:12:37-04:00"
-      },
-      {
         "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
         "link": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
         "description": "Trump has repeatedly made false claims that white Afrikaners facing genocide with costs of resettling them at $100m The US government has said it will increase the number of white South Africans it admits as refugees this year from about 7,500 to...",
         "source": "The Guardian",
         "published": "2026-05-19T09:43:24+00:00"
-      },
-      {
-        "title": "Israel's trying to expel a whole Palestinian district in East Jerusalem, activists say",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem",
-        "description": "Israeli authorities are issuing Palestinians demolition orders in East Jerusalem at an accelerated rate since Israel launched war with Iran, human rights groups and U.N. experts say.",
-        "source": "NPR",
-        "published": "2026-05-19T09:20:36-04:00"
       },
       {
         "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
@@ -556,16 +563,128 @@
         "description": "Mexican president Claudia Sheinbaum denies any links between her Morena party and organized crime Pressure is mounting on Claudia Sheinbaum, Mexico’s president, after two former top officials from the country’s Sinaloa state – both members of her...",
         "source": "The Guardian",
         "published": "2026-05-18T17:06:10+00:00"
-      },
-      {
-        "title": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
-        "link": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
-        "description": "Cuba’s president, Miguel Díaz-Canel, says any US strike would be catastrophic after reports of 300+ drones Cuba’s president, Miguel Díaz-Canel, has warned that any US military action against his country would lead to a “bloodbath” with incalculable...",
-        "source": "The Guardian",
-        "published": "2026-05-18T14:42:04+00:00"
       }
     ],
     "turkiye": [
+      {
+        "title": "Son dakika: Malatya'da 5.6 büyüklüğünde deprem!",
+        "link": "https://www.sozcu.com.tr/son-dakika-malatya-da-5-6-buyuklugunde-deprem-p321157",
+        "description": "Son dakika: Malatya'da 5.6 büyüklüğünde deprem!",
+        "source": "Sözcü",
+        "published": "2026-05-20T09:07:37+03:00"
+      },
+      {
+        "title": "Adli tatil takvimi 2026: Adli tatil ne zaman başlıyor? Yargıda tatil dönemi için geri sayım",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-adli-tatil-takvimi-2026-adli-tatil-ne-zaman-basliyor-yargida-tatil-donemi-icin-geri-sayim-1725104",
+        "description": "Adalet teşkilatında görev yapan hakimler, savcılar, avukatlar ve adliye çalışanları başta olmak üzere, davası olan binlerce vatandaşın gözü her yıl olduğu gibi bu yıl da adli tatil dönemine çevrildi. Davası olan veya dava açmaya hazırlanan birçok...",
+        "source": "NTV",
+        "published": "2026-05-20T09:03:47+03:00"
+      },
+      {
+        "title": "Almus Barajı'nın doluluğu yüzde 100'e ulaştı. Tokat'ta taşkına karşı 15 mahalle ve 7 köyün tahliyesine başlandı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-almus-barajinin-dolulugu-yuzde-100e-ulasti-tokatta-taskina-karsi-15-mahalle-ve-7-koyun-tahliyesine-baslandi-1725092",
+        "description": "Tokat'taki Almus Baraj Gölü'nde doluluk oranı bugün itibarıyla yüzde 100'e ulaştı. Barajın taşma ihtimaline karşı risk altındaki 15 mahalle ile 7 köyün tahliyesine başlandı. Valilik Turhal ilçesinde eğitim-öğretime 3 gün ara verildiğini duyurdu.",
+        "source": "NTV",
+        "published": "2026-05-20T09:02:30+03:00"
+      },
+      {
+        "title": "Araç sayısının nüfusu zorladığı il belli oldu: İstanbul ve Ankara değil",
+        "link": "https://www.sozcu.com.tr/arac-sayisinin-nufusu-zorladigi-il-belli-oldu-istanbul-ve-ankara-degil-p321154",
+        "description": "Araç sayısının nüfusu zorladığı il belli oldu: İstanbul ve Ankara değil",
+        "source": "Sözcü",
+        "published": "2026-05-20T09:02:16+03:00"
+      },
+      {
+        "title": "Almus Barajı ağzına kadar doldu. Bölgede taşkın tahliyesi başladı",
+        "link": "https://www.ntv.com.tr/turkiye/video-almus-baraji-agzina-kadar-doldu-bolgedeki-taskin-tahliyesi-basladi-1725102",
+        "description": "Senelerdir olmayan doldu, aşırı yağışlar barajı yüzde 100 doldurdu. Tokat'taki Almus Baraj Gölü'nün taşma ihtimaline karşı risk altındaki mahalleler boşaltılıyor.",
+        "source": "NTV",
+        "published": "2026-05-20T09:01:06+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Mayıs 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-mayis-2026-1725071",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-05-20T09:00:00+03:00"
+      },
+      {
+        "title": "Tartışılan elçi randevuları: Şirket sahiplerini ziyaret edip paylaştılar!",
+        "link": "https://www.sozcu.com.tr/tartisilan-elci-randevulari-sirket-sahiplerini-ziyaret-edip-paylastilar-p321151",
+        "description": "Tartışılan elçi randevuları: Şirket sahiplerini ziyaret edip paylaştılar!",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:50:22+03:00"
+      },
+      {
+        "title": "İngiliz futbol efsanesine Türk berber eziyeti",
+        "link": "https://www.sozcu.com.tr/ingiliz-futbol-efsanesine-turk-berber-eziyeti-p321150",
+        "description": "İngiliz futbol efsanesine Türk berber eziyeti",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:48:12+03:00"
+      },
+      {
+        "title": "İstanbul'da metroya UEFA Avrupa Ligi Finali düzenlemesi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-metroya-uefa-avrupa-ligi-finali-duzenlemesi-1725094",
+        "description": "Metro İstanbul, Beşiktaş Park Stadyumu'nda oynanacak UEFA Avrupa Ligi finali nedeniyle seferlerde düzenlemeye gidildiğini açıkladı.",
+        "source": "NTV",
+        "published": "2026-05-20T08:47:20+03:00"
+      },
+      {
+        "title": "Uzmanlar karpuzu araştırdı: Ortaya çıkan sonuç herkesi çok şaşırttı",
+        "link": "https://www.sozcu.com.tr/uzmanlar-karpuzu-arastirdi-ortaya-cikan-sonuc-herkesi-cok-sasirtti-p321149",
+        "description": "Uzmanlar karpuzu araştırdı: Ortaya çıkan sonuç herkesi çok şaşırttı",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:47:16+03:00"
+      },
+      {
+        "title": "Dedesinin cenazesinde TikTok çekmişti! Savunması pes dedirtti",
+        "link": "https://www.sozcu.com.tr/dedesinin-cenazesinde-tiktok-cekmisti-savunmasi-pes-dedirtti-p321148",
+        "description": "Dedesinin cenazesinde TikTok çekmişti! Savunması pes dedirtti",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:46:11+03:00"
+      },
+      {
+        "title": "Herkes final kararının nedenini konuşuyordu! Beklenen açıklama geldi",
+        "link": "https://www.sozcu.com.tr/herkes-final-kararinin-nedenini-konusuyordu-beklenen-aciklama-geldi-p321147",
+        "description": "Herkes final kararının nedenini konuşuyordu! Beklenen açıklama geldi",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:43:48+03:00"
+      },
+      {
+        "title": "Şehrin ortasına dev bir horoz kondurdular: İçinde uyuyorlar",
+        "link": "https://www.sozcu.com.tr/sehrin-ortasina-dev-bir-horoz-kondurdular-icinde-uyuyorlar-p321146",
+        "description": "Şehrin ortasına dev bir horoz kondurdular: İçinde uyuyorlar",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:43:30+03:00"
+      },
+      {
+        "title": "Araç sahiplerini üzecek haber! Akaryakıta bir zam daha geliyor!",
+        "link": "https://www.sozcu.com.tr/arac-sahiplerini-uzecek-haber-akaryakita-bir-zam-daha-geliyor-p321145",
+        "description": "Araç sahiplerini üzecek haber! Akaryakıta bir zam daha geliyor!",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:41:04+03:00"
+      },
+      {
+        "title": "Haziranda milyonlarca çalışanın hesabına 'çift maaş' gibi para yatacak",
+        "link": "https://www.sozcu.com.tr/haziranda-milyonlarca-calisanin-hesabina-cift-maas-gibi-para-yatacak-p321144",
+        "description": "Haziranda milyonlarca çalışanın hesabına 'çift maaş' gibi para yatacak",
+        "source": "Sözcü",
+        "published": "2026-05-20T08:39:51+03:00"
+      },
+      {
+        "title": "Resmi Gazete'de bugün (20 Mayıs 2026 Resmi Gazete kararları)",
+        "link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-20-mayis-2026-resmi-gazete-kararlari-1725099",
+        "description": "Resmi Gazete'de 20 Mayıs 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 20 Mayıs 2026 tarihli ve 33259 Sayılı Resmi Gazete ayrıntıları.",
+        "source": "NTV",
+        "published": "2026-05-20T08:24:11+03:00"
+      },
+      {
+        "title": "Diyanet İşleri Başkanlığı bin 128 personel alımı tarihi 2026: Diyanet İşleri Başkanlığı personel alımı ne zaman?",
+        "link": "https://www.ntv.com.tr/turkiye/diyanet-isleri-baskanligi-bin-128-personel-alimi-tarihi-2026-diyanet-isleri-baskanligi-personel-alimi-ne-zaman-1725088",
+        "description": "Diyanet İşleri Başkanlığı, taşra teşkilatında istihdam edilmek üzere bin 128 sözleşmeli personel alımı yapacak. 2026 Diyanet İşleri Başkanlığı, personel alımı ne zaman?",
+        "source": "NTV",
+        "published": "2026-05-20T08:00:30+03:00"
+      },
       {
         "title": "Dereye uçan aracını bırakıp kaçtı",
         "link": "https://www.ntv.com.tr/turkiye/dereye-ucan-aracini-birakip-kacti-1725079",
@@ -574,11 +693,11 @@
         "published": "2026-05-20T04:22:55+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Mayıs 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-mayis-2026-1725071",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-05-20T04:00:00+03:00"
+        "title": "'Sumud filosundaki 430 aktivistin tamamı İsrail'e götürülüyor'",
+        "link": "https://www.bbc.com/turkce/articles/c78qzyq26vzo?at_medium=RSS&at_campaign=rss",
+        "description": "İsrail Marmaris'ten Gazze'ye doğru harekete geçen Küresel Sumud Filosu'ndaki 430 aktivistin tümünün İsrailli gemilerle ülkeye transfer edildiğini açıkladı. İsrail'in Gazze ablukasını delmeyi amaçlayan Küresel Sumud Filosu grubu filoda toplam 39...",
+        "source": "BBC Turkish",
+        "published": "2026-05-20T03:50:20+00:00"
       },
       {
         "title": "Göksu Irmağı'nda ceset bulundu",
@@ -588,67 +707,25 @@
         "published": "2026-05-20T03:44:02+03:00"
       },
       {
-        "title": "Rusya’dan Avrupa ve Ukrayna’ya gözdağı! Sınır ülkede nükleer tatbikat",
-        "link": "https://www.sozcu.com.tr/rusya-dan-avrupa-ve-ukrayna-ya-gozdagi-sinir-ulkede-nukleer-tatbikat-p321120",
-        "description": "Rusya’dan Avrupa ve Ukrayna’ya gözdağı! Sınır ülkede nükleer tatbikat",
-        "source": "Sözcü",
-        "published": "2026-05-20T01:04:18+03:00"
+        "title": "'Motor muz gibi soyulmuştu': Yolcularının hayatını kurtaran pilot",
+        "link": "https://www.bbc.com/turkce/articles/c3r27y0yw7qo?at_medium=RSS&at_campaign=rss",
+        "description": "Tammie Jo Shults, imkansızlıkları aşmaya alışkındı. Sadece 148 yolcu ve mürettebatın yaşamını kurtardığı uçuşta da değil.",
+        "source": "BBC Turkish",
+        "published": "2026-05-20T03:34:55+00:00"
       },
       {
-        "title": "Otoyol binanın içinden geçiyor: Dünyanın en sıra dışı yapılarından biri",
-        "link": "https://www.sozcu.com.tr/otoyol-binanin-icinden-geciyor-dunyanin-en-sira-disi-yapilarindan-biri-p321121",
-        "description": "Otoyol binanın içinden geçiyor: Dünyanın en sıra dışı yapılarından biri",
-        "source": "Sözcü",
-        "published": "2026-05-20T01:01:10+03:00"
+        "title": "Türkiye'nin kıtalararası balistik füze geliştirme planı nasıl yorumlanıyor?",
+        "link": "https://www.bbc.com/turkce/articles/cy420d4zy9po?at_medium=RSS&at_campaign=rss",
+        "description": "Milli Savunma Bakanlığı Araştırma ve Geliştirme Merkezi'nin 5 Mayıs'ta tanıttığı Yıldırımhan füzesi ile Türkiye ilk kez kıtalararası balistik füze geliştirme niyetini ilan etmiş oldu. BBC Türkçe'ye konuşan uzmanlar Yıldırımhan'ın Türkiye'nin yeni...",
+        "source": "BBC Turkish",
+        "published": "2026-05-20T03:23:53+00:00"
       },
       {
-        "title": "Okyanusun 6 kilometre altında keşfedildi: Daha önce böylesi görülmemişti",
-        "link": "https://www.sozcu.com.tr/okyanusun-6-kilometre-altinda-kesfedildi-daha-once-boylesi-gorulmemisti-p321112",
-        "description": "Okyanusun 6 kilometre altında keşfedildi: Daha önce böylesi görülmemişti",
-        "source": "Sözcü",
-        "published": "2026-05-20T00:24:19+03:00"
-      },
-      {
-        "title": "Tayland’dan vize kararı! Türk vatandaşlarını da ilgilendiriyor",
-        "link": "https://www.sozcu.com.tr/tayland-dan-vize-karari-turk-vatandaslarini-da-ilgilendiriyor-p321110",
-        "description": "Tayland’dan vize kararı! Türk vatandaşlarını da ilgilendiriyor",
-        "source": "Sözcü",
-        "published": "2026-05-20T00:11:42+03:00"
-      },
-      {
-        "title": "Baraj alarmı! Mahalleler boşaltılıyor, polis alarma geçti",
-        "link": "https://www.sozcu.com.tr/baraj-alarmi-mahalleler-bosaltiliyor-polis-alarma-gecti-p321107",
-        "description": "Baraj alarmı! Mahalleler boşaltılıyor, polis alarma geçti",
-        "source": "Sözcü",
-        "published": "2026-05-19T23:56:25+03:00"
-      },
-      {
-        "title": "Uzayda kritik görev için geri sayım başladı: Yeni ekip yola çıkıyor",
-        "link": "https://www.sozcu.com.tr/uzayda-kritik-gorev-icin-geri-sayim-basladi-yeni-ekip-yola-cikiyor-p321105",
-        "description": "Uzayda kritik görev için geri sayım başladı: Yeni ekip yola çıkıyor",
-        "source": "Sözcü",
-        "published": "2026-05-19T23:40:35+03:00"
-      },
-      {
-        "title": "Mevduat faizi güncellendi: 1 Milyon TL'nin 32 günlük getirisi belli oldu",
-        "link": "https://www.sozcu.com.tr/mevduat-faizi-guncellendi-iste-1-milyon-tl-nin-32-gunluk-getirisi-belli-oldu-p321103",
-        "description": "Mevduat faizi güncellendi: 1 Milyon TL'nin 32 günlük getirisi belli oldu",
-        "source": "Sözcü",
-        "published": "2026-05-19T23:35:28+03:00"
-      },
-      {
-        "title": "‘Yürüyemiyorum’ diyerek devletten 1,5 milyon TL aldı, zumba yapıp koşu yarışına katıldığı ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/yuruyemiyorum-diyerek-devletten-1-5-milyon-tl-aldi-zumba-yapip-kosu-yarisina-katildigi-ortaya-cikti-p321102",
-        "description": "‘Yürüyemiyorum’ diyerek devletten 1,5 milyon TL aldı, zumba yapıp koşu yarışına katıldığı ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-05-19T23:34:00+03:00"
-      },
-      {
-        "title": "Premier Lig'de şampiyon belli oldu! Arsenal 22 yıllık hasreti bitirdi",
-        "link": "https://www.sozcu.com.tr/premier-lig-de-sampiyon-belli-oldu-arsenal-22-yillik-hasreti-bitirdi-p321101",
-        "description": "Premier Lig'de şampiyon belli oldu! Arsenal 22 yıllık hasreti bitirdi",
-        "source": "Sözcü",
-        "published": "2026-05-19T23:26:24+03:00"
+        "title": "Fazla yemeyi nasıl durdurabiliriz?",
+        "link": "https://www.bbc.com/turkce/articles/c042v4zn4g9o?at_medium=RSS&at_campaign=rss",
+        "description": "Posiyonların büyüklüğü son 50 yılda artıyor. Peki fazla yemeden sağlıklı kalmayı nasıl başarabiliriz?",
+        "source": "BBC Turkish",
+        "published": "2026-05-20T01:30:07+00:00"
       },
       {
         "title": "Premier Lig: Arsenal'i şampiyonluğa taşıyan kritik virajlar",
@@ -658,39 +735,11 @@
         "published": "2026-05-19T23:20:11+00:00"
       },
       {
-        "title": "5 bin tonluk dev vinç gemisi suya iniyor: Açık denizlerde tek bir amaca hizmet edecek",
-        "link": "https://www.sozcu.com.tr/5-bin-tonluk-dev-vinc-gemisi-suya-iniyor-acik-denizlerde-tek-bir-amaca-hizmet-edecek-p321098",
-        "description": "5 bin tonluk dev vinç gemisi suya iniyor: Açık denizlerde tek bir amaca hizmet edecek",
-        "source": "Sözcü",
-        "published": "2026-05-19T23:17:37+03:00"
-      },
-      {
-        "title": "Beştepe'de gençlerle buluşma. Cumhurbaşkanı Erdoğan: Sosyal medya en büyük sorun",
-        "link": "https://www.ntv.com.tr/turkiye/bestepede-genclerle-bulusma-cumhurbaskani-erdogan-guvenli-huzurlu-bir-yarin-insa-etme-gayretindeyiz-1725066",
-        "description": "Gençlerle bir araya gelen Cumhurbaşkanı Recep Tayyip Erdoğan, \"Sizlere refahın ve kardeşliğin olduğu bir ülke teslim etmeye çalışıyoruz\" dedi. Erdoğan, sosyal medyanın şu anda gençliğin en büyük sorunu olduğunu söyledi.",
-        "source": "NTV",
-        "published": "2026-05-19T23:09:01+03:00"
-      },
-      {
         "title": "Cumhurbaşkanı Erdoğan, Beştepe'de gençlerle buluştu",
         "link": "https://www.ntv.com.tr/turkiye/video-cumhurbaskani-erdogan-bestepede-genclerle-bulustu-1725067",
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı dolayısıyla gençlerle bir araya geldi.",
         "source": "NTV",
         "published": "2026-05-19T23:08:15+03:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan, Ursula von der Leyen ile görüştü",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ursula-von-der-leyen-ile-gorustu-1725064",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, AB Komisyonu Başkanı von der Leyen ile telefonda görüştü. Görüşmede, Türkiye-Avrupa Birliği ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
-        "source": "NTV",
-        "published": "2026-05-19T21:09:53+03:00"
-      },
-      {
-        "title": "MİT Başkanı İbrahim Kalın Şam'da",
-        "link": "https://www.ntv.com.tr/turkiye/mit-baskani-ibrahim-kalin-samda-1725061",
-        "description": "MİT Başkanı İbrahim Kalın, Suriye’nin başkenti Şam’da Suriye Devlet Başkanı Ahmed Şara ile bir araya geldi.",
-        "source": "NTV",
-        "published": "2026-05-19T19:55:54+03:00"
       },
       {
         "title": "ABD Başkan Yardımcısı Vance: 'İran savaşı sonsuza dek sürecek değil'",
@@ -707,60 +756,11 @@
         "published": "2026-05-19T18:59:22+00:00"
       },
       {
-        "title": "Dışişleri Bakanlığı'ndan Yunanistan'a \"Pontus\" tepkisi",
-        "link": "https://www.ntv.com.tr/turkiye/disisleri-bakanligindan-yunanistana-pontus-tepkisi-1725057",
-        "description": "Dışişleri Bakanlığı Yunanistan'ın Pontus iddialarına yazılı açıklamayla tepki gösterdi.",
-        "source": "NTV",
-        "published": "2026-05-19T18:11:35+03:00"
-      },
-      {
-        "title": "Hull City'nin Premier Lig'e yükselme finalindeki rakibi Southampton diskalifiye edildi",
-        "link": "https://www.bbc.com/turkce/articles/cpdpjd2n9ygo?at_medium=RSS&at_campaign=rss",
-        "description": "İngiltere'de Premier Lig'e çıkacak son takımı belirleyecek final karşılaşmasında Hull City ile karşı karşıya gelecek Southampton ekibi casusluk skandalı yüzünden diskalifiye edildi.",
-        "source": "BBC Turkish",
-        "published": "2026-05-19T18:01:41+00:00"
-      },
-      {
-        "title": "Bahçeli'nin süreç önerisi. Ömer Çelik: Çeşitli aşamalarda yol haritası güncellenecek",
-        "link": "https://www.ntv.com.tr/turkiye/omer-celik-soykirim-sebekesi-soykirimi-surduruyor-1725055",
-        "description": "AK Parti Sözcüsü Ömer Çelik, MHP lideri Devlet Bahçeli'nin Terörsüz Türkiye süreciyle ilgili açıklamalarına ilişkin, \"Cumhur ittifakı bir ve bütün olarak hareket ediyor. Yol haritamızı güncelleyerek yolumuza devam edeceğiz.\" dedi.",
-        "source": "NTV",
-        "published": "2026-05-19T18:00:46+03:00"
-      },
-      {
-        "title": "İzmir'de vahşet: Bir kadın yakılarak öldürüldü, katil zanlısının ifadesi ortaya çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/izmirde-vahset-bir-kadin-yakilarak-olduruldu-katil-zanlisinin-ifadesi-ortaya-cikti-1725047",
-        "description": "İzmir'de bir kadın yakılarak öldürüldü. Gözaltına alınan Dilek D., Emine Dönmez isimli kadının başını vurarak yaşamını yitirdiğini öne sürüp, panikleyip cesedi yaktığını iddia etti.",
-        "source": "NTV",
-        "published": "2026-05-19T15:55:35+03:00"
-      },
-      {
-        "title": "Maldivler'de beş İtalyan dalgıcın cesetleri günler sonra bulundu: 'Neden öldüler?' sorusuna yanıt aranıyor",
-        "link": "https://www.bbc.com/turkce/articles/cwy2x3w4gpyo?at_medium=RSS&at_campaign=rss",
-        "description": "Maldivler'de geçen hafta bir dalış sırasında hayatını kaybeden beş İtalya vatandaşından ikisinin cansız bedenleri su altındaki bir mağarada bulunarak yüzeye çıkarıldı.",
-        "source": "BBC Turkish",
-        "published": "2026-05-19T15:50:59+00:00"
-      },
-      {
         "title": "Moda devi Mango'nun İstanbul doğumlu kurucusunun ölümüyle ilgili oğlu gözaltında",
         "link": "https://www.bbc.com/turkce/articles/cr5pzpqdzdjo?at_medium=RSS&at_campaign=rss",
         "description": "Moda ve perakende devi Mango'nun İstanbul doğumlu kurucusu İsak Andic Ermay'ın oğlu, babasının ölümüyle ilgili gözaltına alındı.",
         "source": "BBC Turkish",
         "published": "2026-05-19T15:18:46+00:00"
-      },
-      {
-        "title": "Swatch'ın Royal Pop saati neden bu kadar heyecan ve kaos yarattı?",
-        "link": "https://www.bbc.com/turkce/articles/c1527d9njxzo?at_medium=RSS&at_campaign=rss",
-        "description": "Özel bir cep saatinin piyasaya sürülmesi, dünya çapında mağazaların kapanmasına ve bazı vakalarda polislerin ve güvenlik görevlilerinin büyük kalabalıklarla uğraşmasına neden olan bir çılgınlığa yol açtı.",
-        "source": "BBC Turkish",
-        "published": "2026-05-19T14:27:02+00:00"
-      },
-      {
-        "title": "VİDEO | 19 Mayıs 1919: Atatürk'ün Samsun'a çıkışı öncesi ve sonrası neler yaşandı?",
-        "link": "https://www.bbc.com/turkce/articles/c4g94rr5el5o?at_medium=RSS&at_campaign=rss",
-        "description": "Mustafa Kemal Atatürk, 19 Mayıs 1919'da Bandırma Vapuru ile Samsun'a çıkmış ve İtilaf Devletleri'nin işgaline karşı Kurtuluş Savaşı'nı başlatmıştı.",
-        "source": "BBC Turkish",
-        "published": "2026-05-19T09:49:40+00:00"
       },
       {
         "title": "BBC Türkçe araştırdı: Masquerade Gece Kulübü yangınında 29 kişi neden öldü?",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8612
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+87°F",
-    "wind": "→9mph",
-    "humidity": "8%"
+    "condition": "Açık",
+    "temp": "+60°F",
+    "wind": "↓2mph",
+    "humidity": "30%"
   }
 }
