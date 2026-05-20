@@ -1,11 +1,109 @@
 {
-  "updated_at": "2026-05-20T18:40:12.049373+00:00",
+  "updated_at": "2026-05-20T20:59:25.119010+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "The SpaceX IPO filing has arrived",
+        "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
+        "description": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever.",
+        "source": "TechCrunch",
+        "published": "2026-05-20T20:52:00+00:00"
+      },
+      {
+        "title": "Microsoft’s carbon removal plans aren’t dead after all",
+        "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+        "description": "Microsoft is responsible for over 90% of the carbon removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.",
+        "source": "TechCrunch",
+        "published": "2026-05-20T20:30:24+00:00"
+      },
+      {
+        "title": "Intel’in Yeni Nesil Ekran Kartı GPU Ortaya Çıktı",
+        "link": "https://shiftdelete.net/intelin-yeni-nesil-ekran-karti-gpu-ortaya-cikti",
+        "description": "Intel'in yapay zeka çıkarımına odaklanan yeni veri merkezi GPU'su Crescent Island, 160GB LPDDR5X bellek ve Xe3P mimarisiyle görüntülendi.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T20:30:00+00:00"
+      },
+      {
+        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+        "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+        "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+        "source": "TechCrunch",
+        "published": "2026-05-20T20:28:27+00:00"
+      },
+      {
+        "title": "SpaceX punts Starship launch as investigation opens into Starbase worker's death",
+        "link": "https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/",
+        "description": "Article URL: https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/ Comments URL: https://news.ycombinator.com/item?id=48213550 Points: 11 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-20T20:21:14+00:00"
+      },
+      {
+        "title": "Linus Torvalds: Yapay Zeka Devrim Değil",
+        "link": "https://shiftdelete.net/linus-torvalds-yapay-zeka-devrim-degil",
+        "description": "Linux'un yaratıcısı Linus Torvalds, yapay zeka araçlarının yazılım geliştirme üzerindeki etkilerini ve güvenlik risklerini değerlendirdi.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T20:00:00+00:00"
+      },
+      {
+        "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+        "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+        "description": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+        "source": "TechCrunch",
+        "published": "2026-05-20T19:47:20+00:00"
+      },
+      {
+        "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+        "link": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+        "description": "Article URL: https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing Comments URL: https://news.ycombinator.com/item?id=48212992 Points: 14 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-05-20T19:38:25+00:00"
+      },
+      {
+        "title": "Siri ve Sesle Denetim için Büyük Güncelleme Yolda",
+        "link": "https://shiftdelete.net/siri-ve-sesle-denetim-icin-buyuk-guncelleme-yolda",
+        "description": "Apple, iOS 27 ile Siri ve Sesle Denetim özelliklerini yapay zeka ile yeniliyor. Yeni yetenekler ve donanım gereksinimleri hakkında tüm detaylar burada.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T19:30:00+00:00"
+      },
+      {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "description": "Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/ Comments URL: https://news.ycombinator.com/item?id=48212493 Points: 301 # Comments: 194",
+        "source": "HackerNews",
+        "published": "2026-05-20T19:05:30+00:00"
+      },
+      {
+        "title": "One UI 8.5 Tabletlere Geldi",
+        "link": "https://shiftdelete.net/one-ui-8-5-tabletlere-geldi",
+        "description": "Samsung, Galaxy Tab S11 ve S11 Ultra modelleri için kararlı One UI 8.5 güncellemesini yayınladı. İşte yeni özellikler ve güncelleme detayları.",
+        "source": "ShiftDelete",
+        "published": "2026-05-20T19:00:00+00:00"
+      },
+      {
+        "title": "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
+        "link": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
+        "description": "Article URL: https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report Comments URL: https://news.ycombinator.com/item?id=48212279 Points: 112 # Comments: 92",
+        "source": "HackerNews",
+        "published": "2026-05-20T18:50:59+00:00"
+      },
+      {
+        "title": "Node.js 26.0.0 (Now with Temporal)",
+        "link": "https://nodejs.org/en/blog/release/v26.0.0",
+        "description": "Article URL: https://nodejs.org/en/blog/release/v26.0.0 Comments URL: https://news.ycombinator.com/item?id=48212242 Points: 65 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-05-20T18:48:30+00:00"
+      },
+      {
+        "title": "Flipper One Tech Specs",
+        "link": "https://docs.flipper.net/one/general/tech-specs",
+        "description": "Article URL: https://docs.flipper.net/one/general/tech-specs Comments URL: https://news.ycombinator.com/item?id=48212046 Points: 86 # Comments: 28",
+        "source": "HackerNews",
+        "published": "2026-05-20T18:33:56+00:00"
+      },
+      {
         "title": "Tesla’s Full Self-Driving software is creeping into Europe",
         "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
-        "description": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver assistance system.",
+        "description": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
         "source": "TechCrunch",
         "published": "2026-05-20T18:32:06+00:00"
       },
@@ -17,16 +115,9 @@
         "published": "2026-05-20T18:30:00+00:00"
       },
       {
-        "title": "Cooling copper plates could slash data center energy use by 90%",
-        "link": "https://newatlas.com/energy/cooling-copper-plates-data-center-energy-use/",
-        "description": "Article URL: https://newatlas.com/energy/cooling-copper-plates-data-center-energy-use/ Comments URL: https://news.ycombinator.com/item?id=48211784 Points: 5 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-05-20T18:15:55+00:00"
-      },
-      {
         "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
         "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-        "description": "Airbnb will soon let you book luggage storage and car rental services on its app",
+        "description": "Airbnb will soon let you book luggage storage and car rental services on its app.",
         "source": "TechCrunch",
         "published": "2026-05-20T18:14:04+00:00"
       },
@@ -66,11 +157,25 @@
         "published": "2026-05-20T17:54:43+03:00"
       },
       {
-        "title": "Global EV market goes K-shaped as the U.S. gets left behind",
+        "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+        "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+        "description": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained Comments URL: https://news.ycombinator.com/item?id=48211409 Points: 40 # Comments: 23",
+        "source": "HackerNews",
+        "published": "2026-05-20T17:48:52+00:00"
+      },
+      {
+        "title": "Global EV market goes K-shaped as the US gets left behind",
         "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
         "description": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
         "source": "TechCrunch",
         "published": "2026-05-20T17:34:00+00:00"
+      },
+      {
+        "title": "Why is Inkwell stuck in review",
+        "link": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+        "description": "Article URL: https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html Comments URL: https://news.ycombinator.com/item?id=48211134 Points: 51 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-05-20T17:30:15+00:00"
       },
       {
         "title": "AWS Local Zone İstanbul’da Artık Aktif",
@@ -80,9 +185,9 @@
         "published": "2026-05-20T17:30:00+00:00"
       },
       {
-        "title": "OpenAI barrels towards IPO that may happen in September",
-        "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
-        "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+        "title": "OpenAI barrels toward IPO that may happen in September",
+        "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+        "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
         "source": "TechCrunch",
         "published": "2026-05-20T17:24:24+00:00"
       },
@@ -108,39 +213,11 @@
         "published": "2026-05-20T17:00:00+00:00"
       },
       {
-        "title": "I Don't Vibe Code",
-        "link": "https://jacobharr.is/personal/i-dont-vibe-code",
-        "description": "Article URL: https://jacobharr.is/personal/i-dont-vibe-code Comments URL: https://news.ycombinator.com/item?id=48210667 Points: 48 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-05-20T16:56:42+00:00"
-      },
-      {
-        "title": "After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban",
-        "link": "https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/",
-        "description": "Article URL: https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/ Comments URL: https://news.ycombinator.com/item?id=48210644 Points: 73 # Comments: 58",
-        "source": "HackerNews",
-        "published": "2026-05-20T16:55:17+00:00"
-      },
-      {
-        "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
-        "link": "https://news.ycombinator.com/item?id=48210590",
-        "description": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage Everytime I read something like this , I get nervous about the cloud providers and Google. Since this is a relatively high profile customer standards, shouldn't they explain...",
-        "source": "HackerNews",
-        "published": "2026-05-20T16:50:54+00:00"
-      },
-      {
         "title": "Discord'a Uçtan Uca Şifreleme Geldi",
         "link": "\n                    https://www.webtekno.com/discord-sesli-goruntulu-gorusme-uctan-uca-sifreleme-h217234.html\n                    ",
         "description": "Discord, sesli ve görüntülü görüşmelere uçtan uca şifreleme getirdiğini duyurdu.",
         "source": "Webtekno",
         "published": "2026-05-20T16:45:40+03:00"
-      },
-      {
-        "title": "CEO Walks Back Comment About Replacing 'Lower-Value Human Capital' with AI",
-        "link": "https://www.wsj.com/finance/banking/ceo-walks-back-comment-about-replacing-lower-value-human-capital-with-ai-15bdfc5c",
-        "description": "Article URL: https://www.wsj.com/finance/banking/ceo-walks-back-comment-about-replacing-lower-value-human-capital-with-ai-15bdfc5c Comments URL: https://news.ycombinator.com/item?id=48210413 Points: 27 # Comments: 17",
-        "source": "HackerNews",
-        "published": "2026-05-20T16:38:10+00:00"
       },
       {
         "title": "Yeni Dacia Logan Türkiye’ye Dönüyor: İşte Fiyatı",
@@ -152,7 +229,7 @@
       {
         "title": "Apparently Google hates us now",
         "link": "https://twitter.com/pokemoncentral/status/2057123807404638250",
-        "description": "Article URL: https://twitter.com/pokemoncentral/status/2057123807404638250 Comments URL: https://news.ycombinator.com/item?id=48210263 Points: 228 # Comments: 91",
+        "description": "Article URL: https://twitter.com/pokemoncentral/status/2057123807404638250 Comments URL: https://news.ycombinator.com/item?id=48210263 Points: 347 # Comments: 176",
         "source": "HackerNews",
         "published": "2026-05-20T16:27:25+00:00"
       },
@@ -185,18 +262,18 @@
         "published": "2026-05-20T16:23:18+00:00"
       },
       {
+        "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
+        "link": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+        "description": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a...",
+        "source": "The Verge",
+        "published": "2026-05-20T16:03:02-04:00"
+      },
+      {
         "title": "Yenilenen Dacia Logan Türkiye'de: İşte Fiyatı ve Özellikleri",
         "link": "\n                    https://www.webtekno.com/yeni-dacia-logan-turkiye-fiyati-ozellikleri-h217243.html\n                    ",
         "description": "Yenilenen Dacia Logan'ın Türkiye fiyatı açıklandı.",
         "source": "Webtekno",
         "published": "2026-05-20T16:00:51+03:00"
-      },
-      {
-        "title": "iPhone 18 Pro için 10 Bin Dolarlık Lüks Koleksiyon Satışa Çıktı",
-        "link": "https://shiftdelete.net/iphone-18-pro-icin-10-bin-dolarlik-luks-koleksiyon-satisa-cikti",
-        "description": "Apple, yeni nesil akıllı telefon serisi iPhone 18 Pro ve Pro Max modellerini resmi olarak duyurmak için önünde hala birkaç aylık bir süreye sahipken, lüks tüketim dünyasından ezber bozan bir hamle geliyor. Akıllı telefonları altın, titanyum, elmas...",
-        "source": "ShiftDelete",
-        "published": "2026-05-20T16:00:34+00:00"
       },
       {
         "title": "Show HN: Lance – image/video generation and understanding in one model",
@@ -206,20 +283,6 @@
         "published": "2026-05-20T15:45:32+00:00"
       },
       {
-        "title": "SBCL: the ultimate assembly code breadboard (2014)",
-        "link": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-        "description": "Article URL: https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/ Comments URL: https://news.ycombinator.com/item?id=48209558 Points: 69 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-05-20T15:39:48+00:00"
-      },
-      {
-        "title": "Xiaomi 17 Max Performans Testinde Sınırları Zorluyor",
-        "link": "https://shiftdelete.net/xiaomi-17-max-performans-testinde-sinirlari-zorluyor",
-        "description": "Akıllı telefon dünyasında heyecanla beklenen Xiaomi 17 Max, 21 Mayıs tarihinde gerçekleşecek büyük lansman öncesinde Geekbench performans testlerinde yüzünü gösteriyor. Sektördeki amiral gemisi rekabetini yepyeni bir boyuta taşıyan bu cihaz,...",
-        "source": "ShiftDelete",
-        "published": "2026-05-20T15:30:13+00:00"
-      },
-      {
         "title": "Customers say Trump Mobile is leaking their personal information",
         "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
         "description": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
@@ -227,67 +290,11 @@
         "published": "2026-05-20T15:28:55+00:00"
       },
       {
-        "title": "Formal Verification Gates for AI Coding Loops",
-        "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-        "description": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 53 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-05-20T15:25:45+00:00"
-      },
-      {
-        "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-        "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-        "description": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
-        "source": "TechCrunch",
-        "published": "2026-05-20T15:14:31+00:00"
-      },
-      {
-        "title": "Stable Audio 3",
-        "link": "https://arxiv.org/abs/2605.17991",
-        "description": "Article URL: https://arxiv.org/abs/2605.17991 Comments URL: https://news.ycombinator.com/item?id=48209105 Points: 49 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-05-20T15:10:05+00:00"
-      },
-      {
-        "title": "AI search startups are blowing up",
-        "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-        "description": "AI search has quietly become one of the most attractive targets in consumer AI.",
-        "source": "TechCrunch",
-        "published": "2026-05-20T15:04:45+00:00"
-      },
-      {
-        "title": "Stability AI releases a new audio model that can create 6-minute songs",
-        "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-        "description": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-        "source": "TechCrunch",
-        "published": "2026-05-20T15:00:00+00:00"
-      },
-      {
-        "title": "Antigravity 2.0 IDE’leri Çökertti: Kesin Çözüm Paylaşıldı",
-        "link": "https://shiftdelete.net/antigravity-2-0-ideleri-cokertti-kesin-cozum-paylasildi",
-        "description": "Google'ın yeni nesil yapay zeka asistanı Antigravity 2.0 güncellemesi, binlerce geliştiricinin sistemini kilitledi! Çöken IDE sorununu çözmek ve yeni ajan mimarisine sorunsuz geçiş yapmak için izlemeniz gereken temiz kurulum adımları haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-05-20T14:30:15+00:00"
-      },
-      {
-        "title": "Cebimiz neden yanıyor? Her şey pahalanacak! Android 17, GTA 6 ve teknoloji gündemi TeknoMaxx #2",
-        "link": "https://shiftdelete.net/cebimiz-neden-yaniyor-her-sey-pahalanacak-android-17-gta-6-ve-teknoloji-gundemi-teknomaxx-2",
-        "description": "Yeni haftalık teknoloji programımız TeknoMaxx 2. bölümüyle karşınızda. Telefonlar, bilgisayarlar daha da pahalanacak. Zaten pahalanan ve zamlanan teknoloji dünyası yapay zeka ve küresel gelişmelerle beraber daha da zamlanacak. TeknoMaxx’in ilk...",
-        "source": "ShiftDelete",
-        "published": "2026-05-20T14:27:56+00:00"
-      },
-      {
         "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
         "link": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
         "description": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm...",
         "source": "The Verge",
         "published": "2026-05-20T14:14:38-04:00"
-      },
-      {
-        "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-        "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-        "description": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
-        "source": "TechCrunch",
-        "published": "2026-05-20T14:00:00+00:00"
       },
       {
         "title": "Google Search’s AI evolution includes more ads",
@@ -344,18 +351,60 @@
         "description": "Whether you’re heading out for a quick Memorial Day getaway or preparing for summer travel, a reliable power bank can come in handy when there’s no outlet in sight. Fortunately, Anker’s Laptop Power Bank can keep all your essential gadgets charged,...",
         "source": "The Verge",
         "published": "2026-05-20T11:33:08-04:00"
-      },
-      {
-        "title": "The Verge’s 2026 high school graduation gift guide",
-        "link": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
-        "description": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at...",
-        "source": "The Verge",
-        "published": "2026-05-20T09:37:15-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Streeting warns Labour risks losing fight against nationalism",
+        "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+        "link": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+        "description": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators and police...",
+        "source": "The Guardian",
+        "published": "2026-05-20T20:28:28+00:00"
+      },
+      {
+        "title": "Women who died in sea off Brighton were sisters",
+        "link": "https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&at_campaign=rss",
+        "description": "Paying tribute, their father says \"no words can truly describe the pain of losing three daughters\".",
+        "source": "BBC News",
+        "published": "2026-05-20T20:23:02+00:00"
+      },
+      {
+        "title": "London bus driver dies after assault on bridge",
+        "link": "https://www.bbc.com/news/articles/clypnj4dnk5o?at_medium=RSS&at_campaign=rss",
+        "description": "Sergei Krajev, 64, was taken to hospital after he was found critically injured on Monday.",
+        "source": "BBC News",
+        "published": "2026-05-20T20:11:14+00:00"
+      },
+      {
+        "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+        "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+        "description": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+        "source": "BBC News",
+        "published": "2026-05-20T20:11:02+00:00"
+      },
+      {
+        "title": "UK agrees £3.7bn trade deal with six Gulf states",
+        "link": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
+        "description": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
+        "source": "BBC News",
+        "published": "2026-05-20T19:41:50+00:00"
+      },
+      {
+        "title": "Canada faces calls for investigation into death of woman after plasma donation",
+        "link": "https://www.theguardian.com/world/2026/may/20/canada-plasma-death",
+        "description": "International student Rodiyat Alabede, 22, died due to a ‘perfect storm’ of lax safety protocols, advocates say Patient advocates in Canada have called for a new investigation into the death of a young woman who was donating blood plasma, describing...",
+        "source": "The Guardian",
+        "published": "2026-05-20T19:06:51+00:00"
+      },
+      {
+        "title": "Backlash over Department for Education videos with Gemma Collins",
+        "link": "https://www.bbc.com/news/articles/cd6pw448nqdo?at_medium=RSS&at_campaign=rss",
+        "description": "The education secretary defends videos starring The Only Way Is Essex star promoting post-16 education.",
+        "source": "BBC News",
+        "published": "2026-05-20T18:42:37+00:00"
+      },
+      {
+        "title": "Streeting warns Labour risks losing fight against 'nationalism'",
         "link": "https://www.bbc.com/news/articles/cpvp7r80v22o?at_medium=RSS&at_campaign=rss",
         "description": "The former health secretary quit last week, saying he'd lost confidence in Prime Minister Sir Keir Starmer's leadership.",
         "source": "BBC News",
@@ -383,39 +432,11 @@
         "published": "2026-05-20T17:05:12+00:00"
       },
       {
-        "title": "Women who died in sea off Brighton were sisters",
-        "link": "https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&at_campaign=rss",
-        "description": "Paying tribute, their father says \"no words can truly describe the pain of losing three daughters\".",
-        "source": "BBC News",
-        "published": "2026-05-20T16:57:28+00:00"
-      },
-      {
-        "title": "Temperatures could reach 30C in bank holiday weekend heatwave",
-        "link": "https://www.bbc.com/weather/articles/c3328epvm2do?at_medium=RSS&at_campaign=rss",
-        "description": "The warmest weather of the year is forecast over the bank holiday weekend as some places may reach the earliest 30 Celsius in the UK since 1952.",
-        "source": "BBC News",
-        "published": "2026-05-20T16:56:14+00:00"
-      },
-      {
-        "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-        "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
-        "source": "BBC News",
-        "published": "2026-05-20T16:34:40+00:00"
-      },
-      {
-        "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
-        "link": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
-        "description": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators and police...",
-        "source": "The Guardian",
-        "published": "2026-05-20T16:23:25+00:00"
-      },
-      {
-        "title": "Men given life terms after woman shot dead at wake",
-        "link": "https://www.bbc.com/news/articles/c4g4w9n8k3no?at_medium=RSS&at_campaign=rss",
-        "description": "Michelle Sadio was caught in the crossfire as shots were fired at mourners outside a wake.",
-        "source": "BBC News",
-        "published": "2026-05-20T16:04:35+00:00"
+        "title": "How to help children cope after shootings like the San Diego mosque killings",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5828810/mass-shooting-san-diego-mosque-trauma-children-buffer",
+        "description": "Children closest to an incident of gun violence have the most risk of lasting psychological effects. Here's what all parents should know about how to buffer trauma.",
+        "source": "NPR",
+        "published": "2026-05-20T16:24:19-04:00"
       },
       {
         "title": "Russian jets 'dangerously' intercept RAF spy plane over Black Sea",
@@ -425,11 +446,11 @@
         "published": "2026-05-20T16:00:05+00:00"
       },
       {
-        "title": "'At least it wasn't on my head': King laughs off bird poo misfortune",
-        "link": "https://www.bbc.com/news/articles/c0l2x0r10r5o?at_medium=RSS&at_campaign=rss",
-        "description": "King Charles and Queen Camilla are continuing engagements on day two of their visit to Northern Ireland.",
-        "source": "BBC News",
-        "published": "2026-05-20T15:46:45+00:00"
+        "title": "The U.S. threatens to revoke the Palestinian U.N. ambassador's visa",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5828826/us-palestinians-un",
+        "description": "A leaked State Department memo shows the U.S. threatened to revoke Palestinian visas if they pushed for a senior United Nations post.",
+        "source": "NPR",
+        "published": "2026-05-20T14:58:05-04:00"
       },
       {
         "title": "Meta slashes 8,000 jobs as it pivots towards AI",
@@ -509,20 +530,6 @@
         "published": "2026-05-20T10:58:11-04:00"
       },
       {
-        "title": "Barney Frank, former congressman and gay-rights pioneer, dies at 86",
-        "link": "https://www.npr.org/2026/05/20/g-s1-123012/barney-frank",
-        "description": "The former congressman was politically engaged until the end. As GBH reports, Even in hospice, Frank was actively working to spread the message of his forthcoming book, \"The Hard Path to Unity: Why We Must Reform the Left to Rescue Democracy.\"",
-        "source": "NPR",
-        "published": "2026-05-20T10:53:48-04:00"
-      },
-      {
-        "title": "How one Oregon city has raised a billion dollars for climate change",
-        "link": "https://www.npr.org/2026/05/20/nx-s1-5734498/portland-funding-climate-change-corporations-retail-tax",
-        "description": "The Portland Clean Energy Fund has raised a billion dollars for climate change action via a retail tax on large corporations in the city. Other cities are starting to shape similar funds.",
-        "source": "NPR",
-        "published": "2026-05-20T10:00:00-04:00"
-      },
-      {
         "title": "Did Trump really rescue Venezuela? – podcast",
         "link": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
         "description": "Tom Phillips on life in the country four months after the US abduction of the former president Nicolás Maduro “The last time I flew out of Venezuela was right at the start of August 2024, just after the disputed presidential election,” the...",
@@ -535,13 +542,6 @@
         "description": "US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identifying the...",
         "source": "The Guardian",
         "published": "2026-05-19T18:44:54+00:00"
-      },
-      {
-        "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-        "link": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-        "description": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny, is facing...",
-        "source": "The Guardian",
-        "published": "2026-05-19T17:13:14+00:00"
       },
       {
         "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
@@ -567,32 +567,95 @@
     ],
     "turkiye": [
       {
-        "title": "UEFA'dan İstanbul'da kritik milli takım kararı",
-        "link": "https://www.sozcu.com.tr/uefa-dan-istanbul-da-kritik-milli-takim-karari-p321385",
-        "description": "UEFA'dan İstanbul'da kritik milli takım kararı",
+        "title": "Umman Körfezi’nde gerginlik! ABD askerleri İran bayraklı gemiye çıkarma yaptı",
+        "link": "https://www.sozcu.com.tr/umman-korfezi-nde-gerginlik-abd-askerleri-iran-bayrakli-gemiye-cikarma-yapti-p321407",
+        "description": "Umman Körfezi’nde gerginlik! ABD askerleri İran bayraklı gemiye çıkarma yaptı",
         "source": "Sözcü",
-        "published": "2026-05-20T21:38:21+03:00"
+        "published": "2026-05-20T23:58:08+03:00"
       },
       {
-        "title": "Fenerbahçe Final Four için Atina'da",
-        "link": "https://www.sozcu.com.tr/fenerbahce-final-four-icin-atina-da-p321382",
-        "description": "Fenerbahçe Final Four için Atina'da",
+        "title": "Kılıçdaroğlu'na yakın yandaş yazar 'mutlak butlan' için tarih verdi: 'UYAP'a yüklenecek'",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-na-yakin-yandas-yazar-mutlak-butlan-icin-tarih-verdi-uyap-a-yuklenecek-p321396",
+        "description": "Kılıçdaroğlu'na yakın yandaş yazar 'mutlak butlan' için tarih verdi: 'UYAP'a yüklenecek'",
         "source": "Sözcü",
-        "published": "2026-05-20T21:35:54+03:00"
+        "published": "2026-05-20T23:51:27+03:00"
+      },
+      {
+        "title": "100 kilometrelik dağ yolunu kayaların içini oyarak yaptılar",
+        "link": "https://www.sozcu.com.tr/100-kilometrelik-dag-yolunu-kayalarin-icini-oyarak-yaptilar-p321397",
+        "description": "100 kilometrelik dağ yolunu kayaların içini oyarak yaptılar",
+        "source": "Sözcü",
+        "published": "2026-05-20T23:11:50+03:00"
+      },
+      {
+        "title": "‘Vuracağız’ diyen Trump’a İran’dan yanıt!",
+        "link": "https://www.sozcu.com.tr/vuracagiz-diyen-trump-a-iran-dan-yanit-p321395",
+        "description": "‘Vuracağız’ diyen Trump’a İran’dan yanıt!",
+        "source": "Sözcü",
+        "published": "2026-05-20T23:05:27+03:00"
+      },
+      {
+        "title": "Harvard Üniversitesi, A notuna sınır getiriyor",
+        "link": "https://www.ntv.com.tr/turkiye/harvard-universitesi-a-notuna-sinir-getiriyor-1725216",
+        "description": "Harvard Üniversitesi öğretim üyeleri, giderek büyüyen ‘not enflasyonu’ sorununu engellemek amacıyla lisans öğrencilerine verilen A notlarına sınırlama getirdi.",
+        "source": "NTV",
+        "published": "2026-05-20T23:01:22+03:00"
+      },
+      {
+        "title": "Gençlerbirliği büyük dertten kurtuldu",
+        "link": "https://www.sozcu.com.tr/genclerbirligi-buyuk-dertten-kurtuldu-p321394",
+        "description": "Gençlerbirliği büyük dertten kurtuldu",
+        "source": "Sözcü",
+        "published": "2026-05-20T22:51:51+03:00"
+      },
+      {
+        "title": "Beton ve çelik binalar tarih olabilir: 10 katlı ahşap binayı deprem simülatöründe salladılar",
+        "link": "https://www.sozcu.com.tr/beton-ve-celik-binalar-tarih-olabilir-10-katli-ahsap-binayi-deprem-simulatorunde-salladilar-p321393",
+        "description": "Beton ve çelik binalar tarih olabilir: 10 katlı ahşap binayı deprem simülatöründe salladılar",
+        "source": "Sözcü",
+        "published": "2026-05-20T22:31:09+03:00"
+      },
+      {
+        "title": "Rasim Ozan Kütahyalı’nın cezaevi değiştirildi",
+        "link": "https://www.sozcu.com.tr/rasim-ozan-kutahyali-nin-cezaevi-degistirildi-p321392",
+        "description": "Rasim Ozan Kütahyalı’nın cezaevi değiştirildi",
+        "source": "Sözcü",
+        "published": "2026-05-20T22:12:08+03:00"
+      },
+      {
+        "title": "Milli yıldız Fenerbahçe'ye geri döndü",
+        "link": "https://www.sozcu.com.tr/milli-yildiz-fenerbahce-ye-geri-dondu-p321391",
+        "description": "Milli yıldız Fenerbahçe'ye geri döndü",
+        "source": "Sözcü",
+        "published": "2026-05-20T22:06:56+03:00"
+      },
+      {
+        "title": "Kılıçdaroğlu'nun videosuna Özgür Özel'den ilk yanıt",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-videosuna-ozgur-ozel-den-ilk-yanit-p321388",
+        "description": "Kılıçdaroğlu'nun videosuna Özgür Özel'den ilk yanıt",
+        "source": "Sözcü",
+        "published": "2026-05-20T21:51:28+03:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan ABD Başkanı Trump ile görüştü",
         "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1725215",
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi.",
         "source": "NTV",
-        "published": "2026-05-20T21:24:22+03:00"
+        "published": "2026-05-20T21:50:56+03:00"
       },
       {
-        "title": "Tokat’ta yıldırımın ağaçlık alana düşme anı kamerada",
-        "link": "https://www.sozcu.com.tr/tokat-ta-yildirimin-agaclik-alana-dusme-ani-kamerada-p321380",
-        "description": "Tokat’ta yıldırımın ağaçlık alana düşme anı kamerada",
+        "title": "Mehmet Akif Ersoy hakkında iddianame hazır. 286 yıla kadar hapis talebi",
+        "link": "https://www.ntv.com.tr/turkiye/mehmet-aksf-ersoy-hakkinda-iddianame-hazir-1725202",
+        "description": "Ünlülere yönelik uyuşturucu soruşturması kapsamında tutuklanan Habertürk TV eski genel yayın yönetmeni Mehmet Akif Ersoy hakkında iddianame hazırlandı.",
+        "source": "NTV",
+        "published": "2026-05-20T21:44:32+03:00"
+      },
+      {
+        "title": "Okyanusların altındaki bu madde ülkeleri harekete geçirdi",
+        "link": "https://www.sozcu.com.tr/okyanuslarin-altindaki-bu-madde-ulkeleri-harekete-gecirdi-p321387",
+        "description": "Okyanusların altındaki bu madde ülkeleri harekete geçirdi",
         "source": "Sözcü",
-        "published": "2026-05-20T21:17:23+03:00"
+        "published": "2026-05-20T21:43:24+03:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan, Sudan Başbakanı İdris'i kabul etti",
@@ -602,67 +665,11 @@
         "published": "2026-05-20T21:12:36+03:00"
       },
       {
-        "title": "Mehmet Akif Ersoy hakkında iddianame hazır. 286 yıla kadar hapis talebi",
-        "link": "https://www.ntv.com.tr/turkiye/mehmet-aksf-ersoy-hakkinda-iddianame-hazir-1725202",
-        "description": "Ünlülere yönelik uyuşturucu soruşturması kapsamında tutuklanan Habertürk TV eski genel yayın yönetmeni Mehmet Akif Ersoy hakkında iddianame hazırlandı.",
-        "source": "NTV",
-        "published": "2026-05-20T21:05:01+03:00"
-      },
-      {
-        "title": "Dolmabahçe'de Atatürk'e büyük saygısızlık",
-        "link": "https://www.sozcu.com.tr/dolmabahce-de-ataturk-e-buyuk-saygisizlik-p321376",
-        "description": "Dolmabahçe'de Atatürk'e büyük saygısızlık",
-        "source": "Sözcü",
-        "published": "2026-05-20T20:53:39+03:00"
-      },
-      {
-        "title": "Ümit Özdağ: Kılıçdaroğlu’nun çağrısı seçmeni kızdırır, ben olsam oturup kitap yazardım",
-        "link": "https://www.sozcu.com.tr/umit-ozdag-kilicdaroglu-nun-cagrisi-secmeni-kizdirir-ben-olsam-oturup-kitap-yazardim-p321375",
-        "description": "Ümit Özdağ: Kılıçdaroğlu’nun çağrısı seçmeni kızdırır, ben olsam oturup kitap yazardım",
-        "source": "Sözcü",
-        "published": "2026-05-20T20:49:25+03:00"
-      },
-      {
-        "title": "Türkiye'deki bu ATM'lerin tamamı yasaklandı",
-        "link": "https://www.sozcu.com.tr/turkiye-deki-bu-atm-lerin-tamami-yasaklandi-p321374",
-        "description": "Türkiye'deki bu ATM'lerin tamamı yasaklandı",
-        "source": "Sözcü",
-        "published": "2026-05-20T20:39:45+03:00"
-      },
-      {
         "title": "Bakan Gürlek. \"15-18 yaş arasına ilişkin infaz düzenlemesi değiştirilecek\"",
         "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-15-18-yas-arasina-iliskin-infaz-duzenlemesi-degistirilecek-1725210",
         "description": "Adalet Bakanı Akın Gürlek, 15-18 yaş aralığındakilere ilişkin infaz düzenlemesinin değiştirileceğini açıkladı.",
         "source": "NTV",
         "published": "2026-05-20T20:35:53+03:00"
-      },
-      {
-        "title": "Psikologlara göre yetişkinler çocukluk oyunlarına bu yüzden dönüyor",
-        "link": "https://www.sozcu.com.tr/psikologlara-gore-yetiskinler-cocukluk-oyunlarina-bu-yuzden-donuyor-p321373",
-        "description": "Psikologlara göre yetişkinler çocukluk oyunlarına bu yüzden dönüyor",
-        "source": "Sözcü",
-        "published": "2026-05-20T20:30:23+03:00"
-      },
-      {
-        "title": "A Milli Takım’a Arda Güler müjdesi! 2026 Dünya Kupası öncesi kritik gelişme",
-        "link": "https://www.sozcu.com.tr/a-milli-takim-a-arda-guler-mujdesi-2026-dunya-kupasi-oncesi-kritik-gelisme-p321370",
-        "description": "A Milli Takım’a Arda Güler müjdesi! 2026 Dünya Kupası öncesi kritik gelişme",
-        "source": "Sözcü",
-        "published": "2026-05-20T20:12:56+03:00"
-      },
-      {
-        "title": "9 milyar doları gözden çıkardılar: Denizi doldurup yeni nesil mega liman inşa edecekler",
-        "link": "https://www.sozcu.com.tr/9-milyar-dolari-gozden-cikardilar-denizi-doldurup-yeni-nesil-mega-liman-insa-edecekler-p321371",
-        "description": "9 milyar doları gözden çıkardılar: Denizi doldurup yeni nesil mega liman inşa edecekler",
-        "source": "Sözcü",
-        "published": "2026-05-20T20:06:29+03:00"
-      },
-      {
-        "title": "O çocuklar yakın takibe alınacak",
-        "link": "https://www.sozcu.com.tr/o-cocuklar-yakin-takibe-alinacak-p321368",
-        "description": "O çocuklar yakın takibe alınacak",
-        "source": "Sözcü",
-        "published": "2026-05-20T19:53:30+03:00"
       },
       {
         "title": "Dışişleri Bakanlığı'ndan İsrailli bakana tepki. \"Aktivistlere şiddeti kınıyoruz\"",
@@ -721,13 +728,6 @@
         "published": "2026-05-20T16:36:57+03:00"
       },
       {
-        "title": "Çocuk parkında korkunç ölüm. 18 yaşındaki Beyzanur asılı halde bulundu",
-        "link": "https://www.ntv.com.tr/turkiye/cocuk-parkinda-korkunc-olum-18-yasindaki-beyzanur-asili-halde-bulundu-1725183",
-        "description": "Malatya'da 18 yaşındaki Beyzanur N., çocuk parkındaki kameriyede asılı halde ölü bulundu.",
-        "source": "NTV",
-        "published": "2026-05-20T15:28:10+03:00"
-      },
-      {
         "title": "Hong Kong'da 17 öğrencinin deepfake pornoyla mücadelesi: 'Sokakta çıplakmış gibi hissettim'",
         "link": "https://www.bbc.com/turkce/articles/cyv25el0rrlo?at_medium=RSS&at_campaign=rss",
         "description": "Hong Kong Üniversitesi hukuk fakültesinde son sınıf öğrencisi olan Siu Kwong (gerçek adı değil), yapay zekâ kullanılarak pornografik görüntülerinin yaratıldığını öğrendiği an duruma inanamadı. Hemen ardındansa içini büyük bir korku kapladı.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8612
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+86°F",
-    "wind": "↗6mph",
-    "humidity": "29%"
+    "condition": "Patchy light rain in area with thunder",
+    "temp": "+54°F",
+    "wind": "↗3mph",
+    "humidity": "47%"
   }
 }
