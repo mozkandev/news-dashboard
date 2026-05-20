@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-05-19T23:02:08.252053+00:00",
+  "updated_at": "2026-05-20T01:30:53.472470+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Remove AI Watermarks",
+        "title": "Railway Blocked by Google Cloud",
+        "link": "https://status.railway.com/?date=20260519",
+        "description": "Article URL: https://status.railway.com/?date=20260519 Comments URL: https://news.ycombinator.com/item?id=48201484 Points: 36 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-05-20T00:23:54+00:00"
+      },
+      {
+        "title": "GitHub is investigating unauthorized access to their internal repositories",
+        "link": "https://twitter.com/github/status/2056884788179726685",
+        "description": "Article URL: https://twitter.com/github/status/2056884788179726685 Comments URL: https://news.ycombinator.com/item?id=48201316 Points: 77 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-05-20T00:01:18+00:00"
+      },
+      {
+        "title": "Railway Is Having a Major Outage",
+        "link": "https://status.railway.com/#/",
+        "description": "Article URL: https://status.railway.com/#/ Comments URL: https://news.ycombinator.com/item?id=48200827 Points: 50 # Comments: 36",
+        "source": "HackerNews",
+        "published": "2026-05-19T23:01:56+00:00"
+      },
+      {
+        "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
         "link": "https://github.com/wiltodelta/remove-ai-watermarks",
-        "description": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 11 # Comments: 1",
+        "description": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 99 # Comments: 61",
         "source": "HackerNews",
         "published": "2026-05-19T22:30:31+00:00"
       },
@@ -103,7 +124,7 @@
       {
         "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
         "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-        "description": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+        "description": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
         "source": "TechCrunch",
         "published": "2026-05-19T21:08:51+00:00"
       },
@@ -122,37 +143,37 @@
         "published": "2026-05-19T20:48:24+03:00"
       },
       {
-        "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+        "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
         "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-        "description": "“By the end of this week, you and Sam will be the most hated men in America.”",
+        "description": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
         "source": "TechCrunch",
         "published": "2026-05-19T20:11:00+00:00"
       },
       {
-        "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
-        "link": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
-        "description": "Article URL: https://www.autonocion.com/us/tesla-lithium-refinery-texas/ Comments URL: https://news.ycombinator.com/item?id=48198551 Points: 358 # Comments: 174",
-        "source": "HackerNews",
-        "published": "2026-05-19T19:52:49+00:00"
-      },
-      {
-        "title": "Era: From Nature publication to catalyzing Computational Discovery",
-        "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-        "description": "Article URL: https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/ Comments URL: https://news.ycombinator.com/item?id=48198293 Points: 20 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-05-19T19:34:38+00:00"
+        "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+        "link": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+        "description": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 will get the iPhone-style...",
+        "source": "The Verge",
+        "published": "2026-05-19T19:41:17-04:00"
       },
       {
         "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
         "link": "https://openai.com/index/advancing-content-provenance/",
-        "description": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 115 # Comments: 54",
+        "description": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 182 # Comments: 96",
         "source": "HackerNews",
         "published": "2026-05-19T19:34:30+00:00"
       },
       {
-        "title": "Dumb Ways for an Open Source Project to Die",
+        "title": "The future of Google is a search box that does everything",
+        "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
+        "description": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything...",
+        "source": "The Verge",
+        "published": "2026-05-19T19:33:48-04:00"
+      },
+      {
+        "title": "Dumb ways for an open source project to die",
         "link": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-        "description": "Article URL: https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html Comments URL: https://news.ycombinator.com/item?id=48198127 Points: 88 # Comments: 35",
+        "description": "Article URL: https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html Comments URL: https://news.ycombinator.com/item?id=48198127 Points: 142 # Comments: 77",
         "source": "HackerNews",
         "published": "2026-05-19T19:22:56+00:00"
       },
@@ -166,23 +187,30 @@
       {
         "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
         "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-        "description": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 123 # Comments: 25",
+        "description": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 159 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-05-19T19:14:12+00:00"
       },
       {
         "title": "Minnesota becomes first state to ban prediction markets",
         "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-        "description": "Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets Comments URL: https://news.ycombinator.com/item?id=48197980 Points: 250 # Comments: 94",
+        "description": "Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets Comments URL: https://news.ycombinator.com/item?id=48197980 Points: 417 # Comments: 140",
         "source": "HackerNews",
         "published": "2026-05-19T19:13:26+00:00"
       },
       {
-        "title": "Kickstarter just killed its new mature content rules",
-        "link": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
-        "description": "Last week, we noted Kickstarter's new content guidelines, which had some pretty weird new additions, including a prohibition on \"sexual pleasure,\" exempting \"sexual wellness products that are not designed for insertion or penetration and are not...",
+        "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+        "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+        "description": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible...",
         "source": "The Verge",
-        "published": "2026-05-19T19:02:01-04:00"
+        "published": "2026-05-19T19:09:00-04:00"
+      },
+      {
+        "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
+        "link": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
+        "description": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's...",
+        "source": "The Verge",
+        "published": "2026-05-19T19:03:48-04:00"
       },
       {
         "title": "We react to Google I/O 2026",
@@ -194,7 +222,7 @@
       {
         "title": "Disney erased FiveThirtyEight",
         "link": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
-        "description": "Article URL: https://www.natesilver.net/p/disney-erased-fivethirtyeight Comments URL: https://news.ycombinator.com/item?id=48197703 Points: 245 # Comments: 147",
+        "description": "Article URL: https://www.natesilver.net/p/disney-erased-fivethirtyeight Comments URL: https://news.ycombinator.com/item?id=48197703 Points: 299 # Comments: 182",
         "source": "HackerNews",
         "published": "2026-05-19T18:56:25+00:00"
       },
@@ -208,16 +236,9 @@
       {
         "title": "The TTY Demystified (2008)",
         "link": "https://www.linusakesson.net/programming/tty/index.php",
-        "description": "Article URL: https://www.linusakesson.net/programming/tty/index.php Comments URL: https://news.ycombinator.com/item?id=48197445 Points: 17 # Comments: 1",
+        "description": "Article URL: https://www.linusakesson.net/programming/tty/index.php Comments URL: https://news.ycombinator.com/item?id=48197445 Points: 36 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-05-19T18:40:19+00:00"
-      },
-      {
-        "title": "Google changes its search box",
-        "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-        "description": "https://www.nytimes.com/2026/05/19/business/google-seach-bar... , https://archive.ph/XI1sQ https://techcrunch.com/2026/05/19/google-search-as-you-know-... https://www.theverge.com/tech/932970/google-search-ai-update... Comments URL:...",
-        "source": "HackerNews",
-        "published": "2026-05-19T18:34:27+00:00"
       },
       {
         "title": "Xbox Game Pass Mayıs ve Haziran Ayı Oyun Listesi Açıklandı",
@@ -232,13 +253,6 @@
         "description": "Google Gemini, yeni Neural Expressive tasarım dili ve geliştirilmiş Gemini Live özellikleri ile baştan aşağı yenilendi.",
         "source": "ShiftDelete",
         "published": "2026-05-19T18:28:00+00:00"
-      },
-      {
-        "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-        "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-        "description": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible...",
-        "source": "The Verge",
-        "published": "2026-05-19T18:24:01-04:00"
       },
       {
         "title": "Google AI Ultra Paketine Dev İndirim",
@@ -304,13 +318,6 @@
         "published": "2026-05-19T17:45:44+00:00"
       },
       {
-        "title": "The future of Google is a search box that does everything",
-        "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-        "description": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything...",
-        "source": "The Verge",
-        "published": "2026-05-19T17:25:12-04:00"
-      },
-      {
         "title": "Here are our favorite Memorial Day deals (so far)",
         "link": "https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026",
         "description": "Memorial Day marks the unofficial start of summer, and the holiday’s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now’s a great time to...",
@@ -344,16 +351,58 @@
         "description": "Nintendo recently teased the “Choose Your Game” Switch 2 console and digital game bundle, coming in early June. However, multiple retailers (including Nintendo itself) are already offering the $499.99 bundle. The list currently includes GameStop,...",
         "source": "The Verge",
         "published": "2026-05-19T14:27:03-04:00"
-      },
-      {
-        "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
-        "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-        "description": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings...",
-        "source": "The Verge",
-        "published": "2026-05-19T14:25:22-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Trump-backed challenger defeats Republican rebel Massie in primary",
+        "link": "https://www.bbc.com/news/articles/cwy2vw8j0ddo?at_medium=RSS&at_campaign=rss",
+        "description": "The Kentucky race has been viewed as a key test of President Trump's grip on the Republican Party.",
+        "source": "BBC News",
+        "published": "2026-05-20T01:28:37+00:00"
+      },
+      {
+        "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
+        "link": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&at_campaign=rss",
+        "description": "Channel 4 has wider questions to answer after allegations made by three women who took part in the show.",
+        "source": "BBC News",
+        "published": "2026-05-20T00:18:16+00:00"
+      },
+      {
+        "title": "Dozens of romance scammers arrested after specialist fraud squad investigation",
+        "link": "https://www.bbc.com/news/articles/cgjpnw8dg88o?at_medium=RSS&at_campaign=rss",
+        "description": "The specialist team of financial crime experts is working \"in the shadows\" to hunt down scammers online.",
+        "source": "BBC News",
+        "published": "2026-05-19T23:56:01+00:00"
+      },
+      {
+        "title": "Friendship or geopolitics? BBC breaks down Xi and Putin relationship",
+        "link": "https://www.bbc.com/news/videos/ce9p1kyedy7o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC’s Laura Bicker and Steven Rosenberg explain the relationship between the Russian and Chinese leaders as the pair meet in Beijing.",
+        "source": "BBC News",
+        "published": "2026-05-19T23:51:23+00:00"
+      },
+      {
+        "title": "UK should set maximum working temperature rules, advisers say",
+        "link": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
+        "description": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+        "source": "BBC News",
+        "published": "2026-05-19T23:40:12+00:00"
+      },
+      {
+        "title": "Young drivers targeted by 'ghost brokers' selling fake car insurance online",
+        "link": "https://www.bbc.com/news/articles/c1w29zw0q44o?at_medium=RSS&at_campaign=rss",
+        "description": "The finance watchdog warns bogus brokers are selling fake car insurance through social media.",
+        "source": "BBC News",
+        "published": "2026-05-19T23:02:47+00:00"
+      },
+      {
+        "title": "Supermarkets urged to limit food prices by government",
+        "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
+        "description": "Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.",
+        "source": "BBC News",
+        "published": "2026-05-19T23:01:42+00:00"
+      },
       {
         "title": "Twenty-two years in the making - how Arsenal celebrated title win",
         "link": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss",
@@ -362,25 +411,25 @@
         "published": "2026-05-19T22:16:08+00:00"
       },
       {
-        "title": "Southampton expelled from Championship play-offs for spying on Middlesbrough",
-        "link": "https://www.bbc.com/sport/football/articles/cwy2pnpqjl7o?at_medium=RSS&at_campaign=rss",
-        "description": "Southampton have been thrown out of the play-offs after admitting they spied on three clubs during the Championship season.",
-        "source": "BBC News",
-        "published": "2026-05-19T22:06:35+00:00"
+        "title": "In Georgia, Republican primary for governor goes to a runoff between Trump backers",
+        "link": "https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate",
+        "description": "Georgia is a swing state where both Democrats and Republicans are deciding the direction their parties will take in the fall in races for the senate and the governor's mansion.",
+        "source": "NPR",
+        "published": "2026-05-19T20:45:17-04:00"
       },
       {
-        "title": "Channel 4 contacted by police after Married at First Sight UK rape claims",
-        "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss",
-        "description": "A BBC Panorama investigation revealed allegations that two women had been raped during filming.",
-        "source": "BBC News",
-        "published": "2026-05-19T21:56:04+00:00"
+        "title": "U.S. government to drop tax claims against Trump in broadening of IRS settlement",
+        "link": "https://www.npr.org/2026/05/19/g-s1-122938/irs-trump-settlement-tax-returns-audit",
+        "description": "As part of the settlement agreement, the U.S. is \"forever barred and precluded\" from examining or prosecuting President Trump, his sons and the Trump organization's current tax issues, according to a document posted to the DOJ website.",
+        "source": "NPR",
+        "published": "2026-05-19T20:20:30-04:00"
       },
       {
-        "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
-        "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-        "description": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\".",
-        "source": "BBC News",
-        "published": "2026-05-19T20:32:36+00:00"
+        "title": "Endorsed by Trump, Ed Gallrein defeats Rep. Thomas Massie in GOP House primary",
+        "link": "https://www.npr.org/2026/05/19/nx-s1-5827183/massie-gallrein-kentucky-race-results-trump",
+        "description": "In a major victory for President Trump, his hand-picked challenger, Ed Gallrein, beat out U.S. House Rep. Thomas Massie in a Kentucky House GOP primary, ending Massie's reelection bid.",
+        "source": "NPR",
+        "published": "2026-05-19T19:57:20-04:00"
       },
       {
         "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
@@ -388,20 +437,6 @@
         "description": "US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identifying the...",
         "source": "The Guardian",
         "published": "2026-05-19T18:44:54+00:00"
-      },
-      {
-        "title": "Supermarkets urged to limit food prices by government",
-        "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
-        "description": "Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.",
-        "source": "BBC News",
-        "published": "2026-05-19T18:08:20+00:00"
-      },
-      {
-        "title": "NS&I to begin contacting victims of lost funds scandal",
-        "link": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss",
-        "description": "Over 30,000 estates could not be accessed due to an error identifying all of a late customer's NS&I products.",
-        "source": "BBC News",
-        "published": "2026-05-19T17:41:23+00:00"
       },
       {
         "title": "'Taiwan Travelogue' wins the 2026 International Booker Prize",
@@ -416,13 +451,6 @@
         "description": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny, is facing...",
         "source": "The Guardian",
         "published": "2026-05-19T17:13:14+00:00"
-      },
-      {
-        "title": "Key people smuggler arrested after BBC uncovered identity",
-        "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
-        "description": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
-        "source": "BBC News",
-        "published": "2026-05-19T17:05:41+00:00"
       },
       {
         "title": "Surrey Police investigating child sex abuse allegations after Epstein files release",
@@ -458,13 +486,6 @@
         "description": "The trio replace Tess Daly and Claudia Winkleman, who left the BBC dance competition last year.",
         "source": "BBC News",
         "published": "2026-05-19T15:16:33+00:00"
-      },
-      {
-        "title": "HS2 could cost up to £102.7bn and trains will be slower than first planned",
-        "link": "https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&at_campaign=rss",
-        "description": "The new cost range and train speed are being announced as a \"reset\" of the delayed, over-budget and vastly scaled-back project is carried out.",
-        "source": "BBC News",
-        "published": "2026-05-19T14:34:17+00:00"
       },
       {
         "title": "Trump endorses Ken Paxton over incumbent John Cornyn in Texas Senate primary runoff",
@@ -523,32 +544,11 @@
         "published": "2026-05-19T09:20:36-04:00"
       },
       {
-        "title": "To revive an extinct bird, you first need an artificial egg",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5805950/artificial-eggs-dodo-moa",
-        "description": "Colossal Biosciences, a Texas company trying to bring extinct species back to life, reports creating artificial eggs that would be necessary to revive extinct birds such as the dodo.",
-        "source": "NPR",
-        "published": "2026-05-19T08:00:16-04:00"
-      },
-      {
         "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
         "link": "https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
         "description": "Zainab Sheriff unjustly sentenced to four years in prison for incitement and threatening language, say activists Lawyers, politicians and activists have called for the release of one of Sierra Leone’s best-known celebrities, who they said was...",
         "source": "The Guardian",
         "published": "2026-05-19T08:00:06+00:00"
-      },
-      {
-        "title": "California mosque shooting leaves 5 dead. And, judge dismisses Trump's IRS lawsuit",
-        "link": "https://www.npr.org/2026/05/19/g-s1-122806/up-first-newsletter-islamic-center-san-diego-primary-elections-trump-irs-elon-musk-openai",
-        "description": "San Diego authorities are investigating a deadly shooting at a mosque as a hate crime. And, Trump dropped his lawsuit against the IRS, paving the way for an \"anti-weaponization fund.\"",
-        "source": "NPR",
-        "published": "2026-05-19T07:33:38-04:00"
-      },
-      {
-        "title": "Some plants have a genetic superpower that may help them survive a cataclysm",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5825903/plants-polyploidy-genetics-climate-change",
-        "description": "Get ready for a biology lesson. Certain plants have extra sets of chromosomes. And it turns out, it's a useful trait for a species facing a dramatic event like climate change.",
-        "source": "NPR",
-        "published": "2026-05-19T07:00:00-04:00"
       },
       {
         "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
@@ -567,11 +567,25 @@
     ],
     "turkiye": [
       {
+        "title": "Dereye uçan aracını bırakıp kaçtı",
+        "link": "https://www.ntv.com.tr/turkiye/dereye-ucan-aracini-birakip-kacti-1725079",
+        "description": "Bursa'da kontrolünü kaybettiği otomobiliyle dereye savrulan sürücü, aracı bırakıp olay yerinden ayrıldı.",
+        "source": "NTV",
+        "published": "2026-05-20T04:22:55+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Mayıs 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-mayis-2026-1725071",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-20T02:00:00+03:00"
+        "published": "2026-05-20T04:00:00+03:00"
+      },
+      {
+        "title": "Göksu Irmağı'nda ceset bulundu",
+        "link": "https://www.ntv.com.tr/turkiye/goksu-irmaginda-ceset-bulundu-1725077",
+        "description": "Mersin'in Silifke ilçesinden geçen Göksu Irmağı'nda sürüklenen cansız bedenin 41 yaşındaki Ümit Başak'a ait olduğu belirlendi.",
+        "source": "NTV",
+        "published": "2026-05-20T03:44:02+03:00"
       },
       {
         "title": "Rusya’dan Avrupa ve Ukrayna’ya gözdağı! Sınır ülkede nükleer tatbikat",
@@ -637,6 +651,13 @@
         "published": "2026-05-19T23:26:24+03:00"
       },
       {
+        "title": "Premier Lig: Arsenal'i şampiyonluğa taşıyan kritik virajlar",
+        "link": "https://www.bbc.com/turkce/articles/c302jeyqdl1o?at_medium=RSS&at_campaign=rss",
+        "description": "Art arda üç sezon ikinci sırada kalmanın yarattığı hayal kırıklığı artık geride kaldı; Mikel Arteta'nın takımı Manchester City'nin meydan okumasını başarıyla savuşturarak şampiyon oldu. BBC Sport, Arsenal'ı \"neredeyse başaran\" bir takımdan Premier...",
+        "source": "BBC Turkish",
+        "published": "2026-05-19T23:20:11+00:00"
+      },
+      {
         "title": "5 bin tonluk dev vinç gemisi suya iniyor: Açık denizlerde tek bir amaca hizmet edecek",
         "link": "https://www.sozcu.com.tr/5-bin-tonluk-dev-vinc-gemisi-suya-iniyor-acik-denizlerde-tek-bir-amaca-hizmet-edecek-p321098",
         "description": "5 bin tonluk dev vinç gemisi suya iniyor: Açık denizlerde tek bir amaca hizmet edecek",
@@ -656,13 +677,6 @@
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı dolayısıyla gençlerle bir araya geldi.",
         "source": "NTV",
         "published": "2026-05-19T23:08:15+03:00"
-      },
-      {
-        "title": "Premier Lig: Arsenal'i şampiyonluğa taşıyan kritik virajlar",
-        "link": "https://www.bbc.com/turkce/articles/c302jeyqdl1o?at_medium=RSS&at_campaign=rss",
-        "description": "Art arda üç sezon ikinci sırada kalmanın yarattığı hayal kırıklığı artık geride kaldı; Mikel Arteta'nın takımı Manchester City'nin meydan okumasını başarıyla savuşturarak şampiyon oldu. BBC Sport, Arsenal'ı \"neredeyse başaran\" bir takımdan Premier...",
-        "source": "BBC Turkish",
-        "published": "2026-05-19T23:00:19+00:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan, Ursula von der Leyen ile görüştü",
@@ -712,20 +726,6 @@
         "description": "AK Parti Sözcüsü Ömer Çelik, MHP lideri Devlet Bahçeli'nin Terörsüz Türkiye süreciyle ilgili açıklamalarına ilişkin, \"Cumhur ittifakı bir ve bütün olarak hareket ediyor. Yol haritamızı güncelleyerek yolumuza devam edeceğiz.\" dedi.",
         "source": "NTV",
         "published": "2026-05-19T18:00:46+03:00"
-      },
-      {
-        "title": "Yeşilırmak’ta taşkın alarmı: Turhal’da set çalışması başlatıldı",
-        "link": "https://www.ntv.com.tr/turkiye/video-yesilirmakta-taskin-alarmi-turhalda-set-calismasi-baslatildi-1725051",
-        "description": "Yeşilırmak Nehri'nin taşkın riski nedeniyle Tokat'ın Turhal ilçesinde önlem alındı.",
-        "source": "NTV",
-        "published": "2026-05-19T16:07:53+03:00"
-      },
-      {
-        "title": "Gülistan Doku soruşturmasında kritik adım. Araçlar Ankara'ya gönderildi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-gulistan-doku-sorusturmasinda-kritik-adim-araclar-ankaraya-gonderildi-1725041",
-        "description": "Gülistan Doku'nun altı yıllık sessizliğin ardından hareketlenen dosyasında kritik bir adım atıldı. Üçü eski Tunceli Valisi Tuncay Sonel tarafından kullanılan beş araç DNA incelemesi yapılmak üzere Ankara'ya gönderildi.",
-        "source": "NTV",
-        "published": "2026-05-19T15:56:57+03:00"
       },
       {
         "title": "İzmir'de vahşet: Bir kadın yakılarak öldürüldü, katil zanlısının ifadesi ortaya çıktı",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 45.5903,
-    "eur_try": 53.1249,
-    "eur_usd": 0.8584
+    "usd_try": 45.5924,
+    "eur_try": 52.9302,
+    "eur_usd": 0.8612
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+95°F",
-    "wind": "↗9mph",
-    "humidity": "26%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+87°F",
+    "wind": "→9mph",
+    "humidity": "8%"
   }
 }
