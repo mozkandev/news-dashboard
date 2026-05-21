@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-05-21T21:56:54.869732+00:00",
+  "updated_at": "2026-05-21T23:06:31.898439+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Shira: Anti Phishing Training Platform",
+        "link": "https://shira.app/",
+        "description": "Article URL: https://shira.app/ Comments URL: https://news.ycombinator.com/item?id=48229313 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-05-21T21:55:23+00:00"
+      },
       {
         "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
         "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
@@ -38,6 +45,13 @@
         "published": "2026-05-21T20:30:00+00:00"
       },
       {
+        "title": "Show HN: Open-source .docx editor library for building document apps",
+        "link": "https://github.com/eigenpal/docx-editor",
+        "description": "We are working on an open-source .docx editor library for apps that need to edit Word documents in the browser. We just shipped 1.0. A lot of existing approaches convert .docx into HTML and lose document semantics along the way. Our editor parses...",
+        "source": "HackerNews",
+        "published": "2026-05-21T20:23:37+00:00"
+      },
+      {
         "title": "Galaxy Buds Able: Samsung’un Yeni Klips Tasarımlı Kulaklığı",
         "link": "https://shiftdelete.net/galaxy-buds-able-samsungun-yeni-klips-tasarimli-kulakligi",
         "description": "Samsung'un yeni kemik iletimli kulaklığı Galaxy Buds Able, One UI yazılımında ortaya çıktı. İşte yeni kulaklığın tasarımı ve teknik özellikleri.",
@@ -54,7 +68,7 @@
       {
         "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
         "link": "https://arxiv.org/abs/2605.12460",
-        "description": "Article URL: https://arxiv.org/abs/2605.12460 Comments URL: https://news.ycombinator.com/item?id=48227923 Points: 28 # Comments: 1",
+        "description": "Article URL: https://arxiv.org/abs/2605.12460 Comments URL: https://news.ycombinator.com/item?id=48227923 Points: 35 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-05-21T19:37:26+00:00"
       },
@@ -75,7 +89,7 @@
       {
         "title": "Using Kagi Search with Low Vision",
         "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-        "description": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/ Comments URL: https://news.ycombinator.com/item?id=48227860 Points: 43 # Comments: 1",
+        "description": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/ Comments URL: https://news.ycombinator.com/item?id=48227860 Points: 74 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-05-21T19:32:16+00:00"
       },
@@ -103,9 +117,16 @@
       {
         "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
         "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-        "description": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/ Comments URL: https://news.ycombinator.com/item?id=48227397 Points: 73 # Comments: 32",
+        "description": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/ Comments URL: https://news.ycombinator.com/item?id=48227397 Points: 108 # Comments: 68",
         "source": "HackerNews",
         "published": "2026-05-21T18:54:55+00:00"
+      },
+      {
+        "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
+        "link": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
+        "description": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use Anker's new Thus chip, which...",
+        "source": "The Verge",
+        "published": "2026-05-21T18:51:13-04:00"
       },
       {
         "title": "Spotify Studio ile Kendi Podcast’lerinizi Oluşturabileceksiniz",
@@ -115,9 +136,16 @@
         "published": "2026-05-21T18:30:00+00:00"
       },
       {
+        "title": "States ask judge to break up Live Nation-Ticketmaster",
+        "link": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
+        "description": "A federal judge is officially being tasked with deciding whether to break up Live Nation-Ticketmaster. More than 30 states are asking Judge Arun Subramanian to order a sale of the ticketing giant, a \"sufficient number\" of large amphitheaters, and...",
+        "source": "The Verge",
+        "published": "2026-05-21T18:27:03-04:00"
+      },
+      {
         "title": "BBEdit 16",
         "link": "https://www.barebones.com/products/bbedit/bbedit16.html",
-        "description": "Article URL: https://www.barebones.com/products/bbedit/bbedit16.html Comments URL: https://news.ycombinator.com/item?id=48226944 Points: 221 # Comments: 65",
+        "description": "Article URL: https://www.barebones.com/products/bbedit/bbedit16.html Comments URL: https://news.ycombinator.com/item?id=48226944 Points: 235 # Comments: 70",
         "source": "HackerNews",
         "published": "2026-05-21T18:21:37+00:00"
       },
@@ -138,7 +166,7 @@
       {
         "title": "Where are all the UK red telephone kiosks?",
         "link": "https://www.thek6project.co.uk/",
-        "description": "Article URL: https://www.thek6project.co.uk/ Comments URL: https://news.ycombinator.com/item?id=48226703 Points: 52 # Comments: 33",
+        "description": "Article URL: https://www.thek6project.co.uk/ Comments URL: https://news.ycombinator.com/item?id=48226703 Points: 61 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-05-21T18:04:17+00:00"
       },
@@ -152,7 +180,7 @@
       {
         "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
         "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-        "description": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 366 # Comments: 148",
+        "description": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 378 # Comments: 155",
         "source": "HackerNews",
         "published": "2026-05-21T17:55:58+00:00"
       },
@@ -185,7 +213,7 @@
         "published": "2026-05-21T17:36:17+03:00"
       },
       {
-        "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+        "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
         "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
         "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
         "source": "TechCrunch",
@@ -201,7 +229,7 @@
       {
         "title": "Chewing gum restores dad's taste and smell years after Covid",
         "link": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
-        "description": "Article URL: https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/ Comments URL: https://news.ycombinator.com/item?id=48226038 Points: 118 # Comments: 47",
+        "description": "Article URL: https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/ Comments URL: https://news.ycombinator.com/item?id=48226038 Points: 130 # Comments: 68",
         "source": "HackerNews",
         "published": "2026-05-21T17:14:56+00:00"
       },
@@ -234,25 +262,11 @@
         "published": "2026-05-21T17:00:42+00:00"
       },
       {
-        "title": "News outlets are limiting the Internet Archive’s access to their journalism",
-        "link": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-        "description": "Article URL: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/ Comments URL: https://news.ycombinator.com/item?id=48225838 Points: 165 # Comments: 55",
-        "source": "HackerNews",
-        "published": "2026-05-21T16:59:27+00:00"
-      },
-      {
         "title": "İstanbul Avrupa Boyasız Göçük Düzeltme Yerleri",
         "link": "\n                    https://www.webtekno.com/istanbul-avrupa-boyasiz-gocuk-duzeltme-yerleri-h217308.html\n                    ",
         "description": "Sizin için Avrupa yakasında öne çıkan boyasız göçük düzeltme yerlerini derledik.",
         "source": "Webtekno",
         "published": "2026-05-21T16:46:56+03:00"
-      },
-      {
-        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-        "link": "https://news.ycombinator.com/item?id=48225596",
-        "description": "Hi HN! We're Haakam, Michael, and Adi from AgentMail- a ycs25 company. We give AI agents their own email inboxes. Recently, we ran an experiment called Agent.Email. It's a signup flow designed specifically for AI agents instead of humans. The...",
-        "source": "HackerNews",
-        "published": "2026-05-21T16:42:34+00:00"
       },
       {
         "title": "Ankara Kızılay En İyi Araba PPF Kaplama",
@@ -288,13 +302,6 @@
         "description": "Firefox is getting a drastic visual overhaul with a redesigned Settings section that will make it easier to find and use privacy settings, including the switch for turning off all present and future AI features. Mozilla calls the redesign \"Project...",
         "source": "The Verge",
         "published": "2026-05-21T16:05:09-04:00"
-      },
-      {
-        "title": "This AI guitar pedal let me roll my own effects",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-        "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic...",
-        "source": "The Verge",
-        "published": "2026-05-21T16:01:54-04:00"
       },
       {
         "title": "In desperate times, graduates find hope in humiliating tech CEOs",
@@ -339,21 +346,21 @@
         "published": "2026-05-21T14:54:22-04:00"
       },
       {
-        "title": "Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day",
-        "link": "https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale",
-        "description": "If your summer plans involve spending any time outdoors, whether on the trail or at a pool party, a good portable Bluetooth speaker can go a long way. The latest Sonos Roam is built precisely for those moments, and right now, it’s on sale at Amazon,...",
+        "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+        "link": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+        "description": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster noise reduction capabilities...",
         "source": "The Verge",
-        "published": "2026-05-21T13:27:16-04:00"
-      },
-      {
-        "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
-        "link": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
-        "description": "Uber is putting its own autonomous vehicles back on the road as part of its new AV Lab project to collect data for its dozens of robotaxi partners. The cars will be fitted with all the sensors typical of self-driving cars, like cameras, lidar, and...",
-        "source": "The Verge",
-        "published": "2026-05-21T13:18:49-04:00"
+        "published": "2026-05-20T13:42:48-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Sam Fender, Rosalía and Jacob Alon win Ivor Novello Awards",
+        "link": "https://www.bbc.com/news/articles/c74rvezve80o?at_medium=RSS&at_campaign=rss",
+        "description": "Lola Young helped to honour Elton John at Thursday's event, which celebrates the craft of songwriting.",
+        "source": "BBC News",
+        "published": "2026-05-21T22:08:41+00:00"
+      },
       {
         "title": "Thousands welcome home triumphant Villa as heroes",
         "link": "https://www.bbc.com/news/articles/cx21gnxm7p5o?at_medium=RSS&at_campaign=rss",
@@ -381,6 +388,13 @@
         "description": "The latest series culminated on Thursday with a dash through snow-covered Hatgal in northern Mongolia.",
         "source": "BBC News",
         "published": "2026-05-21T20:03:44+00:00"
+      },
+      {
+        "title": "2-time NASCAR champ Kyle Busch dies at 41 after 'severe illness'",
+        "link": "https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies",
+        "description": "Kyle Busch, who won more races than anyone across NASCAR's three national series, has died at 41. A joint statement from the Busch Family, Richard Childress Racing and NASCAR said he died after being hospitalized.",
+        "source": "NPR",
+        "published": "2026-05-21T18:49:51-04:00"
       },
       {
         "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
@@ -418,13 +432,6 @@
         "published": "2026-05-21T16:49:58-04:00"
       },
       {
-        "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
-        "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
-        "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
-        "source": "BBC News",
-        "published": "2026-05-21T16:28:42+00:00"
-      },
-      {
         "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine",
         "link": "https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine",
         "description": "Two passengers from the cruise ship that had a hantavirus outbreak were blocked by the federal government from leaving the quarantine unit. One says she is being detained against her will.",
@@ -441,7 +448,7 @@
       {
         "title": "Republicans stall votes on partisan ICE funding amid party infighting",
         "link": "https://www.npr.org/2026/05/21/g-s1-123455/republicans-ice-spending-trump",
-        "description": "Republicans had planned to try to pass a major funding bill for Immigration and Customs Enforcement by the end of the week but plans collapsed over unrelated policy disagreements.",
+        "description": "Republicans planned to vote on a major funding bill for Immigration and Customs Enforcement this week but plans collapsed amid GOP rancor over Trump's policy demands.",
         "source": "NPR",
         "published": "2026-05-21T15:16:08-04:00"
       },
@@ -516,13 +523,6 @@
         "published": "2026-05-21T11:26:30-04:00"
       },
       {
-        "title": "Smokers in China are being chided by anti-smoking women",
-        "link": "https://www.npr.org/2026/05/21/g-s1-122873/smoking-cigarettes-china",
-        "description": "Many many many men smoke in China. A small but outspoken group of women are becoming anti-smoking advocates, confronting those who light up in public.",
-        "source": "NPR",
-        "published": "2026-05-21T11:13:47-04:00"
-      },
-      {
         "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
         "link": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
         "description": "Colombia is a global leader in climate activism. Could US influence drag country to a future of mining and fracking? Several hours after dark in a quiet Caribbean neighbourhood, a cluster of environmental activists gather on plastic chairs between a...",
@@ -567,18 +567,39 @@
     ],
     "turkiye": [
       {
-        "title": "Özgür Özel halka sesleniyor! Butlan kararı sonrası partililer genel merkeze akın etti",
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Mayıs 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-mayis-2026-1725370",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-05-22T02:00:01+03:00"
+      },
+      {
+        "title": "Özgür Özel Genel Merkez'den meydan okudu: Bu binadayım, hiçbir yere gitmiyorum",
         "link": "https://www.sozcu.com.tr/ozgur-ozel-halka-sesleniyor-butlan-karari-sonrasi-partililer-genel-merkeze-akin-etti-p321728",
-        "description": "Özgür Özel halka sesleniyor! Butlan kararı sonrası partililer genel merkeze akın etti",
+        "description": "Özgür Özel Genel Merkez'den meydan okudu: Bu binadayım, hiçbir yere gitmiyorum",
         "source": "Sözcü",
-        "published": "2026-05-22T00:55:21+03:00"
+        "published": "2026-05-22T01:40:24+03:00"
+      },
+      {
+        "title": "'Mutlak butlan' kararı sonrası ilginç Mehmet Ali Çelebi ayrıntısı",
+        "link": "https://www.sozcu.com.tr/mehmet-ali-celebi-mutlak-butlan-la-listeye-girdi-p321734",
+        "description": "'Mutlak butlan' kararı sonrası ilginç Mehmet Ali Çelebi ayrıntısı",
+        "source": "Sözcü",
+        "published": "2026-05-22T01:36:01+03:00"
       },
       {
         "title": "Bahçeli: Özel ve Kılıçdaroğlu ortak formül üretmeli",
         "link": "https://www.ntv.com.tr/turkiye/bahceli-ozel-ve-kilicdaroglu-ortak-formul-uretmeli-1725374",
-        "description": "MHP Genel Başkanı Bahçeli, CHP'deki mutlak butlan kararına ilişkin \"kararı tanımıyoruz\" gibi çıkışların boşuna olduğunu söyledi. Özel ve Kılıçdaroğlu'nun ortak bir formül üretmesi gerektiğini ifade etti.",
+        "description": "MHP Genel Başkanı Bahçeli, CHP'deki mutlak butlan kararına ilişkin \"kararı tanımıyoruz\" gibi çıkışların boşuna olduğunu söyledi. Bahçeli, Kemal Kılıçdaroğlu'na tarihi bir sorumluk düştüğünü, Özgür Özel ile görüşerek görevinden feragat etmesi...",
         "source": "NTV",
-        "published": "2026-05-22T00:55:00+03:00"
+        "published": "2026-05-22T01:27:22+03:00"
+      },
+      {
+        "title": "Bahçeli'den Kılıçdaroğlu'na dikkat çeken çağrı: Feragat etmeli",
+        "link": "https://www.sozcu.com.tr/bahceli-den-mutlak-butlan-yorumu-p321741",
+        "description": "Bahçeli'den Kılıçdaroğlu'na dikkat çeken çağrı: Feragat etmeli",
+        "source": "Sözcü",
+        "published": "2026-05-22T01:24:01+03:00"
       },
       {
         "title": "İstanbul Bilgi Üniversitesi kapatıldı",
@@ -609,13 +630,6 @@
         "published": "2026-05-22T00:30:13+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Mayıs 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-mayis-2026-1725370",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-05-22T00:30:00+03:00"
-      },
-      {
         "title": "Finansal İstikrar Komitesi toplanıyor. Bakan Şimşek başkanlık edecek",
         "link": "https://www.ntv.com.tr/turkiye/finansal-istikrar-komitesi-toplaniyor-bakan-simsek-baskanlik-edecek-1725368",
         "description": "Finansal İstikrar Komitesi bu sabah Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında toplanarak, piyasalarda yaşanan güncel gelişmelerin ekonomiye etkilerini değerlendirecek.",
@@ -628,13 +642,6 @@
         "description": "Bazı kamu kurumlarındaki yöneticilerin e-imzalarıyla sahte belge düzenlemesine ilişkin davada 257 sanığa çeşitli sürelerde hapis cezası verildi.",
         "source": "NTV",
         "published": "2026-05-22T00:16:21+03:00"
-      },
-      {
-        "title": "'Mutlak butlan' kararı sonrası ilginç Mehmet Ali Çelebi ayrıntısı",
-        "link": "https://www.sozcu.com.tr/mehmet-ali-celebi-mutlak-butlan-la-listeye-girdi-p321734",
-        "description": "'Mutlak butlan' kararı sonrası ilginç Mehmet Ali Çelebi ayrıntısı",
-        "source": "Sözcü",
-        "published": "2026-05-22T00:13:52+03:00"
       },
       {
         "title": "Dev barajın sırrı tünellerde saklı: Suyu kilometrelerce taşımalarının bir sebebi var",
@@ -672,11 +679,11 @@
         "published": "2026-05-21T23:09:12+03:00"
       },
       {
-        "title": "Butlan kararı sonrası ekonomi yönetiminden sabah saatlerinde acil toplanma kararı",
-        "link": "https://www.sozcu.com.tr/butlan-karari-sonrasi-ekonomi-yonetiminden-sabah-saatlerinde-acil-toplanma-karari-p321721",
-        "description": "Butlan kararı sonrası ekonomi yönetiminden sabah saatlerinde acil toplanma kararı",
-        "source": "Sözcü",
-        "published": "2026-05-21T22:50:06+03:00"
+        "title": "Bahçeli'den Kemal Kılıçdaroğlu ve Özgür Özel'e 'ortak yol' çağrısı",
+        "link": "https://www.bbc.com/turkce/articles/c99lken290zo?at_medium=RSS&at_campaign=rss",
+        "description": "CHP'nin 38. Olağan Kurultayı'na ilişkin \"mutlak butlan\" kararının iktidar kanadındaki yankıları sürüyor. MHP Genel Başkanı Devlet Bahçeli, konuyla ilgili açıklamasında Kemal Kılıçdaroğlu ve Özgür Özel'in CHP menfaatlerini esas alan ortak bir yol...",
+        "source": "BBC Turkish",
+        "published": "2026-05-21T22:55:55+00:00"
       },
       {
         "title": "İçişleri Bakanı Çiftçi'den Gülistan Doku soruşturmasına ilişkin açıklama",
@@ -686,11 +693,11 @@
         "published": "2026-05-21T22:09:10+03:00"
       },
       {
-        "title": "İstanbul Bilgi Üniversitesi'nin faaliyet izni iptal edildi",
+        "title": "İstanbul Bilgi Üniversitesi'nin faaliyet izni kaldırıldı, bundan sonra ne olacak?",
         "link": "https://www.bbc.com/turkce/articles/cy42wddw7m8o?at_medium=RSS&at_campaign=rss",
         "description": "Can Holding'e yönelik başlatılan soruşturma kapsamında kurucu vakfına kayyum atanan İstanbul Bilgi Üniversitesi'nin faaliyet izni iptal edildi.",
         "source": "BBC Turkish",
-        "published": "2026-05-21T21:42:35+00:00"
+        "published": "2026-05-21T21:58:25+00:00"
       },
       {
         "title": "Mansur Yavaş'tan çağrı: Yapılması gereken 1-2 ay içinde kongre kararı almak",
@@ -768,13 +775,6 @@
         "description": "Çin, Washington'ın eski Küba Devlet Başkanı Raul Castro'ya cinayet suçlamaları yöneltmesinin ardından, ABD'ye Küba'ya karşı \"zor\" ve \"tehdit\" kullanmayı bırakma çağrısında bulundu.",
         "source": "BBC Turkish",
         "published": "2026-05-21T13:16:22+00:00"
-      },
-      {
-        "title": "İsrail, İstanbul'daki konsolosluğu kapatmayı tartışıyor",
-        "link": "https://www.bbc.com/turkce/articles/cy029gp7ld1o?at_medium=RSS&at_campaign=rss",
-        "description": "İsrail, Türkiye ile derinleşen diplomatik kriz nedeniyle İstanbul Başkonsolosluğu'nu kapatmayı değerlendiriyor. BBC Türkçe'nin konuştuğu İsrailli bir kaynak, başkonsolosluğun kapatılması konusunda tartışma yürütüldüğünü doğruladı ancak henüz alınmış...",
-        "source": "BBC Turkish",
-        "published": "2026-05-21T10:26:16+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8612
   },
   "weather": {
-    "condition": "Orta kuvvette yağmur",
-    "temp": "+54°F",
-    "wind": "↙4mph",
-    "humidity": "94%"
+    "condition": "Güneşli",
+    "temp": "+84°F",
+    "wind": "↘7mph",
+    "humidity": "26%"
   }
 }
