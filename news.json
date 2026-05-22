@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-05-22T01:29:08.758202+00:00",
+  "updated_at": "2026-05-22T05:44:42.365144+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Xbox’ta Yeni Dönem: Klasik Oyunlar Geri mi Dönüyor?",
+        "link": "https://shiftdelete.net/xboxta-yeni-donem-klasik-oyunlar-geri-mi-donuyor",
+        "description": "Xbox'ın yeni Strateji Direktörü Matthew Ball, Microsoft'un klasikleşmiş oyun serilerini geri getirmeyi ve konsol pazarını yeniden inşa etmeyi planlıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-05-22T05:30:00+00:00"
+      },
+      {
+        "title": "Spotify Premium Abonelerine Yapay Zeka Destekli Remix Aracı Geliyor",
+        "link": "https://shiftdelete.net/spotify-premium-abonelerine-yapay-zeka-destekli-remix-araci-geliyor",
+        "description": "Spotify ve Universal Music Group, kullanıcıların yapay zeka ile cover ve remix yapabileceği yeni bir ücretli abonelik özelliği üzerinde çalışıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-05-22T05:00:00+00:00"
+      },
+      {
+        "title": "Steam Controller Az Kalsın Yangın Çıkarıyordu",
+        "link": "https://shiftdelete.net/steam-controller-az-kalsin-yangin-cikariyordu",
+        "description": "Steam Controller şarj ünitesinin metalik nesnelerle teması kısa devreye yol açabiliyor. İşte kullanıcıları uyaran o olay ve detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-05-22T04:30:00+00:00"
+      },
+      {
+        "title": "Slumber a TUI HTTP Client",
+        "link": "https://slumber.lucaspickering.me",
+        "description": "Article URL: https://slumber.lucaspickering.me Comments URL: https://news.ycombinator.com/item?id=48231938 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-05-22T04:29:23+00:00"
+      },
+      {
+        "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+        "link": "https://news.ycombinator.com/item?id=48231575",
+        "description": "Spec Driven Development approach allows to squeeze more from coding agents thanks to few strong concepts: - decomposition across two dimensions. first you generate specs in multiple steps (requirements, code analysis, design), than you split task...",
+        "source": "HackerNews",
+        "published": "2026-05-22T03:17:38+00:00"
+      },
+      {
+        "title": "Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026",
+        "link": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+        "description": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html Comments URL: https://news.ycombinator.com/item?id=48231319 Points: 15 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-05-22T02:35:54+00:00"
+      },
+      {
+        "title": "Coins Stream",
+        "link": "https://coins.stream",
+        "description": "Article URL: https://coins.stream Comments URL: https://news.ycombinator.com/item?id=48231256 Points: 7 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-05-22T02:25:46+00:00"
+      },
+      {
+        "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+        "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+        "description": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 187 # Comments: 120",
+        "source": "HackerNews",
+        "published": "2026-05-22T01:30:45+00:00"
+      },
       {
         "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
         "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
@@ -15,20 +71,6 @@
         "description": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
         "source": "TechCrunch",
         "published": "2026-05-22T00:07:47+00:00"
-      },
-      {
-        "title": "The IBM-ification of Google?",
-        "link": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
-        "description": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/ Comments URL: https://news.ycombinator.com/item?id=48230049 Points: 47 # Comments: 41",
-        "source": "HackerNews",
-        "published": "2026-05-21T23:30:10+00:00"
-      },
-      {
-        "title": "The memory shortage is causing a repricing of consumer electronics",
-        "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-        "description": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone Comments URL: https://news.ycombinator.com/item?id=48229319 Points: 80 # Comments: 26",
-        "source": "HackerNews",
-        "published": "2026-05-21T21:55:56+00:00"
       },
       {
         "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
@@ -61,7 +103,7 @@
       {
         "title": "Uv is fantastic, but its package management UX is a mess",
         "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-        "description": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/ Comments URL: https://news.ycombinator.com/item?id=48228788 Points: 63 # Comments: 43",
+        "description": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/ Comments URL: https://news.ycombinator.com/item?id=48228788 Points: 143 # Comments: 85",
         "source": "HackerNews",
         "published": "2026-05-21T20:56:36+00:00"
       },
@@ -71,13 +113,6 @@
         "description": "Apple'ın test ettiği iPhone 19 Pro prototipinde dört kenarı kavisli ekran ve panel altı Face ID teknolojisi öne çıkıyor.",
         "source": "ShiftDelete",
         "published": "2026-05-21T20:30:00+00:00"
-      },
-      {
-        "title": "Show HN: Open-source .docx editor library for building document apps",
-        "link": "https://github.com/eigenpal/docx-editor",
-        "description": "We are working on an open-source .docx editor library for apps that need to edit Word documents in the browser. We just shipped 1.0. A lot of existing approaches convert .docx into HTML and lose document semantics along the way. Our editor parses...",
-        "source": "HackerNews",
-        "published": "2026-05-21T20:23:37+00:00"
       },
       {
         "title": "Galaxy Buds Able: Samsung’un Yeni Klips Tasarımlı Kulaklığı",
@@ -103,7 +138,7 @@
       {
         "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
         "link": "https://arxiv.org/abs/2605.12460",
-        "description": "Article URL: https://arxiv.org/abs/2605.12460 Comments URL: https://news.ycombinator.com/item?id=48227923 Points: 50 # Comments: 4",
+        "description": "Article URL: https://arxiv.org/abs/2605.12460 Comments URL: https://news.ycombinator.com/item?id=48227923 Points: 85 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-05-21T19:37:26+00:00"
       },
@@ -131,7 +166,7 @@
       {
         "title": "Using Kagi Search with Low Vision",
         "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-        "description": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/ Comments URL: https://news.ycombinator.com/item?id=48227860 Points: 123 # Comments: 19",
+        "description": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/ Comments URL: https://news.ycombinator.com/item?id=48227860 Points: 173 # Comments: 46",
         "source": "HackerNews",
         "published": "2026-05-21T19:32:16+00:00"
       },
@@ -166,7 +201,7 @@
       {
         "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
         "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-        "description": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/ Comments URL: https://news.ycombinator.com/item?id=48227397 Points: 162 # Comments: 90",
+        "description": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/ Comments URL: https://news.ycombinator.com/item?id=48227397 Points: 223 # Comments: 118",
         "source": "HackerNews",
         "published": "2026-05-21T18:54:55+00:00"
       },
@@ -187,7 +222,7 @@
       {
         "title": "BBEdit 16",
         "link": "https://www.barebones.com/products/bbedit/bbedit16.html",
-        "description": "Article URL: https://www.barebones.com/products/bbedit/bbedit16.html Comments URL: https://news.ycombinator.com/item?id=48226944 Points: 266 # Comments: 82",
+        "description": "Article URL: https://www.barebones.com/products/bbedit/bbedit16.html Comments URL: https://news.ycombinator.com/item?id=48226944 Points: 296 # Comments: 88",
         "source": "HackerNews",
         "published": "2026-05-21T18:21:37+00:00"
       },
@@ -204,27 +239,6 @@
         "description": "Türkiye, acil durum ve afet yönetiminde dijital dönüşüm adımlarına bir yenisini daha ekliyor. İçişleri Bakanlığı tarafından geliştirilen HAYAT 112 Acil mobil uygulaması, vatandaşların acil çağrı süreçlerini hızlandırmak, saha ekiplerinin...",
         "source": "ShiftDelete",
         "published": "2026-05-21T18:05:17+00:00"
-      },
-      {
-        "title": "Where are all the UK red telephone kiosks?",
-        "link": "https://www.thek6project.co.uk/",
-        "description": "Article URL: https://www.thek6project.co.uk/ Comments URL: https://news.ycombinator.com/item?id=48226703 Points: 70 # Comments: 42",
-        "source": "HackerNews",
-        "published": "2026-05-21T18:04:17+00:00"
-      },
-      {
-        "title": "AMD 192 GB Birleşik Bellekli Ryzen AI Max 400 Serisini Tanıttı",
-        "link": "https://shiftdelete.net/amd-192-gb-birlesik-bellekli-ryzen-ai-max-400-serisini-tanitti",
-        "description": "AMD, mini PC boyutundaki sistemlere sığabilecek kadar kompakt bir yapıda tasarlanmasına rağmen tam 192 GB birleşik bellek sunan yeni Ryzen AI Max 400 (Gorgon Halo) serisi işlemcilerini resmi olarak duyurdu. Küresel DRAM ve bellek yongası tedarikinde...",
-        "source": "ShiftDelete",
-        "published": "2026-05-21T18:00:54+00:00"
-      },
-      {
-        "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-        "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-        "description": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 410 # Comments: 166",
-        "source": "HackerNews",
-        "published": "2026-05-21T17:55:58+00:00"
       },
       {
         "title": "Convective Capital raises an $85 million fund to build disaster resilience",
@@ -255,13 +269,6 @@
         "published": "2026-05-21T17:36:17+03:00"
       },
       {
-        "title": "E-Ink Ekranlı Insta360 Mic Pro Tanıtıldı",
-        "link": "https://shiftdelete.net/e-ink-ekranli-insta360-mic-pro-tanitildi",
-        "description": "Kamera ve içerik üretici ekipmanları pazarının öncü markalarından Insta360, ses teknolojileri alanında büyük bir yeniliğe imza atarak Insta360 Mic Pro kablosuz mikrofon sistemini resmi olarak duyuruyor. Yayıncılar, podcast yapımcıları, film ekipleri...",
-        "source": "ShiftDelete",
-        "published": "2026-05-21T17:30:10+00:00"
-      },
-      {
         "title": "Android Auto'ya YouTube ve Netflix Geliyor",
         "link": "\n                    https://www.webtekno.com/android-auto-youtube-netflix-h217296.html\n                    ",
         "description": "Android Auto, yerleşik YouTube ve Netflix desteği kazanacak.",
@@ -274,13 +281,6 @@
         "description": "İçişleri Bakanlığı, Hayat 112 Acil ismi verilen yeni uygulamasını duyurdu.",
         "source": "Webtekno",
         "published": "2026-05-21T17:11:14+03:00"
-      },
-      {
-        "title": "Samsung Galaxy S22 İçin Yolun Sonu Göründü",
-        "link": "https://shiftdelete.net/samsung-galaxy-s22-icin-yolun-sonu-gorundu",
-        "description": "Samsung, akıllı telefon dünyasındaki yazılım desteğini hız kesmeden sürdürüyor ve eski amiral gemisi modellerini unutmadığını bir kez daha kanıtlıyor. Şirket, 2022 yılında piyasaya sürdüğü ve dönemine damga vuran Galaxy S22, Galaxy S22+ ve Galaxy...",
-        "source": "ShiftDelete",
-        "published": "2026-05-21T17:00:42+00:00"
       },
       {
         "title": "İstanbul Avrupa Boyasız Göçük Düzeltme Yerleri",
@@ -355,11 +355,46 @@
     ],
     "dunya": [
       {
-        "title": "Fans react to Stephen Colbert’s final show",
-        "link": "https://www.bbc.com/news/videos/cvgz36rx755o?at_medium=RSS&at_campaign=rss",
-        "description": "The late-night host will appear behind his CBS desk for the final time after the network announced last summer that the show would end after 11 seasons.",
+        "title": "Andrew investigation police renew call for information",
+        "link": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss",
+        "description": "The former prince was arrested in February on suspicion of misconduct in public office.",
         "source": "BBC News",
-        "published": "2026-05-22T00:52:53+00:00"
+        "published": "2026-05-22T05:01:03+00:00"
+      },
+      {
+        "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
+        "link": "https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC has spoken to the parents of five of the 23 girls who survived the knife attack, who say a court order has rendered their children invisible.",
+        "source": "BBC News",
+        "published": "2026-05-22T05:00:03+00:00"
+      },
+      {
+        "title": "'Extraordinary' heat health alerts to come into force as record May heat possible",
+        "link": "https://www.bbc.com/weather/articles/cpwpneyj05eo?at_medium=RSS&at_campaign=rss",
+        "description": "As the temperature builds across the UK, we could see the hottest May day on record in this heatwave, Simon King explains",
+        "source": "BBC News",
+        "published": "2026-05-22T04:45:20+00:00"
+      },
+      {
+        "title": "Alberta to hold referendum on whether to remain in Canada",
+        "link": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
+        "description": "Voters in the western province will decide next October whether they want to stay in Canada or move ahead with a process for a binding independence referendum.",
+        "source": "BBC News",
+        "published": "2026-05-22T02:40:58+00:00"
+      },
+      {
+        "title": "Republicans call off vote on Iran war resolution that was on the verge of passing",
+        "link": "https://www.npr.org/2026/05/22/g-s1-123592/republicans-call-off-vote-on-iran-war-resolution",
+        "description": "Republicans struggled Thursday to find the votes to dismiss legislation that would compel President Donald Trump to withdraw from the war with Iran, delaying planned votes on the matter into June.",
+        "source": "NPR",
+        "published": "2026-05-22T01:32:31-04:00"
+      },
+      {
+        "title": "Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action",
+        "link": "https://www.npr.org/2026/05/22/nx-s1-5830999/rubio-diplomacy-cuba-trump-military-action",
+        "description": "President Donald Trump and America's top diplomat on Thursday again raised the specter of U.S. military intervention in Cuba, a day after the administration announced criminal charges against the island's former leader, Raúl Castro.",
+        "source": "NPR",
+        "published": "2026-05-22T01:23:02-04:00"
       },
       {
         "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
@@ -376,7 +411,7 @@
         "published": "2026-05-21T23:15:18+00:00"
       },
       {
-        "title": "'Monitoring the situation': why young men are drawn to prediction markets",
+        "title": "'Monitoring the situation': Why young men are drawn to prediction markets",
         "link": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss",
         "description": "Prediction markets are a fast-growing, multi-billion-dollar industry, and appeal disproportionately to young men",
         "source": "BBC News",
@@ -404,25 +439,11 @@
         "published": "2026-05-21T22:48:12+00:00"
       },
       {
-        "title": "Sam Fender, Rosalía and Jacob Alon win Ivor Novello Awards",
-        "link": "https://www.bbc.com/news/articles/c74rvezve80o?at_medium=RSS&at_campaign=rss",
-        "description": "Lola Young helped to honour Elton John at Thursday's event, which celebrates the craft of songwriting.",
-        "source": "BBC News",
-        "published": "2026-05-21T22:08:41+00:00"
-      },
-      {
         "title": "NASCAR superstar Kyle Busch dies at 41 after hospitalization with 'severe illness'",
         "link": "https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies",
         "description": "Kyle Busch, who won more races than anyone across NASCAR's three national series, has died at 41. A joint statement from the Busch Family, Richard Childress Racing and NASCAR said he died after being hospitalized.",
         "source": "NPR",
         "published": "2026-05-21T18:49:51-04:00"
-      },
-      {
-        "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
-        "link": "https://www.bbc.com/news/articles/c0e2rj3zj02o?at_medium=RSS&at_campaign=rss",
-        "description": "The guidance was published on Thursday following the landmark Supreme Court ruling last year.",
-        "source": "BBC News",
-        "published": "2026-05-21T18:30:20+00:00"
       },
       {
         "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
@@ -432,18 +453,18 @@
         "published": "2026-05-21T17:41:51+00:00"
       },
       {
-        "title": "Starmer says he will campaign for Burnham in Makerfield",
-        "link": "https://www.bbc.com/news/articles/cze2j7875pdo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says Labour needs to \"all pull together and fight\", after a revolt against his leadership.",
-        "source": "BBC News",
-        "published": "2026-05-21T17:07:11+00:00"
-      },
-      {
         "title": "Trump's towering arch clears another federal hurdle, despite public pushback",
         "link": "https://www.npr.org/2026/05/21/nx-s1-5830027/trump-arch-fine-arts-approval",
         "description": "The Commission of Fine Arts gave the arch design its final approval, even though it's missing some visual components. The president said Thursday that he doesn't need approval from Congress.",
         "source": "NPR",
         "published": "2026-05-21T16:49:58-04:00"
+      },
+      {
+        "title": "Republican congressman explains his objections to $1.8B Anti-Weaponization Fund",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5830285/republican-congressman-explains-his-objections-to-1-8b-anti-weaponization-fund",
+        "description": "NPR's Juana Summers talks with Congressman Brian Fitzpatrick, R-Penn., about his concerns with the so-called Anti-Weaponization Fund.",
+        "source": "NPR",
+        "published": "2026-05-21T16:24:04-04:00"
       },
       {
         "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine",
@@ -460,9 +481,9 @@
         "published": "2026-05-21T16:15:51+00:00"
       },
       {
-        "title": "Republicans stall votes on partisan ICE funding amid party infighting",
+        "title": "Senate Republicans rebel against Trump's $1.8 trillion fund",
         "link": "https://www.npr.org/2026/05/21/g-s1-123455/republicans-ice-spending-trump",
-        "description": "Republicans planned to vote on a major funding bill for Immigration and Customs Enforcement this week but plans collapsed amid GOP rancor over Trump's policy demands.",
+        "description": "In a rare rebuke, Senate Republicans postponed a vote to fund immigration enforcement amid alarm over the novel fund",
         "source": "NPR",
         "published": "2026-05-21T15:16:08-04:00"
       },
@@ -495,32 +516,11 @@
         "published": "2026-05-21T13:29:35-04:00"
       },
       {
-        "title": "Forecasters expect slightly fewer hurricanes than usual this year, but the risk of destructive storms is still high",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5810607/2026-atlantic-hurricane-season-forecast-trump-fema-climate",
-        "description": "Forecasters expect 8 to 14 storms will form in the Atlantic between June 1 and November 30. But the danger is more serious than the numbers suggest.",
-        "source": "NPR",
-        "published": "2026-05-21T12:56:41-04:00"
-      },
-      {
         "title": "‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row",
         "link": "https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois",
         "description": "Parliamentary rule that only English is allowed has reignited debate about language, legitimacy and postcolonial identity When the Jamaican MP Nekeisha Burchell stood up to give her maiden speech, she was keenly aware of how much her country’s...",
         "source": "The Guardian",
         "published": "2026-05-21T12:38:35+00:00"
-      },
-      {
-        "title": "After the sirens: Lebanon's first responders swing between duty and grief",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
-        "description": "Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.",
-        "source": "NPR",
-        "published": "2026-05-21T12:13:26-04:00"
-      },
-      {
-        "title": "A trillion dollar question: Will SpaceX's Starship launch go well?",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo",
-        "description": "Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its giant, stainless steel rocket. Investors will be watching closely.",
-        "source": "NPR",
-        "published": "2026-05-21T11:26:30-04:00"
       },
       {
         "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
@@ -567,25 +567,130 @@
     ],
     "turkiye": [
       {
-        "title": "Hatay'ı sağanak vurdu. 3 kişi hayatını kaybetti, 2 kişi kayıp",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-hatayi-saganak-vurdu-3-kisi-hayatini-kaybetti-2-kisi-kayip-1725380",
-        "description": "Şiddetli yağışın etkili olduğu Hatay'da 3 kişi hayatını kaybetti. Vali Mustafa Masatlı, 2 kişinin de hala kayıp olduğunu açıkladı. Arama çalışmaları sürüyor.",
-        "source": "NTV",
-        "published": "2026-05-22T04:17:35+03:00"
+        "title": "Nazlı Sabancı’dan hamilelik pozu! Karnı burnunda ilk kare sosyal medyayı salladı",
+        "link": "https://www.sozcu.com.tr/nazli-sabanci-dan-hamilelik-pozu-karni-burnunda-ilk-kare-sosyal-medyayi-salladi-p321773",
+        "description": "Nazlı Sabancı’dan hamilelik pozu! Karnı burnunda ilk kare sosyal medyayı salladı",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:37:25+03:00"
+      },
+      {
+        "title": "Çok sevilen peynirin satışı yasaklandı: Raflardan kaldırılmasına karar verildi",
+        "link": "https://www.sozcu.com.tr/cok-sevilen-peynirin-satisi-yasaklandi-raflardan-kaldirilmasina-karar-verildi-p321769",
+        "description": "Çok sevilen peynirin satışı yasaklandı: Raflardan kaldırılmasına karar verildi",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:34:51+03:00"
+      },
+      {
+        "title": "Kılıçdaroğlu bugün Genel Merkez'e gidecek mi? İşte yanıtı",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-bugun-genel-merkez-e-gidecek-mi-iste-yaniti-p321770",
+        "description": "Kılıçdaroğlu bugün Genel Merkez'e gidecek mi? İşte yanıtı",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:33:14+03:00"
+      },
+      {
+        "title": "Köylüler tarlasından servet topluyor: Eken 3 ayda evini, arabasını alıyor",
+        "link": "https://www.sozcu.com.tr/koyluler-tarlasindan-servet-topluyor-eken-3-ayda-evini-arabasini-aliyor-p321772",
+        "description": "Köylüler tarlasından servet topluyor: Eken 3 ayda evini, arabasını alıyor",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:31:14+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Mayıs 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-mayis-2026-1725370",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-22T04:00:00+03:00"
+        "published": "2026-05-22T08:30:01+03:00"
       },
       {
-        "title": "Gençler Türkiye’den ümidini kesmiş",
-        "link": "https://www.sozcu.com.tr/gencler-turkiye-den-umidini-kesmis-p321745",
-        "description": "Gençler Türkiye’den ümidini kesmiş",
+        "title": "Milyarlarca dolarlık dev rezervlerin sırrı açığa çıktı",
+        "link": "https://www.sozcu.com.tr/milyarlarca-dolarlik-dev-rezervlerin-sirri-aciga-cikti-p321771",
+        "description": "Milyarlarca dolarlık dev rezervlerin sırrı açığa çıktı",
         "source": "Sözcü",
-        "published": "2026-05-22T03:52:51+03:00"
+        "published": "2026-05-22T08:28:03+03:00"
+      },
+      {
+        "title": "Resmi Gazete'de bugün (22 Mayıs 2026 Resmi Gazete kararları)",
+        "link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-22-mayis-2026-resmi-gazete-kararlari-1725392",
+        "description": "Resmi Gazete'de 22 Mayıs 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 22 Mayıs 2026 tarihli ve 33261 Sayılı Resmi Gazete ayrıntıları.",
+        "source": "NTV",
+        "published": "2026-05-22T08:24:40+03:00"
+      },
+      {
+        "title": "Tanesi 1100 lira ama yok satıyor: Meyve değil mücevher, dağlarda gizlice yetişiyor",
+        "link": "https://www.sozcu.com.tr/tanesi-1100-lira-ama-yok-satiyor-meyve-degil-mucevher-daglarda-gizlice-yetisiyor-p321768",
+        "description": "Tanesi 1100 lira ama yok satıyor: Meyve değil mücevher, dağlarda gizlice yetişiyor",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:17:43+03:00"
+      },
+      {
+        "title": "Kılıçdaroğlu'na ikinci şok! O isim de görevi kabul etmedi",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-na-ikinci-sok-o-isim-de-gorevi-kabul-etmedi-p321767",
+        "description": "Kılıçdaroğlu'na ikinci şok! O isim de görevi kabul etmedi",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:15:15+03:00"
+      },
+      {
+        "title": "Bertuğ Özgür Yıldırım’dan müjdeli haber! Ünlü futbolcu baba oluyor",
+        "link": "https://www.sozcu.com.tr/bertug-ozgur-yildirim-dan-mujdeli-haber-unlu-futbolcu-baba-oluyor-p321766",
+        "description": "Bertuğ Özgür Yıldırım’dan müjdeli haber! Ünlü futbolcu baba oluyor",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:11:25+03:00"
+      },
+      {
+        "title": "Apartmanlarda yeni dönem bugün başladı: Ödenecek paraya artık oturanlar karar verecek",
+        "link": "https://www.sozcu.com.tr/apartmanlarda-yeni-donem-bugun-basladi-odenecek-paraya-artik-oturanlar-karar-verecek-p321765",
+        "description": "Apartmanlarda yeni dönem bugün başladı: Ödenecek paraya artık oturanlar karar verecek",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:09:53+03:00"
+      },
+      {
+        "title": "Güçlü dolar altın fiyatlarını daha da düşürdü",
+        "link": "https://www.sozcu.com.tr/guclu-dolar-altin-fiyatlarini-daha-da-dusurdu-p321764",
+        "description": "Güçlü dolar altın fiyatlarını daha da düşürdü",
+        "source": "Sözcü",
+        "published": "2026-05-22T08:04:39+03:00"
+      },
+      {
+        "title": "CHP'de mutlak butlan kararı çıktı",
+        "link": "https://www.ntv.com.tr/turkiye/video-chpde-mutlak-butlan-karari-cikti-1725385",
+        "description": "Uzun zamandır tartışılan CHP kurultay davasından \"mutlak butlan\" kararı çıktı. Mahkeme CHP'nin 38. olağan kurultayını kesin hükümsüzlük sebebiyle iptal etti. Kemal Kılıçdaroğlu ve ekibinin yönetime geri dönmesi kararı verildi. Kurultay tarihi olan 5...",
+        "source": "NTV",
+        "published": "2026-05-22T07:08:45+03:00"
+      },
+      {
+        "title": "İstanbul Bilgi Üniversitesi'nin faaliyet izni kaldırıldı",
+        "link": "https://www.ntv.com.tr/turkiye/istanbul-bilgi-universitesinin-faaliyet-izni-kaldirildi-1725372",
+        "description": "İstanbul Bilgi Üniversitesi’nin faaliyet izninin kaldırılmasına ilişkin karar Resmi Gazete’de yayımlandı.",
+        "source": "NTV",
+        "published": "2026-05-22T06:18:40+03:00"
+      },
+      {
+        "title": "Hatay'daki heyelanda çocuğunu kaybeden anne. \"Güvende olsunlar diye kızıma göndermiştim\"",
+        "link": "https://www.ntv.com.tr/turkiye/hataydaki-heyelanda-cocugunu-kaybeden-anne-guvende-olsunlar-diye-kizima-gondermistim-1725383",
+        "description": "Hatay’da aşırı yağışla birlikte yaşanan heyelanda 15 yaşındaki oğlunu kaybeden ve 10 yaşındaki oğlu yoğun bakımda yaşam mücadelesi veren gözü yaşlı anne, olay gecesi evlatlarını daha güvenli olduğu için kızının evine göndermiş.",
+        "source": "NTV",
+        "published": "2026-05-22T05:40:07+03:00"
+      },
+      {
+        "title": "Hatay'ı sağanak vurdu. 3 kişi hayatını kaybetti, 2 kişi kayıp",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-hatayi-saganak-vurdu-3-kisi-hayatini-kaybetti-2-kisi-kayip-1725380",
+        "description": "Şiddetli yağışın etkili olduğu Hatay'da 3 kişi hayatını kaybetti. Vali Mustafa Masatlı, 2 kişinin de hala kayıp olduğunu açıkladı. Arama çalışmaları sürüyor.",
+        "source": "NTV",
+        "published": "2026-05-22T05:09:22+03:00"
+      },
+      {
+        "title": "Mutlak butlan kararına Ankara'dan tepkiler",
+        "link": "https://www.bbc.com/turkce/articles/c4g04nkkz70o?at_medium=RSS&at_campaign=rss",
+        "description": "CHP'nin 38. Olağan Kurultayı ile 21'inci Olağanüstü Kurultayı'nın iptali istemiyle açılan davada \"tedbirli mutlak butlan\" kararı çıkmasının ardından farklı partilerden tepkiler geldi.",
+        "source": "BBC Turkish",
+        "published": "2026-05-22T04:43:27+00:00"
+      },
+      {
+        "title": "Özel: 'CHP'yi kimin yöneteceğine CHP'liler karar verene kadar gitmiyorum'",
+        "link": "https://www.bbc.com/turkce/articles/cq5pyvwp0llo?at_medium=RSS&at_campaign=rss",
+        "description": "Cumhuriyet Halk Partisi'nde \"mutlak butlan\" kararı sonrası yapılan Merkez Yönetim Kurulu (MYK) toplantısı sona erdi. Yaklaşık beş saat süren toplantını ardından konuşan Özgür Özel, karara karşı ikinci bir parti seçeneğini düşünmediklerini söyledi.",
+        "source": "BBC Turkish",
+        "published": "2026-05-22T04:15:00+00:00"
       },
       {
         "title": "7 kişinin öldüğü fabrika yangını faciası. 3 kişi tahliye edildi",
@@ -595,18 +700,11 @@
         "published": "2026-05-22T03:50:24+03:00"
       },
       {
-        "title": "Mutlak butlanla piyasa çöktü",
-        "link": "https://www.sozcu.com.tr/mutlak-butlanla-piyasa-coktu-p321746",
-        "description": "Mutlak butlanla piyasa çöktü",
-        "source": "Sözcü",
-        "published": "2026-05-22T03:30:21+03:00"
-      },
-      {
-        "title": "Fenerbahçe'de 'Operasyon Kocaman 11'",
-        "link": "https://www.sozcu.com.tr/fenerbahce-de-operasyon-kocaman-11-p321736",
-        "description": "Fenerbahçe'de 'Operasyon Kocaman 11'",
-        "source": "Sözcü",
-        "published": "2026-05-22T03:20:43+03:00"
+        "title": "Borsada sert düşüşün ardından Finansal İstikrar Komitesi toplanıyor",
+        "link": "https://www.bbc.com/turkce/articles/c2025353kzeo?at_medium=RSS&at_campaign=rss",
+        "description": "Hazine ve Maliye Bakanlığı Finansal İstikrar Komitesi'nin Bakan Mehmet Şimşek başkanlığında 22 Mayıs'ta toplanacağını açıkladı. Açıklama, CHP'ye \"mutlak butlan\" kararının ardından İstanbul Borsa'sında sert düşüşler yaşanmasının ardından geldi.",
+        "source": "BBC Turkish",
+        "published": "2026-05-22T03:29:27+00:00"
       },
       {
         "title": "Cumhurbaşkanlığı tarafından yapılan atamalar Resmi Gazete’de",
@@ -616,20 +714,6 @@
         "published": "2026-05-22T02:54:36+03:00"
       },
       {
-        "title": "Tüketim çılgınlığına 'DUR' demek lazım",
-        "link": "https://www.sozcu.com.tr/tuketim-cilginligina-dur-demek-lazim-p321742",
-        "description": "Tüketim çılgınlığına 'DUR' demek lazım",
-        "source": "Sözcü",
-        "published": "2026-05-22T02:30:06+03:00"
-      },
-      {
-        "title": "'Mutlak butlan' kararı sonrası ilginç Mehmet Ali Çelebi ayrıntısı",
-        "link": "https://www.sozcu.com.tr/mehmet-ali-celebi-mutlak-butlan-la-listeye-girdi-p321734",
-        "description": "'Mutlak butlan' kararı sonrası ilginç Mehmet Ali Çelebi ayrıntısı",
-        "source": "Sözcü",
-        "published": "2026-05-22T01:36:01+03:00"
-      },
-      {
         "title": "Bahçeli: Özel ve Kılıçdaroğlu ortak formül üretmeli",
         "link": "https://www.ntv.com.tr/turkiye/bahceli-ozel-ve-kilicdaroglu-ortak-formul-uretmeli-1725374",
         "description": "MHP Genel Başkanı Bahçeli, CHP'deki mutlak butlan kararına ilişkin \"kararı tanımıyoruz\" gibi çıkışların boşuna olduğunu söyledi. Bahçeli, Kemal Kılıçdaroğlu'na tarihi bir sorumluk düştüğünü, Özgür Özel ile görüşerek görevinden feragat etmesi...",
@@ -637,53 +721,11 @@
         "published": "2026-05-22T01:27:22+03:00"
       },
       {
-        "title": "Bahçeli'den Kılıçdaroğlu'na dikkat çeken çağrı: Feragat etmeli",
-        "link": "https://www.sozcu.com.tr/bahceli-den-mutlak-butlan-yorumu-p321741",
-        "description": "Bahçeli'den Kılıçdaroğlu'na dikkat çeken çağrı: Feragat etmeli",
-        "source": "Sözcü",
-        "published": "2026-05-22T01:24:01+03:00"
-      },
-      {
-        "title": "İstanbul Bilgi Üniversitesi kapatıldı",
-        "link": "https://www.sozcu.com.tr/bilgi-universitesi-kapatildi-p321737",
-        "description": "İstanbul Bilgi Üniversitesi kapatıldı",
-        "source": "Sözcü",
-        "published": "2026-05-22T00:46:52+03:00"
-      },
-      {
-        "title": "CHP'nin resmi hesabı Kılıçdaroğlu'nu takip listesinden çıkardı",
-        "link": "https://www.sozcu.com.tr/chp-hesap-kemal-kilicdaroglu-p321730",
-        "description": "CHP'nin resmi hesabı Kılıçdaroğlu'nu takip listesinden çıkardı",
-        "source": "Sözcü",
-        "published": "2026-05-22T00:46:10+03:00"
-      },
-      {
         "title": "ABD: 'Küba ulusal güvenlik tehdidi oluşturuyor; barışçıl anlaşma olasılığı düşük'",
         "link": "https://www.bbc.com/turkce/articles/c5y7265v2q9o?at_medium=RSS&at_campaign=rss",
         "description": "ABD Dışişleri Bakanı Marco Rubio, Küba'nın ABD için bir \"ulusal güvenlik tehdidi\" oluşturduğunu ifade etti ve barışçıl anlaşma ihtimali \"yüksek değil\" dedi.",
         "source": "BBC Turkish",
         "published": "2026-05-22T00:42:06+00:00"
-      },
-      {
-        "title": "İstanbul Bilgi Üniversitesi'nin faaliyet izni kaldırıldı",
-        "link": "https://www.ntv.com.tr/turkiye/istanbul-bilgi-universitesinin-faaliyet-izni-kaldirildi-1725372",
-        "description": "İstanbul Bilgi Üniversitesi’nin faaliyet izninin kaldırılmasına ilişkin karar Resmi Gazete’de yayımlandı.",
-        "source": "NTV",
-        "published": "2026-05-22T00:35:36+03:00"
-      },
-      {
-        "title": "Denizin ortasında sessiz nöbet başlıyor: Artık robotlar devriye gezecek",
-        "link": "https://www.sozcu.com.tr/denizin-ortasinda-sessiz-nobet-basliyor-artik-robotlar-devriye-gezecek-p321738",
-        "description": "Denizin ortasında sessiz nöbet başlıyor: Artık robotlar devriye gezecek",
-        "source": "Sözcü",
-        "published": "2026-05-22T00:30:13+03:00"
-      },
-      {
-        "title": "Finansal İstikrar Komitesi toplanıyor. Bakan Şimşek başkanlık edecek",
-        "link": "https://www.ntv.com.tr/turkiye/finansal-istikrar-komitesi-toplaniyor-bakan-simsek-baskanlik-edecek-1725368",
-        "description": "Finansal İstikrar Komitesi bu sabah Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında toplanarak, piyasalarda yaşanan güncel gelişmelerin ekonomiye etkilerini değerlendirecek.",
-        "source": "NTV",
-        "published": "2026-05-22T00:19:03+03:00"
       },
       {
         "title": "CHP'ye 'mutlak butlan' kararı ne anlama geliyor; Özel ve Kılıçdaroğlu hangi adımlara hazırlanıyor?",
@@ -707,32 +749,11 @@
         "published": "2026-05-22T00:16:04+00:00"
       },
       {
-        "title": "Dev barajın sırrı tünellerde saklı: Suyu kilometrelerce taşımalarının bir sebebi var",
-        "link": "https://www.sozcu.com.tr/dev-barajin-sirri-tunellerde-sakli-suyu-kilometrelerce-tasimalarinin-bir-sebebi-var-p321735",
-        "description": "Dev barajın sırrı tünellerde saklı: Suyu kilometrelerce taşımalarının bir sebebi var",
-        "source": "Sözcü",
-        "published": "2026-05-22T00:11:30+03:00"
-      },
-      {
-        "title": "Özel: 'Butlana karşı ikinci parti seçeneğini düşünmedik'",
-        "link": "https://www.bbc.com/turkce/articles/cq5pyvwp0llo?at_medium=RSS&at_campaign=rss",
-        "description": "Cumhuriyet Halk Partisi'nde \"mutlak butlan\" kararı sonrası yapılan Merkez Yönetim Kurulu (MYK) toplantısı sona erdi. Yaklaşık beş saat süren toplantını ardından konuşan Özgür Özel, karara karşı ikinci bir parti seçeneğini düşünmediklerini söyledi.",
-        "source": "BBC Turkish",
-        "published": "2026-05-22T00:06:19+00:00"
-      },
-      {
         "title": "Bahçeli'den Kemal Kılıçdaroğlu ve Özgür Özel'e 'ortak yol' çağrısı",
         "link": "https://www.bbc.com/turkce/articles/c99lken290zo?at_medium=RSS&at_campaign=rss",
         "description": "CHP'nin 38. Olağan Kurultayı'na ilişkin \"mutlak butlan\" kararının iktidar kanadındaki yankıları sürüyor. MHP Genel Başkanı Devlet Bahçeli, konuyla ilgili açıklamasında Kemal Kılıçdaroğlu ve Özgür Özel'in CHP menfaatlerini esas alan ortak bir yol...",
         "source": "BBC Turkish",
         "published": "2026-05-21T22:55:55+00:00"
-      },
-      {
-        "title": "İçişleri Bakanı Çiftçi'den Gülistan Doku soruşturmasına ilişkin açıklama",
-        "link": "https://www.ntv.com.tr/turkiye/icisleri-bakani-ciftciden-gulistan-doku-sorusturmasina-iliskin-aciklama-1725367",
-        "description": "İçişleri Bakanı Mustafa Çiftçi, Gülistan Doku soruşturması için ‘’2020 yılından bugüne kadar bu soruşturmanın etkin yapılıp yapılmadığı, bununla ilgili kolluğun herhangi bir ihmalinin veya kusurunun olup olmadığıyla ilgili'' inceleme yapıldığını...",
-        "source": "NTV",
-        "published": "2026-05-21T22:09:10+03:00"
       },
       {
         "title": "İstanbul Bilgi Üniversitesi'nin faaliyet izni kaldırıldı, bundan sonra ne olacak?",
@@ -742,13 +763,6 @@
         "published": "2026-05-21T21:58:25+00:00"
       },
       {
-        "title": "Mansur Yavaş'tan çağrı: Yapılması gereken 1-2 ay içinde kongre kararı almak",
-        "link": "https://www.ntv.com.tr/turkiye/mansur-yavastan-cagri-yapilmasi-gereken-1-2-ay-icinde-kongre-karari-almak-1725366",
-        "description": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, mutlak butlan kararıyla ilgili ''Bu süreci birlik ve beraberlik içerisinde, sükûnetle atlatmak; bize umudunu bağlamış milyonlarca insana karşı en büyük sorumluluğumuzdur'' dedi.",
-        "source": "NTV",
-        "published": "2026-05-21T21:36:05+03:00"
-      },
-      {
         "title": "Sumud aktivistleri üç uçakla İstanbul'a getirildi",
         "link": "https://www.bbc.com/turkce/articles/c78qzyq26vzo?at_medium=RSS&at_campaign=rss",
         "description": "İsrail'de gözaltında gördükleri muamele geniş çaplı kınamalara yol açan Sumud Filosu aktivistleri toplu halde sınırdışı edildi ve İstanbul'a götürüldü.",
@@ -756,25 +770,11 @@
         "published": "2026-05-21T19:55:10+00:00"
       },
       {
-        "title": "Mutlak butlan kararına Ankara'dan ilk tepkiler",
-        "link": "https://www.bbc.com/turkce/articles/c4g04nkkz70o?at_medium=RSS&at_campaign=rss",
-        "description": "CHP'nin 38. Olağan Kurultayı ile 21'inci Olağanüstü Kurultayı'nın iptali istemiyle açılan davada \"tedbirli mutlak butlan\" kararı çıkmasının ardından farklı partilerden tepkiler geldi.",
-        "source": "BBC Turkish",
-        "published": "2026-05-21T19:14:01+00:00"
-      },
-      {
         "title": "Kemal Kılıçdaroğlu'dan çağrı: 'İktidar yürüyüşünü devam ettireceğiz'",
         "link": "https://www.bbc.com/turkce/articles/cx21w07wkg9o?at_medium=RSS&at_campaign=rss",
         "description": "Kemal Kılıçdaroğlu, sosyal medya hesabından yaptığı paylaşımda, \"Hiç kimse endişe etmesin, partimizi bu tartışmaların içinden çıkaracak ve iktidar yürüyüşünü devam ettireceğiz\" dedi.",
         "source": "BBC Turkish",
         "published": "2026-05-21T16:41:17+00:00"
-      },
-      {
-        "title": "Kılıçdaroğlu mutlak butlan kararı öncesi ne demişti?",
-        "link": "https://www.bbc.com/turkce/articles/c202grvydezo?at_medium=RSS&at_campaign=rss",
-        "description": "Cumhuriyet Halk Partisi (CHP) eski Genel Başkanı Kemal Kılıçdaroğlu'nun 20 Mayıs'ta yayımlanan parti içi \"arınma\" ve \"iç muhasebe\" çağrılı video mesajı partide büyük tartışma yarattı.",
-        "source": "BBC Turkish",
-        "published": "2026-05-21T15:23:32+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8613
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+83°F",
-    "wind": "↘6mph",
-    "humidity": "36%"
+    "condition": "Açık",
+    "temp": "+61°F",
+    "wind": "↗2mph",
+    "humidity": "75%"
   }
 }
