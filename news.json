@@ -1,20 +1,48 @@
 {
-  "updated_at": "2026-05-23T21:55:10.109475+00:00",
+  "updated_at": "2026-05-23T22:54:01.928210+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company",
+        "link": "https://zero-arr.vercel.app",
+        "description": "Article URL: https://zero-arr.vercel.app Comments URL: https://news.ycombinator.com/item?id=48252194 Points: 10 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-05-23T22:25:34+00:00"
+      },
+      {
+        "title": "Don't Roll Your Own",
+        "link": "https://susam.net/do-not-roll-your-own.html",
+        "description": "Article URL: https://susam.net/do-not-roll-your-own.html Comments URL: https://news.ycombinator.com/item?id=48252192 Points: 6 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-05-23T22:25:05+00:00"
+      },
+      {
+        "title": "CA declares state of emergency as fire crews race to contain toxic chemical leak",
+        "link": "https://www.bbc.com/news/articles/c3w2l249j8go",
+        "description": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go Comments URL: https://news.ycombinator.com/item?id=48252060 Points: 28 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-05-23T22:09:05+00:00"
+      },
+      {
+        "title": "We reduced a real Node.js production Docker image from 1.2GB to 78MB",
+        "link": "https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/",
+        "description": "Article URL: https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/ Comments URL: https://news.ycombinator.com/item?id=48251946 Points: 17 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-05-23T21:55:46+00:00"
+      },
+      {
+        "title": "A self-powered computer in actual credit-card size (~1mm thick)",
+        "link": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
+        "description": "Article URL: https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/ Comments URL: https://news.ycombinator.com/item?id=48251528 Points: 24 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-05-23T21:06:37+00:00"
+      },
       {
         "title": "2 Milyon Araç Kullanacak: Stellantis’in Yeni Platformu STLA One Neler Sunuyor?",
         "link": "https://shiftdelete.net/2-milyon-arac-kullanacak-stellantisin-yeni-platformu-stla-one-neler-sunuyor",
         "description": "Stellantis, 2027'de devreye alacağı yeni küresel modüler araç platformu STLA One'ı tanıttı. İşte platformun sunduğu verimlilik ve teknoloji detayları.",
         "source": "ShiftDelete",
         "published": "2026-05-23T21:00:00+00:00"
-      },
-      {
-        "title": "Pardon MIE?",
-        "link": "https://ironpeak.be/blog/bypassing-apple-mie/",
-        "description": "Article URL: https://ironpeak.be/blog/bypassing-apple-mie/ Comments URL: https://news.ycombinator.com/item?id=48251229 Points: 11 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-05-23T20:36:42+00:00"
       },
       {
         "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
@@ -40,14 +68,21 @@
       {
         "title": "It's time to talk about my writerdeck",
         "link": "https://veronicaexplains.net/my-first-writerdeck/",
-        "description": "Article URL: https://veronicaexplains.net/my-first-writerdeck/ Comments URL: https://news.ycombinator.com/item?id=48250144 Points: 152 # Comments: 92",
+        "description": "Article URL: https://veronicaexplains.net/my-first-writerdeck/ Comments URL: https://news.ycombinator.com/item?id=48250144 Points: 196 # Comments: 109",
         "source": "HackerNews",
         "published": "2026-05-23T18:45:37+00:00"
       },
       {
+        "title": "Record Club is trying to be Letterboxd for music nerds",
+        "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+        "description": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than...",
+        "source": "The Verge",
+        "published": "2026-05-23T18:41:11-04:00"
+      },
+      {
         "title": "Texas woman arrested for Facebook post about town water quality",
         "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-        "description": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality Comments URL: https://news.ycombinator.com/item?id=48249747 Points: 478 # Comments: 216",
+        "description": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality Comments URL: https://news.ycombinator.com/item?id=48249747 Points: 549 # Comments: 239",
         "source": "HackerNews",
         "published": "2026-05-23T18:02:42+00:00"
       },
@@ -68,21 +103,14 @@
       {
         "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
         "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-        "description": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html Comments URL: https://news.ycombinator.com/item?id=48248954 Points: 69 # Comments: 5",
+        "description": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html Comments URL: https://news.ycombinator.com/item?id=48248954 Points: 76 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-05-23T16:24:50+00:00"
       },
       {
-        "title": "Evaluating Spec CPU2026",
-        "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
-        "description": "Article URL: https://chipsandcheese.com/p/evaluating-spec-cpu2026 Comments URL: https://news.ycombinator.com/item?id=48248861 Points: 18 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-05-23T16:13:22+00:00"
-      },
-      {
-        "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+        "title": "Italy moves to Airbus A330 tankers",
         "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-        "description": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift Comments URL: https://news.ycombinator.com/item?id=48248775 Points: 206 # Comments: 65",
+        "description": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift Comments URL: https://news.ycombinator.com/item?id=48248775 Points: 216 # Comments: 72",
         "source": "HackerNews",
         "published": "2026-05-23T16:02:43+00:00"
       },
@@ -117,7 +145,7 @@
       {
         "title": "Lisp in Vim (2019)",
         "link": "https://susam.net/lisp-in-vim.html",
-        "description": "Article URL: https://susam.net/lisp-in-vim.html Comments URL: https://news.ycombinator.com/item?id=48248238 Points: 42 # Comments: 6",
+        "description": "Article URL: https://susam.net/lisp-in-vim.html Comments URL: https://news.ycombinator.com/item?id=48248238 Points: 46 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-05-23T14:55:59+00:00"
       },
@@ -129,32 +157,11 @@
         "published": "2026-05-23T14:50:00+00:00"
       },
       {
-        "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-        "link": "https://nand2mario.github.io/posts/2026/z386/",
-        "description": "Article URL: https://nand2mario.github.io/posts/2026/z386/ Comments URL: https://news.ycombinator.com/item?id=48248014 Points: 100 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-05-23T14:25:30+00:00"
-      },
-      {
-        "title": "Oura says it gets government demands for user data",
-        "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-        "description": "Article URL: https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/ Comments URL: https://news.ycombinator.com/item?id=48247876 Points: 230 # Comments: 135",
-        "source": "HackerNews",
-        "published": "2026-05-23T14:09:57+00:00"
-      },
-      {
         "title": "Vivo S60 Serisi Geekbench’te Görüntülendi",
         "link": "https://shiftdelete.net/vivo-s60-serisi-geekbenchte-goruntulendi",
         "description": "Akıllı telefon pazarının dikkat çeken isimlerinden Vivo, yeni orta üst segment cihazı Vivo S60 modeliyle kullanıcıların karşısına çıkmaya hazırlanıyor. 29 Mayıs 2026 tarihinde Çin’de düzenlenecek dev etkinlik öncesinde cihazın Geekbench performans...",
         "source": "ShiftDelete",
         "published": "2026-05-23T14:00:13+00:00"
-      },
-      {
-        "title": "On The (2021)",
-        "link": "https://benmyers.dev/blog/on-the-dl/",
-        "description": "Article URL: https://benmyers.dev/blog/on-the-dl/ Comments URL: https://news.ycombinator.com/item?id=48247325 Points: 315 # Comments: 100",
-        "source": "HackerNews",
-        "published": "2026-05-23T13:03:43+00:00"
       },
       {
         "title": "Huawei Telefonlara Uygulamaya Özel Ses Ayarı Özelliği Geldi",
@@ -325,13 +332,6 @@
         "published": "2026-05-22T13:43:00-04:00"
       },
       {
-        "title": "The best Memorial Day sales you can shop this weekend",
-        "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-        "description": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are...",
-        "source": "The Verge",
-        "published": "2026-05-22T13:32:33-04:00"
-      },
-      {
         "title": "Elon, stop trying to make Grok happen",
         "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
         "description": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US...",
@@ -355,11 +355,18 @@
     ],
     "dunya": [
       {
+        "title": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend",
+        "link": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
+        "description": "The Swedish pop star treated the crowds to back-to-back, high-energy pop bangers on day two of the festival.",
+        "source": "BBC News",
+        "published": "2026-05-23T22:34:14+00:00"
+      },
+      {
         "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
         "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
         "source": "BBC News",
-        "published": "2026-05-23T21:14:57+00:00"
+        "published": "2026-05-23T22:10:24+00:00"
       },
       {
         "title": "Hottest day of year as 30.5C recorded and temperatures set to soar",
@@ -481,16 +488,16 @@
         "published": "2026-05-23T06:00:00-04:00"
       },
       {
-        "title": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
-        "description": "Nearly 100,000 volunteers helped the town rebuild and a spirit of community service continues to this day. Researchers studying human behavior catastrophes can bring out compassion in surprising ways.",
+        "title": "'I'd wait forever, but 334 days is crazy.' USS Ford finally comes home",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5830101/uss-ford-comes-home",
+        "description": "The USS Ford came home to a hero's welcome. Sailors had been away from home for nearly a year, through two conflicts, a fire and problems with the sewage system.",
         "source": "NPR",
         "published": "2026-05-23T05:00:00-04:00"
       },
       {
-        "title": "'I'd wait forever, but 334 days is crazy.' USS Ford finally comes home",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5830101/uss-ford-comes-home",
-        "description": "The USS Ford came home to a hero's welcome. Sailors had been away from home for nearly a year, through two conflicts, a fire and problems with the sewage system.",
+        "title": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
+        "description": "Nearly 100,000 volunteers helped the town rebuild and a spirit of community service continues to this day. Researchers studying human behavior catastrophes can bring out compassion in surprising ways.",
         "source": "NPR",
         "published": "2026-05-23T05:00:00-04:00"
       },
@@ -500,13 +507,6 @@
         "description": "Surging food costs and fuel prices are pummeling Maine's struggling groundfishing industry. But a pandemic-era program is helping to keep it afloat as inflation worsens.",
         "source": "NPR",
         "published": "2026-05-23T05:00:00-04:00"
-      },
-      {
-        "title": "The 'raucous' debut novel set entirely on one epic night out",
-        "link": "https://www.bbc.com/news/articles/czx281ngrppo?at_medium=RSS&at_campaign=rss",
-        "description": "Sufiyaan Salam has won an award from Stormzy, been nominated for a Bafta and made a video for Elton John.",
-        "source": "BBC News",
-        "published": "2026-05-22T23:39:48+00:00"
       },
       {
         "title": "'Suddenly I could see myself': Why breast reductions are more popular now",
@@ -567,18 +567,18 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Mayıs 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-mayis-2026-1725651",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-05-24T01:30:00+03:00"
+      },
+      {
         "title": "Trump’tan dünyanın beklediği İran mesajı!",
         "link": "https://www.sozcu.com.tr/trump-tan-dunyanin-bekledigi-iran-mesaji-p322294",
         "description": "Trump’tan dünyanın beklediği İran mesajı!",
         "source": "Sözcü",
         "published": "2026-05-24T00:46:39+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Mayıs 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-mayis-2026-1725651",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-05-24T00:30:00+03:00"
       },
       {
         "title": "Zeydan Karalar'dan Kılıçdaroğlu yorumu: 'Yanlış davrandı'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8619
   },
   "weather": {
-    "condition": "Hafif yağmurlu",
-    "temp": "+51°F",
-    "wind": "←2mph",
-    "humidity": "96%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+66°F",
+    "wind": "↘19mph",
+    "humidity": "18%"
   }
 }
