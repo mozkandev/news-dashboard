@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-05-22T22:34:13.419883+00:00",
+  "updated_at": "2026-05-23T00:07:41.560841+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "source": "TechCrunch",
+        "published": "2026-05-22T23:03:33+00:00"
+      },
+      {
+        "title": "Why We've Filed a Referendum",
+        "link": "https://www.stopstratos.org",
+        "description": "Article URL: https://www.stopstratos.org Comments URL: https://news.ycombinator.com/item?id=48242668 Points: 11 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-05-22T23:01:23+00:00"
+      },
+      {
+        "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+        "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+        "description": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+        "source": "TechCrunch",
+        "published": "2026-05-22T22:55:57+00:00"
+      },
+      {
+        "title": "Sleep research led to a new sleep apnea drug",
+        "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+        "description": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug Comments URL: https://news.ycombinator.com/item?id=48242278 Points: 26 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-05-22T22:05:39+00:00"
+      },
       {
         "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
         "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
@@ -12,14 +40,14 @@
       {
         "title": "Shipping a Laptop to a Refugee Camp in Uganda",
         "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-        "description": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda Comments URL: https://news.ycombinator.com/item?id=48241997 Points: 7 # Comments: 1",
+        "description": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda Comments URL: https://news.ycombinator.com/item?id=48241997 Points: 98 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-05-22T21:36:55+00:00"
       },
       {
         "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
         "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-        "description": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+        "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
         "source": "TechCrunch",
         "published": "2026-05-22T21:02:36+00:00"
       },
@@ -31,13 +59,6 @@
         "published": "2026-05-22T21:00:00+00:00"
       },
       {
-        "title": "NTSB pulls docket after AI recreates dead pilots' voices",
-        "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-        "description": "Article URL: https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/ Comments URL: https://news.ycombinator.com/item?id=48241501 Points: 23 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-05-22T20:52:37+00:00"
-      },
-      {
         "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
         "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
         "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
@@ -47,7 +68,7 @@
       {
         "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
         "link": "https://github.com/anomalyco/models.dev",
-        "description": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 66 # Comments: 10",
+        "description": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 83 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-05-22T20:26:07+00:00"
       },
@@ -68,7 +89,7 @@
       {
         "title": "Project Glasswing: An Initial Update",
         "link": "https://www.anthropic.com/research/glasswing-initial-update",
-        "description": "Article URL: https://www.anthropic.com/research/glasswing-initial-update Comments URL: https://news.ycombinator.com/item?id=48240419 Points: 213 # Comments: 132",
+        "description": "Article URL: https://www.anthropic.com/research/glasswing-initial-update Comments URL: https://news.ycombinator.com/item?id=48240419 Points: 264 # Comments: 177",
         "source": "HackerNews",
         "published": "2026-05-22T19:31:45+00:00"
       },
@@ -80,6 +101,13 @@
         "published": "2026-05-22T19:31:19+03:00"
       },
       {
+        "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+        "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+        "description": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of...",
+        "source": "The Verge",
+        "published": "2026-05-22T19:08:29-04:00"
+      },
+      {
         "title": "Xiaomi’nin Yeni Akıllı Bilekliği Smart Band 10 Pro Tanıtıldı",
         "link": "https://shiftdelete.net/xiaominin-yeni-akilli-bilekligi-smart-band-10-pro-tanitildi",
         "description": "Xiaomi, 2.000 nit ekran parlaklığı ve gelişmiş sağlık sensörlerine sahip yeni akıllı bilekliği Smart Band 10 Pro modelini duyurdu.",
@@ -89,21 +117,21 @@
       {
         "title": "A blueprint for formal verification of Apple corecrypto",
         "link": "https://security.apple.com/blog/formal-verification-corecrypto/",
-        "description": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/ Comments URL: https://news.ycombinator.com/item?id=48239862 Points: 13 # Comments: 0",
+        "description": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/ Comments URL: https://news.ycombinator.com/item?id=48239862 Points: 38 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-05-22T18:52:17+00:00"
       },
       {
         "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
         "link": "https://arxiv.org/abs/2605.22001",
-        "description": "Article URL: https://arxiv.org/abs/2605.22001 Comments URL: https://news.ycombinator.com/item?id=48239786 Points: 23 # Comments: 4",
+        "description": "Article URL: https://arxiv.org/abs/2605.22001 Comments URL: https://news.ycombinator.com/item?id=48239786 Points: 29 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-05-22T18:46:07+00:00"
       },
       {
         "title": "Open source Kanban desktop app that runs parallel agents on every card",
         "link": "https://www.kanbots.dev/",
-        "description": "Article URL: https://www.kanbots.dev/ Comments URL: https://news.ycombinator.com/item?id=48239413 Points: 127 # Comments: 67",
+        "description": "Article URL: https://www.kanbots.dev/ Comments URL: https://news.ycombinator.com/item?id=48239413 Points: 146 # Comments: 85",
         "source": "HackerNews",
         "published": "2026-05-22T18:17:57+00:00"
       },
@@ -124,14 +152,14 @@
       {
         "title": "Thinking in an array language (2022)",
         "link": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-        "description": "Article URL: https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md Comments URL: https://news.ycombinator.com/item?id=48239023 Points: 30 # Comments: 5",
+        "description": "Article URL: https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md Comments URL: https://news.ycombinator.com/item?id=48239023 Points: 35 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-05-22T17:42:53+00:00"
       },
       {
         "title": "TorQ: Kdb+ Production Framework",
         "link": "https://github.com/DataIntellectTech/TorQ",
-        "description": "Article URL: https://github.com/DataIntellectTech/TorQ Comments URL: https://news.ycombinator.com/item?id=48238887 Points: 19 # Comments: 3",
+        "description": "Article URL: https://github.com/DataIntellectTech/TorQ Comments URL: https://news.ycombinator.com/item?id=48238887 Points: 25 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-05-22T17:31:17+00:00"
       },
@@ -141,13 +169,6 @@
         "description": "Google AI Studio iPhone uygulaması App Store’da görüldü. Uygulama, fikirleri sesle veya yazıyla anlatarak hızlı prototip oluşturmayı hedefliyor.",
         "source": "Webtekno",
         "published": "2026-05-22T17:28:14+03:00"
-      },
-      {
-        "title": "Bun support is now limited and deprecated",
-        "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-        "description": "Article URL: https://github.com/yt-dlp/yt-dlp/issues/16766 Comments URL: https://news.ycombinator.com/item?id=48238789 Points: 293 # Comments: 287",
-        "source": "HackerNews",
-        "published": "2026-05-22T17:24:12+00:00"
       },
       {
         "title": "En İyi GEO Ajansları: Güncel Liste (2026)",
@@ -190,13 +211,6 @@
         "description": "Parmakların iç kısmının net göründüğü yakın mesafeli fotoğraflardan parmak izi çıkarılabileceği iddiası gündem oldu.",
         "source": "Webtekno",
         "published": "2026-05-22T16:56:45+03:00"
-      },
-      {
-        "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-        "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-        "description": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of...",
-        "source": "The Verge",
-        "published": "2026-05-22T16:45:02-04:00"
       },
       {
         "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
@@ -274,20 +288,6 @@
         "description": "Dünyanın lider tüketici elektroniği markalarından biri olan TCL’e göre, doğru televizyon boyutunu seçmek; oda düzeni, oturma mesafesi ve yaşam tarzı analizine dayanan bilinçli bir karar olmalı. “Doğru TV boyutunu seçmek sadece daha büyük bir ekrana...",
         "source": "ShiftDelete",
         "published": "2026-05-22T14:35:17+00:00"
-      },
-      {
-        "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
-        "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-        "description": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers.",
-        "source": "TechCrunch",
-        "published": "2026-05-22T14:30:52+00:00"
-      },
-      {
-        "title": "SpaceX files to go public, and the math requires a little faith",
-        "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-        "description": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied...",
-        "source": "TechCrunch",
-        "published": "2026-05-22T14:30:00+00:00"
       },
       {
         "title": "Grande Panda’ya Kardeş Geliyor: Fiat Grizzly Görücüye Çıktı",
@@ -571,7 +571,14 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-mayis-2026-1725525",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-23T01:30:00+03:00"
+        "published": "2026-05-23T03:00:00+03:00"
+      },
+      {
+        "title": "Gülistan Doku soruşturması. Umut Altaş ABD'de gözaltına alındı",
+        "link": "https://www.ntv.com.tr/turkiye/gulistan-doku-sorusturmasi-umut-altas-abdde-gozaltina-alindi-1725516",
+        "description": "Gülistan Doku soruşturmasında kırmızı bülten çıkartılan Umut Altaş, ABD'de gözaltına alındı.",
+        "source": "NTV",
+        "published": "2026-05-23T02:23:46+03:00"
       },
       {
         "title": "Niğde’de öfkeli damat dehşeti! Kayınpederini defalarca bıçakladı",
@@ -656,13 +663,6 @@
         "description": "Süper Kupa eşleşmeleri belli oldu",
         "source": "Sözcü",
         "published": "2026-05-22T23:05:53+03:00"
-      },
-      {
-        "title": "Gülistan Doku soruşturması. Umut Altaş ABD'de gözaltına alındı",
-        "link": "https://www.ntv.com.tr/turkiye/gulistan-doku-sorusturmasi-umut-altas-abdde-gozaltina-alindi-1725516",
-        "description": "Gülistan Doku soruşturmasında kırmızı bülten çıkartılan Umut Altaş, ABD'de gözaltına alındı.",
-        "source": "NTV",
-        "published": "2026-05-22T22:58:13+03:00"
       },
       {
         "title": "Özgür Özel: 'Önce kurultayı, sonra seçim sandığını kurtaracağız'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8613
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+61°F",
-    "wind": "↙9mph",
-    "humidity": "88%"
+    "condition": "Güneşli",
+    "temp": "+96°F",
+    "wind": "↘4mph",
+    "humidity": "9%"
   }
 }
