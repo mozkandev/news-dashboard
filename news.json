@@ -1,39 +1,46 @@
 {
-  "updated_at": "2026-05-23T22:54:01.928210+00:00",
+  "updated_at": "2026-05-23T23:58:02.821823+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company",
-        "link": "https://zero-arr.vercel.app",
-        "description": "Article URL: https://zero-arr.vercel.app Comments URL: https://news.ycombinator.com/item?id=48252194 Points: 10 # Comments: 3",
+        "title": "My I3-Emacs Integration",
+        "link": "https://khz.ac/software/i3-integration.html",
+        "description": "Article URL: https://khz.ac/software/i3-integration.html Comments URL: https://news.ycombinator.com/item?id=48252535 Points: 5 # Comments: 0",
         "source": "HackerNews",
-        "published": "2026-05-23T22:25:34+00:00"
+        "published": "2026-05-23T23:13:42+00:00"
+      },
+      {
+        "title": "Bun.Image",
+        "link": "https://bun.com/docs/runtime/image",
+        "description": "Article URL: https://bun.com/docs/runtime/image Comments URL: https://news.ycombinator.com/item?id=48252442 Points: 16 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-05-23T22:57:51+00:00"
       },
       {
         "title": "Don't Roll Your Own",
         "link": "https://susam.net/do-not-roll-your-own.html",
-        "description": "Article URL: https://susam.net/do-not-roll-your-own.html Comments URL: https://news.ycombinator.com/item?id=48252192 Points: 6 # Comments: 1",
+        "description": "Article URL: https://susam.net/do-not-roll-your-own.html Comments URL: https://news.ycombinator.com/item?id=48252192 Points: 37 # Comments: 27",
         "source": "HackerNews",
         "published": "2026-05-23T22:25:05+00:00"
       },
       {
-        "title": "CA declares state of emergency as fire crews race to contain toxic chemical leak",
+        "title": "Byrne's Euclid",
+        "link": "https://www.c82.net/euclid/",
+        "description": "Article URL: https://www.c82.net/euclid/ Comments URL: https://news.ycombinator.com/item?id=48252146 Points: 6 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-23T22:19:36+00:00"
+      },
+      {
+        "title": "Toxic chemical leak at a manufacturing facility in Orange County",
         "link": "https://www.bbc.com/news/articles/c3w2l249j8go",
-        "description": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go Comments URL: https://news.ycombinator.com/item?id=48252060 Points: 28 # Comments: 5",
+        "description": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go Comments URL: https://news.ycombinator.com/item?id=48252060 Points: 66 # Comments: 35",
         "source": "HackerNews",
         "published": "2026-05-23T22:09:05+00:00"
       },
       {
-        "title": "We reduced a real Node.js production Docker image from 1.2GB to 78MB",
-        "link": "https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/",
-        "description": "Article URL: https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/ Comments URL: https://news.ycombinator.com/item?id=48251946 Points: 17 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-05-23T21:55:46+00:00"
-      },
-      {
         "title": "A self-powered computer in actual credit-card size (~1mm thick)",
         "link": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
-        "description": "Article URL: https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/ Comments URL: https://news.ycombinator.com/item?id=48251528 Points: 24 # Comments: 1",
+        "description": "Article URL: https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/ Comments URL: https://news.ycombinator.com/item?id=48251528 Points: 36 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-05-23T21:06:37+00:00"
       },
@@ -68,7 +75,7 @@
       {
         "title": "It's time to talk about my writerdeck",
         "link": "https://veronicaexplains.net/my-first-writerdeck/",
-        "description": "Article URL: https://veronicaexplains.net/my-first-writerdeck/ Comments URL: https://news.ycombinator.com/item?id=48250144 Points: 196 # Comments: 109",
+        "description": "Article URL: https://veronicaexplains.net/my-first-writerdeck/ Comments URL: https://news.ycombinator.com/item?id=48250144 Points: 227 # Comments: 122",
         "source": "HackerNews",
         "published": "2026-05-23T18:45:37+00:00"
       },
@@ -82,7 +89,7 @@
       {
         "title": "Texas woman arrested for Facebook post about town water quality",
         "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-        "description": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality Comments URL: https://news.ycombinator.com/item?id=48249747 Points: 549 # Comments: 239",
+        "description": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality Comments URL: https://news.ycombinator.com/item?id=48249747 Points: 585 # Comments: 254",
         "source": "HackerNews",
         "published": "2026-05-23T18:02:42+00:00"
       },
@@ -103,14 +110,14 @@
       {
         "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
         "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-        "description": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html Comments URL: https://news.ycombinator.com/item?id=48248954 Points: 76 # Comments: 7",
+        "description": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html Comments URL: https://news.ycombinator.com/item?id=48248954 Points: 78 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-05-23T16:24:50+00:00"
       },
       {
         "title": "Italy moves to Airbus A330 tankers",
         "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-        "description": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift Comments URL: https://news.ycombinator.com/item?id=48248775 Points: 216 # Comments: 72",
+        "description": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift Comments URL: https://news.ycombinator.com/item?id=48248775 Points: 221 # Comments: 76",
         "source": "HackerNews",
         "published": "2026-05-23T16:02:43+00:00"
       },
@@ -141,13 +148,6 @@
         "description": "BMW’nin elektrikli otomobil dünyasındaki en yeni ve dikkat çeken modellerinden biri olan yeni sınıf tasarımı BMW İX3’ü Artvin’in doğasında test etme fırsatı bulduk. Tasarımından performansına, batarya teknolojisinden yapay zeka özelliklerine kadar...",
         "source": "ShiftDelete",
         "published": "2026-05-23T15:00:46+00:00"
-      },
-      {
-        "title": "Lisp in Vim (2019)",
-        "link": "https://susam.net/lisp-in-vim.html",
-        "description": "Article URL: https://susam.net/lisp-in-vim.html Comments URL: https://news.ycombinator.com/item?id=48248238 Points: 46 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-05-23T14:55:59+00:00"
       },
       {
         "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
@@ -369,6 +369,13 @@
         "published": "2026-05-23T22:10:24+00:00"
       },
       {
+        "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
+        "link": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
+        "description": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. It aims to end the war and includes two-month negotiations on Iran's nuclear program.",
+        "source": "NPR",
+        "published": "2026-05-23T19:00:02-04:00"
+      },
+      {
         "title": "Hottest day of year as 30.5C recorded and temperatures set to soar",
         "link": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss",
         "description": "Amber heat health alerts are in place for the Midlands, eastern and south-east England.",
@@ -381,13 +388,6 @@
         "description": "The port said extra checks would be suspended, after travellers faced queues as temperatures soared.",
         "source": "BBC News",
         "published": "2026-05-23T16:55:59+00:00"
-      },
-      {
-        "title": "F1 great Prost 'injured as masked gang raid home'",
-        "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-        "description": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
-        "source": "BBC News",
-        "published": "2026-05-23T15:33:20+00:00"
       },
       {
         "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
@@ -502,11 +502,11 @@
         "published": "2026-05-23T05:00:00-04:00"
       },
       {
-        "title": "One solution for Maine's struggling fishing industry? Give fillets away for free",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5756374/food-fish-maine-portland-donations",
-        "description": "Surging food costs and fuel prices are pummeling Maine's struggling groundfishing industry. But a pandemic-era program is helping to keep it afloat as inflation worsens.",
-        "source": "NPR",
-        "published": "2026-05-23T05:00:00-04:00"
+        "title": "The 'raucous' debut novel set entirely on one epic night out",
+        "link": "https://www.bbc.com/news/articles/czx281ngrppo?at_medium=RSS&at_campaign=rss",
+        "description": "Sufiyaan Salam has won an award from Stormzy, been nominated for a Bafta and made a video for Elton John.",
+        "source": "BBC News",
+        "published": "2026-05-22T23:39:48+00:00"
       },
       {
         "title": "'Suddenly I could see myself': Why breast reductions are more popular now",
@@ -571,7 +571,7 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-mayis-2026-1725651",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-24T01:30:00+03:00"
+        "published": "2026-05-24T02:30:00+03:00"
       },
       {
         "title": "Trump’tan dünyanın beklediği İran mesajı!",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8619
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+66°F",
-    "wind": "↘19mph",
-    "humidity": "18%"
+    "condition": "Kapalı",
+    "temp": "+60°F",
+    "wind": "↓6mph",
+    "humidity": "100%"
   }
 }
