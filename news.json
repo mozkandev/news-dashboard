@@ -1,48 +1,69 @@
 {
-  "updated_at": "2026-05-23T23:58:02.821823+00:00",
+  "updated_at": "2026-05-24T04:20:07.852926+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Apple’dan WWDC Öncesi Yapay Zeka Hamlesi",
+        "link": "https://shiftdelete.net/appledan-wwdc-oncesi-yapay-zeka-hamlesi",
+        "description": "Apple, WWDC 2026 öncesinde genai.apple.com alt alan adını kaydetti. Siri'nin yeni yetenekleri ve yapay zeka odaklı güncellemeler hakkında detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-05-24T04:00:00+00:00"
+      },
+      {
+        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+        "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+        "description": "https://opensource.microsoft.com/blog/2026/04/28/continuing-... Comments URL: https://news.ycombinator.com/item?id=48253386 Points: 92 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-05-24T01:21:13+00:00"
+      },
+      {
+        "title": "Scammers are abusing an internal Microsoft account to send spam links",
+        "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+        "description": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/ Comments URL: https://news.ycombinator.com/item?id=48253186 Points: 67 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-05-24T00:51:32+00:00"
+      },
+      {
+        "title": "Wake up! 16b",
+        "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+        "description": "Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html Comments URL: https://news.ycombinator.com/item?id=48253060 Points: 90 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-05-24T00:30:50+00:00"
+      },
+      {
+        "title": "API proposed by Chrome: Declarative partial updates",
+        "link": "https://developer.chrome.com/blog/declarative-partial-updates",
+        "description": "Article URL: https://developer.chrome.com/blog/declarative-partial-updates Comments URL: https://news.ycombinator.com/item?id=48252957 Points: 16 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-05-24T00:16:14+00:00"
+      },
+      {
+        "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+        "link": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+        "description": "Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning Comments URL: https://news.ycombinator.com/item?id=48252720 Points: 108 # Comments: 27",
+        "source": "HackerNews",
+        "published": "2026-05-23T23:39:43+00:00"
+      },
+      {
         "title": "My I3-Emacs Integration",
         "link": "https://khz.ac/software/i3-integration.html",
-        "description": "Article URL: https://khz.ac/software/i3-integration.html Comments URL: https://news.ycombinator.com/item?id=48252535 Points: 5 # Comments: 0",
+        "description": "Article URL: https://khz.ac/software/i3-integration.html Comments URL: https://news.ycombinator.com/item?id=48252535 Points: 40 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-05-23T23:13:42+00:00"
       },
       {
-        "title": "Bun.Image",
-        "link": "https://bun.com/docs/runtime/image",
-        "description": "Article URL: https://bun.com/docs/runtime/image Comments URL: https://news.ycombinator.com/item?id=48252442 Points: 16 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-05-23T22:57:51+00:00"
-      },
-      {
-        "title": "Don't Roll Your Own",
-        "link": "https://susam.net/do-not-roll-your-own.html",
-        "description": "Article URL: https://susam.net/do-not-roll-your-own.html Comments URL: https://news.ycombinator.com/item?id=48252192 Points: 37 # Comments: 27",
-        "source": "HackerNews",
-        "published": "2026-05-23T22:25:05+00:00"
-      },
-      {
         "title": "Byrne's Euclid",
         "link": "https://www.c82.net/euclid/",
-        "description": "Article URL: https://www.c82.net/euclid/ Comments URL: https://news.ycombinator.com/item?id=48252146 Points: 6 # Comments: 2",
+        "description": "Article URL: https://www.c82.net/euclid/ Comments URL: https://news.ycombinator.com/item?id=48252146 Points: 26 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-05-23T22:19:36+00:00"
       },
       {
         "title": "Toxic chemical leak at a manufacturing facility in Orange County",
         "link": "https://www.bbc.com/news/articles/c3w2l249j8go",
-        "description": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go Comments URL: https://news.ycombinator.com/item?id=48252060 Points: 66 # Comments: 35",
+        "description": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go Comments URL: https://news.ycombinator.com/item?id=48252060 Points: 135 # Comments: 94",
         "source": "HackerNews",
         "published": "2026-05-23T22:09:05+00:00"
-      },
-      {
-        "title": "A self-powered computer in actual credit-card size (~1mm thick)",
-        "link": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
-        "description": "Article URL: https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/ Comments URL: https://news.ycombinator.com/item?id=48251528 Points: 36 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-05-23T21:06:37+00:00"
       },
       {
         "title": "2 Milyon Araç Kullanacak: Stellantis’in Yeni Platformu STLA One Neler Sunuyor?",
@@ -50,6 +71,13 @@
         "description": "Stellantis, 2027'de devreye alacağı yeni küresel modüler araç platformu STLA One'ı tanıttı. İşte platformun sunduğu verimlilik ve teknoloji detayları.",
         "source": "ShiftDelete",
         "published": "2026-05-23T21:00:00+00:00"
+      },
+      {
+        "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+        "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+        "description": "Article URL: https://www.bbc.com/news/articles/czd2qmdvmq6o Comments URL: https://news.ycombinator.com/item?id=48250980 Points: 28 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-05-23T20:09:13+00:00"
       },
       {
         "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
@@ -73,9 +101,9 @@
         "published": "2026-05-23T19:00:28+00:00"
       },
       {
-        "title": "It's time to talk about my writerdeck",
+        "title": "Time to talk about my writerdeck",
         "link": "https://veronicaexplains.net/my-first-writerdeck/",
-        "description": "Article URL: https://veronicaexplains.net/my-first-writerdeck/ Comments URL: https://news.ycombinator.com/item?id=48250144 Points: 227 # Comments: 122",
+        "description": "Article URL: https://veronicaexplains.net/my-first-writerdeck/ Comments URL: https://news.ycombinator.com/item?id=48250144 Points: 323 # Comments: 184",
         "source": "HackerNews",
         "published": "2026-05-23T18:45:37+00:00"
       },
@@ -85,13 +113,6 @@
         "description": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than...",
         "source": "The Verge",
         "published": "2026-05-23T18:41:11-04:00"
-      },
-      {
-        "title": "Texas woman arrested for Facebook post about town water quality",
-        "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-        "description": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality Comments URL: https://news.ycombinator.com/item?id=48249747 Points: 585 # Comments: 254",
-        "source": "HackerNews",
-        "published": "2026-05-23T18:02:42+00:00"
       },
       {
         "title": "Red Dead Redemption 2 En Çok Satan 3. Oyun Oldu",
@@ -106,20 +127,6 @@
         "description": "Samsung, uzun süredir merakla beklenen kararlı One UI 8.5 güncellemesinin dağıtım alanını genişletmeye hız kesmeden devam ediyor. Geçtiğimiz haftalarda One UI 8.5 sürümünü ilk olarak Galaxy Tab S11 ve Tab S11 Ultra modellerine sunan teknoloji devi,...",
         "source": "ShiftDelete",
         "published": "2026-05-23T17:00:05+00:00"
-      },
-      {
-        "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-        "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-        "description": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html Comments URL: https://news.ycombinator.com/item?id=48248954 Points: 78 # Comments: 9",
-        "source": "HackerNews",
-        "published": "2026-05-23T16:24:50+00:00"
-      },
-      {
-        "title": "Italy moves to Airbus A330 tankers",
-        "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-        "description": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift Comments URL: https://news.ycombinator.com/item?id=48248775 Points: 221 # Comments: 76",
-        "source": "HackerNews",
-        "published": "2026-05-23T16:02:43+00:00"
       },
       {
         "title": "These special phone and app features can help protect you from spyware",
@@ -169,13 +176,6 @@
         "description": "Akıllı telefon kullanıcılarının uzun süredir hayal ettiği ve özellikle multimedya deneyimini kökten değiştirecek olan “uygulamaya özel ses ayarı” özelliği nihayet gerçeğe dönüştü. Çinli teknoloji devi Huawei, amiral gemisi modellerinden önce sürpriz...",
         "source": "ShiftDelete",
         "published": "2026-05-23T13:00:17+00:00"
-      },
-      {
-        "title": "Oppo Pad 6 Özellikleri Resmi Olarak Açıklandı",
-        "link": "https://shiftdelete.net/oppo-pad-6-ozellikleri-resmi-olarak-aciklandi",
-        "description": "Akıllı telefon pazarının öncü isimlerinden Oppo, uzun süredir merakla beklenen yeni Android tablet modeli Oppo Pad 6’nın teknik özelliklerini lansman öncesinde resmi olarak duyuruyor. Şirket, sadece ham işlemci gücüne odaklanmak yerine günlük...",
-        "source": "ShiftDelete",
-        "published": "2026-05-23T13:00:14+00:00"
       },
       {
         "title": "Elon Musk has given up on solar power (on Earth)",
@@ -355,6 +355,55 @@
     ],
     "dunya": [
       {
+        "title": "Suspect killed after opening fire on Secret Service near White House",
+        "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "description": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+        "source": "BBC News",
+        "published": "2026-05-24T03:59:51+00:00"
+      },
+      {
+        "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+        "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+        "source": "BBC News",
+        "published": "2026-05-24T01:18:31+00:00"
+      },
+      {
+        "title": "Spurred on by the painful death of her dad, Natalie Cassidy trains as a carer",
+        "link": "https://www.bbc.com/news/articles/c70v1yy9nn1o?at_medium=RSS&at_campaign=rss",
+        "description": "The actress's experience caring for her father inspired her to return to education in a new BBC show.",
+        "source": "BBC News",
+        "published": "2026-05-24T00:58:49+00:00"
+      },
+      {
+        "title": "Heatwave likely to be confirmed as record-breaking temperatures forecast",
+        "link": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss",
+        "description": "The soaring temperatures could lead to new national May temperature records being set on bank holiday Monday.",
+        "source": "BBC News",
+        "published": "2026-05-24T00:54:51+00:00"
+      },
+      {
+        "title": "It's like the Olympics - except steroids are allowed",
+        "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
+        "description": "The first ever Enhanced Games are taking place this weekend in Las Vegas, with big names, big money and much controversy.",
+        "source": "BBC News",
+        "published": "2026-05-23T23:48:49+00:00"
+      },
+      {
+        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+        "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+        "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+        "source": "BBC News",
+        "published": "2026-05-23T23:34:33+00:00"
+      },
+      {
+        "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+        "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+        "description": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+        "source": "BBC News",
+        "published": "2026-05-23T23:24:03+00:00"
+      },
+      {
         "title": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend",
         "link": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
         "description": "The Swedish pop star treated the crowds to back-to-back, high-energy pop bangers on day two of the festival.",
@@ -362,11 +411,18 @@
         "published": "2026-05-23T22:34:14+00:00"
       },
       {
-        "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-        "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-        "source": "BBC News",
-        "published": "2026-05-23T22:10:24+00:00"
+        "title": "Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded",
+        "link": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house",
+        "description": "The suspect began shooting at posted officers, who returned fire and hit the shooter, the Secret Service said. A bystander was also shot, a law enforcement official said, but it's unclear by whom.",
+        "source": "NPR",
+        "published": "2026-05-23T20:23:43-04:00"
+      },
+      {
+        "title": "Romanian director Cristian Mungiu's 'Fjord' wins top prize at Cannes",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival",
+        "description": "Mungiu took home the prestigious Palme D'Or for his film Fjord , a culture-war drama set in Norway.",
+        "source": "NPR",
+        "published": "2026-05-23T20:13:33-04:00"
       },
       {
         "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
@@ -374,13 +430,6 @@
         "description": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. It aims to end the war and includes two-month negotiations on Iran's nuclear program.",
         "source": "NPR",
         "published": "2026-05-23T19:00:02-04:00"
-      },
-      {
-        "title": "Hottest day of year as 30.5C recorded and temperatures set to soar",
-        "link": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss",
-        "description": "Amber heat health alerts are in place for the Midlands, eastern and south-east England.",
-        "source": "BBC News",
-        "published": "2026-05-23T17:09:16+00:00"
       },
       {
         "title": "France suspends extra EU border checks at Dover after hours-long queues",
@@ -395,13 +444,6 @@
         "description": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spiraling Ebola...",
         "source": "The Guardian",
         "published": "2026-05-23T14:33:05+00:00"
-      },
-      {
-        "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-        "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-        "description": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
-        "source": "BBC News",
-        "published": "2026-05-23T14:24:48+00:00"
       },
       {
         "title": "What will Trump do next with Iran?",
@@ -453,13 +495,6 @@
         "published": "2026-05-23T10:10:39-04:00"
       },
       {
-        "title": "Charmain 'was on a mission' to find out who her prophet husband was. Then she died",
-        "link": "https://www.bbc.com/news/articles/c1d2xgvgy9yo?at_medium=RSS&at_campaign=rss",
-        "description": "After a whirlwind romance and quickfire wedding, she was mysteriously found dead in a bathtub in Ghana.",
-        "source": "BBC News",
-        "published": "2026-05-23T08:20:11+00:00"
-      },
-      {
         "title": "U.S. passengers flying from Ebola-affected countries rerouted",
         "link": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
         "description": "The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.",
@@ -486,41 +521,6 @@
         "description": "Chile digs desert trenches along its northern border as President José Antonio Kast pushes a hardline migration crackdown critics say may have little effect.",
         "source": "NPR",
         "published": "2026-05-23T06:00:00-04:00"
-      },
-      {
-        "title": "'I'd wait forever, but 334 days is crazy.' USS Ford finally comes home",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5830101/uss-ford-comes-home",
-        "description": "The USS Ford came home to a hero's welcome. Sailors had been away from home for nearly a year, through two conflicts, a fire and problems with the sewage system.",
-        "source": "NPR",
-        "published": "2026-05-23T05:00:00-04:00"
-      },
-      {
-        "title": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
-        "description": "Nearly 100,000 volunteers helped the town rebuild and a spirit of community service continues to this day. Researchers studying human behavior catastrophes can bring out compassion in surprising ways.",
-        "source": "NPR",
-        "published": "2026-05-23T05:00:00-04:00"
-      },
-      {
-        "title": "The 'raucous' debut novel set entirely on one epic night out",
-        "link": "https://www.bbc.com/news/articles/czx281ngrppo?at_medium=RSS&at_campaign=rss",
-        "description": "Sufiyaan Salam has won an award from Stormzy, been nominated for a Bafta and made a video for Elton John.",
-        "source": "BBC News",
-        "published": "2026-05-22T23:39:48+00:00"
-      },
-      {
-        "title": "'Suddenly I could see myself': Why breast reductions are more popular now",
-        "link": "https://www.bbc.com/news/articles/c3d2k4xz42no?at_medium=RSS&at_campaign=rss",
-        "description": "For the first time, more people in the UK are choosing reduction procedures than enlargements.",
-        "source": "BBC News",
-        "published": "2026-05-22T23:06:41+00:00"
-      },
-      {
-        "title": "How Panorama exposed rape allegations on Married at First Sight UK",
-        "link": "https://www.bbc.com/news/articles/cy02349wgy5o?at_medium=RSS&at_campaign=rss",
-        "description": "Two women said they were raped by their on-screen husbands during filming of the Channel 4 show, MAFS.",
-        "source": "BBC News",
-        "published": "2026-05-22T23:02:43+00:00"
       },
       {
         "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
@@ -567,81 +567,102 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika... Adana'da gece yarısı korkutan deprem",
+        "link": "https://www.sozcu.com.tr/son-dakika-adana-da-gece-yarisi-korkutan-deprem-p322324",
+        "description": "Son dakika... Adana'da gece yarısı korkutan deprem",
+        "source": "Sözcü",
+        "published": "2026-05-24T07:17:44+03:00"
+      },
+      {
+        "title": "Fethiye Belediye Başkanı Alim Karaca'ya silahlı saldırı",
+        "link": "https://www.ntv.com.tr/turkiye/fethiye-belediye-baskani-alim-karacaya-silahli-saldiri-1725618",
+        "description": "Fethiye Belediye Başkanı Alim Karaca’ya silahlı saldırı düzenlendi. Ayağından yaralanan Alim Karaca hastaneye kaldırıldı.",
+        "source": "NTV",
+        "published": "2026-05-24T07:08:21+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Mayıs 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-mayis-2026-1725651",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-24T02:30:00+03:00"
+        "published": "2026-05-24T07:00:00+03:00"
       },
       {
-        "title": "Trump’tan dünyanın beklediği İran mesajı!",
-        "link": "https://www.sozcu.com.tr/trump-tan-dunyanin-bekledigi-iran-mesaji-p322294",
-        "description": "Trump’tan dünyanın beklediği İran mesajı!",
+        "title": "Bekir Abi, 11 yıl önce böyle yazdı: Yatma",
+        "link": "https://www.sozcu.com.tr/bekir-abi-11-yil-once-boyle-yazdi-yatma-p322322",
+        "description": "Bekir Abi, 11 yıl önce böyle yazdı: Yatma",
         "source": "Sözcü",
-        "published": "2026-05-24T00:46:39+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "Zeydan Karalar'dan Kılıçdaroğlu yorumu: 'Yanlış davrandı'",
-        "link": "https://www.sozcu.com.tr/zeydan-karalar-dan-kilicdaroglu-yorumu-yanlis-davrandi-p322304",
-        "description": "Zeydan Karalar'dan Kılıçdaroğlu yorumu: 'Yanlış davrandı'",
+        "title": "40 günde kurultay şartı",
+        "link": "https://www.sozcu.com.tr/40-gunde-kurultay-sarti-p322321",
+        "description": "40 günde kurultay şartı",
         "source": "Sözcü",
-        "published": "2026-05-24T00:21:08+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "Gülistan Doku soruşturmasında kilit isim Umut Altaş’ın ses kaydı ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/gulistan-doku-sorusturmasinda-kilit-isim-umut-altas-in-ses-kaydi-ortaya-cikti-p322300",
-        "description": "Gülistan Doku soruşturmasında kilit isim Umut Altaş’ın ses kaydı ortaya çıktı",
+        "title": "İsviçreliler küstahlaştı: Artık Türk almıyoruz",
+        "link": "https://www.sozcu.com.tr/isvicreliler-kustahlasti-artik-turk-almiyoruz-p322320",
+        "description": "İsviçreliler küstahlaştı: Artık Türk almıyoruz",
         "source": "Sözcü",
-        "published": "2026-05-23T23:32:52+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "Kadavra kemiği skandalı! Doktorun bir hareketi her şeyi ortaya çıkardı",
-        "link": "https://www.sozcu.com.tr/kadavra-kemigi-skandali-doktorun-bir-hareketi-her-seyi-ortaya-cikardi-p322297",
-        "description": "Kadavra kemiği skandalı! Doktorun bir hareketi her şeyi ortaya çıkardı",
+        "title": "Kılıçdaroğlu kasaya el koydu çalışanlar maaş alamadı",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-kasaya-el-koydu-calisanlar-maas-alamadi-p322319",
+        "description": "Kılıçdaroğlu kasaya el koydu çalışanlar maaş alamadı",
         "source": "Sözcü",
-        "published": "2026-05-23T23:28:21+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "69 barodan yandaş gazeteciye tepki",
-        "link": "https://www.sozcu.com.tr/69-barodan-yandas-gazeteciye-tepki-p322296",
-        "description": "69 barodan yandaş gazeteciye tepki",
+        "title": "Butlan kaosunda yine kazanan Cengiz oldu",
+        "link": "https://www.sozcu.com.tr/butlan-kaosunda-yine-kazanan-cengiz-oldu-p322318",
+        "description": "Butlan kaosunda yine kazanan Cengiz oldu",
         "source": "Sözcü",
-        "published": "2026-05-23T23:15:53+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "Paolo Maldini, Fenerbahçe için İstanbul'a geldi",
-        "link": "https://www.sozcu.com.tr/paolo-maldini-fenerbahce-icin-istanbul-a-geldi-p322295",
-        "description": "Paolo Maldini, Fenerbahçe için İstanbul'a geldi",
+        "title": "Diyanet takvimlere 340 milyon harcadı",
+        "link": "https://www.sozcu.com.tr/diyanet-takvimlere-340-milyon-harcadi-p322317",
+        "description": "Diyanet takvimlere 340 milyon harcadı",
         "source": "Sözcü",
-        "published": "2026-05-23T23:11:24+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "Trabzonspor'a 90+5'te dev piyango",
-        "link": "https://www.sozcu.com.tr/trabzonspor-a-90-5-te-dev-piyango-p322293",
-        "description": "Trabzonspor'a 90+5'te dev piyango",
+        "title": "Özelleştirme yetmedi, belediye arsaları da satışta",
+        "link": "https://www.sozcu.com.tr/ozellestirme-yetmedi-belediye-arsalari-da-satista-p322316",
+        "description": "Özelleştirme yetmedi, belediye arsaları da satışta",
         "source": "Sözcü",
-        "published": "2026-05-23T21:55:27+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "Cem Toker, siyaseti bıraktı",
-        "link": "https://www.sozcu.com.tr/cem-toker-siyaseti-birakti-p322291",
-        "description": "Cem Toker, siyaseti bıraktı",
+        "title": "Halk konteynerde, Hatay belediyesi külliye peşinde",
+        "link": "https://www.sozcu.com.tr/halk-konteynerde-hatay-belediyesi-kulliye-pesinde-p322315",
+        "description": "Halk konteynerde, Hatay belediyesi külliye peşinde",
         "source": "Sözcü",
-        "published": "2026-05-23T21:37:11+03:00"
+        "published": "2026-05-24T05:30:02+03:00"
       },
       {
-        "title": "Ferhat Göçer'den Ömür Gedik itirafı: \"Villayı hayvan barınağına döndürdü\"",
-        "link": "https://www.sozcu.com.tr/ferhat-gocer-den-omur-gedik-itirafi-villayi-hayvan-barinagina-dondurdu-p322290",
-        "description": "Ferhat Göçer'den Ömür Gedik itirafı: \"Villayı hayvan barınağına döndürdü\"",
-        "source": "Sözcü",
-        "published": "2026-05-23T21:29:26+03:00"
+        "title": "Meteoroloji'den uyarı. Bayram boyu yağmur var",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-meteorolojiden-uyari-bayram-boyu-yagmur-var-1725642",
+        "description": "Bayram tatili boyunca yurt genelinde sağanak yağış bekleniyor. Meteoroloji pazar günü için 21 ile sarı kodlu uyarı yaptı.",
+        "source": "NTV",
+        "published": "2026-05-24T05:08:28+03:00"
       },
       {
-        "title": "Trabzonspor'da iki veda: Resmen duyuruldu",
-        "link": "https://www.sozcu.com.tr/trabzonspor-da-iki-veda-resmen-duyuruldu-p322289",
-        "description": "Trabzonspor'da iki veda: Resmen duyuruldu",
+        "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 24 Mayıs 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-24-mayis-2026-1725657",
+        "description": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 24 Mayıs 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son...",
+        "source": "NTV",
+        "published": "2026-05-24T04:50:00+03:00"
+      },
+      {
+        "title": "Beyaz Saray yakınlarında silah sesleri duyuldu",
+        "link": "https://www.sozcu.com.tr/beyaz-saray-yakinlarinda-silah-sesleri-duyuldu-p322323",
+        "description": "Beyaz Saray yakınlarında silah sesleri duyuldu",
         "source": "Sözcü",
-        "published": "2026-05-23T21:18:29+03:00"
+        "published": "2026-05-24T04:21:41+03:00"
       },
       {
         "title": "3 metrelik yılan mahalleyi korkuttu. Belediye ekipleri müdahale etti",
@@ -672,13 +693,6 @@
         "published": "2026-05-23T17:00:01+03:00"
       },
       {
-        "title": "Fethiye Belediye Başkanı Alim Karaca'ya silahlı saldırı",
-        "link": "https://www.ntv.com.tr/turkiye/fethiye-belediye-baskani-alim-karacaya-silahli-saldiri-1725618",
-        "description": "Fethiye Belediye Başkanı Alim Karaca’ya silahlı saldırı düzenlendi. Ayağından yaralanan Alim Karaca hastaneye kaldırıldı.",
-        "source": "NTV",
-        "published": "2026-05-23T16:52:36+03:00"
-      },
-      {
         "title": "Dorukhan Büyükışık soruşturmasında 23 tutuklama",
         "link": "https://www.ntv.com.tr/turkiye/dorukhan-buyukisik-sorusturmasinda-23-tutuklama-1725587",
         "description": "İzmir'de 8 yıl önce 26 yaşındaki Dorukhan Büyükışık'ın inşaat şantiyesinde ölü bulunmasına ilişkin soruşturmada gözaltına alınan 23 şüpheli tutuklandı.",
@@ -700,13 +714,6 @@
         "published": "2026-05-23T16:24:30+03:00"
       },
       {
-        "title": "Tüf tüf timi kuruldu. İlk ihbarı bekliyorlar: \"Uyanmaları uzun sürmüyor\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-tuf-tuf-timi-kuruldu-ilk-ihbari-bekliyorlar-uyanmalari-uzun-surmuyor-1725584",
-        "description": "Bursa'da Kurban Bayramı'nda kaçan hayvanları yakalamak için özel tim kuruldu. 1 veteriner hekim ile 8 veteriner müdürlüğü personelinden oluşan 'kurban yakalama timi', kaçan kurbanlıklar ile kesim aşamasında agresifleşen hayvanları 'tüf tüf' adı...",
-        "source": "NTV",
-        "published": "2026-05-23T16:12:55+03:00"
-      },
-      {
         "title": "Mutlak butlan kararında 'yetki' tartışması için hukukçular ne diyor?",
         "link": "https://www.bbc.com/turkce/articles/cg4p0yw405do?at_medium=RSS&at_campaign=rss",
         "description": "Kemal Kılıçdaroğlu'nun yeniden CHP Genel Başkanı olmasına hükmeden istinaf mahkemesi kararı, bu yetkinin Yüksek Seçim Kurulu'nda mı yoksa bir asliye mahkemesinde mi olduğu konusunda hukuki tartışma yarattı.",
@@ -726,13 +733,6 @@
         "description": "Mahkeme kararıyla görevden alınan CHP Genel Başkanı Özgür Özel, mutlak butlan kararı sonrası ilk kez kameralar karşısında soruları yanıtladı. Özel, Kemal Kılıçdaroğlu ile yüz yüze görüşmek için 40 gün içinde kurultay kararı alınması gerektiğini...",
         "source": "BBC Turkish",
         "published": "2026-05-23T12:51:28+00:00"
-      },
-      {
-        "title": "Korku dolu anlar: Köpek akıntıya kapıldı",
-        "link": "https://www.ntv.com.tr/turkiye/video-korku-dolu-anlar-kopek-akintiya-kapildi-1725588",
-        "description": "Hatay'ın Samandağ ilçesinde dün meydana gelen selde çiftlikte bulunan bir köpeğin akıntıya kapıldıktan sonra yüksek bir yere çıktığı anlar ile çiftlik sahiplerinin büyükbaş hayvanlarını sel sularından kurtardığı anlara ilişkin güvenlik kamerası...",
-        "source": "NTV",
-        "published": "2026-05-23T12:48:29+03:00"
       },
       {
         "title": "Kemal Kılıçdaroğlu: 'Partinin ahlaki değerlerini düzeltmemiz lazım'",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 45.7129,
+    "usd_try": 45.7119,
     "eur_try": 53.0482,
-    "eur_usd": 0.8619
+    "eur_usd": 0.862
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+60°F",
-    "wind": "↓6mph",
-    "humidity": "100%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+63°F",
+    "wind": "↗11mph",
+    "humidity": "23%"
   }
 }
