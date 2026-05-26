@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-05-25T22:34:18.617619+00:00",
+  "updated_at": "2026-05-26T00:06:05.431990+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Nobody cracks open a programming book anymore",
+        "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+        "description": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/ Comments URL: https://news.ycombinator.com/item?id=48273030 Points: 28 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-05-25T23:21:57+00:00"
+      },
+      {
+        "title": "Canada losing top talent as workers head to the U.S.",
+        "link": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/",
+        "description": "Article URL: https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/ Comments URL: https://news.ycombinator.com/item?id=48272749 Points: 38 # Comments: 30",
+        "source": "HackerNews",
+        "published": "2026-05-25T22:42:41+00:00"
+      },
+      {
+        "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+        "link": "https://github.com/tantara/openbrief",
+        "description": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is...",
+        "source": "HackerNews",
+        "published": "2026-05-25T21:50:03+00:00"
+      },
+      {
         "title": "Microsoft Copilot Cowork Exfiltrates Files",
         "link": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "description": "Article URL: https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files Comments URL: https://news.ycombinator.com/item?id=48272354 Points: 21 # Comments: 0",
+        "description": "Article URL: https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files Comments URL: https://news.ycombinator.com/item?id=48272354 Points: 145 # Comments: 27",
         "source": "HackerNews",
         "published": "2026-05-25T21:45:57+00:00"
       },
@@ -17,37 +38,30 @@
         "published": "2026-05-25T21:35:17+00:00"
       },
       {
-        "title": "Ferrari Luce, Maranello's first ever electric car",
-        "link": "https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car",
-        "description": "Article URL: https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car Comments URL: https://news.ycombinator.com/item?id=48271933 Points: 18 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-05-25T21:34:40+00:00"
-      },
-      {
         "title": "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
         "link": "https://github.com/ghetea-patrick/riscrithm",
-        "description": "Article URL: https://github.com/ghetea-patrick/riscrithm Comments URL: https://news.ycombinator.com/item?id=48271632 Points: 6 # Comments: 1",
+        "description": "Article URL: https://github.com/ghetea-patrick/riscrithm Comments URL: https://news.ycombinator.com/item?id=48271632 Points: 14 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-05-25T21:01:10+00:00"
       },
       {
         "title": "Yoti age checks share facial photos and device fingerprints with third parties",
         "link": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
-        "description": "Article URL: https://techxplore.com/news/2026-05-online-age-pointless-privacy.html Comments URL: https://news.ycombinator.com/item?id=48271327 Points: 54 # Comments: 10",
+        "description": "Article URL: https://techxplore.com/news/2026-05-online-age-pointless-privacy.html Comments URL: https://news.ycombinator.com/item?id=48271327 Points: 82 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-05-25T20:30:25+00:00"
       },
       {
         "title": "Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta",
         "link": "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm",
-        "description": "Article URL: https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm Comments URL: https://news.ycombinator.com/item?id=48271270 Points: 10 # Comments: 0",
+        "description": "Article URL: https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm Comments URL: https://news.ycombinator.com/item?id=48271270 Points: 28 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-05-25T20:24:16+00:00"
       },
       {
         "title": "Hacker News front page as a site",
         "link": "https://thefrontpage.dev/",
-        "description": "Article URL: https://thefrontpage.dev/ Comments URL: https://news.ycombinator.com/item?id=48271127 Points: 12 # Comments: 6",
+        "description": "Article URL: https://thefrontpage.dev/ Comments URL: https://news.ycombinator.com/item?id=48271127 Points: 68 # Comments: 35",
         "source": "HackerNews",
         "published": "2026-05-25T20:12:29+00:00"
       },
@@ -61,14 +75,14 @@
       {
         "title": "Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality",
         "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-        "description": "Article URL: https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/ Comments URL: https://news.ycombinator.com/item?id=48270812 Points: 61 # Comments: 46",
+        "description": "Article URL: https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/ Comments URL: https://news.ycombinator.com/item?id=48270812 Points: 85 # Comments: 76",
         "source": "HackerNews",
         "published": "2026-05-25T19:43:45+00:00"
       },
       {
         "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
         "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-        "description": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 90 # Comments: 51",
+        "description": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 125 # Comments: 66",
         "source": "HackerNews",
         "published": "2026-05-25T19:37:57+00:00"
       },
@@ -78,20 +92,6 @@
         "description": "Teknoloji dünyasında merakla beklenen Samsung Galaxy S26 FE, bu kez tasarım sızıntılarıyla gündeme geldi. Paylaşılan yeni render görselleri, cihazın nasıl bir görünümle geleceğini net şekilde ortaya koyuyor. Kılıf üreticisi Dux Ducis tarafından...",
         "source": "ShiftDelete",
         "published": "2026-05-25T19:00:29+00:00"
-      },
-      {
-        "title": "The bootstrapper's EU stack for under €10 per month",
-        "link": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
-        "description": "Article URL: https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/ Comments URL: https://news.ycombinator.com/item?id=48270111 Points: 167 # Comments: 61",
-        "source": "HackerNews",
-        "published": "2026-05-25T18:37:05+00:00"
-      },
-      {
-        "title": "California moves to exempt Linux from its age-verification law after backlash",
-        "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-        "description": "Article URL:...",
-        "source": "HackerNews",
-        "published": "2026-05-25T18:19:58+00:00"
       },
       {
         "title": "iOS 27 ile AirPods’a Yeni Özellikler Geliyor",
@@ -355,18 +355,32 @@
     ],
     "dunya": [
       {
-        "title": "Deal with US not imminent, Iran says",
-        "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-        "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+        "title": "US military launches new strikes on targets in southern Iran, US Central Command says",
+        "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+        "description": "US Central Command says the strikes on Iranian missile launch sites and boats were taken in \"self-defence\".",
         "source": "BBC News",
-        "published": "2026-05-25T22:05:29+00:00"
+        "published": "2026-05-25T23:51:35+00:00"
       },
       {
-        "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-        "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+        "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
+        "link": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss",
+        "description": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
         "source": "BBC News",
-        "published": "2026-05-25T21:24:34+00:00"
+        "published": "2026-05-25T23:51:24+00:00"
+      },
+      {
+        "title": "Britain's protected birds of prey still being shot, trapped and poisoned, says RSPB",
+        "link": "https://www.bbc.com/news/articles/cjep159x1njo?at_medium=RSS&at_campaign=rss",
+        "description": "The charity says more than half of attacks happened on or near land managed for game shooting.",
+        "source": "BBC News",
+        "published": "2026-05-25T23:35:26+00:00"
+      },
+      {
+        "title": "Wave of child abuse cases shakes schools in Paris",
+        "link": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
+        "description": "A school assistant goes on trial accused of sexual mistreatment of children in his care, in the latest case to rock the Paris school system.",
+        "source": "BBC News",
+        "published": "2026-05-25T23:01:57+00:00"
       },
       {
         "title": "Hottest May day on record in UK as temperatures pass 34C",
@@ -374,13 +388,6 @@
         "description": "It comes after the UK recorded its warmest May night on Sunday when temperatures reached 19.4C.",
         "source": "BBC News",
         "published": "2026-05-25T21:02:53+00:00"
-      },
-      {
-        "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-        "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-        "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
-        "source": "BBC News",
-        "published": "2026-05-25T20:40:15+00:00"
       },
       {
         "title": "Eight spectators and rider hurt at TT practice",
@@ -395,6 +402,13 @@
         "description": "The CAA says 'more awareness' of the fire risks is needed and asks passengers to 'do the right thing'.",
         "source": "BBC News",
         "published": "2026-05-25T19:37:37+00:00"
+      },
+      {
+        "title": "Ahead of the World Cup, pressure to win and grow American soccer is on Tim Ream's mind",
+        "link": "https://www.npr.org/2026/05/25/g-s1-124246/world-cup-usmnt-tim-ream",
+        "description": "Hoping to make the roster for the U.S. Men's National team going to the World Cup, Tim Ream knows there's a lot riding on the tournament, from playing well to growing a new generation of fans at home.",
+        "source": "NPR",
+        "published": "2026-05-25T19:03:41-04:00"
       },
       {
         "title": "Woman dies after being shot outside Sheffield bar",
@@ -423,13 +437,6 @@
         "description": "White House boasts Trump's \"excellent health\" as questions loom over the medical reality of the oldest inaugurated president.",
         "source": "NPR",
         "published": "2026-05-25T15:28:56-04:00"
-      },
-      {
-        "title": "Watch: Best moments from 2026 Cooper's Hill cheese rolling races",
-        "link": "https://www.bbc.com/news/videos/czr22le318jo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of people gathered in the baking heat to watch competitors from all over the world chase a 7lb (3kg) wheel of Double Gloucester cheese down the 1:2 gradient slope.",
-        "source": "BBC News",
-        "published": "2026-05-25T14:14:37+00:00"
       },
       {
         "title": "Former SNP chief executive Peter Murrell in custody after admitting £400,000 embezzlement",
@@ -502,13 +509,6 @@
         "published": "2026-05-25T05:00:00-04:00"
       },
       {
-        "title": "Spin to win: How this life insurance company turns healthy habits into a game",
-        "link": "https://www.npr.org/2026/05/25/nx-s1-5820938/life-insurance-company-healthy-habits-game",
-        "description": "You've heard of lower car insurance rates for good drivers. Now, one life insurance company wants to incentivize longevity with lower rates and extra bonuses for people who adopt healthy habits.",
-        "source": "NPR",
-        "published": "2026-05-25T05:00:00-04:00"
-      },
-      {
         "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
         "link": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
         "description": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was struck by her...",
@@ -571,7 +571,21 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-mayis-2026-1725901",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-26T01:30:00+03:00"
+        "published": "2026-05-26T03:00:01+03:00"
+      },
+      {
+        "title": "Darp edilen kadını kurtarmaya çalışan kardeşler bıçaklandı",
+        "link": "https://www.ntv.com.tr/turkiye/darp-edilen-kadini-kurtarmaya-calisan-kardesler-bicaklandi-1725903",
+        "description": "Kayseri'de iki kardeş, bir kadını darp ettiği için uyardıkları şüpheli tarafından bıçakla yaralandı.",
+        "source": "NTV",
+        "published": "2026-05-26T02:36:23+03:00"
+      },
+      {
+        "title": "Ajda Pekkan'ın tek bir öğünü 43 bin lira",
+        "link": "https://www.sozcu.com.tr/ajda-pekkan-in-tek-bir-ogunu-43-bin-lira-p322726",
+        "description": "Ajda Pekkan'ın tek bir öğünü 43 bin lira",
+        "source": "Sözcü",
+        "published": "2026-05-26T01:44:34+03:00"
       },
       {
         "title": "Çöl kristallerinden ilham alarak 539 kavisli diskle inşa ettiler",
@@ -651,13 +665,6 @@
         "published": "2026-05-25T23:45:17+03:00"
       },
       {
-        "title": "Ajda Pekkan'ın tek bir öğünü 43 bin lira",
-        "link": "https://www.sozcu.com.tr/ajda-pekkan-in-tek-bir-ogunu-43-bin-lira-p322726",
-        "description": "Ajda Pekkan'ın tek bir öğünü 43 bin lira",
-        "source": "Sözcü",
-        "published": "2026-05-25T23:40:01+03:00"
-      },
-      {
         "title": "Psikologlara göre zeki insanlar en çok bu mevsimi seviyor",
         "link": "https://www.sozcu.com.tr/psikologlara-gore-zeki-insanlar-en-cok-bu-mevsimi-seviyor-p322722",
         "description": "Psikologlara göre zeki insanlar en çok bu mevsimi seviyor",
@@ -728,13 +735,6 @@
         "published": "2026-05-25T17:46:04+03:00"
       },
       {
-        "title": "100 günde 50 bin operasyon. Kaçakçılıkla mücadelede 16 bin kişi yakalandı",
-        "link": "https://www.ntv.com.tr/turkiye/100-gunde-50-bin-operasyon-kacakcilikla-mucadelede-16-bin-kisi-yakalandi-1725871",
-        "description": "İçişleri Bakanı Mustafa Çiftçi'nin 11 Şubat'ta göreve başlamasının ardından geçen 100 günlük sürede yaklaşık 50 bin operasyon düzenlendi. 14 bin 452 ile en çok operasyon düzenlenen alan uyuşturucu oldu.",
-        "source": "NTV",
-        "published": "2026-05-25T16:10:59+03:00"
-      },
-      {
         "title": "CHP'de 'ikili yapı' dönemi: Özgür Özel'in önündeki seçenekler ve riskler neler?",
         "link": "https://www.bbc.com/turkce/articles/cpvppnmg399o?at_medium=RSS&at_campaign=rss",
         "description": "Cumhuriyet Halk Partisi'nde 2023 kurultayına ilişkin verilen \"mutlak butlan\" kararı, partiyi fiilen iki ayrı merkezin oluştuğu yeni ve son derece tartışmalı bir döneme taşıdı. BBC Türkçe'den Ayşe Sayın, Özgür Özel ve ekibinin farklı seçeneklerle yol...",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Parçalı bulutlu",
-    "temp": "+94°F",
-    "wind": "→6mph",
-    "humidity": "15%"
+    "temp": "+96°F",
+    "wind": "→13mph",
+    "humidity": "11%"
   }
 }
