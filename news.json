@@ -1,20 +1,62 @@
 {
-  "updated_at": "2026-05-29T22:12:37.775723+00:00",
+  "updated_at": "2026-05-29T23:49:12.233135+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "EV Stupidity Checklist",
-        "link": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-        "description": "Article URL: http://hypercritical.co/2026/05/29/ev-stupidity-checklist Comments URL: https://news.ycombinator.com/item?id=48329549 Points: 14 # Comments: 1",
+        "title": "MCP Is Dead",
+        "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+        "description": "Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead Comments URL: https://news.ycombinator.com/item?id=48330436 Points: 37 # Comments: 23",
         "source": "HackerNews",
-        "published": "2026-05-29T21:29:51+00:00"
+        "published": "2026-05-29T22:56:49+00:00"
+      },
+      {
+        "title": "Show HN: Free activity calendar for schools, sports clubs, and organizations",
+        "link": "https://freecal.eu/?lang=en",
+        "description": "Article URL: https://freecal.eu/?lang=en Comments URL: https://news.ycombinator.com/item?id=48330306 Points: 3 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-29T22:44:10+00:00"
+      },
+      {
+        "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+        "link": "https://github.com/secluso/core",
+        "description": "Hey everyone, I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https://news.ycombinator.com/item?id=42284412 . It was called Privastead then and it's now renamed to Secluso....",
+        "source": "HackerNews",
+        "published": "2026-05-29T22:32:29+00:00"
+      },
+      {
+        "title": "Free full BGP feed. IPv4 and IPv6",
+        "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
+        "description": "Article URL: https://lukasz.bromirski.net/post/bgp-w-labie-3/ Comments URL: https://news.ycombinator.com/item?id=48330088 Points: 11 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-29T22:21:58+00:00"
+      },
+      {
+        "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+        "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+        "description": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+        "source": "TechCrunch",
+        "published": "2026-05-29T22:21:38+00:00"
+      },
+      {
+        "title": "Coders are refusing to work without AI — and that could come back to bite them",
+        "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+        "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+        "source": "TechCrunch",
+        "published": "2026-05-29T22:14:22+00:00"
       },
       {
         "title": "Why I collect DLES",
         "link": "https://dles.gg/blog/dles-gg-manifesto",
-        "description": "Article URL: https://dles.gg/blog/dles-gg-manifesto Comments URL: https://news.ycombinator.com/item?id=48328932 Points: 14 # Comments: 4",
+        "description": "Article URL: https://dles.gg/blog/dles-gg-manifesto Comments URL: https://news.ycombinator.com/item?id=48328932 Points: 20 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-05-29T20:40:38+00:00"
+      },
+      {
+        "title": "A Trillion Characters",
+        "link": "https://characters.fastserial.com",
+        "description": "Article URL: https://characters.fastserial.com Comments URL: https://news.ycombinator.com/item?id=48328843 Points: 24 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-05-29T20:32:56+00:00"
       },
       {
         "title": "Cooler Master ve G.SKILL İş Birliğiyle Gelen Yeni RAM Teknolojisi",
@@ -24,39 +66,39 @@
         "published": "2026-05-29T20:00:00+00:00"
       },
       {
+        "title": "The Last Technical Interview",
+        "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+        "description": "Article URL: https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564 Comments URL: https://news.ycombinator.com/item?id=48328405 Points: 26 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-05-29T19:58:56+00:00"
+      },
+      {
         "title": "The California state assembly has passed the 'Protect Our Games Act'",
         "link": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-        "description": "Article URL: https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill Comments URL: https://news.ycombinator.com/item?id=48328365 Points: 128 # Comments: 119",
+        "description": "Article URL: https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill Comments URL: https://news.ycombinator.com/item?id=48328365 Points: 158 # Comments: 158",
         "source": "HackerNews",
         "published": "2026-05-29T19:55:56+00:00"
       },
       {
         "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
         "link": "https://github.com/jmaczan/tiny-vllm",
-        "description": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 42 # Comments: 3",
+        "description": "Article URL: https://github.com/jmaczan/tiny-vllm Comments URL: https://news.ycombinator.com/item?id=48328184 Points: 63 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-05-29T19:38:27+00:00"
       },
       {
         "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
         "link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-        "description": "Article URL: https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085 Comments URL: https://news.ycombinator.com/item?id=48328175 Points: 94 # Comments: 18",
+        "description": "Article URL: https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085 Comments URL: https://news.ycombinator.com/item?id=48328175 Points: 137 # Comments: 36",
         "source": "HackerNews",
         "published": "2026-05-29T19:37:41+00:00"
       },
       {
-        "title": "Shift will clean homes for free to train future robots",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-        "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning Comments URL: https://news.ycombinator.com/item?id=48327962 Points: 39 # Comments: 59",
-        "source": "HackerNews",
-        "published": "2026-05-29T19:16:32+00:00"
-      },
-      {
-        "title": "On Rendering Diffs",
-        "link": "https://pierre.computer/writing/on-rendering-diffs",
-        "description": "Article URL: https://pierre.computer/writing/on-rendering-diffs Comments URL: https://news.ycombinator.com/item?id=48327809 Points: 105 # Comments: 27",
-        "source": "HackerNews",
-        "published": "2026-05-29T19:04:54+00:00"
+        "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+        "link": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+        "description": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X...",
+        "source": "The Verge",
+        "published": "2026-05-29T19:03:29-04:00"
       },
       {
         "title": "Ferrari 12Cilindri Manuel Şanzımanla Geri Dönüyor",
@@ -71,13 +113,6 @@
         "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
         "source": "TechCrunch",
         "published": "2026-05-29T18:49:19+00:00"
-      },
-      {
-        "title": "Rothko for your current weather conditions",
-        "link": "https://rothko.joonas.wtf/",
-        "description": "Article URL: https://rothko.joonas.wtf/ Comments URL: https://news.ycombinator.com/item?id=48327367 Points: 92 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-05-29T18:31:52+00:00"
       },
       {
         "title": "iPhone 18 Pro’nun Yeni Kamera Sistemi Daha Maliyetli Olacak",
@@ -99,20 +134,6 @@
         "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22%...",
         "source": "TechCrunch",
         "published": "2026-05-29T17:57:05+00:00"
-      },
-      {
-        "title": "SQLite is all you need for durable workflows",
-        "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-        "description": "Article URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/ Comments URL: https://news.ycombinator.com/item?id=48326802 Points: 249 # Comments: 134",
-        "source": "HackerNews",
-        "published": "2026-05-29T17:54:50+00:00"
-      },
-      {
-        "title": "Robinhood now lets your AI agents trade stocks",
-        "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-        "description": "Article URL: https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/ Comments URL: https://news.ycombinator.com/item?id=48326659 Points: 82 # Comments: 154",
-        "source": "HackerNews",
-        "published": "2026-05-29T17:46:27+00:00"
       },
       {
         "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
@@ -304,13 +325,6 @@
         "published": "2026-05-29T12:00:55+00:00"
       },
       {
-        "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-        "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-        "description": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-        "source": "TechCrunch",
-        "published": "2026-05-29T12:00:00+00:00"
-      },
-      {
         "title": "Apple Silahlı Grupları Fonluyor mu?",
         "link": "https://shiftdelete.net/apple-silahli-gruplari-fonluyor-mu",
         "description": "Apple, 2025 yılına ait yıllık çatışma mineralleri raporunu SEC'e sundu. Şirket tedarik zincirindeki denetim sonuçlarını kamuoyuyla paylaştı.",
@@ -332,55 +346,41 @@
         "published": "2026-05-29T10:59:12-04:00"
       },
       {
-        "title": "How Ferrari bungled the design of its first EV",
-        "link": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple",
-        "description": "For nearly 80 years, Ferrari occupied a unique cultural space where its cars were aspirational, even for people who resented those who could afford them. The price, the exclusivity, and the opacity of the buying process allowed Ferrari to sail above...",
-        "source": "The Verge",
-        "published": "2026-05-29T10:57:05-04:00"
-      },
-      {
         "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
         "link": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
         "description": "If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a built-in USB-C cable, and you currently can buy two...",
         "source": "The Verge",
         "published": "2026-05-29T10:46:58-04:00"
-      },
-      {
-        "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
-        "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
-        "description": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
-        "source": "TechCrunch",
-        "published": "2026-05-29T01:22:16+00:00"
       }
     ],
     "dunya": [
       {
-        "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-        "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-        "description": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
         "source": "BBC News",
-        "published": "2026-05-29T21:40:45+00:00"
+        "published": "2026-05-29T23:30:33+00:00"
+      },
+      {
+        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+        "link": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
+        "description": "Wizz Air CEO Yvonne Moynihan says some passengers reported missing return or connecting flights home due to queues.",
+        "source": "BBC News",
+        "published": "2026-05-29T23:29:57+00:00"
       },
       {
         "title": "Teenage star Fonseca stuns Djokovic in French Open third-round epic",
         "link": "https://www.bbc.com/sport/tennis/articles/c1521xnnxewo?at_medium=RSS&at_campaign=rss",
         "description": "Novak Djokovic's wait for a record 25th Grand Slam singles title goes on after teenager Joao Fonseca produces a stunning fightback to win a five-set epic in the French Open third round.",
         "source": "BBC News",
-        "published": "2026-05-29T20:12:46+00:00"
+        "published": "2026-05-29T22:51:33+00:00"
       },
       {
-        "title": "EU hails Hungary's 'wind of change' and unlocks €16.4bn for new PM Magyar",
-        "link": "https://www.bbc.com/news/articles/ce8plenyk6no?at_medium=RSS&at_campaign=rss",
-        "description": "The deal is a significant boost for Hungary's leader, who has been in office for less than three weeks.",
+        "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+        "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+        "description": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
         "source": "BBC News",
-        "published": "2026-05-29T19:38:56+00:00"
-      },
-      {
-        "title": "Trump holds meeting to make 'final determination' on Iran deal",
-        "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-        "source": "BBC News",
-        "published": "2026-05-29T19:32:24+00:00"
+        "published": "2026-05-29T21:40:45+00:00"
       },
       {
         "title": "First of five men found alive in flooded Laos cave rescued",
@@ -571,7 +571,21 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-30-mayis-2026-1726383",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Mayıs 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-05-30T01:00:01+03:00"
+        "published": "2026-05-30T02:30:00+03:00"
+      },
+      {
+        "title": "Direğe çarpan araçta 2 ölü, 2 yaralı",
+        "link": "https://www.ntv.com.tr/turkiye/direge-carpan-aracta-2-olu-2-yarali-1726385",
+        "description": "Isparta'da bayram ziyaretinden dönen dört arkadaşı taşıyan araç köyde elektrik direğine çarptı. Kazada 2 kişi hayatını kaybetti, 2 kişi de ağır yaralandı.",
+        "source": "NTV",
+        "published": "2026-05-30T01:40:56+03:00"
+      },
+      {
+        "title": "Djokovic Fransa Açık'a 3. turda veda etti",
+        "link": "https://www.sozcu.com.tr/djokovic-fransa-acik-a-3-turda-veda-etti-p323658",
+        "description": "Djokovic Fransa Açık'a 3. turda veda etti",
+        "source": "Sözcü",
+        "published": "2026-05-30T01:26:13+03:00"
       },
       {
         "title": "Yaz beklenirken kar geri geldi",
@@ -651,13 +665,6 @@
         "published": "2026-05-29T21:19:14+03:00"
       },
       {
-        "title": "Rusya Avrupa’yı açık açık tehdit etti: Huzurlu uyku sona erdi",
-        "link": "https://www.sozcu.com.tr/rusya-avrupa-yi-acik-acik-tehdit-etti-huzurlu-uyku-sona-erdi-p323626",
-        "description": "Rusya Avrupa’yı açık açık tehdit etti: Huzurlu uyku sona erdi",
-        "source": "Sözcü",
-        "published": "2026-05-29T21:16:13+03:00"
-      },
-      {
         "title": "Sokakta kadına şiddete başka bir kadın müdahale etti",
         "link": "https://www.ntv.com.tr/turkiye/sokakta-kadina-siddete-kadin-mudahale-etti-1726372",
         "description": "Bursa’da tartıştığı kadını darbeden kimliği belirsiz erkek, başka bir kadının araya girmesiyle uzaklaştırıldı.",
@@ -698,13 +705,6 @@
         "description": "Kırıkkale'nin Karakeçili ilçesinde, iki otomobilin çarpışması sonucu 3 kişi yaşamını yitirdi, 6 kişi yaralandı.",
         "source": "NTV",
         "published": "2026-05-29T18:36:29+03:00"
-      },
-      {
-        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 29 Mayıs 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-29-mayis-2026-1726361",
-        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 29 Mayıs 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
-        "source": "NTV",
-        "published": "2026-05-29T18:00:00+03:00"
       },
       {
         "title": "Blue Origin roketinin patlaması NASA'nın Ay üssü planlarını zora sokar mı?",
@@ -786,7 +786,7 @@
   "weather": {
     "condition": "Güneşli",
     "temp": "+79°F",
-    "wind": "→4mph",
-    "humidity": "43%"
+    "wind": "↘2mph",
+    "humidity": "54%"
   }
 }
