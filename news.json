@@ -1,13 +1,48 @@
 {
-  "updated_at": "2026-05-31T21:32:02.554321+00:00",
+  "updated_at": "2026-05-31T23:00:35.043237+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "It's Not Just X. It's Y",
+        "link": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+        "description": "Article URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/ Comments URL: https://news.ycombinator.com/item?id=48350149 Points: 23 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-31T21:57:48+00:00"
+      },
+      {
+        "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
+        "link": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
+        "description": "Article URL: https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/ Comments URL: https://news.ycombinator.com/item?id=48350131 Points: 77 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-05-31T21:55:33+00:00"
+      },
       {
         "title": "Erin Brockovich takes aim at data center secrecy",
         "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
         "description": "Environmental activist Erin Brockovich has a new mission.",
         "source": "TechCrunch",
         "published": "2026-05-31T21:05:14+00:00"
+      },
+      {
+        "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+        "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+        "description": "Article URL: https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/ Comments URL: https://news.ycombinator.com/item?id=48349527 Points: 65 # Comments: 34",
+        "source": "HackerNews",
+        "published": "2026-05-31T20:41:10+00:00"
+      },
+      {
+        "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+        "description": "Article URL: https://www.sciencedaily.com/releases/2026/05/260530053418.htm Comments URL: https://news.ycombinator.com/item?id=48349507 Points: 32 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-05-31T20:38:52+00:00"
+      },
+      {
+        "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+        "link": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "description": "Article URL: https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration Comments URL: https://news.ycombinator.com/item?id=48349487 Points: 68 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-05-31T20:35:38+00:00"
       },
       {
         "title": "Nvidia’nın N1 ve N1X İşlemcileri Sızdırıldı",
@@ -19,7 +54,7 @@
       {
         "title": "'Backrooms' Stuns with $81M Debut",
         "link": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
-        "description": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/ Comments URL: https://news.ycombinator.com/item?id=48348864 Points: 74 # Comments: 8",
+        "description": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/ Comments URL: https://news.ycombinator.com/item?id=48348864 Points: 111 # Comments: 27",
         "source": "HackerNews",
         "published": "2026-05-31T19:27:44+00:00"
       },
@@ -33,14 +68,14 @@
       {
         "title": "Codex just found a \"workaround\" of not having sudo on my PC",
         "link": "https://twitter.com/i/status/2060746160558543217",
-        "description": "Article URL: https://twitter.com/i/status/2060746160558543217 Comments URL: https://news.ycombinator.com/item?id=48348578 Points: 193 # Comments: 78",
+        "description": "Article URL: https://twitter.com/i/status/2060746160558543217 Comments URL: https://news.ycombinator.com/item?id=48348578 Points: 290 # Comments: 120",
         "source": "HackerNews",
         "published": "2026-05-31T18:57:48+00:00"
       },
       {
         "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
         "link": "https://github.com/viggy28/streambed",
-        "description": "Article URL: https://github.com/viggy28/streambed Comments URL: https://news.ycombinator.com/item?id=48348429 Points: 31 # Comments: 0",
+        "description": "Article URL: https://github.com/viggy28/streambed Comments URL: https://news.ycombinator.com/item?id=48348429 Points: 43 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-05-31T18:43:05+00:00"
       },
@@ -66,23 +101,23 @@
         "published": "2026-05-31T18:00:00+00:00"
       },
       {
-        "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
-        "link": "https://lwn.net/Articles/104185/",
-        "description": "Article URL: https://lwn.net/Articles/104185/ Comments URL: https://news.ycombinator.com/item?id=48347961 Points: 43 # Comments: 32",
-        "source": "HackerNews",
-        "published": "2026-05-31T17:58:15+00:00"
+        "title": "Apple’s strategy for smart glasses is the same as smart watches",
+        "link": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+        "description": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of...",
+        "source": "The Verge",
+        "published": "2026-05-31T17:33:11-04:00"
       },
       {
         "title": "Deflock hits 100k ALPRs Mapped in USA",
         "link": "https://deflock.org/",
-        "description": "Article URL: https://deflock.org/ Comments URL: https://news.ycombinator.com/item?id=48347370 Points: 112 # Comments: 28",
+        "description": "Article URL: https://deflock.org/ Comments URL: https://news.ycombinator.com/item?id=48347370 Points: 143 # Comments: 36",
         "source": "HackerNews",
         "published": "2026-05-31T17:04:10+00:00"
       },
       {
         "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
         "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-        "description": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48347354 Points: 57 # Comments: 80",
+        "description": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48347354 Points: 87 # Comments: 120",
         "source": "HackerNews",
         "published": "2026-05-31T17:02:23+00:00"
       },
@@ -92,13 +127,6 @@
         "description": "Avrupa'nın Microsoft Office alternatifi olarak geliştirdiği açık kaynaklı Euro-Office, 9 Haziran'da web tabanlı olarak kullanıma sunuluyor.",
         "source": "ShiftDelete",
         "published": "2026-05-31T17:00:00+00:00"
-      },
-      {
-        "title": "The Speed of Prototyping in the Age of AI",
-        "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-        "description": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 77 # Comments: 47",
-        "source": "HackerNews",
-        "published": "2026-05-31T16:37:34+00:00"
       },
       {
         "title": "Tesla’dan Model Y Sahiplerine Yaz Hediyesi: Resmi Tavan Perdesi Çıktı!",
@@ -115,13 +143,6 @@
         "published": "2026-05-31T16:20:35-04:00"
       },
       {
-        "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-        "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-        "description": "Article URL: https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/ Comments URL:...",
-        "source": "HackerNews",
-        "published": "2026-05-31T16:19:34+00:00"
-      },
-      {
         "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
         "link": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
         "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
@@ -129,18 +150,11 @@
         "published": "2026-05-31T16:05:00+00:00"
       },
       {
-        "title": "Odysseus – self-hosted AI workspace",
-        "link": "https://github.com/pewdiepie-archdaemon/odysseus",
-        "description": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 70 # Comments: 43",
-        "source": "HackerNews",
-        "published": "2026-05-31T15:50:34+00:00"
-      },
-      {
-        "title": "Daily pill can double survival time for deadliest cancer, trial shows",
-        "link": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
-        "description": "Article URL: https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial Comments URL: https://news.ycombinator.com/item?id=48346629 Points: 120 # Comments: 31",
-        "source": "HackerNews",
-        "published": "2026-05-31T15:43:29+00:00"
+        "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
+        "link": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
+        "description": "Dell is making good on its tease from CES and finally announcing a new XPS 13. The XPS 13 returns as a budget-friendly option, launching in July at a promotional student price of $599 - though that introductory deal only runs until September for...",
+        "source": "The Verge",
+        "published": "2026-05-31T15:51:59-04:00"
       },
       {
         "title": "Making sense of the debate over AI psychosis",
@@ -332,28 +346,28 @@
         "published": "2026-05-29T13:22:58+03:00"
       },
       {
-        "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-        "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be...",
-        "source": "The Verge",
-        "published": "2026-05-29T13:09:12-04:00"
-      },
-      {
         "title": "Galaxy S27 Pro'nun Kamera Özellikleri Sızdırıldı: 3.5x Zoomlu Yeni Sistem Geliyor",
         "link": "\n                    https://www.webtekno.com/samsung-yeni-zoom-teknolojisi-s27-pro-h217696.html\n                    ",
         "description": "Samsung Galaxy S27 Pro'nun 50 MP çözünürlüklü ve 3.5x optik zoom sunan ALoP telefoto kamerayla gelebileceği öne sürüldü. Yeni modelin kompakt bir \"mini Ultra\" deneyimi sunması bekleniyor.",
         "source": "Webtekno",
         "published": "2026-05-29T12:50:53+03:00"
-      },
-      {
-        "title": "User-replaceable batteries are coming back in a big way",
-        "link": "https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about gadgets and smartphones, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback...",
-        "source": "The Verge",
-        "published": "2026-05-29T08:32:55-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
+        "source": "BBC News",
+        "published": "2026-05-31T22:39:12+00:00"
+      },
+      {
+        "title": "Arsenal fans turn streets red for victory parade",
+        "link": "https://www.bbc.com/news/articles/cq5px7jv92eo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of thousands of fans turned out to celebrate the Premier League title after a 22-year wait.",
+        "source": "BBC News",
+        "published": "2026-05-31T22:02:17+00:00"
+      },
       {
         "title": "Between celebration and confrontation: Paris after PSG victory",
         "link": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
@@ -369,25 +383,11 @@
         "published": "2026-05-31T19:58:33+00:00"
       },
       {
-        "title": "Brazil monitors two patients for possible Ebola infection",
-        "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-        "description": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
-        "source": "BBC News",
-        "published": "2026-05-31T19:07:47+00:00"
-      },
-      {
         "title": "Shot fired as officer struck by stolen police car",
         "link": "https://www.bbc.com/news/articles/c3r2e2wjz4lo?at_medium=RSS&at_campaign=rss",
         "description": "A PSNI officer is seriously injured and a man is arrested on suspicion of attempted murder.",
         "source": "BBC News",
         "published": "2026-05-31T18:43:12+00:00"
-      },
-      {
-        "title": "Arsenal fans turn streets red for victory parade",
-        "link": "https://www.bbc.com/news/articles/cq5px7jv92eo?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of thousands of fans turned out to celebrate the Premier League title after a 22-year wait.",
-        "source": "BBC News",
-        "published": "2026-05-31T18:42:44+00:00"
       },
       {
         "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
@@ -402,6 +402,13 @@
         "description": "The star, whose real name is Olajide Olatunji, has been part of the YouTube group since 2013.",
         "source": "BBC News",
         "published": "2026-05-31T17:21:28+00:00"
+      },
+      {
+        "title": "How aid cuts are hampering the frontline response to the Ebola crisis",
+        "link": "https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda",
+        "description": "Aid workers in Uganda are watching the Ebola crisis unfold in the neighboring Democratic Republic of Congo. They're doing what they can to prepare for an uptick in cases, but foreign aid cuts aren't helping.",
+        "source": "NPR",
+        "published": "2026-05-31T17:11:19-04:00"
       },
       {
         "title": "The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town",
@@ -509,13 +516,6 @@
         "published": "2026-05-31T07:00:00-04:00"
       },
       {
-        "title": "T.V. reality stars throw their hats into the ring for political office",
-        "link": "https://www.npr.org/2026/05/31/nx-s1-5836675/reality-television-politics-candidates-minnesota-texas-la",
-        "description": "Reality shows are an escape with characters who can be larger than life. But some stars use the experience of fame as a stepping stone toward another challenge: running for political office.",
-        "source": "NPR",
-        "published": "2026-05-31T05:00:00-04:00"
-      },
-      {
         "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
         "link": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
         "description": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based magic and...",
@@ -571,28 +571,56 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-haziran-2026-1726622",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-01T00:30:00+03:00"
+        "published": "2026-06-01T02:00:00+03:00"
       },
       {
-        "title": "Eski CHP'li vekilden Kılıçdaroğlu'na 'FETÖ' tepkisi: Uyardım, bozuldu",
-        "link": "https://www.sozcu.com.tr/ihsan-ozkes-kemal-kilicdaroglu-na-feto-tepkisi-p324037",
-        "description": "Eski CHP'li vekilden Kılıçdaroğlu'na 'FETÖ' tepkisi: Uyardım, bozuldu",
+        "title": "Kılıçdaroğlu'nun Cumhurbaşkanı adayı göstereceği iddia edilmişti: İlhan Kesici'den ilk açıklama",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-cumhurbaskani-adayi-gosterecegi-iddia-edilmisti-ilhan-kesici-den-ilk-aciklama-p324060",
+        "description": "Kılıçdaroğlu'nun Cumhurbaşkanı adayı göstereceği iddia edilmişti: İlhan Kesici'den ilk açıklama",
         "source": "Sözcü",
-        "published": "2026-06-01T00:27:02+03:00"
-      },
-      {
-        "title": "Ersun Yanal kararını 'Karşı durmak imkansız' diyerek duyurdu",
-        "link": "https://www.sozcu.com.tr/ersun-yanal-kararini-karsi-durmak-imkansiz-diyerek-duyurdu-p324055",
-        "description": "Ersun Yanal kararını 'Karşı durmak imkansız' diyerek duyurdu",
-        "source": "Sözcü",
-        "published": "2026-06-01T00:23:59+03:00"
+        "published": "2026-06-01T01:49:38+03:00"
       },
       {
         "title": "Dostluğun fotoğrafını çekti, düşmanlığın kurbanı oldu!",
         "link": "https://www.sozcu.com.tr/dostlugun-fotografini-cekti-dusmanligin-kurbani-oldu-p324050",
         "description": "Dostluğun fotoğrafını çekti, düşmanlığın kurbanı oldu!",
         "source": "Sözcü",
-        "published": "2026-06-01T00:23:19+03:00"
+        "published": "2026-06-01T01:06:27+03:00"
+      },
+      {
+        "title": "Tehlike büyüyünce çözümü samanda buldular: Yüzlerce balya saman kum tepelerine taşındı",
+        "link": "https://www.sozcu.com.tr/tehlike-buyuyunce-cozumu-samanda-buldular-yuzlerce-balya-saman-kum-tepelerine-tasindi-p324059",
+        "description": "Tehlike büyüyünce çözümü samanda buldular: Yüzlerce balya saman kum tepelerine taşındı",
+        "source": "Sözcü",
+        "published": "2026-06-01T01:01:51+03:00"
+      },
+      {
+        "title": "CHP Genel Merkezi'nde yeni işten çıkarmalar: Bildirimleri SMS'le aldılar",
+        "link": "https://www.sozcu.com.tr/chp-genel-merkez-isten-cikarmalar-suruyor-p324057",
+        "description": "CHP Genel Merkezi'nde yeni işten çıkarmalar: Bildirimleri SMS'le aldılar",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:58:13+03:00"
+      },
+      {
+        "title": "Ersun Yanal kararını 'Karşı durmak imkansız' diyerek duyurdu",
+        "link": "https://www.sozcu.com.tr/ersun-yanal-kararini-karsi-durmak-imkansiz-diyerek-duyurdu-p324055",
+        "description": "Ersun Yanal kararını 'Karşı durmak imkansız' diyerek duyurdu",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:40:55+03:00"
+      },
+      {
+        "title": "Zverev ve Andreeva, Roland Garros'ta çeyrek finalde",
+        "link": "https://www.sozcu.com.tr/zverev-ve-andreeva-roland-garros-ta-ceyrek-finalde-p324058",
+        "description": "Zverev ve Andreeva, Roland Garros'ta çeyrek finalde",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:36:08+03:00"
+      },
+      {
+        "title": "Aileler arasındaki kavgada silahlar konuştu! Yaralılar var",
+        "link": "https://www.sozcu.com.tr/aileler-arasindaki-kavgada-silahlar-konustu-yaralilar-var-p324054",
+        "description": "Aileler arasındaki kavgada silahlar konuştu! Yaralılar var",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:33:01+03:00"
       },
       {
         "title": "500 bin metreküp tortuyla yeni bir ada inşa etmelerinin bir sebebi var",
@@ -600,13 +628,6 @@
         "description": "500 bin metreküp tortuyla yeni bir ada inşa etmelerinin bir sebebi var",
         "source": "Sözcü",
         "published": "2026-06-01T00:22:12+03:00"
-      },
-      {
-        "title": "CHP Genel Merkezi'nde yeni işten çıkarmalar: Bildirimleri SMS'le aldılar",
-        "link": "https://www.sozcu.com.tr/chp-genel-merkez-isten-cikarmalar-suruyor-p324057",
-        "description": "CHP Genel Merkezi'nde yeni işten çıkarmalar: Bildirimleri SMS'le aldılar",
-        "source": "Sözcü",
-        "published": "2026-06-01T00:22:10+03:00"
       },
       {
         "title": "Kabine toplanıyor. Gündemde hangi konular var?",
@@ -628,27 +649,6 @@
         "description": "Pancar suyu ve pekmezi yollara dökmeye başladılar",
         "source": "Sözcü",
         "published": "2026-05-31T23:35:31+03:00"
-      },
-      {
-        "title": "Liverpool'un yıldız stoperi serbest kaldı",
-        "link": "https://www.sozcu.com.tr/liverpool-un-yildiz-stoperi-serbest-kaldi-p324031",
-        "description": "Liverpool'un yıldız stoperi serbest kaldı",
-        "source": "Sözcü",
-        "published": "2026-05-31T23:00:05+03:00"
-      },
-      {
-        "title": "Kılıçdaroğlu, 'Hain Kemal' sloganlarına sinirlendi, kendisini Atatürk'e benzetti",
-        "link": "https://www.sozcu.com.tr/kilicdaroglu-hain-kemal-sloganlarina-sinirlendi-kendisini-ataturk-e-benzetti-p324030",
-        "description": "Kılıçdaroğlu, 'Hain Kemal' sloganlarına sinirlendi, kendisini Atatürk'e benzetti",
-        "source": "Sözcü",
-        "published": "2026-05-31T22:52:38+03:00"
-      },
-      {
-        "title": "5 saat süren yolculuk 30 dakikaya düşecek: Denizin üzerine 32 kilometrelik köprü inşa ediliyor",
-        "link": "https://www.sozcu.com.tr/5-saat-suren-yolculuk-30-dakikaya-dusecek-denizin-uzerine-32-kilometrelik-kopru-insa-ediliyor-p324028",
-        "description": "5 saat süren yolculuk 30 dakikaya düşecek: Denizin üzerine 32 kilometrelik köprü inşa ediliyor",
-        "source": "Sözcü",
-        "published": "2026-05-31T22:50:36+03:00"
       },
       {
         "title": "Bebek sahilinde tur teknesinde yangın",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8578
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+71°F",
-    "wind": "→21mph",
-    "humidity": "16%"
+    "condition": null,
+    "temp": null,
+    "wind": null,
+    "humidity": null
   }
 }
