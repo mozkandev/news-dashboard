@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-05-31T20:07:55.489180+00:00",
+  "updated_at": "2026-05-31T21:32:02.554321+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+        "description": "Environmental activist Erin Brockovich has a new mission.",
+        "source": "TechCrunch",
+        "published": "2026-05-31T21:05:14+00:00"
+      },
       {
         "title": "Nvidia’nın N1 ve N1X İşlemcileri Sızdırıldı",
         "link": "https://shiftdelete.net/nvidianin-n1-ve-n1x-islemcileri-sizdirildi",
@@ -12,16 +19,9 @@
       {
         "title": "'Backrooms' Stuns with $81M Debut",
         "link": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
-        "description": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/ Comments URL: https://news.ycombinator.com/item?id=48348864 Points: 13 # Comments: 0",
+        "description": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/ Comments URL: https://news.ycombinator.com/item?id=48348864 Points: 74 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-05-31T19:27:44+00:00"
-      },
-      {
-        "title": "Steam Deck sells out in North America within 24 hours of price hike",
-        "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
-        "description": "Article URL: https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/ Comments URL: https://news.ycombinator.com/item?id=48348704 Points: 20 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-05-31T19:11:34+00:00"
       },
       {
         "title": "Apple’ın Akıllı Gözlüğü için Tarih Belli Oldu",
@@ -33,14 +33,14 @@
       {
         "title": "Codex just found a \"workaround\" of not having sudo on my PC",
         "link": "https://twitter.com/i/status/2060746160558543217",
-        "description": "Article URL: https://twitter.com/i/status/2060746160558543217 Comments URL: https://news.ycombinator.com/item?id=48348578 Points: 89 # Comments: 30",
+        "description": "Article URL: https://twitter.com/i/status/2060746160558543217 Comments URL: https://news.ycombinator.com/item?id=48348578 Points: 193 # Comments: 78",
         "source": "HackerNews",
         "published": "2026-05-31T18:57:48+00:00"
       },
       {
         "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
         "link": "https://github.com/viggy28/streambed",
-        "description": "Article URL: https://github.com/viggy28/streambed Comments URL: https://news.ycombinator.com/item?id=48348429 Points: 12 # Comments: 0",
+        "description": "Article URL: https://github.com/viggy28/streambed Comments URL: https://news.ycombinator.com/item?id=48348429 Points: 31 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-05-31T18:43:05+00:00"
       },
@@ -66,18 +66,25 @@
         "published": "2026-05-31T18:00:00+00:00"
       },
       {
-        "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
+        "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
         "link": "https://lwn.net/Articles/104185/",
-        "description": "Article URL: https://lwn.net/Articles/104185/ Comments URL: https://news.ycombinator.com/item?id=48347961 Points: 26 # Comments: 18",
+        "description": "Article URL: https://lwn.net/Articles/104185/ Comments URL: https://news.ycombinator.com/item?id=48347961 Points: 43 # Comments: 32",
         "source": "HackerNews",
         "published": "2026-05-31T17:58:15+00:00"
       },
       {
         "title": "Deflock hits 100k ALPRs Mapped in USA",
         "link": "https://deflock.org/",
-        "description": "Article URL: https://deflock.org/ Comments URL: https://news.ycombinator.com/item?id=48347370 Points: 82 # Comments: 24",
+        "description": "Article URL: https://deflock.org/ Comments URL: https://news.ycombinator.com/item?id=48347370 Points: 112 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-05-31T17:04:10+00:00"
+      },
+      {
+        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+        "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+        "description": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48347354 Points: 57 # Comments: 80",
+        "source": "HackerNews",
+        "published": "2026-05-31T17:02:23+00:00"
       },
       {
         "title": "Microsoft Office’e Rakip Euro-Office Geliyor",
@@ -89,7 +96,7 @@
       {
         "title": "The Speed of Prototyping in the Age of AI",
         "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-        "description": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 58 # Comments: 40",
+        "description": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 77 # Comments: 47",
         "source": "HackerNews",
         "published": "2026-05-31T16:37:34+00:00"
       },
@@ -101,7 +108,14 @@
         "published": "2026-05-31T16:30:17+00:00"
       },
       {
-        "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+        "title": "How to watch Nvidia’s Computex keynote",
+        "link": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
+        "description": "NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's presentation, but the big one...",
+        "source": "The Verge",
+        "published": "2026-05-31T16:20:35-04:00"
+      },
+      {
+        "title": "Creatine raises brain energy levels and slows cognitive decline: study",
         "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
         "description": "Article URL: https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/ Comments URL:...",
         "source": "HackerNews",
@@ -115,16 +129,16 @@
         "published": "2026-05-31T16:05:00+00:00"
       },
       {
-        "title": "Chibil: A C compiler targeting .NET IL",
-        "link": "https://github.com/MichalStrehovsky/chibil",
-        "description": "Article URL: https://github.com/MichalStrehovsky/chibil Comments URL: https://news.ycombinator.com/item?id=48346660 Points: 39 # Comments: 4",
+        "title": "Odysseus – self-hosted AI workspace",
+        "link": "https://github.com/pewdiepie-archdaemon/odysseus",
+        "description": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 70 # Comments: 43",
         "source": "HackerNews",
-        "published": "2026-05-31T15:46:32+00:00"
+        "published": "2026-05-31T15:50:34+00:00"
       },
       {
         "title": "Daily pill can double survival time for deadliest cancer, trial shows",
         "link": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
-        "description": "Article URL: https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial Comments URL: https://news.ycombinator.com/item?id=48346629 Points: 108 # Comments: 20",
+        "description": "Article URL: https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial Comments URL: https://news.ycombinator.com/item?id=48346629 Points: 120 # Comments: 31",
         "source": "HackerNews",
         "published": "2026-05-31T15:43:29+00:00"
       },
@@ -234,25 +248,11 @@
         "published": "2026-05-30T16:30:00+00:00"
       },
       {
-        "title": "Meta is reportedly developing an AI pendant",
-        "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-        "description": "Meta seems to be making big bets on AI-powered hardware.",
-        "source": "TechCrunch",
-        "published": "2026-05-30T15:59:58+00:00"
-      },
-      {
         "title": "Feeble Little Horse leans into digital weirdness on bitknot",
         "link": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
         "description": "From the opening moments of bitknot, it's obvious that Feeble Little Horse has found an entirely new gear. Where on Girl with Fish the blown-out textures were more '90s indie rock and shoegaze, on their latest LP, there's a more modern edge to the...",
         "source": "The Verge",
         "published": "2026-05-30T14:11:18-04:00"
-      },
-      {
-        "title": "The Mercedes CLA offers great EV specs for an average price",
-        "link": "https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs",
-        "description": "Despite headwinds from the current administration, automakers continue to release well-equipped EVs with bigger battery packs and increasingly faster charging speeds. For those who want to travel further between plugging in, the future is still...",
-        "source": "The Verge",
-        "published": "2026-05-30T09:45:17-04:00"
       },
       {
         "title": "007 First Light is already discounted for the PS5 and Steam",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Between celebration and confrontation: Paris after PSG victory",
+        "link": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly 800 people were arrested after clashes with police following the Champions League final.",
+        "source": "BBC News",
+        "published": "2026-05-31T20:38:19+00:00"
+      },
+      {
         "title": "Second batch of Mandelson files to be published on Monday",
         "link": "https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&at_campaign=rss",
         "description": "A government spokesperson said the documents \"will be among the largest publications ever laid in Parliament\".",
@@ -383,13 +390,6 @@
         "published": "2026-05-31T18:42:44+00:00"
       },
       {
-        "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-        "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-        "source": "BBC News",
-        "published": "2026-05-31T18:13:39+00:00"
-      },
-      {
         "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
         "link": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
         "description": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
@@ -404,11 +404,32 @@
         "published": "2026-05-31T17:21:28+00:00"
       },
       {
+        "title": "The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town",
+        "link": "https://www.npr.org/2026/05/31/nx-s1-5820634/the-terrifying-day-the-u-s-iran-war-reached-a-sleepy-sri-lankan-town",
+        "description": "A deadly strike during the first days of the Iran war hit far away in the Indian Ocean, jolting a quiet seaside town and showing how far the conflict's reach extends.",
+        "source": "NPR",
+        "published": "2026-05-31T17:11:15-04:00"
+      },
+      {
+        "title": "Trump floats MAGA rally instead of concert after musicians drop out of Freedom 250",
+        "link": "https://www.npr.org/2026/05/31/nx-s1-5841889/trump-america-250-state-fair-artists-rally",
+        "description": "Several artists, including country singer Martina McBride, have withdrawn from the Great American State Fair in Washington, D.C.",
+        "source": "NPR",
+        "published": "2026-05-31T17:04:49-04:00"
+      },
+      {
         "title": "Woman dies trying to rescue dog from sea",
         "link": "https://www.bbc.com/news/articles/c4g8l5l59eeo?at_medium=RSS&at_campaign=rss",
         "description": "The woman, in her 60s, died in hospital after getting into difficulty in the water, police say.",
         "source": "BBC News",
         "published": "2026-05-31T16:53:34+00:00"
+      },
+      {
+        "title": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
+        "link": "https://www.npr.org/2026/05/31/nx-s1-5841913/united-airlines-flight-diversion-bluetooth",
+        "description": "The flight to Palma de Mallorca diverted back to Newark late on Saturday. Air traffic audio and social media posts indicate an onboard Bluetooth device raised security concerns.",
+        "source": "NPR",
+        "published": "2026-05-31T16:29:34-04:00"
       },
       {
         "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
@@ -495,27 +516,6 @@
         "published": "2026-05-31T05:00:00-04:00"
       },
       {
-        "title": "These AI models are free, private, and will never say 'no'",
-        "link": "https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks",
-        "description": "Open-weight AI models with advanced capabilities and no safeguards are becoming much more accessible. While they can be useful, AI safety experts have concerns.",
-        "source": "NPR",
-        "published": "2026-05-31T05:00:00-04:00"
-      },
-      {
-        "title": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
-        "link": "https://www.npr.org/2026/05/31/g-s1-125047/wembanyama-san-antonio-spurs-win-west-oklahoma-thunder-nba",
-        "description": "The San Antonio Spurs celebrated after beating the odds and defeating the defending champions Oklahoma City Thunder, to advance to the NBA Finals",
-        "source": "NPR",
-        "published": "2026-05-31T04:24:50-04:00"
-      },
-      {
-        "title": "Immigrant detainees sue over 'horrific' conditions at Texas ICE facility",
-        "link": "https://www.npr.org/2026/05/30/nx-s1-5841359/immigrant-detainees-sue-texas-camp-east-montana",
-        "description": "Immigrant detainees accuse the federal government of 'inhumane' abuse and treatment at Camp East Montana in El Paso, Texas.",
-        "source": "NPR",
-        "published": "2026-05-30T20:55:06-04:00"
-      },
-      {
         "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
         "link": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
         "description": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based magic and...",
@@ -567,11 +567,67 @@
     ],
     "turkiye": [
       {
-        "title": "Kabine yarın toplanıyor. Gündemde hangi konular var?",
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-haziran-2026-1726622",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-06-01T00:30:00+03:00"
+      },
+      {
+        "title": "Eski CHP'li vekilden Kılıçdaroğlu'na 'FETÖ' tepkisi: Uyardım, bozuldu",
+        "link": "https://www.sozcu.com.tr/ihsan-ozkes-kemal-kilicdaroglu-na-feto-tepkisi-p324037",
+        "description": "Eski CHP'li vekilden Kılıçdaroğlu'na 'FETÖ' tepkisi: Uyardım, bozuldu",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:27:02+03:00"
+      },
+      {
+        "title": "Ersun Yanal kararını 'Karşı durmak imkansız' diyerek duyurdu",
+        "link": "https://www.sozcu.com.tr/ersun-yanal-kararini-karsi-durmak-imkansiz-diyerek-duyurdu-p324055",
+        "description": "Ersun Yanal kararını 'Karşı durmak imkansız' diyerek duyurdu",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:23:59+03:00"
+      },
+      {
+        "title": "Dostluğun fotoğrafını çekti, düşmanlığın kurbanı oldu!",
+        "link": "https://www.sozcu.com.tr/dostlugun-fotografini-cekti-dusmanligin-kurbani-oldu-p324050",
+        "description": "Dostluğun fotoğrafını çekti, düşmanlığın kurbanı oldu!",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:23:19+03:00"
+      },
+      {
+        "title": "500 bin metreküp tortuyla yeni bir ada inşa etmelerinin bir sebebi var",
+        "link": "https://www.sozcu.com.tr/500-bin-metrekup-tortuyla-yeni-bir-ada-insa-etmelerinin-bir-sebebi-var-p324056",
+        "description": "500 bin metreküp tortuyla yeni bir ada inşa etmelerinin bir sebebi var",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:22:12+03:00"
+      },
+      {
+        "title": "CHP Genel Merkezi'nde yeni işten çıkarmalar: Bildirimleri SMS'le aldılar",
+        "link": "https://www.sozcu.com.tr/chp-genel-merkez-isten-cikarmalar-suruyor-p324057",
+        "description": "CHP Genel Merkezi'nde yeni işten çıkarmalar: Bildirimleri SMS'le aldılar",
+        "source": "Sözcü",
+        "published": "2026-06-01T00:22:10+03:00"
+      },
+      {
+        "title": "Kabine toplanıyor. Gündemde hangi konular var?",
         "link": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1726619",
         "description": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
         "source": "NTV",
-        "published": "2026-05-31T23:02:14+03:00"
+        "published": "2026-06-01T00:05:11+03:00"
+      },
+      {
+        "title": "CHP'nin İBB Meclis üyelerinden ortak 'mutlak butlan' bildirisi: Yerimiz bellidir",
+        "link": "https://www.sozcu.com.tr/chp-nin-ibb-meclis-uyelerinden-ortak-mutlak-butlan-bildirisi-yerimiz-bellidir-p324051",
+        "description": "CHP'nin İBB Meclis üyelerinden ortak 'mutlak butlan' bildirisi: Yerimiz bellidir",
+        "source": "Sözcü",
+        "published": "2026-05-31T23:52:19+03:00"
+      },
+      {
+        "title": "Pancar suyu ve pekmezi yollara dökmeye başladılar",
+        "link": "https://www.sozcu.com.tr/pancar-suyu-ve-pekmezi-yollara-dokmeye-basladilar-p324046",
+        "description": "Pancar suyu ve pekmezi yollara dökmeye başladılar",
+        "source": "Sözcü",
+        "published": "2026-05-31T23:35:31+03:00"
       },
       {
         "title": "Liverpool'un yıldız stoperi serbest kaldı",
@@ -595,60 +651,11 @@
         "published": "2026-05-31T22:50:36+03:00"
       },
       {
-        "title": "Ferhat Göçer'den Kanye West konserine olay yorum",
-        "link": "https://www.sozcu.com.tr/ferhat-gocer-den-kanye-west-yorum-p324014",
-        "description": "Ferhat Göçer'den Kanye West konserine olay yorum",
-        "source": "Sözcü",
-        "published": "2026-05-31T22:29:49+03:00"
-      },
-      {
-        "title": "Hocası 'Kulüp değiştirebilir' demişti: Osimhen'den ilk açıklama",
-        "link": "https://www.sozcu.com.tr/hocasi-kulup-degistirebilir-demisti-osimhen-den-ilk-aciklama-p324024",
-        "description": "Hocası 'Kulüp değiştirebilir' demişti: Osimhen'den ilk açıklama",
-        "source": "Sözcü",
-        "published": "2026-05-31T22:21:52+03:00"
-      },
-      {
-        "title": "İran Cumhurbaşkanı Pezeşkiyan'ın istifa ettiği iddialarına yalanlama",
-        "link": "https://www.sozcu.com.tr/mesud-pezeskiyan-istifa-mi-etti-p324017",
-        "description": "İran Cumhurbaşkanı Pezeşkiyan'ın istifa ettiği iddialarına yalanlama",
-        "source": "Sözcü",
-        "published": "2026-05-31T22:17:08+03:00"
-      },
-      {
-        "title": "Çorak araziye bırakılan 12 bin ton portakal kabuğu imkansızı başardı",
-        "link": "https://www.sozcu.com.tr/corak-araziye-birakilan-12-bin-ton-portakal-kabugu-imkansizi-basardi-p324023",
-        "description": "Çorak araziye bırakılan 12 bin ton portakal kabuğu imkansızı başardı",
-        "source": "Sözcü",
-        "published": "2026-05-31T22:05:45+03:00"
-      },
-      {
         "title": "Bebek sahilinde tur teknesinde yangın",
         "link": "https://www.ntv.com.tr/turkiye/video-bebek-sahilinde-tur-teknesinde-yangin-1726617",
         "description": "Beşiktaş, Bebek sahili açıklarında seyir halinde bulunan tur teknesinde çıkan yangın, Kıyı Emniyeti ve itfaiye ekiplerinin müdahalesiyle söndürüldü. Turunu tamamladıktan sonra yolcusuz şekilde limana gittiği öğrenilen teknedeki yangının ilk...",
         "source": "NTV",
         "published": "2026-05-31T21:57:26+03:00"
-      },
-      {
-        "title": "Zeki Çelik'ten Galatasaray kararı",
-        "link": "https://www.sozcu.com.tr/zeki-celik-ten-galatasaray-karari-p324012",
-        "description": "Zeki Çelik'ten Galatasaray kararı",
-        "source": "Sözcü",
-        "published": "2026-05-31T21:25:10+03:00"
-      },
-      {
-        "title": "Aziz Yıldırım'dan Dzeko, Kuyt ve Volkan Demirel sözleri",
-        "link": "https://www.sozcu.com.tr/aziz-yildirim-dan-dzeko-kuyt-ve-volkan-demirel-sozleri-p324018",
-        "description": "Aziz Yıldırım'dan Dzeko, Kuyt ve Volkan Demirel sözleri",
-        "source": "Sözcü",
-        "published": "2026-05-31T21:21:19+03:00"
-      },
-      {
-        "title": "İnşaat sektörünün yeni gözdesi yumurta kabuğu olabilir",
-        "link": "https://www.sozcu.com.tr/insaat-sektorunun-yeni-gozdesi-yumurta-kabugu-olabilir-p324016",
-        "description": "İnşaat sektörünün yeni gözdesi yumurta kabuğu olabilir",
-        "source": "Sözcü",
-        "published": "2026-05-31T21:08:28+03:00"
       },
       {
         "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 31 Mayıs 2026",
@@ -712,13 +719,6 @@
         "description": "Cumartesi akşamı İstanbul Atatürk Olimpiyat Stadı'nda 118 bin kişiye konser veren ABD'li rap yıldızı Kanye West'in İtalya'da tartışmalara konu olan konser planı valilik kararıyla iptal edildi",
         "source": "BBC Turkish",
         "published": "2026-05-31T13:46:54+00:00"
-      },
-      {
-        "title": "Eşine \"tosbağa\" demek ağır kusur sayıldı",
-        "link": "https://www.ntv.com.tr/turkiye/esine-tosbaga-demek-agir-kusur-sayildi-1726564",
-        "description": "Yargıtay, bir boşanma davasında eşine \"tosbağa ve kedi\" ifadelerini kullanan erkeği kusurlu bularak tazminat ödemesine kadar verdi.",
-        "source": "NTV",
-        "published": "2026-05-31T13:24:12+03:00"
       },
       {
         "title": "Şampiyonlar Ligi kutlamaları sonrası Fransa'da yüzlerce kişi gözaltına alındı",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+80°F",
-    "wind": "→4mph",
-    "humidity": "34%"
+    "temp": "+71°F",
+    "wind": "→21mph",
+    "humidity": "16%"
   }
 }
