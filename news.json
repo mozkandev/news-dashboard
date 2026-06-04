@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-06-04T22:22:13.257985+00:00",
+  "updated_at": "2026-06-04T23:45:30.856858+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+        "link": "https://arxiv.org/abs/2606.04032",
+        "description": "Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 23 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-06-04T23:11:56+00:00"
+      },
+      {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+        "source": "TechCrunch",
+        "published": "2026-06-04T22:43:26+00:00"
+      },
+      {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "source": "TechCrunch",
+        "published": "2026-06-04T22:29:50+00:00"
+      },
       {
         "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
         "link": "https://github.com/schildep/verified-polygon-intersection",
@@ -15,6 +36,20 @@
         "description": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
         "source": "TechCrunch",
         "published": "2026-06-04T21:44:09+00:00"
+      },
+      {
+        "title": "IPv6 zones in URLs are a mistake",
+        "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+        "description": "Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 48 # Comments: 32",
+        "source": "HackerNews",
+        "published": "2026-06-04T21:42:34+00:00"
+      },
+      {
+        "title": "Queen bees emerge from special wax chambers",
+        "link": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+        "description": "Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06 Comments URL: https://news.ycombinator.com/item?id=48404905 Points: 19 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-04T21:31:31+00:00"
       },
       {
         "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
@@ -52,13 +87,6 @@
         "published": "2026-06-04T20:55:38+00:00"
       },
       {
-        "title": "NSA using Anthropic's Mythos for cyber attacks",
-        "link": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
-        "description": "Article URL: https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815 Comments URL: https://news.ycombinator.com/item?id=48404233 Points: 43 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-06-04T20:33:02+00:00"
-      },
-      {
         "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
         "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
         "description": "Built a browser-based FFmpeg editor that runs entirely client-side via WebAssembly. Your files never leave your device -- all processing happens in a Web Worker. Works offline as an installable PWA after first load. Comments URL:...",
@@ -75,14 +103,14 @@
       {
         "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
         "link": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
-        "description": "Article URL: https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/ Comments URL: https://news.ycombinator.com/item?id=48404063 Points: 54 # Comments: 29",
+        "description": "Article URL: https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/ Comments URL: https://news.ycombinator.com/item?id=48404063 Points: 99 # Comments: 74",
         "source": "HackerNews",
         "published": "2026-06-04T20:19:07+00:00"
       },
       {
         "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
         "link": "https://github.com/anthropics/defending-code-reference-harness",
-        "description": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 142 # Comments: 51",
+        "description": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 201 # Comments: 72",
         "source": "HackerNews",
         "published": "2026-06-04T20:11:20+00:00"
       },
@@ -96,21 +124,14 @@
       {
         "title": "Castor: CERN Advanced STORage Manager",
         "link": "https://castor.web.cern.ch/content/home.html",
-        "description": "Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 34 # Comments: 14",
+        "description": "Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 40 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-06-04T19:52:02+00:00"
       },
       {
-        "title": "Ask HN: High school student – is learning programming still worthwhile?",
-        "link": "https://news.ycombinator.com/item?id=48403614",
-        "description": "As a high school student, I’m trying to figure out what major I’m interested in. About half a year ago, I thought EECS was a great major for some STEM students like me, because I see many of the world's most influential entrepreneurs, such as Elon...",
-        "source": "HackerNews",
-        "published": "2026-06-04T19:39:19+00:00"
-      },
-      {
         "title": "Meta's ships facial recognition on smart glasses",
         "link": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-        "description": "Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 155 # Comments: 143",
+        "description": "Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 189 # Comments: 175",
         "source": "HackerNews",
         "published": "2026-06-04T19:36:48+00:00"
       },
@@ -150,6 +171,13 @@
         "published": "2026-06-04T18:54:08+00:00"
       },
       {
+        "title": "Valve says it’s ready to launch the Steam Machine this summer",
+        "link": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+        "description": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited...",
+        "source": "The Verge",
+        "published": "2026-06-04T18:48:53-04:00"
+      },
+      {
         "title": "[4-11 Haziran] Toplam Değeri 1202 TL Olan İki Oyun Epic Games'te Ücretsiz Oldu",
         "link": "\n                    https://www.webtekno.com/4-11-haziran-epic-games-ucretsiz-oyun-h217995.html\n                    ",
         "description": "Epic Games'in bu hafta ücretsiz vereceği yeni oyunlar belli oldu.",
@@ -176,13 +204,6 @@
         "description": "WhatsApp, ana ekrana “Kişiler” menüsü ekleyecek",
         "source": "Webtekno",
         "published": "2026-06-04T17:43:21+03:00"
-      },
-      {
-        "title": "The desperation of NYTimes",
-        "link": "https://rozumem.xyz/posts/16",
-        "description": "Article URL: https://rozumem.xyz/posts/16 Comments URL: https://news.ycombinator.com/item?id=48401965 Points: 285 # Comments: 262",
-        "source": "HackerNews",
-        "published": "2026-06-04T17:39:13+00:00"
       },
       {
         "title": "ChatGPT Rekor Kırdı: 1 Milyar Kullanıcı",
@@ -241,25 +262,11 @@
         "published": "2026-06-04T16:32:48+00:00"
       },
       {
-        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-        "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-        "description": "Apple's WWDC nears: Here's what you can look forward to.",
-        "source": "TechCrunch",
-        "published": "2026-06-04T16:31:12+00:00"
-      },
-      {
         "title": "İddia: Apple, Yeni Vision Pro Gözlükleri İptal Etti!",
         "link": "\n                    https://www.webtekno.com/apple-yeni-vision-pro-gozlukleri-iptal-etti-iddia-h217980.html\n                    ",
         "description": "Güvenilir Apple Analisti Ming-Chi Kuo’ya göre Apple, yeni Vision Pro gözlükleri iptal etti.",
         "source": "Webtekno",
         "published": "2026-06-04T16:19:44+03:00"
-      },
-      {
-        "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
-        "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
-        "description": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
-        "source": "TechCrunch",
-        "published": "2026-06-04T16:16:37+00:00"
       },
       {
         "title": "Cyberdecks used to look like little laptops, but now they’re getting more personal",
@@ -339,13 +346,6 @@
         "published": "2026-06-04T09:35:09-04:00"
       },
       {
-        "title": "We’re giving away a Prime Day grab bag loaded with over $800 of free tech",
-        "link": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
-        "description": "We’re always testing out new products here The Verge, which presents a bit of a problem for our inventory closet in New York City. It’s literally overflowing with gadgets, new and old, so we’re restoring order by giving some of it away to one lucky...",
-        "source": "The Verge",
-        "published": "2026-06-04T09:14:40-04:00"
-      },
-      {
         "title": "Cash App made a magic wand for contactless payments",
         "link": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
         "description": "The convenience of contactless payments can already feel magical, but Cash App is really leaning into that with its latest accessory. The mobile payment service is launching the Cash App Wand: an NFC-enabled, iridescent, star-topped wand that allows...",
@@ -355,11 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+        "source": "BBC News",
+        "published": "2026-06-04T23:32:35+00:00"
+      },
+      {
+        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
+        "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Sir Keir Starmer met the family of Henry Nowak at 10 Downing Street.",
+        "source": "BBC News",
+        "published": "2026-06-04T23:27:31+00:00"
+      },
+      {
         "title": "Burnham says he would seek to enter any Labour leadership contest",
         "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
         "description": "The Greater Manchester Mayor would need to win the by-election in Makerfield to be a possible candidate.",
         "source": "BBC News",
-        "published": "2026-06-04T22:18:39+00:00"
+        "published": "2026-06-04T23:26:04+00:00"
+      },
+      {
+        "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
+        "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
+        "description": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
+        "source": "BBC News",
+        "published": "2026-06-04T23:05:18+00:00"
       },
       {
         "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
@@ -376,13 +397,6 @@
         "published": "2026-06-04T21:48:51+00:00"
       },
       {
-        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
-        "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Sir Keir Starmer met the family of Henry Nowak at 10 Downing Street.",
-        "source": "BBC News",
-        "published": "2026-06-04T19:46:09+00:00"
-      },
-      {
         "title": "Kate hugs mum ringing 'end of cancer treatment' bell",
         "link": "https://www.bbc.com/news/articles/cq5p52l2xjjo?at_medium=RSS&at_campaign=rss",
         "description": "The Princess of Wales encourages an emotional cancer patient at The Christie by saying \"you can do it!\"",
@@ -397,11 +411,11 @@
         "published": "2026-06-04T19:24:11+00:00"
       },
       {
-        "title": "Liverpool appoint Andoni Iraola as head coach",
-        "link": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
-        "description": "Liverpool appoint Andoni Iraola as their new head coach on a two-year contract following the sacking of Arne Slot.",
-        "source": "BBC News",
-        "published": "2026-06-04T18:28:58+00:00"
+        "title": "Republicans' sweeping election overhaul fails in the Senate",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5751145/save-act-senate-vote-trump",
+        "description": "The SAVE America Act, a far-reaching Republican election overhaul that President Trump said should be his congressional allies' top priority, has failed in the Senate.",
+        "source": "NPR",
+        "published": "2026-06-04T19:19:56-04:00"
       },
       {
         "title": "Man shot with crossbow on university campus",
@@ -460,13 +474,6 @@
         "published": "2026-06-04T15:16:22-04:00"
       },
       {
-        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-        "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-        "description": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-        "source": "BBC News",
-        "published": "2026-06-04T14:46:36+00:00"
-      },
-      {
         "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
         "link": "https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons",
         "description": "State media photos on the place showed it is likely a plant to produce weapons-grade uranium.",
@@ -523,13 +530,6 @@
         "published": "2026-06-04T08:03:42-04:00"
       },
       {
-        "title": "In photos: a preview of the Obama Presidential Center",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/06/04/g-s1-125899/in-photos-a-preview-of-the-obama-presidential-center",
-        "description": "The Obama Presidential Center opens later this month in Chicago. We take a look inside.",
-        "source": "NPR",
-        "published": "2026-06-04T05:00:00-04:00"
-      },
-      {
         "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
         "link": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
         "description": "Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics Rebel attacks around a town that is one of the centres of the Ebola outbreak in the Democratic Republic of the Congo have left more...",
@@ -567,6 +567,20 @@
     ],
     "turkiye": [
       {
+        "title": "İki zamanda var olmak",
+        "link": "https://www.sozcu.com.tr/iki-zamanda-var-olmak-p325336",
+        "description": "İki zamanda var olmak",
+        "source": "Sözcü",
+        "published": "2026-06-05T02:30:00+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-haziran-2026-1727235",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-06-05T02:30:00+03:00"
+      },
+      {
         "title": "CHP Genel Merkezi'nde bozkurtlu fotoğraf; Kılıçdaroğlu'nun danışmanı böyle döndü",
         "link": "https://www.sozcu.com.tr/ramazan-kubat-kilicdaroglu-nun-danismanlik-gorevine-dondu-p325335",
         "description": "CHP Genel Merkezi'nde bozkurtlu fotoğraf; Kılıçdaroğlu'nun danışmanı böyle döndü",
@@ -579,13 +593,6 @@
         "description": "8 şeritli köprü için çalışmalar başladı: Dağlık bölgeyi dev havalimanı ve limanlara bağlayacak",
         "source": "Sözcü",
         "published": "2026-06-05T01:02:55+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-haziran-2026-1727235",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-06-05T01:00:00+03:00"
       },
       {
         "title": "Trump'tan dikkat çeken Hamaney açıklaması",
@@ -616,13 +623,6 @@
         "published": "2026-06-05T00:30:45+03:00"
       },
       {
-        "title": "Parti kulislerinden sızdı... Kılıçdaroğlu'nun tercihi Faik Öztrak mı?",
-        "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-tercihi-faik-oztrak-mi-p325322",
-        "description": "Parti kulislerinden sızdı... Kılıçdaroğlu'nun tercihi Faik Öztrak mı?",
-        "source": "Sözcü",
-        "published": "2026-06-05T00:21:13+03:00"
-      },
-      {
         "title": "Mohsen Namjoo’nun Ankara'daki konseri 'haklı hassasiyetler' gerekçesiyle iptal edildi",
         "link": "https://www.sozcu.com.tr/mohsen-namjoo-nun-konseri-iptal-p325323",
         "description": "Mohsen Namjoo’nun Ankara'daki konseri 'haklı hassasiyetler' gerekçesiyle iptal edildi",
@@ -642,6 +642,20 @@
         "description": "Zengin bakır yataklarını okyanusa bağlayacaklar: 3 ülkeyi aşan dev koridor şekilleniyor",
         "source": "Sözcü",
         "published": "2026-06-04T23:57:07+03:00"
+      },
+      {
+        "title": "İngiltere'de Henry Nowak cinayeti: Başbakan Starmer, Musk'ı 'bölünmeyi körüklemekle' suçladı",
+        "link": "https://www.bbc.com/turkce/articles/c3d2demd1e3o?at_medium=RSS&at_campaign=rss",
+        "description": "İngiltere'de üniversite öğrencisi Henry Nowak'ın, 3 Aralık'ta Southampton'daki evine dönerken yolda bıçaklanarak öldürülmesi ardından yayımlanan görüntüler ülkede siyasi tepkilere yol açtı. X'in sahibi teknoloji milyarderi Elon Musk da tartışmalara...",
+        "source": "BBC Turkish",
+        "published": "2026-06-04T22:30:10+00:00"
+      },
+      {
+        "title": "Tutuklu gazeteci İsmail Arı'nın ilk duruşması bugün",
+        "link": "https://www.bbc.com/turkce/articles/c9q3q4ejvgjo?at_medium=RSS&at_campaign=rss",
+        "description": "\"Halkı yanıltıcı bilgiyi alenen yayma\" ve \"gizliliğin ihlali\" suçlamalarıyla hakkında 2 yıl 3 aydan 8 yıl 3 aya kadar hapis cezası istenen BirGün gazetesi muhabiri İsmail Arı, bugün hakim karşısına çıkacak.",
+        "source": "BBC Turkish",
+        "published": "2026-06-04T22:27:01+00:00"
       },
       {
         "title": "Mohsen Namjoo'nun Ankara'daki konseri iptal edildi",
@@ -707,13 +721,6 @@
         "published": "2026-06-04T18:47:56+03:00"
       },
       {
-        "title": "İngiltere'de Henry Nowak cinayeti tartışma yarattı: Başbakan Starmer, Musk'ı 'bölünmeyi körüklemekle' suçladı",
-        "link": "https://www.bbc.com/turkce/articles/c3d2demd1e3o?at_medium=RSS&at_campaign=rss",
-        "description": "İngiltere'de üniversite öğrencisi Henry Nowak'ın, 3 Aralık'ta Southampton'daki evine dönerken yolda bıçaklanarak öldürülmesi ardından yayımlanan görüntüler ülkede siyasi tepkilere yol açtı. X'in sahibi teknoloji milyarderi Elon Musk da tartışmalara...",
-        "source": "BBC Turkish",
-        "published": "2026-06-04T18:26:23+00:00"
-      },
-      {
         "title": "Özgür Özel dönemindeki ihraçlar iptal edildi. Kimlere CHP'ye dönüş yolu açılıyor?",
         "link": "https://www.ntv.com.tr/turkiye/ozgur-ozel-donemindeki-ihraclar-iptal-edildi-kimlere-chpye-donus-yolu-aciliyor-1727195",
         "description": "CHP Yüksek Disiplin Kurulu (YDK), Özgür Özel dönemindeki ihraçların iptal edilmesine karar verdi. Berhan Şimşek, Barış Yarkadaş, Gürsel Tekin ve Lütfü Savaş dahil birçok kişi için dönüş yolu açıldı.",
@@ -768,13 +775,6 @@
         "description": "Kuzey Korelilerin çok azı Kim Jong Un'un annesini tanıyor çünkü kökeni rejimin meşruiyetini tehdit edebilir.",
         "source": "BBC Turkish",
         "published": "2026-06-04T09:28:32+00:00"
-      },
-      {
-        "title": "AYM süresiz nafaka düzenlemesini iptal etti",
-        "link": "https://www.bbc.com/turkce/articles/c70v2pp0lz4o?at_medium=RSS&at_campaign=rss",
-        "description": "Anayasa Mahkemesi (AYM), boşanan eşlere verilen yoksulluk nafakasının süresiz uygulanmasına ilişkin düzenlemeyi oy çokluğuyla iptal etti. Kararın gerekçesi daha sonra açıklanacak.",
-        "source": "BBC Turkish",
-        "published": "2026-06-04T09:01:36+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8616
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+86°F",
-    "wind": "↗12mph",
-    "humidity": "30%"
+    "condition": "Güneşli",
+    "temp": "+81°F",
+    "wind": "↓2mph",
+    "humidity": "45%"
   }
 }
