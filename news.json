@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-06-04T20:55:59.333814+00:00",
+  "updated_at": "2026-06-04T22:22:13.257985+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+        "link": "https://github.com/schildep/verified-polygon-intersection",
+        "description": "To my knowledge, this is the first formally verified implementation of an intersection algorithm for polygons. The experience of working with AI agents on this project changed a lot with recent model releases, as I describe in the readme. Opus 4.8...",
+        "source": "HackerNews",
+        "published": "2026-06-04T22:06:18+00:00"
+      },
+      {
+        "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+        "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+        "description": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+        "source": "TechCrunch",
+        "published": "2026-06-04T21:44:09+00:00"
+      },
+      {
+        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology,...",
+        "source": "TechCrunch",
+        "published": "2026-06-04T21:30:00+00:00"
+      },
+      {
+        "title": "Mac’inizdeki Yapay Zeka Modelini iPhone’ununuzdan Kontrol Edin",
+        "link": "https://shiftdelete.net/macinizdeki-yapay-zeka-modelini-iphoneununuzdan-kontrol-edin",
+        "description": "LM Studio, Mac'teki yerel yapay zeka modellerini iPhone üzerinden kullanmanızı sağlayan LM Link özelliğini duyurdu. Detaylar haberimizde.",
+        "source": "ShiftDelete",
+        "published": "2026-06-04T21:30:00+00:00"
+      },
+      {
+        "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+        "link": "https://www.mercek.dev/",
+        "description": "Hey HN I've been using ECS for a while now and found it annoying having to log into the console everytime I use Lens for Kubernetes but couldnt find an equivalent for ECS so i built one! The project is open source as well...",
+        "source": "HackerNews",
+        "published": "2026-06-04T21:15:16+00:00"
+      },
+      {
+        "title": "Yeni Nesil Siri Gemini ve Nvidia Ortaklığıyla Geliyor",
+        "link": "https://shiftdelete.net/yeni-nesil-siri-gemini-ve-nvidia-ortakligiyla-geliyor",
+        "description": "Apple, yeni nesil Siri için Google ve Nvidia ile iş birliği yapıyor. Gemini modeli ve Blackwell çiplerle güçlenecek Siri eylülde geliyor.",
+        "source": "ShiftDelete",
+        "published": "2026-06-04T21:00:00+00:00"
+      },
       {
         "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
         "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
         "description": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
         "source": "TechCrunch",
         "published": "2026-06-04T20:55:38+00:00"
+      },
+      {
+        "title": "NSA using Anthropic's Mythos for cyber attacks",
+        "link": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+        "description": "Article URL: https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815 Comments URL: https://news.ycombinator.com/item?id=48404233 Points: 43 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-06-04T20:33:02+00:00"
+      },
+      {
+        "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+        "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+        "description": "Built a browser-based FFmpeg editor that runs entirely client-side via WebAssembly. Your files never leave your device -- all processing happens in a Web Worker. Works offline as an installable PWA after first load. Comments URL:...",
+        "source": "HackerNews",
+        "published": "2026-06-04T20:32:18+00:00"
       },
       {
         "title": "Meta’nın Yeni Yapay Zeka Aracı İçerik Üreticileri için Risk mi Taşıyor?",
@@ -17,9 +73,16 @@
         "published": "2026-06-04T20:30:00+00:00"
       },
       {
+        "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
+        "link": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
+        "description": "Article URL: https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/ Comments URL: https://news.ycombinator.com/item?id=48404063 Points: 54 # Comments: 29",
+        "source": "HackerNews",
+        "published": "2026-06-04T20:19:07+00:00"
+      },
+      {
         "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
         "link": "https://github.com/anthropics/defending-code-reference-harness",
-        "description": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 38 # Comments: 13",
+        "description": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 142 # Comments: 51",
         "source": "HackerNews",
         "published": "2026-06-04T20:11:20+00:00"
       },
@@ -33,21 +96,28 @@
       {
         "title": "Castor: CERN Advanced STORage Manager",
         "link": "https://castor.web.cern.ch/content/home.html",
-        "description": "Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 18 # Comments: 1",
+        "description": "Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 34 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-06-04T19:52:02+00:00"
       },
       {
+        "title": "Ask HN: High school student – is learning programming still worthwhile?",
+        "link": "https://news.ycombinator.com/item?id=48403614",
+        "description": "As a high school student, I’m trying to figure out what major I’m interested in. About half a year ago, I thought EECS was a great major for some STEM students like me, because I see many of the world's most influential entrepreneurs, such as Elon...",
+        "source": "HackerNews",
+        "published": "2026-06-04T19:39:19+00:00"
+      },
+      {
         "title": "Meta's ships facial recognition on smart glasses",
         "link": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-        "description": "Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 103 # Comments: 68",
+        "description": "Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 155 # Comments: 143",
         "source": "HackerNews",
         "published": "2026-06-04T19:36:48+00:00"
       },
       {
         "title": "Meta steals a tactic from Tesla and builds data centers in tents",
         "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-        "description": "Meta may have one found one way to slash its massive data center bill: tents.",
+        "description": "Meta may have found one way to slash its massive data center bill: tents.",
         "source": "TechCrunch",
         "published": "2026-06-04T19:33:09+00:00"
       },
@@ -110,7 +180,7 @@
       {
         "title": "The desperation of NYTimes",
         "link": "https://rozumem.xyz/posts/16",
-        "description": "Article URL: https://rozumem.xyz/posts/16 Comments URL: https://news.ycombinator.com/item?id=48401965 Points: 249 # Comments: 238",
+        "description": "Article URL: https://rozumem.xyz/posts/16 Comments URL: https://news.ycombinator.com/item?id=48401965 Points: 285 # Comments: 262",
         "source": "HackerNews",
         "published": "2026-06-04T17:39:13+00:00"
       },
@@ -178,20 +248,6 @@
         "published": "2026-06-04T16:31:12+00:00"
       },
       {
-        "title": "Marvel’s Wolverine Açık Dünya Olmayacak",
-        "link": "https://shiftdelete.net/marvels-wolverine-acik-dunya-olmayacak",
-        "description": "Insomniac Games, PlayStation 5'e özel Marvel’s Wolverine oyununun açık dünya türünde olmayacağını ve daha odaklı bir macera sunacağını açıkladı.",
-        "source": "ShiftDelete",
-        "published": "2026-06-04T16:30:00+00:00"
-      },
-      {
-        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-        "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-        "description": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 137 # Comments: 156",
-        "source": "HackerNews",
-        "published": "2026-06-04T16:20:17+00:00"
-      },
-      {
         "title": "İddia: Apple, Yeni Vision Pro Gözlükleri İptal Etti!",
         "link": "\n                    https://www.webtekno.com/apple-yeni-vision-pro-gozlukleri-iptal-etti-iddia-h217980.html\n                    ",
         "description": "Güvenilir Apple Analisti Ming-Chi Kuo’ya göre Apple, yeni Vision Pro gözlükleri iptal etti.",
@@ -213,27 +269,6 @@
         "published": "2026-06-04T16:07:31-04:00"
       },
       {
-        "title": "Retro-Tech Parenting",
-        "link": "https://havenweb.org/2026/05/28/retro-tech.html",
-        "description": "Article URL: https://havenweb.org/2026/05/28/retro-tech.html Comments URL: https://news.ycombinator.com/item?id=48400588 Points: 178 # Comments: 114",
-        "source": "HackerNews",
-        "published": "2026-06-04T16:02:35+00:00"
-      },
-      {
-        "title": "Konami’nin Efsanevi Futbol Ruhu Geri Dönüyor: eFootball Kick-Off İncelemesi",
-        "link": "https://shiftdelete.net/konaminin-efsanevi-futbol-ruhu-geri-donuyor-efootball-kick-off-incelemesi",
-        "description": "Konami, futbol oyunu dünyasında International Superstar Soccer (ISS), Winning Eleven ve Pro Evolution Soccer (PES) gibi efsanevi serilerle bıraktığı derin izleri, yeni nesil konsol dünyasına taşımaya devam ediyor. Şirket, Nintendo’nun yeni nesil...",
-        "source": "ShiftDelete",
-        "published": "2026-06-04T16:00:54+00:00"
-      },
-      {
-        "title": "Cash App launches a wand for tap-and-pay",
-        "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-        "description": "Cash App plans to launch more tap-to-pay tags.",
-        "source": "TechCrunch",
-        "published": "2026-06-04T16:00:00+00:00"
-      },
-      {
         "title": "SEAT Fiyat Listesi - Haziran 2026",
         "link": "\n                    https://www.webtekno.com/haziran-2026-seat-fiyat-listesi-h217944.html\n                    ",
         "description": "SEAT Ibiza, Arona, Leon ve Ateca modellerinin Haziran 2026 güncel fiyatları, donanım seçenekleri ve opsiyon fiyatları Webtekno’da!",
@@ -248,32 +283,11 @@
         "published": "2026-06-04T15:50:54+03:00"
       },
       {
-        "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
-        "link": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
-        "description": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.",
-        "source": "TechCrunch",
-        "published": "2026-06-04T15:48:41+00:00"
-      },
-      {
         "title": "Dünyanın İlk Linux Akıllı Gözlüğü Monako Glass Tanıtıldı",
         "link": "\n                    https://www.webtekno.com/monako-glass-linux-akilli-gozluk-h217968.html\n                    ",
         "description": "Çinli Monako Research isimli bir girişim, dünyanın ilk gözlük formunda Linux bilgisayarı Monako Glass'ı Tanıttı",
         "source": "Webtekno",
         "published": "2026-06-04T15:34:02+03:00"
-      },
-      {
-        "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-        "link": "https://github.com/huawei-csl/KVarN",
-        "description": "Article URL: https://github.com/huawei-csl/KVarN Comments URL: https://news.ycombinator.com/item?id=48399974 Points: 93 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-06-04T15:18:00+00:00"
-      },
-      {
-        "title": "AI, Ashby Engineering, and the future",
-        "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-        "description": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 19 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-06-04T14:48:44+00:00"
       },
       {
         "title": "Google is letting social media stars customize their search result page",
@@ -290,25 +304,11 @@
         "published": "2026-06-04T14:38:26-04:00"
       },
       {
-        "title": "Wind and solar generated more power than gas globally in April 2026",
-        "link": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-        "description": "Article URL: https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/ Comments URL: https://news.ycombinator.com/item?id=48399332 Points: 332 # Comments: 292",
-        "source": "HackerNews",
-        "published": "2026-06-04T14:36:39+00:00"
-      },
-      {
         "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
         "link": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
         "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having...",
         "source": "The Verge",
         "published": "2026-06-04T13:01:15-04:00"
-      },
-      {
-        "title": "VoidZero Is Joining Cloudflare",
-        "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-        "description": "Article URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=48398055 Points: 496 # Comments: 232",
-        "source": "HackerNews",
-        "published": "2026-06-04T13:00:51+00:00"
       },
       {
         "title": "Windows is back on the Microsoft menu",
@@ -359,19 +359,26 @@
         "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
         "description": "The Greater Manchester Mayor would need to win the by-election in Makerfield to be a possible candidate.",
         "source": "BBC News",
-        "published": "2026-06-04T20:38:24+00:00"
+        "published": "2026-06-04T22:18:39+00:00"
       },
       {
-        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-        "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-        "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+        "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+        "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+        "description": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
         "source": "BBC News",
-        "published": "2026-06-04T20:37:46+00:00"
+        "published": "2026-06-04T21:53:25+00:00"
+      },
+      {
+        "title": "Conflict over identity politics could lead to civil war in long term, says Badenoch",
+        "link": "https://www.bbc.com/news/articles/ce9pll8943no?at_medium=RSS&at_campaign=rss",
+        "description": "In an interview for a BBC Radio 4 documentary, England's Identity Crisis, the Conservative leader warned of rising tensions as groups on the left and the right.",
+        "source": "BBC News",
+        "published": "2026-06-04T21:48:51+00:00"
       },
       {
         "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
         "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Sir Keir Starmer mets the family of Henry Nowak at 10 Downing Street.",
+        "description": "Prime Minister Sir Keir Starmer met the family of Henry Nowak at 10 Downing Street.",
         "source": "BBC News",
         "published": "2026-06-04T19:46:09+00:00"
       },
@@ -402,13 +409,6 @@
         "description": "A member of staff was attacked on the Guildford campus on Thursday morning, says the university.",
         "source": "BBC News",
         "published": "2026-06-04T18:21:02+00:00"
-      },
-      {
-        "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-        "link": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-        "description": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
-        "source": "BBC News",
-        "published": "2026-06-04T18:01:54+00:00"
       },
       {
         "title": "Royal Navy crew killed in helicopter crash named",
@@ -567,46 +567,81 @@
     ],
     "turkiye": [
       {
-        "title": "İlk bakışta denizanası sanıldı, gerçek çok farklı çıktı",
-        "link": "https://www.sozcu.com.tr/ilk-bakista-denizanasi-sanildi-gercek-cok-farkli-cikti-p325320",
-        "description": "İlk bakışta denizanası sanıldı, gerçek çok farklı çıktı",
+        "title": "CHP Genel Merkezi'nde bozkurtlu fotoğraf; Kılıçdaroğlu'nun danışmanı böyle döndü",
+        "link": "https://www.sozcu.com.tr/ramazan-kubat-kilicdaroglu-nun-danismanlik-gorevine-dondu-p325335",
+        "description": "CHP Genel Merkezi'nde bozkurtlu fotoğraf; Kılıçdaroğlu'nun danışmanı böyle döndü",
         "source": "Sözcü",
-        "published": "2026-06-04T23:40:41+03:00"
+        "published": "2026-06-05T01:12:57+03:00"
       },
       {
-        "title": "1,5 milyon takipçili fenomen köpeğin trajik sonu",
-        "link": "https://www.sozcu.com.tr/cin-de-kopek-calisip-restorana-satilmis-p325313",
-        "description": "1,5 milyon takipçili fenomen köpeğin trajik sonu",
+        "title": "8 şeritli köprü için çalışmalar başladı: Dağlık bölgeyi dev havalimanı ve limanlara bağlayacak",
+        "link": "https://www.sozcu.com.tr/8-seritli-kopru-icin-calismalar-basladi-daglik-bolgeyi-dev-havalimani-ve-limanlara-baglayacak-p325334",
+        "description": "8 şeritli köprü için çalışmalar başladı: Dağlık bölgeyi dev havalimanı ve limanlara bağlayacak",
         "source": "Sözcü",
-        "published": "2026-06-04T23:23:08+03:00"
+        "published": "2026-06-05T01:02:55+03:00"
       },
       {
-        "title": "21 aylık bebek balkondan düştü! Saniyeler içinde oldu kimse bir şey anlamadı",
-        "link": "https://www.sozcu.com.tr/21-aylik-bebek-balkondan-dustu-saniyeler-icinde-oldu-kimse-bir-sey-anlamadi-p325312",
-        "description": "21 aylık bebek balkondan düştü! Saniyeler içinde oldu kimse bir şey anlamadı",
-        "source": "Sözcü",
-        "published": "2026-06-04T23:23:03+03:00"
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-haziran-2026-1727235",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-06-05T01:00:00+03:00"
       },
       {
-        "title": "Zam bekleyen 5 bin çalışan CEO'dan gelen mesajla şaşkına döndü",
-        "link": "https://www.sozcu.com.tr/zam-bekleyen-5-bin-calisan-ceo-dan-gelen-mesajla-saskina-dondu-p325315",
-        "description": "Zam bekleyen 5 bin çalışan CEO'dan gelen mesajla şaşkına döndü",
+        "title": "Trump'tan dikkat çeken Hamaney açıklaması",
+        "link": "https://www.sozcu.com.tr/trump-tan-hamaney-aciklamasi-p325332",
+        "description": "Trump'tan dikkat çeken Hamaney açıklaması",
         "source": "Sözcü",
-        "published": "2026-06-04T23:16:08+03:00"
+        "published": "2026-06-05T00:55:30+03:00"
       },
       {
-        "title": "Real Madrid, ‘sadece seneye varım’ dedi, NBA Europe’a göz kırptı",
-        "link": "https://www.sozcu.com.tr/real-madrid-sadece-seneye-varim-dedi-nba-europe-a-goz-kirpti-p325314",
-        "description": "Real Madrid, ‘sadece seneye varım’ dedi, NBA Europe’a göz kırptı",
+        "title": "Feci kaza karı kocayı hayattan kopardı; 3 ölü, 2 yaralı",
+        "link": "https://www.sozcu.com.tr/sivas-ta-kaza-3-olu-2-yarali-p325331",
+        "description": "Feci kaza karı kocayı hayattan kopardı; 3 ölü, 2 yaralı",
         "source": "Sözcü",
-        "published": "2026-06-04T23:11:50+03:00"
+        "published": "2026-06-05T00:47:14+03:00"
       },
       {
-        "title": "4 bin kilometrelik enerji hattı kurulacak: Çölde üretilen elektriği başka ülkeye taşıyacaklar",
-        "link": "https://www.sozcu.com.tr/4-bin-kilometrelik-enerji-hatti-kurulacak-colde-uretilen-elektrigi-baska-ulkeye-tasiyacaklar-p325309",
-        "description": "4 bin kilometrelik enerji hattı kurulacak: Çölde üretilen elektriği başka ülkeye taşıyacaklar",
+        "title": "Tek hareketi ortalığı karıştırdı: ‘Bu kadarı da olmaz’ dedirten görüntü",
+        "link": "https://www.sozcu.com.tr/tek-hareketi-ortaligi-karistirdi-bu-kadari-da-olmaz-dedirten-goruntuler-p325327",
+        "description": "Tek hareketi ortalığı karıştırdı: ‘Bu kadarı da olmaz’ dedirten görüntü",
         "source": "Sözcü",
-        "published": "2026-06-04T22:19:49+03:00"
+        "published": "2026-06-05T00:46:18+03:00"
+      },
+      {
+        "title": "Petrolün tahtına aday yakıt için milyarlarca doları gözden çıkardılar",
+        "link": "https://www.sozcu.com.tr/petrolun-tahtina-aday-yakit-icin-milyarlarca-dolari-gozden-cikardilar-p325329",
+        "description": "Petrolün tahtına aday yakıt için milyarlarca doları gözden çıkardılar",
+        "source": "Sözcü",
+        "published": "2026-06-05T00:30:45+03:00"
+      },
+      {
+        "title": "Parti kulislerinden sızdı... Kılıçdaroğlu'nun tercihi Faik Öztrak mı?",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-tercihi-faik-oztrak-mi-p325322",
+        "description": "Parti kulislerinden sızdı... Kılıçdaroğlu'nun tercihi Faik Öztrak mı?",
+        "source": "Sözcü",
+        "published": "2026-06-05T00:21:13+03:00"
+      },
+      {
+        "title": "Mohsen Namjoo’nun Ankara'daki konseri 'haklı hassasiyetler' gerekçesiyle iptal edildi",
+        "link": "https://www.sozcu.com.tr/mohsen-namjoo-nun-konseri-iptal-p325323",
+        "description": "Mohsen Namjoo’nun Ankara'daki konseri 'haklı hassasiyetler' gerekçesiyle iptal edildi",
+        "source": "Sözcü",
+        "published": "2026-06-05T00:20:15+03:00"
+      },
+      {
+        "title": "Filenin Sultanları varlık gösteremedi",
+        "link": "https://www.sozcu.com.tr/filenin-sultanlari-varlik-gosteremedi-p325325",
+        "description": "Filenin Sultanları varlık gösteremedi",
+        "source": "Sözcü",
+        "published": "2026-06-05T00:01:44+03:00"
+      },
+      {
+        "title": "Zengin bakır yataklarını okyanusa bağlayacaklar: 3 ülkeyi aşan dev koridor şekilleniyor",
+        "link": "https://www.sozcu.com.tr/zengin-bakir-yataklarini-okyanusa-baglayacaklar-3-ulkeyi-asan-dev-koridor-sekilleniyor-p325324",
+        "description": "Zengin bakır yataklarını okyanusa bağlayacaklar: 3 ülkeyi aşan dev koridor şekilleniyor",
+        "source": "Sözcü",
+        "published": "2026-06-04T23:57:07+03:00"
       },
       {
         "title": "Mohsen Namjoo'nun Ankara'daki konseri iptal edildi",
@@ -616,32 +651,11 @@
         "published": "2026-06-04T22:14:43+03:00"
       },
       {
-        "title": "Bahçeşehir Koleji Beşiktaş'ı devirdi! Seriye denge geldi",
-        "link": "https://www.sozcu.com.tr/bahcesehir-koleji-besiktas-i-devirdi-seriye-denge-geldi-p325308",
-        "description": "Bahçeşehir Koleji Beşiktaş'ı devirdi! Seriye denge geldi",
-        "source": "Sözcü",
-        "published": "2026-06-04T22:07:41+03:00"
-      },
-      {
-        "title": "Hakan Safi Merih Demiral’ı açıkladı! Suarez’den sonra bir yıldız daha",
-        "link": "https://www.sozcu.com.tr/hakan-safi-merih-demiral-i-acikladi-suarez-den-sonra-bir-yildiz-daha-p325307",
-        "description": "Hakan Safi Merih Demiral’ı açıkladı! Suarez’den sonra bir yıldız daha",
-        "source": "Sözcü",
-        "published": "2026-06-04T21:57:18+03:00"
-      },
-      {
-        "title": "'Limonata versene' dedi, uyarı sonrası çılgına döndü: Kafe saniyeler içinde savaş meydanına döndü",
-        "link": "https://www.sozcu.com.tr/limonata-versene-dedi-uyari-sonrasi-cilgina-dondu-kafe-saniyeler-icinde-savas-meydanina-dondu-p325306",
-        "description": "'Limonata versene' dedi, uyarı sonrası çılgına döndü: Kafe saniyeler içinde savaş meydanına döndü",
-        "source": "Sözcü",
-        "published": "2026-06-04T21:53:28+03:00"
-      },
-      {
-        "title": "300 kişinin yaşadığı köydeki radarın kestiği ceza milyonları buldu",
-        "link": "https://www.sozcu.com.tr/300-kisinin-yasadigi-koydeki-radarin-kestigi-ceza-milyonlari-buldu-p325305",
-        "description": "300 kişinin yaşadığı köydeki radarın kestiği ceza milyonları buldu",
-        "source": "Sözcü",
-        "published": "2026-06-04T21:42:23+03:00"
+        "title": "Mayıs ayı enflasyon verileri bugün açıklanacak, beklentiler ne yönde?",
+        "link": "https://www.bbc.com/turkce/articles/c8xw008ll85o?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye İstatistik Kurumu (TÜİK), mayıs ayı enflasyon verilerini bugün açıklayacak. Tüketici Fiyat Endeksi'ndeki (TÜFE) aylık ve yıllık değişimi ifade eden enflasyonun mayıs ayında da yüksek seyrini sürdürmesi bekleniyor.",
+        "source": "BBC Turkish",
+        "published": "2026-06-04T22:08:45+00:00"
       },
       {
         "title": "Sıfır Atık Festivali'ne İstanbullulardan yoğun ilgi",
@@ -707,13 +721,6 @@
         "published": "2026-06-04T17:50:03+03:00"
       },
       {
-        "title": "CHP'lilerin dosyası Ankara'da. Aralarında Özgür Özel ve Veli Ağbaba da var",
-        "link": "https://www.ntv.com.tr/turkiye/chplilerin-dosyasi-ankarada-aralarinda-ozgur-ozel-ve-veli-agbaba-da-var-1727207",
-        "description": "Özgür Özel, Umut Akdoğan, Veli Ağababa ve Suat Özçağdaş hakkında soruşturma dosyası Ankara Cumhuriyet Başsavcılığı’na gönderildi.",
-        "source": "NTV",
-        "published": "2026-06-04T16:52:16+03:00"
-      },
-      {
         "title": "Doruk Madencilik işçileri yeniden Ankara'da: 'Ödemelerde hâlâ eksikler var'",
         "link": "https://www.bbc.com/turkce/articles/ckgpq75pw92o?at_medium=RSS&at_campaign=rss",
         "description": "Nisan ayında iş bırakarak Ankara'ya yürüyen Doruk Madencilik işçileri, şirketin ödeme vaatlerini yerine getirmediği gerekçesiyle başkentte yeniden eylem başlattı. Yıldızlar SSS Holding önünde yapılan toplanma çağrısına siyasi partilerden de üst...",
@@ -749,13 +756,6 @@
         "published": "2026-06-04T13:40:10+00:00"
       },
       {
-        "title": "Mayıs ayı enflasyon verileri açıklanacak, beklentiler ne yönde?",
-        "link": "https://www.bbc.com/turkce/articles/c8xw008ll85o?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye İstatistik Kurumu (TÜİK), mayıs ayı enflasyon verilerini 5 Haziran'da açıklayacak. Tüketici Fiyat Endeksi'ndeki (TÜFE) aylık ve yıllık değişimi ifade eden enflasyonun mayıs ayında da yüksek seyrini sürdürmesi bekleniyor.",
-        "source": "BBC Turkish",
-        "published": "2026-06-04T12:45:06+00:00"
-      },
-      {
         "title": "Space X tarihin en büyük halka arzını hedefliyor: Elon Musk, dünyanın ilk trilyoneri olabilir mi?",
         "link": "https://www.bbc.com/turkce/articles/cg4p667xvryo?at_medium=RSS&at_campaign=rss",
         "description": "Elon Musk'ın sahibi olduğu SpaceX, halka arzından önce hedef hisse fiyatını açıkladı. Bu hedef gerçekleşirse şirket, tarihin en büyük halka arzını yapabilir. Bu durumda Musk dünyanın ilk trilyoneri olabilir. Ancak buna alıcılar karar verecek.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8616
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+85°F",
-    "wind": "↓2mph",
-    "humidity": "26%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+86°F",
+    "wind": "↗12mph",
+    "humidity": "30%"
   }
 }
