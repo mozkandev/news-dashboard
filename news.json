@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-06-04T23:45:30.856858+00:00",
+  "updated_at": "2026-06-05T03:46:39.304731+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+        "title": "The Causes of Long Covid",
+        "link": "https://www.science.org/content/blog-post/causes-long-covid",
+        "description": "Article URL: https://www.science.org/content/blog-post/causes-long-covid Comments URL: https://news.ycombinator.com/item?id=48407451 Points: 8 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-06-05T03:04:28+00:00"
+      },
+      {
+        "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
+        "link": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
+        "description": "Article URL: https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6 Comments URL: https://news.ycombinator.com/item?id=48407401 Points: 9 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-06-05T02:54:33+00:00"
+      },
+      {
+        "title": "Meta enables ADB on deprecated Portal devices [video]",
+        "link": "https://fb.watch/HxPu0fSyeH/",
+        "description": "https://developers.meta.com/horizon/blog/build-apps-for-port... Comments URL: https://news.ycombinator.com/item?id=48406640 Points: 113 # Comments: 25",
+        "source": "HackerNews",
+        "published": "2026-06-05T00:44:38+00:00"
+      },
+      {
+        "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+        "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+        "description": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+        "source": "TechCrunch",
+        "published": "2026-06-05T00:06:47+00:00"
+      },
+      {
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "link": "https://github.com/alibaba/open-code-review",
+        "description": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 79 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-06-05T00:04:29+00:00"
+      },
+      {
+        "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+        "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+        "description": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 33 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-06-04T23:45:56+00:00"
+      },
+      {
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
         "link": "https://arxiv.org/abs/2606.04032",
-        "description": "Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 23 # Comments: 2",
+        "description": "Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 119 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-06-04T23:11:56+00:00"
+      },
+      {
+        "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+        "link": "https://arxiv.org/abs/2604.24881",
+        "description": "Article URL: https://arxiv.org/abs/2604.24881 Comments URL: https://news.ycombinator.com/item?id=48405841 Points: 18 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-04T23:01:40+00:00"
+      },
+      {
+        "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation Comments URL: https://news.ycombinator.com/item?id=48405718 Points: 179 # Comments: 78",
+        "source": "HackerNews",
+        "published": "2026-06-04T22:48:19+00:00"
       },
       {
         "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
@@ -24,13 +80,6 @@
         "published": "2026-06-04T22:29:50+00:00"
       },
       {
-        "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-        "link": "https://github.com/schildep/verified-polygon-intersection",
-        "description": "To my knowledge, this is the first formally verified implementation of an intersection algorithm for polygons. The experience of working with AI agents on this project changed a lot with recent model releases, as I describe in the readme. Opus 4.8...",
-        "source": "HackerNews",
-        "published": "2026-06-04T22:06:18+00:00"
-      },
-      {
         "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
         "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
         "description": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
@@ -40,14 +89,14 @@
       {
         "title": "IPv6 zones in URLs are a mistake",
         "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-        "description": "Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 48 # Comments: 32",
+        "description": "Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 98 # Comments: 77",
         "source": "HackerNews",
         "published": "2026-06-04T21:42:34+00:00"
       },
       {
         "title": "Queen bees emerge from special wax chambers",
         "link": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
-        "description": "Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06 Comments URL: https://news.ycombinator.com/item?id=48404905 Points: 19 # Comments: 0",
+        "description": "Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06 Comments URL: https://news.ycombinator.com/item?id=48404905 Points: 54 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-06-04T21:31:31+00:00"
       },
@@ -66,13 +115,6 @@
         "published": "2026-06-04T21:30:00+00:00"
       },
       {
-        "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-        "link": "https://www.mercek.dev/",
-        "description": "Hey HN I've been using ECS for a while now and found it annoying having to log into the console everytime I use Lens for Kubernetes but couldnt find an equivalent for ECS so i built one! The project is open source as well...",
-        "source": "HackerNews",
-        "published": "2026-06-04T21:15:16+00:00"
-      },
-      {
         "title": "Yeni Nesil Siri Gemini ve Nvidia Ortaklığıyla Geliyor",
         "link": "https://shiftdelete.net/yeni-nesil-siri-gemini-ve-nvidia-ortakligiyla-geliyor",
         "description": "Apple, yeni nesil Siri için Google ve Nvidia ile iş birliği yapıyor. Gemini modeli ve Blackwell çiplerle güçlenecek Siri eylülde geliyor.",
@@ -87,13 +129,6 @@
         "published": "2026-06-04T20:55:38+00:00"
       },
       {
-        "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-        "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-        "description": "Built a browser-based FFmpeg editor that runs entirely client-side via WebAssembly. Your files never leave your device -- all processing happens in a Web Worker. Works offline as an installable PWA after first load. Comments URL:...",
-        "source": "HackerNews",
-        "published": "2026-06-04T20:32:18+00:00"
-      },
-      {
         "title": "Meta’nın Yeni Yapay Zeka Aracı İçerik Üreticileri için Risk mi Taşıyor?",
         "link": "https://shiftdelete.net/metanin-yeni-yapay-zeka-araci-icerik-ureticileri-icin-risk-mi-tasiyor",
         "description": "Meta, içerik üreticileri için Facebook paneline entegre edilen yeni yapay zeka aracı Creator Assistant'ı duyurdu. İşte yeni aracın özellikleri ve riskleri.",
@@ -101,39 +136,11 @@
         "published": "2026-06-04T20:30:00+00:00"
       },
       {
-        "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
-        "link": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
-        "description": "Article URL: https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/ Comments URL: https://news.ycombinator.com/item?id=48404063 Points: 99 # Comments: 74",
-        "source": "HackerNews",
-        "published": "2026-06-04T20:19:07+00:00"
-      },
-      {
-        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-        "link": "https://github.com/anthropics/defending-code-reference-harness",
-        "description": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 201 # Comments: 72",
-        "source": "HackerNews",
-        "published": "2026-06-04T20:11:20+00:00"
-      },
-      {
         "title": "Huawei’den 288Hz Yenileme Hızına Sahip Yeni Smart Screen S7 X Pro",
         "link": "https://shiftdelete.net/huaweiden-288hz-yenileme-hizina-sahip-yeni-smart-screen-s7-x-pro",
         "description": "Huawei, 288Hz yenileme hızı ve 4K MiniLED ekranıyla dikkat çeken yeni Smart Screen S7 X Pro modelini tanıttı. İşte tüm detaylar.",
         "source": "ShiftDelete",
         "published": "2026-06-04T20:00:00+00:00"
-      },
-      {
-        "title": "Castor: CERN Advanced STORage Manager",
-        "link": "https://castor.web.cern.ch/content/home.html",
-        "description": "Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 40 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-06-04T19:52:02+00:00"
-      },
-      {
-        "title": "Meta's ships facial recognition on smart glasses",
-        "link": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-        "description": "Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 189 # Comments: 175",
-        "source": "HackerNews",
-        "published": "2026-06-04T19:36:48+00:00"
       },
       {
         "title": "Meta steals a tactic from Tesla and builds data centers in tents",
@@ -255,13 +262,6 @@
         "published": "2026-06-04T16:45:56+03:00"
       },
       {
-        "title": "Meta rolls out a new AI creator assistant on Facebook",
-        "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-        "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-        "source": "TechCrunch",
-        "published": "2026-06-04T16:32:48+00:00"
-      },
-      {
         "title": "İddia: Apple, Yeni Vision Pro Gözlükleri İptal Etti!",
         "link": "\n                    https://www.webtekno.com/apple-yeni-vision-pro-gozlukleri-iptal-etti-iddia-h217980.html\n                    ",
         "description": "Güvenilir Apple Analisti Ming-Chi Kuo’ya göre Apple, yeni Vision Pro gözlükleri iptal etti.",
@@ -355,25 +355,46 @@
     ],
     "dunya": [
       {
-        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-        "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-        "source": "BBC News",
-        "published": "2026-06-04T23:32:35+00:00"
+        "title": "US imposes new sanctions on Cuban president and Castro family members",
+        "link": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+        "description": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members...",
+        "source": "The Guardian",
+        "published": "2026-06-05T01:07:15+00:00"
       },
       {
-        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
-        "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Sir Keir Starmer met the family of Henry Nowak at 10 Downing Street.",
+        "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
+        "link": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
         "source": "BBC News",
-        "published": "2026-06-04T23:27:31+00:00"
+        "published": "2026-06-04T23:53:19+00:00"
+      },
+      {
+        "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
+        "link": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&at_campaign=rss",
+        "description": "The shift marks a significant rise over the last five years, but experts say there is no single, clear explanation for the increase.",
+        "source": "BBC News",
+        "published": "2026-06-04T23:41:16+00:00"
+      },
+      {
+        "title": "'World-first' vaccine designed by artificial intelligence",
+        "link": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss",
+        "description": "Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
+        "source": "BBC News",
+        "published": "2026-06-04T23:29:06+00:00"
       },
       {
         "title": "Burnham says he would seek to enter any Labour leadership contest",
         "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
-        "description": "The Greater Manchester Mayor would need to win the by-election in Makerfield to be a possible candidate.",
+        "description": "The Greater Manchester mayor would need to win the by-election in Makerfield to be a possible candidate.",
         "source": "BBC News",
         "published": "2026-06-04T23:26:04+00:00"
+      },
+      {
+        "title": "Mangrove forests are healing after decades of human destruction",
+        "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+        "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+        "source": "BBC News",
+        "published": "2026-06-04T23:11:15+00:00"
       },
       {
         "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
@@ -397,11 +418,11 @@
         "published": "2026-06-04T21:48:51+00:00"
       },
       {
-        "title": "Kate hugs mum ringing 'end of cancer treatment' bell",
-        "link": "https://www.bbc.com/news/articles/cq5p52l2xjjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Princess of Wales encourages an emotional cancer patient at The Christie by saying \"you can do it!\"",
-        "source": "BBC News",
-        "published": "2026-06-04T19:37:13+00:00"
+        "title": "I wrote about George Santos. Then he made a violent threat and lied about it",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats",
+        "description": "NPR reported on new federal investigations examining the former Congressman's bets on the prediction market site Kalshi. Then he threatened the NPR reporter who broke the story.",
+        "source": "NPR",
+        "published": "2026-06-04T19:39:40-04:00"
       },
       {
         "title": "How misinformation about student's murder sent two people into hiding",
@@ -416,13 +437,6 @@
         "description": "The SAVE America Act, a far-reaching Republican election overhaul that President Trump said should be his congressional allies' top priority, has failed in the Senate.",
         "source": "NPR",
         "published": "2026-06-04T19:19:56-04:00"
-      },
-      {
-        "title": "Man shot with crossbow on university campus",
-        "link": "https://www.bbc.com/news/articles/cn4p4yllq1lo?at_medium=RSS&at_campaign=rss",
-        "description": "A member of staff was attacked on the Guildford campus on Thursday morning, says the university.",
-        "source": "BBC News",
-        "published": "2026-06-04T18:21:02+00:00"
       },
       {
         "title": "Royal Navy crew killed in helicopter crash named",
@@ -523,13 +537,6 @@
         "published": "2026-06-04T09:00:18-04:00"
       },
       {
-        "title": "Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire",
-        "link": "https://www.npr.org/2026/06/04/g-s1-125937/up-first-newsletter-ice-funding-package-trump-netanyahu-federal-workers-world-cup-weather",
-        "description": "Senate Republicans are moving forward on a bill to fund immigration enforcement through the end of Trump's term. And, Israel and Lebanon have agreed to a ceasefire that could aid in ending the war in Iran.",
-        "source": "NPR",
-        "published": "2026-06-04T08:03:42-04:00"
-      },
-      {
         "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
         "link": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
         "description": "Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics Rebel attacks around a town that is one of the centres of the Ebola outbreak in the Democratic Republic of the Congo have left more...",
@@ -551,13 +558,6 @@
         "published": "2026-06-03T17:29:55+00:00"
       },
       {
-        "title": "Kidnappings, threats and ‘protection fees’: how can Mexico confront rise in deadly extortion?",
-        "link": "https://www.theguardian.com/world/2026/jun/03/how-can-mexico-confront-rise-in-deadly-extortion",
-        "description": "With corrupt police on the streets and shopkeepers forced to pay gangs, president has vowed to tackle crime that now affects all parts of society It was about 11pm and Luis* was about to get into an Uber to go home when the police car pulled up. One...",
-        "source": "The Guardian",
-        "published": "2026-06-03T11:00:04+00:00"
-      },
-      {
         "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
         "link": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
         "description": "People from town of potential site for US citizens exposed to Ebola say it puts them at risk in country with no known cases People from a town in central Kenya where the US wants to set up an Ebola quarantine facility for its citizens have strongly...",
@@ -567,81 +567,130 @@
     ],
     "turkiye": [
       {
-        "title": "İki zamanda var olmak",
-        "link": "https://www.sozcu.com.tr/iki-zamanda-var-olmak-p325336",
-        "description": "İki zamanda var olmak",
-        "source": "Sözcü",
-        "published": "2026-06-05T02:30:00+03:00"
-      },
-      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Haziran 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-haziran-2026-1727235",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-05T02:30:00+03:00"
+        "published": "2026-06-05T06:30:02+03:00"
       },
       {
-        "title": "CHP Genel Merkezi'nde bozkurtlu fotoğraf; Kılıçdaroğlu'nun danışmanı böyle döndü",
-        "link": "https://www.sozcu.com.tr/ramazan-kubat-kilicdaroglu-nun-danismanlik-gorevine-dondu-p325335",
-        "description": "CHP Genel Merkezi'nde bozkurtlu fotoğraf; Kılıçdaroğlu'nun danışmanı böyle döndü",
-        "source": "Sözcü",
-        "published": "2026-06-05T01:12:57+03:00"
+        "title": "Yolcunun darp ettiği taksici ağır yaralandı",
+        "link": "https://www.ntv.com.tr/turkiye/yolcunun-darp-ettigi-taksici-agir-yaralandi-1727243",
+        "description": "İstanbul'da seyir halindeyken tartıştığı yolcunun darp ettiği taksici çıkan kavgada ağır yaralandı. Kalp krizi de geçiren şoför yoğun bakıma alındı.",
+        "source": "NTV",
+        "published": "2026-06-05T05:48:27+03:00"
       },
       {
-        "title": "8 şeritli köprü için çalışmalar başladı: Dağlık bölgeyi dev havalimanı ve limanlara bağlayacak",
-        "link": "https://www.sozcu.com.tr/8-seritli-kopru-icin-calismalar-basladi-daglik-bolgeyi-dev-havalimani-ve-limanlara-baglayacak-p325334",
-        "description": "8 şeritli köprü için çalışmalar başladı: Dağlık bölgeyi dev havalimanı ve limanlara bağlayacak",
+        "title": "İlahiyat yurdu için ağaç katliamı",
+        "link": "https://www.sozcu.com.tr/ilahiyat-yurdu-icin-agac-katliami-p325346",
+        "description": "İlahiyat yurdu için ağaç katliamı",
         "source": "Sözcü",
-        "published": "2026-06-05T01:02:55+03:00"
+        "published": "2026-06-05T05:30:04+03:00"
       },
       {
-        "title": "Trump'tan dikkat çeken Hamaney açıklaması",
-        "link": "https://www.sozcu.com.tr/trump-tan-hamaney-aciklamasi-p325332",
-        "description": "Trump'tan dikkat çeken Hamaney açıklaması",
+        "title": "Çok pahalı okul kaliteli okul anlamına gelmez!",
+        "link": "https://www.sozcu.com.tr/cok-pahali-okul-kaliteli-okul-anlamina-gelmez-p325342",
+        "description": "Çok pahalı okul kaliteli okul anlamına gelmez!",
         "source": "Sözcü",
-        "published": "2026-06-05T00:55:30+03:00"
+        "published": "2026-06-05T05:30:04+03:00"
       },
       {
-        "title": "Feci kaza karı kocayı hayattan kopardı; 3 ölü, 2 yaralı",
-        "link": "https://www.sozcu.com.tr/sivas-ta-kaza-3-olu-2-yarali-p325331",
-        "description": "Feci kaza karı kocayı hayattan kopardı; 3 ölü, 2 yaralı",
+        "title": "361 akaryakıtçıya torba kalkanı",
+        "link": "https://www.sozcu.com.tr/361-akaryakitciya-torba-kalkani-p325344",
+        "description": "361 akaryakıtçıya torba kalkanı",
         "source": "Sözcü",
-        "published": "2026-06-05T00:47:14+03:00"
+        "published": "2026-06-05T05:20:04+03:00"
       },
       {
-        "title": "Tek hareketi ortalığı karıştırdı: ‘Bu kadarı da olmaz’ dedirten görüntü",
-        "link": "https://www.sozcu.com.tr/tek-hareketi-ortaligi-karistirdi-bu-kadari-da-olmaz-dedirten-goruntuler-p325327",
-        "description": "Tek hareketi ortalığı karıştırdı: ‘Bu kadarı da olmaz’ dedirten görüntü",
+        "title": "Yurt dışı Özel’in yanında",
+        "link": "https://www.sozcu.com.tr/pazar-gunu-ara-secim-yapilacak-merkezlerde-oy-isteyecek-p325340",
+        "description": "Yurt dışı Özel’in yanında",
         "source": "Sözcü",
-        "published": "2026-06-05T00:46:18+03:00"
+        "published": "2026-06-05T05:15:08+03:00"
       },
       {
-        "title": "Petrolün tahtına aday yakıt için milyarlarca doları gözden çıkardılar",
-        "link": "https://www.sozcu.com.tr/petrolun-tahtina-aday-yakit-icin-milyarlarca-dolari-gozden-cikardilar-p325329",
-        "description": "Petrolün tahtına aday yakıt için milyarlarca doları gözden çıkardılar",
+        "title": "Özgür Özel’in yeni partisinin adı: İstiklal Partisi",
+        "link": "https://www.sozcu.com.tr/ozgur-ozel-in-yeni-partisinin-adi-istiklal-partisi-p325343",
+        "description": "Özgür Özel’in yeni partisinin adı: İstiklal Partisi",
         "source": "Sözcü",
-        "published": "2026-06-05T00:30:45+03:00"
+        "published": "2026-06-05T05:00:04+03:00"
       },
       {
-        "title": "Mohsen Namjoo’nun Ankara'daki konseri 'haklı hassasiyetler' gerekçesiyle iptal edildi",
-        "link": "https://www.sozcu.com.tr/mohsen-namjoo-nun-konseri-iptal-p325323",
-        "description": "Mohsen Namjoo’nun Ankara'daki konseri 'haklı hassasiyetler' gerekçesiyle iptal edildi",
+        "title": "İstihdamda alarm",
+        "link": "https://www.sozcu.com.tr/istihdamda-alarm-p325345",
+        "description": "İstihdamda alarm",
         "source": "Sözcü",
-        "published": "2026-06-05T00:20:15+03:00"
+        "published": "2026-06-05T04:50:03+03:00"
       },
       {
-        "title": "Filenin Sultanları varlık gösteremedi",
-        "link": "https://www.sozcu.com.tr/filenin-sultanlari-varlik-gosteremedi-p325325",
-        "description": "Filenin Sultanları varlık gösteremedi",
+        "title": "Özel seçim turunda",
+        "link": "https://www.sozcu.com.tr/ozel-secim-turunda-p325341",
+        "description": "Özel seçim turunda",
         "source": "Sözcü",
-        "published": "2026-06-05T00:01:44+03:00"
+        "published": "2026-06-05T04:30:03+03:00"
       },
       {
-        "title": "Zengin bakır yataklarını okyanusa bağlayacaklar: 3 ülkeyi aşan dev koridor şekilleniyor",
-        "link": "https://www.sozcu.com.tr/zengin-bakir-yataklarini-okyanusa-baglayacaklar-3-ulkeyi-asan-dev-koridor-sekilleniyor-p325324",
-        "description": "Zengin bakır yataklarını okyanusa bağlayacaklar: 3 ülkeyi aşan dev koridor şekilleniyor",
+        "title": "Yasa da yasak da dinlemiyorlar",
+        "link": "https://www.sozcu.com.tr/yasa-da-yasak-da-dinlemiyorlar-p325347",
+        "description": "Yasa da yasak da dinlemiyorlar",
         "source": "Sözcü",
-        "published": "2026-06-04T23:57:07+03:00"
+        "published": "2026-06-05T04:21:42+03:00"
+      },
+      {
+        "title": "Karı-kocayı evlerinin önünde infaz etti",
+        "link": "https://www.ntv.com.tr/turkiye/kari-kocayi-sokak-ortasinda-katletti-1727240",
+        "description": "Bursa'da kimliği belirlenemeyen saldırgan, evlerinin önünde tartıştığı H.D. ile eşi Y.D. silahla vurarak öldürdü.",
+        "source": "NTV",
+        "published": "2026-06-05T04:18:11+03:00"
+      },
+      {
+        "title": "Krizden çıkış için 3 başkan devrede",
+        "link": "https://www.sozcu.com.tr/krizden-cikis-icin-3-baskan-devrede-p325339",
+        "description": "Krizden çıkış için 3 başkan devrede",
+        "source": "Sözcü",
+        "published": "2026-06-05T04:00:03+03:00"
+      },
+      {
+        "title": "Kayınpeder damadını öldürdü",
+        "link": "https://www.ntv.com.tr/turkiye/kayinpeder-damadini-oldurdu-1727241",
+        "description": "Kahramanmaraş'ta Y.E. isimli kişi, tartıştığı damadını bıçaklayarak öldürdü.",
+        "source": "NTV",
+        "published": "2026-06-05T03:47:22+03:00"
+      },
+      {
+        "title": "Baskın seçim alametleri",
+        "link": "https://www.sozcu.com.tr/baskin-secim-alametleri-p325338",
+        "description": "Baskın seçim alametleri",
+        "source": "Sözcü",
+        "published": "2026-06-05T03:30:02+03:00"
+      },
+      {
+        "title": "Diyaliz hastası yangında can verdi",
+        "link": "https://www.ntv.com.tr/turkiye/diyaliz-hastasi-yanginda-can-verdi-1727239",
+        "description": "Erzurum'da bir binada çıkan yangında diyaliz hastası kadın hayatını kaybetti, dumandan etkilenen eşi ile komşusu tedavi altına alındı.",
+        "source": "NTV",
+        "published": "2026-06-05T02:54:42+03:00"
+      },
+      {
+        "title": "Ankara'da NATO Zirvesi için hazırlıklar başladı",
+        "link": "https://www.bbc.com/turkce/articles/cn0p03yj92ko?at_medium=RSS&at_campaign=rss",
+        "description": "Kırmızı bölgeden Etimesgut Havalimanının açılışına, Ankara'da NATO Zirvesi için yoğun bir hazırlık var. Cumhurbaşkanı Recep Tayyip Erdoğan ve NATO Genel Sekreteri Mark Rutte'nin ev sahipliğinde gerçekleşecek zirveye ABD Başkanı Donald Trump,...",
+        "source": "BBC Turkish",
+        "published": "2026-06-05T02:50:13+00:00"
+      },
+      {
+        "title": "12. Yargı Paketi ikiye bölünüyor: LGBTİ ve süresiz nafaka ikinci pakete girebilir",
+        "link": "https://www.bbc.com/turkce/articles/c5yxy3z19w8o?at_medium=RSS&at_campaign=rss",
+        "description": "Adalet ve Kalkınma Partisi (AKP), uzun süredir hazırlıkları süren 12. Yargı Paketi'ni tatile girmeden önce Meclis'ten geçirmeyi planlıyor. İlk aşamada yaklaşık 60 madde olarak planlanan paketin bölünerek aşamalı biçimde yasalaştırılması gündemde.",
+        "source": "BBC Turkish",
+        "published": "2026-06-05T02:49:08+00:00"
+      },
+      {
+        "title": "Erkeksiz üreyerek 100 bin yıl hayatta kalan balık türü",
+        "link": "https://www.bbc.com/turkce/articles/c74dp0n4wd3o?at_medium=RSS&at_campaign=rss",
+        "description": "Eşeysiz üreyen türler uzun zamandır evrimsel çıkmaz sokaklar olarak düşünülüyordu. Fakat dikkat çekici bir balık türü, erkek birey olmadan 100 bin yıl boyunca hayatta kalmayı başardı.",
+        "source": "BBC Turkish",
+        "published": "2026-06-05T02:48:06+00:00"
       },
       {
         "title": "İngiltere'de Henry Nowak cinayeti: Başbakan Starmer, Musk'ı 'bölünmeyi körüklemekle' suçladı",
@@ -700,41 +749,6 @@
         "published": "2026-06-04T19:06:41+03:00"
       },
       {
-        "title": "Gazeteci Reha Muhtar son yolcuğuna uğurlandı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-gazeteci-reha-muhtar-son-yolcuguna-ugurlandi-1727215",
-        "description": "66 yaşında hayatını kaybeden gazeteci ve haber spikeri Reha Muhtar, Beşiktaş'taki Barbaros Hayrettin Paşa Camisi'nde düzenlenen cenaze töreninin ardından toprağa verildi.",
-        "source": "NTV",
-        "published": "2026-06-04T19:01:45+03:00"
-      },
-      {
-        "title": "Kalp krizi geçiren dolmuş şoförü, yolcuları kurtardı. Kendisi ise hastanede hayatını kaybetti",
-        "link": "https://www.ntv.com.tr/turkiye/kalp-krizi-geciren-dolmus-soforu-yolculari-kurtardi-kendisi-ise-hastanede-hayatini-kaybetti-1727213",
-        "description": "Ordu'nun Ulubey ilçesinde seyir halindeyken kalp krizi geçiren dolmuş şoförü aracı bariyerlere çarparak durdurdu. Hastaneye kaldırılan şoför hayatını kaybetti, yolcular yara almadan kurtuldu.",
-        "source": "NTV",
-        "published": "2026-06-04T18:49:36+03:00"
-      },
-      {
-        "title": "CHP Eskişehir İl Başkanı Talat Yalaz hakkında kamu davası açıldı",
-        "link": "https://www.ntv.com.tr/turkiye/chp-eskisehir-il-baskani-talat-yalaz-hakkinda-sorusturma-baslatildi-1727211",
-        "description": "CHP Eskişehir İl Başkanı Talat Yalaz hakkında “halkı kanunlara uymamaya tahrik” suçundan kamu davası açıldı.",
-        "source": "NTV",
-        "published": "2026-06-04T18:47:56+03:00"
-      },
-      {
-        "title": "Özgür Özel dönemindeki ihraçlar iptal edildi. Kimlere CHP'ye dönüş yolu açılıyor?",
-        "link": "https://www.ntv.com.tr/turkiye/ozgur-ozel-donemindeki-ihraclar-iptal-edildi-kimlere-chpye-donus-yolu-aciliyor-1727195",
-        "description": "CHP Yüksek Disiplin Kurulu (YDK), Özgür Özel dönemindeki ihraçların iptal edilmesine karar verdi. Berhan Şimşek, Barış Yarkadaş, Gürsel Tekin ve Lütfü Savaş dahil birçok kişi için dönüş yolu açıldı.",
-        "source": "NTV",
-        "published": "2026-06-04T17:50:03+03:00"
-      },
-      {
-        "title": "Doruk Madencilik işçileri yeniden Ankara'da: 'Ödemelerde hâlâ eksikler var'",
-        "link": "https://www.bbc.com/turkce/articles/ckgpq75pw92o?at_medium=RSS&at_campaign=rss",
-        "description": "Nisan ayında iş bırakarak Ankara'ya yürüyen Doruk Madencilik işçileri, şirketin ödeme vaatlerini yerine getirmediği gerekçesiyle başkentte yeniden eylem başlattı. Yıldızlar SSS Holding önünde yapılan toplanma çağrısına siyasi partilerden de üst...",
-        "source": "BBC Turkish",
-        "published": "2026-06-04T16:01:05+00:00"
-      },
-      {
         "title": "Hizbullah, İsrail ve Lübnan arasındaki ateşkesi reddetti: 'Teslim olmak anlamına gelir'",
         "link": "https://www.bbc.com/turkce/articles/cn0prr2x6lko?at_medium=RSS&at_campaign=rss",
         "description": "İran destekli Lübnanlı silahlı grup Hizbullah, İsrail ile Lübnan'ın ABD aracılığıyla vardığı ateşkesin şartlarını kesin bir dille reddetti. Güçlü ifadeler içeren bir açıklama yapan grubun lideri Naim Kasım, müzakerelerin Lübnan için \"sonuçsuz\" ve...",
@@ -756,37 +770,23 @@
         "published": "2026-06-04T14:04:25+00:00"
       },
       {
-        "title": "Yerebatan Sarnıcı'nın İBB'den devrine yürütmeyi durdurma kararı",
-        "link": "https://www.bbc.com/turkce/articles/c1w4lnr10vgo?at_medium=RSS&at_campaign=rss",
-        "description": "İstanbul Büyükşehir Belediyesi (İBB) mülkiyetinde bulunan Yerebatan Sarnıcı'nın Vakıflar Genel Müdürlüğü'ne devredilmesiyle ilgili İstanbul Bölge İdare Mahkemesi 8. İdare Dava Dairesi, yürütmeyi durdurma kararı verdi.",
-        "source": "BBC Turkish",
-        "published": "2026-06-04T13:40:10+00:00"
-      },
-      {
         "title": "Space X tarihin en büyük halka arzını hedefliyor: Elon Musk, dünyanın ilk trilyoneri olabilir mi?",
         "link": "https://www.bbc.com/turkce/articles/cg4p667xvryo?at_medium=RSS&at_campaign=rss",
         "description": "Elon Musk'ın sahibi olduğu SpaceX, halka arzından önce hedef hisse fiyatını açıkladı. Bu hedef gerçekleşirse şirket, tarihin en büyük halka arzını yapabilir. Bu durumda Musk dünyanın ilk trilyoneri olabilir. Ancak buna alıcılar karar verecek.",
         "source": "BBC Turkish",
         "published": "2026-06-04T11:03:57+00:00"
-      },
-      {
-        "title": "Kuzey Kore lideri Kim Jong Un neden hiç annesinden bahsetmiyor?",
-        "link": "https://www.bbc.com/turkce/articles/cn4pk91lpk2o?at_medium=RSS&at_campaign=rss",
-        "description": "Kuzey Korelilerin çok azı Kim Jong Un'un annesini tanıyor çünkü kökeni rejimin meşruiyetini tehdit edebilir.",
-        "source": "BBC Turkish",
-        "published": "2026-06-04T09:28:32+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 45.9894,
-    "eur_try": 53.3848,
-    "eur_usd": 0.8616
+    "usd_try": 46.035,
+    "eur_try": 53.4942,
+    "eur_usd": 0.8605
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+81°F",
-    "wind": "↓2mph",
-    "humidity": "45%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+79°F",
+    "wind": "↗9mph",
+    "humidity": "39%"
   }
 }
