@@ -1,27 +1,62 @@
 {
-  "updated_at": "2026-06-06T00:06:16.037690+00:00",
+  "updated_at": "2026-06-06T04:36:39.813589+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+        "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+        "description": "Article URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/ Comments URL: https://news.ycombinator.com/item?id=48421171 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-06T03:41:32+00:00"
+      },
+      {
+        "title": "Lockdown Mode",
+        "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+        "description": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode Comments URL: https://news.ycombinator.com/item?id=48421145 Points: 15 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-06-06T03:36:15+00:00"
+      },
+      {
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "link": "https://news.ycombinator.com/item?id=48420827",
+        "description": "Genuine question. Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines....",
+        "source": "HackerNews",
+        "published": "2026-06-06T02:31:51+00:00"
+      },
+      {
+        "title": "Show HN: ABC Classic 100 Rankings visualised",
+        "link": "https://classic100.gotski.workers.dev/",
+        "description": "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years. I've considered adding a search function, but I also kind of like that it requires a bit of...",
+        "source": "HackerNews",
+        "published": "2026-06-06T01:32:09+00:00"
+      },
+      {
+        "title": "The intracies of modern camera lens repair (2024)",
+        "link": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "description": "Article URL: https://salvagedcircuitry.com/sigma-45mm.html Comments URL: https://news.ycombinator.com/item?id=48420148 Points: 99 # Comments: 33",
+        "source": "HackerNews",
+        "published": "2026-06-06T00:33:26+00:00"
+      },
+      {
+        "title": "Nordstjernen 1.0",
+        "link": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
+        "description": "Article URL: https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48419821 Points: 25 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-06-05T23:42:54+00:00"
+      },
+      {
+        "title": "The perils of UUID primary keys in SQLite",
+        "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+        "description": "Article URL: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html Comments URL: https://news.ycombinator.com/item?id=48419571 Points: 37 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-06-05T23:13:12+00:00"
+      },
       {
         "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
         "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
         "description": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
         "source": "TechCrunch",
         "published": "2026-06-05T22:35:01+00:00"
-      },
-      {
-        "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-        "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-        "description": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 53 # Comments: 48",
-        "source": "HackerNews",
-        "published": "2026-06-05T22:12:58+00:00"
-      },
-      {
-        "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
-        "link": "https://github.com/a-yiorgos/wambook",
-        "description": "Article URL: https://github.com/a-yiorgos/wambook Comments URL: https://news.ycombinator.com/item?id=48418839 Points: 9 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-06-05T21:52:02+00:00"
       },
       {
         "title": "Founders share VC horror stories, and some are naming names",
@@ -31,11 +66,11 @@
         "published": "2026-06-05T21:47:56+00:00"
       },
       {
-        "title": "Hacker News, Sans AI",
-        "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-        "description": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 128 # Comments: 65",
-        "source": "HackerNews",
-        "published": "2026-06-05T20:38:40+00:00"
+        "title": "Gone in 60 minutes",
+        "link": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
+        "description": "It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to question the fact that CBS had installed sycophants in its...",
+        "source": "The Verge",
+        "published": "2026-06-05T21:07:22-04:00"
       },
       {
         "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
@@ -47,9 +82,9 @@
       {
         "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
         "link": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
-        "description": "Geoff Keighley’s annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and announcements, begins at 5PM ET and is set to run for two hours. The event itself will take place...",
+        "description": "Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one. Across a two hour event — and another hour for Day of the Devs — we got news about the third Final Fantasy VII remake game, a new look at Control...",
         "source": "The Verge",
-        "published": "2026-06-05T20:05:54-04:00"
+        "published": "2026-06-05T20:24:19-04:00"
       },
       {
         "title": "Katlanabilir iPhone Renk Seçeneği Belirsizliğini Koruyor",
@@ -87,16 +122,9 @@
         "published": "2026-06-05T19:25:34-04:00"
       },
       {
-        "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
-        "link": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
-        "description": "Article URL: https://www.githubstatus.com/incidents/2nmfnbknhlnv Comments URL: https://news.ycombinator.com/item?id=48416936 Points: 108 # Comments: 41",
-        "source": "HackerNews",
-        "published": "2026-06-05T19:15:36+00:00"
-      },
-      {
         "title": "Three of our worst VC stories",
         "link": "https://twitter.com/eastdakota/status/2062860530360959273",
-        "description": "https://xcancel.com/eastdakota/status/2062860530360959273 Comments URL: https://news.ycombinator.com/item?id=48416845 Points: 169 # Comments: 76",
+        "description": "https://xcancel.com/eastdakota/status/2062860530360959273 More of these (via https://news.ycombinator.com/item?id=48418641 below): https://xcancel.com/gregisenberg/status/2061794787825479818 (...",
         "source": "HackerNews",
         "published": "2026-06-05T19:08:12+00:00"
       },
@@ -129,16 +157,16 @@
         "published": "2026-06-05T18:57:20+00:00"
       },
       {
-        "title": "Transformers Are Inherently Succinct",
+        "title": "Transformers are inherently succinct",
         "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-        "description": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers. Comments URL: https://news.ycombinator.com/item?id=48416635 Points: 75 # Comments: 28",
+        "description": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers. Comments URL: https://news.ycombinator.com/item?id=48416635 Points: 102 # Comments: 31",
         "source": "HackerNews",
         "published": "2026-06-05T18:50:26+00:00"
       },
       {
         "title": "Aging and Eye Problems",
         "link": "https://ldstephens.net/posts/aging-and-eye-problems/",
-        "description": "Article URL: https://ldstephens.net/posts/aging-and-eye-problems/ Comments URL: https://news.ycombinator.com/item?id=48416392 Points: 34 # Comments: 7",
+        "description": "Article URL: https://ldstephens.net/posts/aging-and-eye-problems/ Comments URL: https://news.ycombinator.com/item?id=48416392 Points: 71 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-06-05T18:30:31+00:00"
       },
@@ -234,27 +262,6 @@
         "published": "2026-06-05T17:00:03+00:00"
       },
       {
-        "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-        "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-        "description": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m... https://www.adyen.com/press-and-media/adyen-payments-gov-uk Comments URL: https://news.ycombinator.com/item?id=48415217 Points: 307 # Comments: 105",
-        "source": "HackerNews",
-        "published": "2026-06-05T16:55:30+00:00"
-      },
-      {
-        "title": "Mantine-datatable (and others) compromised – owner account suspended",
-        "link": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-        "description": "Article URL: https://github.com/icflorescu/mantine-datatable/discussions/813 Comments URL: https://news.ycombinator.com/item?id=48414978 Points: 56 # Comments: 23",
-        "source": "HackerNews",
-        "published": "2026-06-05T16:39:57+00:00"
-      },
-      {
-        "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
-        "link": "https://news.ycombinator.com/item?id=48414869",
-        "description": "Hey HN, Guanming and Bill here from General Instinct ( https://general-instinct.com/ ). After years of working in robotics, we kept running into the same problem: the best models never fit the hardware we actually had available. The models that...",
-        "source": "HackerNews",
-        "published": "2026-06-05T16:33:00+00:00"
-      },
-      {
         "title": "Supabase doubles valuation to $10B in 8 months",
         "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
         "description": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
@@ -304,13 +311,6 @@
         "published": "2026-06-05T15:09:34+00:00"
       },
       {
-        "title": "Gone in 60 minutes",
-        "link": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
-        "description": "It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to question the fact that CBS had installed sycophants in its...",
-        "source": "The Verge",
-        "published": "2026-06-05T14:44:20-04:00"
-      },
-      {
         "title": "Meta, Tüm Dünyada WhatsApp İşletme Yapay Zeka Ajanını Başlattı",
         "link": "https://shiftdelete.net/meta-tum-dunyada-whatsapp-isletme-yapay-zeka-ajanini-baslatti",
         "description": "Meta, tüm işletmeler için yapay zeka tabanlı Meta Business Agent özelliğini WhatsApp, Instagram ve Messenger üzerinde dünya genelinde kullanıma sundu.",
@@ -355,11 +355,39 @@
     ],
     "dunya": [
       {
-        "title": "US military says it struck Iranian drones and radar sites",
+        "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+        "link": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+        "description": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict Central Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, west Africa’s...",
+        "source": "The Guardian",
+        "published": "2026-06-06T04:21:37+00:00"
+      },
+      {
+        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
         "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-        "description": "The drones \"posed an immediate threat to regional maritime traffic\" in the Strait of Hormuz, US Central Command says.",
+        "description": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
         "source": "BBC News",
-        "published": "2026-06-05T23:48:58+00:00"
+        "published": "2026-06-06T03:01:05+00:00"
+      },
+      {
+        "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+        "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
+        "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+        "source": "BBC News",
+        "published": "2026-06-06T02:33:24+00:00"
+      },
+      {
+        "title": "'Traitor' - Elmo in hot water with New Yorkers over Knicks NBA finals",
+        "link": "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&at_campaign=rss",
+        "description": "The Sesame Street character, whose fictional home is in New York, was called a traitor after not fully backing the city's basketball team.",
+        "source": "BBC News",
+        "published": "2026-06-06T01:44:41+00:00"
+      },
+      {
+        "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
+        "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
+        "description": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict.",
+        "source": "NPR",
+        "published": "2026-06-06T00:15:26-04:00"
       },
       {
         "title": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
@@ -397,11 +425,18 @@
         "published": "2026-06-05T21:39:23+00:00"
       },
       {
-        "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
-        "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
-        "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+        "description": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
         "source": "BBC News",
-        "published": "2026-06-05T21:34:31+00:00"
+        "published": "2026-06-05T21:35:55+00:00"
+      },
+      {
+        "title": "Democrat Xavier Becerra wins the top spot in November's race for California governor",
+        "link": "https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom",
+        "description": "Former Health and Human Services Secretary Xavier Becerra has clinched the top spot on California's ballot for governor. With millions of ballots still to be counted, his November challenger is unknown.",
+        "source": "NPR",
+        "published": "2026-06-05T20:42:57-04:00"
       },
       {
         "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
@@ -416,20 +451,6 @@
         "description": "The Lincoln Memorial Reflecting Pool is refilling after President Trump had it painted \"American flag blue.\" Some visitors say the results of the project — which reportedly cost millions — are subtle.",
         "source": "NPR",
         "published": "2026-06-05T17:12:38-04:00"
-      },
-      {
-        "title": "Ex-Channel 4 News host Jon Snow reveals he has Alzheimer's",
-        "link": "https://www.bbc.com/news/articles/c3626ry101lo?at_medium=RSS&at_campaign=rss",
-        "description": "Snow, the lead presenter of C4 News for 32 years, will be seen navigating his diagnosis in a new film.",
-        "source": "BBC News",
-        "published": "2026-06-05T17:10:50+00:00"
-      },
-      {
-        "title": "Rapist Paul Quinn's 24-year sentence an insult, says wrongly convicted Andrew Malkinson",
-        "link": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&at_campaign=rss",
-        "description": "Paul Quinn is jailed over the 2003 attack in Salford for which Andrew Malkinson served 17 years.",
-        "source": "BBC News",
-        "published": "2026-06-05T17:04:15+00:00"
       },
       {
         "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
@@ -488,20 +509,6 @@
         "published": "2026-06-05T07:57:57-04:00"
       },
       {
-        "title": "The World Cup vs. bugs, germs and heat: Here's the game plan",
-        "link": "https://www.npr.org/2026/06/05/nx-s1-5846403/world-cup-mosquitoes-ebola-heat",
-        "description": "Despite a diminished federal presence, public health departments are preparing for common ailments that could afflict fans who gather for the event — and are keeping an eye on the Ebola outbreak, too.",
-        "source": "NPR",
-        "published": "2026-06-05T06:59:43-04:00"
-      },
-      {
-        "title": "Senate Republicans pass immigration funding after overnight vote",
-        "link": "https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement",
-        "description": "After a marathon 18-hour vote, the Senate has funded immigration enforcement. The GOP bill funds ICE and the Border Patrol for three years.",
-        "source": "NPR",
-        "published": "2026-06-05T06:38:58-04:00"
-      },
-      {
         "title": "US imposes new sanctions on Cuban president and Castro family members",
         "link": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
         "description": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members...",
@@ -556,78 +563,113 @@
         "description": "North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024 An immigration judge in Charlotte, North Carolina , recently ordered the deportation of a young man who was killed in 2024, citing...",
         "source": "The Guardian",
         "published": "2026-06-03T18:04:53+00:00"
-      },
-      {
-        "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-        "link": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
-        "description": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organization said,...",
-        "source": "The Guardian",
-        "published": "2026-06-03T17:29:55+00:00"
       }
     ],
     "turkiye": [
+      {
+        "title": "Kemal Kılıçdaroğlu'ndan yeni hamle: İl başkanlarına rest",
+        "link": "https://www.sozcu.com.tr/kemal-kilicdaroglu-ndan-yeni-hamle-il-baskanlarina-rest-p325627",
+        "description": "Kemal Kılıçdaroğlu'ndan yeni hamle: İl başkanlarına rest",
+        "source": "Sözcü",
+        "published": "2026-06-06T07:35:15+03:00"
+      },
+      {
+        "title": "Atatürkçü vatandaşları hedef almıştı: Tepki çeken paylaşım AKP'de çifte istifa getirdi",
+        "link": "https://www.sozcu.com.tr/ataturkcu-vatandaslari-hedef-almisti-tepki-ceken-paylasim-akp-de-cifte-istifa-getirdi-p325628",
+        "description": "Atatürkçü vatandaşları hedef almıştı: Tepki çeken paylaşım AKP'de çifte istifa getirdi",
+        "source": "Sözcü",
+        "published": "2026-06-06T07:32:14+03:00"
+      },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Haziran 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-haziran-2026-1727385",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-06T03:00:00+03:00"
+        "published": "2026-06-06T07:30:00+03:00"
       },
       {
-        "title": "Başkentte Tarkan coşkusu! Yağmura rağmen binlerce kişi akın etti",
-        "link": "https://www.sozcu.com.tr/baskentte-tarkan-coskusu-yagmura-ragmen-binlerce-kisi-akin-etti-p325614",
-        "description": "Başkentte Tarkan coşkusu! Yağmura rağmen binlerce kişi akın etti",
-        "source": "Sözcü",
-        "published": "2026-06-06T01:20:12+03:00"
+        "title": "Karadeniz'de Türk balıkçı teknesine saldırı. 1 ölü, 4 yaralı",
+        "link": "https://www.ntv.com.tr/turkiye/karadenizde-turk-balikci-teknesine-saldiri-1-olu-4-yarali-1727376",
+        "description": "Karadeniz'de Kırım'ın batısında Türk balıkçı teknesine saldırı düzenlendi. İçişleri Bakanlığı, 1 kişinin hayatını kaybettiğini, 4 kişinin ise yaralandığı açıkladı.",
+        "source": "NTV",
+        "published": "2026-06-06T06:07:43+03:00"
       },
       {
-        "title": "Ankara’da 3 yaşındaki kızını rehin alan baba etkisiz hale getirildi",
-        "link": "https://www.sozcu.com.tr/ankara-da-3-yasindaki-kizini-rehin-alan-baba-etkisiz-hale-getirildi-p325613",
-        "description": "Ankara’da 3 yaşındaki kızını rehin alan baba etkisiz hale getirildi",
+        "title": "Ankara Esenboğa Havalimanı’nda akıl almaz mimari hata! Kör kule",
+        "link": "https://www.sozcu.com.tr/ankara-esenboga-havalimani-nda-akil-almaz-mimari-hata-kor-kule-p325625",
+        "description": "Ankara Esenboğa Havalimanı’nda akıl almaz mimari hata! Kör kule",
         "source": "Sözcü",
-        "published": "2026-06-06T01:04:59+03:00"
+        "published": "2026-06-06T05:50:31+03:00"
       },
       {
-        "title": "Banka yöneticilerinin adlarıyla vurgun yaptılar! 4,6 milyar liralık mal varlığı",
-        "link": "https://www.sozcu.com.tr/banka-yoneticilerinin-adlariyla-vurgun-yaptilar-4-6-milyar-liralik-mal-varligi-p325607",
-        "description": "Banka yöneticilerinin adlarıyla vurgun yaptılar! 4,6 milyar liralık mal varlığı",
-        "source": "Sözcü",
-        "published": "2026-06-06T00:37:25+03:00"
+        "title": "Talimatlar cezaevinden geliyordu. Çete operasyonunda 7 tutuklama",
+        "link": "https://www.ntv.com.tr/turkiye/talimatlar-cezaevinden-geliyordu-cete-operasyonunda-7-tutuklama-1727392",
+        "description": "Nazilli'de iş yeri, araç ve ikametlere yönelik silahlı saldırı düzenleyen organize suç örgütünün liderinin cezaevinde olduğunu tespit etti. 7 çete üyesi tutuklandı.",
+        "source": "NTV",
+        "published": "2026-06-06T05:46:12+03:00"
       },
       {
-        "title": "TFF, 2026-2027 sezonunun hakemlerini açıkladı",
-        "link": "https://www.sozcu.com.tr/tff-2026-2027-sezonunun-hakemlerini-acikladi-p325606",
-        "description": "TFF, 2026-2027 sezonunun hakemlerini açıkladı",
+        "title": "Yağdı yağmur bu bahaneyi buldu memur",
+        "link": "https://www.sozcu.com.tr/yagdi-yagmur-bu-bahaneyi-buldu-memur-p325619",
+        "description": "Yağdı yağmur bu bahaneyi buldu memur",
         "source": "Sözcü",
-        "published": "2026-06-06T00:34:19+03:00"
+        "published": "2026-06-06T05:43:43+03:00"
       },
       {
-        "title": "Buca Belediye Başkanı Görkem Duman dahil 42 kişi tutuklandı",
-        "link": "https://www.sozcu.com.tr/gorkem-duman-tutuklandi-p325597",
-        "description": "Buca Belediye Başkanı Görkem Duman dahil 42 kişi tutuklandı",
-        "source": "Sözcü",
-        "published": "2026-06-06T00:29:53+03:00"
+        "title": "Babasının cesediyle iki gün aynı evde yaşadı",
+        "link": "https://www.ntv.com.tr/turkiye/olen-babasinin-cesediyle-iki-gun-ayni-evde-yasadi-1727391",
+        "description": "Bodrum'da zihinsel engelli olduğu öğrenilen kişinin, ölen babasının cesediyle iki gün aynı evde yaşadığı anlaşıldı.",
+        "source": "NTV",
+        "published": "2026-06-06T05:39:54+03:00"
       },
       {
-        "title": "Bakan Uraloğlu açıkladı: Discord bir süre sonra erişime açılacak",
-        "link": "https://www.sozcu.com.tr/bakan-uraloglu-acikladi-discord-bir-sure-sonra-erisime-acilacak-p325599",
-        "description": "Bakan Uraloğlu açıkladı: Discord bir süre sonra erişime açılacak",
+        "title": "Kapasite artırımı için sayısız ağaç kesilecek!",
+        "link": "https://www.sozcu.com.tr/kapasite-artirimi-icin-sayisiz-agac-kesilecek-p325624",
+        "description": "Kapasite artırımı için sayısız ağaç kesilecek!",
         "source": "Sözcü",
-        "published": "2026-06-06T00:07:17+03:00"
+        "published": "2026-06-06T05:30:14+03:00"
       },
       {
-        "title": "1 ton bozuk sucuk ele geçirildi",
-        "link": "https://www.sozcu.com.tr/1-ton-bozuk-sucuk-ele-gecirildi-p325598",
-        "description": "1 ton bozuk sucuk ele geçirildi",
+        "title": "Liyakatin tabutuna son çivi",
+        "link": "https://www.sozcu.com.tr/liyakatin-tabutuna-son-civi-p325622",
+        "description": "Liyakatin tabutuna son çivi",
         "source": "Sözcü",
-        "published": "2026-06-05T23:51:47+03:00"
+        "published": "2026-06-06T05:30:14+03:00"
       },
       {
-        "title": "Altın ve gümüşte sert düşüş",
-        "link": "https://www.sozcu.com.tr/altin-ve-gumuste-sert-dusus-p325596",
-        "description": "Altın ve gümüşte sert düşüş",
+        "title": "12. katta bozkurt pozu veren Haluk Kırcı’yla aynı masada",
+        "link": "https://www.sozcu.com.tr/12-katta-bozkurt-pozu-veren-haluk-kirci-yla-ayni-masada-p325621",
+        "description": "12. katta bozkurt pozu veren Haluk Kırcı’yla aynı masada",
         "source": "Sözcü",
-        "published": "2026-06-05T23:42:59+03:00"
+        "published": "2026-06-06T05:30:14+03:00"
+      },
+      {
+        "title": "Kamu kurumları göz göre göre batıyor",
+        "link": "https://www.sozcu.com.tr/kamu-kurumlari-goz-gore-gore-batiyor-p325620",
+        "description": "Kamu kurumları göz göre göre batıyor",
+        "source": "Sözcü",
+        "published": "2026-06-06T05:30:14+03:00"
+      },
+      {
+        "title": "Asgari ücretli 4 bin Emekli 2.849 lira kaybetti",
+        "link": "https://www.sozcu.com.tr/asgari-ucretli-4-bin-emekli-2-849-lira-kaybetti-p325618",
+        "description": "Asgari ücretli 4 bin Emekli 2.849 lira kaybetti",
+        "source": "Sözcü",
+        "published": "2026-06-06T05:30:14+03:00"
+      },
+      {
+        "title": "Bıçakla 3 yaşındaki kızını rehin aldı. Polis vurarak durdurdu",
+        "link": "https://www.ntv.com.tr/turkiye/bicakla-3-yasindaki-kizini-rehin-aldi-polis-vurarak-durdurdu-1727390",
+        "description": "Ankara'da, eşiyle tartışan M.D., bıçakla rehin aldığı 3 yaşındaki kızını evinin penceresine çıkarıp tehditler savurdu. Özel harekat şüpheliyi vurarak etkisiz hale getirdi.",
+        "source": "NTV",
+        "published": "2026-06-06T05:05:27+03:00"
+      },
+      {
+        "title": "Seçimi kim kazanacak?",
+        "link": "https://www.sozcu.com.tr/secimi-kim-kazanacak-p325623",
+        "description": "Seçimi kim kazanacak?",
+        "source": "Sözcü",
+        "published": "2026-06-06T04:19:18+03:00"
       },
       {
         "title": "Adalar Belediyesi’ne yönelik mali inceleme",
@@ -637,32 +679,11 @@
         "published": "2026-06-05T23:42:45+03:00"
       },
       {
-        "title": "İran’dan ABD’ye ağır darbe! Gizli kalan hasarı Amerikan dergisi yazdı",
-        "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-agir-darbe-gizli-kalan-hasari-amerikan-dergisi-yazdi-p325595",
-        "description": "İran’dan ABD’ye ağır darbe! Gizli kalan hasarı Amerikan dergisi yazdı",
-        "source": "Sözcü",
-        "published": "2026-06-05T23:34:09+03:00"
-      },
-      {
-        "title": "Yeni parti iddiası kulisleri hareketlendirdi: Alan adının alındığı tarih dikkat çekti",
-        "link": "https://www.sozcu.com.tr/istiklal-partisi-ile-ilgili-carpici-detay-p325592",
-        "description": "Yeni parti iddiası kulisleri hareketlendirdi: Alan adının alındığı tarih dikkat çekti",
-        "source": "Sözcü",
-        "published": "2026-06-05T23:24:00+03:00"
-      },
-      {
         "title": "Bakan Gürlek, 15 bin personel alımının ayrıntılarını açıkladı",
         "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-15-bin-personel-aliminin-ayrintilarini-acikladi-1727380",
         "description": "Adalet Bakanı Akın Gürlek, bakanlığa 15 bin personel alımının detaylarını paylaşarak, adliyelerden ceza infaz kurumlarına kadar birçok birimde yeni istihdam sağlanacağını duyurdu.",
         "source": "NTV",
         "published": "2026-06-05T22:21:23+03:00"
-      },
-      {
-        "title": "Karadeniz'de Türk balıkçı teknesine saldırı. 1 ölü, 4 yaralı",
-        "link": "https://www.ntv.com.tr/turkiye/karadenizde-turk-balikci-teknesine-saldiri-1-olu-4-yarali-1727376",
-        "description": "Karadeniz'de Kırım'ın batısında Türk balıkçı teknesine saldırı düzenlendi. İçişleri Bakanlığı, 1 kişinin hayatını kaybettiğini, 4 kişinin ise yaralandığı açıkladı.",
-        "source": "NTV",
-        "published": "2026-06-05T21:40:45+03:00"
       },
       {
         "title": "Savcıların şifresiyle FETÖ dosyalarını kapattı. 4 sanığa hapis cezası",
@@ -693,32 +714,11 @@
         "published": "2026-06-05T19:19:01+00:00"
       },
       {
-        "title": "Seyyar satıcı, esnaf çifti silahla yaralayıp, yaşamına son verdi",
-        "link": "https://www.ntv.com.tr/turkiye/seyyar-satici-esnaf-cifti-silahla-yaralayip-yasamina-son-verdi-1727367",
-        "description": "Ankara'da seyyar satıcılık yapan Sancak Karıksız, aynı bölgede esnaflık yapan Rıfat ve Zemzem Kaleli çiftini silahla ağır yaralayıp, kendi yaşamına son verdi.",
-        "source": "NTV",
-        "published": "2026-06-05T18:40:24+03:00"
-      },
-      {
         "title": "Putin, Zelenskiy'nin Türkiye ya da İsviçre'de görüşme teklifine 'anlamsız' dedi",
         "link": "https://www.bbc.com/turkce/articles/c7757vzp7e8o?at_medium=RSS&at_campaign=rss",
         "description": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşı sona erdirmek için yeni bir girişimde bulundu ve Vladimir Putin ile yüz yüze bir görüşme çağrısı yaptı. Zelenskiy görüşmenin Türkiye ya da İsviçre gibi bir ülkede yapılabileceğini belirtti.",
         "source": "BBC Turkish",
         "published": "2026-06-05T18:21:59+00:00"
-      },
-      {
-        "title": "Gazeteci İsmail Arı'nın tahliyesine karar verildi",
-        "link": "https://www.ntv.com.tr/turkiye/gazeteci-ismail-arinin-tahliyesine-karar-verildi-1727363",
-        "description": "75 gündür tutuklu bulunan gazeteci İsmail Arı hakkında tahliye kararı verildi.",
-        "source": "NTV",
-        "published": "2026-06-05T17:32:30+03:00"
-      },
-      {
-        "title": "Sıfır atıkta Türkiye dünyaya örnek oluyor",
-        "link": "https://www.ntv.com.tr/turkiye/sifir-atikta-turkiye-dunyaya-ornek-oluyor-1727364",
-        "description": "Sıfır Atık Forumu 2026, dünyanın dört bir yanından kamu yöneticilerini, akademisyenleri, iş dünyası ve sivil toplum temsilcilerini İstanbul’da bir araya getirdi. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, sıfır atığın artık bir seçenek değil...",
-        "source": "NTV",
-        "published": "2026-06-05T17:27:18+03:00"
       },
       {
         "title": "CHP'nin yeni MYK'sı toplandı: 'Kılıçdaroğlu Grup Toplantısına katılacak'",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 46.035,
-    "eur_try": 53.4942,
-    "eur_usd": 0.8605
+    "usd_try": 46.0883,
+    "eur_try": 53.2474,
+    "eur_usd": 0.8653
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+80°F",
-    "wind": "↘9mph",
-    "humidity": "39%"
+    "condition": "Açık",
+    "temp": "+99°F",
+    "wind": "↗19mph",
+    "humidity": "9%"
   }
 }
