@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-06-10T21:35:13.892954+00:00",
+  "updated_at": "2026-06-10T23:25:24.504634+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+        "source": "TechCrunch",
+        "published": "2026-06-10T22:31:19+00:00"
+      },
+      {
+        "title": "Why Andrew Yang is building instead of waiting for Washington",
+        "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+        "description": "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam...",
+        "source": "TechCrunch",
+        "published": "2026-06-10T22:24:12+00:00"
+      },
+      {
+        "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+        "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+        "description": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/ Comments URL: https://news.ycombinator.com/item?id=48483387 Points: 26 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-06-10T22:07:52+00:00"
+      },
+      {
+        "title": "Free financial literacy platform for kids – 90 lessons, no paywall",
+        "link": "https://learnfinly.com",
+        "description": "Article URL: https://learnfinly.com Comments URL: https://news.ycombinator.com/item?id=48483345 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-10T22:04:29+00:00"
+      },
       {
         "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
         "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
@@ -24,9 +52,9 @@
         "published": "2026-06-10T21:00:00+00:00"
       },
       {
-        "title": "What Is It Like to Be a Bat? [pdf] (1974)",
+        "title": "What is it like to be a bat? (1974) [pdf]",
         "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-        "description": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=48482293 Points: 21 # Comments: 13",
+        "description": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=48482293 Points: 48 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-06-10T20:35:07+00:00"
       },
@@ -54,7 +82,7 @@
       {
         "title": "Raspberry Pi 5 – 16 GB, $350",
         "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
-        "description": "Article URL: https://www.adafruit.com/product/6125?src=raspberrypi Comments URL: https://news.ycombinator.com/item?id=48481857 Points: 76 # Comments: 85",
+        "description": "Article URL: https://www.adafruit.com/product/6125?src=raspberrypi Comments URL: https://news.ycombinator.com/item?id=48481857 Points: 121 # Comments: 143",
         "source": "HackerNews",
         "published": "2026-06-10T20:05:21+00:00"
       },
@@ -80,18 +108,18 @@
         "published": "2026-06-10T19:52:09+00:00"
       },
       {
-        "title": "The Abundance Illusion",
-        "link": "https://www.carlyle.com/carlyle-compass/the-abundance-illusion",
-        "description": "Article URL: https://www.carlyle.com/carlyle-compass/the-abundance-illusion Comments URL: https://news.ycombinator.com/item?id=48481524 Points: 50 # Comments: 22",
-        "source": "HackerNews",
-        "published": "2026-06-10T19:38:51+00:00"
-      },
-      {
         "title": "YouTube Music Arayüzü Değişiyor",
         "link": "https://shiftdelete.net/youtube-music-arayuzu-degisiyor-2",
         "description": "YouTube Music, arama özelliğini alt menü çubuğuna taşıyarak arayüzünü güncelledi. Yeni düzenleme Android ve iOS cihazlarda kullanıma sunuldu.",
         "source": "ShiftDelete",
         "published": "2026-06-10T19:30:00+00:00"
+      },
+      {
+        "title": "Framework delays its first Laptop 13 Pro shipments by a month",
+        "link": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+        "description": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not...",
+        "source": "The Verge",
+        "published": "2026-06-10T19:12:51-04:00"
       },
       {
         "title": "Farmer donates land for a park, city sells it for $10M as data center land",
@@ -110,16 +138,30 @@
       {
         "title": "πFS",
         "link": "https://github.com/philipl/pifs",
-        "description": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 200 # Comments: 57",
+        "description": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 410 # Comments: 103",
         "source": "HackerNews",
         "published": "2026-06-10T18:54:54+00:00"
       },
       {
-        "title": "Anthropic's Model Naming, Extrapolated",
+        "title": "Apple’s new Siri AI knows when to shut up",
+        "link": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+        "description": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery...",
+        "source": "The Verge",
+        "published": "2026-06-10T18:52:17-04:00"
+      },
+      {
+        "title": "Anthropic's model naming, extrapolated",
         "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-        "description": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated Comments URL: https://news.ycombinator.com/item?id=48480852 Points: 206 # Comments: 54",
+        "description": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated Comments URL: https://news.ycombinator.com/item?id=48480852 Points: 256 # Comments: 72",
         "source": "HackerNews",
         "published": "2026-06-10T18:45:20+00:00"
+      },
+      {
+        "title": "Policy on the AI Exponential",
+        "link": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+        "description": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 112 # Comments: 168",
+        "source": "HackerNews",
+        "published": "2026-06-10T18:36:04+00:00"
       },
       {
         "title": "Google’dan Devasa TPU Siparişi: Intel ile 2028 Planı",
@@ -127,6 +169,13 @@
         "description": "Google, 2028 yılı için 3 milyondan fazla TPU üretimi amacıyla Intel ile anlaştı. İşte çip üretimindeki yeni stratejik hamlenin detayları.",
         "source": "ShiftDelete",
         "published": "2026-06-10T18:30:00+00:00"
+      },
+      {
+        "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
+        "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+        "description": "Typing a few letters and numbers into my web browser, I find myself gaping at the identity documents of complete strangers. The passport of a young woman from Germany. The passport of a man from Spain with glasses resting on his head. The front and...",
+        "source": "The Verge",
+        "published": "2026-06-10T18:02:32-04:00"
       },
       {
         "title": "Windows 11'e \"Düşük Gecikme Profili\" Geliyor",
@@ -143,23 +192,16 @@
         "published": "2026-06-10T18:00:00+00:00"
       },
       {
-        "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
-        "link": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
-        "description": "https://gwern.net/doc/economics/automation/1989-david.pdf Comments URL: https://news.ycombinator.com/item?id=48479996 Points: 22 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-06-10T17:47:46+00:00"
-      },
-      {
-        "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-        "link": "https://www.matteast.io/spacex-escape-velocity.html",
-        "description": "Article URL: https://www.matteast.io/spacex-escape-velocity.html Comments URL: https://news.ycombinator.com/item?id=48479947 Points: 157 # Comments: 142",
-        "source": "HackerNews",
-        "published": "2026-06-10T17:44:59+00:00"
+        "title": "Xbox warns of a ‘reset’ as it prepares for layoffs",
+        "link": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+        "description": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard...",
+        "source": "The Verge",
+        "published": "2026-06-10T17:44:30-04:00"
       },
       {
         "title": "GeoLibre 1.0",
         "link": "https://geolibre.app/",
-        "description": "Article URL: https://geolibre.app/ Comments URL: https://news.ycombinator.com/item?id=48479852 Points: 68 # Comments: 5",
+        "description": "Article URL: https://geolibre.app/ Comments URL: https://news.ycombinator.com/item?id=48479852 Points: 120 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-06-10T17:39:47+00:00"
       },
@@ -187,7 +229,7 @@
       {
         "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
         "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-        "description": "Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science Comments URL: https://news.ycombinator.com/item?id=48479705 Points: 113 # Comments: 18",
+        "description": "Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science Comments URL: https://news.ycombinator.com/item?id=48479705 Points: 153 # Comments: 31",
         "source": "HackerNews",
         "published": "2026-06-10T17:30:48+00:00"
       },
@@ -197,13 +239,6 @@
         "description": "Spotify üzerindeki yapay zeka destekli sanatçı profilleri ve platformun bu süreçteki rolü hakkındaki tartışmaları ve gerçekleri inceledik.",
         "source": "ShiftDelete",
         "published": "2026-06-10T17:30:00+00:00"
-      },
-      {
-        "title": "Xbox warns of a ‘reset’ as it prepares for layoffs",
-        "link": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
-        "description": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard...",
-        "source": "The Verge",
-        "published": "2026-06-10T17:28:53-04:00"
       },
       {
         "title": "Apple, Google add support for Thread 1.4",
@@ -269,13 +304,6 @@
         "published": "2026-06-10T16:18:16-04:00"
       },
       {
-        "title": "How memory tools can make AI models worse",
-        "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-        "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "source": "TechCrunch",
-        "published": "2026-06-10T16:11:08+00:00"
-      },
-      {
         "title": "Gemini Çöktü mü? Gemini'de Yeni Sohbet Başlatılamıyor!",
         "link": "\n                    https://www.webtekno.com/gemini-coktu-mu-h218232.html\n                    ",
         "description": "Google'ın yapay zekâsı Gemini'de son bir saattir yeni bir sohbet başlatılamıyor. Peki Gemini çöktü mü?",
@@ -290,13 +318,6 @@
         "published": "2026-06-10T16:05:39+03:00"
       },
       {
-        "title": "Zest launches a restaurant discovery app powered by where people actually eat",
-        "link": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
-        "description": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
-        "source": "TechCrunch",
-        "published": "2026-06-10T15:53:07+00:00"
-      },
-      {
         "title": "Toyota, Elektrikli Otomobillere Manuel Şanzıman Getirecek!",
         "link": "\n                    https://www.webtekno.com/toyota-elektrikli-otomobil-manuzel-sanziman-h218200.html\n                    ",
         "description": "Toyota, elektrikli otomobillere manuel şanzıman getirecek bir sistem geliştiriyor.",
@@ -309,13 +330,6 @@
         "description": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high...",
         "source": "The Verge",
         "published": "2026-06-10T15:02:08-04:00"
-      },
-      {
-        "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-        "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-        "description": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data...",
-        "source": "The Verge",
-        "published": "2026-06-10T14:58:05-04:00"
       },
       {
         "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
@@ -337,29 +351,36 @@
         "description": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs...",
         "source": "The Verge",
         "published": "2026-06-10T13:26:56-04:00"
-      },
-      {
-        "title": "You can just tell the Instagram algorithm what you want now",
-        "link": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
-        "description": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to...",
-        "source": "The Verge",
-        "published": "2026-06-10T13:06:10-04:00"
-      },
-      {
-        "title": "Amazon’s Echo speakers can now help kids wind down and fall asleep",
-        "link": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
-        "description": "Amazon has launched a new feature for its Echo and Echo Kids smart speakers called Sleep Studio that's designed to make the daily transition to bedtime more enticing for kids and less stressful for parents and caregivers. The feature uses a...",
-        "source": "The Verge",
-        "published": "2026-06-10T12:54:17-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Trump says US will hit Iran 'hard' again today",
-        "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+        "title": "Iran says it struck ships in Strait of Hormuz after US launches new strikes",
+        "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+        "description": "US Central Command said its latest airstrikes were responding to \"unwarranted and continued aggression\" from Iran.",
         "source": "BBC News",
-        "published": "2026-06-10T21:32:58+00:00"
+        "published": "2026-06-10T23:23:20+00:00"
+      },
+      {
+        "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+        "link": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+        "description": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
+        "source": "BBC News",
+        "published": "2026-06-10T23:04:46+00:00"
+      },
+      {
+        "title": "Water cannon fired in latest disorder after Belfast knife attack",
+        "link": "https://www.bbc.com/news/articles/c1dypzw1d29o?at_medium=RSS&at_campaign=rss",
+        "description": "Riot police came under sustained attack from a group throwing bricks, bottles and pieces of wood at a major roundabout to the north-west of Belfast.",
+        "source": "BBC News",
+        "published": "2026-06-10T23:02:57+00:00"
+      },
+      {
+        "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+        "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+        "description": "Pope Leo XIV says Barcelona's iconic Sagrada Família is a masterpiece of \"stones, colours and light\" during his visit to Spain.",
+        "source": "BBC News",
+        "published": "2026-06-10T21:52:09+00:00"
       },
       {
         "title": "Changing visa rules for care workers is wrong, says Rayner",
@@ -369,18 +390,25 @@
         "published": "2026-06-10T20:47:55+00:00"
       },
       {
-        "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
-        "link": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
-        "description": "The Microsoft co-founder spent hours talking to lawmakers behind closed doors, where he also said Epstein used his marital infidelities to pressure him.",
-        "source": "BBC News",
-        "published": "2026-06-10T19:31:24+00:00"
-      },
-      {
         "title": "Essex Police given new information on West Ham co-owner David Sullivan",
         "link": "https://www.bbc.com/news/articles/c802l191rd3o?at_medium=RSS&at_campaign=rss",
         "description": "Police have been contacted with new information about the West Ham co-owner following a BBC Panorama and Times investigation.",
         "source": "BBC News",
         "published": "2026-06-10T19:19:54+00:00"
+      },
+      {
+        "title": "FBI seizing evidence at California plant where chemical tank overheated",
+        "link": "https://www.npr.org/2026/06/10/g-s1-127381/fbi-garden-grove-chemical-tank-evacuations",
+        "description": "Federal authorities served a search warrant on Wednesday at a Southern California aerospace facility where a chemical tank overheated last month, forcing 50,000 residents to evacuate because authorities feared an explosion.",
+        "source": "NPR",
+        "published": "2026-06-10T19:05:01-04:00"
+      },
+      {
+        "title": "U.S. military says it's striking 'multiple targets' in Iran in 2nd day of renewed fire",
+        "link": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
+        "description": "The escalating attacks threatened to derail efforts to end the war, with President Trump warning that Tehran would \"pay the price\" for stalled negotiations.",
+        "source": "NPR",
+        "published": "2026-06-10T18:46:56-04:00"
       },
       {
         "title": "Whale graveyard dating back five million years discovered",
@@ -390,18 +418,18 @@
         "published": "2026-06-10T18:24:09+00:00"
       },
       {
-        "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
-        "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
-        "description": "A night of disorder in Belfast saw people forced to flee their homes, in protests that followed a knife attack in the north of the city.",
-        "source": "BBC News",
-        "published": "2026-06-10T18:20:54+00:00"
-      },
-      {
         "title": "Vets advise ban on over the counter flea treatment for pets",
         "link": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&at_campaign=rss",
         "description": "Pet owners have historically been advised they should treat cats and dogs as a preventative measure every month.",
         "source": "BBC News",
         "published": "2026-06-10T17:06:00+00:00"
+      },
+      {
+        "title": "Somali World Cup referee denied U.S. entry, hailed as hero at home",
+        "link": "https://www.npr.org/2026/06/10/nx-s1-5853075/somali-world-cup-referee-denied-u-s-entry-hailed-as-hero-at-home",
+        "description": "A World Cup dream denied — Somali referee Omar Artan receives a hero's welcome at home after being blocked from entering the United States and taking part in the World Cup.",
+        "source": "NPR",
+        "published": "2026-06-10T16:45:58-04:00"
       },
       {
         "title": "Stokes out of England squad, Root named captain",
@@ -460,13 +488,6 @@
         "published": "2026-06-10T13:00:20+00:00"
       },
       {
-        "title": "Ukraine says missiles hit military plant deep inside Russia",
-        "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
-        "source": "BBC News",
-        "published": "2026-06-10T11:43:40+00:00"
-      },
-      {
         "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
         "link": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
         "description": "The drill on Wednesday marked the first time the U.S.-supplied HIMARS system has been fired into the Taiwan Strait.",
@@ -502,32 +523,11 @@
         "published": "2026-06-10T07:26:08-04:00"
       },
       {
-        "title": "China re‑centers North Korea ties as nuclear silence reshapes balance",
-        "link": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
-        "description": "Xi's silence on North Korea's nuclear program came as Kim tried to convince the world of the irreversibility of his country's status as a nuclear power.",
-        "source": "NPR",
-        "published": "2026-06-10T06:30:00-04:00"
-      },
-      {
-        "title": "ICE denies having a protester database. But a letter to Congress sheds more light",
-        "link": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
-        "description": "In a previously unpublicized letter to Congress, the newly-departed head of ICE said the agency collects data on people suspected of potentially unlawful activity, which could include protesters.",
-        "source": "NPR",
-        "published": "2026-06-10T06:00:00-04:00"
-      },
-      {
         "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
         "link": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
         "description": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced minerals linked to...",
         "source": "The Guardian",
         "published": "2026-06-10T05:00:11+00:00"
-      },
-      {
-        "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
-        "link": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
-        "description": "The main San Francisco court was one of the busiest in the country, hearing thousands of cases a year. It was also one of the courts most likely to grant an immigrants' asylum application.",
-        "source": "NPR",
-        "published": "2026-06-10T05:00:00-04:00"
       },
       {
         "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
@@ -567,25 +567,67 @@
     ],
     "turkiye": [
       {
-        "title": "2026 Dünya Kupası öncesi Infantino’ya zor sorular! FIFA Başkanı ABD’nin skandallarını savunamadı",
-        "link": "https://www.sozcu.com.tr/2026-dunya-kupasi-oncesi-infantino-ya-zor-sorular-fifa-baskani-abd-nin-skandallarini-savunamadi-p326918",
-        "description": "2026 Dünya Kupası öncesi Infantino’ya zor sorular! FIFA Başkanı ABD’nin skandallarını savunamadı",
+        "title": "Uzmanlar günün son kahvesi için ideal saati açıkladı",
+        "link": "https://www.sozcu.com.tr/uzmanlar-gunun-son-kahvesi-icin-ideal-saati-acikladi-p326926",
+        "description": "Uzmanlar günün son kahvesi için ideal saati açıkladı",
         "source": "Sözcü",
-        "published": "2026-06-11T00:30:19+03:00"
+        "published": "2026-06-11T02:05:31+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Haziran 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-haziran-2026-1728079",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-11T00:30:00+03:00"
+        "published": "2026-06-11T02:00:00+03:00"
       },
       {
-        "title": "Son dakika... ABD Savunma Bakanı Hegseth: Bu gece İran’ı vuracağız",
+        "title": "Son dakika... CENTCOM: İran'da hedefleri vuruyoruz",
         "link": "https://www.sozcu.com.tr/son-dakika-abd-savunma-bakani-hegseth-bu-gece-iran-i-vuracagiz-p326917",
-        "description": "Son dakika... ABD Savunma Bakanı Hegseth: Bu gece İran’ı vuracağız",
+        "description": "Son dakika... CENTCOM: İran'da hedefleri vuruyoruz",
         "source": "Sözcü",
-        "published": "2026-06-11T00:29:10+03:00"
+        "published": "2026-06-11T01:54:14+03:00"
+      },
+      {
+        "title": "Türkiye: Orta Doğu'da barış küresel bir zorunluluk",
+        "link": "https://www.ntv.com.tr/turkiye/turkiye-orta-doguda-baris-kuresel-bir-zorunluluk-1728082",
+        "description": "Türkiye'nin Birleşmiş Milletler (BM) Daimi Temsilci Yardımcısı Aslı Güven, Orta Doğu'daki \"istikrarsız\" gidişata vurgu yaparak, bölge barışının sağlanmasının \"küresel bir zorunluluk\" olduğuna işaret etti.",
+        "source": "NTV",
+        "published": "2026-06-11T01:47:23+03:00"
+      },
+      {
+        "title": "Kısmetse Olur Eftelya'nın 'Ankara' sözleri sosyal medyada olay yarattı",
+        "link": "https://www.sozcu.com.tr/kismetse-olur-eftelya-nin-ankara-sozleri-sosyal-medyada-olay-yaratti-p326923",
+        "description": "Kısmetse Olur Eftelya'nın 'Ankara' sözleri sosyal medyada olay yarattı",
+        "source": "Sözcü",
+        "published": "2026-06-11T01:43:28+03:00"
+      },
+      {
+        "title": "Yargıtay ve Danıştaya seçilen yeni üyelere ilişkin kararlar Resmi Gazete'de",
+        "link": "https://www.ntv.com.tr/turkiye/yargitay-ve-danistaya-secilen-yeni-uyelere-iliskin-kararlar-resmi-gazetede-1728080",
+        "description": "Yargıtay ve Danıştaya seçilen yeni üyelere ilişkin kararlar, Resmi Gazete'de yayımlandı. Yargıtay Üyeliğine Ankara Cumhuriyet Başsavcısı Gökhan Karaköse seçildi.",
+        "source": "NTV",
+        "published": "2026-06-11T01:19:20+03:00"
+      },
+      {
+        "title": "Ölen babasının telefonuna dört yıl boyunca mesaj attı, yıllar sonra beklenmedik bir cevap aldı",
+        "link": "https://www.sozcu.com.tr/olen-babasinin-telefonuna-dort-yil-boyunca-mesaj-atti-yillar-sonra-beklenmedik-bir-cevap-aldi-p326920",
+        "description": "Ölen babasının telefonuna dört yıl boyunca mesaj attı, yıllar sonra beklenmedik bir cevap aldı",
+        "source": "Sözcü",
+        "published": "2026-06-11T01:05:24+03:00"
+      },
+      {
+        "title": "333 metrelik dev denizlere açıldı: Tek seferde 2 milyon varil petrol taşıyabiliyor",
+        "link": "https://www.sozcu.com.tr/333-metrelik-dev-denizlere-acildi-tek-seferde-2-milyon-varil-petrol-tasiyabiliyor-p326919",
+        "description": "333 metrelik dev denizlere açıldı: Tek seferde 2 milyon varil petrol taşıyabiliyor",
+        "source": "Sözcü",
+        "published": "2026-06-11T00:42:21+03:00"
+      },
+      {
+        "title": "2026 Dünya Kupası öncesi Infantino’ya zor sorular! FIFA Başkanı ABD’nin skandallarını savunamadı",
+        "link": "https://www.sozcu.com.tr/2026-dunya-kupasi-oncesi-infantino-ya-zor-sorular-fifa-baskani-abd-nin-skandallarini-savunamadi-p326918",
+        "description": "2026 Dünya Kupası öncesi Infantino’ya zor sorular! FIFA Başkanı ABD’nin skandallarını savunamadı",
+        "source": "Sözcü",
+        "published": "2026-06-11T00:30:19+03:00"
       },
       {
         "title": "Gramı 10 bin dolar: Bu ağacın geçirdiği enfeksiyon servet değerinde bir maddeye dönüşüyor",
@@ -616,32 +658,11 @@
         "published": "2026-06-10T23:45:16+03:00"
       },
       {
-        "title": "Muharrem İnce'den ihraç taleplerine tepki",
-        "link": "https://www.sozcu.com.tr/muharrem-ince-den-ihrac-taleplerine-tepki-p326904",
-        "description": "Muharrem İnce'den ihraç taleplerine tepki",
-        "source": "Sözcü",
-        "published": "2026-06-10T23:35:47+03:00"
-      },
-      {
-        "title": "İş makineleri gitti doğa geri döndü: Terk edilmiş maden sahasında hayat yeniden başladı",
-        "link": "https://www.sozcu.com.tr/is-makineleri-gitti-doga-geri-dondu-terk-edilmis-maden-sahasinda-hayat-yeniden-basladi-p326903",
-        "description": "İş makineleri gitti doğa geri döndü: Terk edilmiş maden sahasında hayat yeniden başladı",
-        "source": "Sözcü",
-        "published": "2026-06-10T23:33:20+03:00"
-      },
-      {
-        "title": "GStatil'in tanıtımı, Dursun Özbek'in katılımıyla yapıldı",
-        "link": "https://www.sozcu.com.tr/gstatil-in-tanitimi-dursun-ozbek-in-katilimiyla-yapildi-p326900",
-        "description": "GStatil'in tanıtımı, Dursun Özbek'in katılımıyla yapıldı",
-        "source": "Sözcü",
-        "published": "2026-06-10T23:13:57+03:00"
-      },
-      {
-        "title": "Nehir tamamen kuruyup yok olmuştu: Binlerce köylü elleriyle mucizeyi gerçekleştirdi",
-        "link": "https://www.sozcu.com.tr/nehir-tamamen-kuruyup-yok-olmustu-binlerce-koylu-elleriyle-mucizeyi-gerceklestirdi-p326899",
-        "description": "Nehir tamamen kuruyup yok olmuştu: Binlerce köylü elleriyle mucizeyi gerçekleştirdi",
-        "source": "Sözcü",
-        "published": "2026-06-10T23:10:56+03:00"
+        "title": "ABD'nin yeni saldırıları sonrası İran Hürmüz Boğazı'nı tüm geçişlere kapattığını duyurdu",
+        "link": "https://www.bbc.com/turkce/articles/cq5127ej4dno?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Başkanı Donald Trump'ın İran'a yönelik \"sert bir saldırı\" yapacaklarını söylemesinin ardından ABD ordusu İran'daki bazı hedeflere saldırı başlattıklarını açıkladı. İran ordusu ise Hürmüz Boğazı'nı tüm gemi geçişlerine kapattıklarını duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-06-10T22:59:03+00:00"
       },
       {
         "title": "Onlyfans davasında 27 şüpheliye 10'ar yıl hapis talebi",
@@ -698,27 +719,6 @@
         "description": "CHP'de mahkeme kararıyla genel başkanlık görevine geri getirilen Kemal Kılıçdaroğlu'nun topladığı Merkez Yönetim Kurulu (MYK) toplantısında Özgür Özel'e yakın dokuz milletvekili tedbirli olarak kesin ihraç talebiyle Yüksek Disiplin Kurulu'na sevk...",
         "source": "BBC Turkish",
         "published": "2026-06-10T18:37:31+00:00"
-      },
-      {
-        "title": "Trump, ABD'nin bugün İran'ı tekrar 'sert' şekilde vuracağını söyledi",
-        "link": "https://www.bbc.com/turkce/articles/cq5127ej4dno?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Başkanı Donald Trump, 10 Haziran'da İran'a yönelik \"sert bir saldırı\" yapacağını söyledi.",
-        "source": "BBC Turkish",
-        "published": "2026-06-10T17:52:39+00:00"
-      },
-      {
-        "title": "Van'da faciadan dönüldü! Caddede yürüyenler son anda kurtuldu",
-        "link": "https://www.ntv.com.tr/turkiye/video-vanda-faciadan-donuldu-caddede-yuruyenler-son-anda-kurtuldu-1728065",
-        "description": "Van'ın en işlek noktalarından Cumhuriyet Caddesi'nde, bir binanın dış cephesinden kopan beton parçalarının caddeye düşmesi paniğe neden oldu. Olay sırasında yoldan geçen bazı vatandaşlar, beton parçalarından saniyelerle kurtuldu.",
-        "source": "NTV",
-        "published": "2026-06-10T16:52:55+03:00"
-      },
-      {
-        "title": "Eski Tarsus Belediye Başkanı Haluk Bozdoğan'a 60 yıl hapis cezası",
-        "link": "https://www.ntv.com.tr/turkiye/eski-tarsus-belediye-baskani-haluk-bozdogana-60-yil-hapis-cezasi-1728062",
-        "description": "Eski Tarsus Belediye Başkanı Haluk Bozdoğan ve iki sanık, nitelikli dolandırıcılık suçundan 60 yıl hapis cezasına çarptırıldı. Sanıkların tutuklanmalarına karar verildi.",
-        "source": "NTV",
-        "published": "2026-06-10T16:51:31+03:00"
       },
       {
         "title": "Dışişleri Bakanlığı'ndan Netanyahu'nun Erdoğan açıklamalarına tepki",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Parçalı bulutlu",
-    "temp": "+84°F",
-    "wind": "↗16mph",
-    "humidity": "67%"
+    "temp": "+93°F",
+    "wind": "↗10mph",
+    "humidity": "49%"
   }
 }
