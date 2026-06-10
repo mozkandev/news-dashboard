@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T22:58:07.751813+00:00",
+  "updated_at": "2026-06-10T00:20:57.019987+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -10,30 +10,58 @@
         "published": "2026-06-10T00:52:38+03:00"
       },
       {
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+        "description": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "source": "TechCrunch",
+        "published": "2026-06-09T23:17:51+00:00"
+      },
+      {
+        "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+        "link": "https://github.com/sig-id/nucleus",
+        "description": "Article URL: https://github.com/sig-id/nucleus Comments URL: https://news.ycombinator.com/item?id=48469039 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-09T23:03:40+00:00"
+      },
+      {
+        "title": "AI misidentification results in wrongful arrest; man seeks justice",
+        "link": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+        "description": "Article URL: https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/ Comments URL: https://news.ycombinator.com/item?id=48468789 Points: 31 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-06-09T22:37:49+00:00"
+      },
+      {
+        "title": "RIP software hackathons. Long live the hardware hackathon",
+        "link": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+        "description": "Article URL: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/ Comments URL: https://news.ycombinator.com/item?id=48468766 Points: 20 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-06-09T22:35:57+00:00"
+      },
+      {
         "title": "If Claude Fable stops helping you, you'll never know",
         "link": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-        "description": "Article URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html Comments URL: https://news.ycombinator.com/item?id=48467896 Points: 167 # Comments: 71",
+        "description": "Article URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html Comments URL: https://news.ycombinator.com/item?id=48467896 Points: 357 # Comments: 155",
         "source": "HackerNews",
         "published": "2026-06-09T21:19:11+00:00"
       },
       {
         "title": "Exif Smuggling",
         "link": "https://github.com/signalblur/exifsmugglingpoc",
-        "description": "Article URL: https://github.com/signalblur/exifsmugglingpoc Comments URL: https://news.ycombinator.com/item?id=48467759 Points: 29 # Comments: 13",
+        "description": "Article URL: https://github.com/signalblur/exifsmugglingpoc Comments URL: https://news.ycombinator.com/item?id=48467759 Points: 44 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-06-09T21:06:00+00:00"
       },
       {
         "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
         "link": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
-        "description": "Article URL: https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/ Comments URL: https://news.ycombinator.com/item?id=48467712 Points: 47 # Comments: 13",
+        "description": "Article URL: https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/ Comments URL: https://news.ycombinator.com/item?id=48467712 Points: 77 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-06-09T21:01:40+00:00"
       },
       {
         "title": "Upcoming breaking changes for NPM v12",
         "link": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-        "description": "Article URL: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/ Comments URL: https://news.ycombinator.com/item?id=48467705 Points: 71 # Comments: 20",
+        "description": "Article URL: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/ Comments URL: https://news.ycombinator.com/item?id=48467705 Points: 150 # Comments: 44",
         "source": "HackerNews",
         "published": "2026-06-09T21:01:00+00:00"
       },
@@ -50,13 +78,6 @@
         "description": "Anthropic, Mythos seviyesinde performans sunan yeni yapay zeka modeli Claude Fable 5'i kullanıma sundu. İşte modelin öne çıkan özellikleri.",
         "source": "ShiftDelete",
         "published": "2026-06-09T21:00:00+00:00"
-      },
-      {
-        "title": "Alpine Linux 3.24.0 Released",
-        "link": "https://alpinelinux.org/posts/Alpine-3.24.0-released.html",
-        "description": "Article URL: https://alpinelinux.org/posts/Alpine-3.24.0-released.html Comments URL: https://news.ycombinator.com/item?id=48467570 Points: 86 # Comments: 17",
-        "source": "HackerNews",
-        "published": "2026-06-09T20:50:54+00:00"
       },
       {
         "title": "Hey, Siri, here’s what I actually want from AI",
@@ -82,14 +103,28 @@
       {
         "title": "Grit: Rewriting Git in Rust with Agents",
         "link": "https://blog.gitbutler.com/true-grit",
-        "description": "Article URL: https://blog.gitbutler.com/true-grit Comments URL: https://news.ycombinator.com/item?id=48466812 Points: 34 # Comments: 9",
+        "description": "Article URL: https://blog.gitbutler.com/true-grit Comments URL: https://news.ycombinator.com/item?id=48466812 Points: 59 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-06-09T19:58:21+00:00"
       },
       {
+        "title": "I tried Siri AI, and so far it actually works",
+        "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+        "description": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri...",
+        "source": "The Verge",
+        "published": "2026-06-09T19:33:14-04:00"
+      },
+      {
+        "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+        "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+        "description": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be...",
+        "source": "The Verge",
+        "published": "2026-06-09T19:33:01-04:00"
+      },
+      {
         "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
         "link": "https://aarushgupta.io/posts/kan-fpga/",
-        "description": "https://web.archive.org/web/20260609200156/https://aarushgup... Comments URL: https://news.ycombinator.com/item?id=48466277 Points: 117 # Comments: 14",
+        "description": "https://web.archive.org/web/20260609200156/https://aarushgup... Comments URL: https://news.ycombinator.com/item?id=48466277 Points: 141 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-06-09T19:21:45+00:00"
       },
@@ -99,6 +134,13 @@
         "description": "TCL 2026 SQD-Mini LED TV serisi, C8L, C7L ve Q7D Pro modelleriyle Türkiye’de tanıtıldı. İşte yeni televizyonların özellikleri.",
         "source": "Webtekno",
         "published": "2026-06-09T19:20:35+03:00"
+      },
+      {
+        "title": "Congress just gave DHS another $70 billion",
+        "link": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
+        "description": "Congress narrowly voted to fund President Donald Trump's mass deportation agenda, giving the Department of Homeland Security $70 billion over the next three years. The house voted 214 to 212 in favor of the reconciliation bill Tuesday, following the...",
+        "source": "The Verge",
+        "published": "2026-06-09T19:12:54-04:00"
       },
       {
         "title": "ABD Savunma Bakanlığı; BYD, Alibaba ve Unitree'yi \"Çin Askerî Şirketi\" İlan Etti",
@@ -124,16 +166,9 @@
       {
         "title": "Ask HN: Are you still using a Vision Pro?",
         "link": "https://news.ycombinator.com/item?id=48465702",
-        "description": "Almost two years ago there was a thread on this (https://news.ycombinator.com/item?id=40872102). I'm curious now that more time has passed what people think? Comments URL: https://news.ycombinator.com/item?id=48465702 Points: 104 # Comments: 128",
+        "description": "Almost two years ago there was a thread on this (https://news.ycombinator.com/item?id=40872102). I'm curious now that more time has passed what people think? Comments URL: https://news.ycombinator.com/item?id=48465702 Points: 121 # Comments: 148",
         "source": "HackerNews",
         "published": "2026-06-09T18:47:52+00:00"
-      },
-      {
-        "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-        "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-        "description": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 266 # Comments: 117",
-        "source": "HackerNews",
-        "published": "2026-06-09T18:45:59+00:00"
       },
       {
         "title": "Düzenli Kontrol Bile RTX 5090 Kablosunun Erimesini Engelleyemedi",
@@ -157,13 +192,6 @@
         "published": "2026-06-09T18:00:00+00:00"
       },
       {
-        "title": "Congress just gave DHS another $70 billion",
-        "link": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
-        "description": "Congress narrowly voted to fund President Donald Trump's mass deportation agenda, giving the Department of Homeland Security $70 billion over the next three years. The house voted 214 to 212 in favor of the reconciliation bill Tuesday, following the...",
-        "source": "The Verge",
-        "published": "2026-06-09T17:56:52-04:00"
-      },
-      {
         "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
         "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
         "description": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
@@ -183,13 +211,6 @@
         "description": "Xbox, 2025'teki Game Pass zamları sonrası milyonlarca abone kaybettiğini açıkladı. Yeni CEO Asha Sharma ile fiyatlar yeniden düzenlendi.",
         "source": "ShiftDelete",
         "published": "2026-06-09T17:30:00+00:00"
-      },
-      {
-        "title": "The LD_DEBUG environment variable (2012)",
-        "link": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
-        "description": "Article URL: https://bnikolic.co.uk/blog/linux-ld-debug.html Comments URL: https://news.ycombinator.com/item?id=48464330 Points: 50 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-06-09T17:29:05+00:00"
       },
       {
         "title": "Apple wants Europe to blink",
@@ -239,13 +260,6 @@
         "description": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
         "source": "TechCrunch",
         "published": "2026-06-09T16:22:56+00:00"
-      },
-      {
-        "title": "It’s not FAANG anymore. It’s MANGOS.",
-        "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-        "description": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-        "source": "TechCrunch",
-        "published": "2026-06-09T16:09:14+00:00"
       },
       {
         "title": "Steam Mermi Festivali İndirimleri Başladı (Büyük İndirimler Var)",
@@ -304,13 +318,6 @@
         "published": "2026-06-09T15:01:04-04:00"
       },
       {
-        "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-        "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-        "description": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be...",
-        "source": "The Verge",
-        "published": "2026-06-09T14:44:18-04:00"
-      },
-      {
         "title": "Dünyanın İlk Rüzgâr Enerjisiyle Çalışan Su Altı Veri Merkezi Açıldı",
         "link": "\n                    https://www.webtekno.com/ruzgar-enerjisiyle-calisan-su-alti-veri-merkezi-h218163.html\n                    ",
         "description": "Çin'de dünyanın ilk rüzgâr enerjili su altı yapay zekâ veri merkezi faaliyete başladı.",
@@ -344,16 +351,37 @@
         "description": "We’re only a few days since the SwitchBot Smart E Ink Weather Station launched, and you can already save $25 on the smart home gadget. Visit Amazon and clip the on-page coupon to bring the price down to $85 at checkout, or use coupon code APAP23 on...",
         "source": "The Verge",
         "published": "2026-06-09T12:55:54-04:00"
-      },
-      {
-        "title": "Apple is embracing the fantasy of AI photo editing",
-        "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
-        "description": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company...",
-        "source": "The Verge",
-        "published": "2026-06-09T12:13:14-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Hidden homeless women are being missed from official figures, charities warn",
+        "link": "https://www.bbc.com/news/articles/c1jydj76pzno?at_medium=RSS&at_campaign=rss",
+        "description": "Two thirds of the women counted in a charity-led census would not have been recorded using the government method.",
+        "source": "BBC News",
+        "published": "2026-06-10T00:07:31+00:00"
+      },
+      {
+        "title": "Advanced radiotherapy for prostate cancer to cut sessions from 20 to five",
+        "link": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&at_campaign=rss",
+        "description": "Some men in England with the disease will now be offered an advanced form of treatment on the NHS.",
+        "source": "BBC News",
+        "published": "2026-06-09T23:57:30+00:00"
+      },
+      {
+        "title": "Disorder breaks out in Belfast after man charged with knife attack",
+        "link": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss",
+        "description": "Police and political leaders call for calm after disorder breaks out in parts of Northern Ireland.",
+        "source": "BBC News",
+        "published": "2026-06-09T23:37:17+00:00"
+      },
+      {
+        "title": "Bill debt soars but many don't know help is available",
+        "link": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
+        "description": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
+        "source": "BBC News",
+        "published": "2026-06-09T23:03:32+00:00"
+      },
       {
         "title": "David Sullivan banned from contact with West Ham women's and youth teams since 2023",
         "link": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
@@ -383,11 +411,11 @@
         "published": "2026-06-09T20:14:12+00:00"
       },
       {
-        "title": "Serena Williams rolls back the years on return at Queen's",
-        "link": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
-        "description": "Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.",
-        "source": "BBC News",
-        "published": "2026-06-09T20:13:18+00:00"
+        "title": "House approves labor-friendly bill with support from 20 Republicans",
+        "link": "https://www.npr.org/2026/06/09/nx-s1-5851813/house-bill-labor-union-contract-negotiations",
+        "description": "The House has approved a bill to slash the time it takes for newly unionized workers to get a first contract. The measure allows for government intervention if a deal is not reached within 90 days.",
+        "source": "NPR",
+        "published": "2026-06-09T19:10:59-04:00"
       },
       {
         "title": "Three judges, three scandals and new scrutiny of judicial accountability",
@@ -402,13 +430,6 @@
         "description": "Fifa has said it is working to \"maximise opportunities for Iranian supporters to attend matches\" after the country's World Cup group-stage ticket allocation was revoked just days before the tournament.",
         "source": "BBC News",
         "published": "2026-06-09T17:50:37+00:00"
-      },
-      {
-        "title": "Nasa names next astronauts for Artemis Moon programme",
-        "link": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
-        "description": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
-        "source": "BBC News",
-        "published": "2026-06-09T17:46:55+00:00"
       },
       {
         "title": "Men jailed for violence at Henry Nowak police protest",
@@ -437,20 +458,6 @@
         "description": "Geoffrey Wall is alleged to have flown over 900 flights domestically and internationally between 2009 and 2025 A former Air Canada pilot has been charged after flying for years without a proper license, Canadian police have said. Geoffrey Wall, of...",
         "source": "The Guardian",
         "published": "2026-06-09T17:10:30+00:00"
-      },
-      {
-        "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
-        "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
-        "description": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.",
-        "source": "BBC News",
-        "published": "2026-06-09T16:45:12+00:00"
-      },
-      {
-        "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
-        "link": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
-        "description": "The demonstration, in the western city of Herat, was broken up after police are alleged to have opened fire.",
-        "source": "BBC News",
-        "published": "2026-06-09T16:44:23+00:00"
       },
       {
         "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
@@ -509,13 +516,6 @@
         "published": "2026-06-09T12:53:28-04:00"
       },
       {
-        "title": "Are we ready for the World Cup, the NBA Finals and Trump's UFC match, all in one week?",
-        "link": "https://www.npr.org/2026/06/09/nx-s1-5851593/are-we-ready-to-host-the-fifa-world-cup-and-who-can-afford-to-go",
-        "description": "The biggest World Cup ever starts this week. Laura Williamson, editor in chief of The Athletic, describes how sky-high prices, travel restrictions, politics and the Ebola outbreak are impacting fans.",
-        "source": "NPR",
-        "published": "2026-06-09T12:36:37-04:00"
-      },
-      {
         "title": "The criminal cartels cashing in on the World Cup – podcast",
         "link": "https://www.theguardian.com/news/audio/2026/jun/09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast",
         "description": "Football fans are celebrating the tournament coming to Guadalajara. But with a brutal crime syndicate holding sway there, what are the risks for fans – and the government? Excitement is mounting in Mexico as the World Cup opens in Mexico City, then...",
@@ -567,6 +567,34 @@
     ],
     "turkiye": [
       {
+        "title": "Kürsü ısrarı ters tepti! Kılıçdaroğlu'nu korkutan ihtimal",
+        "link": "https://www.sozcu.com.tr/kursu-israri-ters-tepti-kilicdaroglu-nu-korkutan-ihtimal-p326613",
+        "description": "Kürsü ısrarı ters tepti! Kılıçdaroğlu'nu korkutan ihtimal",
+        "source": "Sözcü",
+        "published": "2026-06-10T03:05:49+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-haziran-2026-1727924",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-06-10T03:00:00+03:00"
+      },
+      {
+        "title": "Uzmanlar yoğurt tüketmek için en uygun zamanı açıkladı",
+        "link": "https://www.sozcu.com.tr/uzmanlar-yogurt-tuketmek-icin-en-uygun-zamani-acikladi-p326616",
+        "description": "Uzmanlar yoğurt tüketmek için en uygun zamanı açıkladı",
+        "source": "Sözcü",
+        "published": "2026-06-10T02:34:45+03:00"
+      },
+      {
+        "title": "Tarihi belgelerde vardı, yeri bilinmiyordu: Rüzgar türbinleri için yapılan kazıda ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/tarihi-belgelerde-vardi-yeri-bilinmiyordu-ruzgar-turbinleri-icin-yapilan-kazida-ortaya-cikti-p326614",
+        "description": "Tarihi belgelerde vardı, yeri bilinmiyordu: Rüzgar türbinleri için yapılan kazıda ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-06-10T02:05:46+03:00"
+      },
+      {
         "title": "Astrologlar tek tek açıkladı: Haziran bitmeden para konusunda yüzü gülecek burçlar belli oldu",
         "link": "https://www.sozcu.com.tr/haziran-bitmeden-para-konusunda-yuzu-gulecek-burclar-belli-oldu-p326612",
         "description": "Astrologlar tek tek açıkladı: Haziran bitmeden para konusunda yüzü gülecek burçlar belli oldu",
@@ -581,13 +609,6 @@
         "published": "2026-06-10T01:32:14+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-haziran-2026-1727924",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-06-10T01:30:00+03:00"
-      },
-      {
         "title": "Murat Karayalçın'dan çarpıcı 'erken seçim' çıkışı: Planı böyle ifşa etti...",
         "link": "https://www.sozcu.com.tr/murat-karayalcin-sozcu-tv-konustu-9-haziran-2026-p326610",
         "description": "Murat Karayalçın'dan çarpıcı 'erken seçim' çıkışı: Planı böyle ifşa etti...",
@@ -600,13 +621,6 @@
         "description": "Zonguldak'ta direksiyon hakimiyetini kaybeden otomobilin taklalar atarak orta refüjü aşıp karşı şeride geçmesi sonucu meydana gelen trafik kazasında, 19 yaşındaki sürücü ağır yaralandı.",
         "source": "NTV",
         "published": "2026-06-10T01:17:31+03:00"
-      },
-      {
-        "title": "Ne vakum kullanıyor ne de ağ atıyor: Deniz temizliğinde yeni dönem başladı",
-        "link": "https://www.sozcu.com.tr/ne-vakum-kullaniyor-ne-de-ag-atiyor-deniz-temizliginde-yeni-donem-basladi-p326600",
-        "description": "Ne vakum kullanıyor ne de ağ atıyor: Deniz temizliğinde yeni dönem başladı",
-        "source": "Sözcü",
-        "published": "2026-06-10T01:11:08+03:00"
       },
       {
         "title": "Bilim insanları kanserin zayıf noktasını bulmuş olabilir",
@@ -642,20 +656,6 @@
         "description": "Mourinho resmen Real Madrid’de! 13 yıl sonra geri döndü",
         "source": "Sözcü",
         "published": "2026-06-10T00:27:52+03:00"
-      },
-      {
-        "title": "Manisa’da feci kaza! İki TIR kafa kafaya çarpıştı",
-        "link": "https://www.sozcu.com.tr/manisa-da-feci-kaza-iki-tir-kafa-kafaya-carpisti-p326598",
-        "description": "Manisa’da feci kaza! İki TIR kafa kafaya çarpıştı",
-        "source": "Sözcü",
-        "published": "2026-06-10T00:08:22+03:00"
-      },
-      {
-        "title": "Hırsızlık duruşmasına gidiyordu, yolda yeniden hırsızlık yaparken yakalandı",
-        "link": "https://www.sozcu.com.tr/hirsizlik-durusmasina-gidiyordu-yolda-yeniden-hirsizlik-yaparken-yakalandi-p326593",
-        "description": "Hırsızlık duruşmasına gidiyordu, yolda yeniden hırsızlık yaparken yakalandı",
-        "source": "Sözcü",
-        "published": "2026-06-09T23:38:42+03:00"
       },
       {
         "title": "ABD, bir helikopterini düşürmekle suçladığı İran'a misilleme saldırıları başlattı",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+83°F",
-    "wind": "↗5mph",
-    "humidity": "62%"
+    "temp": "+101°F",
+    "wind": "→13mph",
+    "humidity": "6%"
   }
 }
