@@ -1,13 +1,55 @@
 {
-  "updated_at": "2026-06-11T21:34:41.988576+00:00",
+  "updated_at": "2026-06-11T23:22:10.950560+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "OpenAI Prepping for On-Prem Product?",
+        "link": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
+        "description": "Article URL: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/ Comments URL: https://news.ycombinator.com/item?id=48497260 Points: 6 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-06-11T22:28:01+00:00"
+      },
+      {
+        "title": "The unreasonable effectiveness of simple HTML",
+        "link": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
+        "description": "Article URL: https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/ Comments URL: https://news.ycombinator.com/item?id=48497168 Points: 29 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-06-11T22:17:08+00:00"
+      },
+      {
+        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+        "link": "https://fablepool.com",
+        "description": "Article URL: https://fablepool.com Comments URL: https://news.ycombinator.com/item?id=48496539 Points: 116 # Comments: 46",
+        "source": "HackerNews",
+        "published": "2026-06-11T21:17:30+00:00"
+      },
+      {
+        "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+        "link": "https://www.mayrhofer.eu.org/post/leaving-google/",
+        "description": "Article URL: https://www.mayrhofer.eu.org/post/leaving-google/ Comments URL: https://news.ycombinator.com/item?id=48496396 Points: 127 # Comments: 57",
+        "source": "HackerNews",
+        "published": "2026-06-11T21:04:47+00:00"
+      },
+      {
+        "title": "Show HN: Boo – screen-style terminal multiplexer built on libghostty",
+        "link": "https://github.com/coder/boo",
+        "description": "Article URL: https://github.com/coder/boo Comments URL: https://news.ycombinator.com/item?id=48496250 Points: 26 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-06-11T20:52:26+00:00"
+      },
       {
         "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
         "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
         "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
         "source": "TechCrunch",
         "published": "2026-06-11T20:33:10+00:00"
+      },
+      {
+        "title": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
+        "link": "https://tunnelmind.ai/",
+        "description": "I'm a network engineer that likes to think about the future of the internet and this is what I've built over many nights and weekends. One reputation graph over IPs, ASNs, domains, and entities, exposed as a JSON API. Try it: curl...",
+        "source": "HackerNews",
+        "published": "2026-06-11T20:27:59+00:00"
       },
       {
         "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
@@ -17,16 +59,9 @@
         "published": "2026-06-11T20:27:25+00:00"
       },
       {
-        "title": "I stopped tracking my time. Now I can't focus",
-        "link": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
-        "description": "Article URL: https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i Comments URL: https://news.ycombinator.com/item?id=48495818 Points: 22 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-06-11T20:14:33+00:00"
-      },
-      {
         "title": "Travel Locally, Where You Are",
         "link": "https://www.ssp.sh/brain/travel-where-you-are/",
-        "description": "Article URL: https://www.ssp.sh/brain/travel-where-you-are/ Comments URL: https://news.ycombinator.com/item?id=48495751 Points: 32 # Comments: 14",
+        "description": "Article URL: https://www.ssp.sh/brain/travel-where-you-are/ Comments URL: https://news.ycombinator.com/item?id=48495751 Points: 70 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-06-11T20:08:26+00:00"
       },
@@ -47,7 +82,7 @@
       {
         "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
         "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-        "description": "Article URL: https://www.kennethpayne.uk/p/shall-we-play-a-game Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 26 # Comments: 12",
+        "description": "Article URL: https://www.kennethpayne.uk/p/shall-we-play-a-game Comments URL: https://news.ycombinator.com/item?id=48495575 Points: 145 # Comments: 137",
         "source": "HackerNews",
         "published": "2026-06-11T19:54:54+00:00"
       },
@@ -61,14 +96,14 @@
       {
         "title": "Ivanti Sentry pre-auth RCE (CVE-2026-10520) – CVSS 10.0, public PoC, CISA KEV",
         "link": "https://hellorecon.com/blog/cve-2026-10520",
-        "description": "Article URL: https://hellorecon.com/blog/cve-2026-10520 Comments URL: https://news.ycombinator.com/item?id=48495383 Points: 5 # Comments: 0",
+        "description": "Article URL: https://hellorecon.com/blog/cve-2026-10520 Comments URL: https://news.ycombinator.com/item?id=48495383 Points: 12 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-06-11T19:38:42+00:00"
       },
       {
         "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
         "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-        "description": "Article URL: https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/ Comments URL: https://news.ycombinator.com/item?id=48495197 Points: 27 # Comments: 1",
+        "description": "Article URL: https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/ Comments URL: https://news.ycombinator.com/item?id=48495197 Points: 45 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-06-11T19:23:52+00:00"
       },
@@ -80,18 +115,18 @@
         "published": "2026-06-11T19:00:49+00:00"
       },
       {
+        "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features",
+        "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+        "description": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully...",
+        "source": "The Verge",
+        "published": "2026-06-11T18:12:08-04:00"
+      },
+      {
         "title": "TSMC 2028’de CoPoS Teknolojisine Geçiş Yapacak",
         "link": "https://shiftdelete.net/tsmc-2028de-copos-teknolojisine-gecis-yapacak",
         "description": "TSMC, 2028 yılında CoPoS paketleme teknolojisine geçerek NVIDIA'nın Feynman çiplerinde devrim yapmaya hazırlanıyor. İşte yeni nesil çip üretimindeki kritik gelişmeler.",
         "source": "ShiftDelete",
         "published": "2026-06-11T18:00:52+00:00"
-      },
-      {
-        "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-        "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-        "description": "Article URL: https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html Comments URL: https://news.ycombinator.com/item?id=48493564 Points: 37 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-06-11T17:35:19+00:00"
       },
       {
         "title": "2026 FIFA Dünya Kupası'nı Ücretsiz 4K Kalitede İzleyebileceğiniz Uygulamalar",
@@ -106,13 +141,6 @@
         "description": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
         "source": "TechCrunch",
         "published": "2026-06-11T17:30:00+00:00"
-      },
-      {
-        "title": "Building agents without harness engineering",
-        "link": "https://rajitkhanna.com/agents/",
-        "description": "Article URL: https://rajitkhanna.com/agents/ Comments URL: https://news.ycombinator.com/item?id=48493447 Points: 21 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-06-11T17:28:52+00:00"
       },
       {
         "title": "Xiaomi, Şimdi de Taşınabilir Kahve Makinesi Tanıttı: İstediğiniz Yerde Kendinize Kahve Yapabileceksiniz!",
@@ -178,13 +206,6 @@
         "published": "2026-06-11T16:36:20+00:00"
       },
       {
-        "title": "Software Is Made Between Commits",
-        "link": "https://zed.dev/blog/introducing-deltadb",
-        "description": "Article URL: https://zed.dev/blog/introducing-deltadb Comments URL: https://news.ycombinator.com/item?id=48492533 Points: 153 # Comments: 105",
-        "source": "HackerNews",
-        "published": "2026-06-11T16:28:24+00:00"
-      },
-      {
         "title": "realme P4R Tanıtıldı: İşte Fiyatı ve Özellikleri",
         "link": "\n                    https://www.webtekno.com/realme-p4r-tanitildi-h218283.html\n                    ",
         "description": "realme, çok uygun fiyata 144 Hz ekran ve 8000 mAh batarya sunan yeni telefonu P4R’yi tanıttı.",
@@ -204,20 +225,6 @@
         "description": "BYD'nin Manisa'da kurulacak fabrikadan geri adım atması sonrası Sanayi ve Teknoloji Bakanlığı devreye girdi.",
         "source": "Webtekno",
         "published": "2026-06-11T16:17:40+03:00"
-      },
-      {
-        "title": "Solar generates more energy in US than coal for first time",
-        "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-        "description": "Article URL: https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal Comments URL: https://news.ycombinator.com/item?id=48492306 Points: 349 # Comments: 163",
-        "source": "HackerNews",
-        "published": "2026-06-11T16:10:05+00:00"
-      },
-      {
-        "title": "Waymo Premier",
-        "link": "https://waymo.com/blog/2026/06/waymo-premier/",
-        "description": "Article URL: https://waymo.com/blog/2026/06/waymo-premier/ Comments URL: https://news.ycombinator.com/item?id=48492304 Points: 119 # Comments: 281",
-        "source": "HackerNews",
-        "published": "2026-06-11T16:10:02+00:00"
       },
       {
         "title": "Xiaomi’nin Yeni Xring İşlemcisi Zorlu Rekabete Hazırlanıyor",
@@ -339,13 +346,6 @@
         "published": "2026-06-11T12:42:26-04:00"
       },
       {
-        "title": "Elon Musk is encouraging race riots on the eve of SpaceX’s IPO",
-        "link": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
-        "description": "Elon Musk, on the verge of becoming the world's first trillionaire, is whipping up anti-immigration tensions amid ongoing riots in Belfast, Northern Ireland. Following a knife attack in the city on Monday, Musk declared support for Restore Britain,...",
-        "source": "The Verge",
-        "published": "2026-06-11T11:51:49-04:00"
-      },
-      {
         "title": "Waymo introduces $30-a-month premium tier for riders who want faster pickups",
         "link": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
         "description": "Uber One, meet Waymo Premier. The robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership service is aimed at Waymo customers who use the...",
@@ -355,9 +355,44 @@
     ],
     "dunya": [
       {
+        "title": "'I spent uni savings on getting my teeth fixed' - how NHS dentist shortage is costing a fortune",
+        "link": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&at_campaign=rss",
+        "description": "People tell BBC Your Voice the rising cost of private dentistry is putting them in a difficult position.",
+        "source": "BBC News",
+        "published": "2026-06-11T23:03:30+00:00"
+      },
+      {
+        "title": "Meningitis B vaccine to be offered to a million young people",
+        "link": "https://www.bbc.com/news/articles/c982352my98o?at_medium=RSS&at_campaign=rss",
+        "description": "The decision for the one-off vaccine programme follows the unprecedented outbreak in Kent this year.",
+        "source": "BBC News",
+        "published": "2026-06-11T23:02:20+00:00"
+      },
+      {
+        "title": "Girl, 14, charged with attempted murder after Manchester school knife attack",
+        "link": "https://www.bbc.com/news/articles/cp3x1qzkj81o?at_medium=RSS&at_campaign=rss",
+        "description": "Two pupils and a teacher were injured in the attack, which counter-terror police are investigating.",
+        "source": "BBC News",
+        "published": "2026-06-11T22:50:15+00:00"
+      },
+      {
+        "title": "Trump says deal to end Iran war is close after calling off strikes",
+        "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+        "description": "Iran's foreign ministry spokesperson tells state TV that reports of an agreement were \"speculative\" and \"nothing has been finalised\".",
+        "source": "BBC News",
+        "published": "2026-06-11T22:22:36+00:00"
+      },
+      {
+        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
+        "link": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&at_campaign=rss",
+        "description": "Al Carns says the military isn't \"sufficiently funded\", as Dan Jarvis becomes the new defence secretary.",
+        "source": "BBC News",
+        "published": "2026-06-11T21:50:20+00:00"
+      },
+      {
         "title": "Northern Ireland protests pass off without incident after two nights of unrest",
         "link": "https://www.bbc.com/news/articles/c4gyl9v02y5o?at_medium=RSS&at_campaign=rss",
-        "description": "After two nights of unrest, pockets of protests held across Northern Ireland have passed off peacefully.",
+        "description": "After two nights of unrest, pockets of protests held across Northern Ireland have passed off without major incident.",
         "source": "BBC News",
         "published": "2026-06-11T21:25:54+00:00"
       },
@@ -369,11 +404,11 @@
         "published": "2026-06-11T21:10:14+00:00"
       },
       {
-        "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-        "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-        "description": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+        "title": "London Stadium and West Ham women's team not aware of David Sullivan contact ban",
+        "link": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss",
+        "description": "The owner of West Ham United's home has raised concerns it was not told about safeguarding restrictions.",
         "source": "BBC News",
-        "published": "2026-06-11T20:26:06+00:00"
+        "published": "2026-06-11T20:03:59+00:00"
       },
       {
         "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
@@ -390,25 +425,11 @@
         "published": "2026-06-11T18:35:31+00:00"
       },
       {
-        "title": "Catch up on the World Cup without any spoilers",
-        "link": "https://www.bbc.com/sport/football/articles/c0qy0zn231yo?at_medium=RSS&at_campaign=rss",
-        "description": "It is a dilemma plenty of fans in the UK will have - and we are giving you the chance to follow the World Cup without spoilers.",
-        "source": "BBC News",
-        "published": "2026-06-11T17:08:40+00:00"
-      },
-      {
         "title": "Child-rape sentence reignites scrutiny of UK high street mini-marts",
         "link": "https://www.bbc.com/news/articles/cd6e0021vjjo?at_medium=RSS&at_campaign=rss",
         "description": "Rapist Bawan Harwe lured underage girls back to his flat with the promise of free vapes and cash.",
         "source": "BBC News",
         "published": "2026-06-11T17:06:04+00:00"
-      },
-      {
-        "title": "Why defence funding deal offered to Healey wasn't enough to keep him",
-        "link": "https://www.bbc.com/news/articles/c0myvvxk878o?at_medium=RSS&at_campaign=rss",
-        "description": "The defence secretary was pressing the prime minister for a larger increase in defence spending than he was offered, the BBC understands.",
-        "source": "BBC News",
-        "published": "2026-06-11T16:42:46+00:00"
       },
       {
         "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
@@ -453,13 +474,6 @@
         "published": "2026-06-11T14:00:00-04:00"
       },
       {
-        "title": "The rise and rise of 'Meatball' McGinn",
-        "link": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
-        "description": "John McGinn was a boy from Clydebank with a \"big, round head\" and bigger dreams. Scotland's World Cup opener marks a new high in a storybook career.",
-        "source": "BBC News",
-        "published": "2026-06-11T13:48:36+00:00"
-      },
-      {
         "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
         "link": "https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom",
         "description": "The administration imposed mandatory quarantine orders on two passengers from the cruise ship hit by hantavirus and is blocking Americans who catch Ebola from returning home for treatment.",
@@ -488,13 +502,6 @@
         "published": "2026-06-11T10:34:31+00:00"
       },
       {
-        "title": "'Mum was killing me': England's Declan Rice on sunburn for his World Cup photoshoot",
-        "link": "https://www.bbc.com/news/articles/cq61l6d870vo?at_medium=RSS&at_campaign=rss",
-        "description": "The Arsenal midfielder admits he was a touch pink in pre-tournament photos as players try to adjust to scorching conditions.",
-        "source": "BBC News",
-        "published": "2026-06-11T09:44:10+00:00"
-      },
-      {
         "title": "Japan reactor restart sparks fresh fears over nuclear waste storage",
         "link": "https://www.npr.org/2026/06/11/g-s1-127439/japan-reactor-restart-sparks-fresh-fears-over-nuclear-waste-storage",
         "description": "The reboot highlights a dire problem for the country's nuclear program. Japan is running out of space to store spent nuclear fuel and lacks plans for radioactive waste disposal.",
@@ -521,13 +528,6 @@
         "description": "With a record 48 teams and 1,248 players, there's an endless number of stats about the 2026 FIFA World Cup. Here are a few to get you started.",
         "source": "NPR",
         "published": "2026-06-11T05:00:00-04:00"
-      },
-      {
-        "title": "Find your local World Cup hero with our postcode lookup",
-        "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
-        "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
-        "source": "BBC News",
-        "published": "2026-06-10T23:13:43+00:00"
       },
       {
         "title": "Hegseth warns Cuba against acquiring weapons in visit to Guantánamo Bay",
@@ -567,11 +567,67 @@
     ],
     "turkiye": [
       {
+        "title": "Dünya Kupası açılışında 3 kırmızı kart 2 gol tek kazanan",
+        "link": "https://www.sozcu.com.tr/dunya-kupasi-acilisinda-3-kirmizi-kart-2-gol-tek-kazanan-p327207",
+        "description": "Dünya Kupası açılışında 3 kırmızı kart 2 gol tek kazanan",
+        "source": "Sözcü",
+        "published": "2026-06-12T02:19:37+03:00"
+      },
+      {
+        "title": "Baba ve 14 aylık kızına saldırı davası. Tutuklu sanık tahliye edildi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-baba-ve-14-aylik-kizina-saldiri-davasi-tutuklu-sanik-tahliye-edildi-1728222",
+        "description": "Yalova'da bir baba ve 14 aylık kızının komşusu tarafından saldırıya uğramasına ilişkin davada tutuklu yargılanan sanığın adli kontrol şartıyla tahliyesine karar verildi.",
+        "source": "NTV",
+        "published": "2026-06-12T02:03:58+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Haziran 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-12-haziran-2026-1728217",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-12T00:30:00+03:00"
+        "published": "2026-06-12T02:00:00+03:00"
+      },
+      {
+        "title": "Asansör kazısı sırasında tesadüfen bulundu: Toprağın altında yüzyıllarca saklı kalmış",
+        "link": "https://www.sozcu.com.tr/asansor-kazisi-sirasinda-tesadufen-bulundu-topragin-altinda-yuzyillarca-sakli-kalmis-p327215",
+        "description": "Asansör kazısı sırasında tesadüfen bulundu: Toprağın altında yüzyıllarca saklı kalmış",
+        "source": "Sözcü",
+        "published": "2026-06-12T01:54:00+03:00"
+      },
+      {
+        "title": "Trafik sigortalarında önemli değişiklik. Kaza anında bu ayrıntıya dikkat edin",
+        "link": "https://www.ntv.com.tr/turkiye/trafik-sigortalarinda-onemli-degisiklik-kaza-aninda-bu-ayrintiya-dikkat-edin-1728219",
+        "description": "Zorunlu trafik sigortasına yönelik düzenlemede önemli değişiklikler yapıldı ve sigorta şirketlerine kaza yerinden uzaklaşan sigorta sahibine, oluşan zararı ödetme konusunda yeni haklar verildi. 1 Temmuz'da yürürlüğe girecek düzenleme ile zorunlu...",
+        "source": "NTV",
+        "published": "2026-06-12T01:36:08+03:00"
+      },
+      {
+        "title": "Çölün ortasında gerçekleşen mucize: Bu çölün su kaynağı ne nehir ne de yağmur",
+        "link": "https://www.sozcu.com.tr/colun-ortasinda-gerceklesen-mucize-bu-colun-su-kaynagi-ne-nehir-ne-de-yagmur-p327213",
+        "description": "Çölün ortasında gerçekleşen mucize: Bu çölün su kaynağı ne nehir ne de yağmur",
+        "source": "Sözcü",
+        "published": "2026-06-12T01:13:47+03:00"
+      },
+      {
+        "title": "Sakarya'da savcı ile şoför trafikte tartıştı; inceleme başlatıldı",
+        "link": "https://www.sozcu.com.tr/savci-ile-minibus-soforu-trafikte-tartisti-p327211",
+        "description": "Sakarya'da savcı ile şoför trafikte tartıştı; inceleme başlatıldı",
+        "source": "Sözcü",
+        "published": "2026-06-12T00:55:58+03:00"
+      },
+      {
+        "title": "Ameliyatlarda yeni dönem kapıda: Küçücük boyutuna rağmen 5 farklı işlemi tek başına yapıyor",
+        "link": "https://www.sozcu.com.tr/ameliyatlarda-yeni-donem-kapida-kucucuk-boyutuna-ragmen-5-farkli-islemi-tek-basina-yapiyor-p327210",
+        "description": "Ameliyatlarda yeni dönem kapıda: Küçücük boyutuna rağmen 5 farklı işlemi tek başına yapıyor",
+        "source": "Sözcü",
+        "published": "2026-06-12T00:47:11+03:00"
+      },
+      {
+        "title": "Shakira ortalığı salladı! Dünya Kupası tarihine geçti",
+        "link": "https://www.sozcu.com.tr/shakira-ortaligi-salladi-dunya-kupasi-tarihine-gecti-p327209",
+        "description": "Shakira ortalığı salladı! Dünya Kupası tarihine geçti",
+        "source": "Sözcü",
+        "published": "2026-06-12T00:38:56+03:00"
       },
       {
         "title": "Kanalizasyon suyunu 27 kilometre taşıyıp depolamaya başladılar",
@@ -579,13 +635,6 @@
         "description": "Kanalizasyon suyunu 27 kilometre taşıyıp depolamaya başladılar",
         "source": "Sözcü",
         "published": "2026-06-12T00:26:04+03:00"
-      },
-      {
-        "title": "Dünya Kupası açılışında 3 kırmızı kart 2 gol tek kazanan",
-        "link": "https://www.sozcu.com.tr/dunya-kupasi-acilisinda-3-kirmizi-kart-2-gol-tek-kazanan-p327207",
-        "description": "Dünya Kupası açılışında 3 kırmızı kart 2 gol tek kazanan",
-        "source": "Sözcü",
-        "published": "2026-06-12T00:08:48+03:00"
       },
       {
         "title": "Yangın musluklarının farklı renklere boyanmasının sebebi buymuş",
@@ -614,41 +663,6 @@
         "description": "İstanbul–Antalya seferini gerçekleştiren THY uçağı, Antalya Havalimanı’nda park yerine yanaşırken kanadı anten direğine çarptı. Uçaktaki 267 yolcu tahliye edildi.",
         "source": "NTV",
         "published": "2026-06-11T23:45:27+03:00"
-      },
-      {
-        "title": "Yol temizliğinde ezber bozacak araç: Saatte 80 kilometre hızla yolları pırıl pırıl yapıyor",
-        "link": "https://www.sozcu.com.tr/yol-temizliginde-ezber-bozacak-arac-saatte-80-kilometre-hizla-yollari-silip-supuruyor-p327198",
-        "description": "Yol temizliğinde ezber bozacak araç: Saatte 80 kilometre hızla yolları pırıl pırıl yapıyor",
-        "source": "Sözcü",
-        "published": "2026-06-11T23:43:15+03:00"
-      },
-      {
-        "title": "Okan Buruk'tan yabancı kuralı için sert sözler! 'Vizyonsuzluk var'",
-        "link": "https://www.sozcu.com.tr/okan-buruk-tan-yabanci-kurali-icin-sert-sozler-vizyonsuzluk-var-p327197",
-        "description": "Okan Buruk'tan yabancı kuralı için sert sözler! 'Vizyonsuzluk var'",
-        "source": "Sözcü",
-        "published": "2026-06-11T23:22:34+03:00"
-      },
-      {
-        "title": "İBB’ye yönelik yolsuzluk davası 15 Haziran’a ertelendi",
-        "link": "https://www.sozcu.com.tr/ibb-ye-yonelik-yolsuzluk-davasi-15-haziran-a-ertelendi-p327193",
-        "description": "İBB’ye yönelik yolsuzluk davası 15 Haziran’a ertelendi",
-        "source": "Sözcü",
-        "published": "2026-06-11T23:19:37+03:00"
-      },
-      {
-        "title": "Yol yapımında yeni dönem başladı: Çöpe giden lastikleri asfalta dönüştürdüler",
-        "link": "https://www.sozcu.com.tr/yol-yapiminda-yeni-donem-basladi-cope-giden-lastikleri-asfalta-donusturduler-p327196",
-        "description": "Yol yapımında yeni dönem başladı: Çöpe giden lastikleri asfalta dönüştürdüler",
-        "source": "Sözcü",
-        "published": "2026-06-11T23:04:03+03:00"
-      },
-      {
-        "title": "Dünya Kupası'nda ülkelerini desteklemek için 17 bin kilometre bisiklet sürdüler",
-        "link": "https://www.sozcu.com.tr/dunya-kupasi-nda-ulkelerini-desteklemek-icin-17-bin-kilometre-bisiklet-surduler-p327195",
-        "description": "Dünya Kupası'nda ülkelerini desteklemek için 17 bin kilometre bisiklet sürdüler",
-        "source": "Sözcü",
-        "published": "2026-06-11T22:51:42+03:00"
       },
       {
         "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 11 Haziran 2026",
@@ -714,25 +728,11 @@
         "published": "2026-06-11T18:07:51+00:00"
       },
       {
-        "title": "Nişan dönüşü facia: İki kişinin öldüğü kazanın görüntüleri ortaya çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/video-nisan-donusu-facia-iki-kisinin-oldugu-kazanin-goruntuleri-ortaya-cikti-1728194",
-        "description": "Diyarbakır’ın Çınar ilçesinde, nişan dönüşü sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu takla atan ve 2 kişinin ölümü ile sonuçlanan trafik kazası, araç içerisinde bulunan yolcunun cep telefonu kamerasına yansıdı.",
-        "source": "NTV",
-        "published": "2026-06-11T16:49:47+03:00"
-      },
-      {
         "title": "Tramvayda taciz iddiası: Durumu farkeden yolcular, şüpheliyi darbetti",
         "link": "https://www.ntv.com.tr/turkiye/video-tramvayda-taciz-iddiasi-durumu-farkeden-yolcular-supheliyi-darbetti-1728197",
         "description": "Eyüpsultan'da, seyir halindeki tramvayda 17 yaşındaki kızı taciz ettiği öne sürülen şüpheli, diğer yolcular tarafından darbedildi. Demirkapı durağında indirilen şüpheli polise teslim edildi.",
         "source": "NTV",
         "published": "2026-06-11T16:27:09+03:00"
-      },
-      {
-        "title": "Netanyahu'ya tepki. Bakan Çiftçi: Gazze'de çocuklar katledilirken Türkiye susmadı, susmayacak",
-        "link": "https://www.ntv.com.tr/turkiye/netanyahuya-tepki-bakan-ciftci-gazzede-cocuklar-katledilirken-turkiye-susmadi-susmayacak-1728193",
-        "description": "İsrail Başbakanı Netanyahu'nun Cumhurbaşkanı Erdoğan'a yönelik sözlerine Ankara'da tepkiler sürüyor. İçişleri Bakanı Mustafa Çiftçi, \"Mazlumların yanında olmak bizim medeniyetimizin en asli vazifesidir.\" dedi.",
-        "source": "NTV",
-        "published": "2026-06-11T16:09:39+03:00"
       },
       {
         "title": "Merkez Bankası faizi değiştirmedi, ekonomistler nasıl yorumladı?",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+95°F",
-    "wind": "←5mph",
-    "humidity": "38%"
+    "temp": "+97°F",
+    "wind": "→7mph",
+    "humidity": "15%"
   }
 }
