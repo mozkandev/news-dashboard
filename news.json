@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-06-10T23:25:24.504634+00:00",
+  "updated_at": "2026-06-11T02:00:42.385075+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "description": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 82 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-06-11T00:10:08+00:00"
+      },
+      {
+        "title": "Deficient executive control in transformer attention",
+        "link": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+        "description": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838 Comments URL: https://news.ycombinator.com/item?id=48484282 Points: 17 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-06-10T23:35:01+00:00"
+      },
+      {
+        "title": "Unix GC Remastered",
+        "link": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+        "description": "Article URL: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/ Comments URL: https://news.ycombinator.com/item?id=48483854 Points: 11 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-06-10T22:48:58+00:00"
+      },
       {
         "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
         "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
@@ -19,16 +40,9 @@
       {
         "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
         "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-        "description": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/ Comments URL: https://news.ycombinator.com/item?id=48483387 Points: 26 # Comments: 15",
+        "description": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/ Comments URL: https://news.ycombinator.com/item?id=48483387 Points: 89 # Comments: 48",
         "source": "HackerNews",
         "published": "2026-06-10T22:07:52+00:00"
-      },
-      {
-        "title": "Free financial literacy platform for kids – 90 lessons, no paywall",
-        "link": "https://learnfinly.com",
-        "description": "Article URL: https://learnfinly.com Comments URL: https://news.ycombinator.com/item?id=48483345 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-06-10T22:04:29+00:00"
       },
       {
         "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
@@ -54,7 +68,7 @@
       {
         "title": "What is it like to be a bat? (1974) [pdf]",
         "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-        "description": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=48482293 Points: 48 # Comments: 41",
+        "description": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=48482293 Points: 65 # Comments: 53",
         "source": "HackerNews",
         "published": "2026-06-10T20:35:07+00:00"
       },
@@ -80,9 +94,16 @@
         "published": "2026-06-10T20:19:31+00:00"
       },
       {
-        "title": "Raspberry Pi 5 – 16 GB, $350",
+        "title": "Bluesky is getting ‘communities’",
+        "link": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
+        "description": "Bluesky will be getting \"communities,\" which will function as smaller spaces where you can \"go deeper and hang out with people who care about the same stuff\" sometime this year, according to head of product Alex Benzer. They will be built on the...",
+        "source": "The Verge",
+        "published": "2026-06-10T20:05:48-04:00"
+      },
+      {
+        "title": "Raspberry Pi 5 – 16GB RAM",
         "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
-        "description": "Article URL: https://www.adafruit.com/product/6125?src=raspberrypi Comments URL: https://news.ycombinator.com/item?id=48481857 Points: 121 # Comments: 143",
+        "description": "Article URL: https://www.adafruit.com/product/6125?src=raspberrypi Comments URL: https://news.ycombinator.com/item?id=48481857 Points: 169 # Comments: 191",
         "source": "HackerNews",
         "published": "2026-06-10T20:05:21+00:00"
       },
@@ -138,7 +159,7 @@
       {
         "title": "πFS",
         "link": "https://github.com/philipl/pifs",
-        "description": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 410 # Comments: 103",
+        "description": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 518 # Comments: 134",
         "source": "HackerNews",
         "published": "2026-06-10T18:54:54+00:00"
       },
@@ -148,20 +169,6 @@
         "description": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery...",
         "source": "The Verge",
         "published": "2026-06-10T18:52:17-04:00"
-      },
-      {
-        "title": "Anthropic's model naming, extrapolated",
-        "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-        "description": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated Comments URL: https://news.ycombinator.com/item?id=48480852 Points: 256 # Comments: 72",
-        "source": "HackerNews",
-        "published": "2026-06-10T18:45:20+00:00"
-      },
-      {
-        "title": "Policy on the AI Exponential",
-        "link": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-        "description": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 112 # Comments: 168",
-        "source": "HackerNews",
-        "published": "2026-06-10T18:36:04+00:00"
       },
       {
         "title": "Google’dan Devasa TPU Siparişi: Intel ile 2028 Planı",
@@ -201,7 +208,7 @@
       {
         "title": "GeoLibre 1.0",
         "link": "https://geolibre.app/",
-        "description": "Article URL: https://geolibre.app/ Comments URL: https://news.ycombinator.com/item?id=48479852 Points: 120 # Comments: 8",
+        "description": "Article URL: https://geolibre.app/ Comments URL: https://news.ycombinator.com/item?id=48479852 Points: 150 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-06-10T17:39:47+00:00"
       },
@@ -229,7 +236,7 @@
       {
         "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
         "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-        "description": "Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science Comments URL: https://news.ycombinator.com/item?id=48479705 Points: 153 # Comments: 31",
+        "description": "Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science Comments URL: https://news.ycombinator.com/item?id=48479705 Points: 170 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-06-10T17:30:48+00:00"
       },
@@ -344,22 +351,36 @@
         "description": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith...",
         "source": "The Verge",
         "published": "2026-06-10T13:45:11-04:00"
-      },
-      {
-        "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-        "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "description": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs...",
-        "source": "The Verge",
-        "published": "2026-06-10T13:26:56-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Iran says it struck ships in Strait of Hormuz after US launches new strikes",
+        "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
         "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
         "description": "US Central Command said its latest airstrikes were responding to \"unwarranted and continued aggression\" from Iran.",
         "source": "BBC News",
-        "published": "2026-06-10T23:23:20+00:00"
+        "published": "2026-06-11T01:46:18+00:00"
+      },
+      {
+        "title": "Smacking children could lead to lower GCSE grades, study suggests",
+        "link": "https://www.bbc.com/news/articles/c2eyke83yz9o?at_medium=RSS&at_campaign=rss",
+        "description": "A University College London (UCL) study suggests that smacking children \"does no good whatsoever\".",
+        "source": "BBC News",
+        "published": "2026-06-10T23:33:07+00:00"
+      },
+      {
+        "title": "Which World Cup stars have roots near you?",
+        "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
+        "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
+        "source": "BBC News",
+        "published": "2026-06-10T23:13:43+00:00"
+      },
+      {
+        "title": "The furious dispute over what caused Air India flight 171 to crash",
+        "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+        "description": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+        "source": "BBC News",
+        "published": "2026-06-10T23:10:11+00:00"
       },
       {
         "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
@@ -411,13 +432,6 @@
         "published": "2026-06-10T18:46:56-04:00"
       },
       {
-        "title": "Whale graveyard dating back five million years discovered",
-        "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
-        "description": "The Indian Ocean site is \"far beyond anything we had imagined\", one researcher says.",
-        "source": "BBC News",
-        "published": "2026-06-10T18:24:09+00:00"
-      },
-      {
         "title": "Vets advise ban on over the counter flea treatment for pets",
         "link": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&at_campaign=rss",
         "description": "Pet owners have historically been advised they should treat cats and dogs as a preventative measure every month.",
@@ -430,13 +444,6 @@
         "description": "A World Cup dream denied — Somali referee Omar Artan receives a hero's welcome at home after being blocked from entering the United States and taking part in the World Cup.",
         "source": "NPR",
         "published": "2026-06-10T16:45:58-04:00"
-      },
-      {
-        "title": "Stokes out of England squad, Root named captain",
-        "link": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&at_campaign=rss",
-        "description": "Ben Stokes will miss England’s second Test against New Zealand at The Oval following an incident in a London nightclub, with Joe Root stepping up as interim captain.",
-        "source": "BBC News",
-        "published": "2026-06-10T16:44:14+00:00"
       },
       {
         "title": "Hegseth warns Cuba against acquiring weapons in visit to Guantánamo Bay",
@@ -465,13 +472,6 @@
         "description": "Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.",
         "source": "NPR",
         "published": "2026-06-10T16:01:52-04:00"
-      },
-      {
-        "title": "Lacey Turner confirmed as first Strictly contestant",
-        "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-        "description": "The actress is best known for her role as Stacey Slater on EastEnders, the BBC One soap she joined in 2004.",
-        "source": "BBC News",
-        "published": "2026-06-10T14:20:38+00:00"
       },
       {
         "title": "Trump targeting immigrants from countries hit most by climate shocks",
@@ -567,6 +567,55 @@
     ],
     "turkiye": [
       {
+        "title": "Enis Arıkan gözaltına alındı",
+        "link": "https://www.sozcu.com.tr/enis-arikan-gozaltina-alindi-p326939",
+        "description": "Enis Arıkan gözaltına alındı",
+        "source": "Sözcü",
+        "published": "2026-06-11T04:37:05+03:00"
+      },
+      {
+        "title": "ABD'den İran'a ağır bombardıman",
+        "link": "https://www.sozcu.com.tr/son-dakika-abd-savunma-bakani-hegseth-bu-gece-iran-i-vuracagiz-p326917",
+        "description": "ABD'den İran'a ağır bombardıman",
+        "source": "Sözcü",
+        "published": "2026-06-11T04:34:26+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-haziran-2026-1728079",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-06-11T04:30:00+03:00"
+      },
+      {
+        "title": "Kaçan alkollü sürücü evinin önünde yakalandı. 432 bin TL para cezası yazıldı",
+        "link": "https://www.ntv.com.tr/turkiye/kacan-alkollu-surucu-evinin-onunde-yakalandi-432-bin-tl-para-cezasi-yazildi-1728084",
+        "description": "Kayseri’de polisin ‘dur’ ihtarına uymayarak kaçan alkollü sürücü evinin önünde yakalandı. Yapılan kontrollerde 2.05 promil alkollü olduğu belirlenen sürücüye 432 bin TL idari para cezası yazılırken, sürücüyle aynı araçta bulunan ağabeyi polis...",
+        "source": "NTV",
+        "published": "2026-06-11T03:44:37+03:00"
+      },
+      {
+        "title": "TBMM okul saldırılarını araştırıyor. \"İnternette pompalı tüfek 2 bin liraya satılıyor\"",
+        "link": "https://www.ntv.com.tr/turkiye/tbmm-okul-saldirilarini-arastiriyor-dikkat-cekmek-ve-populer-olmak-icin-saldiri-yapiyorlar-1728083",
+        "description": "Okul saldırılarına yönelik kurulan Meclis Araştırma Komisyonu üyeleri bu hafta Kahramanmaraş ve Şanlıurfa'ya gidecek. Komisyona sunum yapan uzmanlar, saldırganların popüler olmak veya dikkat çekmek için saldırıları gerçekleştirdiğini söylerken,...",
+        "source": "NTV",
+        "published": "2026-06-11T03:23:03+03:00"
+      },
+      {
+        "title": "3.422 derece sıcaklığa bile dayanıyor: Doğadaki en sıra dışı metallerden biri",
+        "link": "https://www.sozcu.com.tr/3-422-derece-sicakliga-bile-dayaniyor-dogadaki-en-sira-disi-metallerden-biri-p326931",
+        "description": "3.422 derece sıcaklığa bile dayanıyor: Doğadaki en sıra dışı metallerden biri",
+        "source": "Sözcü",
+        "published": "2026-06-11T03:10:02+03:00"
+      },
+      {
+        "title": "100 yıllık hurda tren vagonunu otel yaptılar: İçinde kalmak isteyenler sıraya giriyor",
+        "link": "https://www.sozcu.com.tr/100-yillik-hurda-tren-vagonunu-otel-yaptilar-icinde-kalmak-isteyenler-siraya-giriyor-p326929",
+        "description": "100 yıllık hurda tren vagonunu otel yaptılar: İçinde kalmak isteyenler sıraya giriyor",
+        "source": "Sözcü",
+        "published": "2026-06-11T02:37:33+03:00"
+      },
+      {
         "title": "Uzmanlar günün son kahvesi için ideal saati açıkladı",
         "link": "https://www.sozcu.com.tr/uzmanlar-gunun-son-kahvesi-icin-ideal-saati-acikladi-p326926",
         "description": "Uzmanlar günün son kahvesi için ideal saati açıkladı",
@@ -574,18 +623,11 @@
         "published": "2026-06-11T02:05:31+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-haziran-2026-1728079",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-06-11T02:00:00+03:00"
-      },
-      {
-        "title": "Son dakika... CENTCOM: İran'da hedefleri vuruyoruz",
-        "link": "https://www.sozcu.com.tr/son-dakika-abd-savunma-bakani-hegseth-bu-gece-iran-i-vuracagiz-p326917",
-        "description": "Son dakika... CENTCOM: İran'da hedefleri vuruyoruz",
-        "source": "Sözcü",
-        "published": "2026-06-11T01:54:14+03:00"
+        "title": "Trump 'başkan olduğu sürece' Türkiye-İsrail çatışması beklemediğini söyledi",
+        "link": "https://www.bbc.com/turkce/articles/czxqvgnr4z2o?at_medium=RSS&at_campaign=rss",
+        "description": "Dışişleri Bakanlığı, Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik ifadelerinden dolayı İsrail Başbakanı Binyamin Netanyahu'yu kınadı. ABD Başkanı Donald Trump ise kendi başkanlığı süresince bir çatışma beklemediğini dile getirdi.",
+        "source": "BBC Turkish",
+        "published": "2026-06-11T01:54:37+00:00"
       },
       {
         "title": "Türkiye: Orta Doğu'da barış küresel bir zorunluluk",
@@ -623,6 +665,13 @@
         "published": "2026-06-11T00:42:21+03:00"
       },
       {
+        "title": "ABD'nin yeni saldırıları sonrası İran Hürmüz Boğazı'nı tüm geçişlere kapattığını duyurdu",
+        "link": "https://www.bbc.com/turkce/articles/cq5127ej4dno?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Başkanı Donald Trump'ın İran'a yönelik \"sert bir saldırı\" yapacaklarını söylemesinin ardından ABD ordusu İran'daki bazı hedeflere saldırı başlattıklarını açıkladı. İran ordusu ise Hürmüz Boğazı'nı tüm gemi geçişlerine kapattıklarını duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-06-11T00:42:09+00:00"
+      },
+      {
         "title": "2026 Dünya Kupası öncesi Infantino’ya zor sorular! FIFA Başkanı ABD’nin skandallarını savunamadı",
         "link": "https://www.sozcu.com.tr/2026-dunya-kupasi-oncesi-infantino-ya-zor-sorular-fifa-baskani-abd-nin-skandallarini-savunamadi-p326918",
         "description": "2026 Dünya Kupası öncesi Infantino’ya zor sorular! FIFA Başkanı ABD’nin skandallarını savunamadı",
@@ -635,34 +684,6 @@
         "description": "Gramı 10 bin dolar: Bu ağacın geçirdiği enfeksiyon servet değerinde bir maddeye dönüşüyor",
         "source": "Sözcü",
         "published": "2026-06-11T00:09:26+03:00"
-      },
-      {
-        "title": "Ankara Cumhuriyet Başsavcısı Yargıtay üyesi oldu",
-        "link": "https://www.sozcu.com.tr/ankara-cumhuriyet-bassavcisi-yargitay-uyesi-oldu-p326912",
-        "description": "Ankara Cumhuriyet Başsavcısı Yargıtay üyesi oldu",
-        "source": "Sözcü",
-        "published": "2026-06-11T00:05:04+03:00"
-      },
-      {
-        "title": "Korkunç görüntüler! Kendi çocuklarına dehşeti yaşattı",
-        "link": "https://www.sozcu.com.tr/korkunc-goruntuler-kendi-cocuklarina-dehseti-yasatti-p326907",
-        "description": "Korkunç görüntüler! Kendi çocuklarına dehşeti yaşattı",
-        "source": "Sözcü",
-        "published": "2026-06-10T23:46:48+03:00"
-      },
-      {
-        "title": "Evini satıp altın alan adamın kaybı dudak uçuklattı",
-        "link": "https://www.sozcu.com.tr/evini-satip-altin-alan-adamin-kaybi-dudak-ucuklatti-p326905",
-        "description": "Evini satıp altın alan adamın kaybı dudak uçuklattı",
-        "source": "Sözcü",
-        "published": "2026-06-10T23:45:16+03:00"
-      },
-      {
-        "title": "ABD'nin yeni saldırıları sonrası İran Hürmüz Boğazı'nı tüm geçişlere kapattığını duyurdu",
-        "link": "https://www.bbc.com/turkce/articles/cq5127ej4dno?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Başkanı Donald Trump'ın İran'a yönelik \"sert bir saldırı\" yapacaklarını söylemesinin ardından ABD ordusu İran'daki bazı hedeflere saldırı başlattıklarını açıkladı. İran ordusu ise Hürmüz Boğazı'nı tüm gemi geçişlerine kapattıklarını duyurdu.",
-        "source": "BBC Turkish",
-        "published": "2026-06-10T22:59:03+00:00"
       },
       {
         "title": "Onlyfans davasında 27 şüpheliye 10'ar yıl hapis talebi",
@@ -693,13 +714,6 @@
         "published": "2026-06-10T20:29:03+03:00"
       },
       {
-        "title": "Seçil Erzan yeniden yargılanacak. İlk duruşma tarihi belli oldu",
-        "link": "https://www.ntv.com.tr/turkiye/secil-erzan-yeniden-yargilanacak-ilk-durusma-tarihi-belli-oldu-1728066",
-        "description": "Kamuoyunda \"yüksek karlı gizli fon\" olarak bilinen ve aralarında futbolcularından bulunduğu kişileri dolandırdığı gerekçesiyle 102 yıl 2 ay hapis cezasına çarptırılan Seçil Erzan’ın davası istinaftan döndü. İlk duruşma 11 Eylül’de görülecek.",
-        "source": "NTV",
-        "published": "2026-06-10T19:37:02+03:00"
-      },
-      {
         "title": "MHP Manisa il teşkilatı feshedildi",
         "link": "https://www.ntv.com.tr/turkiye/mhp-manisa-il-teskilati-feshedildi-1728070",
         "description": "MHP'nin Manisa il teşkilatı feshedildi. Manisa İl Başkanlığı görevine Nurullah Savaş atandı.",
@@ -707,25 +721,11 @@
         "published": "2026-06-10T19:31:51+03:00"
       },
       {
-        "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 10 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-10-haziran-2026-1728069",
-        "description": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 10 Haziran 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son...",
-        "source": "NTV",
-        "published": "2026-06-10T19:10:00+03:00"
-      },
-      {
         "title": "CHP'de Özgür Özel'e yakın dokuz vekile kesin ihraç istemi",
         "link": "https://www.bbc.com/turkce/articles/cdr4dn443x4o?at_medium=RSS&at_campaign=rss",
         "description": "CHP'de mahkeme kararıyla genel başkanlık görevine geri getirilen Kemal Kılıçdaroğlu'nun topladığı Merkez Yönetim Kurulu (MYK) toplantısında Özgür Özel'e yakın dokuz milletvekili tedbirli olarak kesin ihraç talebiyle Yüksek Disiplin Kurulu'na sevk...",
         "source": "BBC Turkish",
         "published": "2026-06-10T18:37:31+00:00"
-      },
-      {
-        "title": "Dışişleri Bakanlığı'ndan Netanyahu'nun Erdoğan açıklamalarına tepki",
-        "link": "https://www.bbc.com/turkce/articles/czxqvgnr4z2o?at_medium=RSS&at_campaign=rss",
-        "description": "Dışişleri Bakanlığı, Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik ifadelerinden dolayı İsrail Başbakanı Binyamin Netanyahu'yu kınayan bir açıklama yaptı.",
-        "source": "BBC Turkish",
-        "published": "2026-06-10T14:59:02+00:00"
       },
       {
         "title": "İBB davasında tutuklu Pınar Türker'in 'çıplak arama' iddiası için soruşturma çağrısı",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 46.1261,
-    "eur_try": 53.2353,
-    "eur_usd": 0.8659
+    "usd_try": 46.1654,
+    "eur_try": 53.2834,
+    "eur_usd": 0.8666
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+93°F",
-    "wind": "↗10mph",
-    "humidity": "49%"
+    "condition": "Güneşli",
+    "temp": "+83°F",
+    "wind": "↘8mph",
+    "humidity": "32%"
   }
 }
