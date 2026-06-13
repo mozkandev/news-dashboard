@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-06-13T15:16:57.979162+00:00",
+  "updated_at": "2026-06-13T16:55:40.008877+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "OpenAI faces investigation from state attorneys general",
+        "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+        "source": "TechCrunch",
+        "published": "2026-06-13T16:47:18+00:00"
+      },
+      {
+        "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+        "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+        "description": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can...",
+        "source": "TechCrunch",
+        "published": "2026-06-13T16:00:00+00:00"
+      },
+      {
+        "title": "Nothing CEO: Akıllı Telefon Fiyatları Artmaya Devam Edecek",
+        "link": "https://shiftdelete.net/nothing-ceo-akilli-telefon-fiyatlari-artmaya-devam-edecek",
+        "description": "Nothing CEO'su Carl Pei, RAM kıtlığı nedeniyle akıllı telefon fiyatlarının artmaya devam edeceğini ve indirimlerin azalacağını açıkladı.",
+        "source": "ShiftDelete",
+        "published": "2026-06-13T16:00:00+00:00"
+      },
       {
         "title": "Apple’dan 10. Yıla Özel Sınırlı Üretim Apple Watch Kayışı",
         "link": "https://shiftdelete.net/appledan-10-yila-ozel-sinirli-uretim-apple-watch-kayisi",
@@ -31,6 +52,27 @@
         "published": "2026-06-13T14:00:00+00:00"
       },
       {
+        "title": "Orthodox C++",
+        "link": "https://bkaradzic.github.io/posts/orthodoxc++/",
+        "description": "Article URL: https://bkaradzic.github.io/posts/orthodoxc++/ Comments URL: https://news.ycombinator.com/item?id=48517412 Points: 43 # Comments: 23",
+        "source": "HackerNews",
+        "published": "2026-06-13T13:58:46+00:00"
+      },
+      {
+        "title": "US bans differential privacy in Census data",
+        "link": "https://desfontain.es/blog/banning-noise.html",
+        "description": "Article URL: https://desfontain.es/blog/banning-noise.html Comments URL: https://news.ycombinator.com/item?id=48517377 Points: 262 # Comments: 102",
+        "source": "HackerNews",
+        "published": "2026-06-13T13:54:56+00:00"
+      },
+      {
+        "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+        "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+        "description": "Article URL: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch Comments URL: https://news.ycombinator.com/item?id=48517199 Points: 79 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-06-13T13:34:00+00:00"
+      },
+      {
         "title": "Yeni MacBook Pro Ekranında Korkunç Hata",
         "link": "https://shiftdelete.net/yeni-macbook-pro-ekraninda-korkunc-hata",
         "description": "M5 Max işlemcili MacBook Pro modellerinde ağır iş yükleri sonrası ekran renk bozulması yaşandığı iddia ediliyor. Aşırı ısınma sorununa dair detaylar burada.",
@@ -38,11 +80,60 @@
         "published": "2026-06-13T13:00:00+00:00"
       },
       {
+        "title": "Introduction to the experience of rendering Arabic typography&its technical debt",
+        "link": "https://lr0.org/blog/p/arabic/",
+        "description": "Article URL: https://lr0.org/blog/p/arabic/ Comments URL: https://news.ycombinator.com/item?id=48516710 Points: 63 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-06-13T12:40:16+00:00"
+      },
+      {
+        "title": "Microsoft hasn’t ruled out spinning off Xbox",
+        "link": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+        "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and...",
+        "source": "The Verge",
+        "published": "2026-06-13T12:29:47-04:00"
+      },
+      {
+        "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+        "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+        "description": "Article URL: https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko Comments URL: https://news.ycombinator.com/item?id=48516573 Points: 35 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-06-13T12:20:05+00:00"
+      },
+      {
+        "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+        "link": "https://hallucinate.site/gallery",
+        "description": "Article URL: https://hallucinate.site/gallery Comments URL: https://news.ycombinator.com/item?id=48516510 Points: 55 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-06-13T12:11:35+00:00"
+      },
+      {
+        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+        "link": "https://github.com/tensorzero/tensorzero",
+        "description": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 164 # Comments: 115",
+        "source": "HackerNews",
+        "published": "2026-06-13T12:10:47+00:00"
+      },
+      {
         "title": "Mac Kullanıcıları için Rosetta Dönemi Kapanıyor",
         "link": "https://shiftdelete.net/mac-kullanicilari-icin-rosetta-donemi-kapaniyor",
         "description": "Apple, macOS Golden Gate ile Rosetta 2 desteğini sonlandırıyor. Hangi uygulamaların etkileneceğini nasıl kontrol edebileceğinizi öğrenin.",
         "source": "ShiftDelete",
         "published": "2026-06-13T12:00:00+00:00"
+      },
+      {
+        "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+        "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+        "description": "Article URL: https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500 Comments URL: https://news.ycombinator.com/item?id=48516379 Points: 184 # Comments: 93",
+        "source": "HackerNews",
+        "published": "2026-06-13T11:55:30+00:00"
+      },
+      {
+        "title": "Every Frame Perfect",
+        "link": "https://tonsky.me/blog/every-frame-perfect/",
+        "description": "Article URL: https://tonsky.me/blog/every-frame-perfect/ Comments URL: https://news.ycombinator.com/item?id=48516251 Points: 140 # Comments: 28",
+        "source": "HackerNews",
+        "published": "2026-06-13T11:40:20+00:00"
       },
       {
         "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
@@ -66,6 +157,13 @@
         "published": "2026-06-13T10:00:00+00:00"
       },
       {
+        "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+        "link": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+        "description": "Article URL: https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/ Comments URL: https://news.ycombinator.com/item?id=48515454 Points: 74 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-06-13T09:55:32+00:00"
+      },
+      {
         "title": "My first 24 hours with Siri AI on the Mac",
         "link": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
         "description": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still...",
@@ -85,13 +183,6 @@
         "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those...",
         "source": "The Verge",
         "published": "2026-06-13T08:57:08-04:00"
-      },
-      {
-        "title": "Windows 11’de Yerel Yapay Zeka Dönemi: Copilot+ Daha Çok Bilgisayara Geliyor",
-        "link": "https://shiftdelete.net/windows-11de-yerel-yapay-zeka-donemi-copilot-daha-cok-bilgisayara-geliyor",
-        "description": "Microsoft, yerel yapay zeka özelliklerini Nvidia RTX 30 serisi ve üzeri GPU'lara sahip Windows 11 bilgisayarlara açarak donanım kısıtlamasını esnetiyor.",
-        "source": "ShiftDelete",
-        "published": "2026-06-13T08:00:00+00:00"
       },
       {
         "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
@@ -129,13 +220,6 @@
         "published": "2026-06-12T21:59:49-04:00"
       },
       {
-        "title": "Valve just imported 13 tons of VR headsets in one day",
-        "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
-        "description": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming...",
-        "source": "The Verge",
-        "published": "2026-06-12T21:35:18-04:00"
-      },
-      {
         "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
         "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
         "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
@@ -171,13 +255,6 @@
         "published": "2026-06-12T17:51:47+03:00"
       },
       {
-        "title": "Mistral is rumored to be raising €3B at €20B valuation",
-        "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-        "description": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-        "source": "TechCrunch",
-        "published": "2026-06-12T17:38:11+00:00"
-      },
-      {
         "title": "Dünyanın İlk Taşınabilir E-Ink Monitörü 'Modos Flow' Tanıtıldı",
         "link": "\n                    https://www.webtekno.com/dunyanin-ilk-tasinabilir-e-ink-monitoru-modos-flow-tanitildi-h218326.html\n                    ",
         "description": "Modos, yıllar süren bir geliştirme sürecinin ardından dünyanın ilk taşınabilir E-Ink monitörü Modos Flow'u duyurdu.",
@@ -192,13 +269,6 @@
         "published": "2026-06-12T17:05:11-04:00"
       },
       {
-        "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-        "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
-        "description": "The trading platform says some customers experienced intermittent disruptions, but those issues have resolved.",
-        "source": "TechCrunch",
-        "published": "2026-06-12T17:05:06+00:00"
-      },
-      {
         "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
         "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
         "description": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most...",
@@ -211,13 +281,6 @@
         "description": "Sektörün en güvenilir sızıntı kaynaklarından birine göre MacBook Ultra ismini alacak yeni modelin OLED dokunmatik ekranla geleceği neredeyse kesinleşti.",
         "source": "Webtekno",
         "published": "2026-06-12T16:39:35+03:00"
-      },
-      {
-        "title": "Nothing CEO says phone prices are going to keep going up",
-        "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
-        "description": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has...",
-        "source": "The Verge",
-        "published": "2026-06-12T16:02:48-04:00"
       },
       {
         "title": "Toplam Fiyatı 1.330 TL Olan 3 Oyun Steam'de Ücretsiz Oldu",
@@ -276,6 +339,13 @@
         "published": "2026-06-12T13:32:07+03:00"
       },
       {
+        "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+        "link": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+        "description": "If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable...",
+        "source": "The Verge",
+        "published": "2026-06-12T13:26:43-04:00"
+      },
+      {
         "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
         "link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
         "description": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect...",
@@ -284,6 +354,13 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Thousands gather for anti-racism rally in Belfast after disorder",
+        "link": "https://www.bbc.com/news/articles/c20ygdde4djo?at_medium=RSS&at_campaign=rss",
+        "description": "Protesters gathered at Belfast City Hall for a demonstration against racism, after the past week of violence and disorder.",
+        "source": "BBC News",
+        "published": "2026-06-13T16:36:26+00:00"
+      },
       {
         "title": "In pictures: Trooping the Colour marks King's official birthday",
         "link": "https://www.bbc.com/news/articles/cpv3mmlg872o?at_medium=RSS&at_campaign=rss",
@@ -306,6 +383,13 @@
         "published": "2026-06-13T14:09:49+00:00"
       },
       {
+        "title": "Boston becomes 'mini-Scotland' before World Cup opener",
+        "link": "https://www.bbc.com/news/articles/cx2jqknpkklo?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland will play Haiti in their first World Cup match in 28 years at the Boston Stadium.",
+        "source": "BBC News",
+        "published": "2026-06-13T13:08:27+00:00"
+      },
+      {
         "title": "Are the Downing Street dominoes about to fall?",
         "link": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss",
         "description": "John Healey's resignation as defence secretary is a disaster for the prime minister, writes Laura Kuenssberg.",
@@ -325,13 +409,6 @@
         "description": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
         "source": "BBC News",
         "published": "2026-06-13T11:15:18+00:00"
-      },
-      {
-        "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
-        "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss",
-        "description": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby league star is knighted.",
-        "source": "BBC News",
-        "published": "2026-06-13T09:08:08+00:00"
       },
       {
         "title": "4 things to know about the new sunscreen ingredient the FDA approved",
@@ -360,13 +437,6 @@
         "description": "They gave smartphones to 10 women from a working-class Indian community to make a documentary about their unseen and unheralded lives. The results are .... pretty cool.",
         "source": "NPR",
         "published": "2026-06-13T06:56:45-04:00"
-      },
-      {
-        "title": "The costs and challenges facing the 2026 World Cup",
-        "link": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
-        "description": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
-        "source": "BBC News",
-        "published": "2026-06-13T06:21:43+00:00"
       },
       {
         "title": "COMIC: How excessive heat kills and how to stay safe",
@@ -411,9 +481,9 @@
         "published": "2026-06-12T21:01:34-04:00"
       },
       {
-        "title": "Workers begin removing Trump's name from the Kennedy Center",
-        "link": "https://www.npr.org/2026/06/12/g-s1-128017/trump-name-kennedy-center",
-        "description": "Workers began removing President Trump's name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.",
+        "title": "Kennedy Center removes Trump's name from the building",
+        "link": "https://www.npr.org/2026/06/12/g-s1-128017/kennedy-center-trump-name-remove",
+        "description": "Workers finished removing President Trump's name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.",
         "source": "NPR",
         "published": "2026-06-12T20:43:32-04:00"
       },
@@ -497,18 +567,81 @@
     ],
     "turkiye": [
       {
-        "title": "Son dakika... Özgür Özel Lüleburgaz'da konuşuyor",
-        "link": "https://www.sozcu.com.tr/son-dakika-ozgur-ozel-luleburgaz-da-konusuyor-p327665",
-        "description": "Son dakika... Özgür Özel Lüleburgaz'da konuşuyor",
-        "source": "Sözcü",
-        "published": "2026-06-13T18:13:44+03:00"
+        "title": "Yapay Zeka Eylem Planı'nda neler var? Bakan Kacır NTV'ye anlattı",
+        "link": "https://www.ntv.com.tr/turkiye/video-yapay-zeka-eylem-planinda-neler-var-bakan-kacir-ntvye-anlatti-1728465",
+        "description": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul'da düzenlenen Yapay Zeka Zirvesi'nde NTV'nin konuğu oldu. Türkiye'nin yapay zeka eylem planına ilişkin bilgiler verdi.",
+        "source": "NTV",
+        "published": "2026-06-13T19:46:26+03:00"
       },
       {
-        "title": "Kayıtlar tek tek incelendi dosya aydınlatıldı: 16 yıl önce ölü bulunan bebeğin annesi tutuklandı",
-        "link": "https://www.ntv.com.tr/turkiye/kayitlar-tek-tek-incelendi-dosya-aydinlatildi-16-yil-once-olu-bulunan-bebegin-annesi-tutuklandi-1728403",
-        "description": "Manisa'da 2010 yılında yaşanan bir bebek ölümüne ilişkin dosya 16 yıl sonra aydınlatıldı. Soruşturma kapsamında gözaltına alınan anne tutuklandı, kardeşi hakkında ev hapsi kararı verildi.",
+        "title": "Muharrem İnce'den dikkat çeken kurultay önerisi",
+        "link": "https://www.sozcu.com.tr/muharrem-ince-den-dikkat-ceken-kurultay-onerisi-p327680",
+        "description": "Muharrem İnce'den dikkat çeken kurultay önerisi",
+        "source": "Sözcü",
+        "published": "2026-06-13T19:44:54+03:00"
+      },
+      {
+        "title": "İletişim Başkanı Duran: Güvenli, yerli ve kamuya açık bir yapay zekâ ekosistemi inşa ettik",
+        "link": "https://www.ntv.com.tr/turkiye/iletisim-baskani-duran-guvenli-yerli-ve-kamuya-acik-bir-yapay-zeka-ekosistemi-insa-ettik-1728464",
+        "description": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, güvenli, yerli ve kamuya açık bir yapay zekâ ekosistemi inşa edildiğini belirtti.",
         "source": "NTV",
-        "published": "2026-06-13T18:12:13+03:00"
+        "published": "2026-06-13T19:23:43+03:00"
+      },
+      {
+        "title": "Arama yapan AFAD botu akıntıya kapıldı: Bir personel hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/arama-yapan-afad-botu-akintiya-kapildi-bir-personel-hayatini-kaybetti-p327678",
+        "description": "Arama yapan AFAD botu akıntıya kapıldı: Bir personel hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-06-13T19:22:24+03:00"
+      },
+      {
+        "title": "İspanya GP'sinde pole George Russell'ın",
+        "link": "https://www.sozcu.com.tr/ispanya-gp-sinde-pole-george-russell-in-p327677",
+        "description": "İspanya GP'sinde pole George Russell'ın",
+        "source": "Sözcü",
+        "published": "2026-06-13T19:19:14+03:00"
+      },
+      {
+        "title": "İstifasını sunan ABD İstihbarat Başkanı gizli laboratuvarları ifşa etti",
+        "link": "https://www.sozcu.com.tr/istifasini-sunan-abd-istihbarat-baskani-gizli-laboratuvarlari-ifsa-etti-p327676",
+        "description": "İstifasını sunan ABD İstihbarat Başkanı gizli laboratuvarları ifşa etti",
+        "source": "Sözcü",
+        "published": "2026-06-13T19:13:58+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan Beyoğlu'nda vatandaşlarla buluştu",
+        "link": "https://www.ntv.com.tr/turkiye/video-cumhurbaskani-erdogan-beyoglunda-vatandaslarla-bulustu-1728463",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beyoğlu'nda bulunan Erzurum Vakfı Lokali'ni ziyaret ederek, vatandaşlarla bir araya geldi. Erdoğan'ın ziyaretine İstanbul Valisi Davut Gül de eşlik etti. Cumhurbaşkanı Erdoğan, burada vatandaşlarla tek tek sohbet...",
+        "source": "NTV",
+        "published": "2026-06-13T18:49:34+03:00"
+      },
+      {
+        "title": "Görüntüsü olmasa kimsenin inanmayacağı bir olay",
+        "link": "https://www.sozcu.com.tr/goruntusu-olmasa-kimsenin-inanmayacagi-bir-olay-p327674",
+        "description": "Görüntüsü olmasa kimsenin inanmayacağı bir olay",
+        "source": "Sözcü",
+        "published": "2026-06-13T18:49:03+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan, Kuzey Makedonya Başbakanı Mickoski'yi kabul etti",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kuzey-makedonya-basbakani-mickoskiyi-kabul-etti-1728462",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kuzey Makedonya Başbakanı Hristijan Mickoski'yi kabul etti.",
+        "source": "NTV",
+        "published": "2026-06-13T18:33:54+03:00"
+      },
+      {
+        "title": "Aranan kayıp kişi ölü bulundu. Arama ekibinin botu devrildi, bir personel hayatını kaybetti",
+        "link": "https://www.ntv.com.tr/turkiye/aranan-kayip-kisi-olu-bulundu-arama-ekibinin-botu-devrildi-bir-personel-hayatini-kaybetti-1728461",
+        "description": "Rize'nin Çamlıhemşin ilçesinde haber alınamayan Volkan Civelekoğlu'nun cansız bedeni derede bulundu. Arama çalışmaları sırasında AFAD ekibini taşıyan botun devrilmesi sonucu bir personel hayatını kaybetti, 4 personel yaralandı.",
+        "source": "NTV",
+        "published": "2026-06-13T18:27:30+03:00"
+      },
+      {
+        "title": "Başkent'i sağanak vurdu: Caddeler göle döndü",
+        "link": "https://www.sozcu.com.tr/baskent-i-saganak-vurdu-caddeler-gole-dondu-p327673",
+        "description": "Başkent'i sağanak vurdu: Caddeler göle döndü",
+        "source": "Sözcü",
+        "published": "2026-06-13T18:26:53+03:00"
       },
       {
         "title": "Ankara ve Afyonkarahisar'da sağanak ve dolu: Bir anda bastırdı, yollar beyaza büründü",
@@ -553,32 +686,11 @@
         "published": "2026-06-13T17:15:56+03:00"
       },
       {
-        "title": "Galatasaray'da sürpriz Lemina gelişmesi! Takımdan ayrılıyor mu?",
-        "link": "https://www.sozcu.com.tr/galatasaray-da-surpriz-lemina-gelismesi-takimdan-ayriliyor-mu-p327655",
-        "description": "Galatasaray'da sürpriz Lemina gelişmesi! Takımdan ayrılıyor mu?",
-        "source": "Sözcü",
-        "published": "2026-06-13T17:07:16+03:00"
-      },
-      {
-        "title": "Millilerimizin Dünya Kupası serüveni başlıyor! Türkiye-Avustralya muhtemel 11'ler",
-        "link": "https://www.sozcu.com.tr/millilerimizin-dunya-kupasi-seruveni-basliyor-turkiye-avustralya-muhtemel-11-ler-p327660",
-        "description": "Millilerimizin Dünya Kupası serüveni başlıyor! Türkiye-Avustralya muhtemel 11'ler",
-        "source": "Sözcü",
-        "published": "2026-06-13T17:05:58+03:00"
-      },
-      {
-        "title": "Trafikteki silahlı maganda polis çıktı!",
-        "link": "https://www.sozcu.com.tr/yol-verme-kavgasinda-silah-ceken-polis-gorevden-uzaklastirildi-p327653",
-        "description": "Trafikteki silahlı maganda polis çıktı!",
-        "source": "Sözcü",
-        "published": "2026-06-13T16:58:03+03:00"
-      },
-      {
-        "title": "Futbol artık 90 dakika değil!",
-        "link": "https://www.sozcu.com.tr/futbol-artik-90-dakika-degil-p327659",
-        "description": "Futbol artık 90 dakika değil!",
-        "source": "Sözcü",
-        "published": "2026-06-13T16:54:08+03:00"
+        "title": "Avrupa Parlamentosu'nun Bakan Gürlek'e yaptırım çağrısı ne anlama geliyor?",
+        "link": "https://www.bbc.com/turkce/articles/cwy0eq16v70o?at_medium=RSS&at_campaign=rss",
+        "description": "Avrupa Parlamentosu'nun Türkiye Raporu taslağında Adalet Bakanı Akın Gürlek için yaptırım çağrısının yer alması tartışma yarattı. AP ilk kez spesifik bir isme atıf yapsa da yaptırım çağrısı bir ilk değil. Gelinen aşamada sorulan soru ise bu çağrının...",
+        "source": "BBC Turkish",
+        "published": "2026-06-13T16:38:42+00:00"
       },
       {
         "title": "İşte Ankara'nın yeni havalimanı: Adı belli oldu, pazartesi günü açılacak",
@@ -595,11 +707,11 @@
         "published": "2026-06-13T16:29:51+03:00"
       },
       {
-        "title": "1000 km'lik kabloyu yanlış döşedikleri için yolu yeniden yapacaklar",
-        "link": "https://www.sozcu.com.tr/1000-km-lik-kabloyu-yanlis-dosedikleri-icin-yolu-yeniden-yapacaklar-p327652",
-        "description": "1000 km'lik kabloyu yanlış döşedikleri için yolu yeniden yapacaklar",
-        "source": "Sözcü",
-        "published": "2026-06-13T16:18:05+03:00"
+        "title": "Belfast'taki ırkçılık karşıtı gösterilere binlerce kişi katıldı",
+        "link": "https://www.bbc.com/turkce/articles/cg4wl5zxgkvo?at_medium=RSS&at_campaign=rss",
+        "description": "Birleşik Krallık'ı oluşturan ülkelerden Kuzey İrlanda'nın başkenti Belfast, 8 Haziran Pazartesi gecesi gerçekleşen bir bıçaklı saldırı ve ardından patlak veren şiddet eylemleriyle sarsıldı. 13 Haziran Cumartesi günü ise bu eylemler protesto edildi",
+        "source": "BBC Turkish",
+        "published": "2026-06-13T16:07:26+00:00"
       },
       {
         "title": "\"İki trafik polisi bir kişiyi dövdü\" iddiasına soruşturma",
@@ -609,13 +721,6 @@
         "published": "2026-06-13T15:21:32+03:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Yapay Zeka Eylem Planı'nı açıkladı",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-disa-bagimli-oldugumuz-teknolojileri-artik-kendimiz-uretiyoruz-1728443",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'nin dört eksenden oluşan Yapay Zeka Eylem Planı'nı açıkladı.",
-        "source": "NTV",
-        "published": "2026-06-13T15:15:44+03:00"
-      },
-      {
         "title": "İsviçre, nüfusu 10 milyonla sınırlandırma planını oyluyor",
         "link": "https://www.bbc.com/turkce/articles/c79yd3jd1q9o?at_medium=RSS&at_campaign=rss",
         "description": "İsviçre'de seçmenler, göçü sınırlandırarak nüfusu 2050'ye kadar 10 milyonun altında tutmayı amaçlayan tartışmalı teklifi oylarken, referandum ülkenin ekonomik ihtiyaçları ile göç kaygıları arasındaki gerilimi gözler önüne seriyor",
@@ -623,32 +728,11 @@
         "published": "2026-06-13T14:14:04+00:00"
       },
       {
-        "title": "LGS soruları zor muydu, kolay mıydı? Sınavdan çıkan öğrenciler yanıtladı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-lgs-sorulari-zor-muydu-kolay-miydi-sinavdan-cikan-ogrenciler-yanitladi-1728429",
-        "description": "LGS maratonu tamamlandı. Sınavdan çıkan öğrenciler en çok hangi sorularda zorlandıklarını anlattı.",
-        "source": "NTV",
-        "published": "2026-06-13T13:52:55+03:00"
-      },
-      {
         "title": "'Hiç bu kadar yakın olmamıştı': İran ve ABD arasındaki ateşkes anlaşmasında son durum ne?",
         "link": "https://www.bbc.com/turkce/articles/cd95x7xl1jpo?at_medium=RSS&at_campaign=rss",
         "description": "İran Dışişleri Bakanı Abbas Arakçi, savaşı sona erdirmek üzere ABD ile yapılacak bir anlaşma için \"hiç bu kadar yakın olmamıştı\" dedi. Trump, Arakçi'nin mesajını paylaştı.",
         "source": "BBC Turkish",
         "published": "2026-06-13T13:43:33+00:00"
-      },
-      {
-        "title": "Adı belli oldu: Ankara'nın yeni havalimanı pazartesi günü açılıyor",
-        "link": "https://www.ntv.com.tr/turkiye/adi-belli-oldu-ankaranin-yeni-havalimani-pazartesi-gunu-aciliyor-1728423",
-        "description": "Ankara'daki NATO Zirvesi'nde de kullanılması planlanan Etimesgut Havalimanı, yeni adıyla pazartesi günü açılıyor.",
-        "source": "NTV",
-        "published": "2026-06-13T12:56:44+03:00"
-      },
-      {
-        "title": "Son dakika İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir deprem Kandilli ve AFAD son depremler listesi 13 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-izmirde-deprem-mi-oldu-az-once-deprem-izmirde-nerede-oldu-izmir-deprem-kandilli-ve-afad-son-depremler-listesi-13-haziran-2026-1728424",
-        "description": "Son dakika İzmir deprem haberleri.. İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir Kandilli ve AFAD son depremler.. 13 Haziran 2026 İzmir deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu İzmir'de? İzmir son...",
-        "source": "NTV",
-        "published": "2026-06-13T12:50:00+03:00"
       },
       {
         "title": "Türkiye Avustralya maçıyla Dünya Kupası'na başlıyor",
@@ -691,20 +775,6 @@
         "description": "TRT'nin dijital platformu tabii'de yayımlanan 'Şule Senin Hikayen' dizisi, 1960 ve 1970'lerde önemli etki yaratan İslamcı yazar ve eylemci Şule Yüksel Şenler'i yeniden gündeme taşıdı. Şenler'in hayatını ve eserlerini inceledik",
         "source": "BBC Turkish",
         "published": "2026-06-13T07:29:24+00:00"
-      },
-      {
-        "title": "'Tarihin en güçlü hava olaylarından biri': El Nino resmen başladı",
-        "link": "https://www.bbc.com/turkce/articles/cgrkwznln58o?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Ulusal Okyanus ve Atmosfer İdaresi (NOAA), Pasifik Okyanusu'nda oluşarak küresel sıcaklıkları yükselten hava olayı El Nino'nun resmen başladığını duyurdu.",
-        "source": "BBC Turkish",
-        "published": "2026-06-12T19:23:04+00:00"
-      },
-      {
-        "title": "Tavukçuluk sektörüne operasyon: 13 şirkete kayyum atandı, üst düzey yöneticiler gözaltında",
-        "link": "https://www.bbc.com/turkce/articles/cn07xew07j7o?at_medium=RSS&at_campaign=rss",
-        "description": "Beyaz et sektöründe haksız fiyat artışı gerekçesiyle sekiz ilde operasyon düzenlendi ve 13 şirkete denetim kayyumu atandı.",
-        "source": "BBC Turkish",
-        "published": "2026-06-12T12:36:16+00:00"
       }
     ]
   },
@@ -715,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+90°F",
-    "wind": "→6mph",
-    "humidity": "28%"
+    "temp": "+84°F",
+    "wind": "↘4mph",
+    "humidity": "46%"
   }
 }
