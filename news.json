@@ -1,20 +1,34 @@
 {
-  "updated_at": "2026-06-16T23:04:55.559485+00:00",
+  "updated_at": "2026-06-17T02:01:33.743114+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+        "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+        "description": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/ Comments URL: https://news.ycombinator.com/item?id=48563609 Points: 65 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-06-16T23:15:44+00:00"
+      },
+      {
+        "title": "NLnet announces funding for 67 more open-source projects",
+        "link": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+        "description": "Article URL: https://nlnet.nl/news/2026/20260616-67-new-projects.html Comments URL: https://news.ycombinator.com/item?id=48563569 Points: 61 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-06-16T23:12:09+00:00"
+      },
+      {
+        "title": "Humiliating IIS servers for fun and jail time",
+        "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+        "description": "Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ Comments URL: https://news.ycombinator.com/item?id=48563394 Points: 87 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-06-16T22:53:34+00:00"
+      },
       {
         "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
         "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
         "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
         "source": "TechCrunch",
         "published": "2026-06-16T22:34:17+00:00"
-      },
-      {
-        "title": "The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy",
-        "link": "https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/",
-        "description": "Article URL: https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/ Comments URL: https://news.ycombinator.com/item?id=48562957 Points: 21 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-06-16T22:15:55+00:00"
       },
       {
         "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
@@ -24,23 +38,23 @@
         "published": "2026-06-16T22:09:32+00:00"
       },
       {
-        "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+        "title": "GrapheneOS has been ported to Android 17",
         "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-        "description": "Article URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon Comments URL: https://news.ycombinator.com/item?id=48561654 Points: 170 # Comments: 67",
+        "description": "Article URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon Comments URL: https://news.ycombinator.com/item?id=48561654 Points: 388 # Comments: 153",
         "source": "HackerNews",
         "published": "2026-06-16T20:34:35+00:00"
       },
       {
         "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
         "link": "https://github.com/nvlabs/cutile-rs",
-        "description": "Article URL: https://github.com/nvlabs/cutile-rs Comments URL: https://news.ycombinator.com/item?id=48561410 Points: 11 # Comments: 4",
+        "description": "Article URL: https://github.com/nvlabs/cutile-rs Comments URL: https://news.ycombinator.com/item?id=48561410 Points: 26 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-06-16T20:17:42+00:00"
       },
       {
         "title": "Frood, an Alpine Initramfs NAS (2024)",
         "link": "https://words.filippo.io/frood/",
-        "description": "Article URL: https://words.filippo.io/frood/ Comments URL: https://news.ycombinator.com/item?id=48561402 Points: 22 # Comments: 8",
+        "description": "Article URL: https://words.filippo.io/frood/ Comments URL: https://news.ycombinator.com/item?id=48561402 Points: 28 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-06-16T20:17:04+00:00"
       },
@@ -57,6 +71,13 @@
         "description": "Apple, giyilebilir teknoloji ve yapay zeka entegrasyonunda ezber bozan bir ürün üzerinde çalışıyor. Bloomberg tarafından paylaşılan son raporlara göre şirket, üzerinde entegre kameralar barındıran yeni nesil AirPods modelini 2027 yılının sonlarında...",
         "source": "ShiftDelete",
         "published": "2026-06-16T20:00:47+00:00"
+      },
+      {
+        "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
+        "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
+        "description": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4, adding a new Live Updates feature that tracks live events from your Android smartwatch. Live Updates will now sync with Wear OS devices, so updates like sports...",
+        "source": "The Verge",
+        "published": "2026-06-16T19:39:08-04:00"
       },
       {
         "title": "TRT 1 Sinyal Yok Sorunu Çözümü: Dünya Kupası TRT Güncel Frekans",
@@ -96,7 +117,7 @@
       {
         "title": "Apple is about to make Hide My Email useless",
         "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-        "description": "Article URL: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/ Comments URL: https://news.ycombinator.com/item?id=48559935 Points: 314 # Comments: 188",
+        "description": "Article URL: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/ Comments URL: https://news.ycombinator.com/item?id=48559935 Points: 396 # Comments: 240",
         "source": "HackerNews",
         "published": "2026-06-16T18:37:21+00:00"
       },
@@ -145,7 +166,7 @@
       {
         "title": "GPT‑NL: a sovereign language model for the Netherlands",
         "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-        "description": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 115 # Comments: 106",
+        "description": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 136 # Comments: 137",
         "source": "HackerNews",
         "published": "2026-06-16T17:54:02+00:00"
       },
@@ -159,7 +180,7 @@
       {
         "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
         "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-        "description": "Article URL: https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus Comments URL: https://news.ycombinator.com/item?id=48559083 Points: 74 # Comments: 57",
+        "description": "Article URL: https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus Comments URL: https://news.ycombinator.com/item?id=48559083 Points: 98 # Comments: 77",
         "source": "HackerNews",
         "published": "2026-06-16T17:48:42+00:00"
       },
@@ -185,25 +206,11 @@
         "published": "2026-06-16T17:30:00+00:00"
       },
       {
-        "title": "Has AI already killed self-help nonfiction books?",
-        "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-        "description": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 96 # Comments: 106",
-        "source": "HackerNews",
-        "published": "2026-06-16T17:11:05+00:00"
-      },
-      {
         "title": "İlginç Kamera Tasarımlı Bütçe Dostu Telefon TECNO Spark 50 Pro Tanıtıldı: İşte Özellikleri",
         "link": "\n                    https://www.webtekno.com/tecno-spark-50-pro-ozellikleri-h218484.html\n                    ",
         "description": "TECNO, yeni uygun fiyatlı telefonu Spark 50 Pro’yu ilginç kamera tasarımıyla tanıttı.",
         "source": "Webtekno",
         "published": "2026-06-16T17:08:19+03:00"
-      },
-      {
-        "title": "'Ghost jobs' could soon be illegal in New York",
-        "link": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
-        "description": "Article URL: https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york Comments URL: https://news.ycombinator.com/item?id=48558338 Points: 158 # Comments: 89",
-        "source": "HackerNews",
-        "published": "2026-06-16T17:01:12+00:00"
       },
       {
         "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
@@ -318,13 +325,6 @@
         "published": "2026-06-16T13:45:53-04:00"
       },
       {
-        "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
-        "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
-        "description": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4 , adding a new Live Updates feature that tracks live events from your Android smart watch. Live Updates will now sync with Wear OS devices, so updates like...",
-        "source": "The Verge",
-        "published": "2026-06-16T13:28:32-04:00"
-      },
-      {
         "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
         "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
         "description": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they...",
@@ -355,18 +355,74 @@
     ],
     "dunya": [
       {
-        "title": "Brazilian court convicts Jair Bolsonaro’s son of seeking US help for his father",
-        "link": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
-        "description": "Supreme court finds Eduardo Bolsonaro tried to get sanctions put on judges trying ex-president over coup plot Brazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in prison after finding him guilty of courting US...",
-        "source": "The Guardian",
-        "published": "2026-06-16T21:44:54+00:00"
+        "title": "England will not adapt style despite USA heat - Tuchel",
+        "link": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
+        "description": "Thomas Tuchel says he is \"not ready to adapt\" England's playing style at the World Cup despite the heat - as it would \"give up\" the team's strengths.",
+        "source": "BBC News",
+        "published": "2026-06-17T01:46:52+00:00"
+      },
+      {
+        "title": "Streeting would 'be prepared' to trigger leadership contest as early as next week",
+        "link": "https://www.bbc.com/news/articles/c4gyeg2207yo?at_medium=RSS&at_campaign=rss",
+        "description": "But the former health secretary told BBC Newsnight he would prefer for the prime minister “to take a decision on his own terms”.",
+        "source": "BBC News",
+        "published": "2026-06-17T01:43:56+00:00"
       },
       {
         "title": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
         "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-        "description": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
+        "description": "The retired couple told BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
         "source": "BBC News",
-        "published": "2026-06-16T21:44:25+00:00"
+        "published": "2026-06-17T00:25:39+00:00"
+      },
+      {
+        "title": "Social media has risks but has given us opportunities too, teens say",
+        "link": "https://www.bbc.com/news/articles/c4gyp16wp6jo?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Keir Starmer says the ban will give children more time, security and freedom to grow up. But how do under-16s feel?",
+        "source": "BBC News",
+        "published": "2026-06-16T23:23:01+00:00"
+      },
+      {
+        "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+        "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+        "description": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
+        "source": "BBC News",
+        "published": "2026-06-16T23:17:46+00:00"
+      },
+      {
+        "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
+        "link": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+        "description": "Brazil supreme court finds that Eduardo Bolsonaro – who resides in the US - tried to get sanctions put on judges trying ex-president over coup plot Brazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in prison after...",
+        "source": "The Guardian",
+        "published": "2026-06-16T21:44:54+00:00"
+      },
+      {
+        "title": "Watch: Why is Trump furious with Netanyahu over strikes on Lebanon?",
+        "link": "https://www.bbc.com/news/videos/cvgmqelv0edo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Tom Bateman looks at the US president's reaction to what he called \"vicious\" strikes.",
+        "source": "BBC News",
+        "published": "2026-06-16T21:32:24+00:00"
+      },
+      {
+        "title": "Haitian immigrants ask Supreme Court to toss case in light of new evidence",
+        "link": "https://www.npr.org/2026/06/16/nx-s1-5860947/supreme-court-haiti-tps-immigrants",
+        "description": "The lawyers argue that the court does not have a full record of how the Trump administration decided to end temporary protective status for Haitians in the U.S.",
+        "source": "NPR",
+        "published": "2026-06-16T21:09:27-04:00"
+      },
+      {
+        "title": "Georgia results: Collins will face Sen. Ossoff; Trump's pick loses governor runoff",
+        "link": "https://www.npr.org/2026/06/16/nx-s1-5860795/georgia-election-senate-governor-results-trump",
+        "description": "In an upset, Georgia Republican voters rejected President Trump's preferred nominee for the competitive open governor's race. They also picked Rep. Mike Collins to face Sen. Jon Ossoff.",
+        "source": "NPR",
+        "published": "2026-06-16T20:38:01-04:00"
+      },
+      {
+        "title": "Briton on around-the-world walk since 1998 refused access to Channel Tunnel for final leg",
+        "link": "https://www.bbc.com/news/articles/c2dyexegry6o?at_medium=RSS&at_campaign=rss",
+        "description": "Karl Bushby says he is prepared to swim the channel in order to complete his 28-year journey.",
+        "source": "BBC News",
+        "published": "2026-06-16T19:17:23+00:00"
       },
       {
         "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
@@ -383,25 +439,11 @@
         "published": "2026-06-16T17:47:30+00:00"
       },
       {
-        "title": "UK forces face operational cuts without more cash, defence chief warns",
-        "link": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as ex-defence secretary John Healey says the UK's enemies \"do not follow timetables set by the Treasury\".",
-        "source": "BBC News",
-        "published": "2026-06-16T17:09:36+00:00"
-      },
-      {
         "title": "Prince George to attend Eton College from September",
         "link": "https://www.bbc.com/news/articles/clyx4jd9kkdo?at_medium=RSS&at_campaign=rss",
         "description": "He will follow in the footsteps of his father, the Prince of Wales, who also attended the private school.",
         "source": "BBC News",
         "published": "2026-06-16T16:55:22+00:00"
-      },
-      {
-        "title": "Naomi Campbell blames lawyer for 'fraud and deception' at charity ban appeal",
-        "link": "https://www.bbc.com/news/articles/cj3gn3ly3y1o?at_medium=RSS&at_campaign=rss",
-        "description": "The supermodel is appealing the ban against her, telling an appeal tribunal that fake emails were used to misdirect funds.",
-        "source": "BBC News",
-        "published": "2026-06-16T16:41:45+00:00"
       },
       {
         "title": "Iraqi soccer fans celebrate end of 40-year World Cup drought",
@@ -416,20 +458,6 @@
         "description": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
         "source": "BBC News",
         "published": "2026-06-16T15:31:24+00:00"
-      },
-      {
-        "title": "What UK social media ban means for gaming and YouTube",
-        "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
-        "description": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
-        "source": "BBC News",
-        "published": "2026-06-16T15:28:15+00:00"
-      },
-      {
-        "title": "Three reasons ships are not going through the Strait of Hormuz yet",
-        "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say that there are significant obstacles preventing traffic from returning to the levels seen before the conflict began – security, mines and tolls.",
-        "source": "BBC News",
-        "published": "2026-06-16T14:11:30+00:00"
       },
       {
         "title": "In Albania, anger grows against the government for supporting a Kushner-linked luxury resort",
@@ -451,13 +479,6 @@
         "description": "Jesse Wegman's book tells the story of James Wilson, a largely forgotten founding father who lived a colorful life and died as a Supreme Court justice on the run from the law and creditors.",
         "source": "NPR",
         "published": "2026-06-16T12:54:21-04:00"
-      },
-      {
-        "title": "Thames Water closer to nationalisation after government objects to rescue deal",
-        "link": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-        "description": "The environment secretary says the deal does not do enough for consumers or the environment.",
-        "source": "BBC News",
-        "published": "2026-06-16T12:25:59+00:00"
       },
       {
         "title": "Live with a partner? You may be sharing more microbes than you think",
@@ -486,27 +507,6 @@
         "description": "New albums by Lizzo and the rising artist Imani Imani are both \"event\" records — but one arrives with arguably too much backstory, the other with almost none.",
         "source": "NPR",
         "published": "2026-06-16T10:21:35-04:00"
-      },
-      {
-        "title": "Survey confirms the struggle of working parents: 'No way to be two things at once'",
-        "link": "https://www.npr.org/2026/06/16/nx-s1-5856274/working-parents-balance-work-pew",
-        "description": "A new Pew survey finds many working parents feel they cannot give 100% at either work or home. Benefits like paid sick leave and more affordable childcare could help.",
-        "source": "NPR",
-        "published": "2026-06-16T10:00:00-04:00"
-      },
-      {
-        "title": "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
-        "link": "https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione",
-        "description": "Israel has been sidelined in the agreement between the U.S. and Iran. It could spoil peace negotiations. And, it's been a thrilling start to the World Cup.",
-        "source": "NPR",
-        "published": "2026-06-16T06:53:19-04:00"
-      },
-      {
-        "title": "Woman left traumatised by swinging says website 'facilitated abuse'",
-        "link": "https://www.bbc.com/news/articles/c87q7g48y4po?at_medium=RSS&at_campaign=rss",
-        "description": "She wants to warn others after her husband pressured her into sex she did not want, she says.",
-        "source": "BBC News",
-        "published": "2026-06-16T05:00:16+00:00"
       },
       {
         "title": "Canada eliminates human rights watchdog that oversees companies operating abroad",
@@ -571,7 +571,84 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-haziran-2026-1728908",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-17T02:00:00+03:00"
+        "published": "2026-06-17T05:00:00+03:00"
+      },
+      {
+        "title": "Yatarak motosiklet kullananlara para cezası",
+        "link": "https://www.ntv.com.tr/turkiye/video-yatarak-motosiklet-kullananlara-para-cezasi-1728922",
+        "description": "Kilis'te trafikte motosikletle akrobatik hareketler yapan motosiklet sürücülerine 138 bin 500 lira ceza uygulandı.",
+        "source": "NTV",
+        "published": "2026-06-17T04:57:37+03:00"
+      },
+      {
+        "title": "'Beyaz et' operasyonunun ardından kırmızı ete dev zam",
+        "link": "https://www.sozcu.com.tr/beyaz-et-operasyonunun-ardindan-kirmizi-ete-dev-zam-p328585",
+        "description": "'Beyaz et' operasyonunun ardından kırmızı ete dev zam",
+        "source": "Sözcü",
+        "published": "2026-06-17T04:53:44+03:00"
+      },
+      {
+        "title": "Hükümdar alındı, sıra başkanlarda",
+        "link": "https://www.sozcu.com.tr/chp-de-hangi-baskanlar-gidecek-p328592",
+        "description": "Hükümdar alındı, sıra başkanlarda",
+        "source": "Sözcü",
+        "published": "2026-06-17T04:01:16+03:00"
+      },
+      {
+        "title": "Taliban'dan iyi, Sudan'dan kötüyüz!",
+        "link": "https://www.sozcu.com.tr/taliban-dan-iyi-sudan-dan-kotuyuz-p328591",
+        "description": "Taliban'dan iyi, Sudan'dan kötüyüz!",
+        "source": "Sözcü",
+        "published": "2026-06-17T04:00:02+03:00"
+      },
+      {
+        "title": "Akrabaları Kılıçdaroğlu'na tepki: \"Emekli ol, evinde otur\"",
+        "link": "https://www.sozcu.com.tr/akrabalari-kilicdaroglu-nu-topa-tuttu-emekli-olsun-evinde-otursun-p328589",
+        "description": "Akrabaları Kılıçdaroğlu'na tepki: \"Emekli ol, evinde otur\"",
+        "source": "Sözcü",
+        "published": "2026-06-17T04:00:02+03:00"
+      },
+      {
+        "title": "Beceriksizliğin ödülü 8 milyar TL",
+        "link": "https://www.sozcu.com.tr/beceriksizligin-odulu-8-milyar-tl-p328587",
+        "description": "Beceriksizliğin ödülü 8 milyar TL",
+        "source": "Sözcü",
+        "published": "2026-06-17T04:00:02+03:00"
+      },
+      {
+        "title": "Ece'nin temiz kalbi meğer bu yüzden yıpranmış",
+        "link": "https://www.sozcu.com.tr/ece-nin-temiz-kalbi-meger-bu-yuzden-yipranmis-p328583",
+        "description": "Ece'nin temiz kalbi meğer bu yüzden yıpranmış",
+        "source": "Sözcü",
+        "published": "2026-06-17T04:00:02+03:00"
+      },
+      {
+        "title": "CHP koridorlarında konuşulan 'gizli' formül",
+        "link": "https://www.sozcu.com.tr/chp-koridorlarinda-konusulan-gizli-formul-p328579",
+        "description": "CHP koridorlarında konuşulan 'gizli' formül",
+        "source": "Sözcü",
+        "published": "2026-06-17T04:00:02+03:00"
+      },
+      {
+        "title": "5 gollü maçta 3 puan Norveç'in! Haaland damga vurdu",
+        "link": "https://www.sozcu.com.tr/5-gollu-macta-3-puan-norvec-in-haaland-damga-vurdu-p328588",
+        "description": "5 gollü maçta 3 puan Norveç'in! Haaland damga vurdu",
+        "source": "Sözcü",
+        "published": "2026-06-17T03:13:02+03:00"
+      },
+      {
+        "title": "Mülki İdare Amirleri atama kararnamesi yayımlandı",
+        "link": "https://www.ntv.com.tr/turkiye/mulki-idare-amirleri-atama-kararnamesi-yayimlandi-1728912",
+        "description": "Resmi Gazete’de yayımlanan Mülki İdare Amirleri Atama Kararnamesi ile çok sayıda ilçenin kaymakamı ve vali yardımcılıklarında görev değişimi yaşandı.",
+        "source": "NTV",
+        "published": "2026-06-17T02:36:37+03:00"
+      },
+      {
+        "title": "Ekran süresini azaltın sahaya odaklanın",
+        "link": "https://www.sozcu.com.tr/ekran-suresini-azaltin-sahaya-odaklanin-p328580",
+        "description": "Ekran süresini azaltın sahaya odaklanın",
+        "source": "Sözcü",
+        "published": "2026-06-17T02:05:33+03:00"
       },
       {
         "title": "TBMM'nin çalışma süresi uzatıldı",
@@ -588,74 +665,18 @@
         "published": "2026-06-17T01:54:02+03:00"
       },
       {
-        "title": "Milli yıldızlardan eleştirilere olay yanıt: 'Saçına, bıyığına laf etmek...'",
-        "link": "https://www.sozcu.com.tr/milli-yildizlardan-elestirilere-olay-yanit-sacina-biyigina-laf-etmek-p328574",
-        "description": "Milli yıldızlardan eleştirilere olay yanıt: 'Saçına, bıyığına laf etmek...'",
-        "source": "Sözcü",
-        "published": "2026-06-17T01:29:43+03:00"
+        "title": "Neden gemiler henüz Hürmüz Boğazı'ndan geçmiyor?",
+        "link": "https://www.bbc.com/turkce/articles/c30yqm2n237o?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Başkanı Donald Trump 14 Haziran Pazar günü İran ile yapılan anlaşmayı duyurup Hürmüz Boğazı'nın \"açılışını\" ilan ettiğinde, sosyal medya paylaşımını \"Dünyanın gemileri, motorlarınızı çalıştırın. Petrol akmaya başlasın!\" sözleriyle bitirdi.",
+        "source": "BBC Turkish",
+        "published": "2026-06-17T01:38:39+00:00"
       },
       {
-        "title": "Beyaz et operasyonunda geri adım: 4 şirkete kayyım kararı kaldırıldı",
-        "link": "https://www.sozcu.com.tr/beyaz-et-operasyonunda-geri-adim-mahkeme-4-sirkete-kayyumu-kaldirdi-p328570",
-        "description": "Beyaz et operasyonunda geri adım: 4 şirkete kayyım kararı kaldırıldı",
-        "source": "Sözcü",
-        "published": "2026-06-17T01:24:14+03:00"
-      },
-      {
-        "title": "Masonlar Derneği Başkanı Remzi Sanver tahliye edildi! Can Holding soruşturmasında tutuklanmıştı",
-        "link": "https://www.sozcu.com.tr/masonlar-dernegi-baskani-remzi-sanver-tahliye-edildi-can-holding-sorusturmasinda-tutuklanmisti-p328568",
-        "description": "Masonlar Derneği Başkanı Remzi Sanver tahliye edildi! Can Holding soruşturmasında tutuklanmıştı",
-        "source": "Sözcü",
-        "published": "2026-06-17T01:19:17+03:00"
-      },
-      {
-        "title": "200 hektarlık alanda yıllardır görülmeyen dönüşüm başladı",
-        "link": "https://www.sozcu.com.tr/200-hektarlik-alanda-yillardir-gorulmeyen-donusum-basladi-p328572",
-        "description": "200 hektarlık alanda yıllardır görülmeyen dönüşüm başladı",
-        "source": "Sözcü",
-        "published": "2026-06-17T01:02:06+03:00"
-      },
-      {
-        "title": "Marmara'da 3,6 büyüklüğünde deprem",
-        "link": "https://www.sozcu.com.tr/marmara-denizi-nde-deprem-16-haziran-2026-p328565",
-        "description": "Marmara'da 3,6 büyüklüğünde deprem",
-        "source": "Sözcü",
-        "published": "2026-06-17T00:59:00+03:00"
-      },
-      {
-        "title": "Mülki İdare Amirleri atama kararnamesi yayımlandı",
-        "link": "https://www.ntv.com.tr/turkiye/mulki-idare-amirleri-atama-kararnamesi-yayimlandi-1728912",
-        "description": "Resmi Gazete’de yayımlanan Mülki İdare Amirleri Atama Kararnamesi ile çok sayıda ilçenin kaymakamı ve vali yardımcılıklarında görev değişimi yaşandı.",
-        "source": "NTV",
-        "published": "2026-06-17T00:52:41+03:00"
-      },
-      {
-        "title": "Güney Kore'de Son Heung-min krizi!",
-        "link": "https://www.sozcu.com.tr/guney-kore-de-son-heung-min-krizi-p328569",
-        "description": "Güney Kore'de Son Heung-min krizi!",
-        "source": "Sözcü",
-        "published": "2026-06-17T00:41:28+03:00"
-      },
-      {
-        "title": "Ukrayna’da bombardıman uçağı düştü",
-        "link": "https://www.sozcu.com.tr/ukrayna-da-bombardiman-ucagi-dustu-p328567",
-        "description": "Ukrayna’da bombardıman uçağı düştü",
-        "source": "Sözcü",
-        "published": "2026-06-17T00:22:37+03:00"
-      },
-      {
-        "title": "Yer altına 45 kilometrelik dev ağ kurdular: Günde 950 milyon litre su depolayacaklar",
-        "link": "https://www.sozcu.com.tr/yer-altina-45-kilometrelik-dev-ag-kurdular-gunde-950-milyon-litre-su-depolayacaklar-p328566",
-        "description": "Yer altına 45 kilometrelik dev ağ kurdular: Günde 950 milyon litre su depolayacaklar",
-        "source": "Sözcü",
-        "published": "2026-06-17T00:20:41+03:00"
-      },
-      {
-        "title": "Son finalist Fransa, 2026 Dünya Kupası'na 3 puanla başladı! Mbappe, Pele'yi solladı",
-        "link": "https://www.sozcu.com.tr/son-finalist-fransa-2026-dunya-kupasi-na-3-puanla-basladi-mbappe-pele-yi-solladi-p328564",
-        "description": "Son finalist Fransa, 2026 Dünya Kupası'na 3 puanla başladı! Mbappe, Pele'yi solladı",
-        "source": "Sözcü",
-        "published": "2026-06-17T00:15:31+03:00"
+        "title": "Regl ağrıları için doğru ilaç hangisi?",
+        "link": "https://www.bbc.com/turkce/articles/c982g12yjz6o?at_medium=RSS&at_campaign=rss",
+        "description": "İngiltere'de süpermarket verilerini kullanan bir araştırma, kadınların regl ağrıları için yanlış ilacın satın alıyor olabileceğini gösteriyor.",
+        "source": "BBC Turkish",
+        "published": "2026-06-17T01:34:15+00:00"
       },
       {
         "title": "Son dakika Balıkesir'de deprem mi oldu? Az önce deprem Balıkesir'de nerede oldu? Balıkesir deprem Kandilli ve AFAD son depremler listesi 16 Haziran 2026",
@@ -700,13 +721,6 @@
         "published": "2026-06-16T20:10:00+03:00"
       },
       {
-        "title": "5 ilde yasa dışı bahis operasyonu. 1 milyar 165 milyon TL'lik işlem hacmi belirlendi",
-        "link": "https://www.ntv.com.tr/turkiye/5-ilde-yasa-disi-bahis-operasyonu-1-milyar-165-milyon-tllik-islem-hacmi-belirlendi-1728891",
-        "description": "Diyarbakır merkezli 5 ilde düzenlenen yasa dışı bahis operasyonunda 51 şahıs gözaltına alındı. Şahısların banka hesaplarında 1 milyar 165 milyon 753 bin liralık işlem hacmi belirlendi.",
-        "source": "NTV",
-        "published": "2026-06-16T19:18:59+03:00"
-      },
-      {
         "title": "'Netanyahu açısından siyasi kabus': ABD-İran anlaşması İsrail için ne anlama geliyor?",
         "link": "https://www.bbc.com/turkce/articles/c74yk2g3l7ko?at_medium=RSS&at_campaign=rss",
         "description": "Donald Trump'ın İranla ateşkes anlaşması İsrail Başbakanı'nı yeni bir siyaset ve güvenlik ikilemiyle karşı karşıya bıraktı.",
@@ -742,13 +756,6 @@
         "published": "2026-06-16T05:43:51+00:00"
       },
       {
-        "title": "'Tunceli halkı ikiye bölündü': Kılıçdaroğlu'nun genel başkanlığı memleketinde nasıl yorumlanıyor?",
-        "link": "https://www.bbc.com/turkce/articles/c5yz9g52p9vo?at_medium=RSS&at_campaign=rss",
-        "description": "Kemal Kılıçdaroğlu'nun CHP genel başkanlığına iadesi Türkiye'de siyasi tartışmaya yol açtı. BBC Türkçe, CHP'nin fiilen bölünmesine neden olan mutlak butlan kararını ve etkilerini Kılıçdaroğlu'nun memleketi Tunceli sakinlerine sordu.",
-        "source": "BBC Turkish",
-        "published": "2026-06-16T02:44:00+00:00"
-      },
-      {
         "title": "ABD-İran anlaşması Türkiye ekonomisini nasıl etkileyebilir?",
         "link": "https://www.bbc.com/turkce/articles/cy9rd81lq77o?at_medium=RSS&at_campaign=rss",
         "description": "ABD ve İran arasında savaşı bitirecek bir anlaşmaya varılması Türkiye ekonomisini nasıl etkileyebilir? Enflasyondan faize, borsalardan ticarete kadar pek çok açıyı uzmanlara sorduk.",
@@ -763,13 +770,6 @@
         "published": "2026-06-15T23:26:43+00:00"
       },
       {
-        "title": "TEST: Dünya Kupası'ndaki formaları ne kadar tanıyorsunuz?",
-        "link": "https://www.bbc.com/turkce/articles/c1kynpjr3d3o?at_medium=RSS&at_campaign=rss",
-        "description": "Dünya Kupası'nda çok sayıda göz alıcı forma sergileniyor. Peki, yeni formaları ne kadar tanıyorsunuz? Testi çözün ve Dünya Kupası formaları hakkındaki bilginizi sınayın.",
-        "source": "BBC Turkish",
-        "published": "2026-06-12T14:11:19+00:00"
-      },
-      {
         "title": "104 maçı canlı takip edin",
         "link": "https://www.bbc.com/turkce/articles/cq8pljlkx0wo?at_medium=RSS&at_campaign=rss",
         "description": "Hiçbir golü kaçırmayın: Takvim ve anlık sonuçlar",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 46.2969,
-    "eur_try": 53.7042,
-    "eur_usd": 0.8623
+    "usd_try": 46.3398,
+    "eur_try": 53.7946,
+    "eur_usd": 0.8613
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+85°F",
-    "wind": "↘26mph",
-    "humidity": "13%"
+    "condition": "Güneşli",
+    "temp": "+72°F",
+    "wind": "→5mph",
+    "humidity": "61%"
   }
 }
