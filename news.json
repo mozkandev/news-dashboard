@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-06-18T21:34:40.805939+00:00",
+  "updated_at": "2026-06-18T23:45:47.882837+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega round",
+        "title": "The AirPods Effect",
+        "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+        "description": "Article URL: https://www.theescapenewsletter.com/p/the-airpods-effect Comments URL: https://news.ycombinator.com/item?id=48592832 Points: 10 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-06-18T23:08:35+00:00"
+      },
+      {
+        "title": "Zero-Touch OAuth for MCP",
+        "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+        "description": "Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ Comments URL: https://news.ycombinator.com/item?id=48592163 Points: 32 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-06-18T21:54:10+00:00"
+      },
+      {
+        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
         "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
         "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
         "source": "TechCrunch",
         "published": "2026-06-18T21:20:13+00:00"
+      },
+      {
+        "title": "Everything Is BOM: Bill of Materials Encyclopedia",
+        "link": "https://bomwiki.com/",
+        "description": "Article URL: https://bomwiki.com/ Comments URL: https://news.ycombinator.com/item?id=48591562 Points: 52 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-06-18T21:03:31+00:00"
       },
       {
         "title": "Show HN: Are You in the Weights?",
@@ -19,16 +40,16 @@
       {
         "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
         "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-        "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be comprised of current Snap staff who are leaving the social media company to focus on AI video development.",
+        "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
         "source": "TechCrunch",
         "published": "2026-06-18T20:30:00+00:00"
       },
       {
-        "title": "McMansions 101: What Makes a McMansion Bad Architecture? (2016)",
-        "link": "https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad",
-        "description": "Article URL: https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad Comments URL: https://news.ycombinator.com/item?id=48590849 Points: 22 # Comments: 21",
+        "title": "Zork name origin got an update on Wikipedia",
+        "link": "https://www.dpolakovic.space/blogs/zork-part2#update",
+        "description": "Article URL: https://www.dpolakovic.space/blogs/zork-part2#update Comments URL: https://news.ycombinator.com/item?id=48591066 Points: 30 # Comments: 2",
         "source": "HackerNews",
-        "published": "2026-06-18T20:10:39+00:00"
+        "published": "2026-06-18T20:27:28+00:00"
       },
       {
         "title": "Bakanlık Kaynakları: \"Roblox'un Erişime Açıldığı Bilgisi Doğru Değil\"",
@@ -66,6 +87,13 @@
         "published": "2026-06-18T19:31:45+00:00"
       },
       {
+        "title": "Valve is so behind on Steam Controller orders that some won’t ship until 2027",
+        "link": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+        "description": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September...",
+        "source": "The Verge",
+        "published": "2026-06-18T19:19:20-04:00"
+      },
+      {
         "title": "Unreal Engine 5 Güncellemesi Nintendo Switch 2 Performansını İkiye Katlıyor",
         "link": "https://shiftdelete.net/unreal-engine-5-guncellemesi-nintendo-switch-2-performansini-ikiye-katliyor",
         "description": "Epic Games, Unreal Engine 5 için yayımladığı güncellemeyle Nintendo Switch 2 üzerinde iki kat daha hızlı performans vaat ediyor. Yeni grafik teknolojilerinin detayları burada.",
@@ -82,7 +110,7 @@
       {
         "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
         "link": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-        "description": "Article URL: https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/ Comments URL: https://news.ycombinator.com/item?id=48589501 Points: 24 # Comments: 3",
+        "description": "https://web.archive.org/web/20260618212028/https://www.thatp... https://archive.ph/I4zjA Comments URL: https://news.ycombinator.com/item?id=48589501 Points: 172 # Comments: 61",
         "source": "HackerNews",
         "published": "2026-06-18T18:31:23+00:00"
       },
@@ -159,7 +187,7 @@
       {
         "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
         "link": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-        "description": "Article URL: https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/ Comments URL: https://news.ycombinator.com/item?id=48588755 Points: 42 # Comments: 54",
+        "description": "Article URL: https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/ Comments URL: https://news.ycombinator.com/item?id=48588755 Points: 68 # Comments: 78",
         "source": "HackerNews",
         "published": "2026-06-18T17:37:00+00:00"
       },
@@ -173,7 +201,7 @@
       {
         "title": "Migrating from GNU Stow to Chezmoi",
         "link": "https://rednafi.com/misc/chezmoi/",
-        "description": "Article URL: https://rednafi.com/misc/chezmoi/ Comments URL: https://news.ycombinator.com/item?id=48588413 Points: 68 # Comments: 75",
+        "description": "Article URL: https://rednafi.com/misc/chezmoi/ Comments URL: https://news.ycombinator.com/item?id=48588413 Points: 89 # Comments: 94",
         "source": "HackerNews",
         "published": "2026-06-18T17:09:53+00:00"
       },
@@ -187,7 +215,7 @@
       {
         "title": "The founder of Craigslist has given away half a billion dollars",
         "link": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-        "description": "Article URL: https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html Comments URL: https://news.ycombinator.com/item?id=48588216 Points: 240 # Comments: 163",
+        "description": "Article URL: https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html Comments URL: https://news.ycombinator.com/item?id=48588216 Points: 289 # Comments: 209",
         "source": "HackerNews",
         "published": "2026-06-18T16:55:25+00:00"
       },
@@ -197,13 +225,6 @@
         "description": "Ubisoft+ Premium 18-23 Haziran 2026 tarihleri arasında kısa süreliğine ücretsiz oluyor. Assassin's Creed Shadows ve daha fazlasını keşfetmek için detaylara göz atın.",
         "source": "ShiftDelete",
         "published": "2026-06-18T16:30:35+00:00"
-      },
-      {
-        "title": "Valve is so behind on Steam Controller orders that some won’t ship until 2027",
-        "link": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
-        "description": "Valve has some good news and bad news about Steam Controllers. The good news: if you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September...",
-        "source": "The Verge",
-        "published": "2026-06-18T16:26:59-04:00"
       },
       {
         "title": "You can now use the Game Boy Camera with your phone",
@@ -248,16 +269,9 @@
         "published": "2026-06-18T15:15:03-04:00"
       },
       {
-        "title": "TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants",
-        "link": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
-        "description": "Article URL: https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/ Comments URL: https://news.ycombinator.com/item?id=48586648 Points: 92 # Comments: 81",
-        "source": "HackerNews",
-        "published": "2026-06-18T15:13:26+00:00"
-      },
-      {
         "title": "A website that lists websites to submit your website to",
         "link": "https://www.submission.directory/",
-        "description": "Article URL: https://www.submission.directory/ Comments URL: https://news.ycombinator.com/item?id=48586631 Points: 355 # Comments: 80",
+        "description": "Article URL: https://www.submission.directory/ Comments URL: https://news.ycombinator.com/item?id=48586631 Points: 384 # Comments: 85",
         "source": "HackerNews",
         "published": "2026-06-18T15:12:43+00:00"
       },
@@ -276,25 +290,11 @@
         "published": "2026-06-18T14:54:32-04:00"
       },
       {
-        "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-        "link": "https://tester.army",
-        "description": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy ( https://tester.army ). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or...",
-        "source": "HackerNews",
-        "published": "2026-06-18T14:49:44+00:00"
-      },
-      {
         "title": "Apple ve Intel ABD’de İşbirliği Yaparak Çip Üretecek",
         "link": "https://shiftdelete.net/apple-ve-intel-abdde-isbirligi-yaparak-cip-uretecek",
         "description": "Apple, çip üretimini çeşitlendirmek amacıyla Intel ile ABD'de işbirliği yapmaya hazırlanıyor. Trump'ın duyurduğu ortaklığın detayları haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-06-18T14:30:29+00:00"
-      },
-      {
-        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-        "link": "https://blog.ui.com/article/introducing-enterprise-nas",
-        "description": "Article URL: https://blog.ui.com/article/introducing-enterprise-nas Comments URL: https://news.ycombinator.com/item?id=48585866 Points: 198 # Comments: 184",
-        "source": "HackerNews",
-        "published": "2026-06-18T14:24:30+00:00"
       },
       {
         "title": "This robotic self-driving toilet comes to you",
@@ -355,18 +355,25 @@
     ],
     "dunya": [
       {
-        "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-        "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-        "description": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+        "title": "BBC pulls new Ashley Cain series after sexist language accusations",
+        "link": "https://www.bbc.com/news/articles/crr872992jjo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC said it has \"no future projects\" with Cain planned as it pulls his BBC Three documentary series Into the Danger Zone",
         "source": "BBC News",
-        "published": "2026-06-18T20:27:31+00:00"
+        "published": "2026-06-18T23:14:43+00:00"
       },
       {
         "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
         "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
         "description": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
         "source": "BBC News",
-        "published": "2026-06-18T19:54:42+00:00"
+        "published": "2026-06-18T21:34:28+00:00"
+      },
+      {
+        "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+        "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+        "description": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+        "source": "BBC News",
+        "published": "2026-06-18T20:27:31+00:00"
       },
       {
         "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
@@ -402,6 +409,13 @@
         "description": "The long-awaited final report is expected to reveal the extent of the mistreatment of patients at the hospital.",
         "source": "BBC News",
         "published": "2026-06-18T17:33:42+00:00"
+      },
+      {
+        "title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
+        "link": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz",
+        "description": "The U.S. is allowing ships to enter and exit Iranian ports and coastal areas as the countries move to a new phase of negotiations over the next 60 days.",
+        "source": "NPR",
+        "published": "2026-06-18T17:28:30-04:00"
       },
       {
         "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
@@ -444,13 +458,6 @@
         "description": "The Trump administration wants to jumpstart student loan repayment, with federal student loan debt approaching $2 trillion.",
         "source": "NPR",
         "published": "2026-06-18T13:28:44-04:00"
-      },
-      {
-        "title": "Interest rates held as Bank warns of impact of high energy prices",
-        "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-        "description": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
-        "source": "BBC News",
-        "published": "2026-06-18T12:50:33+00:00"
       },
       {
         "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
@@ -509,13 +516,6 @@
         "published": "2026-06-18T07:11:34-04:00"
       },
       {
-        "title": "Trump's FISA threat is like 'cutting off your nose to spite your face,' says Sen. Slotkin",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5861734/slotkin-trump-pulte-intelligence-chief-confirmation-hearing",
-        "description": "Sen. Elissa Slotkin, D-Mich., says Trump's threat to block FISA reauthorization is like \"cutting off your nose to spite your face.\"",
-        "source": "NPR",
-        "published": "2026-06-18T06:51:07-04:00"
-      },
-      {
         "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
         "link": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
         "description": "Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug is sold...",
@@ -567,11 +567,60 @@
     ],
     "turkiye": [
       {
+        "title": "Dünya Kupası’nda büyük şok! Kanadalı futbolcunun ayağı kırıldı",
+        "link": "https://www.sozcu.com.tr/dunya-kupasi-nda-buyuk-sok-kanadali-futbolcunun-ayagi-kirildi-p329196",
+        "description": "Dünya Kupası’nda büyük şok! Kanadalı futbolcunun ayağı kırıldı",
+        "source": "Sözcü",
+        "published": "2026-06-19T02:38:19+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Haziran 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-haziran-2026-1729173",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-19T00:30:00+03:00"
+        "published": "2026-06-19T02:30:00+03:00"
+      },
+      {
+        "title": "Kula'da zincirleme kaza. 2 ölü, 4 yaralı",
+        "link": "https://www.ntv.com.tr/turkiye/kulada-zincirleme-kaza-2-olu-4-yarali-1729175",
+        "description": "Manisa'nın Kula ilçesinde tiner yüklü tırın 2 araçla çarpıştığı kazada 2 kişi hayatını kaybetti.",
+        "source": "NTV",
+        "published": "2026-06-19T01:46:55+03:00"
+      },
+      {
+        "title": "TRT su molası sandı reklama gitti! İzleyiciler ne olduğunu anlamadı",
+        "link": "https://www.sozcu.com.tr/trt-su-molasi-sandi-reklama-gitti-izleyiciler-ne-oldugunu-anlamadi-p329192",
+        "description": "TRT su molası sandı reklama gitti! İzleyiciler ne olduğunu anlamadı",
+        "source": "Sözcü",
+        "published": "2026-06-19T01:46:47+03:00"
+      },
+      {
+        "title": "Times Meydanı’nda silah sesleri! Ortalık bir anda karıştı",
+        "link": "https://www.sozcu.com.tr/times-meydani-nda-silah-sesleri-ortalik-bir-anda-karisti-p329189",
+        "description": "Times Meydanı’nda silah sesleri! Ortalık bir anda karıştı",
+        "source": "Sözcü",
+        "published": "2026-06-19T01:18:08+03:00"
+      },
+      {
+        "title": "Günün 24 saati izleniyor: Dünyanın en sıkı korunan yeri denizin altında başlıyor",
+        "link": "https://www.sozcu.com.tr/gunun-24-saati-izleniyor-dunyanin-en-siki-korunan-yeri-denizin-altinda-basliyor-p329187",
+        "description": "Günün 24 saati izleniyor: Dünyanın en sıkı korunan yeri denizin altında başlıyor",
+        "source": "Sözcü",
+        "published": "2026-06-19T01:01:39+03:00"
+      },
+      {
+        "title": "Montella’dan eleştirilere sert yanıt! ‘Ben onlardan daha fazla Türk’üm’",
+        "link": "https://www.sozcu.com.tr/montella-dan-elestirilere-sert-yanit-ben-onlardan-daha-fazla-turk-um-p329186",
+        "description": "Montella’dan eleştirilere sert yanıt! ‘Ben onlardan daha fazla Türk’üm’",
+        "source": "Sözcü",
+        "published": "2026-06-19T00:58:00+03:00"
+      },
+      {
+        "title": "Çırağan’da sürpriz buluşma! Yıllar sonra 5 isim bir arada",
+        "link": "https://www.sozcu.com.tr/ciragan-da-surpriz-bulusma-yillar-sonra-5-isim-bir-arada-p329185",
+        "description": "Çırağan’da sürpriz buluşma! Yıllar sonra 5 isim bir arada",
+        "source": "Sözcü",
+        "published": "2026-06-19T00:50:54+03:00"
       },
       {
         "title": "İzmir'de peş peşe istifalar; Cemil Tugay'ın ardından CHP'de yeni ayrılıklar",
@@ -595,32 +644,11 @@
         "published": "2026-06-18T23:58:06+03:00"
       },
       {
-        "title": "Son dakika...İzmir Büyükşehir Belediye Başkanı Cemil Tugay CHP’den istifa etti",
-        "link": "https://www.sozcu.com.tr/son-dakika-izmir-buyuksehir-belediye-baskani-cemil-tugay-chp-den-istifa-etti-p329170",
-        "description": "Son dakika...İzmir Büyükşehir Belediye Başkanı Cemil Tugay CHP’den istifa etti",
-        "source": "Sözcü",
-        "published": "2026-06-18T23:57:52+03:00"
-      },
-      {
-        "title": "Son dakika...Açlık grevindeki 2 öğretmen hastaneye kaldırıldı",
-        "link": "https://www.sozcu.com.tr/son-dakika-aclik-grevindeki-2-ogretmen-hastaneye-kaldirildi-p329171",
-        "description": "Son dakika...Açlık grevindeki 2 öğretmen hastaneye kaldırıldı",
-        "source": "Sözcü",
-        "published": "2026-06-18T23:43:40+03:00"
-      },
-      {
         "title": "Denizin dibine dev kum torbaları bıraktılar: İki sorunu aynı anda çözüyor",
         "link": "https://www.sozcu.com.tr/denizin-dibine-dev-torbalar-biraktilar-iki-sorunu-ayni-anda-cozuyor-p329178",
         "description": "Denizin dibine dev kum torbaları bıraktılar: İki sorunu aynı anda çözüyor",
         "source": "Sözcü",
         "published": "2026-06-18T23:38:36+03:00"
-      },
-      {
-        "title": "70 milyon TL ceza kesilen Haluk Levent’ten açıklama!",
-        "link": "https://www.sozcu.com.tr/70-milyon-tl-ceza-kesilen-haluk-levent-ten-aciklama-p329176",
-        "description": "70 milyon TL ceza kesilen Haluk Levent’ten açıklama!",
-        "source": "Sözcü",
-        "published": "2026-06-18T23:34:58+03:00"
       },
       {
         "title": "Bakan Uraloğlu: Halkalı ve İstanbul Havalimanı arası 30 dakika olacak",
@@ -630,20 +658,6 @@
         "published": "2026-06-18T23:27:41+03:00"
       },
       {
-        "title": "Uyuşturucu testi pozitif çıkan Berdan Mardini’nin ifadesi de ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/uyusturucu-testi-pozitif-cikan-berdan-mardini-nin-ifadesi-de-ortaya-cikti-p329175",
-        "description": "Uyuşturucu testi pozitif çıkan Berdan Mardini’nin ifadesi de ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-06-18T23:14:09+03:00"
-      },
-      {
-        "title": "Dev bankadan altın için dudak uçuklatan tahmin: Tarih vererek duyurdular",
-        "link": "https://www.sozcu.com.tr/dev-bankadan-altin-icin-dudak-ucuklatan-tahmin-tarih-vererek-duyurdular-p329174",
-        "description": "Dev bankadan altın için dudak uçuklatan tahmin: Tarih vererek duyurdular",
-        "source": "Sözcü",
-        "published": "2026-06-18T22:41:23+03:00"
-      },
-      {
         "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, CHP'den istifa etti",
         "link": "https://www.ntv.com.tr/turkiye/galeri-izmir-buyuksehir-belediye-baskani-cemil-tugay-chpden-istifa-etti-1729165",
         "description": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, CHP'den istifa ettiğini açıkladı.",
@@ -651,11 +665,11 @@
         "published": "2026-06-18T22:28:03+03:00"
       },
       {
-        "title": "1.200 kilometrelik dev fay hattında hareket hiç durmuyor",
-        "link": "https://www.sozcu.com.tr/1-200-kilometrelik-dev-fay-hattinda-hareket-hic-durmuyor-p329172",
-        "description": "1.200 kilometrelik dev fay hattında hareket hiç durmuyor",
-        "source": "Sözcü",
-        "published": "2026-06-18T22:08:17+03:00"
+        "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay CHP'den istifa etti",
+        "link": "https://www.bbc.com/turkce/articles/c5yz88jz3nro?at_medium=RSS&at_campaign=rss",
+        "description": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay CHP'den istifa kararını \"büyük bir üzüntüyle ve bir gün geri dönebilme umuduyla Cumhuriyet Halk Partisi üyeliğimden istifa ediyorum\" sözleriyle duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-06-18T22:25:01+00:00"
       },
       {
         "title": "Sağlık Bakanı Memişoğlu: 2026'nın sonunda bir alım planlıyoruz",
@@ -693,13 +707,6 @@
         "published": "2026-06-18T19:25:45+03:00"
       },
       {
-        "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay CHP'den istifa etti",
-        "link": "https://www.bbc.com/turkce/articles/c5yz88jz3nro?at_medium=RSS&at_campaign=rss",
-        "description": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay CHP'den istifa kararını \"büyük bir üzüntüyle ve bir gün geri dönebilme umuduyla Cumhuriyet Halk Partisi üyeliğimden istifa ediyorum\" sözleriyle duyurdu.",
-        "source": "BBC Turkish",
-        "published": "2026-06-18T19:05:37+00:00"
-      },
-      {
         "title": "Özgür Özel dahil 12 milletvekilinin dokunulmazlık dosyası TBMM'de",
         "link": "https://www.ntv.com.tr/turkiye/ozgur-ozel-dahil-12-milletvekilinin-dokunulmazlik-dosyasi-tbmmde-1729155",
         "description": "TBMM Başkanlığı'na CHP Grup Başkanı Özgür Özel dahil 12 milletvekili hakkında 14 dokunulmazlık dosyası sunuldu.",
@@ -712,13 +719,6 @@
         "description": "Türkiye'nin Avrupa Birliği (AB) ve NATO üyesi ülkeye gerçekleştirdiği ilk askeri gemi ihracatı olan Denizde İkmal ve Lojistik Destek Gemileri Projesi'nde, Portekiz Deniz Kuvvetleri için inşa edilen ikinci gemi N.R.P. D. DINIS'in sac kesim töreni...",
         "source": "NTV",
         "published": "2026-06-18T18:38:31+03:00"
-      },
-      {
-        "title": "Ünlülerin uyuşturucu test sonuçları çıktı. 8 kişinin daha test sonucu pozitif çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/unlulerin-uyusturucu-test-sonuclari-cikti-8-kisinin-daha-test-sonucu-pozitif-cikti-1729152",
-        "description": "Ünlülere yönelik yürütülen uyuşturucu soruşturması kapsamında aralarında Kenan Doğulu ve Enis Arıkan'ın da bulunduğu 8 kişinin test sonucu pozitif çıktı.",
-        "source": "NTV",
-        "published": "2026-06-18T18:30:06+03:00"
       },
       {
         "title": "Özgür Özel ve 11 vekil hakkındaki fezlekeler Meclis'e gönderildi",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8656
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+74°F",
-    "wind": "↗10mph",
-    "humidity": "89%"
+    "condition": "Güneşli",
+    "temp": "+84°F",
+    "wind": "→13mph",
+    "humidity": "44%"
   }
 }
