@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-06-21T19:00:50.123296+00:00",
+  "updated_at": "2026-06-21T20:52:19.759939+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+        "link": "https://clevercrow.io",
+        "description": "Howdy all. I'm Zack :wave:. I've been thinking about the problem of misguided AI pull requests and figured I'd throw a possible solution out there for feedback. Basically, CleverCrow lets supporters give tokens to a GitHub repo (or set of issues in...",
+        "source": "HackerNews",
+        "published": "2026-06-21T19:06:07+00:00"
+      },
       {
         "title": "Motorola Edge 70 Fusion Yeni 12 GB RAM Versiyonuyla Tanıtıldı",
         "link": "https://shiftdelete.net/motorola-edge-70-fusion-yeni-12-gb-ram-versiyonuyla-tanitildi",
         "description": "Motorola, Edge 70 Fusion modelinin 12 GB RAM ve 512 GB depolama sunan yeni versiyonunu tanıttı. Sony LYT-710 kamera ve 7000 mAh batarya detayları haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-06-21T19:00:02+00:00"
+      },
+      {
+        "title": "JSON-LD Explained for Personal Websites",
+        "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+        "description": "Article URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/ Comments URL: https://news.ycombinator.com/item?id=48621517 Points: 63 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-06-21T18:51:47+00:00"
       },
       {
         "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
@@ -38,9 +52,9 @@
         "published": "2026-06-21T17:00:00+00:00"
       },
       {
-        "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+        "title": "Burnout is real for open source maintainers",
         "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-        "description": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers Comments URL: https://news.ycombinator.com/item?id=48620462 Points: 49 # Comments: 15",
+        "description": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers Comments URL: https://news.ycombinator.com/item?id=48620462 Points: 96 # Comments: 46",
         "source": "HackerNews",
         "published": "2026-06-21T16:56:18+00:00"
       },
@@ -52,9 +66,9 @@
         "published": "2026-06-21T16:54:08+00:00"
       },
       {
-        "title": "The Minimum Viable Unit of Saleable Software",
+        "title": "The minimum viable unit of saleable software",
         "link": "https://brandur.org/minimum-viable-unit",
-        "description": "Article URL: https://brandur.org/minimum-viable-unit Comments URL: https://news.ycombinator.com/item?id=48620342 Points: 39 # Comments: 13",
+        "description": "Article URL: https://brandur.org/minimum-viable-unit Comments URL: https://news.ycombinator.com/item?id=48620342 Points: 68 # Comments: 34",
         "source": "HackerNews",
         "published": "2026-06-21T16:41:21+00:00"
       },
@@ -68,14 +82,14 @@
       {
         "title": "The early hiring funnel is now breaking on both ends",
         "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-        "description": "Article URL: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it Comments URL: https://news.ycombinator.com/item?id=48620142 Points: 58 # Comments: 83",
+        "description": "Article URL: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it Comments URL: https://news.ycombinator.com/item?id=48620142 Points: 78 # Comments: 135",
         "source": "HackerNews",
         "published": "2026-06-21T16:14:54+00:00"
       },
       {
         "title": "Prefer duplication over the wrong abstraction (2016)",
         "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-        "description": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction Comments URL: https://news.ycombinator.com/item?id=48620090 Points: 240 # Comments: 160",
+        "description": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction Comments URL: https://news.ycombinator.com/item?id=48620090 Points: 338 # Comments: 238",
         "source": "HackerNews",
         "published": "2026-06-21T16:08:23+00:00"
       },
@@ -96,7 +110,7 @@
       {
         "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
         "link": "https://norvig.com/lispy.html",
-        "description": "Article URL: https://norvig.com/lispy.html Comments URL: https://news.ycombinator.com/item?id=48619831 Points: 82 # Comments: 32",
+        "description": "Article URL: https://norvig.com/lispy.html Comments URL: https://news.ycombinator.com/item?id=48619831 Points: 131 # Comments: 39",
         "source": "HackerNews",
         "published": "2026-06-21T15:36:33+00:00"
       },
@@ -117,7 +131,7 @@
       {
         "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
         "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-        "description": "Article URL: https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/ Comments URL: https://news.ycombinator.com/item?id=48619394 Points: 81 # Comments: 51",
+        "description": "Article URL: https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/ Comments URL: https://news.ycombinator.com/item?id=48619394 Points: 114 # Comments: 83",
         "source": "HackerNews",
         "published": "2026-06-21T14:43:08+00:00"
       },
@@ -157,16 +171,9 @@
         "published": "2026-06-21T13:00:57+00:00"
       },
       {
-        "title": "Show HN: Teach your kids perfect pitch",
-        "link": "https://github.com/paytonjjones/bsharp",
-        "description": "Article URL: https://github.com/paytonjjones/bsharp Comments URL: https://news.ycombinator.com/item?id=48618488 Points: 5 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-06-21T12:49:48+00:00"
-      },
-      {
         "title": "Identity verification on Claude",
         "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "description": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_... Comments URL: https://news.ycombinator.com/item?id=48618455 Points: 196 # Comments: 173",
+        "description": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_... Comments URL: https://news.ycombinator.com/item?id=48618455 Points: 330 # Comments: 287",
         "source": "HackerNews",
         "published": "2026-06-21T12:44:13+00:00"
       },
@@ -176,13 +183,6 @@
         "description": "Samsung, yeni akıllı telefonu Galaxy M47 5G için tanıtım kampanyasını başlattı. İşte oyun odaklı performans sunan cihazın beklenen özellikleri ve detayları.",
         "source": "ShiftDelete",
         "published": "2026-06-21T12:00:55+00:00"
-      },
-      {
-        "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-        "link": "https://www.beyondallreason.info",
-        "description": "Article URL: https://www.beyondallreason.info Comments URL: https://news.ycombinator.com/item?id=48617990 Points: 315 # Comments: 175",
-        "source": "HackerNews",
-        "published": "2026-06-21T11:38:01+00:00"
       },
       {
         "title": "HMD Luma2 Modeli 6000 mAh Batarya ve 120 Hz Ekranla Geliyor",
@@ -355,18 +355,53 @@
     ],
     "dunya": [
       {
+        "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
+        "link": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&at_campaign=rss",
+        "description": "Shaun Burton's family say they are devastated, while a union leader calls his death \"heartbreaking\".",
+        "source": "BBC News",
+        "published": "2026-06-21T20:44:52+00:00"
+      },
+      {
+        "title": "Serena Williams to make singles comeback at Wimbledon",
+        "link": "https://www.bbc.com/sport/tennis/articles/cn8kz0vm4d2o?at_medium=RSS&at_campaign=rss",
+        "description": "Serena Williams will make a surprise return to singles action at Wimbledon later this month after accepting a wildcard.",
+        "source": "BBC News",
+        "published": "2026-06-21T20:44:14+00:00"
+      },
+      {
+        "title": "William marks 44th birthday as royals celebrate Father's Day",
+        "link": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
+        "description": "The Princess of Wales and the couple's children share message for \"the best papa in the world\".",
+        "source": "BBC News",
+        "published": "2026-06-21T20:38:57+00:00"
+      },
+      {
+        "title": "Four-day extreme heat warning to begin on Monday as temperatures could hit 38C",
+        "link": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
+        "description": "A Met Office amber weather warning for heat comes into force on Monday and will now last through to Thursday.",
+        "source": "BBC News",
+        "published": "2026-06-21T20:29:22+00:00"
+      },
+      {
+        "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+        "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
+        "source": "BBC News",
+        "published": "2026-06-21T19:33:09+00:00"
+      },
+      {
+        "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
+        "link": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss",
+        "description": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
+        "source": "BBC News",
+        "published": "2026-06-21T19:12:32+00:00"
+      },
+      {
         "title": "CCTV shows moments leading up to arrest in anti-Muslim attacks probe",
         "link": "https://www.bbc.com/news/articles/c8j21zvkd20o?at_medium=RSS&at_campaign=rss",
         "description": "A topless man can be seen driving erratically in Edinburgh before abandoning his car and attacking a black man and a delivery rider.",
         "source": "BBC News",
         "published": "2026-06-21T18:21:47+00:00"
-      },
-      {
-        "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
-        "link": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&at_campaign=rss",
-        "description": "Shaun Burton's family say they are devastated, while a union leader calls his death \"heartbreaking\".",
-        "source": "BBC News",
-        "published": "2026-06-21T17:56:05+00:00"
       },
       {
         "title": "Starmer considers political future as pressure to quit mounts",
@@ -376,39 +411,11 @@
         "published": "2026-06-21T16:56:17+00:00"
       },
       {
-        "title": "William marks 44th birthday as royals celebrate Father's Day",
-        "link": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
-        "description": "The Princess of Wales and the couple's children share message for \"the best papa in the world\".",
-        "source": "BBC News",
-        "published": "2026-06-21T16:37:32+00:00"
-      },
-      {
-        "title": "Stokes and Atkinson found 'blameless for violent conduct' as pair return to squad",
-        "link": "https://www.bbc.com/sport/cricket/articles/c8r2pr1z5d3o?at_medium=RSS&at_campaign=rss",
-        "description": "Ben Stokes and Gus Atkinson breached “contractual obligations” but were blameless for “violent conduct” in a London nightclub, according to an investigation.",
-        "source": "BBC News",
-        "published": "2026-06-21T15:38:15+00:00"
-      },
-      {
-        "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
-        "link": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
-        "description": "A Met Office amber weather warning for heat comes into force on Monday and will now last through to Thursday.",
-        "source": "BBC News",
-        "published": "2026-06-21T15:05:03+00:00"
-      },
-      {
         "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
         "link": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
         "description": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote Colombians are going to the polls in a presidential...",
         "source": "The Guardian",
         "published": "2026-06-21T14:44:36+00:00"
-      },
-      {
-        "title": "US and Iran begin talks on initial peace deal in Switzerland",
-        "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-        "description": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
-        "source": "BBC News",
-        "published": "2026-06-21T14:41:02+00:00"
       },
       {
         "title": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
@@ -446,6 +453,13 @@
         "published": "2026-06-21T09:46:25-04:00"
       },
       {
+        "title": "Week in politics: continued negotiations with Iran; G7 summit; Reflecting Pool issues",
+        "link": "https://www.npr.org/2026/06/21/nx-s1-5864237/week-in-politics-continued-negotiations-with-iran-g7-summit-reflecting-pool-issues",
+        "description": "There continues to be uncertainty over negotiations. At the same time, the Trump administration continues to aggravate allies.",
+        "source": "NPR",
+        "published": "2026-06-21T08:06:14-04:00"
+      },
+      {
         "title": "Colombia runoff vote shaped by security fears and conflict warnings",
         "link": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombia-election-conflict",
         "description": "Voters head to a runoff in Colombia Sunday between candidates offering sharply different approaches to armed groups, with the frontrunner calling for intensified military action over peace talks",
@@ -458,13 +472,6 @@
         "description": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell...",
         "source": "The Guardian",
         "published": "2026-06-21T08:00:24+00:00"
-      },
-      {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-        "description": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.",
-        "source": "BBC News",
-        "published": "2026-06-21T07:16:54+00:00"
       },
       {
         "title": "Canada’s policies force asylum seekers into US to face deportation, critics say",
@@ -523,13 +530,6 @@
         "published": "2026-06-20T08:00:00-04:00"
       },
       {
-        "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
-        "link": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
-        "description": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
-        "source": "NPR",
-        "published": "2026-06-20T06:45:09-04:00"
-      },
-      {
         "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
         "link": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
         "description": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in...",
@@ -567,6 +567,62 @@
     ],
     "turkiye": [
       {
+        "title": "AP'de Yunan vekilden Türkiye ile ilgili küstah çağrı",
+        "link": "https://www.sozcu.com.tr/afroditi-latinopoulou-ap-de-turkiye-konusmasi-p329930",
+        "description": "AP'de Yunan vekilden Türkiye ile ilgili küstah çağrı",
+        "source": "Sözcü",
+        "published": "2026-06-21T23:45:19+03:00"
+      },
+      {
+        "title": "Tek bir fidan dikmeden 200 milyondan fazla ağacı geri kazandılar",
+        "link": "https://www.sozcu.com.tr/tek-bir-fidan-dikmeden-200-milyondan-fazla-agaci-geri-kazandilar-p329932",
+        "description": "Tek bir fidan dikmeden 200 milyondan fazla ağacı geri kazandılar",
+        "source": "Sözcü",
+        "published": "2026-06-21T23:41:23+03:00"
+      },
+      {
+        "title": "1300 yıl boyunca dağları basamak basamak oydular: Sistem bugün bile çalışmaya devam ediyor",
+        "link": "https://www.sozcu.com.tr/1300-yil-boyunca-daglari-basamak-basamak-oydular-sistem-bugun-bile-calismaya-devam-ediyor-p329925",
+        "description": "1300 yıl boyunca dağları basamak basamak oydular: Sistem bugün bile çalışmaya devam ediyor",
+        "source": "Sözcü",
+        "published": "2026-06-21T22:53:58+03:00"
+      },
+      {
+        "title": "Bakan Yumaklı'nın Fenerbahçeli çocukla diyaloğu dikkat çekti",
+        "link": "https://www.sozcu.com.tr/ibrahim-yumakli-kayseri-de-fenerbahceli-cocukla-diyalogu-p329924",
+        "description": "Bakan Yumaklı'nın Fenerbahçeli çocukla diyaloğu dikkat çekti",
+        "source": "Sözcü",
+        "published": "2026-06-21T22:41:54+03:00"
+      },
+      {
+        "title": "Iğdır Belediyesi'nde üç başkan yardımcısı görevden alındı",
+        "link": "https://www.sozcu.com.tr/igdir-belediyesi-nde-gorev-degisiklikleri-yasandi-p329917",
+        "description": "Iğdır Belediyesi'nde üç başkan yardımcısı görevden alındı",
+        "source": "Sözcü",
+        "published": "2026-06-21T22:34:54+03:00"
+      },
+      {
+        "title": "Filenin Sultanları'ndan Çin karşısında harika geri dönüş: Ankara'da 4'te 4",
+        "link": "https://www.sozcu.com.tr/filenin-sultanlari-ndan-cin-karsisinda-harika-geri-donus-ankara-da-4-te-4-p329922",
+        "description": "Filenin Sultanları'ndan Çin karşısında harika geri dönüş: Ankara'da 4'te 4",
+        "source": "Sözcü",
+        "published": "2026-06-21T22:29:17+03:00"
+      },
+      {
+        "title": "Kurak bir tarım arazisinin altında bulundu: 16 milyon yıl sonra bile gözlerindeki izler duruyor",
+        "link": "https://www.sozcu.com.tr/kurak-bir-tarim-arazisinin-altinda-bulundu-16-milyon-yil-sonra-bile-gozlerindeki-izler-duruyor-p329921",
+        "description": "Kurak bir tarım arazisinin altında bulundu: 16 milyon yıl sonra bile gözlerindeki izler duruyor",
+        "source": "Sözcü",
+        "published": "2026-06-21T22:24:33+03:00"
+      },
+      {
+        "title": "'İran masadan kalktı' iddialarına yalanlama",
+        "link": "https://www.sozcu.com.tr/iran-masadan-kalkti-iddialarina-yalanlama-p329920",
+        "description": "'İran masadan kalktı' iddialarına yalanlama",
+        "source": "Sözcü",
+        "published": "2026-06-21T22:12:56+03:00"
+      },
+      {
         "title": "6 bin metre derine gönderdiler: Sonar sistemiyle yarasalar gibi çalışıyor",
         "link": "https://www.sozcu.com.tr/6-bin-metre-derine-gonderdiler-sonar-sistemiyle-yarasalar-gibi-calisiyor-p329916",
         "description": "6 bin metre derine gönderdiler: Sonar sistemiyle yarasalar gibi çalışıyor",
@@ -588,34 +644,6 @@
         "published": "2026-06-21T21:34:27+03:00"
       },
       {
-        "title": "Nallıhan Belediye Başkanı Ertunç Güngör'den AKP'ye geçeceği iddialarına yanıt",
-        "link": "https://www.sozcu.com.tr/ertunc-gungor-den-akp-ye-gececegi-iddialarina-yanit-p329913",
-        "description": "Nallıhan Belediye Başkanı Ertunç Güngör'den AKP'ye geçeceği iddialarına yanıt",
-        "source": "Sözcü",
-        "published": "2026-06-21T21:17:30+03:00"
-      },
-      {
-        "title": "Meğer bir zamanlar pizzalar yolda giderken pişiriliyormuş",
-        "link": "https://www.sozcu.com.tr/meger-bir-zamanlar-pizzalar-yolda-giderken-pisiriliyormus-p329912",
-        "description": "Meğer bir zamanlar pizzalar yolda giderken pişiriliyormuş",
-        "source": "Sözcü",
-        "published": "2026-06-21T21:13:42+03:00"
-      },
-      {
-        "title": "İspanya ilk maçın acısını çıkardı: Yamal, Pele'ye göz kırptı",
-        "link": "https://www.sozcu.com.tr/ispanya-ilk-macin-acisini-cikardi-yamal-pele-ye-goz-kirpti-p329910",
-        "description": "İspanya ilk maçın acısını çıkardı: Yamal, Pele'ye göz kırptı",
-        "source": "Sözcü",
-        "published": "2026-06-21T21:01:56+03:00"
-      },
-      {
-        "title": "ÖTV'siz araç, kadınlara askerlik, düğün ve heykel yasağı... Meclis'e resmi başvuru yapıldı",
-        "link": "https://www.sozcu.com.tr/otv-siz-arac-kadinlara-askerlik-dugun-ve-heykel-yasagi-meclis-e-resmi-basvuru-yapildi-p329905",
-        "description": "ÖTV'siz araç, kadınlara askerlik, düğün ve heykel yasağı... Meclis'e resmi başvuru yapıldı",
-        "source": "Sözcü",
-        "published": "2026-06-21T20:56:42+03:00"
-      },
-      {
         "title": "Cumhurbaşkanı Erdoğan’dan Babalar Günü mesajı",
         "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-babalar-gunu-mesaji-1729572",
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Babalar Günü dolayısıyla sanal medya hesabından paylaştığı mesajda, tüm babaların Babalar Günü’nü kutladı.",
@@ -630,39 +658,11 @@
         "published": "2026-06-21T20:43:30+03:00"
       },
       {
-        "title": "İktidara yakın kalemlerin ayarı bozuldu! 'SÖZCÜ 60 milyon dolar kredi aldı' yalanına tokat gibi yanıt",
-        "link": "https://www.sozcu.com.tr/iktidara-yakin-kalemlerin-ayari-bozuldu-sozcu-60-milyon-dolar-kredi-aldi-yalanina-tokat-gibi-yanit-p329909",
-        "description": "İktidara yakın kalemlerin ayarı bozuldu! 'SÖZCÜ 60 milyon dolar kredi aldı' yalanına tokat gibi yanıt",
-        "source": "Sözcü",
-        "published": "2026-06-21T20:42:36+03:00"
-      },
-      {
-        "title": "İki kıta ilk kez raylarla birleşecek: Denizin altına 42 kilometrelik dev tünel inşa edecekler",
-        "link": "https://www.sozcu.com.tr/iki-kita-ilk-kez-raylarla-birlesecek-denizin-altina-42-kilometrelik-dev-tunel-insa-edecekler-p329908",
-        "description": "İki kıta ilk kez raylarla birleşecek: Denizin altına 42 kilometrelik dev tünel inşa edecekler",
-        "source": "Sözcü",
-        "published": "2026-06-21T20:22:16+03:00"
-      },
-      {
         "title": "Ceset sandılar, cansız manken çıktı",
         "link": "https://www.ntv.com.tr/turkiye/video-ceset-sandilar-cansiz-manken-cikti-1729568",
         "description": "Artvin'de baraj yüzeyinde ceset olduğu yönündeki ihbar sonrası bölgeye sevk edilen AFAD ekipleri, cansız manken ile karşılaştı.",
         "source": "NTV",
         "published": "2026-06-21T20:11:53+03:00"
-      },
-      {
-        "title": "Kuraklık Yunanistan'ı vurdu: Adalarda acil durum ilan edildi",
-        "link": "https://www.sozcu.com.tr/yunanistan-da-kuraklik-krizi-p329907",
-        "description": "Kuraklık Yunanistan'ı vurdu: Adalarda acil durum ilan edildi",
-        "source": "Sözcü",
-        "published": "2026-06-21T20:11:40+03:00"
-      },
-      {
-        "title": "Betonun içine yüzlerce plastik küre yerleştiriyorlar: İnşaatlarda yeni sistem hızla yayılıyor",
-        "link": "https://www.sozcu.com.tr/betonun-icine-yuzlerce-plastik-kure-yerlestiriyorlar-insaatlarda-yeni-sistem-hizla-yayiliyor-p329906",
-        "description": "Betonun içine yüzlerce plastik küre yerleştiriyorlar: İnşaatlarda yeni sistem hızla yayılıyor",
-        "source": "Sözcü",
-        "published": "2026-06-21T19:59:24+03:00"
       },
       {
         "title": "3 bin 25 kişi, YKS'ye yetişebilmek için sınav günü kimlik başvurusu yaptı",
@@ -784,9 +784,9 @@
     "eur_usd": 0.872
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+63°F",
-    "wind": "↙16mph",
-    "humidity": "94%"
+    "condition": "Güneşli",
+    "temp": "+77°F",
+    "wind": "↘24mph",
+    "humidity": "24%"
   }
 }
