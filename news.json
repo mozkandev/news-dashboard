@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-06-22T23:19:42.649871+00:00",
+  "updated_at": "2026-06-23T01:30:29.991912+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+        "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "source": "TechCrunch",
+        "published": "2026-06-23T01:27:55+00:00"
+      },
+      {
+        "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+        "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/ Comments URL: https://news.ycombinator.com/item?id=48638660 Points: 35 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-06-23T00:47:32+00:00"
+      },
       {
         "title": "Togg Fiyat Listesi 2026: Güncel Kampanyalar, İndirimler ve Kredi Fırsatları",
         "link": "\n                    https://www.webtekno.com/togg-indirimler-guncel-kampanyalar-kredi-firsatlari-h218796.html\n                    ",
@@ -15,6 +29,13 @@
         "description": "Toyota'nın güncel sıfır araç fiyat listesini, devam eden kampanyalarını ve kredi fırsatlarını model model inceledik. Corolla, C-HR, Yaris Cross, Hilux ve diğer Toyota modellerindeki güncel satın alma avantajlarını bu içerikte bulabilirsiniz.",
         "source": "Webtekno",
         "published": "2026-06-23T00:13:52+03:00"
+      },
+      {
+        "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+        "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "description": "OpenAI is attempting to tackle the security issues of the open source software community.",
+        "source": "TechCrunch",
+        "published": "2026-06-23T00:11:31+00:00"
       },
       {
         "title": "Mercedes Kampanyaları, İndirimleri ve Kredi Fırsatları",
@@ -80,9 +101,9 @@
         "published": "2026-06-22T22:00:20+03:00"
       },
       {
-        "title": "Unsloth GLM-5.2 – How to Run Locally",
+        "title": "Runing GLM-5.2 on local hardware",
         "link": "https://unsloth.ai/docs/models/glm-5.2",
-        "description": "Article URL: https://unsloth.ai/docs/models/glm-5.2 Comments URL: https://news.ycombinator.com/item?id=48636377 Points: 50 # Comments: 14",
+        "description": "Article URL: https://unsloth.ai/docs/models/glm-5.2 Comments URL: https://news.ycombinator.com/item?id=48636377 Points: 156 # Comments: 65",
         "source": "HackerNews",
         "published": "2026-06-22T21:21:01+00:00"
       },
@@ -96,7 +117,7 @@
       {
         "title": "Job application asked for my SAT scores",
         "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-        "description": "Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/ Comments URL: https://news.ycombinator.com/item?id=48636062 Points: 30 # Comments: 52",
+        "description": "Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/ Comments URL: https://news.ycombinator.com/item?id=48636062 Points: 64 # Comments: 184",
         "source": "HackerNews",
         "published": "2026-06-22T20:55:17+00:00"
       },
@@ -106,13 +127,6 @@
         "description": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
         "source": "TechCrunch",
         "published": "2026-06-22T20:53:11+00:00"
-      },
-      {
-        "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-        "link": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
-        "description": "Article URL: https://spur.us/blog/smart-tv-apps-residential-proxy-sdks Comments URL: https://news.ycombinator.com/item?id=48635954 Points: 103 # Comments: 53",
-        "source": "HackerNews",
-        "published": "2026-06-22T20:48:30+00:00"
       },
       {
         "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
@@ -127,13 +141,6 @@
         "description": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
         "source": "TechCrunch",
         "published": "2026-06-22T20:13:58+00:00"
-      },
-      {
-        "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
-        "link": "https://www.acquired.fm/episodes/the-walt-disney-company",
-        "description": "Article URL: https://www.acquired.fm/episodes/the-walt-disney-company Comments URL: https://news.ycombinator.com/item?id=48635409 Points: 48 # Comments: 39",
-        "source": "HackerNews",
-        "published": "2026-06-22T20:09:40+00:00"
       },
       {
         "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
@@ -164,37 +171,44 @@
         "published": "2026-06-22T19:25:00+00:00"
       },
       {
+        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "description": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of...",
+        "source": "The Verge",
+        "published": "2026-06-22T19:24:32-04:00"
+      },
+      {
         "title": "Japanese symbols that speak without words",
         "link": "https://arun.is/blog/japan-symbols/",
-        "description": "Article URL: https://arun.is/blog/japan-symbols/ Comments URL: https://news.ycombinator.com/item?id=48634803 Points: 70 # Comments: 15",
+        "description": "Article URL: https://arun.is/blog/japan-symbols/ Comments URL: https://news.ycombinator.com/item?id=48634803 Points: 94 # Comments: 36",
         "source": "HackerNews",
         "published": "2026-06-22T19:22:37+00:00"
       },
       {
         "title": "British Columbia, Time Zones, and Postgres",
         "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-        "description": "Article URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes Comments URL: https://news.ycombinator.com/item?id=48634787 Points: 77 # Comments: 40",
+        "description": "Article URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes Comments URL: https://news.ycombinator.com/item?id=48634787 Points: 104 # Comments: 64",
         "source": "HackerNews",
         "published": "2026-06-22T19:21:00+00:00"
       },
       {
         "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
         "link": "https://github.com/dorukkumkumoglu/optocamzero",
-        "description": "Article URL: https://github.com/dorukkumkumoglu/optocamzero Comments URL: https://news.ycombinator.com/item?id=48634778 Points: 66 # Comments: 15",
+        "description": "Article URL: https://github.com/dorukkumkumoglu/optocamzero Comments URL: https://news.ycombinator.com/item?id=48634778 Points: 99 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-06-22T19:19:55+00:00"
       },
       {
         "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
         "link": "https://ipvm.com/reports/police-chiefs-track",
-        "description": "Article URL: https://ipvm.com/reports/police-chiefs-track Comments URL: https://news.ycombinator.com/item?id=48634694 Points: 203 # Comments: 66",
+        "description": "Article URL: https://ipvm.com/reports/police-chiefs-track Comments URL: https://news.ycombinator.com/item?id=48634694 Points: 327 # Comments: 125",
         "source": "HackerNews",
         "published": "2026-06-22T19:13:46+00:00"
       },
       {
-        "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+        "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
         "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-        "description": "Article URL: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509 Comments URL: https://news.ycombinator.com/item?id=48634585 Points: 185 # Comments: 74",
+        "description": "Article URL: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509 Comments URL: https://news.ycombinator.com/item?id=48634585 Points: 274 # Comments: 141",
         "source": "HackerNews",
         "published": "2026-06-22T19:06:48+00:00"
       },
@@ -220,18 +234,11 @@
         "published": "2026-06-22T18:50:24+00:00"
       },
       {
-        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-        "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-        "description": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
-        "source": "TechCrunch",
-        "published": "2026-06-22T18:49:44+00:00"
-      },
-      {
-        "title": "Anthropic says Claude may want to see your ID",
-        "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-        "description": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
-        "source": "TechCrunch",
-        "published": "2026-06-22T18:05:13+00:00"
+        "title": "Linux and Secure Boot certificate expiration (2025)",
+        "link": "https://lwn.net/Articles/1029767/",
+        "description": "Article URL: https://lwn.net/Articles/1029767/ Comments URL: https://news.ycombinator.com/item?id=48633941 Points: 108 # Comments: 52",
+        "source": "HackerNews",
+        "published": "2026-06-22T18:24:29+00:00"
       },
       {
         "title": "OnePlus 16T 2nm İşlemciyle Ezber Bozacak",
@@ -318,13 +325,6 @@
         "published": "2026-06-22T13:18:13-04:00"
       },
       {
-        "title": "Valve prices the Steam Machine at $1,049",
-        "link": "https://www.theverge.com/news/837022/valve-steam-machine-price-release-date",
-        "description": "After months of waiting, Valve has finally announced that the Steam Machine, its new living room-friendly PC, will start at $1,049 and go on sale beginning June 29th. You can now register your interest to buy a Steam Machine as part of a reservation...",
-        "source": "The Verge",
-        "published": "2026-06-22T13:14:20-04:00"
-      },
-      {
         "title": "Here’s how you can reserve a Steam Machine",
         "link": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
         "description": "The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to exploit. However, it's a bit different than the $5...",
@@ -355,6 +355,41 @@
     ],
     "dunya": [
       {
+        "title": "Ransom note claims Nancy Guthrie died after abduction",
+        "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+        "description": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+        "source": "BBC News",
+        "published": "2026-06-23T01:24:58+00:00"
+      },
+      {
+        "title": "Fears 1,000 LGBT veterans could miss gay ban compensation deadline",
+        "link": "https://www.bbc.com/news/articles/cvg74x2jv98o?at_medium=RSS&at_campaign=rss",
+        "description": "Charities are urging any veterans who haven't yet registered for the scheme to come forward.",
+        "source": "BBC News",
+        "published": "2026-06-22T23:48:36+00:00"
+      },
+      {
+        "title": "First drug to delay onset of type 1 diabetes made available on NHS",
+        "link": "https://www.bbc.com/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss",
+        "description": "The immunotherpay can give children and adults three extra years before they need to use insulin.",
+        "source": "BBC News",
+        "published": "2026-06-22T23:44:41+00:00"
+      },
+      {
+        "title": "Can you refuse to work or send your kids to school during a heatwave?",
+        "link": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
+        "description": "As temperatures increase significantly over the next few days, these are your rights.",
+        "source": "BBC News",
+        "published": "2026-06-22T23:08:57+00:00"
+      },
+      {
+        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+        "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+        "source": "BBC News",
+        "published": "2026-06-22T23:07:45+00:00"
+      },
+      {
         "title": "UK set for hottest June day on record as searing heat continues",
         "link": "https://www.bbc.com/weather/articles/c0myl4d3l0no?at_medium=RSS&at_campaign=rss",
         "description": "Heatwave conditions intensify across parts of England and Wales as the Met Office issues a rare red warning for extreme heat.",
@@ -383,32 +418,11 @@
         "published": "2026-06-22T22:00:06+00:00"
       },
       {
-        "title": "What does Trump want from a new UK prime minister?",
-        "link": "https://www.bbc.com/news/videos/c2kyz2eqxwvo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president was once considered to have a close friendship with Keir Starmer, but that quickly fell apart with the war in Iran.",
-        "source": "BBC News",
-        "published": "2026-06-22T21:51:37+00:00"
-      },
-      {
-        "title": "Ex DUP leader Donaldson guilty of child sex abuse charges including one of rape",
-        "link": "https://www.bbc.com/news/articles/c04yrvzkdqqo?at_medium=RSS&at_campaign=rss",
-        "description": "The former MP is remanded in custody while he awaits sentencing for 18 offences.",
-        "source": "BBC News",
-        "published": "2026-06-22T18:31:56+00:00"
-      },
-      {
         "title": "Man charged with terrorism-linked attempted murders after alleged anti-Muslim attacks in Edinburgh",
         "link": "https://www.bbc.com/news/articles/cx2x9j1en29o?at_medium=RSS&at_campaign=rss",
         "description": "Lewis Hawkes appeared at Edinburgh Sheriff Court following alleged anti-Muslim attacks in the city on Friday evening.",
         "source": "BBC News",
         "published": "2026-06-22T18:28:43+00:00"
-      },
-      {
-        "title": "Watch: A day of big changes and mixed emotions for Labour",
-        "link": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham is sworn in as MP for Makerfield hours after Keir Starmer announces his resignation as Labour Party leader.",
-        "source": "BBC News",
-        "published": "2026-06-22T18:26:07+00:00"
       },
       {
         "title": "A federal judge finds a Trump data system to verify voters is unlawful",
@@ -432,13 +446,6 @@
         "published": "2026-06-22T17:30:23+00:00"
       },
       {
-        "title": "Why did Starmer resign and what could happen next?",
-        "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss",
-        "description": "The Labour leader says he will remain prime minister until his successor is chosen.",
-        "source": "BBC News",
-        "published": "2026-06-22T16:44:17+00:00"
-      },
-      {
         "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
         "link": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
         "description": "Trump-admiring Abelardo de la Espriella has vowed to ‘disembowel’ the left and kill criminals like ‘rats and cockroaches’ When more than 20 women accused a Colombian evangelical pastor in 2012 of sexually abusing them, the defendant’s lawyer sought...",
@@ -458,13 +465,6 @@
         "description": "Messi scored a record-setting 17th World Cup goal in Argentina's game against Austria. And, then, he netted another goal, making him the all-time leader in World Cup tournaments (men and women).",
         "source": "NPR",
         "published": "2026-06-22T15:22:45-04:00"
-      },
-      {
-        "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-        "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
-        "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
-        "source": "BBC News",
-        "published": "2026-06-22T13:54:20+00:00"
       },
       {
         "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
@@ -567,25 +567,39 @@
     ],
     "turkiye": [
       {
-        "title": "Bebeğini arabada unutan kadın, gazetecilere saldırdı",
-        "link": "https://www.ntv.com.tr/turkiye/bebegini-arabada-unutan-kadin-gazetecilere-saldirdi-1729710",
-        "description": "Kayseri’de 10 aylık bebeğini arabada unutan kadın ve yakınları, durumu haber yapmaya gelen gazetecilere saldırarak tehdit etti. 10 aylık bebek itfaiyenin camı kırmasıyla kurtarıldı.",
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-haziran-2026-1729707",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-23T02:15:45+03:00"
+        "published": "2026-06-23T04:30:00+03:00"
+      },
+      {
+        "title": "Hava muhalefeti de durduramadı! Fransa yoluna kayıpsız gidiyor",
+        "link": "https://www.sozcu.com.tr/hava-muhalefeti-de-durduramadi-fransa-yoluna-kayipsiz-gidiyor-p330282",
+        "description": "Hava muhalefeti de durduramadı! Fransa yoluna kayıpsız gidiyor",
+        "source": "Sözcü",
+        "published": "2026-06-23T03:51:42+03:00"
       },
       {
         "title": "Dünya Kupası’nda Fransa-Irak maçına hava muhalefeti engeli!",
         "link": "https://www.sozcu.com.tr/dunya-kupasi-nda-fransa-irak-macina-hava-muhalefeti-engeli-p330269",
         "description": "Dünya Kupası’nda Fransa-Irak maçına hava muhalefeti engeli!",
         "source": "Sözcü",
-        "published": "2026-06-23T02:10:06+03:00"
+        "published": "2026-06-23T03:00:40+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-haziran-2026-1729707",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "title": "CHP'de üç kritik toplantı. Kılıçdaroğlu MYK ve PM'yi toplayacak, Özel grup toplantısı yapacak",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-chpde-uc-kritik-toplanti-kilicdaroglu-myk-ve-pmyi-toplayacak-ozel-grup-toplantisi-yapacak-1729711",
+        "description": "CHP Genel Başkanı Kemal Kılıçdaroğlu, bugün Merkez Yönetim Kurulu ve Parti Meclisi’ni toplayacak. Toplantılarda gündem, 833 delegenin imzasıyla sunulan olağanüstü kurultay talebi olacak. CHP Grup Başkanı Özgür Özel ise Meclis’te grup toplantısı...",
         "source": "NTV",
-        "published": "2026-06-23T02:00:00+03:00"
+        "published": "2026-06-23T02:38:44+03:00"
+      },
+      {
+        "title": "Bebeğini arabada unutan kadın, gazetecilere saldırdı",
+        "link": "https://www.ntv.com.tr/turkiye/bebegini-arabada-unutan-kadin-gazetecilere-saldirdi-1729710",
+        "description": "Kayseri’de 10 aylık bebeğini arabada unutan kadın ve yakınları, durumu haber yapmaya gelen gazetecilere saldırarak tehdit etti. 10 aylık bebek itfaiyenin camı kırmasıyla kurtarıldı.",
+        "source": "NTV",
+        "published": "2026-06-23T02:15:45+03:00"
       },
       {
         "title": "CHP Bursa İl Başkanlığı'nda 'arabuluculuk' krizi",
@@ -623,11 +637,25 @@
         "published": "2026-06-23T00:21:20+03:00"
       },
       {
+        "title": "AKP Sözcüsü Çelik: Seçimde cumhurbaşkanı adayımız Recep Tayyip Erdoğan",
+        "link": "https://www.bbc.com/turkce/articles/cewqy78dz7qo?at_medium=RSS&at_campaign=rss",
+        "description": "AKP Sözcüsü Ömer Çelik, partisinin bir sonraki seçimde cumhurbaşkanı adayının Recep Tayyip Erdoğan olduğunu açıkladı.",
+        "source": "BBC Turkish",
+        "published": "2026-06-23T00:13:25+00:00"
+      },
+      {
         "title": "Gaziantep Havalimanı'na iniş yapan yolcu uçağının lastiği patladı",
         "link": "https://www.ntv.com.tr/turkiye/gaziantep-havalimanina-inis-yapan-yolcu-ucaginin-lastigi-patladi-1729694",
         "description": "Stuttgart-Gaziantep seferini yapan yolcu uçağının Gaziantep Havalimanı'na inişinin ardından lastiğinin patladığı, uçaktaki 186 yolcu ve 6 mürettebatın güvenli şekilde tahliye edildiği bildirildi.",
         "source": "NTV",
         "published": "2026-06-23T00:11:15+03:00"
+      },
+      {
+        "title": "CHP'li Silifke Belediye Başkanı dahil 8 kişi tutuklandı",
+        "link": "https://www.bbc.com/turkce/articles/cpwe70eejqxo?at_medium=RSS&at_campaign=rss",
+        "description": "Mersin'de Silifke Belediyesi'ne yönelik \"yolsuzluk\" operasyonunda gözaltına alınan belediye başkanı Mustafa Turgut dahil sekiz kişi tutuklandı",
+        "source": "BBC Turkish",
+        "published": "2026-06-23T00:05:29+00:00"
       },
       {
         "title": "Canlı yayında söyledikleri nedeniyle işine son verildi",
@@ -665,13 +693,6 @@
         "published": "2026-06-22T23:15:32+00:00"
       },
       {
-        "title": "Kuraklığa meydan okuyor, su deposu gibi çalışan gövdesiyle imkansızı başarıyor",
-        "link": "https://www.sozcu.com.tr/kurakliga-meydan-okuyor-su-deposu-gibi-calisan-govdesiyle-imkansizi-basariyor-p330255",
-        "description": "Kuraklığa meydan okuyor, su deposu gibi çalışan gövdesiyle imkansızı başarıyor",
-        "source": "Sözcü",
-        "published": "2026-06-22T23:10:37+03:00"
-      },
-      {
         "title": "Son dakika Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya deprem Kandilli ve AFAD son depremler listesi 22 Haziran 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-antalyada-deprem-mi-oldu-az-once-deprem-antalyada-nerede-oldu-antalya-deprem-kandilli-ve-afad-son-depremler-listesi-22-haziran-2026-1729704",
         "description": "Son dakika Antalya deprem haberleri.. Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya Kandilli ve AFAD son depremler.. 22 Haziran 2026 Antalya deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
@@ -707,20 +728,6 @@
         "published": "2026-06-22T19:56:41+03:00"
       },
       {
-        "title": "AKP Sözcüsü Çelik: Seçimde cumhurbaşkanı adayımız Recep Tayyip Erdoğan",
-        "link": "https://www.bbc.com/turkce/articles/cewqy78dz7qo?at_medium=RSS&at_campaign=rss",
-        "description": "AKP Sözcüsü Ömer Çelik, partisinin bir sonraki seçimde cumhurbaşkanı adayının Recep Tayyip Erdoğan olduğunu açıkladı.",
-        "source": "BBC Turkish",
-        "published": "2026-06-22T19:38:50+00:00"
-      },
-      {
-        "title": "Zamanı atom çekirdeğiyle ölçen ilk nükleer saat geliştirildi",
-        "link": "https://www.ntv.com.tr/turkiye/zamani-atom-cekirdegiyle-olcen-ilk-nukleer-saat-gelistirildi-1729687",
-        "description": "Bilim insanları, zamanı atomun çekirdeğindeki enerji değişimlerini kullanarak ölçen ilk \"işlevsel nükleer saatleri\" geliştirdi.",
-        "source": "NTV",
-        "published": "2026-06-22T19:33:34+03:00"
-      },
-      {
         "title": "Dışişleri: Karadeniz'de vurulan yük gemisinde iki Türk yaralandı",
         "link": "https://www.bbc.com/turkce/articles/cg4wxrvxlz9o?at_medium=RSS&at_campaign=rss",
         "description": "Ukrayna donanması, Türkiye'den Ukrayna'ya gitmekte olan Panama bandıralı Türk kuru yük gemisi Victress'in Rusya'ya ait bir insansız hava aracıyla (İHA) vurulduğunu duyurdu. Dışişleri Bakanlığı gemideki iki Türk vatandaşının yaralandığını açıkladı.",
@@ -749,13 +756,6 @@
         "published": "2026-06-22T13:08:58+00:00"
       },
       {
-        "title": "Dokunulmazlık tartışması nasıl başladı, Kılıçdaroğlu ve DEM Partililer ne dedi?",
-        "link": "https://www.bbc.com/turkce/articles/c9329dpzje7o?at_medium=RSS&at_campaign=rss",
-        "description": "Kemal Kılıçdaroğlu katıldığı bir televizyon programında, dokunulmazlıkların kaldırılmasına destek vermekten pişman olmadığını söyledi. DEM Parti Kılıçdaroğlu'na tepki gösterdi ve özür dilemesini beklediklerini söyledi. Peki tartışma nasıl başlamıştı?",
-        "source": "BBC Turkish",
-        "published": "2026-06-22T13:01:27+00:00"
-      },
-      {
         "title": "12. Yargı Paketi Meclis'te: İBAN, suça sürüklenen çocuklar ve LGBTİ düzenlemeleri pakette yer almadı",
         "link": "https://www.bbc.com/turkce/articles/cx26x7vk8yxo?at_medium=RSS&at_campaign=rss",
         "description": "Adalet ve Kalkınma Partisi (AKP), uzun süredir kamuoyunda tartışılan 12. Yargı Paketi'ni TBMM Başkanlığı'na sundu. Teklif, yargının daha \"etkin ve verimli\" işlemesini sağlamaya yönelik düzenlemelerin yanı sıra Anayasa Mahkemesi'nin iptal ettiği bazı...",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 46.4549,
-    "eur_try": 53.2824,
-    "eur_usd": 0.872
+    "usd_try": 46.4682,
+    "eur_try": 53.1302,
+    "eur_usd": 0.8744
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+106°F",
-    "wind": "→9mph",
-    "humidity": "6%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+85°F",
+    "wind": "↓15mph",
+    "humidity": "13%"
   }
 }
