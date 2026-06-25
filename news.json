@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-06-25T22:24:21.563554+00:00",
+  "updated_at": "2026-06-25T23:52:30.316764+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+        "source": "TechCrunch",
+        "published": "2026-06-25T23:34:39+00:00"
+      },
+      {
+        "title": "Military branches restore flu shot requirement after virus swept through base",
+        "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+        "description": "Article URL: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/ Comments URL: https://news.ycombinator.com/item?id=48679934 Points: 46 # Comments: 20",
+        "source": "HackerNews",
+        "published": "2026-06-25T22:16:55+00:00"
+      },
       {
         "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
         "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
@@ -10,30 +24,37 @@
         "published": "2026-06-25T22:02:12+00:00"
       },
       {
+        "title": "The 'papers, please' era of the internet will decimate your privacy",
+        "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+        "description": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet Comments URL: https://news.ycombinator.com/item?id=48679608 Points: 243 # Comments: 98",
+        "source": "HackerNews",
+        "published": "2026-06-25T21:44:55+00:00"
+      },
+      {
         "title": "Migrating from Proxmox to NixOS and Incus",
         "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
-        "description": "Article URL: https://www.nijho.lt/post/proxmox-to-nixos/ Comments URL: https://news.ycombinator.com/item?id=48679385 Points: 8 # Comments: 1",
+        "description": "Article URL: https://www.nijho.lt/post/proxmox-to-nixos/ Comments URL: https://news.ycombinator.com/item?id=48679385 Points: 29 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-06-25T21:22:59+00:00"
       },
       {
         "title": "Un-0: Generating Images with Coupled Oscillators",
         "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-        "description": "Article URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/ Comments URL: https://news.ycombinator.com/item?id=48679007 Points: 52 # Comments: 5",
+        "description": "Article URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/ Comments URL: https://news.ycombinator.com/item?id=48679007 Points: 83 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-06-25T20:50:02+00:00"
       },
       {
         "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
         "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-        "description": "Article URL: https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48678873 Points: 34 # Comments: 18",
+        "description": "Article URL: https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48678873 Points: 83 # Comments: 53",
         "source": "HackerNews",
         "published": "2026-06-25T20:36:05+00:00"
       },
       {
         "title": "Om Malik has died",
         "link": "https://om.co/2026/06/24/1966-2026/",
-        "description": "Article URL: https://om.co/2026/06/24/1966-2026/ Comments URL: https://news.ycombinator.com/item?id=48678852 Points: 158 # Comments: 13",
+        "description": "Article URL: https://om.co/2026/06/24/1966-2026/ Comments URL: https://news.ycombinator.com/item?id=48678852 Points: 269 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-06-25T20:33:37+00:00"
       },
@@ -47,16 +68,23 @@
       {
         "title": "An oral history of Bank Python (2021)",
         "link": "https://calpaterson.com/bank-python.html",
-        "description": "Article URL: https://calpaterson.com/bank-python.html Comments URL: https://news.ycombinator.com/item?id=48678645 Points: 20 # Comments: 6",
+        "description": "Article URL: https://calpaterson.com/bank-python.html Comments URL: https://news.ycombinator.com/item?id=48678645 Points: 53 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-06-25T20:14:35+00:00"
       },
       {
         "title": "Parallel Parentheses Matching",
         "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-        "description": "Article URL: https://williamdue.github.io/blog/parallel-parentheses-matching Comments URL: https://news.ycombinator.com/item?id=48678623 Points: 22 # Comments: 3",
+        "description": "Article URL: https://williamdue.github.io/blog/parallel-parentheses-matching Comments URL: https://news.ycombinator.com/item?id=48678623 Points: 41 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-06-25T20:12:24+00:00"
+      },
+      {
+        "title": "The Doorman's Fallacy in action",
+        "link": "https://rozumem.xyz/posts/17",
+        "description": "Article URL: https://rozumem.xyz/posts/17 Comments URL: https://news.ycombinator.com/item?id=48678495 Points: 36 # Comments: 56",
+        "source": "HackerNews",
+        "published": "2026-06-25T20:00:35+00:00"
       },
       {
         "title": "Polymarket says hackers stole users’ funds",
@@ -87,11 +115,25 @@
         "published": "2026-06-25T19:13:00+00:00"
       },
       {
+        "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+        "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+        "description": "Amazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the...",
+        "source": "The Verge",
+        "published": "2026-06-25T19:04:29-04:00"
+      },
+      {
         "title": "Efsane Geri Döndü: Tarayıcıdan Half-Life 2 Oyna!",
         "link": "https://shiftdelete.net/efsane-geri-dondu-tarayicidan-half-life-2-oyna",
         "description": "Oyun tarihinin en köklü ve devrimsel yapımlarından biri olan Half-Life serisi, teknolojik sınırları zorlamaya devam ediyor. Valve tarafından geliştirilen ve fizik motoruyla çıktığı döneme damga vuran kült yapım, bu kez çok farklı bir platformla...",
         "source": "ShiftDelete",
         "published": "2026-06-25T19:00:32+00:00"
+      },
+      {
+        "title": "Android 17’s new foldable gaming mode could make flippy phones more fun",
+        "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+        "description": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming...",
+        "source": "The Verge",
+        "published": "2026-06-25T18:33:54-04:00"
       },
       {
         "title": "GTA 6, PS5'inizi Âdeta İşgal Etti: Arayüzden Mobil Uygulamaya Kadar Her Yer GTA 6 Temasına Bürünmüş Durumda!",
@@ -241,13 +283,6 @@
         "published": "2026-06-25T16:48:11+00:00"
       },
       {
-        "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
-        "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
-        "description": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom.",
-        "source": "TechCrunch",
-        "published": "2026-06-25T16:40:15+00:00"
-      },
-      {
         "title": "Anti-Hile Yazılımı Vanguard Artık Oyunda Değilken Çalışmayacak",
         "link": "\n                    https://www.webtekno.com/anti-hile-yazilimi-vanguard-artik-oyunda-degilken-calismayacak-h219025.html\n                    ",
         "description": "Riot Games'in oyunlarında kullandığı anti-hile yazılımı Vanguard için yeni bir dönemece giriliyor.",
@@ -269,32 +304,11 @@
         "published": "2026-06-25T16:18:47-04:00"
       },
       {
-        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-        "link": "https://github.com/inkeep/open-knowledge",
-        "description": "Hi HN, Nick here. We’re launching OpenKnowledge ( https://openknowledge.ai/ ), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor. Available as MacOS app or CLI. Fully free/local and OSS (...",
-        "source": "HackerNews",
-        "published": "2026-06-25T16:04:46+00:00"
-      },
-      {
         "title": "GTA 6 Platform Savaşları: PS5 vs Xbox Series Kıyaslaması",
         "link": "https://shiftdelete.net/gta-6-platform-savaslari-ps5-vs-xbox-series-kiyaslamasi",
         "description": "Oyun dünyasının en çok beklenen yapımı olan Grand Theft Auto VI, teknoloji arenasında büyük bir rekabetin fitilini ateşledi. Konsol üreticileri, yeni nesil donanımlarının tüm sınırlarını zorlayacak bu devasa yapım için oyunculara en iyi deneyimi...",
         "source": "ShiftDelete",
         "published": "2026-06-25T16:00:18+00:00"
-      },
-      {
-        "title": "An entire Herculaneum scroll has been read for the first time",
-        "link": "https://scrollprize.org/firstscroll",
-        "description": "Preprint: https://scrollprize.org/pdf/main.pdf https://github.com/ScrollPrize/villa Comments URL: https://news.ycombinator.com/item?id=48675179 Points: 777 # Comments: 178",
-        "source": "HackerNews",
-        "published": "2026-06-25T15:48:07+00:00"
-      },
-      {
-        "title": "IBM debuts sub-1 nanometer chip technology",
-        "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-        "description": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology Comments URL: https://news.ycombinator.com/item?id=48674967 Points: 221 # Comments: 130",
-        "source": "HackerNews",
-        "published": "2026-06-25T15:33:37+00:00"
       },
       {
         "title": "It’s a bad time to want a new computer",
@@ -318,25 +332,11 @@
         "published": "2026-06-25T14:47:26-04:00"
       },
       {
-        "title": "You won’t have long to get these iPad deals before Apple’s price hike",
-        "link": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
-        "description": "Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in awhile — if...",
-        "source": "The Verge",
-        "published": "2026-06-25T14:32:13-04:00"
-      },
-      {
         "title": "54 Saat Pil Ömrüyle OnePlus Nord Buds 4 Tanıtıldı",
         "link": "https://shiftdelete.net/54-saat-pil-omruyle-oneplus-nord-buds-4-tanitildi",
         "description": "Akıllı telefon ve aksesuar pazarının dikkat çeken isimlerinden OnePlus, giyilebilir teknoloji yelpazesini genişletmeye hız kesmeden devam ediyor. Geçtiğimiz aylarda üst düzey donanımlara sahip Nord Buds 4 Pro modelini piyasaya süren şirket, şimdi de...",
         "source": "ShiftDelete",
         "published": "2026-06-25T14:00:31+00:00"
-      },
-      {
-        "title": "Polestar has been muscled out of the US market",
-        "link": "https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software",
-        "description": "Polestar won't be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company's request for authorization under a new rule banning vehicles with software from China. In a press release,...",
-        "source": "The Verge",
-        "published": "2026-06-25T13:58:37-04:00"
       },
       {
         "title": "Apple’dan RAM Krizi Zammı: İşte Yeni Türkiye Fiyatları!",
@@ -354,6 +354,20 @@
       }
     ],
     "dunya": [
+      {
+        "title": "UK braced for hottest June night after 36.7C reached on warmest day of year",
+        "link": "https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&at_campaign=rss",
+        "description": "Temperatures reach 36.7C in Merryfield, Somerset, the highest temperature so far this year and the hottest June day on record.",
+        "source": "BBC News",
+        "published": "2026-06-25T23:06:44+00:00"
+      },
+      {
+        "title": "Yes, there have been rows but here's how I've made moving back home work",
+        "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+        "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+        "source": "BBC News",
+        "published": "2026-06-25T23:03:48+00:00"
+      },
       {
         "title": "King Charles reveals he paid £12.9m in tax for 2024-25",
         "link": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss",
@@ -374,13 +388,6 @@
         "description": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
         "source": "BBC News",
         "published": "2026-06-25T21:27:06+00:00"
-      },
-      {
-        "title": "UK braced for hottest June night after 36.7C high on warmest day of year",
-        "link": "https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&at_campaign=rss",
-        "description": "Temperatures reach 36.7C in Merryfield, Somerset, the highest temperature so far this year and the hottest June day on record.",
-        "source": "BBC News",
-        "published": "2026-06-25T21:09:12+00:00"
       },
       {
         "title": "King and Queen will not live in Buckingham Palace after renovations",
@@ -474,13 +481,6 @@
         "published": "2026-06-25T14:44:52-04:00"
       },
       {
-        "title": "TikTok influencer charged with murdering boyfriend in Dubai",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
-        "description": "Influencer Brooke George, 23, from Kent, claims she acted in self defence in stabbing her partner.",
-        "source": "BBC News",
-        "published": "2026-06-25T11:58:44+00:00"
-      },
-      {
         "title": "Judge blocks Postal Service proposal to restrict mail-in voting under Trump's order",
         "link": "https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order",
         "description": "A judge has blocked the U.S. Postal Service's proposals responding to President Trump's order, including not delivering ballots in states that don't turn over voter lists to the federal government.",
@@ -567,11 +567,32 @@
     ],
     "turkiye": [
       {
+        "title": "Suudilere 2026 model kapitülasyon",
+        "link": "https://www.sozcu.com.tr/suudilere-2026-model-kapitulasyon-p331228",
+        "description": "Suudilere 2026 model kapitülasyon",
+        "source": "Sözcü",
+        "published": "2026-06-26T02:44:45+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-haziran-2026-1730160",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-06-26T02:30:00+03:00"
+      },
+      {
+        "title": "Sanatçılardan hayati çağrı",
+        "link": "https://www.sozcu.com.tr/sanatcilardan-hayati-cagri-p331224",
+        "description": "Sanatçılardan hayati çağrı",
+        "source": "Sözcü",
+        "published": "2026-06-26T02:06:48+03:00"
+      },
+      {
         "title": "Trump'tan 700 milyon dolarlık Türkiye adımı",
         "link": "https://www.sozcu.com.tr/trump-tan-700-milyon-dolarlik-turkiye-adimi-p331221",
         "description": "Trump'tan 700 milyon dolarlık Türkiye adımı",
         "source": "Sözcü",
-        "published": "2026-06-26T01:21:07+03:00"
+        "published": "2026-06-26T01:32:37+03:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan ile İçişleri Bakanı Çiftçi arasında ilginç atama diyaloğu",
@@ -593,13 +614,6 @@
         "description": "Denize 21,5 milyon metreküp kum döktüler",
         "source": "Sözcü",
         "published": "2026-06-26T01:01:28+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-haziran-2026-1730160",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-06-26T01:00:00+03:00"
       },
       {
         "title": "Sane'nin golü yetmedi: Almanya son maçı kaybetti",
@@ -630,25 +644,18 @@
         "published": "2026-06-25T23:57:35+03:00"
       },
       {
+        "title": "Türkiye, Dünya Kupası'nda ilk puanının peşinde",
+        "link": "https://www.bbc.co.uk/turkce/live/clyw4ley4l7t?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye, 2026 Dünya Kupası D Grubu'ndaki üçüncü ve son maçında ev sahibi ülkelerden ABD ile karşı karşıya geliyor. İlk iki maçında mağlup olan ve gruptan elenmesi kesinleşen Ay Yıldızlılar ilk puanını almak istiyor",
+        "source": "BBC Turkish",
+        "published": "2026-06-25T23:52:28.305832+00:00"
+      },
+      {
         "title": "Kayıp vakası planlı cinayet çıktı. 18 yıl sonra 7 kişi gözaltında",
         "link": "https://www.ntv.com.tr/turkiye/kayip-vakasi-planli-cinayet-cikti-18-yil-sonra-7-kisi-gozaltinda-1730159",
         "description": "Aydın'da 2008 yılında kaybolan Naciye A'nın dosyası yeniden açıldı. Olayın planlı cinayet olduğu tespit edilirken, 7 kişi gözaltına alındı.",
         "source": "NTV",
         "published": "2026-06-25T23:46:17+03:00"
-      },
-      {
-        "title": "İsrail'de Netanyahu'ya protesto: Evine dön",
-        "link": "https://www.sozcu.com.tr/israil-de-netanyahu-ya-protesto-evine-don-p331204",
-        "description": "İsrail'de Netanyahu'ya protesto: Evine dön",
-        "source": "Sözcü",
-        "published": "2026-06-25T23:38:30+03:00"
-      },
-      {
-        "title": "Tek başına yüz milyonlarca litre suyu filtreledi: Tam 2 bin 300 yıl hayatta kaldı",
-        "link": "https://www.sozcu.com.tr/tek-basina-yuz-milyonlarca-litre-suyu-filtreledi-tam-2-bin-300-yil-hayatta-kaldi-p331203",
-        "description": "Tek başına yüz milyonlarca litre suyu filtreledi: Tam 2 bin 300 yıl hayatta kaldı",
-        "source": "Sözcü",
-        "published": "2026-06-25T23:14:28+03:00"
       },
       {
         "title": "Sınav sistemi değişecek mi? Bakan Tekin'den açıklama",
@@ -768,13 +775,6 @@
         "description": "Türkiye A Milli Erkek Futbol Takımı Teknik Direktörü Vincenzo Montella, takımının ikinci maçlar sonunda 2026 Dünya Kupası'ndan elenmesinin ardından görevinden istifa etmeyeceğini söyledi",
         "source": "BBC Turkish",
         "published": "2026-06-25T01:39:28+00:00"
-      },
-      {
-        "title": "2026 Dünya Kupası'ndaki değişiklikler son grup maçlarını adaletsiz hale mi getirdi?",
-        "link": "https://www.bbc.com/turkce/articles/ce3e2v24y90o?at_medium=RSS&at_campaign=rss",
-        "description": "2026 Dünya Kupası'nda ikili averaj ve en iyi üçüncüler sistemi, bazı takımların iki maç sonunda turu garantilemesine veya elenmesine yol açarken, son grup maçlarının adaleti konusunda yeni tartışmaları da beraberinde getirdi",
-        "source": "BBC Turkish",
-        "published": "2026-06-24T01:01:58+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8808
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+77°F",
-    "wind": "←3mph",
-    "humidity": "48%"
+    "condition": "Patchy rain nearby",
+    "temp": "+68°F",
+    "wind": "↖9mph",
+    "humidity": "53%"
   }
 }
