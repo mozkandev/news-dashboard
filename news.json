@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-06-27T07:49:20.227117+00:00",
+  "updated_at": "2026-06-27T10:08:25.291142+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Dünyanın İlk Robot Oteli için Geri Sayım Başladı",
+        "link": "https://shiftdelete.net/dunyanin-ilk-robot-oteli-icin-geri-sayim-basladi",
+        "description": "Çinli Pudu Robotics, 2027 yılında hizmete girecek olan ve tüm operasyonları robotlar tarafından yönetilen dünyanın ilk otelini duyurdu.",
+        "source": "ShiftDelete",
+        "published": "2026-06-27T10:00:00+00:00"
+      },
+      {
+        "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+        "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "description": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 84 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-06-27T09:18:52+00:00"
+      },
+      {
+        "title": "Apple’ın Sonbahar Lansmanı: 15’ten Fazla Yeni Ürün",
+        "link": "https://shiftdelete.net/applein-sonbahar-lansmani-15ten-fazla-yeni-urun",
+        "description": "Apple, sonbaharda iPhone 18 serisi, MacBook Ultra ve yeni ev ürünleri dahil 15'ten fazla cihazı tanıtmaya hazırlanıyor. İşte tüm detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-06-27T09:00:00+00:00"
+      },
+      {
+        "title": "Gemini Artık Sohbetteyken Uygulama İndirebiliyor",
+        "link": "https://shiftdelete.net/gemini-artik-sohbetteyken-uygulama-indirebiliyor",
+        "description": "Google, Gemini ve Google Play entegrasyonunu kullanıma sundu. Artık sohbet üzerinden uygulama keşfedebilir, indirebilir ve satın alma yapabilirsiniz.",
+        "source": "ShiftDelete",
+        "published": "2026-06-27T08:00:00+00:00"
+      },
       {
         "title": "Apple Vision Pro Yöneticisi OpenAI’a Geçti",
         "link": "https://shiftdelete.net/apple-vision-pro-yoneticisi-openaia-gecti",
@@ -17,11 +45,25 @@
         "published": "2026-06-27T06:00:00+00:00"
       },
       {
+        "title": "IBM MCGA Gate Array Reverse Engineering",
+        "link": "https://github.com/schlae/IBM_MCGA",
+        "description": "Article URL: https://github.com/schlae/IBM_MCGA Comments URL: https://news.ycombinator.com/item?id=48695363 Points: 29 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-06-27T05:17:08+00:00"
+      },
+      {
         "title": "GTA 6 için En İyi Deneyim PS5 Pro’da mı?",
         "link": "https://shiftdelete.net/gta-6-icin-en-iyi-deneyim-ps5-proda-mi",
         "description": "GTA 6'nın PlayStation 5 Pro üzerindeki performans detayları ortaya çıktı. Yeni bilgiler oyunun daha kararlı FPS ve keskin çözünürlük sunacağını gösteriyor.",
         "source": "ShiftDelete",
         "published": "2026-06-27T05:00:00+00:00"
+      },
+      {
+        "title": "OpenTTD 16.0-Beta1",
+        "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+        "description": "Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1 Comments URL: https://news.ycombinator.com/item?id=48695149 Points: 158 # Comments: 25",
+        "source": "HackerNews",
+        "published": "2026-06-27T04:31:06+00:00"
       },
       {
         "title": "Rusya’dan Apple’a Boykot Çağrısı: Android’e Geçin",
@@ -31,11 +73,32 @@
         "published": "2026-06-27T04:00:00+00:00"
       },
       {
+        "title": "WordStar: A Writer's Word Processor (1996)",
+        "link": "https://www.sfwriter.com/wordstar.htm",
+        "description": "Article URL: https://www.sfwriter.com/wordstar.htm Comments URL: https://news.ycombinator.com/item?id=48694853 Points: 92 # Comments: 41",
+        "source": "HackerNews",
+        "published": "2026-06-27T03:30:01+00:00"
+      },
+      {
+        "title": "Anatomy of a Failed (Nation-State?) Attack",
+        "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+        "description": "Article URL: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/ Comments URL: https://news.ycombinator.com/item?id=48694631 Points: 59 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-06-27T02:41:53+00:00"
+      },
+      {
         "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
         "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
         "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
         "source": "TechCrunch",
         "published": "2026-06-27T01:01:37+00:00"
+      },
+      {
+        "title": "Show HN: Hacker News on a train station-style flip board",
+        "link": "https://popflame.quickish.space/hn-flipboard/",
+        "description": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. The recent flip board back and forth's on Twitter...",
+        "source": "HackerNews",
+        "published": "2026-06-27T00:43:39+00:00"
       },
       {
         "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
@@ -52,6 +115,20 @@
         "published": "2026-06-27T00:23:19-04:00"
       },
       {
+        "title": "Foreign funds help make housing unaffordable: research",
+        "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+        "description": "Article URL: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/ Comments URL: https://news.ycombinator.com/item?id=48693420 Points: 79 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-06-26T23:36:30+00:00"
+      },
+      {
+        "title": "Om",
+        "link": "https://daringfireball.net/2026/06/om",
+        "description": "Related: Om Malik has died - https://news.ycombinator.com/item?id=48678852 - June 2026 (161 comments) Comments URL: https://news.ycombinator.com/item?id=48693391 Points: 372 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-06-26T23:33:46+00:00"
+      },
+      {
         "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
         "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
         "description": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the...",
@@ -64,6 +141,20 @@
         "description": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have...",
         "source": "The Verge",
         "published": "2026-06-26T22:54:51-04:00"
+      },
+      {
+        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "description": "https://archive.md/ArXuF https://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 438 # Comments: 500",
+        "source": "HackerNews",
+        "published": "2026-06-26T22:48:28+00:00"
+      },
+      {
+        "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+        "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+        "description": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed Comments URL: https://news.ycombinator.com/item?id=48692946 Points: 240 # Comments: 115",
+        "source": "HackerNews",
+        "published": "2026-06-26T22:43:29+00:00"
       },
       {
         "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
@@ -136,13 +227,6 @@
         "published": "2026-06-26T19:13:40+00:00"
       },
       {
-        "title": "Sony Yeni Bir Taşınabilir Oyun Cihazı Üzerinde mi Çalışıyor?",
-        "link": "https://shiftdelete.net/sony-yeni-bir-tasinabilir-oyun-cihazi-uzerinde-mi-calisiyor",
-        "description": "Sony Interactive Entertainment CEO'su Hideaki Nishino, gelecekteki konsol stratejilerinde taşınabilir teknolojilere odaklanacaklarını açıkladı.",
-        "source": "ShiftDelete",
-        "published": "2026-06-26T19:00:00+00:00"
-      },
-      {
         "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
         "link": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
         "description": "We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The company has heavily discounted several of its color-changing smart...",
@@ -155,13 +239,6 @@
         "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
         "source": "TechCrunch",
         "published": "2026-06-26T18:32:14+00:00"
-      },
-      {
-        "title": "Windows 10 Kullanıcılarına Müjde: Destek Süresi Uzatıldı",
-        "link": "https://shiftdelete.net/windows-10-kullanicilarina-mujde-destek-suresi-uzatildi",
-        "description": "Microsoft, Windows 10 Genişletilmiş Güvenlik Güncelleştirmeleri programını 12 Ekim 2027 tarihine kadar uzattı. İşte detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-06-26T18:30:00+00:00"
       },
       {
         "title": "DÜNYANIN EN İNCE 13 İNÇ TABLETİ | Huawei MatePad Pro Max İnceleme",
@@ -204,13 +281,6 @@
         "description": "Bir dizüstü bilgisayar alırken yalnızca performans, tasarım ya da fiyat değil; satın alma sonrası alacağınız hizmetler de önemli. Casper Excalibur, sunduğu ömür boyu performans garantisi ile bu noktada gücünü ortaya koyuyor.",
         "source": "Webtekno",
         "published": "2026-06-26T18:14:15+03:00"
-      },
-      {
-        "title": "iPhone 18 Artan RAM Kapasitesiyle Geliyor",
-        "link": "https://shiftdelete.net/iphone-18-artan-ram-kapasitesiyle-geliyor",
-        "description": "Apple'ın iPhone 18 modellerinde RAM kapasitesini 9GB'a çıkararak Apple Intelligence performansını artırmayı hedeflediği bildiriliyor.",
-        "source": "ShiftDelete",
-        "published": "2026-06-26T18:00:00+00:00"
       },
       {
         "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
@@ -285,11 +355,60 @@
     ],
     "dunya": [
       {
+        "title": "US strikes Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+        "source": "BBC News",
+        "published": "2026-06-27T10:06:32+00:00"
+      },
+      {
+        "title": "Is Andy Burnham Labour's saviour, or just its best bet?",
+        "link": "https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss",
+        "description": "Labour insiders give Laura Kuenssberg their take on the man tipped to replace Keir Starmer as PM.",
+        "source": "BBC News",
+        "published": "2026-06-27T09:43:41+00:00"
+      },
+      {
         "title": "Mahmood announces new refugee sponsorship route into UK",
         "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
         "description": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
         "source": "BBC News",
-        "published": "2026-06-27T07:04:04+00:00"
+        "published": "2026-06-27T08:56:49+00:00"
+      },
+      {
+        "title": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5871338/tps-population-scotus-immigration-trump",
+        "description": "The U.S. population was already aging and tilting toward decline. After the Supreme Court confirmed Trump's power to deport hundreds of thousands of foreign migrants, population decline could accelerate.",
+        "source": "NPR",
+        "published": "2026-06-27T06:00:00-04:00"
+      },
+      {
+        "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+        "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+        "description": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
+        "source": "NPR",
+        "published": "2026-06-27T05:02:00-04:00"
+      },
+      {
+        "title": "What would George Washington say? It's a busy year for people who portray him",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+        "description": "America's 250th birthday has brought more events and new crowds for Revolutionary reenactors and interpreters. They say Washington's life holds important lessons for our current political divide.",
+        "source": "NPR",
+        "published": "2026-06-27T05:00:00-04:00"
+      },
+      {
+        "title": "4 ways to get creative with your leftovers (and save money on food)",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5786564/4-ways-get-creative-with-your-leftovers-save-money-on-food",
+        "description": "Don't let your leftovers go to waste. Cookbook authors share clever storage techniques — like an \"Eat Me First\" box in your fridge — and cooking tricks to help you make the most of your food scraps.",
+        "source": "NPR",
+        "published": "2026-06-27T05:00:00-04:00"
+      },
+      {
+        "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid",
+        "description": "Aid efforts are intensifying after twin earthquakes killed nearly 1,000 in Venezuela, with international teams arriving but a slow government response hampering relief on the ground.",
+        "source": "NPR",
+        "published": "2026-06-27T05:00:00-04:00"
       },
       {
         "title": "How Cape Verde stunned World Cup to set up Argentina tie",
@@ -313,18 +432,18 @@
         "published": "2026-06-27T03:03:18-04:00"
       },
       {
-        "title": "US strikes Iran after attack on cargo ship",
-        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-        "source": "BBC News",
-        "published": "2026-06-27T02:48:12+00:00"
-      },
-      {
         "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
         "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss",
         "description": "All the revelations from Madonna's chat with Graham Norton, including a big hint about Glastonbury.",
         "source": "BBC News",
         "published": "2026-06-27T01:41:28+00:00"
+      },
+      {
+        "title": "See it, say it, not sorted. I was let down when I reported my train sexual assault",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzr58xy0ro?at_medium=RSS&at_campaign=rss",
+        "description": "After reporting an incident on a train, Esme Rice waited 13 hours for a response from the British Transport Police.",
+        "source": "BBC News",
+        "published": "2026-06-27T01:33:36+00:00"
       },
       {
         "title": "How completing the World Cup sticker book is like having a second job",
@@ -348,25 +467,11 @@
         "published": "2026-06-26T23:01:50+00:00"
       },
       {
-        "title": "Three unusual things about the King's tax bill",
-        "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
-        "description": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
-        "source": "BBC News",
-        "published": "2026-06-26T23:00:30+00:00"
-      },
-      {
         "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
         "link": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
         "description": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodríguez, has...",
         "source": "The Guardian",
         "published": "2026-06-26T22:44:43+00:00"
-      },
-      {
-        "title": "UK search team join the rescue effort",
-        "link": "https://www.bbc.co.uk/news/articles/cr7xlr2ndxno?at_medium=RSS&at_campaign=rss",
-        "description": "The 68-strong team left Brize Norton airbase on Friday onboard an RAF plane carrying aid supplies.",
-        "source": "BBC News",
-        "published": "2026-06-26T20:50:33+00:00"
       },
       {
         "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
@@ -390,20 +495,6 @@
         "published": "2026-06-26T17:18:04-04:00"
       },
       {
-        "title": "It's not just Cape Verde: African soccer is having a World Cup moment",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
-        "description": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, teams from Africa have been relentless.",
-        "source": "NPR",
-        "published": "2026-06-26T16:49:57-04:00"
-      },
-      {
-        "title": "She posted about ICE. Five months later, DHS agents told her to take her post down",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea",
-        "description": "In January, Paigelynne Gonyea posted about the immigration surge in Minneapolis. This week, she was visited by ICE officials who claimed one of her posts had doxxed a federal agent.",
-        "source": "NPR",
-        "published": "2026-06-26T16:21:35-04:00"
-      },
-      {
         "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
         "link": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
         "description": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kept rodent...",
@@ -425,20 +516,6 @@
         "published": "2026-06-26T15:00:07+00:00"
       },
       {
-        "title": "U.S. pledges generous earthquake relief to Venezuela",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-        "description": "Secretary of State Marco Rubio promised: \"We have a whole-of-government response. It'll be big; it'll be fast; and it'll be effective.\"",
-        "source": "NPR",
-        "published": "2026-06-26T13:42:40-04:00"
-      },
-      {
-        "title": "World Cup fans are missing games after their resale tickets fall through",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5871397/world-cup-tickets-stubhub-resale-controversy",
-        "description": "The ordeal has left fans forced to either miss out on a once-in-a-lifetime opportunity or scramble to find new tickets, often costing more and for worse seats.",
-        "source": "NPR",
-        "published": "2026-06-26T12:13:47-04:00"
-      },
-      {
         "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
         "link": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
         "description": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now,...",
@@ -446,14 +523,7 @@
         "published": "2026-06-26T12:03:25+00:00"
       },
       {
-        "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
-        "description": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
-        "source": "NPR",
-        "published": "2026-06-26T11:45:25-04:00"
-      },
-      {
-        "title": "Do Kane, Saka, or Pickford have roots near you? Try our postcode lookup",
+        "title": "Does a World Cup star have roots near you? Try our postcode lookup",
         "link": "https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
         "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
         "source": "BBC News",
@@ -497,32 +567,109 @@
     ],
     "turkiye": [
       {
-        "title": "Cebinizdeki bu madeni para sizi zengin edebilir: O işarete dikkat edin",
-        "link": "https://www.sozcu.com.tr/cebinizdeki-bu-madeni-para-sizi-zengin-edebilir-bu-isarete-dikkat-edin-p331602",
-        "description": "Cebinizdeki bu madeni para sizi zengin edebilir: O işarete dikkat edin",
-        "source": "Sözcü",
-        "published": "2026-06-27T10:42:40+03:00"
+        "title": "AK Parti'nin yeni şarkısı ilk kez dinletildi",
+        "link": "https://www.ntv.com.tr/turkiye/ak-partinin-yeni-sarkisi-ilk-kez-dinletildi-1730373",
+        "description": "AK Parti'nin 33. İstişare ve Değerlendirme Toplantısı'nda, \"Efsane Büyük Başkan\" şarkısı ilk kez dinletildi.",
+        "source": "NTV",
+        "published": "2026-06-27T13:07:20+03:00"
       },
       {
-        "title": "CHP'li vekillerin dokunulmazlık dosyaları Meclis'te",
-        "link": "https://www.sozcu.com.tr/chp-li-vekillerin-dokunulmazlik-dosyalari-meclis-te-p331601",
-        "description": "CHP'li vekillerin dokunulmazlık dosyaları Meclis'te",
+        "title": "Fatih Terim'den yeni açıklama! Daha fazla hayıflanacağız",
+        "link": "https://www.sozcu.com.tr/fatih-terim-den-yeni-aciklama-daha-fazla-hayiflanacagiz-p331643",
+        "description": "Fatih Terim'den yeni açıklama! Daha fazla hayıflanacağız",
         "source": "Sözcü",
-        "published": "2026-06-27T10:39:40+03:00"
+        "published": "2026-06-27T13:07:19+03:00"
       },
       {
-        "title": "Ehliyetler tek tek iptal ediliyor: Duyan Nüfus Müdürlüğüne koşuyor",
-        "link": "https://www.sozcu.com.tr/ehliyetler-tek-tek-iptal-ediliyor-duyan-nufus-mudurlugune-kosuyor-p331600",
-        "description": "Ehliyetler tek tek iptal ediliyor: Duyan Nüfus Müdürlüğüne koşuyor",
+        "title": "FBI Türk iş insanını gözaltına aldı",
+        "link": "https://www.sozcu.com.tr/fbi-turk-is-insanini-gozaltina-aldi-p331649",
+        "description": "FBI Türk iş insanını gözaltına aldı",
         "source": "Sözcü",
-        "published": "2026-06-27T10:37:15+03:00"
+        "published": "2026-06-27T13:04:47+03:00"
       },
       {
-        "title": "Çölün ortasında 280 tanesi yeni bulundu: Sırrı açığa çıktı",
-        "link": "https://www.sozcu.com.tr/colun-ortasinda-280-tanesi-yeni-bulundu-sirri-aciga-cikti-p331598",
-        "description": "Çölün ortasında 280 tanesi yeni bulundu: Sırrı açığa çıktı",
+        "title": "Twente, Weghorst'u transfer etti",
+        "link": "https://www.sozcu.com.tr/twente-weghorst-u-transfer-etti-p331648",
+        "description": "Twente, Weghorst'u transfer etti",
         "source": "Sözcü",
-        "published": "2026-06-27T10:31:27+03:00"
+        "published": "2026-06-27T12:56:05+03:00"
+      },
+      {
+        "title": "Gaziantep'te 'Özgür Özel' coşkusu: 'İşgal tehlikeli bir noktaya gelirse...' diyerek açıkladı",
+        "link": "https://www.sozcu.com.tr/ozel-e-gaziantep-te-coskulu-karsilama-isgal-tehlikeli-bir-noktaya-gelirse-diyerek-acikladi-p331644",
+        "description": "Gaziantep'te 'Özgür Özel' coşkusu: 'İşgal tehlikeli bir noktaya gelirse...' diyerek açıkladı",
+        "source": "Sözcü",
+        "published": "2026-06-27T12:55:19+03:00"
+      },
+      {
+        "title": "Demet Özdemir'in art arda paylaştığı kareler sosyal medyayı salladı",
+        "link": "https://www.sozcu.com.tr/demet-ozdemir-in-art-arda-paylastigi-kareler-sosyal-medyayi-salladi-p331645",
+        "description": "Demet Özdemir'in art arda paylaştığı kareler sosyal medyayı salladı",
+        "source": "Sözcü",
+        "published": "2026-06-27T12:51:23+03:00"
+      },
+      {
+        "title": "Altın değerinde dev rezerv bulundu: Tüm kıtaya tek başına yetecek",
+        "link": "https://www.sozcu.com.tr/altin-degerinde-dev-rezerv-bulundu-tum-kitaya-tek-basina-yetecek-p331639",
+        "description": "Altın değerinde dev rezerv bulundu: Tüm kıtaya tek başına yetecek",
+        "source": "Sözcü",
+        "published": "2026-06-27T12:27:33+03:00"
+      },
+      {
+        "title": "5 aylık büyük hesaplaşma başladı, 3 burç 13 Aralık'a kadar resmen küllerinden doğacak",
+        "link": "https://www.sozcu.com.tr/5-aylik-buyuk-hesaplasma-basladi-3-burc-13-aralik-a-kadar-resmen-kullerinden-dogacak-p331637",
+        "description": "5 aylık büyük hesaplaşma başladı, 3 burç 13 Aralık'a kadar resmen küllerinden doğacak",
+        "source": "Sözcü",
+        "published": "2026-06-27T12:21:22+03:00"
+      },
+      {
+        "title": "Binlerce lira vermek yerine evde süt kutusundan klima yapabilirsiniz",
+        "link": "https://www.sozcu.com.tr/binlerce-lira-vermek-yerine-evde-sut-kutusundan-klima-yapabilirsiniz-p331636",
+        "description": "Binlerce lira vermek yerine evde süt kutusundan klima yapabilirsiniz",
+        "source": "Sözcü",
+        "published": "2026-06-27T12:21:21+03:00"
+      },
+      {
+        "title": "Türkiye'nin en uzun köprüsünde tek bir cıvata bile yok: Yayaların geçmesi kesinlikle yasak",
+        "link": "https://www.sozcu.com.tr/turkiye-nin-en-uzun-koprusunde-tek-bir-civata-bile-yok-yayalarin-gecmesi-kesinlikle-yasak-p331631",
+        "description": "Türkiye'nin en uzun köprüsünde tek bir cıvata bile yok: Yayaların geçmesi kesinlikle yasak",
+        "source": "Sözcü",
+        "published": "2026-06-27T12:09:13+03:00"
+      },
+      {
+        "title": "Halay kavgasında ortalık savaş alanına döndü",
+        "link": "https://www.sozcu.com.tr/halay-kavgasinda-ortalik-savas-alanina-dondu-p331630",
+        "description": "Halay kavgasında ortalık savaş alanına döndü",
+        "source": "Sözcü",
+        "published": "2026-06-27T12:05:04+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: Milli meselelerde uzlaşıya hazırız",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-milli-meselelerde-uzlasiya-haziriz-1730350",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, birlik ve beraberlik çağrısında bulunup terörsüz Türkiye başta olmak üzere milli meselelerde uzlaşıya hazır olduklarını dile getirdi. Erdoğan, \"Tek arzumuz Türkiye'nin normalleşmesi.\" diye konuştu.",
+        "source": "NTV",
+        "published": "2026-06-27T12:00:14+03:00"
+      },
+      {
+        "title": "Devlet Bahçeli'den Kadir İnanır için taziye mesajı",
+        "link": "https://www.ntv.com.tr/turkiye/devlet-bahceliden-kadir-inanir-icin-taziye-mesaji-1730362",
+        "description": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, hayatını kaybeden usta aktör Kadir İnanır için taziye mesajı paylaştı.",
+        "source": "NTV",
+        "published": "2026-06-27T11:26:57+03:00"
+      },
+      {
+        "title": "Geç geldi, ama bitmeyecek! Meteoroloji uzmanı uyardı. Bu sene yaz uzayacak",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-gec-geldi-ama-bitmeyecek-meteoroloji-uzmani-uyardi-bu-sene-yaz-uzayacak-1730357",
+        "description": "Avrupa ülkelerini kavuran \"Omega blokajı\" Türkiye'ye aşırı sıcaklıkların gelmesini engelledi. Bu sistemin etkisiyle bu sene Türkiye'de rekor sıcaklıkların görülmeyeceği ancak yaz mevsimin uzayacağı, \"Bu yaz bitmedi\" dedirteceği ifade ediliyor.",
+        "source": "NTV",
+        "published": "2026-06-27T11:20:02+03:00"
+      },
+      {
+        "title": "TBMM Başkanı Kurtulmuş: \"Terör işinin yüzde 80-90'ı bitti\"",
+        "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmus-teror-isinin-yuzde-80-90i-bitti-1730343",
+        "description": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, \"Terör işinin yüzde 80-90'ı bitti.\" diyerek yakın zamanda terörsüz Türkiye sürecinin tamamlanacağını belirtti.",
+        "source": "NTV",
+        "published": "2026-06-27T10:52:38+03:00"
       },
       {
         "title": "Firari 2 FETÖ üyesi Yunanistan sınırında yakalandı",
@@ -532,46 +679,11 @@
         "published": "2026-06-27T10:27:23+03:00"
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş: \"Terör işinin yüzde 80-90'ı bitti\"",
-        "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmus-teror-isinin-yuzde-80-90i-bitti-1730343",
-        "description": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, \"Terör işinin yüzde 80-90'ı bitti.\" diyerek yakın zamanda terörsüz Türkiye sürecinin tamamlanacağını belirtti.",
-        "source": "NTV",
-        "published": "2026-06-27T10:26:53+03:00"
-      },
-      {
-        "title": "Hafta sonuna dikkat. 45 derece alarmı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-hafta-sonuna-dikkat-45-derece-alarmi-1730308",
-        "description": "Türkiye önümüzdeki hafta kavrulacak. Birçok bölgede hissedilen sıcaklıklar 45 dereceye yaklaşacak. Özellikle kalp ve tansiyon gibi kronik rahatsızlığı olanların daha dikkatli olması gerekiyor.",
-        "source": "NTV",
-        "published": "2026-06-27T10:22:25+03:00"
-      },
-      {
         "title": "10 milletvekilinin 11 dokunulmazlık dosyası Meclis'te",
         "link": "https://www.ntv.com.tr/turkiye/10-milletvekilinin-11-dokunulmazlik-dosyasi-mecliste-1730338",
         "description": "TBMM Başkanlığına 10 milletvekiline ait 11 dokunulmazlık dosyası sunuldu.",
         "source": "NTV",
         "published": "2026-06-27T10:12:31+03:00"
-      },
-      {
-        "title": "Mehmet Ali Erbil bir anda gözyaşlarına boğuldu: 'Çok merak ediyorum'",
-        "link": "https://www.sozcu.com.tr/mehmet-ali-erbil-bir-anda-gozyaslarina-boguldu-cok-merak-ediyorum-p331597",
-        "description": "Mehmet Ali Erbil bir anda gözyaşlarına boğuldu: 'Çok merak ediyorum'",
-        "source": "Sözcü",
-        "published": "2026-06-27T10:12:23+03:00"
-      },
-      {
-        "title": "Denizlerin yeni favori harp gemisi suya indirildi: Takip ederken füze atıyor",
-        "link": "https://www.sozcu.com.tr/denizlerin-yeni-favori-harp-gemisi-suya-indirildi-takip-ederken-fuze-atiyor-p331595",
-        "description": "Denizlerin yeni favori harp gemisi suya indirildi: Takip ederken füze atıyor",
-        "source": "Sözcü",
-        "published": "2026-06-27T10:01:02+03:00"
-      },
-      {
-        "title": "Telefon, bilgisayar, televizyon... İkinci el alışverişinde yeni kurallar devrede",
-        "link": "https://www.sozcu.com.tr/telefon-bilgisayar-televizyon-ikinci-el-alisverisinde-yeni-kurallar-devrede-p331594",
-        "description": "Telefon, bilgisayar, televizyon... İkinci el alışverişinde yeni kurallar devrede",
-        "source": "Sözcü",
-        "published": "2026-06-27T10:00:08+03:00"
       },
       {
         "title": "Niğde'deki havai fişek fabrikasındaki patlama kamerada",
@@ -581,20 +693,6 @@
         "published": "2026-06-27T09:56:12+03:00"
       },
       {
-        "title": "Altından beklenmedik atak! Şimdi ne olacak?",
-        "link": "https://www.sozcu.com.tr/altindan-beklenmedik-atak-simdi-ne-olacak-p331591",
-        "description": "Altından beklenmedik atak! Şimdi ne olacak?",
-        "source": "Sözcü",
-        "published": "2026-06-27T09:48:26+03:00"
-      },
-      {
-        "title": "Kılıçdaroğlu yönetimine anket şoku!",
-        "link": "https://www.sozcu.com.tr/kilicdaroglu-yonetimine-anket-soku-p331589",
-        "description": "Kılıçdaroğlu yönetimine anket şoku!",
-        "source": "Sözcü",
-        "published": "2026-06-27T09:41:06+03:00"
-      },
-      {
         "title": "NATO Zirvesi öncesi terör operasyonu. 178 kişi tutuklandı",
         "link": "https://www.ntv.com.tr/turkiye/ankarada-teror-operasyonu-178-kisi-tutuklandi-1730318",
         "description": "Ankara merkezli yürütülen terör operasyonlarında gözaltına alınan 225 şüpheliden 178'i, sevk edildikleri mahkemece tutuklanarak cezaevine gönderildi.",
@@ -602,11 +700,11 @@
         "published": "2026-06-27T09:31:57+03:00"
       },
       {
-        "title": "Yok böyle son! İranlıların sevinçleri kursağında kaldı",
-        "link": "https://www.sozcu.com.tr/yok-boyle-son-iranlilarin-sevincleri-kursaginda-kaldi-p331587",
-        "description": "Yok böyle son! İranlıların sevinçleri kursağında kaldı",
-        "source": "Sözcü",
-        "published": "2026-06-27T09:31:08+03:00"
+        "title": "İngiltere'de başbakanlar neden sürekli değişiyor?",
+        "link": "https://www.bbc.com/turkce/articles/cvgdr1qjypgo?at_medium=RSS&at_campaign=rss",
+        "description": "Keir Starmer, son 10 yılda görevden ayrılan altıncı İngiltere başbakanı oldu. BBC'den Rob Watson, bu istikrarsızlığın ardındaki nedenleri inceliyor.",
+        "source": "BBC Turkish",
+        "published": "2026-06-27T09:28:33+00:00"
       },
       {
         "title": "YKS'de hatalı soru tartışması, ÖSYM inceleme başlattı. Edebiyat ve matematikte iptaller olacak mı?",
@@ -616,11 +714,25 @@
         "published": "2026-06-27T09:19:45+03:00"
       },
       {
-        "title": "Trafikte görülmemiş hız cezası. Formula 1 ve yolcu uçağından bile süratli çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-trafikte-gorulmemis-hiz-cezasi-formula-1-ve-yolcu-ucagindan-bile-suratli-cikti-1730319",
-        "description": "Saattle bin 221 kilometre hızla radara yakalanan ve hız cezası yiyen 62 yaşındaki adama 30 bin liralık ceza tebligatı geldi. Mahkemeye başvuran yaşlı adam yanlış kesilen cezayı iptal ettirdi. Haber: Rojbin Hayrullahoğlu",
-        "source": "NTV",
-        "published": "2026-06-27T08:44:09+03:00"
+        "title": "30 yıllık insan kaynakları uzmanından işe girme tavsiyeleri",
+        "link": "https://www.bbc.com/turkce/articles/clye9jl75vdo?at_medium=RSS&at_campaign=rss",
+        "description": "İşe alım kuruluşu yöneticisi, daha zorlu bir iş piyasasında nasıl fark edileceğinize dair ipuçlarını paylaşıyor.",
+        "source": "BBC Turkish",
+        "published": "2026-06-27T08:21:38+00:00"
+      },
+      {
+        "title": "'Sperm kardeşleri': Aynı sperm bağışçısından doğduklarını 20'lerinde fark ettiler",
+        "link": "https://www.bbc.com/turkce/articles/cgqjn4yx0d7o?at_medium=RSS&at_campaign=rss",
+        "description": "Natasha, Gemma ve Helen birbirlerini bulmanın \"bir peri masalı\" gibi olduğunu söylüyor.",
+        "source": "BBC Turkish",
+        "published": "2026-06-27T07:51:35+00:00"
+      },
+      {
+        "title": "'Dövüldük, soyulduk, kar fırtınasında bırakıldık': Afgan göçmenlerden Türkiye sınırında kötü muamele iddiası",
+        "link": "https://www.bbc.com/turkce/articles/c04yg9qpev6o?at_medium=RSS&at_campaign=rss",
+        "description": "Yaşları 13 ile 25 arasında değişen 12 göçmen, BBC Afghan Forensic'e, Avrupa'ya gitmeye çalışırken Türk sınır görevlileri tarafından dövülen, soyulan ve ardından kar altında kaderlerine terk edilen 50 kişi arasında olduklarını söyledi. Dışişleri...",
+        "source": "BBC Turkish",
+        "published": "2026-06-27T07:50:12+00:00"
       },
       {
         "title": "ABD, bir yük gemisine saldırının ardından İran'ı vurdu",
@@ -628,34 +740,6 @@
         "description": "ABD Başkan Donald Trump İran'ı, Hürmüz Boğazı'nda bir yük gemisine düzenlenen saldırının ardından ateşkesi \"akılsızca ihlal etmekle\" suçladı. Ardından ABD ordusu İran hedeflerine saldırılar düzenledi.",
         "source": "BBC Turkish",
         "published": "2026-06-27T07:44:26+00:00"
-      },
-      {
-        "title": "Makas kazasında iki otomobil dereye uçtu",
-        "link": "https://www.ntv.com.tr/turkiye/makas-kazasinda-iki-otomobil-dereye-uctu-1730306",
-        "description": "Bursa'da trafikte makas atan aracın neden olduğu zincirleme kazada iki otomobil dereye uçtu, 6 kişi yaralandı.",
-        "source": "NTV",
-        "published": "2026-06-27T04:59:17+03:00"
-      },
-      {
-        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 27 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-27-haziran-2026-1730305",
-        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 27 Haziran 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
-        "source": "NTV",
-        "published": "2026-06-27T04:40:00+03:00"
-      },
-      {
-        "title": "Türk sinemasının usta ismi Kadir İnanır hayatını kaybetti",
-        "link": "https://www.bbc.com/turkce/articles/c39y7g10pexo?at_medium=RSS&at_campaign=rss",
-        "description": "Türk sinemasının usta ismi Kadir İnanır, tedavi gördüğü hastanede hayatını kaybetti. 77 yaşındaki yıldız oyuncu 14 Mayıs'ta zatürre rahatsızlığı nedeniyle hastaneye kaldırılmış, kısa bir süre sonra da akciğerindeki enfeksiyon nedeniyle yoğun bakıma...",
-        "source": "BBC Turkish",
-        "published": "2026-06-26T19:51:24+00:00"
-      },
-      {
-        "title": "Avrupa kavruluyor: Almanya, Belçika ve Hollanda'da sıcaklık rekorları",
-        "link": "https://www.bbc.com/turkce/articles/c79y7ygve1wo?at_medium=RSS&at_campaign=rss",
-        "description": "Almanya, Belçika ve Hollanda'da sıcaklıklar cuma günü haziran ayı rekorlarını kırarken, Avrupa'daki sıcak hava dalgası nedeniyle İspanya ve Fransa'da can kaybı artmaya devam etti. Sağlık riskleri nedeniyle konserler ve diğer kamusal etkinlikler...",
-        "source": "BBC Turkish",
-        "published": "2026-06-26T19:03:05+00:00"
       },
       {
         "title": "Venezuela'da peş peşe iki deprem: Can kaybı 920'ye yükseldi",
@@ -679,13 +763,6 @@
         "published": "2026-06-26T14:36:56+00:00"
       },
       {
-        "title": "Böcek ailesi davasında karar: Dört sanık hakkında 12 yıldan 18 yıla kadar hapis",
-        "link": "https://www.bbc.com/turkce/articles/cy01z59pr05o?at_medium=RSS&at_campaign=rss",
-        "description": "Almanya'dan Türkiye'ye tatile gelen ve kaldıkları oteldeki ilaçlama yüzünden zehirlenerek hayatını kaybeden dört kişilik Böcek ailesinin ölümüne ilişkin davada karar açıklandı.",
-        "source": "BBC Turkish",
-        "published": "2026-06-26T14:11:16+00:00"
-      },
-      {
         "title": "Rutte'nin İran saldırılarına üs desteği sözleri Tahran'ı kızdırdı, Roma iddiaları yalanladı",
         "link": "https://www.bbc.com/turkce/articles/clyw4m0elxzo?at_medium=RSS&at_campaign=rss",
         "description": "NATO Genel Sekreteri Mark Rutte, İran'a yönelik \"Epik Öfke\" operasyonunu desteklemek için İtalya'daki ABD üslerinden 500 ABD uçağının, Avrupa çapında da binlercesinin havalandığını söyleyince NATO ile İran arasında gerginliğe neden oldu.",
@@ -693,18 +770,11 @@
         "published": "2026-06-26T12:47:01+00:00"
       },
       {
-        "title": "Dilovası parfüm fabrikası yangını soruşturmasında yedi kişi daha tutuklandı",
-        "link": "https://www.bbc.com/turkce/articles/c30yvn17y2yo?at_medium=RSS&at_campaign=rss",
-        "description": "Kocaeli'nin Dilovası ilçesindeki bir kozmetik fabrikası yangınında yedi işçinin yaşamını yitirmesine ilişkin soruşturma kapsamında aralarında görevden uzaklaştırılan Dilovası Belediye Başkan Yardımcısı ve Zabıta Müdür Vekilinin de bulunduğu yedi...",
+        "title": "Reuters: Trump KAAN için 700 milyon dolarlık motor satışını Kongre'ye bildirdi",
+        "link": "https://www.bbc.com/turkce/articles/cpd323jyx20o?at_medium=RSS&at_campaign=rss",
+        "description": "Reuters Haber ajansı, ABD Başkanı Donald Trump'ın Türkiye'ye 700 milyon doların üzerindeki değere sahip onlarca jet motoru satma isteğini Kongre'ye resmen bildirdiğini duyurdu.",
         "source": "BBC Turkish",
-        "published": "2026-06-26T11:10:26+00:00"
-      },
-      {
-        "title": "Yeni çözüm süreci: MHP, çerçeve yasa tartışmalarına ne diyor?",
-        "link": "https://www.bbc.com/turkce/articles/cwyk50gxzj4o?at_medium=RSS&at_campaign=rss",
-        "description": "MHP Genel Başkanı Bahçeli, son iki haftadaki grup toplantılarında \"Terörsüz Türkiye\" konusunda iç gündeme dair yönlendirici bir yorum yapmadı. MHP'li bazı yöneticiler bunu yoğun gündemine ve o günlerde öne çıkarmayı tercih ettiği konulara bağlıyor....",
-        "source": "BBC Turkish",
-        "published": "2026-06-26T00:00:52+00:00"
+        "published": "2026-06-26T09:37:17+00:00"
       }
     ]
   },
@@ -714,9 +784,9 @@
     "eur_usd": 0.8778
   },
   "weather": {
-    "condition": "Açık",
-    "temp": "+68°F",
-    "wind": "↓3mph",
-    "humidity": "87%"
+    "condition": "Kapalı",
+    "temp": "+63°F",
+    "wind": "→4mph",
+    "humidity": "75%"
   }
 }
