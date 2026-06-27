@@ -1,27 +1,111 @@
 {
-  "updated_at": "2026-06-27T00:07:19.275358+00:00",
+  "updated_at": "2026-06-27T04:34:27.166714+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-        "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-        "description": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/ Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 93 # Comments: 41",
+        "title": "Rusya’dan Apple’a Boykot Çağrısı: Android’e Geçin",
+        "link": "https://shiftdelete.net/rusyadan-applea-boykot-cagrisi-androide-gecin",
+        "description": "Apple'ın VK uygulamalarını kaldırmasının ardından Rusya yönetimi, vatandaşlarına Android cihazlara geçmeleri çağrısında bulundu.",
+        "source": "ShiftDelete",
+        "published": "2026-06-27T04:00:00+00:00"
+      },
+      {
+        "title": "WordStar: A Writer's Word Processor (1996)",
+        "link": "https://www.sfwriter.com/wordstar.htm",
+        "description": "Article URL: https://www.sfwriter.com/wordstar.htm Comments URL: https://news.ycombinator.com/item?id=48694853 Points: 9 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-06-27T03:30:01+00:00"
+      },
+      {
+        "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
+        "link": "https://news.ycombinator.com/item?id=48694802",
+        "description": "For those who are using llms on macbook, Want to understand how macbook is different than dedicated GPU in running those models? and how to know how much a macbook is capable of running a model? Comments URL:...",
+        "source": "HackerNews",
+        "published": "2026-06-27T03:17:43+00:00"
+      },
+      {
+        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+        "source": "TechCrunch",
+        "published": "2026-06-27T01:01:37+00:00"
+      },
+      {
+        "title": "Show HN: Hacker News on a train station-style flip board",
+        "link": "https://popflame.quickish.space/hn-flipboard/",
+        "description": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. The recent flip board back and forth's on Twitter...",
+        "source": "HackerNews",
+        "published": "2026-06-27T00:43:39+00:00"
+      },
+      {
+        "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+        "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "description": "Mesh came out of stealth in February with a $50 million Series A.",
+        "source": "TechCrunch",
+        "published": "2026-06-27T00:38:34+00:00"
+      },
+      {
+        "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
+        "link": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+        "description": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook...",
+        "source": "The Verge",
+        "published": "2026-06-27T00:23:19-04:00"
+      },
+      {
+        "title": "Foreign funds help make housing unaffordable: research",
+        "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+        "description": "Article URL: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/ Comments URL: https://news.ycombinator.com/item?id=48693420 Points: 17 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-06-26T23:36:30+00:00"
+      },
+      {
+        "title": "Om",
+        "link": "https://daringfireball.net/2026/06/om",
+        "description": "Related: Om Malik has died - https://news.ycombinator.com/item?id=48678852 - June 2026 (161 comments) Comments URL: https://news.ycombinator.com/item?id=48693391 Points: 206 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-06-26T23:33:46+00:00"
+      },
+      {
+        "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
+        "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+        "description": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the...",
+        "source": "The Verge",
+        "published": "2026-06-26T22:56:58-04:00"
+      },
+      {
+        "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+        "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+        "description": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have...",
+        "source": "The Verge",
+        "published": "2026-06-26T22:54:51-04:00"
+      },
+      {
+        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "description": "https://archive.md/ArXuF https://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 299 # Comments: 302",
         "source": "HackerNews",
         "published": "2026-06-26T22:48:28+00:00"
       },
       {
         "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
         "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-        "description": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed Comments URL: https://news.ycombinator.com/item?id=48692946 Points: 8 # Comments: 0",
+        "description": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed Comments URL: https://news.ycombinator.com/item?id=48692946 Points: 147 # Comments: 63",
         "source": "HackerNews",
         "published": "2026-06-26T22:43:29+00:00"
       },
       {
         "title": "AI in mathematics is forcing big questions",
         "link": "https://spectrum.ieee.org/ai-in-mathematics",
-        "description": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 7 # Comments: 3",
+        "description": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 76 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-06-26T22:36:51+00:00"
+      },
+      {
+        "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
+        "link": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+        "description": "There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we’ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another...",
+        "source": "The Verge",
+        "published": "2026-06-26T22:33:54-04:00"
       },
       {
         "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
@@ -31,46 +115,39 @@
         "published": "2026-06-26T22:00:37+00:00"
       },
       {
-        "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-        "link": "https://news.ycombinator.com/item?id=48692474",
-        "description": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on. Comments URL: https://news.ycombinator.com/item?id=48692474 Points: 34 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-06-26T21:54:59+00:00"
-      },
-      {
-        "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
-        "link": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
-        "description": "Article URL: https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook Comments URL:...",
-        "source": "HackerNews",
-        "published": "2026-06-26T21:19:20+00:00"
+        "title": "Our favorite Prime Day gadgets under $100 you don’t need but will really want",
+        "link": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
+        "description": "Prime Day has a funny way of convincing you to buy things you weren’t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you’ve also added a gadget that...",
+        "source": "The Verge",
+        "published": "2026-06-26T21:48:29-04:00"
       },
       {
         "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
         "link": "https://github.com/Tessil/hopscotch-map",
-        "description": "Article URL: https://github.com/Tessil/hopscotch-map Comments URL: https://news.ycombinator.com/item?id=48692090 Points: 45 # Comments: 4",
+        "description": "Article URL: https://github.com/Tessil/hopscotch-map Comments URL: https://news.ycombinator.com/item?id=48692090 Points: 76 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-06-26T21:18:28+00:00"
       },
       {
         "title": "The gap between open weights LLMs and closed source LLMs",
         "link": "https://blog.doubleword.ai/frontier-os-llm",
-        "description": "Article URL: https://blog.doubleword.ai/frontier-os-llm Comments URL: https://news.ycombinator.com/item?id=48692058 Points: 86 # Comments: 70",
+        "description": "Article URL: https://blog.doubleword.ai/frontier-os-llm Comments URL: https://news.ycombinator.com/item?id=48692058 Points: 149 # Comments: 122",
         "source": "HackerNews",
         "published": "2026-06-26T21:14:47+00:00"
       },
       {
-        "title": "We can still stop California's 3D printer surveillance scheme",
-        "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-        "description": "Article URL: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme Comments URL: https://news.ycombinator.com/item?id=48692051 Points: 138 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-06-26T21:13:50+00:00"
+        "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
+        "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+        "description": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and...",
+        "source": "The Verge",
+        "published": "2026-06-26T20:42:48-04:00"
       },
       {
-        "title": "Hightouch (YC S19) Is Hiring",
-        "link": "https://hightouch.com/careers#open-positions",
-        "description": "Article URL: https://hightouch.com/careers#open-positions Comments URL: https://news.ycombinator.com/item?id=48691893 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-06-26T21:00:50+00:00"
+        "title": "Anthropic’s Mythos 5 is back",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+        "description": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the...",
+        "source": "The Verge",
+        "published": "2026-06-26T20:33:44-04:00"
       },
       {
         "title": "Ford Yapay Zeka Hamlesinden Geri Döndü: 350 Mühendis Geri Döndü",
@@ -80,11 +157,11 @@
         "published": "2026-06-26T20:30:00+00:00"
       },
       {
-        "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-        "link": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-        "description": "Article URL: https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013 Comments URL: https://news.ycombinator.com/item?id=48691346 Points: 122 # Comments: 68",
-        "source": "HackerNews",
-        "published": "2026-06-26T20:07:18+00:00"
+        "title": "Prime Day’s final hours bring rare discounts on Philips Hue smart lights",
+        "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
+        "description": "Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s smart lighting lineup, with deals on everything from smart bulb starter...",
+        "source": "The Verge",
+        "published": "2026-06-26T20:22:24-04:00"
       },
       {
         "title": "Samsung’dan 650 Milyar Dolarlık Dev Yapay Zeka Yatırımı",
@@ -94,25 +171,11 @@
         "published": "2026-06-26T20:00:00+00:00"
       },
       {
-        "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
-        "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-        "description": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the...",
-        "source": "The Verge",
-        "published": "2026-06-26T19:41:12-04:00"
-      },
-      {
         "title": "Jaguar Land Rover’ı Ruslar Hacklemiş",
         "link": "https://shiftdelete.net/jaguar-land-roveri-ruslar-hacklemis",
         "description": "Jaguar Land Rover'a yönelik 2,5 milyar dolarlık siber saldırının arkasında Rus hackerların olduğu rapor edildi. İşte olayın tüm detayları.",
         "source": "ShiftDelete",
         "published": "2026-06-26T19:30:00+00:00"
-      },
-      {
-        "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-        "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-        "description": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have...",
-        "source": "The Verge",
-        "published": "2026-06-26T19:26:09-04:00"
       },
       {
         "title": "Novak Djokovic has a new job — advisor to private equity firm General Atlantic",
@@ -220,13 +283,6 @@
         "published": "2026-06-26T17:35:00+00:00"
       },
       {
-        "title": "Our favorite Prime Day gadgets under $100 you don’t need but will really want",
-        "link": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
-        "description": "Prime Day has a funny way of convincing you to buy things you weren’t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you’ve also added a gadget that...",
-        "source": "The Verge",
-        "published": "2026-06-26T17:30:42-04:00"
-      },
-      {
         "title": "Apple Akıllı Yüzük Çıkarıyor",
         "link": "https://shiftdelete.net/apple-akilli-yuzuk-cikariyor",
         "description": "Apple'ın akıllı yüzük projesi iRing hakkındaki son iddialar ve detaylar. Apple, Oura Ring'e rakip mi oluyor? İşte teknoloji dünyasındaki son gelişmeler.",
@@ -239,13 +295,6 @@
         "description": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
         "source": "TechCrunch",
         "published": "2026-06-26T17:29:29+00:00"
-      },
-      {
-        "title": "Yeni Mac Studio Fiyatları Şok Etti: Yuva Yıkar",
-        "link": "https://shiftdelete.net/yeni-mac-studio-fiyatlari-sok-etti-yuva-yikar",
-        "description": "Apple, M5 Ultra işlemcili yeni Mac Studio modelini 2026'da çıkarmayı planlıyor. Cihazın teknik özellikleri ve olası fiyatı hakkında detaylar burada.",
-        "source": "ShiftDelete",
-        "published": "2026-06-26T17:00:00+00:00"
       },
       {
         "title": "Riot Games & Kick Ortaklığı Duyuruldu: League of Legends, VALORANT ve Dahası Artık Kick'te!",
@@ -302,71 +351,71 @@
         "description": "TikTok may be working to become the app that people use for most of their digital activities.",
         "source": "TechCrunch",
         "published": "2026-06-26T16:29:48+00:00"
-      },
-      {
-        "title": "It’s not about Anthropic vs. OpenAI anymore",
-        "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-        "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-        "source": "TechCrunch",
-        "published": "2026-06-26T16:24:47+00:00"
-      },
-      {
-        "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
-        "link": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-        "description": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook...",
-        "source": "The Verge",
-        "published": "2026-06-26T15:50:46-04:00"
-      },
-      {
-        "title": "Xprize founder says ‘humans behave better when they’re being watched’",
-        "link": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
-        "description": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024.",
-        "source": "TechCrunch",
-        "published": "2026-06-26T15:46:05+00:00"
-      },
-      {
-        "title": "Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
-        "link": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-        "description": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there’s a better...",
-        "source": "The Verge",
-        "published": "2026-06-26T14:43:43-04:00"
-      },
-      {
-        "title": "The beautiful shame",
-        "link": "https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump",
-        "description": "While European tourists marvel at ranch dressing, Buc-ee's, and other wonders of Middle America, would-be World Cup attendees from Africa, Asia, and the Middle East have experienced a different American pastime: exclusion. President Donald Trump's...",
-        "source": "The Verge",
-        "published": "2026-06-26T14:15:46-04:00"
-      },
-      {
-        "title": "This video bird feeder is the surprise hit of Prime Day",
-        "link": "https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale",
-        "description": "I can understand why The Verge readers are flocking to the BirdBuddy deal we posted at the beginning of Prime Day. The BirdBuddy Pro with Solar Panels is a wholesome upgrade for your yard, but the full price of $299 is tough to stomach. After all,...",
-        "source": "The Verge",
-        "published": "2026-06-26T13:56:25-04:00"
-      },
-      {
-        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-        "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol,...",
-        "source": "The Verge",
-        "published": "2026-06-26T13:01:03-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "How messages between two dads helped expose the largest NHS maternity scandal",
-        "link": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss",
-        "description": "Among the hundreds of affected families in Nottingham, two sets of parents led the fight to get answers.",
+        "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+        "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
         "source": "BBC News",
-        "published": "2026-06-27T00:03:47+00:00"
+        "published": "2026-06-27T04:09:24+00:00"
+      },
+      {
+        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+        "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+        "description": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend.",
+        "source": "BBC News",
+        "published": "2026-06-27T03:25:44+00:00"
+      },
+      {
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "source": "BBC News",
+        "published": "2026-06-27T02:48:12+00:00"
+      },
+      {
+        "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
+        "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss",
+        "description": "All the revelations from Madonna's chat with Graham Norton, including a big hint about Glastonbury.",
+        "source": "BBC News",
+        "published": "2026-06-27T01:41:28+00:00"
+      },
+      {
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+        "source": "BBC News",
+        "published": "2026-06-27T01:37:18+00:00"
+      },
+      {
+        "title": "Harry and Meghan accept offer to stay at royal estate during UK visit",
+        "link": "https://www.bbc.co.uk/news/articles/cdjk8gggnndo?at_medium=RSS&at_campaign=rss",
+        "description": "The royal residence the pair will use has not been made public, but they will also be staying in private accommodation during the trip.",
+        "source": "BBC News",
+        "published": "2026-06-27T01:27:34+00:00"
       },
       {
         "title": "Home Office to introduce new asylum routes to UK",
         "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
         "description": "The home secretary said \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
         "source": "BBC News",
-        "published": "2026-06-26T23:43:28+00:00"
+        "published": "2026-06-27T01:03:00+00:00"
+      },
+      {
+        "title": "U.S. strikes Iran in response to a drone attack on a ship",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+        "description": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
+        "source": "NPR",
+        "published": "2026-06-27T00:12:23-04:00"
+      },
+      {
+        "title": "How messages between two dads helped expose the largest NHS maternity scandal",
+        "link": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss",
+        "description": "Among the hundreds of affected families in Nottingham, two sets of parents led the fight to get answers.",
+        "source": "BBC News",
+        "published": "2026-06-27T00:03:47+00:00"
       },
       {
         "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
@@ -383,13 +432,6 @@
         "published": "2026-06-26T23:00:30+00:00"
       },
       {
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-        "source": "BBC News",
-        "published": "2026-06-26T22:57:30+00:00"
-      },
-      {
         "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
         "link": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
         "description": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodríguez, has...",
@@ -397,39 +439,11 @@
         "published": "2026-06-26T22:44:43+00:00"
       },
       {
-        "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
-        "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss",
-        "description": "All the revelations from Madonna's chat with Graham Norton, including a big hint about Glastonbury.",
-        "source": "BBC News",
-        "published": "2026-06-26T22:30:20+00:00"
-      },
-      {
-        "title": "Trump threatens 100% tariff on European nations over tech tax",
-        "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
-        "source": "BBC News",
-        "published": "2026-06-26T21:29:38+00:00"
-      },
-      {
-        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-        "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-        "source": "BBC News",
-        "published": "2026-06-26T21:15:37+00:00"
-      },
-      {
-        "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
-        "link": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&at_campaign=rss",
-        "description": "Labour accused the Conservatives of trying to \"rewrite history\" after making defence cuts while in power.",
-        "source": "BBC News",
-        "published": "2026-06-26T21:00:56+00:00"
-      },
-      {
-        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-        "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
-        "description": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend.",
-        "source": "BBC News",
-        "published": "2026-06-26T19:40:07+00:00"
+        "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
+        "link": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting",
+        "description": "Buttigieg, a potential 2028 Democratic presidential contender, shared his family's experience when police and Child Protective Services came to his home investigating an anonymous tip that was false.",
+        "source": "NPR",
+        "published": "2026-06-26T20:26:52-04:00"
       },
       {
         "title": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
@@ -448,7 +462,7 @@
       {
         "title": "It's not just Cape Verde: African soccer is having a World Cup moment",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
-        "description": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, team from Africa have been relentless.",
+        "description": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, teams from Africa have been relentless.",
         "source": "NPR",
         "published": "2026-06-26T16:49:57-04:00"
       },
@@ -523,20 +537,6 @@
         "published": "2026-06-26T11:06:37+00:00"
       },
       {
-        "title": "Plane crashes into Beijing's tallest building; damage reported",
-        "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-        "description": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
-        "source": "NPR",
-        "published": "2026-06-26T11:05:48-04:00"
-      },
-      {
-        "title": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
-        "description": "Bolton pleaded guilty to one count of retaining national defense information while he was a national security adviser during President Trump's first term, saying: \"And I am sorry for it.\"",
-        "source": "NPR",
-        "published": "2026-06-26T11:00:18-04:00"
-      },
-      {
         "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
         "link": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
         "description": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according to Africa’s...",
@@ -571,7 +571,98 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-haziran-2026-1730294",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-27T03:00:00+03:00"
+        "published": "2026-06-27T07:30:00+03:00"
+      },
+      {
+        "title": "Kamu kreşleri için yeni dönem: Kararlara uymayanlar kapatılacak!",
+        "link": "https://www.sozcu.com.tr/kamu-kresleri-icin-yeni-donem-kararlara-uymayanlar-kapatilacak-p331556",
+        "description": "Kamu kreşleri için yeni dönem: Kararlara uymayanlar kapatılacak!",
+        "source": "Sözcü",
+        "published": "2026-06-27T07:23:43+03:00"
+      },
+      {
+        "title": "CHP'de tasfiye dalgası büyüyor: Kılıçdaroğlu cephesi harekete geçti",
+        "link": "https://www.sozcu.com.tr/chp-de-tasfiye-dalgasi-buyuyor-kilicdaroglu-cephesi-harekete-gecti-p331558",
+        "description": "CHP'de tasfiye dalgası büyüyor: Kılıçdaroğlu cephesi harekete geçti",
+        "source": "Sözcü",
+        "published": "2026-06-27T07:20:23+03:00"
+      },
+      {
+        "title": "Yabancılara ‘Erken seçim yok’ dedi",
+        "link": "https://www.sozcu.com.tr/yabancilara-erken-secim-yok-dedi-p331554",
+        "description": "Yabancılara ‘Erken seçim yok’ dedi",
+        "source": "Sözcü",
+        "published": "2026-06-27T06:00:27+03:00"
+      },
+      {
+        "title": "Altında yüksek beklenti dönemi sona erdi",
+        "link": "https://www.sozcu.com.tr/altinda-yuksek-beklenti-donemi-sona-erdi-p331553",
+        "description": "Altında yüksek beklenti dönemi sona erdi",
+        "source": "Sözcü",
+        "published": "2026-06-27T05:50:05+03:00"
+      },
+      {
+        "title": "Karadeniz’in doğa harikası yaylalarındaki rant hırsı büyüyor",
+        "link": "https://www.sozcu.com.tr/karadeniz-in-doga-harikasi-yaylalarindaki-rant-hirsi-buyuyor-p331552",
+        "description": "Karadeniz’in doğa harikası yaylalarındaki rant hırsı büyüyor",
+        "source": "Sözcü",
+        "published": "2026-06-27T05:45:16+03:00"
+      },
+      {
+        "title": "Çocuğun rızkı Allah'a emanet",
+        "link": "https://www.sozcu.com.tr/cocugun-rizki-allah-a-emanet-p331547",
+        "description": "Çocuğun rızkı Allah'a emanet",
+        "source": "Sözcü",
+        "published": "2026-06-27T05:30:22+03:00"
+      },
+      {
+        "title": "Tandoğan’a bayrak daveti",
+        "link": "https://www.sozcu.com.tr/tandogan-a-bayrak-daveti-p331551",
+        "description": "Tandoğan’a bayrak daveti",
+        "source": "Sözcü",
+        "published": "2026-06-27T05:20:22+03:00"
+      },
+      {
+        "title": "550 bin nüfuslu Yeşil Burun Adaları son 32 turunda! Dünya Kupası’nda peri masalı",
+        "link": "https://www.sozcu.com.tr/550-bin-nufuslu-yesil-burun-adalari-son-32-turunda-dunya-kupasi-nda-peri-masali-p331549",
+        "description": "550 bin nüfuslu Yeşil Burun Adaları son 32 turunda! Dünya Kupası’nda peri masalı",
+        "source": "Sözcü",
+        "published": "2026-06-27T05:10:27+03:00"
+      },
+      {
+        "title": "Kıbrıs garantörlüğüne NATO tuzağı kuruluyor",
+        "link": "https://www.sozcu.com.tr/kibris-garantorlugune-nato-tuzagi-kuruluyor-p331548",
+        "description": "Kıbrıs garantörlüğüne NATO tuzağı kuruluyor",
+        "source": "Sözcü",
+        "published": "2026-06-27T05:10:21+03:00"
+      },
+      {
+        "title": "İspanya Dünya Kupası’nda son 32’ye yükseldi! Muslera’nın inanılmaz hatası Uruguay’ı yaktı",
+        "link": "https://www.sozcu.com.tr/ispanya-dunya-kupasi-nda-son-32-ye-yukseldi-muslera-nin-inanilmaz-hatasi-uruguay-i-yakti-p331550",
+        "description": "İspanya Dünya Kupası’nda son 32’ye yükseldi! Muslera’nın inanılmaz hatası Uruguay’ı yaktı",
+        "source": "Sözcü",
+        "published": "2026-06-27T05:04:35+03:00"
+      },
+      {
+        "title": "Makas kazasında iki otomobil dereye uçtu",
+        "link": "https://www.ntv.com.tr/turkiye/makas-kazasinda-iki-otomobil-dereye-uctu-1730306",
+        "description": "Bursa'da trafikte makas atan aracın neden olduğu zincirleme kazada iki otomobil dereye uçtu, 6 kişi yaralandı.",
+        "source": "NTV",
+        "published": "2026-06-27T04:59:17+03:00"
+      },
+      {
+        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 27 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-27-haziran-2026-1730305",
+        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 27 Haziran 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
+        "source": "NTV",
+        "published": "2026-06-27T04:40:00+03:00"
+      },
+      {
+        "title": "Anız yakan çiftçi gözaltına alındı",
+        "link": "https://www.ntv.com.tr/turkiye/aniz-yakan-ciftci-gozaltina-alindi-1730303",
+        "description": "Siverek'te 300 dönümlük arazisinde arpa anızı yaktığı belirlenen çiftçi gözaltına alındı.",
+        "source": "NTV",
+        "published": "2026-06-27T04:15:37+03:00"
       },
       {
         "title": "Satırlı taksiciye ceza",
@@ -579,34 +670,6 @@
         "description": "Kayseri'de trafikte tartıştığı sürücüyü elindeki satırla tehdit eden taksiciye 180 bin lira ceza kesildi, ehliyetine el konuldu, aracı trafikten menedildi.",
         "source": "NTV",
         "published": "2026-06-27T02:58:22+03:00"
-      },
-      {
-        "title": "Erman Toroğlu’ndan bomba iddia! Kadroyu Montella değil, Hakan Çalhanoğlu kurdu",
-        "link": "https://www.sozcu.com.tr/erman-toroglu-ndan-bomba-iddia-kadroyu-montella-degil-hakan-calhanoglu-kurdu-p331540",
-        "description": "Erman Toroğlu’ndan bomba iddia! Kadroyu Montella değil, Hakan Çalhanoğlu kurdu",
-        "source": "Sözcü",
-        "published": "2026-06-27T02:40:35+03:00"
-      },
-      {
-        "title": "NATO Zirvesi soruşturmasında tutuklu sayısı 178'e yükseldi",
-        "link": "https://www.sozcu.com.tr/nato-zirvesi-sorusturmasinda-tutuklu-sayisi-178-e-yukseldi-p331536",
-        "description": "NATO Zirvesi soruşturmasında tutuklu sayısı 178'e yükseldi",
-        "source": "Sözcü",
-        "published": "2026-06-27T01:03:13+03:00"
-      },
-      {
-        "title": "Son dakika... Centcom: İran'a hava saldırısı düzenledik",
-        "link": "https://www.sozcu.com.tr/son-dakika-centcom-iran-a-hava-saldirisi-duzenledik-p331523",
-        "description": "Son dakika... Centcom: İran'a hava saldırısı düzenledik",
-        "source": "Sözcü",
-        "published": "2026-06-27T00:44:22+03:00"
-      },
-      {
-        "title": "Konvoyla gittiler, sessiz sedasız geldiler! A Milli Takım yurda döndü",
-        "link": "https://www.sozcu.com.tr/konvoyla-gittiler-sessiz-sedasiz-geldiler-a-milli-takim-yurda-dondu-p331532",
-        "description": "Konvoyla gittiler, sessiz sedasız geldiler! A Milli Takım yurda döndü",
-        "source": "Sözcü",
-        "published": "2026-06-27T00:43:45+03:00"
       },
       {
         "title": "Kreş ve Gündüz Bakımevleri Yönetmeliği Resmi Gazete’de",
@@ -623,53 +686,11 @@
         "published": "2026-06-27T00:37:07+03:00"
       },
       {
-        "title": "Senegal gol oldu yağdı! Son 32 umudunu sürdürdü",
-        "link": "https://www.sozcu.com.tr/senegal-gol-oldu-yagdi-son-32-umudunu-surdurdu-p331529",
-        "description": "Senegal gol oldu yağdı! Son 32 umudunu sürdürdü",
-        "source": "Sözcü",
-        "published": "2026-06-27T00:04:52+03:00"
-      },
-      {
-        "title": "5 gollü maçta lider belli oldu: 25 dakikada olanlar nefes kesti",
-        "link": "https://www.sozcu.com.tr/5-gollu-macta-lider-belli-oldu-25-dakikada-olanlar-nefes-kesti-p331528",
-        "description": "5 gollü maçta lider belli oldu: 25 dakikada olanlar nefes kesti",
-        "source": "Sözcü",
-        "published": "2026-06-27T00:04:09+03:00"
-      },
-      {
-        "title": "Deniz Göktaş'ın stand-up gösterisine ilişkin bazı X paylaşımlarına erişim engeli",
-        "link": "https://www.sozcu.com.tr/deniz-goktas-in-stand-up-gosterisine-iliskin-bazi-x-paylasimlarina-erisim-engeli-p331525",
-        "description": "Deniz Göktaş'ın stand-up gösterisine ilişkin bazı X paylaşımlarına erişim engeli",
-        "source": "Sözcü",
-        "published": "2026-06-26T23:51:41+03:00"
-      },
-      {
-        "title": "Kadir İnanır'ın yıllar önce anlattığı anne anısı yeniden gündem oldu",
-        "link": "https://www.sozcu.com.tr/kadir-inanir-in-anne-anisi-yeniden-gundemde-p331524",
-        "description": "Kadir İnanır'ın yıllar önce anlattığı anne anısı yeniden gündem oldu",
-        "source": "Sözcü",
-        "published": "2026-06-26T23:46:42+03:00"
-      },
-      {
         "title": "POS cihazıyla hayali işlem. 36 tutuklu sanığa tahliye",
         "link": "https://www.ntv.com.tr/turkiye/pos-cihaziyla-hayali-islem-36-tutuklu-saniga-tahliye-1730292",
         "description": "Yasa dışı temin edilen yabancı banka kartlarını POS cihazlarında hayali işlemler karşılığında kullanarak suç geliri elde ettikleri iddia edilen 112 sanığın yargılandığı davada tutuklu sanıklardan 36'sının adli kontrol şartıyla tahliyesine karar...",
         "source": "NTV",
         "published": "2026-06-26T23:31:20+03:00"
-      },
-      {
-        "title": "Memurlar iki gün evden çalışacak: Bir ülke daha sistemini değiştirdi",
-        "link": "https://www.sozcu.com.tr/memurlar-iki-gun-evden-calisacak-bir-ulke-daha-sistemini-degistirdi-p331521",
-        "description": "Memurlar iki gün evden çalışacak: Bir ülke daha sistemini değiştirdi",
-        "source": "Sözcü",
-        "published": "2026-06-26T23:23:05+03:00"
-      },
-      {
-        "title": "Kamyon istinat duvarından devrilip apartmana çarptı; 2 daire hasar aldı",
-        "link": "https://www.sozcu.com.tr/kamyon-istinat-duvarindan-devrilip-apartmana-carpti-p331520",
-        "description": "Kamyon istinat duvarından devrilip apartmana çarptı; 2 daire hasar aldı",
-        "source": "Sözcü",
-        "published": "2026-06-26T23:12:48+03:00"
       },
       {
         "title": "9 ton bozuk süt ve süt ürünü ele geçirildi",
@@ -680,31 +701,10 @@
       },
       {
         "title": "Okulun tek öğrencisi karnesini aldı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-okulun-tek-ogrencisi-karnesini-aldi-1730288",
-        "description": "Konya'nın Ilgın ilçesine bağlı Gökçeyurt Mahallesi'nde, tek öğretmenli ilkokulun tek öğrencisi İlayda Kozlu karne sevinci yaşadı.",
-        "source": "NTV",
-        "published": "2026-06-26T21:44:12+03:00"
-      },
-      {
-        "title": "Okulun tek öğrencisi karnesini aldı",
         "link": "https://www.ntv.com.tr/turkiye/video-okulun-tek-ogrencisi-karnesini-aldi-1730290",
         "description": "Konya'nın Ilgın ilçesine bağlı Gökçeyurt Mahallesi'nde, tek öğretmenli ilkokulun tek öğrencisi İlayda Kozlu karne sevinci yaşadı.",
         "source": "NTV",
         "published": "2026-06-26T21:43:07+03:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan, torununun diplomasını verdi",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-torununun-diplomasini-verdi-1730289",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, torunu Ömer Tayyip Erdoğan'ın mezuniyet törenine katılarak diplomasını takdim etti.",
-        "source": "NTV",
-        "published": "2026-06-26T21:37:08+03:00"
-      },
-      {
-        "title": "Adliyedeki rüşvet pazarlığını savcı duydu. \"İnfazını 100 bin liraya erteletirim\" diyen sahte yazı işleri müdürü yakalandı",
-        "link": "https://www.ntv.com.tr/turkiye/adliyedeki-rusvet-pazarligini-savci-duydu-infazini-100-bin-liraya-erteletirim-diyen-sahte-yazi-isleri-muduru-yakalandi-1730285",
-        "description": "Ankara Adliyesi'nin kafeteryasında savcısının kulak misafiri olduğu para karşılığı infaz erteleme yapılabileceğine yönelik diyalog üzerine yapılan çalışmada, 2 şüpheli gözaltına alındı. Şüpheliler, adli kontrol şartıyla serbest bırakıldı.",
-        "source": "NTV",
-        "published": "2026-06-26T20:54:25+03:00"
       },
       {
         "title": "Türk sinemasının usta ismi Kadir İnanır hayatını kaybetti",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 46.5794,
-    "eur_try": 52.9539,
-    "eur_usd": 0.8801
+    "usd_try": 46.6304,
+    "eur_try": 53.1389,
+    "eur_usd": 0.8778
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+74°F",
-    "wind": "↘9mph",
-    "humidity": "60%"
+    "condition": "Açık",
+    "temp": "+77°F",
+    "wind": "↑6mph",
+    "humidity": "74%"
   }
 }
