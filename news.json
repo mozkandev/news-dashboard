@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-06-28T19:19:41.455882+00:00",
+  "updated_at": "2026-06-28T20:41:15.449153+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Samsung’un Yuvarlanabilir Telefonu 2028’de Geliyor",
+        "link": "https://shiftdelete.net/samsungun-yuvarlanabilir-telefonu-2028de-geliyor",
+        "description": "Samsung, 2028 yılında piyasaya sürmeyi hedeflediği ilk yuvarlanabilir ekranlı akıllı telefonu için çalışmalarını hızlandırdı.",
+        "source": "ShiftDelete",
+        "published": "2026-06-28T20:00:00+00:00"
+      },
+      {
+        "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+        "link": "https://github.com/kamaludu/bash4llm/",
+        "description": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime. It uses only Bash, curl, and jq. You can send...",
+        "source": "HackerNews",
+        "published": "2026-06-28T19:43:10+00:00"
+      },
+      {
+        "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "link": "https://github.com/JustVugg/nanoeuler",
+        "description": "Hi everyone, I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not...",
+        "source": "HackerNews",
+        "published": "2026-06-28T19:38:14+00:00"
+      },
+      {
+        "title": "TOP500 at ISC'26: We Have a New Number 1 – By George Cozma",
+        "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+        "description": "Article URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number Comments URL: https://news.ycombinator.com/item?id=48710775 Points: 18 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-06-28T19:38:00+00:00"
+      },
+      {
+        "title": "Ford rehires 'gray beard' engineers after AI falls short",
+        "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "description": "Article URL: https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/ Comments URL: https://news.ycombinator.com/item?id=48710749 Points: 60 # Comments: 27",
+        "source": "HackerNews",
+        "published": "2026-06-28T19:35:57+00:00"
+      },
+      {
+        "title": "The US Used to Demand the Best Tech. Now We Ban It",
+        "link": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+        "description": "Article URL: https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it Comments URL: https://news.ycombinator.com/item?id=48710437 Points: 25 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-06-28T19:07:49+00:00"
+      },
       {
         "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
         "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
@@ -17,16 +59,30 @@
         "published": "2026-06-28T19:00:00+00:00"
       },
       {
+        "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+        "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+        "description": "http://i.stanford.edu/pub/cstr/reports/cs/tr/68/85/CS-TR-68-... Comments URL: https://news.ycombinator.com/item?id=48710350 Points: 10 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-28T18:59:53+00:00"
+      },
+      {
+        "title": "Librepods: AirPods liberated from Apple's ecosystem",
+        "link": "https://github.com/librepods-org/librepods",
+        "description": "Article URL: https://github.com/librepods-org/librepods Comments URL: https://news.ycombinator.com/item?id=48710232 Points: 87 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-06-28T18:48:53+00:00"
+      },
+      {
         "title": "Historical memory prices 1960-2026",
         "link": "https://dam.stanford.edu/memory-prices.html",
-        "description": "Article URL: https://dam.stanford.edu/memory-prices.html Comments URL: https://news.ycombinator.com/item?id=48710092 Points: 5 # Comments: 0",
+        "description": "Article URL: https://dam.stanford.edu/memory-prices.html Comments URL: https://news.ycombinator.com/item?id=48710092 Points: 32 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-06-28T18:32:53+00:00"
       },
       {
         "title": "The cost YAGNI was never about",
         "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-        "description": "Article URL: https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about Comments URL: https://news.ycombinator.com/item?id=48710082 Points: 30 # Comments: 8",
+        "description": "Article URL: https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about Comments URL: https://news.ycombinator.com/item?id=48710082 Points: 67 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-06-28T18:31:54+00:00"
       },
@@ -38,7 +94,14 @@
         "published": "2026-06-28T18:00:00+00:00"
       },
       {
-        "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+        "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+        "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "description": "Article URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/ Comments URL: https://news.ycombinator.com/item?id=48709670 Points: 45 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-06-28T17:50:47+00:00"
+      },
+      {
+        "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
         "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
         "description": "Has Silicon Valley been building the wrong things?",
         "source": "TechCrunch",
@@ -52,53 +115,11 @@
         "published": "2026-06-28T17:00:00+00:00"
       },
       {
-        "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-        "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-        "description": "Article URL: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html Comments URL: https://news.ycombinator.com/item?id=48709187 Points: 49 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-06-28T16:58:59+00:00"
-      },
-      {
-        "title": "Show HN: DRM-Free Books",
-        "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-        "description": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books. Pick authors and books that are DRM-free, or download DRM-free classics that are out of copyright....",
-        "source": "HackerNews",
-        "published": "2026-06-28T16:58:56+00:00"
-      },
-      {
-        "title": "I used Claude Code to get a second opinion on my MRI",
-        "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "description": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus Comments URL: https://news.ycombinator.com/item?id=48708941 Points: 135 # Comments: 214",
-        "source": "HackerNews",
-        "published": "2026-06-28T16:35:19+00:00"
-      },
-      {
-        "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-        "link": "https://www.openculture.com/2020/10/daisugi.html",
-        "description": "https://x.com/wrathofgnon/status/1250287741247426565 , https://xcancel.com/wrathofgnon/status/1250287741247426565 Comments URL: https://news.ycombinator.com/item?id=48708859 Points: 58 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-06-28T16:28:50+00:00"
-      },
-      {
-        "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-        "link": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-        "description": "Article URL: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing Comments URL: https://news.ycombinator.com/item?id=48708795 Points: 41 # Comments: 54",
-        "source": "HackerNews",
-        "published": "2026-06-28T16:24:10+00:00"
-      },
-      {
-        "title": "Reflections on software engineering in the age of AI",
-        "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-        "description": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 62 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-06-28T16:17:38+00:00"
-      },
-      {
-        "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-        "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-        "description": "Article URL: https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html Comments URL: https://news.ycombinator.com/item?id=48708700 Points: 52 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-06-28T16:16:07+00:00"
+        "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+        "description": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing...",
+        "source": "The Verge",
+        "published": "2026-06-28T16:27:36-04:00"
       },
       {
         "title": "TechCrunch Mobility: All eyes on Tesla FSD",
@@ -113,13 +134,6 @@
         "description": "Tamamen elektrikli Porsche Cayenne, 11,8 milyon TL başlangıç fiyatıyla Türkiye'de satışa sunuldu. İşte aracın teknik özellikleri ve menzili.",
         "source": "ShiftDelete",
         "published": "2026-06-28T16:00:00+00:00"
-      },
-      {
-        "title": "Programmable Probabilistic Computer with 1M p-bits",
-        "link": "https://arxiv.org/abs/2606.25313",
-        "description": "Article URL: https://arxiv.org/abs/2606.25313 Comments URL: https://news.ycombinator.com/item?id=48708496 Points: 17 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-06-28T15:55:31+00:00"
       },
       {
         "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
@@ -183,13 +197,6 @@
         "description": "I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending as the Muppetless The Cube. This 1969 teleplay was...",
         "source": "The Verge",
         "published": "2026-06-28T12:29:51-04:00"
-      },
-      {
-        "title": "Akıllı Telefonlarda Çip Paketleme Teknolojisi Değişiyor",
-        "link": "https://shiftdelete.net/akilli-telefonlarda-cip-paketleme-teknolojisi-degisiyor",
-        "description": "Samsung, Exynos 2600 yonga setinde performans kaybı yaşatmayan, yarı boyutunda yeni bir LPDDR5X RAM paketleme teknolojisi kullanıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-06-28T12:00:00+00:00"
       },
       {
         "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
@@ -267,13 +274,6 @@
         "description": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to...",
         "source": "The Verge",
         "published": "2026-06-27T13:28:18-04:00"
-      },
-      {
-        "title": "The Guardian’s Kai Wright refuses to buy a new phone",
-        "link": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
-        "description": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a...",
-        "source": "The Verge",
-        "published": "2026-06-27T11:12:20-04:00"
       },
       {
         "title": "Ad-free streaming is a luxury now",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss",
+        "description": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew.",
+        "source": "BBC News",
+        "published": "2026-06-28T19:33:07+00:00"
+      },
+      {
+        "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+        "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+        "description": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+        "source": "BBC News",
+        "published": "2026-06-28T19:21:07+00:00"
+      },
+      {
         "title": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
         "link": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
         "description": "Ben Stokes describes the reasons for his international retirement as he says he became 'burned out' in the build-up to the summer.",
@@ -376,11 +390,11 @@
         "published": "2026-06-28T18:05:35+00:00"
       },
       {
-        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-        "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-        "description": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-        "source": "BBC News",
-        "published": "2026-06-28T16:38:55+00:00"
+        "title": "A bridge to Canada may be blocked by the Trump administration",
+        "link": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
+        "description": "The Gordie Howe bridge spans the most important border crossing between the U.S. and Canada. President Donald Trump has said he doesn't want it open yet.",
+        "source": "NPR",
+        "published": "2026-06-28T16:17:22-04:00"
       },
       {
         "title": "British man held in Ecuador after woman's body found in suitcase",
@@ -418,13 +432,6 @@
         "published": "2026-06-28T14:01:07-04:00"
       },
       {
-        "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-        "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-        "description": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-        "source": "BBC News",
-        "published": "2026-06-28T12:39:41+00:00"
-      },
-      {
         "title": "Trade tensions shake up Brazil's caipirinha spirit",
         "link": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
         "description": "U.S. tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.",
@@ -432,9 +439,9 @@
         "published": "2026-06-28T11:45:42-04:00"
       },
       {
-        "title": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
+        "title": "3 firefighters killed on Colorado-Utah border as wildfires intensify",
         "link": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
-        "description": "The deaths occurred as crews battled multiple blazes across a parched region. Two other firefighters were also injured.",
+        "description": "The deaths occurred as crews battled multiple fires across a parched region. Two other firefighters were injured.",
         "source": "NPR",
         "published": "2026-06-28T10:46:48-04:00"
       },
@@ -502,13 +509,6 @@
         "published": "2026-06-28T05:00:00-04:00"
       },
       {
-        "title": "'If you are alive, make any noise': Venezuela searches rubble on day 4",
-        "link": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
-        "description": "Rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.",
-        "source": "NPR",
-        "published": "2026-06-28T04:50:46-04:00"
-      },
-      {
         "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
         "link": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
         "description": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodríguez, has...",
@@ -567,18 +567,81 @@
     ],
     "turkiye": [
       {
-        "title": "15 yaşında direksiyon başına geçti, dehşet saçtı",
-        "link": "https://www.sozcu.com.tr/15-yasinda-direksiyon-basina-gecti-dehset-sacti-p331955",
-        "description": "15 yaşında direksiyon başına geçti, dehşet saçtı",
-        "source": "Sözcü",
-        "published": "2026-06-28T22:04:42+03:00"
+        "title": "AB yetkilileri Türkiye'ye geliyor. Bakan Fidan ile görüşecekler",
+        "link": "https://www.ntv.com.tr/turkiye/ab-yetkilileri-turkiyeye-geliyor-bakan-fidan-ile-gorusecekler-1730558",
+        "description": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, AB Komisyonunun Genişlemeden Sorumlu Üyesi Marta Kos ile İçişleri ve Göçten Sorumlu Üyesi Magnus Brunner, 29-30 Haziran'da Türkiye'ye ziyarette bulunacak.",
+        "source": "NTV",
+        "published": "2026-06-28T23:31:03+03:00"
       },
       {
-        "title": "İstanbul'da binaya ''eğri'' dediler belediye açıklama yaptı, dronla kontrol edildi",
+        "title": "Dışişleri Bakanlığı'ndan İsrail'in 1915 olaylarına ilişkin kararına tepki",
+        "link": "https://www.ntv.com.tr/turkiye/disisleri-bakanligindan-israilin-1915-olaylarina-iliskin-kararina-tepki-1730557",
+        "description": "Dışişleri Bakanlığı, İsrail hükümetinin Ermenilerin 1915 olaylarıyla ilgili iddialarına yönelik aldığı karara tepki gösterdi.",
+        "source": "NTV",
+        "published": "2026-06-28T23:26:01+03:00"
+      },
+      {
+        "title": "Samsunspor’dan Barış Göktürk’e yanıt!",
+        "link": "https://www.sozcu.com.tr/samsunspor-dan-baris-gokturk-e-yanit-p331982",
+        "description": "Samsunspor’dan Barış Göktürk’e yanıt!",
+        "source": "Sözcü",
+        "published": "2026-06-28T23:10:38+03:00"
+      },
+      {
+        "title": "Deprem uzmanı Osman Bektaş'tan 'İstanbul depremi' çıkışı: 7,4 büyüklüğünde olmayacak",
+        "link": "https://www.sozcu.com.tr/osman-bektas-deprem-yorumu-2026-06-28-p331981",
+        "description": "Deprem uzmanı Osman Bektaş'tan 'İstanbul depremi' çıkışı: 7,4 büyüklüğünde olmayacak",
+        "source": "Sözcü",
+        "published": "2026-06-28T23:06:06+03:00"
+      },
+      {
+        "title": "U17 Erkek Basketbol Milli Takımımız Slovenya'yı yendi",
+        "link": "https://www.sozcu.com.tr/u17-erkek-basketbol-milli-takimimiz-slovenya-yi-yendi-p331980",
+        "description": "U17 Erkek Basketbol Milli Takımımız Slovenya'yı yendi",
+        "source": "Sözcü",
+        "published": "2026-06-28T22:56:47+03:00"
+      },
+      {
+        "title": "Nükleer saldırılar için inşa edilmişti: Şimdi altı kişilik bir ailenin evi oldu",
+        "link": "https://www.sozcu.com.tr/nukleer-saldirilar-icin-insa-edilmisti-simdi-alti-kisilik-bir-ailenin-evi-oldu-p331978",
+        "description": "Nükleer saldırılar için inşa edilmişti: Şimdi altı kişilik bir ailenin evi oldu",
+        "source": "Sözcü",
+        "published": "2026-06-28T22:52:12+03:00"
+      },
+      {
+        "title": "Son dakika Muş'ta deprem mi oldu? Az önce deprem Muş'ta nerede oldu? Muş deprem Kandilli ve AFAD son depremler listesi 28 Haziran 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-musta-deprem-mi-oldu-az-once-deprem-musta-nerede-oldu-mus-deprem-kandilli-ve-afad-son-depremler-listesi-28-haziran-2026-1730554",
+        "description": "Son dakika Muş deprem haberleri.. Muş'ta deprem mi oldu? Az önce deprem Muş'ta nerede oldu? Muş Kandilli ve AFAD son depremler.. 28 Haziran 2026 Muş deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muş'ta? Muş son deprem...",
+        "source": "NTV",
+        "published": "2026-06-28T22:50:00+03:00"
+      },
+      {
+        "title": "NATO zirvesi öncesi Ankara'nın mazgalları sosyal medyada gündem oldu",
+        "link": "https://www.ntv.com.tr/turkiye/nato-zirvesi-oncesi-ankaranin-mazgallari-sosyal-medyada-gundem-oldu-1730553",
+        "description": "Sosyal medyada Ankara'daki yağmur suyu mazgallarının NATO Zirvesi öncesi ilk kez yol seviyesine getirildiği öne sürülmüştü. Ankara Büyükşehir Belediyesi (ABB) iddiaları reddetti.",
+        "source": "NTV",
+        "published": "2026-06-28T22:42:01+03:00"
+      },
+      {
+        "title": "ABD medyası: Washington-Tahran barış görüşmeleri durduruldu",
+        "link": "https://www.sozcu.com.tr/abd-iran-anlasma-bozuldu-mu-p331973",
+        "description": "ABD medyası: Washington-Tahran barış görüşmeleri durduruldu",
+        "source": "Sözcü",
+        "published": "2026-06-28T22:35:54+03:00"
+      },
+      {
+        "title": "İstanbul'da binaya ''eğri'' dediler. Belediye açıklama yaptı, dronla kontrol edildi",
         "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-binaya-egri-dediler-belediye-aciklama-yapti-dronla-kontrol-edildi-1730552",
         "description": "İstanbul Çekmeköy'de bulunan ve sosyal medyada tartışma yaratan bina için belediye inceleme yaptı. Çekmeköy Belediye Başkanı Orhan Çerkez, yapının ruhsatına ve onaylı projesine uygun olduğunu belirtti.",
         "source": "NTV",
-        "published": "2026-06-28T22:01:47+03:00"
+        "published": "2026-06-28T22:21:55+03:00"
+      },
+      {
+        "title": "2,2 ton altın 82 yıldır okyanusun dibinde çıkarılmayı bekliyor",
+        "link": "https://www.sozcu.com.tr/2-2-ton-altin-82-yildir-okyanusun-dibinde-cikarilmayi-bekliyor-p331974",
+        "description": "2,2 ton altın 82 yıldır okyanusun dibinde çıkarılmayı bekliyor",
+        "source": "Sözcü",
+        "published": "2026-06-28T22:21:35+03:00"
       },
       {
         "title": "Ergin Ataman’ın yeni adresi belli oluyor! Real Madrid Ataman’ın peşinde",
@@ -609,46 +672,11 @@
         "published": "2026-06-28T21:47:18+03:00"
       },
       {
-        "title": "Sıcak havayla birlikte boğulma vakaları arttı: İki çocuk hayatını kaybetti, bir genç kayıp",
-        "link": "https://www.sozcu.com.tr/yasaklara-ragmen-denize-girdi-boguldu-p331967",
-        "description": "Sıcak havayla birlikte boğulma vakaları arttı: İki çocuk hayatını kaybetti, bir genç kayıp",
-        "source": "Sözcü",
-        "published": "2026-06-28T21:39:57+03:00"
-      },
-      {
-        "title": "Dünya Kupası'ndan erken elendi, devlet başkanı soruşturma başlattı",
-        "link": "https://www.sozcu.com.tr/dunya-kupasi-ndan-erken-elendi-devlet-baskani-sorusturma-baslatti-p331966",
-        "description": "Dünya Kupası'ndan erken elendi, devlet başkanı soruşturma başlattı",
-        "source": "Sözcü",
-        "published": "2026-06-28T21:39:19+03:00"
-      },
-      {
         "title": "Filenin Efeleri Belçika’ya set vermedi",
         "link": "https://www.sozcu.com.tr/filenin-efeleri-belcika-ya-set-vermedi-p331968",
         "description": "Filenin Efeleri Belçika’ya set vermedi",
         "source": "Sözcü",
         "published": "2026-06-28T21:37:20+03:00"
-      },
-      {
-        "title": "Nijerya'da Osimhen izdihamı! Arabasının camına vuranlara sert tepki gösterdi",
-        "link": "https://www.sozcu.com.tr/nijerya-da-osimhen-izdihami-arabasinin-camina-vuranlara-sert-tepki-gosterdi-p331963",
-        "description": "Nijerya'da Osimhen izdihamı! Arabasının camına vuranlara sert tepki gösterdi",
-        "source": "Sözcü",
-        "published": "2026-06-28T21:37:05+03:00"
-      },
-      {
-        "title": "Fenerbahçe'de coşkulu antrenman",
-        "link": "https://www.sozcu.com.tr/fenerbahce-de-coskulu-antrenman-p331962",
-        "description": "Fenerbahçe'de coşkulu antrenman",
-        "source": "Sözcü",
-        "published": "2026-06-28T21:03:42+03:00"
-      },
-      {
-        "title": "NASA görüntüleri paylaştı: Karadeniz'in rengi değişti",
-        "link": "https://www.sozcu.com.tr/nasa-goruntuleri-paylasti-karadeniz-in-rengi-degisti-p331956",
-        "description": "NASA görüntüleri paylaştı: Karadeniz'in rengi değişti",
-        "source": "Sözcü",
-        "published": "2026-06-28T20:37:18+03:00"
       },
       {
         "title": "AK Parti'nin 33. İstişare ve Değerlendirme Toplantısı tamamlandı",
@@ -686,39 +714,11 @@
         "published": "2026-06-28T16:27:49+03:00"
       },
       {
-        "title": "Son dakika Balıkesir'de deprem mi oldu? Az önce deprem Balıkesir'de nerede oldu? Balıkesir deprem Kandilli ve AFAD son depremler listesi 28 Haziran 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-balikesirde-deprem-mi-oldu-az-once-deprem-balikesirde-nerede-oldu-balikesir-deprem-kandilli-ve-afad-son-depremler-listesi-28-haziran-2026-1730536",
-        "description": "Son dakika Balıkesir deprem haberleri.. Balıkesir'de deprem mi oldu? Az önce deprem Balıkesir'de nerede oldu? Balıkesir Kandilli ve AFAD son depremler.. 28 Haziran 2026 Balıkesir deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
-        "source": "NTV",
-        "published": "2026-06-28T16:20:00+03:00"
-      },
-      {
         "title": "İstanbul Onur Yürüyüşü'ne polis müdahalesi: 'En az 50 kişi gözaltında'",
         "link": "https://www.bbc.com/turkce/articles/c1jyerrkl61o?at_medium=RSS&at_campaign=rss",
         "description": "\"Açık s'açık yürüyoruz\" temasıyla düzenlenen 24'üncü İstanbul Onur Yürüyüşü için 28 Haziran Pazar günü İstanbul Kadıköy'de toplanan gruplara polis müdahale etti.",
         "source": "BBC Turkish",
         "published": "2026-06-28T15:56:07+00:00"
-      },
-      {
-        "title": "Sigara yasağında kapsam genişliyor. Bakan Memişoğlu açıkladı. \"Sınırları daha netleştireceğiz\"",
-        "link": "https://www.ntv.com.tr/turkiye/sigara-yasaginda-kapsam-genisliyor-bakan-memisoglu-acikladi-sinirlari-daha-netlestirecegiz-1730522",
-        "description": "Sağlık Bakanı Kemal Memişoğlu, kapalı alanlarda sigara yasağı ihlalinin önüne geçmek için kanun taslağı hazırladıklarını söyledi. Memişoğlu, düzenleme ile \"kapalı alan algısını\" netleştireceklerini belirtti.",
-        "source": "NTV",
-        "published": "2026-06-28T15:51:19+03:00"
-      },
-      {
-        "title": "Meclis'te gündem yoğun. Sözleşmeli askerlere kamu istihdamı geliyor",
-        "link": "https://www.ntv.com.tr/turkiye/mecliste-gundem-yogun-sozlesmeli-askerlere-kamu-istihdami-geliyor-1730508",
-        "description": "TBMM Genel Kurulu, Türk Silahlı Kuvvetleri (TSK) ile ilgili düzenlemeleri de içeren kanun teklifi ile kamuoyunda \"12. Yargı Paketi\" olarak bilinen kanun teklifinin görüşmelerine başlayacak.",
-        "source": "NTV",
-        "published": "2026-06-28T15:07:04+03:00"
-      },
-      {
-        "title": "20 ilçede 9 saat sürecek, bu gece başlıyor. İstanbul’un birçok ilçesinde elektrik kesintisi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-20-ilcede-9-saat-surecek-bu-gece-basliyor-istanbulun-bircok-ilcesinde-elektrik-kesintisi-1730514",
-        "description": "İstanbul Avrupa Yakası'nda yaşayan milyonlarca vatandaşı yakından ilgilendiren elektrik kesintisi duyurusu BEDAŞ tarafından yapıldı. Avrupa Yakası'nın elektrik dağıtımını yapan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke yenileme ve bakım-onarım...",
-        "source": "NTV",
-        "published": "2026-06-28T15:00:14+03:00"
       },
       {
         "title": "Kadir İnanır son yolculuğuna uğurlandı",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Parçalı bulutlu",
-    "temp": "+81°F",
-    "wind": "→6mph",
-    "humidity": "79%"
+    "temp": "+77°F",
+    "wind": "←2mph",
+    "humidity": "77%"
   }
 }
