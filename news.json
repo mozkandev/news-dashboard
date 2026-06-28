@@ -1,27 +1,83 @@
 {
-  "updated_at": "2026-06-28T00:02:14.134775+00:00",
+  "updated_at": "2026-06-28T05:01:31.646138+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+        "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+        "description": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+        "source": "TechCrunch",
+        "published": "2026-06-28T05:00:00+00:00"
+      },
+      {
+        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "link": "https://github.com/itsthelore/wayfinder-router",
+        "description": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-28T04:31:18+00:00"
+      },
+      {
+        "title": "Ford hired AI and sacked humans. It backfired badly",
+        "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+        "description": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 55 # Comments: 29",
+        "source": "HackerNews",
+        "published": "2026-06-28T03:09:13+00:00"
+      },
+      {
+        "title": "Marfa Public Radio Puts You to Sleep",
+        "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "description": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points: 86 # Comments: 24",
+        "source": "HackerNews",
+        "published": "2026-06-28T02:23:08+00:00"
+      },
+      {
+        "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+        "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+        "description": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you Comments URL: https://news.ycombinator.com/item?id=48703613 Points: 63 # Comments: 38",
+        "source": "HackerNews",
+        "published": "2026-06-28T01:55:21+00:00"
+      },
+      {
+        "title": "Response to AI slop is from Robin Williams",
+        "link": "https://jayacunzo.com/blog/your-move-chief",
+        "description": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 120 # Comments: 68",
+        "source": "HackerNews",
+        "published": "2026-06-28T01:28:10+00:00"
+      },
+      {
+        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "link": "https://decomp-academy.dev",
+        "description": "Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things...",
+        "source": "HackerNews",
+        "published": "2026-06-28T01:21:20+00:00"
+      },
+      {
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "description": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md Comments URL: https://news.ycombinator.com/item?id=48703258 Points: 73 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-06-28T00:46:52+00:00"
+      },
+      {
+        "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+        "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+        "description": "Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust Comments URL: https://news.ycombinator.com/item?id=48702848 Points: 28 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-06-27T23:32:58+00:00"
+      },
+      {
         "title": "Choosing a Public DNS Resolver",
         "link": "https://evilbit.de/dns-resolver-guide.html",
-        "description": "Article URL: https://evilbit.de/dns-resolver-guide.html Comments URL: https://news.ycombinator.com/item?id=48702273 Points: 9 # Comments: 0",
+        "description": "Article URL: https://evilbit.de/dns-resolver-guide.html Comments URL: https://news.ycombinator.com/item?id=48702273 Points: 97 # Comments: 30",
         "source": "HackerNews",
         "published": "2026-06-27T22:11:28+00:00"
       },
       {
-        "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
-        "link": "https://starglyphs.com",
-        "description": "I am a big Dragon Age fan and sunk hundreds of hours into Inquisition. It had this minigame called astrariums where you had to solve these shapes based on constellation guides by tracing stars. I'm a hobby game dev and wondered if I could...",
+        "title": "What Ozempic does to the gut-brain axis",
+        "link": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+        "description": "Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis Comments URL: https://news.ycombinator.com/item?id=48701984 Points: 120 # Comments: 273",
         "source": "HackerNews",
-        "published": "2026-06-27T21:50:32+00:00"
-      },
-      {
-        "title": "Michigan spent $1.8B and only created 602 jobs",
-        "link": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-        "description": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu Comments URL: https://news.ycombinator.com/item?id=48702060 Points: 63 # Comments: 26",
-        "source": "HackerNews",
-        "published": "2026-06-27T21:44:57+00:00"
+        "published": "2026-06-27T21:34:06+00:00"
       },
       {
         "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
@@ -31,13 +87,6 @@
         "published": "2026-06-27T21:27:37+00:00"
       },
       {
-        "title": "Enhancing X11 Application Security with LXC",
-        "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-        "description": "Article URL: https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/ Comments URL: https://news.ycombinator.com/item?id=48701936 Points: 18 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-06-27T21:27:36+00:00"
-      },
-      {
         "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
         "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
         "description": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
@@ -45,25 +94,11 @@
         "published": "2026-06-27T20:42:36+00:00"
       },
       {
-        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-        "link": "https://github.com/kageroumado/adrafinil",
-        "description": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents. Some people made snarky comments about using...",
-        "source": "HackerNews",
-        "published": "2026-06-27T20:34:53+00:00"
-      },
-      {
         "title": "BMW M1 Geri mi Dönüyor? Sürpriz Açıklama",
         "link": "https://shiftdelete.net/bmw-m1-geri-mi-donuyor-surpriz-aciklama",
         "description": "BMW M yöneticileri, yıllardır beklenen yeni M1 süper otomobil fikrine yeşil ışık yaktı. İşte BMW'nin efsanevi modeli hakkındaki son gelişmeler.",
         "source": "ShiftDelete",
         "published": "2026-06-27T20:00:00+00:00"
-      },
-      {
-        "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-        "link": "https://ipcrawl.com/",
-        "description": "Article URL: https://ipcrawl.com/ Comments URL: https://news.ycombinator.com/item?id=48700834 Points: 201 # Comments: 109",
-        "source": "HackerNews",
-        "published": "2026-06-27T19:09:49+00:00"
       },
       {
         "title": "iPadOS 27 Bu iPad’lere Gelmiyor",
@@ -87,25 +122,11 @@
         "published": "2026-06-27T17:20:32-04:00"
       },
       {
-        "title": "Turn your site into a place people can bump into each other",
-        "link": "https://cauenapier.com/blog/townsquare_release/",
-        "description": "Related: Show HN: TownSquare, a tiny presence layer for websites - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments) Comments URL: https://news.ycombinator.com/item?id=48699928 Points: 133 # Comments: 61",
-        "source": "HackerNews",
-        "published": "2026-06-27T17:11:20+00:00"
-      },
-      {
         "title": "Kompakt Amiral Gemisi Vivo X500e Özellikleri Sızdırıldı",
         "link": "https://shiftdelete.net/kompakt-amiral-gemisi-vivo-x500e-ozellikleri-sizdirildi",
         "description": "Akıllı telefon dünyasının yenilikçi isimlerinden Vivo, merakla beklenen X500 serisiyle pazar dinamiklerini bir kez daha değiştirmeye hazırlanıyor. Çin merkezli teknoloji devinin üzerinde çalıştığı yeni nesil amiral gemisi ailesi; X500, X500 Pro ve...",
         "source": "ShiftDelete",
         "published": "2026-06-27T17:00:18+00:00"
-      },
-      {
-        "title": "Supabase (YC S20) Is Hiring for Multigres",
-        "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
-        "description": "Article URL: https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228 Comments URL: https://news.ycombinator.com/item?id=48699842 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-06-27T17:00:15+00:00"
       },
       {
         "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
@@ -134,20 +155,6 @@
         "description": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't...",
         "source": "The Verge",
         "published": "2026-06-27T14:39:32-04:00"
-      },
-      {
-        "title": "Zuckerberg's war on whistleblowers",
-        "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-        "description": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/ Comments URL: https://news.ycombinator.com/item?id=48698684 Points: 600 # Comments: 217",
-        "source": "HackerNews",
-        "published": "2026-06-27T14:38:05+00:00"
-      },
-      {
-        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-        "link": "https://github.com/bikini/exploitarium",
-        "description": "Article URL: https://github.com/bikini/exploitarium Comments URL: https://news.ycombinator.com/item?id=48698617 Points: 616 # Comments: 241",
-        "source": "HackerNews",
-        "published": "2026-06-27T14:31:00+00:00"
       },
       {
         "title": "GTA 6 Fiziksel Sürüm Bekleyenlere Kötü Haber: Disk Versiyonu Asla Gelmeyebilir",
@@ -255,13 +262,6 @@
         "published": "2026-06-26T19:13:40+00:00"
       },
       {
-        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-        "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-        "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-        "source": "TechCrunch",
-        "published": "2026-06-26T18:32:14+00:00"
-      },
-      {
         "title": "DÜNYANIN EN İNCE 13 İNÇ TABLETİ | Huawei MatePad Pro Max İnceleme",
         "link": "\n                    https://www.webtekno.com/huawei-matepad-pro-max-inceleme-h219197.html\n                    ",
         "description": "Dünyanın en ince 13 inç ve üzeri tableti Huawei MatePad Pro Max’i detaylıca inceliyoruz.",
@@ -355,18 +355,46 @@
     ],
     "dunya": [
       {
-        "title": "US conducts retaliatory strikes on Iran after second shipping attack",
+        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
         "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "description": "The US said it had hit multiple targets \"in direct response to continued Iranian aggression against commercial shipping\".",
+        "description": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
         "source": "BBC News",
-        "published": "2026-06-27T23:56:26+00:00"
+        "published": "2026-06-28T04:54:50+00:00"
       },
       {
-        "title": "Lib Dems face call for inquiry into deselection of election candidate",
-        "link": "https://www.bbc.co.uk/news/articles/c4gypnyk788o?at_medium=RSS&at_campaign=rss",
-        "description": "The party has admitted it unlawfully discriminated against David Campanale because of his religious beliefs.",
+        "title": "Victory over Panama delights England fans",
+        "link": "https://www.bbc.co.uk/news/videos/c0ry9ddg99qo?at_medium=RSS&at_campaign=rss",
+        "description": "Fans in New Jersey and back at home cheered on as England won against Panama to finish top of Group L.",
         "source": "BBC News",
-        "published": "2026-06-27T23:43:34+00:00"
+        "published": "2026-06-28T04:36:41+00:00"
+      },
+      {
+        "title": "Harry reconsiders bringing Meghan and children on UK trip",
+        "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after his request for police protection was rejected days before the family is due to arrive.",
+        "source": "BBC News",
+        "published": "2026-06-28T02:33:53+00:00"
+      },
+      {
+        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+        "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+        "description": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
+        "source": "BBC News",
+        "published": "2026-06-28T01:46:24+00:00"
+      },
+      {
+        "title": "Job done - but England will not win World Cup unless they improve",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
+        "description": "England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.",
+        "source": "BBC News",
+        "published": "2026-06-28T01:05:27+00:00"
+      },
+      {
+        "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
+        "description": "Addiction treatment centres say more clients are coming for help with \"out-of-control\" phone use.",
+        "source": "BBC News",
+        "published": "2026-06-28T00:20:42+00:00"
       },
       {
         "title": "Clarke steps down as Scotland boss after World Cup exit",
@@ -376,18 +404,11 @@
         "published": "2026-06-27T23:37:18+00:00"
       },
       {
-        "title": "Who could England face in last 32 after qualifying for next round?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
-        "description": "England secure top spot in Group L and a World Cup last-32 tie against a third-placed team with a 2-0 win over Panama on Saturday.",
+        "title": "Scotland's ill-fated World Cup story finally at a sorry end",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5yzdwz890go?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Sport Scotland's chief sportswriter Tom English sums up his verdict on the nation's World Cup exit.",
         "source": "BBC News",
-        "published": "2026-06-27T23:03:28+00:00"
-      },
-      {
-        "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-        "link": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
-        "description": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
-        "source": "BBC News",
-        "published": "2026-06-27T22:34:11+00:00"
+        "published": "2026-06-27T23:21:55+00:00"
       },
       {
         "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
@@ -430,13 +451,6 @@
         "description": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
         "source": "NPR",
         "published": "2026-06-27T09:45:19-04:00"
-      },
-      {
-        "title": "Is Andy Burnham Labour's saviour, or just its best bet?",
-        "link": "https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss",
-        "description": "Labour insiders give Laura Kuenssberg their take on the man tipped to replace Keir Starmer as PM.",
-        "source": "BBC News",
-        "published": "2026-06-27T09:43:41+00:00"
       },
       {
         "title": "Opinion: Ranch dressing is a winner at the World Cup games",
@@ -488,13 +502,6 @@
         "published": "2026-06-27T05:00:00-04:00"
       },
       {
-        "title": "Two years ago, she was delivering Amazon parcels - now she's an international star",
-        "link": "https://www.bbc.co.uk/news/articles/cg74d834lzpo?at_medium=RSS&at_campaign=rss",
-        "description": "R&B singer KWN broke out with the single Worst Behaviour, which she sold on a custom-built website.",
-        "source": "BBC News",
-        "published": "2026-06-26T23:04:36+00:00"
-      },
-      {
         "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
         "link": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
         "description": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodríguez, has...",
@@ -530,13 +537,6 @@
         "published": "2026-06-26T12:03:25+00:00"
       },
       {
-        "title": "Does a World Cup star have roots near you? Try our postcode lookup",
-        "link": "https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
-        "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
-        "source": "BBC News",
-        "published": "2026-06-26T11:08:50+00:00"
-      },
-      {
         "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
         "link": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
         "description": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according to Africa’s...",
@@ -567,18 +567,88 @@
     ],
     "turkiye": [
       {
+        "title": "Galibiyet sonrası ortalık karıştı: Cüneyt Özdemir ile Nevzat Aydın birbirine girdi",
+        "link": "https://www.sozcu.com.tr/galibiyeti-sonrasi-ortalik-karisti-cuneyt-ozdemir-ile-nevzat-aydin-birbirine-girdi-p331786",
+        "description": "Galibiyet sonrası ortalık karıştı: Cüneyt Özdemir ile Nevzat Aydın birbirine girdi",
+        "source": "Sözcü",
+        "published": "2026-06-28T08:01:06+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Haziran 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-28-haziran-2026-1730426",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 28 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-06-28T03:00:00+03:00"
+        "published": "2026-06-28T08:00:00+03:00"
       },
       {
-        "title": "Cami avlusunda bıçaklı saldırı. İki kişi hayatını kaybetti",
-        "link": "https://www.ntv.com.tr/turkiye/cami-avlusunda-bicakli-saldiri-iki-kisi-oldu-1730431",
-        "description": "Kayseri'de psikolojik rahatsızlığı olduğu ileri sürülen Mehmet A.'nın yatsı namazı öncesi cami avlusunda bıçakladığı iki kişi hayatını kaybetti.",
+        "title": "Deniz Göktaş'tan dikkat çeken karar: 4,5 milyon izlenen gösterisinde para kazanmayı aktif etmedi",
+        "link": "https://www.sozcu.com.tr/deniz-goktas-tan-dikkat-ceken-karar-4-5-milyon-izlenen-gosterisinde-para-kazanmayi-aktif-etmedi-p331781",
+        "description": "Deniz Göktaş'tan dikkat çeken karar: 4,5 milyon izlenen gösterisinde para kazanmayı aktif etmedi",
+        "source": "Sözcü",
+        "published": "2026-06-28T07:52:40+03:00"
+      },
+      {
+        "title": "Avrupa'yı sıcaklar esir aldı: Tren rayları eridi, seferler iptal oldu",
+        "link": "https://www.sozcu.com.tr/avrupa-yi-sicaklar-esir-aldi-tren-raylari-eridi-seferler-iptal-oldu-p331785",
+        "description": "Avrupa'yı sıcaklar esir aldı: Tren rayları eridi, seferler iptal oldu",
+        "source": "Sözcü",
+        "published": "2026-06-28T07:47:52+03:00"
+      },
+      {
+        "title": "Yandaş medyada Kılıçdaroğlu tartışması: ‘Sen nasıl genel başkansın?’",
+        "link": "https://www.sozcu.com.tr/yandas-medyada-kilicdaroglu-tartismasi-sen-nasil-genel-baskansin-p331784",
+        "description": "Yandaş medyada Kılıçdaroğlu tartışması: ‘Sen nasıl genel başkansın?’",
+        "source": "Sözcü",
+        "published": "2026-06-28T07:46:05+03:00"
+      },
+      {
+        "title": "AKP'ye geçen başkandan ahlak dışı hareket",
+        "link": "https://www.sozcu.com.tr/akp-ye-gecen-baskandan-ahlak-disi-hareket-p331783",
+        "description": "AKP'ye geçen başkandan ahlak dışı hareket",
+        "source": "Sözcü",
+        "published": "2026-06-28T07:37:15+03:00"
+      },
+      {
+        "title": "Trump bu dinazoru göremeyecek",
+        "link": "https://www.sozcu.com.tr/trump-bu-dinazoru-goremeyecek-p331780",
+        "description": "Trump bu dinazoru göremeyecek",
+        "source": "Sözcü",
+        "published": "2026-06-28T07:28:09+03:00"
+      },
+      {
+        "title": "Yurt odasında şüpheli ölüm",
+        "link": "https://www.ntv.com.tr/turkiye/yurt-odasinda-supheli-olum-1730440",
+        "description": "Zonguldak'ta 20 yaşındaki tıp öğrencisi Tuğçenaz Demirelöz, özel yurttaki odasında ölü bulundu.",
         "source": "NTV",
-        "published": "2026-06-28T02:46:20+03:00"
+        "published": "2026-06-28T07:25:22+03:00"
+      },
+      {
+        "title": "Dünya sıralamasına giren ilk 30 Türk üniversitesi açıklandı",
+        "link": "https://www.sozcu.com.tr/dunya-siralamasina-giren-ilk-30-turk-universitesi-aciklandi-p331779",
+        "description": "Dünya sıralamasına giren ilk 30 Türk üniversitesi açıklandı",
+        "source": "Sözcü",
+        "published": "2026-06-28T07:11:38+03:00"
+      },
+      {
+        "title": "Cezayir ve Avusturya 90+6'da turladı, İran kupa dışında kaldı",
+        "link": "https://www.sozcu.com.tr/cezayir-ve-avusturya-90-6-da-turladi-iran-kupa-disinda-kaldi-p331778",
+        "description": "Cezayir ve Avusturya 90+6'da turladı, İran kupa dışında kaldı",
+        "source": "Sözcü",
+        "published": "2026-06-28T07:05:55+03:00"
+      },
+      {
+        "title": "4 gollü maçı Arjantin kazandı, Messi bir rekoru daha kırdı",
+        "link": "https://www.sozcu.com.tr/4-gollu-maci-arjantin-kazandi-messi-bir-rekoru-daha-kirdi-p331777",
+        "description": "4 gollü maçı Arjantin kazandı, Messi bir rekoru daha kırdı",
+        "source": "Sözcü",
+        "published": "2026-06-28T06:57:25+03:00"
+      },
+      {
+        "title": "Kılıçdaroğlu Meclis'e başvurdu: Özel'in yerine o ismi atadı",
+        "link": "https://www.sozcu.com.tr/kilicdaroglu-meclis-e-basvurdu-ozel-in-yerine-o-ismi-atadi-p331775",
+        "description": "Kılıçdaroğlu Meclis'e başvurdu: Özel'in yerine o ismi atadı",
+        "source": "Sözcü",
+        "published": "2026-06-28T05:50:14+03:00"
       },
       {
         "title": "Tamar Tanrıyar hakkında gözaltı kararı",
@@ -595,81 +665,11 @@
         "published": "2026-06-28T02:12:29+03:00"
       },
       {
-        "title": "Harry Kane tarihe geçti, İngiltere lider çıktı",
-        "link": "https://www.sozcu.com.tr/harry-kane-tarihe-gecti-ingiltere-lider-cikti-p331760",
-        "description": "Harry Kane tarihe geçti, İngiltere lider çıktı",
-        "source": "Sözcü",
-        "published": "2026-06-28T02:10:11+03:00"
-      },
-      {
-        "title": "3 gollü maçta Gana ve Hırvatistan el ele turladı",
-        "link": "https://www.sozcu.com.tr/3-gollu-macta-gana-ve-hirvatistan-el-ele-turladi-p331761",
-        "description": "3 gollü maçta Gana ve Hırvatistan el ele turladı",
-        "source": "Sözcü",
-        "published": "2026-06-28T02:05:00+03:00"
-      },
-      {
-        "title": "Tamar Tanrıyar hakkında Cumhurbaşkanına hakaret ve halkı yanıltıcı bilgiyi alenen yaymadan gözaltı kararı",
-        "link": "https://www.sozcu.com.tr/tamar-tanriyar-hakkinda-cumhurbaskanina-hakaret-ve-halki-yaniltici-bilgiyi-alenen-yaymadan-gozalti-p331756",
-        "description": "Tamar Tanrıyar hakkında Cumhurbaşkanına hakaret ve halkı yanıltıcı bilgiyi alenen yaymadan gözaltı kararı",
-        "source": "Sözcü",
-        "published": "2026-06-28T01:55:45+03:00"
-      },
-      {
-        "title": "Son dakika... ABD İran’a yeniden saldırdı",
-        "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-a-yeniden-saldirdi-p331755",
-        "description": "Son dakika... ABD İran’a yeniden saldırdı",
-        "source": "Sözcü",
-        "published": "2026-06-28T01:08:21+03:00"
-      },
-      {
         "title": "DMD hastası çocuk için toplanan paraları çaldı. Diğer kampanyaları da gözüne kestirmiş",
         "link": "https://www.ntv.com.tr/turkiye/dmd-hastasi-cocuk-icin-toplanan-paralari-caldi-diger-kampanyalari-da-gozune-kestirmis-1730427",
         "description": "Çanakkale'de Duchenne Musküler Distrofi (DMD) hastası küçük çocuk için toplanan bağış paralarını alan şüpheli, Bursa'da yakalandı. Şüphelinin evinden başka DMD hastası kampanya afişleri çıktı.",
         "source": "NTV",
         "published": "2026-06-28T00:43:24+03:00"
-      },
-      {
-        "title": "Kano ile göle açılan 2 kişi kayboldu",
-        "link": "https://www.sozcu.com.tr/kano-ile-gole-acilan-2-kisi-kayboldu-p331742",
-        "description": "Kano ile göle açılan 2 kişi kayboldu",
-        "source": "Sözcü",
-        "published": "2026-06-28T00:35:23+03:00"
-      },
-      {
-        "title": "Filenin Efeleri'nden muhteşem dönüş",
-        "link": "https://www.sozcu.com.tr/filenin-efeleri-nden-muhtesem-donus-p331751",
-        "description": "Filenin Efeleri'nden muhteşem dönüş",
-        "source": "Sözcü",
-        "published": "2026-06-28T00:31:41+03:00"
-      },
-      {
-        "title": "NATO zirvesinden sonra iki bakan yolcu",
-        "link": "https://www.sozcu.com.tr/nato-zirvesinden-sonra-iki-bakan-yolcu-p331746",
-        "description": "NATO zirvesinden sonra iki bakan yolcu",
-        "source": "Sözcü",
-        "published": "2026-06-28T00:09:13+03:00"
-      },
-      {
-        "title": "İstanbul’da pazar günü 2 metro istasyonu ve füniküler hattı kapalı olacak",
-        "link": "https://www.sozcu.com.tr/istanbul-da-pazar-gunu-2-metro-istasyonu-ve-funikuler-hatti-kapali-olacak-p331749",
-        "description": "İstanbul’da pazar günü 2 metro istasyonu ve füniküler hattı kapalı olacak",
-        "source": "Sözcü",
-        "published": "2026-06-28T00:02:01+03:00"
-      },
-      {
-        "title": "Bu aylarda doğan çocukların ömrü uzun oluyor: Peki siz hangi ayda doğdunuz?",
-        "link": "https://www.sozcu.com.tr/bu-aylarda-dogan-cocuklarin-omru-uzun-oluyor-peki-siz-hangi-ayda-dogdunuz-p331745",
-        "description": "Bu aylarda doğan çocukların ömrü uzun oluyor: Peki siz hangi ayda doğdunuz?",
-        "source": "Sözcü",
-        "published": "2026-06-27T23:30:31+03:00"
-      },
-      {
-        "title": "Venezuela’da 4.8 büyüklüğünde deprem",
-        "link": "https://www.sozcu.com.tr/venezuela-da-4-8-buyuklugunde-deprem-p331744",
-        "description": "Venezuela’da 4.8 büyüklüğünde deprem",
-        "source": "Sözcü",
-        "published": "2026-06-27T23:25:29+03:00"
       },
       {
         "title": "Avcılar Sahili’nde köpeğe şiddet. Şüpheli gözaltına alındı",
@@ -780,13 +780,13 @@
   },
   "exchange_rates": {
     "usd_try": 46.6304,
-    "eur_try": 53.1389,
-    "eur_usd": 0.8778
+    "eur_try": 53.14,
+    "eur_usd": 0.878
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+79°F",
-    "wind": "↗3mph",
-    "humidity": "71%"
+    "temp": "+65°F",
+    "wind": "←2mph",
+    "humidity": "48%"
   }
 }
