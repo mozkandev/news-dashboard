@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-06-30T18:56:06.575088+00:00",
+  "updated_at": "2026-06-30T20:57:31.850244+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "I ported Kubernetes to the browser",
+        "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+        "description": "https://github.com/ngrok/webernetes https://webernetes-demo.ngrok.app/ Comments URL: https://news.ycombinator.com/item?id=48738985 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-06-30T20:48:36+00:00"
+      },
+      {
+        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+        "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+        "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+        "source": "TechCrunch",
+        "published": "2026-06-30T20:33:48+00:00"
+      },
+      {
+        "title": "Apple’dan Kritik Güncelleme: 29 Açık Kapatıldı",
+        "link": "https://shiftdelete.net/appledan-kritik-guncelleme-29-acik-kapatildi",
+        "description": "Apple, yapay zeka destekli siber tehditler nedeniyle 29 güvenlik açığını kapatan güncellemeyi beklenenden erken yayınladı. Cihazınızı hemen güncelleyin.",
+        "source": "ShiftDelete",
+        "published": "2026-06-30T20:30:00+00:00"
+      },
+      {
+        "title": "Something Is Wrong with Modern Longevity Science",
+        "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
+        "description": "Article URL: https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel Comments URL: https://news.ycombinator.com/item?id=48738606 Points: 6 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-06-30T20:17:21+00:00"
+      },
+      {
+        "title": "Claude Sonnet 5 – benchmark results",
+        "link": "https://artificialanalysis.ai/models/claude-sonnet-5",
+        "description": "Article URL: https://artificialanalysis.ai/models/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48738528 Points: 11 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-06-30T20:09:25+00:00"
+      },
+      {
+        "title": "Apple iPhone 18 Pro Sızıntılarını Kaldırttı",
+        "link": "https://shiftdelete.net/apple-iphone-18-pro-sizintilarini-kaldirtti",
+        "description": "Apple tedarikçisi Tata Electronics'te yaşanan veri ihlali sonucu iPhone 18 Pro'ya ait görüntüler sızdı ve X platformundan kaldırıldı.",
+        "source": "ShiftDelete",
+        "published": "2026-06-30T20:00:00+00:00"
+      },
+      {
+        "title": "The best thing that's ever happened for multiplayer games?",
+        "link": "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/",
+        "description": "Article URL: https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/ Comments URL: https://news.ycombinator.com/item?id=48738413 Points: 8 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-06-30T19:59:09+00:00"
+      },
+      {
+        "title": "Şanlıurfa’da Dronlar 29 Kaçak Trafo Yakaladı",
+        "link": "https://shiftdelete.net/sanliurfada-dronlar-29-kacak-trafo-yakaladi",
+        "description": "Şanlıurfa'nın Viranşehir ilçesinde dronlarla yapılan denetimlerde 29 kaçak trafo tespit edildi. İşte kaçak elektrik kullanımına dair detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-06-30T19:30:00+00:00"
+      },
+      {
+        "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+        "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+        "description": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
+        "source": "TechCrunch",
+        "published": "2026-06-30T19:12:43+00:00"
+      },
+      {
+        "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+        "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+        "description": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+        "source": "TechCrunch",
+        "published": "2026-06-30T19:02:38+00:00"
+      },
+      {
+        "title": "Proton ChatGPT Rakibi Lumo’yu Güncelledi: İşte Yeni Özellikler",
+        "link": "https://shiftdelete.net/proton-chatgpt-rakibi-lumoyu-guncelledi-iste-yeni-ozellikler",
+        "description": "Proton, gizlilik odaklı yapay zeka botu Lumo'yu 2.0 sürümüne güncelledi. Yeni sürüm görsel üretme, düzenleme ve gelişmiş bellek özellikleri sunuyor.",
+        "source": "ShiftDelete",
+        "published": "2026-06-30T19:00:00+00:00"
+      },
       {
         "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
         "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
@@ -31,13 +108,6 @@
         "published": "2026-06-30T18:13:02+00:00"
       },
       {
-        "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
-        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees Comments URL: https://news.ycombinator.com/item?id=48736839 Points: 12 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-06-30T18:12:33+00:00"
-      },
-      {
         "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
         "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
         "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
@@ -54,7 +124,7 @@
       {
         "title": "Claude Sonnet 5",
         "link": "https://www.anthropic.com/news/claude-sonnet-5",
-        "description": "Article URL: https://www.anthropic.com/news/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48736605 Points: 302 # Comments: 149",
+        "description": "Article URL: https://www.anthropic.com/news/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48736605 Points: 614 # Comments: 328",
         "source": "HackerNews",
         "published": "2026-06-30T17:59:52+00:00"
       },
@@ -89,14 +159,14 @@
       {
         "title": "I built a mmWave material classification radar",
         "link": "https://gauthier-lechevalier.com/radar",
-        "description": "Article URL: https://gauthier-lechevalier.com/radar Comments URL: https://news.ycombinator.com/item?id=48736137 Points: 42 # Comments: 7",
+        "description": "Article URL: https://gauthier-lechevalier.com/radar Comments URL: https://news.ycombinator.com/item?id=48736137 Points: 94 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-06-30T17:29:36+00:00"
       },
       {
         "title": "Claude Science",
         "link": "https://claude.com/product/claude-science",
-        "description": "Article URL: https://claude.com/product/claude-science Comments URL: https://news.ycombinator.com/item?id=48735770 Points: 132 # Comments: 57",
+        "description": "Article URL: https://claude.com/product/claude-science Comments URL: https://news.ycombinator.com/item?id=48735770 Points: 252 # Comments: 87",
         "source": "HackerNews",
         "published": "2026-06-30T17:07:41+00:00"
       },
@@ -122,20 +192,6 @@
         "published": "2026-06-30T17:00:00+00:00"
       },
       {
-        "title": "We Are the Last People Who Know How It Works",
-        "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-        "description": "Article URL: https://unix.foo/posts/last-people-who-know-how-it-works/ Comments URL: https://news.ycombinator.com/item?id=48735633 Points: 129 # Comments: 72",
-        "source": "HackerNews",
-        "published": "2026-06-30T16:59:00+00:00"
-      },
-      {
-        "title": "Xsnow \"protestware\" in Debian",
-        "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-        "description": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/ Comments URL: https://news.ycombinator.com/item?id=48735554 Points: 76 # Comments: 50",
-        "source": "HackerNews",
-        "published": "2026-06-30T16:54:41+00:00"
-      },
-      {
         "title": "Klima Satın Alma Rehberi",
         "link": "\n                    https://www.webtekno.com/klima-satin-alma-rehberi-hangi-klima-size-uygun-h219373.html\n                    ",
         "description": "Klima seçerken zorlanıyorsanız ''Hangi klimayı almalıyım?'' sorunuza bu içerikte cevap bulabilirsiniz.",
@@ -145,14 +201,14 @@
       {
         "title": "Nano Banana 2 Lite",
         "link": "https://deepmind.google/models/gemini-image/flash-lite/",
-        "description": "Article URL: https://deepmind.google/models/gemini-image/flash-lite/ Comments URL: https://news.ycombinator.com/item?id=48735444 Points: 138 # Comments: 38",
+        "description": "Article URL: https://deepmind.google/models/gemini-image/flash-lite/ Comments URL: https://news.ycombinator.com/item?id=48735444 Points: 212 # Comments: 79",
         "source": "HackerNews",
         "published": "2026-06-30T16:48:37+00:00"
       },
       {
         "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
         "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
-        "description": "Article URL: https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/ Comments URL: https://news.ycombinator.com/item?id=48735376 Points: 110 # Comments: 46",
+        "description": "Article URL: https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/ Comments URL: https://news.ycombinator.com/item?id=48735376 Points: 180 # Comments: 80",
         "source": "HackerNews",
         "published": "2026-06-30T16:44:31+00:00"
       },
@@ -192,13 +248,6 @@
         "published": "2026-06-30T16:09:57+00:00"
       },
       {
-        "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-        "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-        "description": "Article URL: https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/ Comments URL: https://news.ycombinator.com/item?id=48734699 Points: 210 # Comments: 106",
-        "source": "HackerNews",
-        "published": "2026-06-30T16:05:46+00:00"
-      },
-      {
         "title": "Nvidia RTX 3060 Geri Döndü: Sektör İkiye Bölündü",
         "link": "https://shiftdelete.net/nvidia-rtx-3060-geri-dondu-sektor-ikiye-bolundu",
         "description": "Nvidia, devam eden RAM krizi nedeniyle popüler ekran kartı RTX 3060'ı yeniden raflara çıkardı. İşte yeni fiyatlar ve pazarın durumu.",
@@ -206,39 +255,25 @@
         "published": "2026-06-30T16:00:00+00:00"
       },
       {
-        "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
-        "link": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
-        "description": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own.",
-        "source": "TechCrunch",
-        "published": "2026-06-30T15:32:50+00:00"
+        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+        "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+        "description": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you...",
+        "source": "The Verge",
+        "published": "2026-06-30T15:24:51-04:00"
       },
       {
-        "title": "Galaxy Z Fold 8 Ultra’ya Çinli Rakip",
-        "link": "https://shiftdelete.net/galaxy-z-fold-8-ultraya-cinli-rakip",
-        "description": "Vivo X Fold 6, Samsung ekran ve kamera teknolojileriyle tanıtıldı. Galaxy Z Fold 8 Ultra'nın yeni rakibi hakkında tüm detaylar haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-06-30T15:30:00+00:00"
+        "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+        "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+        "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last...",
+        "source": "The Verge",
+        "published": "2026-06-30T15:10:24-04:00"
       },
       {
-        "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-        "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-        "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-        "source": "TechCrunch",
-        "published": "2026-06-30T15:08:42+00:00"
-      },
-      {
-        "title": "Tesla Full Self-Driving (FSD) ile Otonom Sürüş Deneyimi",
-        "link": "https://shiftdelete.net/tesla-full-self-driving-fsd-ile-otonom-surus-deneyimi",
-        "description": "Otonom sürüş teknolojisi, yani Türkiye’ye de yakında resmi olarak gelmesi beklenen Full Self-Driving, otomobillerin içerisinde nasıl çalışıyor ve en son aşamada ne durumda? Bu videoda, Amerika’da bir Model X’in içerisindeyken bu sistemi ve çalışma...",
-        "source": "ShiftDelete",
-        "published": "2026-06-30T15:05:47+00:00"
-      },
-      {
-        "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
-        "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
-        "description": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
-        "source": "TechCrunch",
-        "published": "2026-06-30T15:01:42+00:00"
+        "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
+        "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+        "description": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep...",
+        "source": "The Verge",
+        "published": "2026-06-30T14:52:21-04:00"
       },
       {
         "title": "007 First Light’s developer lays off staff but claims its next franchise will continue",
@@ -253,13 +288,6 @@
         "description": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originally $599.99). That’s a great deal considering this is...",
         "source": "The Verge",
         "published": "2026-06-30T14:41:47-04:00"
-      },
-      {
-        "title": "Getac ZX80 Serisi Windows 11 ve ARM Gücünü Sahaya Taşıyor",
-        "link": "https://shiftdelete.net/getacn-zx80-serisi-windows-11-ve-arm-gucunu-sahaya-tasiyor",
-        "description": "Dayanıklı cihaz pazarının öncü isimlerinden Getac, 8 inçlik tam dayanıklı tablet serisi ZX80’i, yeni nesil ZX80W ve ZX80W-EX modelleriyle güncelledi. ARM mimarisi üzerine kurulan bu yeni cihazlar, Windows 11’in sunduğu geniş yazılım ekosistemini,...",
-        "source": "ShiftDelete",
-        "published": "2026-06-30T14:34:10+00:00"
       },
       {
         "title": "Lenovo, Aşırı Uygun Fiyatlı Oyuncu Klavyesi Tanıttı",
@@ -281,13 +309,6 @@
         "description": "Hyundai, bir sorun nedeniyle 96 binden fazla Tucson modelini geri çağırdı.",
         "source": "Webtekno",
         "published": "2026-06-30T14:27:48+03:00"
-      },
-      {
-        "title": "Hepsiburada’da Yeni Dönem: CEO Koltuğuna Ender Özgün Oturdu",
-        "link": "https://shiftdelete.net/hepsiburadada-yeni-donem-ceo-koltuguna-ender-ozgun-oturdu",
-        "description": "Türkiye e-ticaret pazarının öncü platformlarından Hepsiburada, 29 Aralık 2025 tarihinde duyurduğu planlı yönetim değişikliği sürecini resmen tamamlıyor. Bu kapsamda, şirketi bir süredir başarıyla yöneten Nilhan Onal Gökçetekin, 1 Temmuz 2026 tarihi...",
-        "source": "ShiftDelete",
-        "published": "2026-06-30T14:26:36+00:00"
       },
       {
         "title": "Pahalı Otomobil Markaları Neden Çok Model Sunuyor?",
@@ -318,13 +339,6 @@
         "published": "2026-06-30T13:24:34-04:00"
       },
       {
-        "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
-        "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-        "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last...",
-        "source": "The Verge",
-        "published": "2026-06-30T13:04:14-04:00"
-      },
-      {
         "title": "Google’s killing off Tenor GIF searches in other apps",
         "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
         "description": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain live, platforms...",
@@ -332,41 +346,55 @@
         "published": "2026-06-30T13:00:05-04:00"
       },
       {
-        "title": "What is a quantum computer good for? Absolutely nothing — yet",
-        "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
-        "description": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant problems. That hasn't stopped Donald Trump's science adviser from...",
-        "source": "The Verge",
-        "published": "2026-06-30T12:59:50-04:00"
-      },
-      {
         "title": "Xbox weighs canceling Blade game and shuttering Arkane",
         "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
         "description": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios, and canceled...",
         "source": "The Verge",
         "published": "2026-06-30T12:38:18-04:00"
-      },
-      {
-        "title": "Libby will filter out AI content, kind of",
-        "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-        "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO...",
-        "source": "The Verge",
-        "published": "2026-06-30T08:41:41-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Patient tested for suspected Ebola virus at Glasgow hospital",
-        "link": "https://www.bbc.co.uk/news/articles/czde8y03qzvo?at_medium=RSS&at_campaign=rss",
-        "description": "It is understood a patient was admitted to the Queen Elizabeth University Hospital during the early hours of Tuesday.",
+        "title": "Ringleader of Rochdale grooming gang 'cannot be deported'",
+        "link": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
+        "description": "A 55-year-old law means the government has no legal powers to remove Shabir Ahmed from the UK.",
         "source": "BBC News",
-        "published": "2026-06-30T18:52:20+00:00"
+        "published": "2026-06-30T20:38:32+00:00"
+      },
+      {
+        "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
+        "link": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Verify looks at what the big numbers around the Defence Investment Plan mean for spending on the military and hitting the government's pledges.",
+        "source": "BBC News",
+        "published": "2026-06-30T20:21:11+00:00"
       },
       {
         "title": "Starmer trims budgets to fund extra £15bn for defence",
         "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
         "description": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
         "source": "BBC News",
-        "published": "2026-06-30T18:51:04+00:00"
+        "published": "2026-06-30T20:17:22+00:00"
+      },
+      {
+        "title": "Patient tested for suspected Ebola virus at Glasgow hospital",
+        "link": "https://www.bbc.co.uk/news/articles/czde8y03qzvo?at_medium=RSS&at_campaign=rss",
+        "description": "It is understood a patient was admitted to the Queen Elizabeth University Hospital during the early hours of Tuesday.",
+        "source": "BBC News",
+        "published": "2026-06-30T19:56:26+00:00"
+      },
+      {
+        "title": "Half of government should be female, Labour women tell Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/cn07ew5n2jro?at_medium=RSS&at_campaign=rss",
+        "description": "Female MPs urge Burnham to ensure Labour lead by example on equality should he become prime minister.",
+        "source": "BBC News",
+        "published": "2026-06-30T19:46:49+00:00"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+        "description": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
+        "source": "BBC News",
+        "published": "2026-06-30T19:19:42+00:00"
       },
       {
         "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
@@ -390,13 +418,6 @@
         "published": "2026-06-30T17:02:40+00:00"
       },
       {
-        "title": "Cruise passengers 'stranded' after air con failure to be flown home",
-        "link": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
-        "description": "Tui has apologised and told passengers it has arranged flights home for tomorrow and a full refund.",
-        "source": "BBC News",
-        "published": "2026-06-30T16:45:05+00:00"
-      },
-      {
         "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
         "link": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
         "description": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesday as mass anti-immigration protests were held...",
@@ -404,11 +425,11 @@
         "published": "2026-06-30T16:43:32+00:00"
       },
       {
-        "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
-        "link": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Verify looks at what the big numbers around the Defence Investment Plan mean for spending on the military and hitting the government's pledges.",
-        "source": "BBC News",
-        "published": "2026-06-30T16:04:06+00:00"
+        "title": "Meta considered buying Kalshi before developing its own prediction market app",
+        "link": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
+        "description": "Mark Zuckerberg met with Kalshi's CEO last year about a potential deal, but talks did not move forward. Now Meta is making its own prediction market app.",
+        "source": "NPR",
+        "published": "2026-06-30T16:33:04-04:00"
       },
       {
         "title": "Brother of TV star Caroline Flack dies",
@@ -416,13 +437,6 @@
         "description": "Paul Flack, 55, was pronounced dead at the Norfolk and Norwich Hospital on 21 June, an inquest hears.",
         "source": "BBC News",
         "published": "2026-06-30T15:51:39+00:00"
-      },
-      {
-        "title": "Burnham plans to work some days in Manchester as PM",
-        "link": "https://www.bbc.co.uk/news/articles/c1ey985nyqpo?at_medium=RSS&at_campaign=rss",
-        "description": "The ex-Greater Manchester mayor plans a new No 10 unit in the city if he becomes Labour's next leader.",
-        "source": "BBC News",
-        "published": "2026-06-30T15:09:30+00:00"
       },
       {
         "title": "FDA scientists flag concerns with peptides, the trendy molecules RFK Jr. supports",
@@ -458,13 +472,6 @@
         "description": "The New Jersey Republican was missing for months with no explanation for his constituents. He explained in a House floor speech that after his diagnosis, there was no timeline for recovery.",
         "source": "NPR",
         "published": "2026-06-30T12:29:37-04:00"
-      },
-      {
-        "title": "Ringleader of Rochdale grooming gang 'cannot be deported'",
-        "link": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
-        "description": "A 55-year-old law means the government has no legal powers to remove Shabir Ahmed from the UK.",
-        "source": "BBC News",
-        "published": "2026-06-30T11:36:13+00:00"
       },
       {
         "title": "Law professor discusses Supreme Court's final rulings this term",
@@ -516,13 +523,6 @@
         "published": "2026-06-30T10:06:48-04:00"
       },
       {
-        "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
-        "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
-        "description": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court's last day of its term. And, the U.S. murder rate approaches a record low.",
-        "source": "NPR",
-        "published": "2026-06-30T07:46:50-04:00"
-      },
-      {
         "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
         "link": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
         "description": "The 51-year-old daughter of late president Alberto Fujimori secured the top office after authorities spent weeks reviewing contested ballots Peru’s conservative president-elect Keiko Fujimori has vowed to restore “order and hope” after defeating...",
@@ -567,6 +567,90 @@
     ],
     "turkiye": [
       {
+        "title": "İran Meclis Başkanı Kalibaf'tan 'petrol' açıklaması: Yüzde 20 daha pahalı satıyoruz",
+        "link": "https://www.sozcu.com.tr/iran-meclis-baskani-kalibaf-tan-petrol-aciklamasi-yuzde-20-daha-pahali-satiyoruz-p332628",
+        "description": "İran Meclis Başkanı Kalibaf'tan 'petrol' açıklaması: Yüzde 20 daha pahalı satıyoruz",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:56:42+03:00"
+      },
+      {
+        "title": "Seferihisar Belediye Başkanı İsmail Yetişkin görevden uzaklaştırıldı",
+        "link": "https://www.ntv.com.tr/turkiye/seferihisar-belediye-baskani-ismail-yetiskin-gorevden-uzaklastirildi-1730837",
+        "description": "Rüşvet soruşturmasında tutuklanan Seferihisar Belediye Başkanı İsmail Yetişkin görevden uzaklaştırıldı.",
+        "source": "NTV",
+        "published": "2026-06-30T23:53:05+03:00"
+      },
+      {
+        "title": "Seferihisar Belediye Başkanı İsmail Yetişkin görevden uzaklaştırıldı",
+        "link": "https://www.sozcu.com.tr/seferihisar-belediye-baskani-ismail-yetiskin-gorevden-uzaklastirildi-p332627",
+        "description": "Seferihisar Belediye Başkanı İsmail Yetişkin görevden uzaklaştırıldı",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:49:50+03:00"
+      },
+      {
+        "title": "Gurbetçinin emekli aylığı kesilmeyecek",
+        "link": "https://www.sozcu.com.tr/gurbetcinin-emekli-ayligi-kesilmeyecek-p332625",
+        "description": "Gurbetçinin emekli aylığı kesilmeyecek",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:46:36+03:00"
+      },
+      {
+        "title": "İmamoğlu'ndan Muhittin Böcek'in iddialarına yanıt",
+        "link": "https://www.sozcu.com.tr/imamoglu-ndan-muhittin-bocek-in-iddialarina-yanit-p332615",
+        "description": "İmamoğlu'ndan Muhittin Böcek'in iddialarına yanıt",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:37:49+03:00"
+      },
+      {
+        "title": "7 bin yıllık taş ocağı tek başına büyük bir ağı ortaya çıkardı",
+        "link": "https://www.sozcu.com.tr/7-bin-yillik-tas-ocagi-tek-basina-buyuk-bir-agi-ortaya-cikardi-p332623",
+        "description": "7 bin yıllık taş ocağı tek başına büyük bir ağı ortaya çıkardı",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:35:04+03:00"
+      },
+      {
+        "title": "Isparta’da ezber bozan keşif: 113 yıllık sır çözüldü",
+        "link": "https://www.sozcu.com.tr/isparta-da-ezber-bozan-kesif-113-yillik-sir-cozuldu-p332622",
+        "description": "Isparta’da ezber bozan keşif: 113 yıllık sır çözüldü",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:28:50+03:00"
+      },
+      {
+        "title": "Barış Göktürk’ten UEFA açıklaması",
+        "link": "https://www.sozcu.com.tr/baris-gokturk-ten-uefa-aciklamasi-p332620",
+        "description": "Barış Göktürk’ten UEFA açıklaması",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:14:03+03:00"
+      },
+      {
+        "title": "Basketbol U 17 Milli Takımı son 16 turuna yükseldi",
+        "link": "https://www.sozcu.com.tr/basketbol-u-17-milli-takimi-son-16-turuna-yukseldi-p332619",
+        "description": "Basketbol U 17 Milli Takımı son 16 turuna yükseldi",
+        "source": "Sözcü",
+        "published": "2026-06-30T23:10:16+03:00"
+      },
+      {
+        "title": "900 yıllık bu kuyuya inenler tam 7 kat aşağı ulaşıyor",
+        "link": "https://www.sozcu.com.tr/900-yillik-bu-kuyuya-inenler-tam-7-kat-asagi-ulasiyor-p332617",
+        "description": "900 yıllık bu kuyuya inenler tam 7 kat aşağı ulaşıyor",
+        "source": "Sözcü",
+        "published": "2026-06-30T22:53:59+03:00"
+      },
+      {
+        "title": "Kavga ederken aracını geri viteste unuttu; kazaya neden oldu",
+        "link": "https://www.sozcu.com.tr/kartal-da-motokuryeyle-kavga-ederken-aracini-geri-viteste-unutan-surucu-kaza-yapti-p332616",
+        "description": "Kavga ederken aracını geri viteste unuttu; kazaya neden oldu",
+        "source": "Sözcü",
+        "published": "2026-06-30T22:52:22+03:00"
+      },
+      {
+        "title": "Somali ordusu ve TSK'dan Eş-Şebab'a koordineli hava saldırısı",
+        "link": "https://www.ntv.com.tr/turkiye/somali-ordusu-ve-tskdan-es-sebaba-koordineli-hava-saldiri-1730825",
+        "description": "Somali ordusu ve Türk Silahlı Kuvvetleri, koordineli olarak terör örgütü Eş-Şebab'a yönelik hava operasyonu düzenledi. 35 terörist etkisiz hale getirildi.",
+        "source": "NTV",
+        "published": "2026-06-30T22:37:47+03:00"
+      },
+      {
         "title": "Varşova–Tel Aviv seferinde uçak kaçırılması alarmı. Türk F-16'ları havalandı",
         "link": "https://www.ntv.com.tr/turkiye/varsova-tel-aviv-seferinde-ucak-kacirilmasi-alarmi-turk-f-16lari-havalandi-1730830",
         "description": "Varşova–Tel Aviv seferini gerçekleştiren yolcu uçağında yanlışlıkla \"uçak kaçırılma\" kodu yayınlanması üzerine Türk F-16 uçakları havalandı. F-16'lar yolcu uçağına Türk hava sahasını terk edene kadar refakat etti.",
@@ -574,88 +658,11 @@
         "published": "2026-06-30T21:49:48+03:00"
       },
       {
-        "title": "CHP’li başkan Ahmet Akın’dan AKP’li üyelere tepki",
-        "link": "https://www.sozcu.com.tr/chp-li-baskan-ahmet-akin-dan-akp-li-uyelere-tepki-p332607",
-        "description": "CHP’li başkan Ahmet Akın’dan AKP’li üyelere tepki",
-        "source": "Sözcü",
-        "published": "2026-06-30T21:45:38+03:00"
-      },
-      {
-        "title": "Aziz Yıldırım'ın evinde hareketli saatler: Manikür için gittiği evde hayatını kaybetti",
-        "link": "https://www.sozcu.com.tr/aziz-yildirim-in-evinde-kadin-fenalasti-hayatini-kaybettigi-iddiasi-p332599",
-        "description": "Aziz Yıldırım'ın evinde hareketli saatler: Manikür için gittiği evde hayatını kaybetti",
-        "source": "Sözcü",
-        "published": "2026-06-30T21:44:31+03:00"
-      },
-      {
-        "title": "Deniz suyunu güneş ışığıyla içilebilir hale getirdiler",
-        "link": "https://www.sozcu.com.tr/deniz-suyunu-gunes-isigiyla-icilebilir-hale-getirdiler-p332606",
-        "description": "Deniz suyunu güneş ışığıyla içilebilir hale getirdiler",
-        "source": "Sözcü",
-        "published": "2026-06-30T21:32:45+03:00"
-      },
-      {
-        "title": "41 yaşındaki NBA efsanesi takımından ayrıldı! Lebron James’in adresi belli oluyor",
-        "link": "https://www.sozcu.com.tr/41-yasindaki-nba-efsanesi-takimindan-ayrildi-lebron-james-in-adresi-belli-oluyor-p332605",
-        "description": "41 yaşındaki NBA efsanesi takımından ayrıldı! Lebron James’in adresi belli oluyor",
-        "source": "Sözcü",
-        "published": "2026-06-30T21:32:08+03:00"
-      },
-      {
-        "title": "Yolcu uçağı 'kaçırılma' sinyali verdi; Türk F-16'lar havalandı",
-        "link": "https://www.sozcu.com.tr/yolcu-ucagi-sinyal-verdi-turk-f-16-lar-eslik-etti-p332603",
-        "description": "Yolcu uçağı 'kaçırılma' sinyali verdi; Türk F-16'lar havalandı",
-        "source": "Sözcü",
-        "published": "2026-06-30T21:32:07+03:00"
-      },
-      {
-        "title": "Özgür Özel'in A Takımındaki isim açıkladı: Başka bir parti ile görüşmelerimiz var",
-        "link": "https://www.sozcu.com.tr/ozgur-ozel-in-a-takimindaki-isim-acikladi-baska-bir-parti-ile-gorusmelerimiz-var-p332604",
-        "description": "Özgür Özel'in A Takımındaki isim açıkladı: Başka bir parti ile görüşmelerimiz var",
-        "source": "Sözcü",
-        "published": "2026-06-30T21:31:27+03:00"
-      },
-      {
-        "title": "Ankara’da iki metro istasyonu kapatılıyor",
-        "link": "https://www.sozcu.com.tr/ankara-da-iki-metro-istasyonu-kapatiliyor-p332601",
-        "description": "Ankara’da iki metro istasyonu kapatılıyor",
-        "source": "Sözcü",
-        "published": "2026-06-30T21:11:03+03:00"
-      },
-      {
         "title": "Trafikte kavgaya daldı, aracını geri viteste unuttu",
         "link": "https://www.ntv.com.tr/turkiye/galeri-unutkanligi-pahaliya-mal-oldu-sinirinden-motokuryeyi-yumrukladi-1730827",
         "description": "Kartal'da trafikte motokurye ile tartışan bir sürücünün geri viteste unuttuğu araç, arkadaki minibüse çarptı. Daha sonra sürücü motokuryeye yumruk atarak saldırmaya başladı.",
         "source": "NTV",
         "published": "2026-06-30T20:56:01+03:00"
-      },
-      {
-        "title": "Dünyanın en dar şehrinde hayat sadece birkaç metreye sığıyor",
-        "link": "https://www.sozcu.com.tr/dunyanin-en-dar-sehrinde-hayat-sadece-birkac-metreye-sigiyor-p332598",
-        "description": "Dünyanın en dar şehrinde hayat sadece birkaç metreye sığıyor",
-        "source": "Sözcü",
-        "published": "2026-06-30T20:48:07+03:00"
-      },
-      {
-        "title": "Bülent Arınç'tan dikkat çeken 'Erdoğan sonrası' açıklaması",
-        "link": "https://www.sozcu.com.tr/bulent-arinc-tan-dikkat-ceken-erdogan-sonrasi-aciklamasi-p332597",
-        "description": "Bülent Arınç'tan dikkat çeken 'Erdoğan sonrası' açıklaması",
-        "source": "Sözcü",
-        "published": "2026-06-30T20:40:34+03:00"
-      },
-      {
-        "title": "Ankara'da panoların önü başka, arkası başka",
-        "link": "https://www.sozcu.com.tr/ankara-da-nato-zirvesi-oncesi-reklam-panolari-p332596",
-        "description": "Ankara'da panoların önü başka, arkası başka",
-        "source": "Sözcü",
-        "published": "2026-06-30T20:36:11+03:00"
-      },
-      {
-        "title": "Somali ordusu ve TSK'dan Eş-Şebab'a koordineli hava saldırı",
-        "link": "https://www.ntv.com.tr/turkiye/somali-ordusu-ve-tskdan-es-sebaba-koordineli-hava-saldiri-1730825",
-        "description": "Somali ordusu ve Türk Silahlı Kuvvetleri, koordineli olarak terör örgütü Eş-Şebab'a yönelik hava operasyonu düzenledi. 35 terörist etkisiz hale getirildi.",
-        "source": "NTV",
-        "published": "2026-06-30T20:11:20+03:00"
       },
       {
         "title": "Ömer Çelik'ten Özgür Özel'e AK Gençlik tepkisi",
@@ -670,6 +677,13 @@
         "description": "CHP yönetimi 26 il başkanını görevden aldı. 7 il başkanı da ihraç istemiyle disipline sevk edildi.",
         "source": "NTV",
         "published": "2026-06-30T19:30:15+03:00"
+      },
+      {
+        "title": "Haaland'ın golü Norveç'i, son 16'ya taşıdı",
+        "link": "https://www.bbc.com/turkce/articles/ce3p3enl4v9o?at_medium=RSS&at_campaign=rss",
+        "description": "Norveç, Erling Haaland'ın 85. dakikada attığı galibiyet golüyle Fildişi Sahilini 2-1 yenip Dünya Kupası'nda son 16'ya kaldı.",
+        "source": "BBC Turkish",
+        "published": "2026-06-30T18:58:12+00:00"
       },
       {
         "title": "Ayşe Tokyaz cinayeti. \"4-5 kere suratına vurdum, kaşı kanayınca bıraktım\"",
@@ -705,13 +719,6 @@
         "description": "Silivri'de bir kadın yanındaki kişi tarafından zorla götürülmek istendi. \"Beni öldürecekler.\" diyerek yardım isteyen kadın, çevredekilerin tepkisiyle kurtuldu.",
         "source": "NTV",
         "published": "2026-06-30T16:13:59+03:00"
-      },
-      {
-        "title": "Alanya'da çatıya çıkan şahıs ekipleri alarma geçirdi",
-        "link": "https://www.ntv.com.tr/turkiye/video-alanyada-catiya-cikan-sahis-ekipleri-alarma-gecirdi-1730816",
-        "description": "Antalya'nın Alanya ilçesinde bunalıma girerek 4 katlı bir binanın çatısına çıkan 44 yaşındaki adam, polis ekiplerinin uzun süren ikna çalışmaları sonucu bulunduğu yerden sağ salim indirildi",
-        "source": "NTV",
-        "published": "2026-06-30T16:11:50+03:00"
       },
       {
         "title": "ABD Yüksek Mahkemesi, Trump'ın doğumla vatandaşlığı iptal etmesini anayasaya aykırı buldu",
@@ -768,13 +775,6 @@
         "description": "MHP lideri Bahçeli, partisinin Meclis'teki grup toplantısında Ankara'da 7-8 Temmuz'da yapılacak NATO zirvesine dair açıklamalarda bulundu. Bahçeli \"Bugün NATO yeni bir dönemin başındadır. Türkiye'nin olmadığı denklem çöker\" dedi.",
         "source": "BBC Turkish",
         "published": "2026-06-30T12:00:34+00:00"
-      },
-      {
-        "title": "Aşırı sağcı siyasetçiler neden El Salvador'daki mega hapishaneleri örnek alıyor?",
-        "link": "https://www.bbc.com/turkce/articles/c1kyl2yn7v9o?at_medium=RSS&at_campaign=rss",
-        "description": "Başkan Nayib Bukele’nin kitlesel tutuklamalara ve devasa hapishanelere dayalı \"demir yumruk\" politikası, Latin Amerika ve Avrupa’daki sağcı liderler arasında giderek daha fazla benimseniyor. Fakat bu politikanın diğer ülkelerdeki uygulamaları benzer...",
-        "source": "BBC Turkish",
-        "published": "2026-06-30T08:14:03+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.876
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+87°F",
-    "wind": "↑6mph",
-    "humidity": "53%"
+    "condition": "Güneşli",
+    "temp": "+79°F",
+    "wind": "↗5mph",
+    "humidity": "38%"
   }
 }
