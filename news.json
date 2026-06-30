@@ -1,20 +1,34 @@
 {
-  "updated_at": "2026-06-30T22:18:27.575587+00:00",
+  "updated_at": "2026-06-30T23:44:11.833401+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+        "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+        "description": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+        "source": "TechCrunch",
+        "published": "2026-06-30T23:00:00+00:00"
+      },
+      {
+        "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+        "link": "https://hatari.frama.io/hatari/online/hatari.html",
+        "description": "Article URL: https://hatari.frama.io/hatari/online/hatari.html Comments URL: https://news.ycombinator.com/item?id=48740135 Points: 17 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-06-30T22:34:23+00:00"
+      },
+      {
+        "title": "TabFM: A zero-shot foundation model for tabular data",
+        "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+        "description": "Article URL: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/ Comments URL: https://news.ycombinator.com/item?id=48739919 Points: 19 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-06-30T22:08:38+00:00"
+      },
       {
         "title": "OpenClaw is finally available on Android and iOS",
         "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
         "description": "The free open source agentic program is finally invading your phone.",
         "source": "TechCrunch",
         "published": "2026-06-30T21:53:28+00:00"
-      },
-      {
-        "title": "US Army Women Are More Likely to Be Killed by Army Men Than by War",
-        "link": "https://theintercept.com/2026/06/30/army-women-death-domestic-violence-sexual-assault/",
-        "description": "Article URL: https://theintercept.com/2026/06/30/army-women-death-domestic-violence-sexual-assault/ Comments URL: https://news.ycombinator.com/item?id=48739487 Points: 24 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-06-30T21:31:25+00:00"
       },
       {
         "title": "Dünya Kupası Yayınlayan Kaçak Maç Sitelerine Büyük Operasyon",
@@ -26,23 +40,16 @@
       {
         "title": "Understanding lattice risks: Many differences between marketing and reality",
         "link": "https://blog.cr.yp.to/20260630-risk.html",
-        "description": "Article URL: https://blog.cr.yp.to/20260630-risk.html Comments URL: https://news.ycombinator.com/item?id=48739467 Points: 3 # Comments: 0",
+        "description": "Article URL: https://blog.cr.yp.to/20260630-risk.html Comments URL: https://news.ycombinator.com/item?id=48739467 Points: 11 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-06-30T21:29:15+00:00"
       },
       {
-        "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+        "title": "From brain waves to words: a new path to communication without surgery",
         "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-        "description": "Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1 Comments URL: https://news.ycombinator.com/item?id=48739466 Points: 36 # Comments: 19",
+        "description": "Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1 Comments URL: https://news.ycombinator.com/item?id=48739466 Points: 81 # Comments: 44",
         "source": "HackerNews",
         "published": "2026-06-30T21:29:13+00:00"
-      },
-      {
-        "title": "Superpowers 6",
-        "link": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
-        "description": "Article URL: https://blog.fsck.com/2026/06/15/Superpowers-6/ Comments URL: https://news.ycombinator.com/item?id=48739459 Points: 5 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-06-30T21:28:32+00:00"
       },
       {
         "title": "Huawei HarmonyOS 6 70 Milyon Barajını Aştı",
@@ -54,9 +61,16 @@
       {
         "title": "I ported Kubernetes to the browser",
         "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-        "description": "https://github.com/ngrok/webernetes https://webernetes-demo.ngrok.app/ Comments URL: https://news.ycombinator.com/item?id=48738985 Points: 82 # Comments: 20",
+        "description": "https://github.com/ngrok/webernetes https://webernetes-demo.ngrok.app/ Comments URL: https://news.ycombinator.com/item?id=48738985 Points: 131 # Comments: 35",
         "source": "HackerNews",
         "published": "2026-06-30T20:48:36+00:00"
+      },
+      {
+        "title": "Leanstral 1.5",
+        "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+        "description": "Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06 Comments URL: https://news.ycombinator.com/item?id=48738938 Points: 56 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-06-30T20:44:56+00:00"
       },
       {
         "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
@@ -73,13 +87,6 @@
         "published": "2026-06-30T20:30:00+00:00"
       },
       {
-        "title": "Morbid: Debunking Modern Longevity Science",
-        "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
-        "description": "https://archive.md/wSjtj Comments URL: https://news.ycombinator.com/item?id=48738606 Points: 27 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-06-30T20:17:21+00:00"
-      },
-      {
         "title": "Apple iPhone 18 Pro Sızıntılarını Kaldırttı",
         "link": "https://shiftdelete.net/apple-iphone-18-pro-sizintilarini-kaldirtti",
         "description": "Apple tedarikçisi Tata Electronics'te yaşanan veri ihlali sonucu iPhone 18 Pro'ya ait görüntüler sızdı ve X platformundan kaldırıldı.",
@@ -89,9 +96,16 @@
       {
         "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
         "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-        "description": "Article URL: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/ Comments URL: https://news.ycombinator.com/item?id=48738262 Points: 15 # Comments: 5",
+        "description": "Article URL: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/ Comments URL: https://news.ycombinator.com/item?id=48738262 Points: 44 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-06-30T19:47:24+00:00"
+      },
+      {
+        "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
+        "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+        "description": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep...",
+        "source": "The Verge",
+        "published": "2026-06-30T19:40:59-04:00"
       },
       {
         "title": "Şanlıurfa’da Dronlar 29 Kaçak Trafo Yakaladı",
@@ -122,6 +136,13 @@
         "published": "2026-06-30T19:00:00+00:00"
       },
       {
+        "title": "Dish files for bankruptcy, but not shutting down",
+        "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+        "description": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\"...",
+        "source": "The Verge",
+        "published": "2026-06-30T18:46:52-04:00"
+      },
+      {
         "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
         "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
         "description": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
@@ -145,7 +166,7 @@
       {
         "title": "Amazon seller reveals glimpse of shadow bribery market",
         "link": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
-        "description": "Article URL: https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers Comments URL: https://news.ycombinator.com/item?id=48736839 Points: 67 # Comments: 34",
+        "description": "Article URL: https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers Comments URL: https://news.ycombinator.com/item?id=48736839 Points: 101 # Comments: 57",
         "source": "HackerNews",
         "published": "2026-06-30T18:12:33+00:00"
       },
@@ -166,7 +187,7 @@
       {
         "title": "Claude Sonnet 5",
         "link": "https://www.anthropic.com/news/claude-sonnet-5",
-        "description": "Article URL: https://www.anthropic.com/news/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48736605 Points: 728 # Comments: 403",
+        "description": "Article URL: https://www.anthropic.com/news/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48736605 Points: 801 # Comments: 454",
         "source": "HackerNews",
         "published": "2026-06-30T17:59:52+00:00"
       },
@@ -201,7 +222,7 @@
       {
         "title": "I built a mmWave material classification radar (2025)",
         "link": "https://gauthier-lechevalier.com/radar",
-        "description": "Article URL: https://gauthier-lechevalier.com/radar Comments URL: https://news.ycombinator.com/item?id=48736137 Points: 111 # Comments: 30",
+        "description": "Article URL: https://gauthier-lechevalier.com/radar Comments URL: https://news.ycombinator.com/item?id=48736137 Points: 123 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-06-30T17:29:36+00:00"
       },
@@ -216,13 +237,6 @@
         "title": "Threads adds new features to Live Chats as it expands access",
         "link": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
         "description": "The updates include translations, new tools for hosts, and more.",
-        "source": "TechCrunch",
-        "published": "2026-06-30T17:00:00+00:00"
-      },
-      {
-        "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-        "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-        "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
         "source": "TechCrunch",
         "published": "2026-06-30T17:00:00+00:00"
       },
@@ -274,13 +288,6 @@
         "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last...",
         "source": "The Verge",
         "published": "2026-06-30T15:10:24-04:00"
-      },
-      {
-        "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
-        "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
-        "description": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep...",
-        "source": "The Verge",
-        "published": "2026-06-30T14:52:21-04:00"
       },
       {
         "title": "007 First Light’s developer lays off staff but claims its next franchise will continue",
@@ -344,29 +351,50 @@
         "description": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain live, platforms...",
         "source": "The Verge",
         "published": "2026-06-30T13:00:05-04:00"
-      },
-      {
-        "title": "Xbox weighs canceling Blade game and shuttering Arkane",
-        "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
-        "description": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios, and canceled...",
-        "source": "The Verge",
-        "published": "2026-06-30T12:38:18-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Williams falls just short on Wimbledon singles return",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c802jk8rz44o?at_medium=RSS&at_campaign=rss",
-        "description": "Serena Williams came close to a sensational comeback win on her Wimbledon return before losing an epic three-setter against Maya Joint.",
+        "title": "Why Gen Z are planning for life without a state pension",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+        "description": "Many younger people do not believe the state pension will exist when they are older",
         "source": "BBC News",
-        "published": "2026-06-30T21:58:04+00:00"
+        "published": "2026-06-30T23:05:19+00:00"
+      },
+      {
+        "title": "E-scooters being advertised for commuting despite UK road ban",
+        "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+        "description": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
+        "source": "BBC News",
+        "published": "2026-06-30T23:05:08+00:00"
+      },
+      {
+        "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
+        "link": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
+        "description": "Despite affecting millions of women in the UK, PMOS is still under-diagnosed and inconsistently managed, say experts.",
+        "source": "BBC News",
+        "published": "2026-06-30T23:04:58+00:00"
+      },
+      {
+        "title": "UK charities launch Venezuela earthquakes appeal",
+        "link": "https://www.bbc.co.uk/news/articles/c982qy7qv5go?at_medium=RSS&at_campaign=rss",
+        "description": "At least 1,700 people have died and tens of thousands are feared missing after the twin quakes.",
+        "source": "BBC News",
+        "published": "2026-06-30T23:04:44+00:00"
       },
       {
         "title": "Patient tests negative after Ebola alert at Glasgow hospital",
         "link": "https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&at_campaign=rss",
         "description": "Precautionary measures were taken after the patient was admitted to the Queen Elizabeth University Hospital early on Tuesday.",
         "source": "BBC News",
-        "published": "2026-06-30T21:51:20+00:00"
+        "published": "2026-06-30T23:04:29+00:00"
+      },
+      {
+        "title": "Plea for households to read energy meter as prices rise",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+        "description": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
+        "source": "BBC News",
+        "published": "2026-06-30T23:02:02+00:00"
       },
       {
         "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
@@ -376,20 +404,6 @@
         "published": "2026-06-30T21:30:52+00:00"
       },
       {
-        "title": "Ringleader of Rochdale grooming gang 'cannot be deported'",
-        "link": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
-        "description": "A 55-year-old law means the government has no legal powers to remove Shabir Ahmed from the UK.",
-        "source": "BBC News",
-        "published": "2026-06-30T20:38:32+00:00"
-      },
-      {
-        "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
-        "link": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Verify looks at what the big numbers around the Defence Investment Plan mean for spending on the military and hitting the government's pledges.",
-        "source": "BBC News",
-        "published": "2026-06-30T20:21:11+00:00"
-      },
-      {
         "title": "Starmer trims budgets to fund extra £15bn for defence",
         "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
         "description": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
@@ -397,18 +411,11 @@
         "published": "2026-06-30T20:17:22+00:00"
       },
       {
-        "title": "Half of government should be female, Labour women tell Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/cn07ew5n2jro?at_medium=RSS&at_campaign=rss",
-        "description": "Female MPs urge Burnham to ensure Labour lead by example on equality should he become prime minister.",
+        "title": "Why Starmer's defence plan leaves next PM with £4.7bn headache",
+        "link": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss",
+        "description": "Keir Starmer announces extra defence spending - but the subject will still be one of the trickiest issues in his successor's in-tray.",
         "source": "BBC News",
-        "published": "2026-06-30T19:46:49+00:00"
-      },
-      {
-        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-        "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-        "description": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
-        "source": "BBC News",
-        "published": "2026-06-30T19:19:42+00:00"
+        "published": "2026-06-30T20:02:42+00:00"
       },
       {
         "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
@@ -465,13 +472,6 @@
         "description": "The National Weather Service has issued heat warnings and watches for much of the Midwest and East heading into the holiday weekend. In many places, the temperatures could shatter records.",
         "source": "NPR",
         "published": "2026-06-30T13:26:48-04:00"
-      },
-      {
-        "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-        "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-        "description": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-        "source": "BBC News",
-        "published": "2026-06-30T13:22:15+00:00"
       },
       {
         "title": "Rep. Tom Kean returns to Congress, says depression is why he went missing for months",
@@ -567,6 +567,41 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-temmuz-2026-1730839",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-01T02:30:00+03:00"
+      },
+      {
+        "title": "Mbappe şov yaptı, Fransa son 16'ya yükseldi",
+        "link": "https://www.sozcu.com.tr/mbappe-sov-yapti-fransa-son-16-ya-yukseldi-p332648",
+        "description": "Mbappe şov yaptı, Fransa son 16'ya yükseldi",
+        "source": "Sözcü",
+        "published": "2026-07-01T02:11:31+03:00"
+      },
+      {
+        "title": "Aldatıcı indirim ve yapay zeka reklamlarına yeni önlem",
+        "link": "https://www.ntv.com.tr/turkiye/aldatici-indirim-ve-yapay-zeka-reklamlarina-yeni-onlem-1730847",
+        "description": "Ticaret Bakanlığı, dijitalleşmeyle birlikte daha fazla reklam ve ilana maruz kalan tüketicilerin aldatıcı reklamlara karşı daha etkin korunması amacıyla hedefli reklamcılıktan yapay zekayla oluşturulan reklamlara kadar birçok alanda tüketicilerin...",
+        "source": "NTV",
+        "published": "2026-07-01T02:07:09+03:00"
+      },
+      {
+        "title": "Son dakika Hatay'da deprem mi oldu? Az önce deprem Hatay'da nerede oldu? Hatay deprem Kandilli ve AFAD son depremler listesi 01 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-hatayda-deprem-mi-oldu-az-once-deprem-hatayda-nerede-oldu-hatay-deprem-kandilli-ve-afad-son-depremler-listesi-01-temmuz-2026-1730845",
+        "description": "Son dakika Hatay deprem haberleri.. Hatay'da deprem mi oldu? Az önce deprem Hatay'da nerede oldu? Hatay Kandilli ve AFAD son depremler.. 01 Temmuz 2026 Hatay deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Hatay'da? Hatay son...",
+        "source": "NTV",
+        "published": "2026-07-01T01:40:00+03:00"
+      },
+      {
+        "title": "Kimi hesap veriyor, kimi ‘Başımız dik’ diyor",
+        "link": "https://www.sozcu.com.tr/kimi-hesap-veriyor-kimi-basimiz-dik-diyor-p332647",
+        "description": "Kimi hesap veriyor, kimi ‘Başımız dik’ diyor",
+        "source": "Sözcü",
+        "published": "2026-07-01T01:33:38+03:00"
+      },
+      {
         "title": "Ayşe Tokyaz'ın katilinin eski sevgilisini dövdüğü görüntüler ortaya çıktı",
         "link": "https://www.ntv.com.tr/turkiye/video-ayse-tokyazin-katilinin-eski-sevgilisini-dovdugu-goruntuler-ortaya-cikti-1730841",
         "description": "İstanbul'da Ayşe Tokyaz cinayetinden tutuklanan ve Diyarbakır’da birlikte yaşadığı Ejegül Ovezova’nın ölümüne ilişkin yargılanan eski polis memuru Cemil Koç'un Ovezova'yı darbettiği görüntüler ortaya çıktı.",
@@ -579,13 +614,6 @@
         "description": "Seferihisar Belediye Başkanı İsmail Yetişkin görevden uzaklaştırıldı",
         "source": "Sözcü",
         "published": "2026-07-01T01:01:59+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-temmuz-2026-1730839",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-01T01:00:00+03:00"
       },
       {
         "title": "Gülşah başkanın kemiklerini sızlatan atama",
@@ -651,18 +679,18 @@
         "published": "2026-06-30T23:53:05+03:00"
       },
       {
-        "title": "Gurbetçinin emekli aylığı kesilmeyecek",
-        "link": "https://www.sozcu.com.tr/gurbetcinin-emekli-ayligi-kesilmeyecek-p332625",
-        "description": "Gurbetçinin emekli aylığı kesilmeyecek",
-        "source": "Sözcü",
-        "published": "2026-06-30T23:46:36+03:00"
+        "title": "Fransa, İsveç'i rahat geçerek son 16'ya kaldı",
+        "link": "https://www.bbc.com/turkce/articles/c5yey6mny64o?at_medium=RSS&at_campaign=rss",
+        "description": "2026 Dünya Kupası'nın favorilerinden Fransa, son 32 turundaki rakibi İsveç'i 3-0 yenerek, adını bir sonraki tura yazdırdı. Fransa'nın son 16'daki rakibi Paraguay oldu.",
+        "source": "BBC Turkish",
+        "published": "2026-06-30T23:40:10+00:00"
       },
       {
-        "title": "7 bin yıllık taş ocağı tek başına büyük bir ağı ortaya çıkardı",
-        "link": "https://www.sozcu.com.tr/7-bin-yillik-tas-ocagi-tek-basina-buyuk-bir-agi-ortaya-cikardi-p332623",
-        "description": "7 bin yıllık taş ocağı tek başına büyük bir ağı ortaya çıkardı",
-        "source": "Sözcü",
-        "published": "2026-06-30T23:35:04+03:00"
+        "title": "AB'den Türkiye'ye kritik üçlü ziyarette hangi konular öne çıktı?",
+        "link": "https://www.bbc.com/turkce/articles/cr7xjlgnxl3o?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye, Avrupa Parlamentosu'nun gerginlik yaratan raporunun ardından Brüksel'den üst düzey bir heyeti ağırladı. Kaja Kallas, Marta Kos ve Magnus Brunner'in ziyareti Türkiye'ye yönelik önemli bir adım olarak görülüyor.",
+        "source": "BBC Turkish",
+        "published": "2026-06-30T23:05:13+00:00"
       },
       {
         "title": "Somali ordusu ve TSK'dan Eş-Şebab'a koordineli hava saldırısı",
@@ -700,27 +728,6 @@
         "published": "2026-06-30T19:59:52+03:00"
       },
       {
-        "title": "CHP'de 26 il başkanı daha görevden alındı",
-        "link": "https://www.ntv.com.tr/turkiye/chpde-26-il-baskani-daha-gorevden-alindi-1730821",
-        "description": "CHP yönetimi 26 il başkanını görevden aldı. 7 il başkanı da ihraç istemiyle disipline sevk edildi.",
-        "source": "NTV",
-        "published": "2026-06-30T19:30:15+03:00"
-      },
-      {
-        "title": "Haaland'ın golü Norveç'i, son 16'ya taşıdı",
-        "link": "https://www.bbc.com/turkce/articles/ce3p3enl4v9o?at_medium=RSS&at_campaign=rss",
-        "description": "Norveç, Erling Haaland'ın 85. dakikada attığı galibiyet golüyle Fildişi Sahili'ni 2-1 yenerek Dünya Kupası'nda son 16'ya kaldı.",
-        "source": "BBC Turkish",
-        "published": "2026-06-30T18:58:12+00:00"
-      },
-      {
-        "title": "Ayşe Tokyaz cinayeti. \"4-5 kere suratına vurdum, kaşı kanayınca bıraktım\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-ayse-tokyaz-cinayeti-4-5-kere-suratina-vurdum-kasi-kanayinca-biraktim-1730823",
-        "description": "Küçükcekmece’de eski polis memuru Cemil Koç tarafından öldürülen ve cesedi bavul içinde yol kenarına bırakılan üniversite öğrencisi Ayşe Tokyaz cinayetinde sanık savunmaları alındı. Cemil Koç savunmasında \"Cezam neyse onu çekerim. Mahkemeden bir...",
-        "source": "NTV",
-        "published": "2026-06-30T18:28:50+03:00"
-      },
-      {
         "title": "Murat Ongun: 'Milyarlarca liralık yolsuzluk iddiasına tek bir kanıt yok'",
         "link": "https://www.bbc.com/turkce/articles/cy49w8pv2y4o?at_medium=RSS&at_campaign=rss",
         "description": "İstanbul Büyükşehir Belediyesi (İBB) hakkında yolsuzluk iddialarıyla açılan 400 kişiden fazla sanığın yargılandığı dava sanık savunmalarıyla devam ediyor.",
@@ -754,13 +761,6 @@
         "description": "Orlando Gill Paraguay'ın Dünya Kupası kahramanı haline geldi ama daha 18 ay önce futbol dünyasında adı sanı bilinmeyen bir isimdi ve oğlunun erken doğumunun ardından ailesini geçindirebilmek için futbol malzemelerini satmak zorunda kalmıştı.",
         "source": "BBC Turkish",
         "published": "2026-06-30T14:11:46+00:00"
-      },
-      {
-        "title": "AB'den Türkiye'ye kritik üçlü ziyaret",
-        "link": "https://www.bbc.com/turkce/articles/cr7xjlgnxl3o?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye, Avrupa Parlamentosu'nun gerginlik yaratan raporunun ardından Brüksel'den üst düzey bir heyeti ağırlıyor. Kaja Kallas, Marta Kos ve Magnus Brunner temaslarda bulunmak için Ankara'da. Üçlünün ziyareti Türkiye'ye yönelik önemli bir adım olarak...",
-        "source": "BBC Turkish",
-        "published": "2026-06-30T13:08:47+00:00"
       },
       {
         "title": "İngiltere'den savunmaya 15 milyar sterlinlik ek bütçe",
