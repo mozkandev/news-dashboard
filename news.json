@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T19:27:27.592276+00:00",
+  "updated_at": "2026-07-02T20:42:24.060510+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -8,6 +8,34 @@
         "description": "Google Android Başkanı Sameer Samat, Volvo EX60 modeli üstünde yeni Gemini özelliğini gözler önüne serdi.",
         "source": "Webtekno",
         "published": "2026-07-02T21:45:30+03:00"
+      },
+      {
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+        "source": "TechCrunch",
+        "published": "2026-07-02T20:11:59+00:00"
+      },
+      {
+        "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+        "link": "http://www.lmdb.tech/doc/",
+        "description": "Article URL: http://www.lmdb.tech/doc/ Comments URL: https://news.ycombinator.com/item?id=48766598 Points: 15 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-02T20:01:20+00:00"
+      },
+      {
+        "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+        "link": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+        "description": "Article URL: https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf Comments URL: https://news.ycombinator.com/item?id=48766209 Points: 14 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-02T19:27:38+00:00"
+      },
+      {
+        "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
+        "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+        "description": "Article URL: https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html Comments URL: https://news.ycombinator.com/item?id=48766076 Points: 58 # Comments: 43",
+        "source": "HackerNews",
+        "published": "2026-07-02T19:16:20+00:00"
       },
       {
         "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
@@ -19,16 +47,9 @@
       {
         "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
         "link": "https://openjdk.org/jeps/539",
-        "description": "Article URL: https://openjdk.org/jeps/539 Comments URL: https://news.ycombinator.com/item?id=48765830 Points: 3 # Comments: 0",
+        "description": "Article URL: https://openjdk.org/jeps/539 Comments URL: https://news.ycombinator.com/item?id=48765830 Points: 24 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-07-02T18:56:33+00:00"
-      },
-      {
-        "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-        "link": "https://willpenman.com/klara/",
-        "description": "Article URL: https://willpenman.com/klara/ Comments URL: https://news.ycombinator.com/item?id=48765743 Points: 12 # Comments: 9",
-        "source": "HackerNews",
-        "published": "2026-07-02T18:48:58+00:00"
       },
       {
         "title": "Meta quietly launches vibe-coded gaming app Pocket",
@@ -40,16 +61,30 @@
       {
         "title": "Exapunks (2018)",
         "link": "https://www.zachtronics.com/exapunks/",
-        "description": "Article URL: https://www.zachtronics.com/exapunks/ Comments URL: https://news.ycombinator.com/item?id=48765663 Points: 47 # Comments: 13",
+        "description": "Article URL: https://www.zachtronics.com/exapunks/ Comments URL: https://news.ycombinator.com/item?id=48765663 Points: 118 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-07-02T18:41:19+00:00"
       },
       {
         "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
         "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
-        "description": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the cost and benefits of services.",
+        "description": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the costs and benefits of services.",
         "source": "TechCrunch",
         "published": "2026-07-02T18:39:14+00:00"
+      },
+      {
+        "title": "Postgres transactions are a distributed systems superpower",
+        "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+        "description": "Article URL: https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data Comments URL: https://news.ycombinator.com/item?id=48765639 Points: 31 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-07-02T18:38:32+00:00"
+      },
+      {
+        "title": "Vulkan is now available on NetBSD",
+        "link": "https://github.com/segaboy/vulkan-netbsd",
+        "description": "Article URL: https://github.com/segaboy/vulkan-netbsd Comments URL: https://news.ycombinator.com/item?id=48765607 Points: 29 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-07-02T18:36:09+00:00"
       },
       {
         "title": "Anthropic is discussing a new custom chip with Samsung",
@@ -108,6 +143,13 @@
         "published": "2026-07-02T16:20:26+03:00"
       },
       {
+        "title": "The best July 4th sales we found so far",
+        "link": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
+        "description": "July 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the...",
+        "source": "The Verge",
+        "published": "2026-07-02T16:15:45-04:00"
+      },
+      {
         "title": "Xiaomi, Yeni Bütçe Dostu Mouse Tanıttı!",
         "link": "\n                    https://www.webtekno.com/xiaomi-mouse-4-pro-h219585.html\n                    ",
         "description": "Xiaomi, çok sessiz bir şekilde çalışabilecek şekilde tasarlanan uygun fiyatlı mouse tanıttı.",
@@ -145,7 +187,7 @@
       {
         "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
         "link": "https://mathstodon.xyz/@iblech/116769502749142438",
-        "description": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438 Comments URL: https://news.ycombinator.com/item?id=48763035 Points: 280 # Comments: 136",
+        "description": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438 Comments URL: https://news.ycombinator.com/item?id=48763035 Points: 311 # Comments: 160",
         "source": "HackerNews",
         "published": "2026-07-02T15:25:16+00:00"
       },
@@ -180,7 +222,7 @@
       {
         "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
         "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-        "description": "Article URL: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv Comments URL: https://news.ycombinator.com/item?id=48762725 Points: 275 # Comments: 62",
+        "description": "Article URL: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv Comments URL: https://news.ycombinator.com/item?id=48762725 Points: 378 # Comments: 111",
         "source": "HackerNews",
         "published": "2026-07-02T15:02:26+00:00"
       },
@@ -218,41 +260,6 @@
         "description": "Counterpoint Research raporuna göre, Apple'ın katlanabilir telefon pazarına girişi, 2026'da panel sevkiyatlarında %24 büyüme ve %48 gelir artışı sağlayacak.",
         "source": "ShiftDelete",
         "published": "2026-07-02T14:30:39+00:00"
-      },
-      {
-        "title": "Podman v6.0.0",
-        "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-        "description": "Article URL: https://blog.podman.io/2026/07/introducing-podman-v6-0-0/ Comments URL: https://news.ycombinator.com/item?id=48762098 Points: 112 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-07-02T14:23:09+00:00"
-      },
-      {
-        "title": "US government says it got hacked — again",
-        "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
-        "description": "A top Democrat on the Senate's Intelligence Committee warned that the information accessed on a Homeland Security intelligence-sharing network may risk national security.",
-        "source": "TechCrunch",
-        "published": "2026-07-02T14:22:36+00:00"
-      },
-      {
-        "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-        "link": "https://github.com/rafal-qa/slopo",
-        "description": "Article URL: https://github.com/rafal-qa/slopo Comments URL: https://news.ycombinator.com/item?id=48762038 Points: 54 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-07-02T14:19:24+00:00"
-      },
-      {
-        "title": "No LLM Code in Dependencies",
-        "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-        "description": "Article URL: https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/ Comments URL: https://news.ycombinator.com/item?id=48762008 Points: 45 # Comments: 21",
-        "source": "HackerNews",
-        "published": "2026-07-02T14:17:23+00:00"
-      },
-      {
-        "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-        "link": "https://mailmemories.com",
-        "description": "Hey HN, I’m the creator of Mail Memories. Like many of you, I've had my Gmail address for more than 20 years. A few years ago, I got curious and wanted to see what photos were buried deep in my account. I ended up finding lots of \"lost\" pictures of...",
-        "source": "HackerNews",
-        "published": "2026-07-02T14:16:57+00:00"
       },
       {
         "title": "Temmuz Ayı PlayStation Plus Oyunları Duyuruldu",
@@ -339,13 +346,6 @@
         "published": "2026-07-02T06:23:27-04:00"
       },
       {
-        "title": "Amazon has enough satellites to launch its Starlink competitor",
-        "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
-        "description": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is \"enough to support continuous service across initial...",
-        "source": "The Verge",
-        "published": "2026-07-02T05:33:55-04:00"
-      },
-      {
         "title": "Mystery box shows are complicated for everyone — even the actors",
         "link": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
         "description": "Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that...",
@@ -355,11 +355,25 @@
     ],
     "dunya": [
       {
-        "title": "Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding",
-        "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-        "description": "The soaring temperatures are raising concerns as President Donald Trump hosts America's 250th birthday celebrations and multiple World cup matches take place outdoors.",
+        "title": "I take responsibility to fund defence plan extremely seriously, says Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+        "description": "The Makerfield MP also rejects attacks on his economic stance, insisting he would not be \"indisciplined\" on finances.",
         "source": "BBC News",
-        "published": "2026-07-02T18:56:36+00:00"
+        "published": "2026-07-02T20:40:27+00:00"
+      },
+      {
+        "title": "Dangerous heatwave scorches US ahead of Fourth of July holiday",
+        "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+        "description": "Millions are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+        "source": "BBC News",
+        "published": "2026-07-02T20:28:55+00:00"
+      },
+      {
+        "title": "Mini-mart at centre of BBC investigation closed down",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4807pn9lo?at_medium=RSS&at_campaign=rss",
+        "description": "The Cradley Market shop, in Sandwell, is closed for three months following an investigation.",
+        "source": "BBC News",
+        "published": "2026-07-02T19:10:06+00:00"
       },
       {
         "title": "Pubs allowed to stay open until 5am for England Mexico match",
@@ -404,6 +418,13 @@
         "published": "2026-07-02T16:11:24+00:00"
       },
       {
+        "title": "Christian missionaries have found a new (virtual) mission territory",
+        "link": "https://www.npr.org/2026/07/02/g-s1-131124/christian-missionaries-have-found-a-new-virtual-mission-territory",
+        "description": "The room may be virtual, but the prayer — and the evangelism — are not.",
+        "source": "NPR",
+        "published": "2026-07-02T16:06:53-04:00"
+      },
+      {
         "title": "Married at First Sight UK star arrested on suspicion of rape",
         "link": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss",
         "description": "It follows a BBC Panorama investigation, broadcast in May, into the hit Channel 4 reality TV show.",
@@ -446,13 +467,6 @@
         "published": "2026-07-02T12:23:14+00:00"
       },
       {
-        "title": "'The shame is not yours': Starmer apologises for state's role in forced adoptions",
-        "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss",
-        "description": "The practice saw thousands of babies taken from their mothers between 1949 and 1976.",
-        "source": "BBC News",
-        "published": "2026-07-02T11:53:28+00:00"
-      },
-      {
         "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
         "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
         "description": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan. There are...",
@@ -488,11 +502,11 @@
         "published": "2026-07-02T06:00:00-04:00"
       },
       {
-        "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-        "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-        "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
-        "source": "BBC News",
-        "published": "2026-07-02T05:00:03+00:00"
+        "title": "The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5878415/haitian-tps-healthcare-immigration-supreme-court",
+        "description": "Mass deportations would be felt across hospitals and emergency rooms, which already face persistent staffing shortfalls. The long-term healthcare sector will suffer the greatest disruptions, experts say.",
+        "source": "NPR",
+        "published": "2026-07-02T05:00:00-04:00"
       },
       {
         "title": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
@@ -502,25 +516,11 @@
         "published": "2026-07-02T05:00:00-04:00"
       },
       {
-        "title": "The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse",
-        "link": "https://www.npr.org/2026/07/02/nx-s1-5878415/haitian-tps-healthcare-immigration-supreme-court",
-        "description": "Mass deportations would be felt across hospitals and emergency rooms, which already face persistent staffing shortfalls. The long-term healthcare sector will suffer the greatest disruptions, experts say.",
-        "source": "NPR",
-        "published": "2026-07-02T05:00:00-04:00"
-      },
-      {
         "title": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
         "link": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism",
         "description": "The Vatican responded Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X in schism and excommunicating its bishops and priests.",
         "source": "NPR",
         "published": "2026-07-02T04:54:48-04:00"
-      },
-      {
-        "title": "U.S. job market slows in June",
-        "link": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
-        "description": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
-        "source": "NPR",
-        "published": "2026-07-02T04:49:28-04:00"
       },
       {
         "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
@@ -567,6 +567,69 @@
     ],
     "turkiye": [
       {
+        "title": "Uzman er ve erbaş teklifi Meclis'ten geçti",
+        "link": "https://www.sozcu.com.tr/uzman-erbas-teklifi-meclis-ten-gecti-2-temmuz-2026-p333262",
+        "description": "Uzman er ve erbaş teklifi Meclis'ten geçti",
+        "source": "Sözcü",
+        "published": "2026-07-02T23:27:31+03:00"
+      },
+      {
+        "title": "Bir metrelik dev akrep, 16 santimetrelik kıskaçlarıyla avlanmış",
+        "link": "https://www.sozcu.com.tr/bir-metrelik-dev-akrep-16-santimetrelik-kiskaclariyla-avlanmis-p333264",
+        "description": "Bir metrelik dev akrep, 16 santimetrelik kıskaçlarıyla avlanmış",
+        "source": "Sözcü",
+        "published": "2026-07-02T23:18:39+03:00"
+      },
+      {
+        "title": "12 Dev Adam yoluna kayıpsız devam ediyor",
+        "link": "https://www.sozcu.com.tr/12-dev-adam-yoluna-kayipsiz-devam-ediyor-p333263",
+        "description": "12 Dev Adam yoluna kayıpsız devam ediyor",
+        "source": "Sözcü",
+        "published": "2026-07-02T23:08:52+03:00"
+      },
+      {
+        "title": "Uzman erbaş kanunu yasalaştı. Sözleşmeli erlere kamu istihdamı",
+        "link": "https://www.ntv.com.tr/turkiye/uzman-erbas-kanunu-yasalasti-sozlesmeli-erlere-kamu-istihdami-1731164",
+        "description": "Sözleşmeli erbaş ve erlerin kamuda istihdam edilmesini de içerisinde barındıran yasa teklifi Meclis Genel Kurulu'nda kabul edildi.",
+        "source": "NTV",
+        "published": "2026-07-02T23:06:34+03:00"
+      },
+      {
+        "title": "İstanbul'u karıştıran olay! İlçe ilçe dolaşıp erkekleri taciz ediyormuş",
+        "link": "https://www.sozcu.com.tr/istanbul-da-kadinin-taciz-olayi-p333261",
+        "description": "İstanbul'u karıştıran olay! İlçe ilçe dolaşıp erkekleri taciz ediyormuş",
+        "source": "Sözcü",
+        "published": "2026-07-02T23:06:12+03:00"
+      },
+      {
+        "title": "CHP ‘Sivas Katliamı’ araştırılsın dedi, önerge AKP MHP oylarıyla reddedildi",
+        "link": "https://www.sozcu.com.tr/chp-sivas-katliami-arastirilsin-dedi-onerge-akp-mhp-oylariyla-reddedildi-p333260",
+        "description": "CHP ‘Sivas Katliamı’ araştırılsın dedi, önerge AKP MHP oylarıyla reddedildi",
+        "source": "Sözcü",
+        "published": "2026-07-02T22:53:30+03:00"
+      },
+      {
+        "title": "İstanbul'da tacizci kadın korkusu. Sokak sokak gezerek erkekleri taciz ediyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-tacizci-kadin-korkusu-sokak-sokak-gezerek-erkekleri-taciz-ediyor-1731163",
+        "description": "İstanbul'da bir kadın, sokaklarda ve dükkanlarda erkekleri taciz etmeye başladı. İlk olay Ümraniye'de yaşandı ancak farklı bölgelerden de benzer şikayetler geliyor, kamera görüntüleri sosyal medyada paylaşılıyor.",
+        "source": "NTV",
+        "published": "2026-07-02T22:49:08+03:00"
+      },
+      {
+        "title": "Bu köprüden geçmek cesaret istiyor, altına bakanların dizleri titriyor",
+        "link": "https://www.sozcu.com.tr/bu-kopruden-gecmek-cesaret-istiyor-altina-bakanlarin-dizleri-titriyor-p333259",
+        "description": "Bu köprüden geçmek cesaret istiyor, altına bakanların dizleri titriyor",
+        "source": "Sözcü",
+        "published": "2026-07-02T22:46:25+03:00"
+      },
+      {
+        "title": "Mesut Özarslan AKP'ye çabuk ısındı: Kendini akladı, Mansur Yavaş'ı suçladı",
+        "link": "https://www.sozcu.com.tr/mesut-ozarslan-dan-mansur-yavas-sozleri-p333257",
+        "description": "Mesut Özarslan AKP'ye çabuk ısındı: Kendini akladı, Mansur Yavaş'ı suçladı",
+        "source": "Sözcü",
+        "published": "2026-07-02T22:38:48+03:00"
+      },
+      {
         "title": "Dışişleri Bakanı Fidan: CAATSA yaptırımları kaldırılabilir",
         "link": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidan-caatsa-yaptirimlari-kaldirilabilir-1731162",
         "description": "Dışişleri Bakanı Hakan Fidan, ABD ve Türkiye'nin CAATSA yaptırımlarının kaldırılması için fikir birliğinde olduğunu ancak bunun bir süreç işi olduğunu söyledi. F-35 programına dönüşün ise konsorsiyum kararına bağlı olduğunu belirtti.",
@@ -595,27 +658,6 @@
         "published": "2026-07-02T21:45:18+03:00"
       },
       {
-        "title": "Yeni bir ada doğabilir",
-        "link": "https://www.sozcu.com.tr/yeni-bir-ada-dogabilir-p333253",
-        "description": "Yeni bir ada doğabilir",
-        "source": "Sözcü",
-        "published": "2026-07-02T21:31:29+03:00"
-      },
-      {
-        "title": "Netanyahu açılış töreninde eşinden fırça yedi",
-        "link": "https://www.sozcu.com.tr/netanyahu-acilis-toreninde-esinden-firca-yedi-p333251",
-        "description": "Netanyahu açılış töreninde eşinden fırça yedi",
-        "source": "Sözcü",
-        "published": "2026-07-02T21:20:54+03:00"
-      },
-      {
-        "title": "Beşiktaş, ilk hazırlık maçından galibiyetle ayrıldı",
-        "link": "https://www.sozcu.com.tr/besiktas-ilk-hazirlik-macindan-galibiyetle-ayrildi-p333246",
-        "description": "Beşiktaş, ilk hazırlık maçından galibiyetle ayrıldı",
-        "source": "Sözcü",
-        "published": "2026-07-02T20:45:21+03:00"
-      },
-      {
         "title": "Dışişleri Bakanlığı, Suriye'deki saldırıyı kınadı",
         "link": "https://www.ntv.com.tr/turkiye/disisleri-bakanligi-suriyedeki-saldiriyi-kinadi-1731161",
         "description": "Dışişleri Bakanlığı Suriye'nin başkenti Şam’da bir kafede gerçekleştirilen saldırıyı kınadı.",
@@ -623,32 +665,11 @@
         "published": "2026-07-02T20:45:15+03:00"
       },
       {
-        "title": "TIR’a çarpan otomobilde 1 ölü, 6’sı çocuk 8 yaralı",
-        "link": "https://www.sozcu.com.tr/tir-a-carpan-otomobilde-1-olu-6-si-cocuk-8-yarali-p333245",
-        "description": "TIR’a çarpan otomobilde 1 ölü, 6’sı çocuk 8 yaralı",
-        "source": "Sözcü",
-        "published": "2026-07-02T20:42:12+03:00"
-      },
-      {
-        "title": "Kendisi gelip teslim olan Deniz Göktaş'a Emniyet'te ters kelepçe taktılar",
-        "link": "https://www.sozcu.com.tr/deniz-goktas-emniyette-p333243",
-        "description": "Kendisi gelip teslim olan Deniz Göktaş'a Emniyet'te ters kelepçe taktılar",
-        "source": "Sözcü",
-        "published": "2026-07-02T20:34:47+03:00"
-      },
-      {
-        "title": "Yol yapımında yeni dönem: Balık ağlarını asfalta dönüştürdüler",
-        "link": "https://www.sozcu.com.tr/yol-yapiminda-yeni-donem-balik-aglarini-asfalta-donusturduler-p333242",
-        "description": "Yol yapımında yeni dönem: Balık ağlarını asfalta dönüştürdüler",
-        "source": "Sözcü",
-        "published": "2026-07-02T20:17:03+03:00"
-      },
-      {
-        "title": "Gülşah Durbay'ın ailesinden Gizem Altunsoy'a tepki",
-        "link": "https://www.sozcu.com.tr/gulsah-durbay-in-ailesinden-gizem-atasoy-a-tepki-p333240",
-        "description": "Gülşah Durbay'ın ailesinden Gizem Altunsoy'a tepki",
-        "source": "Sözcü",
-        "published": "2026-07-02T20:07:16+03:00"
+        "title": "Türkiye'den Euro Ödeme Alanı'na katılma başvurusu",
+        "link": "https://www.bbc.com/turkce/articles/cx2d9pvr93vo?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye ve Avrupa Birliği'nden ekonomi heyetleri bugün İstanbul Dolmabahçe'de Türkiye – AB Yüksek Düzeyli Ekonomik Diyalog toplantısı düzenledi. Toplantıda konuşan Hazine ve Maliye Bakanı Şimşek, Türkiye'nin Tek Euro Ödeme Alanı'na (SEPA) katılma...",
+        "source": "BBC Turkish",
+        "published": "2026-07-02T19:52:20+00:00"
       },
       {
         "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 02 Temmuz 2026",
@@ -714,20 +735,6 @@
         "published": "2026-07-02T15:23:34+03:00"
       },
       {
-        "title": "Düğün davetiyesi endişe nedeni; Birçok kişi düğüne gitmiyor",
-        "link": "https://www.ntv.com.tr/turkiye/video-dugun-davetiyesi-endise-nedeni-bircok-kisi-dugune-gitmiyor-1731119",
-        "description": "Artan maliyetler düğünleri de olumsuz etkiliyor. Eskiden düğünlere davet edilmemek kırgınlık sebebiyken, artık birçok kişi davet edilmediğine sevinir hale geldi. Ulaşım, kıyafet ve takı masrafları nedeniyle bir düğüne katılmanın maliyeti 10 binlerce...",
-        "source": "NTV",
-        "published": "2026-07-02T15:16:56+03:00"
-      },
-      {
-        "title": "5 gün boyunca 9 saat su kesintisi yaşanacak. 3-8 Temmuz BUSKİ su kesintisi listesi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-5-gun-boyunca-9-saat-su-kesintisi-yasanacak-3-8-temmuz-buski-su-kesintisi-listesi-1731128",
-        "description": "Bursa'da oturdukları semtlerde su kesintileri yaşayan vatandaşlar, 3-8 Temmuz tarihli BUSKİ su kesintisi programını araştırmaya başladı. Bursa Su ve Kanalizasyon İdaresi Genel Müdürlüğü (BUSKİ), 5 Ocak tarihli su kesintisi programını resmi internet...",
-        "source": "NTV",
-        "published": "2026-07-02T15:02:12+03:00"
-      },
-      {
         "title": "Rusya'nın Kiev'e düzenlediği geniş çaplı füze saldırılarında en az 20 kişi öldü",
         "link": "https://www.bbc.com/turkce/articles/cn0784njj71o?at_medium=RSS&at_campaign=rss",
         "description": "Ukraynalı yetkililer, Rus güçlerinin ülkenin başkenti Kiev'e gece saatlerinde büyük bir insansız hava aracı ve füze saldırısı düzenleyerek 18 kişinin ölümüne neden olduğunu açıkladı.",
@@ -747,13 +754,6 @@
         "description": "Meclis lokantasında stajyer öğrencilere cinsel istismar suçlamasıyla açılan davada sanıklar hakkında karar verildi.",
         "source": "BBC Turkish",
         "published": "2026-07-02T10:15:50+00:00"
-      },
-      {
-        "title": "Dünya Kupası'nın viral yıldızları sosyal medya şöhretini servete dönüştürebilir mi?",
-        "link": "https://www.bbc.com/turkce/articles/cly7887n7jyo?at_medium=RSS&at_campaign=rss",
-        "description": "Dünya Kupası'nda viral olan futbolcular milyonlarca yeni takipçi kazanırken, uzmanlara göre bu ani şöhret büyük kazanç fırsatları sunsa da kalıcı olmayabilir",
-        "source": "BBC Turkish",
-        "published": "2026-07-02T09:26:51+00:00"
       },
       {
         "title": "Yusuf Ziya Gümüşel'in tahliyesi dindar kadınlar arasında nasıl tartışılıyor?",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+72°F",
-    "wind": "↗3mph",
-    "humidity": "46%"
+    "temp": "+97°F",
+    "wind": "←5mph",
+    "humidity": "42%"
   }
 }
