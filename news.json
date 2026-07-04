@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-04T21:30:23.704525+00:00",
+  "updated_at": "2026-07-04T22:57:32.602141+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "link": "https://github.com/openai/codex/issues/30364",
+        "description": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 54 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-07-04T21:51:09+00:00"
+      },
       {
         "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
         "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
@@ -10,9 +17,16 @@
         "published": "2026-07-04T20:55:25+00:00"
       },
       {
+        "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+        "link": "https://arxiv.org/abs/2606.26967",
+        "description": "Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-04T20:38:39+00:00"
+      },
+      {
         "title": "Better Models: Worse Tools",
         "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-        "description": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 12 # Comments: 3",
+        "description": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 48 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-07-04T20:16:22+00:00"
       },
@@ -26,16 +40,9 @@
       {
         "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-        "description": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main Comments URL: https://news.ycombinator.com/item?id=48788283 Points: 129 # Comments: 66",
+        "description": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main Comments URL: https://news.ycombinator.com/item?id=48788283 Points: 246 # Comments: 106",
         "source": "HackerNews",
         "published": "2026-07-04T19:41:10+00:00"
-      },
-      {
-        "title": "Wicklow hotel cancels 'secretive' Peter Thiel group conference",
-        "link": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
-        "description": "Article URL: https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/ Comments URL: https://news.ycombinator.com/item?id=48787987 Points: 62 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-07-04T19:08:44+00:00"
       },
       {
         "title": "Telif Davasında Midjourney’den Stüdyolara Veri Paylaşımı Çağrısı",
@@ -68,14 +75,14 @@
       {
         "title": "Verizon is About to Break our Watches",
         "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-        "description": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches Comments URL: https://news.ycombinator.com/item?id=48787329 Points: 90 # Comments: 33",
+        "description": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches Comments URL: https://news.ycombinator.com/item?id=48787329 Points: 111 # Comments: 49",
         "source": "HackerNews",
         "published": "2026-07-04T17:52:36+00:00"
       },
       {
         "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
         "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-        "description": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper Comments URL: https://news.ycombinator.com/item?id=48787201 Points: 39 # Comments: 15",
+        "description": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper Comments URL: https://news.ycombinator.com/item?id=48787201 Points: 44 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-07-04T17:37:21+00:00"
       },
@@ -89,14 +96,14 @@
       {
         "title": "Game Boy Advance Dev: Logging to the Console",
         "link": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-        "description": "Article URL: https://www.mattgreer.dev/blog/gba-dev-logging/ Comments URL: https://news.ycombinator.com/item?id=48787001 Points: 15 # Comments: 1",
+        "description": "Article URL: https://www.mattgreer.dev/blog/gba-dev-logging/ Comments URL: https://news.ycombinator.com/item?id=48787001 Points: 20 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-07-04T17:12:00+00:00"
       },
       {
         "title": "EndBASIC 0.14: Are we multimedia yet?",
         "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-        "description": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html Comments URL: https://news.ycombinator.com/item?id=48786970 Points: 20 # Comments: 0",
+        "description": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html Comments URL: https://news.ycombinator.com/item?id=48786970 Points: 21 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-07-04T17:08:18+00:00"
       },
@@ -108,23 +115,16 @@
         "published": "2026-07-04T17:00:18+00:00"
       },
       {
-        "title": "Plein Air",
-        "link": "https://art.joonas.wtf/",
-        "description": "Article URL: https://art.joonas.wtf/ Comments URL: https://news.ycombinator.com/item?id=48786880 Points: 47 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-07-04T16:55:29+00:00"
-      },
-      {
         "title": "Finland's last analogue landline phones go silent after 150 years",
         "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-        "description": "Article URL: https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years Comments URL: https://news.ycombinator.com/item?id=48786868 Points: 71 # Comments: 17",
+        "description": "Article URL: https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years Comments URL: https://news.ycombinator.com/item?id=48786868 Points: 81 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-07-04T16:54:02+00:00"
       },
       {
         "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
         "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-        "description": "Article URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234 Comments URL: https://news.ycombinator.com/item?id=48786838 Points: 224 # Comments: 108",
+        "description": "Article URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234 Comments URL: https://news.ycombinator.com/item?id=48786838 Points: 269 # Comments: 143",
         "source": "HackerNews",
         "published": "2026-07-04T16:51:26+00:00"
       },
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "NHS app to use AI to determine which service best for patients",
+        "link": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&at_campaign=rss",
+        "description": "The update will be available to all users in England by April 2028, the health service says.",
+        "source": "BBC News",
+        "published": "2026-07-04T21:32:08+00:00"
+      },
+      {
         "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
         "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
         "description": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had...",
@@ -411,9 +418,9 @@
         "published": "2026-07-04T15:05:27+00:00"
       },
       {
-        "title": "Washington's July 4 parade is off. The fireworks are still on",
+        "title": "Washington's July 4 parade is called off. The fireworks are still on",
         "link": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
-        "description": "Organizers called off the Independence Day Parade late Friday, citing an extreme heat warning with temperatures expected to reach up to 115 degrees. The evening fireworks display remains scheduled.",
+        "description": "Organizers canceled the Independence Day Parade late Friday, citing an extreme heat warning with temperatures expected to reach up to 115 degrees. The evening fireworks display remains scheduled.",
         "source": "NPR",
         "published": "2026-07-04T12:42:10-04:00"
       },
@@ -423,13 +430,6 @@
         "description": "As Starmer gets ready to pack his bags, there's a \"bunfight for jobs\" in Whitehall, one MP tells Laura Kuenssberg.",
         "source": "BBC News",
         "published": "2026-07-04T12:19:05+00:00"
-      },
-      {
-        "title": "Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn",
-        "link": "https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo?at_medium=RSS&at_campaign=rss",
-        "description": "England's last-16 World Cup tie will kick off at 01:00 BST on Monday, after Fifa reconsidered bringing it forward.",
-        "source": "BBC News",
-        "published": "2026-07-04T12:13:46+00:00"
       },
       {
         "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
@@ -567,25 +567,53 @@
     ],
     "turkiye": [
       {
+        "title": "Dünya Kupası'nda tarihi sıcaklık! Koltuklar adeta alev aldı",
+        "link": "https://www.sozcu.com.tr/dunya-kupasi-nda-tarihi-sicaklik-koltuklar-adeta-alev-aldi-p333781",
+        "description": "Dünya Kupası'nda tarihi sıcaklık! Koltuklar adeta alev aldı",
+        "source": "Sözcü",
+        "published": "2026-07-05T01:48:18+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-temmuz-2026-1731450",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-05T00:30:00+03:00"
+        "published": "2026-07-05T01:30:00+03:00"
+      },
+      {
+        "title": "Filyos Sahili'ne askeri İHA vurdu. İnceleme başlatıldı",
+        "link": "https://www.ntv.com.tr/turkiye/filyos-sahiline-askeri-iha-vurdu-inceleme-baslatildi-1731454",
+        "description": "Zonguldak'ta Karadeniz sahiline, askeri amaçlı olduğu değerlendirilen bir insansız hava aracının (İHA) vurması üzerine bölgede geniş güvenlik önlemleri alındı.",
+        "source": "NTV",
+        "published": "2026-07-05T01:20:46+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan’ın başdanışmanından Deniz Göktaş paylaşımı",
+        "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-in-basdanismanindan-deniz-goktas-paylasimi-p333780",
+        "description": "Cumhurbaşkanı Erdoğan’ın başdanışmanından Deniz Göktaş paylaşımı",
+        "source": "Sözcü",
+        "published": "2026-07-05T01:10:03+03:00"
       },
       {
         "title": "Deniz Göktaş’ın avukatından bomba iddia: Ters kelepçe görüntüleri 5 kez prova edilmiş, uyuşturucu testi için örnek alınmış",
         "link": "https://www.sozcu.com.tr/deniz-goktas-in-avukatindan-bomba-iddia-ters-kelepce-goruntuleri-5-kez-prova-edilmis-uyusturucu-p333775",
         "description": "Deniz Göktaş’ın avukatından bomba iddia: Ters kelepçe görüntüleri 5 kez prova edilmiş, uyuşturucu testi için örnek alınm...",
         "source": "Sözcü",
-        "published": "2026-07-05T00:15:53+03:00"
+        "published": "2026-07-05T00:53:16+03:00"
       },
       {
-        "title": "Hamaney'in cenazesinde milyonarca İranlı intikam yemini etti",
-        "link": "https://www.sozcu.com.tr/hamaney-in-cenazesinde-milyonarca-iranli-intikam-yemini-etti-p333757",
-        "description": "Hamaney'in cenazesinde milyonarca İranlı intikam yemini etti",
+        "title": "Şişli'de McDonalds şubesine saldırı",
+        "link": "https://www.sozcu.com.tr/sisli-de-mcdonalds-subesine-saldiri-p333778",
+        "description": "Şişli'de McDonalds şubesine saldırı",
         "source": "Sözcü",
-        "published": "2026-07-05T00:01:33+03:00"
+        "published": "2026-07-05T00:45:46+03:00"
+      },
+      {
+        "title": "Malatya Pütürge'de orman yangını",
+        "link": "https://www.sozcu.com.tr/malatya-puturge-de-orman-yangini-p333777",
+        "description": "Malatya Pütürge'de orman yangını",
+        "source": "Sözcü",
+        "published": "2026-07-05T00:42:42+03:00"
       },
       {
         "title": "Enkazdan 248. saatte kurtarılmıştı. Mucize kız Aleyna mezun oldu",
@@ -630,27 +658,6 @@
         "published": "2026-07-04T22:06:38+03:00"
       },
       {
-        "title": "Rahmi Koç en değerli mirasını bağışladı",
-        "link": "https://www.sozcu.com.tr/rahmi-koc-en-degerli-mirasini-bagisladi-p333759",
-        "description": "Rahmi Koç en değerli mirasını bağışladı",
-        "source": "Sözcü",
-        "published": "2026-07-04T21:53:01+03:00"
-      },
-      {
-        "title": "Avustralyalı futbolcu Tete Yengi Müslüman olduğunu açıkladı",
-        "link": "https://www.sozcu.com.tr/avustralyali-futbolcu-tete-yengi-musluman-oldugunu-acikladi-p333760",
-        "description": "Avustralyalı futbolcu Tete Yengi Müslüman olduğunu açıkladı",
-        "source": "Sözcü",
-        "published": "2026-07-04T21:49:47+03:00"
-      },
-      {
-        "title": "Hüseyin Çelik'ten AKP'ye Payitaht dizisi eleştirisi: \"Muhafazakar camia bir Hamidizm çıkardı\"",
-        "link": "https://www.sozcu.com.tr/huseyin-celik-ten-akp-ye-payitaht-dizisi-elestirisi-muhafazakar-camia-bir-hamidizm-cikardi-p333758",
-        "description": "Hüseyin Çelik'ten AKP'ye Payitaht dizisi eleştirisi: \"Muhafazakar camia bir Hamidizm çıkardı\"",
-        "source": "Sözcü",
-        "published": "2026-07-04T21:40:54+03:00"
-      },
-      {
         "title": "TAYFUN Blok-3 füzesi ilke imza attı",
         "link": "https://www.ntv.com.tr/turkiye/tayfun-blok-3-fuzesi-ilke-imza-atti-1731439",
         "description": "TAYFUN Blok-3 füzesi, uzun menzilde ilk kez su üstü hareketli hedefi cerrahi hassasiyetle imha etti.",
@@ -691,13 +698,6 @@
         "description": "Düzce'de temizlik işçisi, yol kenarında bulduğu altın dolu çantayı polise teslim etti.",
         "source": "NTV",
         "published": "2026-07-04T19:11:16+03:00"
-      },
-      {
-        "title": "Malatya'da orman yangını. Ekiplerin müdahalesi sürüyor",
-        "link": "https://www.ntv.com.tr/turkiye/kutahyada-orman-yangini-cikti-1731419",
-        "description": "Kütahya'da ve Malatya'da öğle saatlerinde orman yangını çıktı. Kütahya'daki yangın kontrol altına alındı.",
-        "source": "NTV",
-        "published": "2026-07-04T16:29:49+03:00"
       },
       {
         "title": "Ukrayna'dan St. Petersburg'a İHA saldırısı: Petrol terminali vuruldu",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8743
   },
   "weather": {
-    "condition": "Light Rain With Thunderstorm, Mist",
-    "temp": "+70°F",
-    "wind": "↙7mph",
-    "humidity": "93%"
+    "condition": "Güneşli",
+    "temp": "+85°F",
+    "wind": "↓6mph",
+    "humidity": "58%"
   }
 }
