@@ -1,13 +1,41 @@
 {
-  "updated_at": "2026-07-05T10:18:08.364155+00:00",
+  "updated_at": "2026-07-05T11:53:53.852360+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Kodlama Araçlarında Gizli Tehlike: Claude Code Saldırı Altında",
+        "link": "https://shiftdelete.net/kodlama-araclarinda-gizli-tehlike-claude-code-saldiri-altinda",
+        "description": "Claude Code aracında keşfedilen kritik güvenlik açığı, geliştiricilerin cihazlarını nasıl riske atıyor? İşte detaylar ve uzmanların uyarıları.",
+        "source": "ShiftDelete",
+        "published": "2026-07-05T11:00:00+00:00"
+      },
+      {
+        "title": "Pi square is nearly 10",
+        "link": "https://mihai.page/pi-square-is-10/",
+        "description": "Article URL: https://mihai.page/pi-square-is-10/ Comments URL: https://news.ycombinator.com/item?id=48793073 Points: 10 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-05T10:50:53+00:00"
+      },
       {
         "title": "R10.net Üzerindeki Erişim Kısıtlaması Kaldırıldı",
         "link": "https://shiftdelete.net/r10-net-uzerindeki-erisim-kisitlamasi-kaldirildi",
         "description": "Türkiye'nin önemli webmaster platformu R10.net üzerindeki erişim engeli mahkeme kararıyla kaldırıldı. Süreç ve detaylar haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-07-05T10:00:00+00:00"
+      },
+      {
+        "title": "Europe's new climate in seven charts",
+        "link": "https://www.bbc.com/news/articles/c8e2j0j87reo",
+        "description": "Article URL: https://www.bbc.com/news/articles/c8e2j0j87reo Comments URL: https://news.ycombinator.com/item?id=48792790 Points: 39 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-07-05T09:56:10+00:00"
+      },
+      {
+        "title": "Scientist who cleaned space toilet on work now leading Mars exploration",
+        "link": "https://www.bbc.com/news/articles/cz758x04g83o",
+        "description": "Article URL: https://www.bbc.com/news/articles/cz758x04g83o Comments URL: https://news.ycombinator.com/item?id=48792780 Points: 9 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-05T09:55:22+00:00"
       },
       {
         "title": "Epic Games Store’un Haftalık Ücretsiz Oyunları Belli Oldu",
@@ -17,18 +45,18 @@
         "published": "2026-07-05T09:00:00+00:00"
       },
       {
-        "title": "Apocketlypse",
-        "link": "https://0dd.company/galleries/triumph/1.html",
-        "description": "Article URL: https://0dd.company/galleries/triumph/1.html Comments URL: https://news.ycombinator.com/item?id=48792352 Points: 13 # Comments: 1",
+        "title": "Claude Design System Prompt",
+        "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "description": "Article URL: https://github.com/Trystan-SA/claude-design-system-prompt Comments URL: https://news.ycombinator.com/item?id=48792399 Points: 18 # Comments: 1",
         "source": "HackerNews",
-        "published": "2026-07-05T08:32:09+00:00"
+        "published": "2026-07-05T08:43:37+00:00"
       },
       {
-        "title": "Web-based cryptography is always snake oil",
-        "link": "https://www.devever.net/~hl/webcrypto",
-        "description": "Article URL: https://www.devever.net/~hl/webcrypto Comments URL: https://news.ycombinator.com/item?id=48792203 Points: 21 # Comments: 21",
+        "title": "Apocketlypse",
+        "link": "https://0dd.company/galleries/triumph/1.html",
+        "description": "Article URL: https://0dd.company/galleries/triumph/1.html Comments URL: https://news.ycombinator.com/item?id=48792352 Points: 26 # Comments: 3",
         "source": "HackerNews",
-        "published": "2026-07-05T08:01:29+00:00"
+        "published": "2026-07-05T08:32:09+00:00"
       },
       {
         "title": "Google AI Plus ve AI Pro Hangi Özellikleri Sunuyor?",
@@ -38,25 +66,18 @@
         "published": "2026-07-05T08:00:00+00:00"
       },
       {
-        "title": "Programmers need to start meditating now",
+        "title": "Programmers need to start meditating",
         "link": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-        "description": "Article URL: https://jacob.gold/posts/programmers-need-to-start-meditating-now/ Comments URL: https://news.ycombinator.com/item?id=48792080 Points: 27 # Comments: 15",
+        "description": "Article URL: https://jacob.gold/posts/programmers-need-to-start-meditating-now/ Comments URL: https://news.ycombinator.com/item?id=48792080 Points: 84 # Comments: 83",
         "source": "HackerNews",
         "published": "2026-07-05T07:39:35+00:00"
       },
       {
         "title": "Fast Software, the Best Software",
         "link": "https://craigmod.com/essays/fast_software/",
-        "description": "Article URL: https://craigmod.com/essays/fast_software/ Comments URL: https://news.ycombinator.com/item?id=48792008 Points: 9 # Comments: 0",
+        "description": "Article URL: https://craigmod.com/essays/fast_software/ Comments URL: https://news.ycombinator.com/item?id=48792008 Points: 34 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-07-05T07:25:25+00:00"
-      },
-      {
-        "title": "Reducing Assumptions, Exploding Your Code",
-        "link": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
-        "description": "Article URL: https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/ Comments URL: https://news.ycombinator.com/item?id=48791990 Points: 6 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-05T07:22:08+00:00"
       },
       {
         "title": "Google’dan 1776 Temalı Reklam: Kurucu Babalar Workspace Kullansaydı Ne Olurdu?",
@@ -66,16 +87,9 @@
         "published": "2026-07-05T07:00:00+00:00"
       },
       {
-        "title": "Is The Economist Always Wrong?",
-        "link": "https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-        "description": "Article URL: https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong Comments URL: https://news.ycombinator.com/item?id=48791799 Points: 40 # Comments: 33",
-        "source": "HackerNews",
-        "published": "2026-07-05T06:40:05+00:00"
-      },
-      {
         "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-        "description": "Article URL: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/ Comments URL: https://news.ycombinator.com/item?id=48791708 Points: 45 # Comments: 52",
+        "description": "Article URL: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/ Comments URL: https://news.ycombinator.com/item?id=48791708 Points: 55 # Comments: 59",
         "source": "HackerNews",
         "published": "2026-07-05T06:19:34+00:00"
       },
@@ -89,7 +103,7 @@
       {
         "title": "Megawatts by Microwave",
         "link": "https://computer.rip/2026-07-04-microwave-and-power.html",
-        "description": "Article URL: https://computer.rip/2026-07-04-microwave-and-power.html Comments URL: https://news.ycombinator.com/item?id=48791591 Points: 23 # Comments: 2",
+        "description": "Article URL: https://computer.rip/2026-07-04-microwave-and-power.html Comments URL: https://news.ycombinator.com/item?id=48791591 Points: 31 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-07-05T05:56:03+00:00"
       },
@@ -103,16 +117,9 @@
       {
         "title": "Shadcn/UI now defaults to Base UI instead of Radix",
         "link": "https://ui.shadcn.com/docs/changelog",
-        "description": "Article URL: https://ui.shadcn.com/docs/changelog Comments URL: https://news.ycombinator.com/item?id=48791328 Points: 126 # Comments: 39",
+        "description": "Article URL: https://ui.shadcn.com/docs/changelog Comments URL: https://news.ycombinator.com/item?id=48791328 Points: 157 # Comments: 59",
         "source": "HackerNews",
         "published": "2026-07-05T04:46:08+00:00"
-      },
-      {
-        "title": "Moby Dick Workout (2022)",
-        "link": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-        "description": "Article URL: https://www.hogbaysoftware.com/posts/moby-dick-workout/ Comments URL: https://news.ycombinator.com/item?id=48791266 Points: 44 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-07-05T04:30:33+00:00"
       },
       {
         "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -141,13 +148,6 @@
         "description": "Güney Koreli teknoloji devi Samsung, merakla beklenen yeni katlanabilir telefon serisi Galaxy Z Fold 8 için son hazırlıklarını sürdürürken, cihazların Avrupa pazarındaki perakende fiyat etiketleri şimdiden gün yüzüne çıkıyor. Samsung’un bu yılki...",
         "source": "ShiftDelete",
         "published": "2026-07-04T18:30:13+00:00"
-      },
-      {
-        "title": "7 İnçlik Yeni Redmi Modeli Yolda",
-        "link": "https://shiftdelete.net/7-inclik-yeni-redmi-modeli-yolda",
-        "description": "Akıllı telefon pazarında ekran boyutları her geçen gün büyümeye devam ediyor. Güvenilir sızıntı kaynaklarından gelen son bilgilere göre, Xiaomi’nin popüler alt markası Redmi, standartların oldukça üzerine çıkarak 7 inç boyutunda devasa bir ekrana...",
-        "source": "ShiftDelete",
-        "published": "2026-07-04T18:00:30+00:00"
       },
       {
         "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
@@ -355,11 +355,18 @@
     ],
     "dunya": [
       {
-        "title": "Farage denies rules broken after reports benefits from ally were not declared",
+        "title": "Reform denies rules broken by Farage after reports benefits from ally were not declared",
         "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
         "description": "The Sunday Times says the Reform UK leader failed to register the support supplied by a man who had been convicted of fraud in the US.",
         "source": "BBC News",
-        "published": "2026-07-05T09:51:44+00:00"
+        "published": "2026-07-05T11:06:07+00:00"
+      },
+      {
+        "title": "England enter the Azteca - where football kings are crowned",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
+        "source": "BBC News",
+        "published": "2026-07-05T08:26:39+00:00"
       },
       {
         "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
@@ -367,6 +374,27 @@
         "description": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
         "source": "BBC News",
         "published": "2026-07-05T08:24:32+00:00"
+      },
+      {
+        "title": "Staying up for the match? How to handle a 1am kick-off",
+        "link": "https://www.bbc.co.uk/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss",
+        "description": "Forget blocks and tackles, this is the tactical plan you need for the football.",
+        "source": "BBC News",
+        "published": "2026-07-05T08:18:30+00:00"
+      },
+      {
+        "title": "Mexico return luxury watches gifted by YouTuber",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
+        "description": "World Cup co-hosts Mexico - who play England on Sunday night - return luxury watches gifted to them by a content creator because Fifa rules prohibit expensive gifts.",
+        "source": "BBC News",
+        "published": "2026-07-05T07:57:34+00:00"
+      },
+      {
+        "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+        "link": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
+        "description": "The husband of former House Speaker Nancy Pelosi was involved in a hit-and-run in California that left a parked car with \"major\" damage, authorities said Saturday.",
+        "source": "NPR",
+        "published": "2026-07-05T06:28:42-04:00"
       },
       {
         "title": "How Iran's new regime is very different to what came before",
@@ -390,18 +418,11 @@
         "published": "2026-07-05T02:15:19+00:00"
       },
       {
-        "title": "How Manchester became an 'influencer heaven'",
-        "link": "https://www.bbc.co.uk/news/articles/cp8p8y937ydo?at_medium=RSS&at_campaign=rss",
-        "description": "Influencers are showing the world why they think Manchester is a great place it is to live.",
+        "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+        "description": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
         "source": "BBC News",
-        "published": "2026-07-05T01:52:18+00:00"
-      },
-      {
-        "title": "What Sky buying ITV could mean for your favourite shows",
-        "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
-        "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
-        "source": "BBC News",
-        "published": "2026-07-04T23:23:51+00:00"
+        "published": "2026-07-05T01:53:01+00:00"
       },
       {
         "title": "Prince Harry and Meghan: Will they or won't they, and will we care?",
@@ -409,13 +430,6 @@
         "description": "There will be much attention on whether the Duke of Sussex can build bridges with his family.",
         "source": "BBC News",
         "published": "2026-07-04T23:18:36+00:00"
-      },
-      {
-        "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-        "description": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-        "source": "BBC News",
-        "published": "2026-07-04T23:17:24+00:00"
       },
       {
         "title": "Watch: Lyse Doucet in Tehran as huge funeral for Iran's former supreme leader takes place",
@@ -430,13 +444,6 @@
         "description": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had...",
         "source": "The Guardian",
         "published": "2026-07-04T20:32:52+00:00"
-      },
-      {
-        "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&at_campaign=rss",
-        "description": "The former home secretary has co-authored a major report that has found the running of forces in England and Wales needs a \"fundamental overhaul\".",
-        "source": "BBC News",
-        "published": "2026-07-04T19:36:58+00:00"
       },
       {
         "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
@@ -516,13 +523,6 @@
         "published": "2026-07-04T01:04:16-04:00"
       },
       {
-        "title": "Reflections on America's 250th birthday",
-        "link": "https://www.npr.org/2026/07/04/nx-s1-5876246/reflections-on-americas-250th-birthday",
-        "description": "NPR member station reporters across the U.S. asked people how they are thinking about their country on its semiquincentennial.",
-        "source": "NPR",
-        "published": "2026-07-04T00:00:00-04:00"
-      },
-      {
         "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
         "link": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
         "description": "Port expansion and protections for whales part of BC and Alberta plan to expand country’s presence overseas The governments of Canada and the province of Alberta will move forward on a major new oil pipeline after the pair announced a plan to ease...",
@@ -567,6 +567,104 @@
     ],
     "turkiye": [
       {
+        "title": "Korkunç kaza: Sürücü adayı fren yerine gaza bastı",
+        "link": "https://www.ntv.com.tr/turkiye/video-korkunc-kaza-surucu-adayi-fren-yerine-gaza-basti-1731564",
+        "description": "Avcılar'da M.A., direksiyon çalışması yapmak için kızı M.A. ile gittiği sürücü eğitim alanında otomobili park etmek isterken iddiaya göre fren yerine gaza bastı.",
+        "source": "NTV",
+        "published": "2026-07-05T14:51:34+03:00"
+      },
+      {
+        "title": "Yollar daha dayanıklı olsun diye lastikleri bir bir yaktılar",
+        "link": "https://www.sozcu.com.tr/yollar-daha-dayanikli-olsun-diye-lastikleri-bir-bir-yaktilar-p333914",
+        "description": "Yollar daha dayanıklı olsun diye lastikleri bir bir yaktılar",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:48:10+03:00"
+      },
+      {
+        "title": "Fenerbahçe'den resmi açıklama: Alacağı ücret Türkiye'de ilk",
+        "link": "https://www.sozcu.com.tr/fenerbahce-den-resmi-aciklama-alacagi-ucret-turkiye-de-ilk-p333907",
+        "description": "Fenerbahçe'den resmi açıklama: Alacağı ücret Türkiye'de ilk",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:48:10+03:00"
+      },
+      {
+        "title": "Hulusi Akar'dan Meclis'te muhalefete tuzak",
+        "link": "https://www.sozcu.com.tr/hulusi-akar-dan-muhalefete-meclis-tuzagi-p333909",
+        "description": "Hulusi Akar'dan Meclis'te muhalefete tuzak",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:41:13+03:00"
+      },
+      {
+        "title": "Trump'ın kızı Necla yine sosyal medyanın diline düştü! O babasını kızı da onu arıyor",
+        "link": "https://www.sozcu.com.tr/trump-in-kizi-necla-yine-sosyal-medyanin-diline-dustu-o-babasini-kizi-da-onu-ariyor-p333911",
+        "description": "Trump'ın kızı Necla yine sosyal medyanın diline düştü! O babasını kızı da onu arıyor",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:39:22+03:00"
+      },
+      {
+        "title": "Muğla'da feci ölüm! Kıraathanede otururken minibüsün altında kaldı",
+        "link": "https://www.sozcu.com.tr/mugla-da-feci-olum-kiraathanede-otururken-minibusun-altinda-kaldi-p333910",
+        "description": "Muğla'da feci ölüm! Kıraathanede otururken minibüsün altında kaldı",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:38:31+03:00"
+      },
+      {
+        "title": "Bülent Şakrak ve 17 yaş küçük sevgilisinden aşk pozu: 'Meydan kız görsün'",
+        "link": "https://www.sozcu.com.tr/bulent-sakrak-ve-17-yas-kucuk-sevgilisinden-ask-pozu-meydan-kiz-gorsun-p333904",
+        "description": "Bülent Şakrak ve 17 yaş küçük sevgilisinden aşk pozu: 'Meydan kız görsün'",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:37:56+03:00"
+      },
+      {
+        "title": "Beşiktaş'ta 'çArşı' karıştı: Açıklamalar peş peşe geldi",
+        "link": "https://www.sozcu.com.tr/besiktas-ta-carsi-karisti-aciklamalar-pes-pese-geldi-p333906",
+        "description": "Beşiktaş'ta 'çArşı' karıştı: Açıklamalar peş peşe geldi",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:22:55+03:00"
+      },
+      {
+        "title": "RTÜK'ten NATO Zirvesi öncesi bilgilendirme",
+        "link": "https://www.ntv.com.tr/turkiye/rtukten-nato-zirvesi-oncesi-bilgilendirme-1731559",
+        "description": "Radyo ve Televizyon Üst Kurulu (RTÜK), Ankara'da düzenlenecek NATO Zirvesi öncesi yayıncı kuruluşları bilgilendirdi.",
+        "source": "NTV",
+        "published": "2026-07-05T14:16:12+03:00"
+      },
+      {
+        "title": "ABD'de havada panik! Uçağa havai fişek isabet etti",
+        "link": "https://www.sozcu.com.tr/abd-de-havada-panik-ucaga-havai-fisek-isabet-etti-p333902",
+        "description": "ABD'de havada panik! Uçağa havai fişek isabet etti",
+        "source": "Sözcü",
+        "published": "2026-07-05T14:12:44+03:00"
+      },
+      {
+        "title": "30 yıldır yiyordu bu sefer hastanelik oldu",
+        "link": "https://www.ntv.com.tr/turkiye/30-yildir-yiyordu-bu-sefer-hastanelik-oldu-1731553",
+        "description": "Erzurum'da bir kişi mantar zehirlenmesi şüphesiyle hastaneye kaldırıldı.",
+        "source": "NTV",
+        "published": "2026-07-05T13:53:04+03:00"
+      },
+      {
+        "title": "Fenerbahçe'de bir isim daha kampa katılacak",
+        "link": "https://www.sozcu.com.tr/fenerbahce-de-bir-isim-daha-kampa-katildi-p333898",
+        "description": "Fenerbahçe'de bir isim daha kampa katılacak",
+        "source": "Sözcü",
+        "published": "2026-07-05T13:30:38+03:00"
+      },
+      {
+        "title": "Düğün konvoyuyla trafiği kitlediler: 289 bin 986 lira ceza",
+        "link": "https://www.ntv.com.tr/turkiye/video-dugun-konvoyuyla-trafigi-kitlediler-289-bin-986-lira-ceza-1731550",
+        "description": "Pendik'te düğün konvoyu sırasında yolu kapatarak trafiği tehlikeye düşüren sürücüler, sanal medya da paylaşılan görüntülerin ardından polis ekiplerinin çalışmasıyla tespit edildi. Kimlikleri belirlenen 6 sürücüye toplam 289 bin 986 lira ceza yazıldı.",
+        "source": "NTV",
+        "published": "2026-07-05T13:30:38+03:00"
+      },
+      {
+        "title": "Dünyanın gözü NATO Zirvesi için Ankara'da: Belirsizlikler döneminde hangi kararlar alınacak?",
+        "link": "https://www.ntv.com.tr/turkiye/dunyanin-gozu-nato-zirvesi-icin-ankarada-belirsizlikler-doneminde-hangi-kararlar-alinacak-1731549",
+        "description": "NATO ittifak tarihinin en önemli toplantılarından biri Ankara'da yapılacak. Türkiye, İttifak'ın yeni dönemine yön verecek kritik görüşmelere ev sahipliği yapacak.",
+        "source": "NTV",
+        "published": "2026-07-05T13:25:02+03:00"
+      },
+      {
         "title": "Malatya'da feci kaza: İki ölü, dört ağır yaralı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-malatyada-feci-kaza-iki-olu-dort-agir-yarali-1731548",
         "description": "Malatya'da ağaca çarpan otomobildeki iki kişi öldü, üçü çocuk dört kişi ağır yaralandı.",
@@ -595,20 +693,6 @@
         "published": "2026-07-05T13:01:27+03:00"
       },
       {
-        "title": "Çölün ortasına dünyanın en büyük askeri karargahı kuruldu: Pentagon bile gölgesinde kaldı",
-        "link": "https://www.sozcu.com.tr/colun-ortasina-dunyanin-en-buyuk-askeri-karargahi-kuruldu-pentagon-bile-golgesinde-kaldi-p333895",
-        "description": "Çölün ortasına dünyanın en büyük askeri karargahı kuruldu: Pentagon bile gölgesinde kaldı",
-        "source": "Sözcü",
-        "published": "2026-07-05T12:56:05+03:00"
-      },
-      {
-        "title": "Jürgen Klopp geri döndü: Yeni adresi belli oldu",
-        "link": "https://www.sozcu.com.tr/jurgen-klopp-geri-dondu-yeni-adresi-belli-oldu-p333894",
-        "description": "Jürgen Klopp geri döndü: Yeni adresi belli oldu",
-        "source": "Sözcü",
-        "published": "2026-07-05T12:54:27+03:00"
-      },
-      {
         "title": "Apartman görevlisi ile kadın motokurye arasında asansör kullanımı tartışması karakolluk oldu",
         "link": "https://www.ntv.com.tr/turkiye/video-apartman-gorevlisi-ile-kadin-motokurye-arasinda-asansor-kullanimi-tartismasi-karakolluk-oldu-1731535",
         "description": "Antalya'da motokurye ile apartman görevlisi arasında asansör kullanımı nedeniyle çıkan tartışma kask kamerasına yansıdı. Apartman görevlisi olduğu öğrenilen şahıs kadın motokuryeye asansörü kullanamayacağını yürüyerek çıkmasını söyledikten sonra...",
@@ -623,88 +707,11 @@
         "published": "2026-07-05T12:45:43+03:00"
       },
       {
-        "title": "Ömer Kutluay sahada parladı, eski eşler tribünde coştu",
-        "link": "https://www.sozcu.com.tr/omer-kutluay-sahada-parladi-ailesi-tribunde-costu-p333884",
-        "description": "Ömer Kutluay sahada parladı, eski eşler tribünde coştu",
-        "source": "Sözcü",
-        "published": "2026-07-05T12:36:39+03:00"
-      },
-      {
-        "title": "Jose Mourinho'dan Arda Güler kararı: Milli yıldızı 4 kişilik listeye yazdı",
-        "link": "https://www.sozcu.com.tr/jose-mourinho-dan-arda-guler-karari-milli-yildizi-4-kisilik-listeye-yazdi-p333887",
-        "description": "Jose Mourinho'dan Arda Güler kararı: Milli yıldızı 4 kişilik listeye yazdı",
-        "source": "Sözcü",
-        "published": "2026-07-05T12:36:05+03:00"
-      },
-      {
-        "title": "Çok sayıda kentte sabaha karşı NATO gözaltıları!",
-        "link": "https://www.sozcu.com.tr/cok-sayida-kentte-sabaha-karsi-nato-gozaltilari-p333880",
-        "description": "Çok sayıda kentte sabaha karşı NATO gözaltıları!",
-        "source": "Sözcü",
-        "published": "2026-07-05T12:15:55+03:00"
-      },
-      {
-        "title": "Kızılcık Şerbeti Fatih askerden döndü: Kaç kilo verdiğini açıkladı",
-        "link": "https://www.sozcu.com.tr/kizilcik-serbeti-fatih-askerden-dondu-kac-kilo-verdigini-acikladi-p333878",
-        "description": "Kızılcık Şerbeti Fatih askerden döndü: Kaç kilo verdiğini açıkladı",
-        "source": "Sözcü",
-        "published": "2026-07-05T12:13:47+03:00"
-      },
-      {
-        "title": "AKP kurucusundan AKP'lileri sarsacak sözler: 'Erdoğan'dan sonra yaşamaz'",
-        "link": "https://www.sozcu.com.tr/akp-kurucusundan-akp-lileri-sarsacak-sozler-erdogan-dan-sonra-yasamaz-p333872",
-        "description": "AKP kurucusundan AKP'lileri sarsacak sözler: 'Erdoğan'dan sonra yaşamaz'",
-        "source": "Sözcü",
-        "published": "2026-07-05T12:04:23+03:00"
-      },
-      {
-        "title": "Özgür Özel'in masasına dün bu anket konuldu",
-        "link": "https://www.sozcu.com.tr/ozgur-ozel-in-masasina-dun-bu-anket-konuldu-p333874",
-        "description": "Özgür Özel'in masasına dün bu anket konuldu",
-        "source": "Sözcü",
-        "published": "2026-07-05T11:59:00+03:00"
-      },
-      {
-        "title": "Kargoyla gönderilen sahte belgeler ele geçirildi",
-        "link": "https://www.ntv.com.tr/turkiye/kargoyla-gonderilen-sahte-belgeler-ele-gecirildi-1731521",
-        "description": "İstanbul’da kargo yoluyla yurt dışına gönderilmek istenen çok sayıda sahte pasaport, kimlik ve ehliyet ele geçirildi.",
-        "source": "NTV",
-        "published": "2026-07-05T11:50:43+03:00"
-      },
-      {
-        "title": "91 milyon yıl sonra ormanda yeniden dirildi: Kimse kesmesin diye yeri sır gibi saklanıyor",
-        "link": "https://www.sozcu.com.tr/91-milyon-yil-sonra-ormanda-yeniden-dirildi-kimse-kesmesin-diye-yeri-sir-gibi-saklaniyor-p333875",
-        "description": "91 milyon yıl sonra ormanda yeniden dirildi: Kimse kesmesin diye yeri sır gibi saklanıyor",
-        "source": "Sözcü",
-        "published": "2026-07-05T11:50:39+03:00"
-      },
-      {
-        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 05 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-05-temmuz-2026-1731525",
-        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 05 Temmuz 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
-        "source": "NTV",
-        "published": "2026-07-05T11:40:00+03:00"
-      },
-      {
-        "title": "Gizemli ölümün ardından töre cinayeti çıktı: Altı şüpheli tutuklandı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-gizemli-olumun-ardindan-tore-cinayeti-cikti-alti-supheli-tutuklandi-1731520",
-        "description": "Batman'da 19 yıl önce işlenen ve DNA testiyle aydınlatılan töre cinayetine ilişkin soruşturmada altı şüpheli tutuklandı.",
-        "source": "NTV",
-        "published": "2026-07-05T11:33:48+03:00"
-      },
-      {
-        "title": "Avcılar'da dehşet! 26 yıl önce boşandığı adam boynundan bıçakladı",
-        "link": "https://www.ntv.com.tr/turkiye/avcilarda-dehset-26-yil-once-bosandigi-adam-boynundan-bicakladi-1731516",
-        "description": "Avcılar'da bir kadın 26 yıl önce boşandığı eşi tarafından boynundan bıçaklandı.",
-        "source": "NTV",
-        "published": "2026-07-05T11:20:30+03:00"
-      },
-      {
-        "title": "Komşu esnafların müşteri rekabeti kavgayla bitti",
-        "link": "https://www.ntv.com.tr/turkiye/video-komsu-esnaflarin-musteri-rekabeti-kavgayla-bitti-1731514",
-        "description": "Şanlıurfa'da komşu iki esnafın yaklaşık 2 hafta öce yaşadığı müşteri kapma kavgası güvenlik kamerasına yansıdı. Kavgada 2 esnaf ile onları ayırmaya çalışan 2 müşteri yaralandı.",
-        "source": "NTV",
-        "published": "2026-07-05T11:14:26+03:00"
+        "title": "Gazeteci, avukat ve akademisyenler gözaltına alındı",
+        "link": "https://www.bbc.com/turkce/articles/c6211mnvlz5o?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul, İzmir, Kocaeli, Ankara dahil farklı illerde düzenlenen operasyonlarda 39 kişi sabah saatlerinde gözaltına alındı.",
+        "source": "BBC Turkish",
+        "published": "2026-07-05T11:12:10+00:00"
       },
       {
         "title": "Deniz Göktaş'ın avukatı: Saç, kıl, tırnak örnekleri alındı",
@@ -742,13 +749,6 @@
         "published": "2026-07-05T07:28:30+00:00"
       },
       {
-        "title": "'Hayatı bir fanteziden ibaretti': John le Carré'nin dolandırıcı babası casus romanlarını nasıl şekillendirdi?",
-        "link": "https://www.bbc.com/turkce/articles/cq61qj1lzz2o?at_medium=RSS&at_campaign=rss",
-        "description": "Yazar John le Carré'nin hayatı ve romanları, elit bir hayat yaşayan dolandırıcı babası tarafından şekillendirildi.",
-        "source": "BBC Turkish",
-        "published": "2026-07-05T07:27:34+00:00"
-      },
-      {
         "title": "Türkiye ve NATO: 1952'den bugüne krizlerle şekillenen stratejik ortaklık",
         "link": "https://www.bbc.com/turkce/articles/czj8wz12peko?at_medium=RSS&at_campaign=rss",
         "description": "Türkiye’nin NATO’ya 1952’de katılımıyla başlayan ortaklık, Soğuk Savaş’tan günümüze uzanan krizler ve jeopolitik gerilimlerle şekillendi. Ankara, ittifak içinde zaman zaman yaşanan siyasi ve askeri anlaşmazlıklara rağmen NATO’nun güvenlik...",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8743
   },
   "weather": {
-    "condition": null,
-    "temp": null,
-    "wind": null,
-    "humidity": null
+    "condition": "Güneşli",
+    "temp": "+69°F",
+    "wind": "↑2mph",
+    "humidity": "71%"
   }
 }
