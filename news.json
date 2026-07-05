@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-07-05T22:08:57.643558+00:00",
+  "updated_at": "2026-07-05T23:35:13.120256+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+        "link": "https://github.com/514-labs/dnsglobe",
+        "description": "Article URL: https://github.com/514-labs/dnsglobe Comments URL: https://news.ycombinator.com/item?id=48798313 Points: 11 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-07-05T21:55:53+00:00"
+      },
+      {
+        "title": "Composite Video on the NES: Why's it so wobbly?",
+        "link": "https://nicole.express/2026/phase-altering-by-line.html",
+        "description": "Article URL: https://nicole.express/2026/phase-altering-by-line.html Comments URL: https://news.ycombinator.com/item?id=48798247 Points: 15 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-05T21:45:17+00:00"
+      },
+      {
         "title": "CoCom regulations and GPS receivers for balloons and cubesats",
         "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
-        "description": "Article URL: https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube Comments URL: https://news.ycombinator.com/item?id=48798210 Points: 4 # Comments: 0",
+        "description": "Article URL: https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube Comments URL: https://news.ycombinator.com/item?id=48798210 Points: 11 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-07-05T21:39:05+00:00"
+      },
+      {
+        "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+        "link": "https://github.com/electronicsleep/rust-vim",
+        "description": "Article URL: https://github.com/electronicsleep/rust-vim Comments URL: https://news.ycombinator.com/item?id=48798187 Points: 7 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-05T21:36:28+00:00"
       },
       {
         "title": "Uber’s European expansion plans may have hit a speed bump",
@@ -26,35 +47,35 @@
       {
         "title": "Completing a Computer Science Degree on Coursera",
         "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-        "description": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera Comments URL: https://news.ycombinator.com/item?id=48798061 Points: 19 # Comments: 2",
+        "description": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera Comments URL: https://news.ycombinator.com/item?id=48798061 Points: 61 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-07-05T21:20:49+00:00"
       },
       {
         "title": "Reparaible and open source paper printer",
         "link": "https://www.opentools.studio/",
-        "description": "Article URL: https://www.opentools.studio/ Comments URL: https://news.ycombinator.com/item?id=48797916 Points: 67 # Comments: 21",
+        "description": "Article URL: https://www.opentools.studio/ Comments URL: https://news.ycombinator.com/item?id=48797916 Points: 234 # Comments: 63",
         "source": "HackerNews",
         "published": "2026-07-05T21:03:06+00:00"
       },
       {
         "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
         "link": "https://dhilst.github.io/algae/game/index.html",
-        "description": "Article URL: https://dhilst.github.io/algae/game/index.html Comments URL: https://news.ycombinator.com/item?id=48797895 Points: 12 # Comments: 5",
+        "description": "Article URL: https://dhilst.github.io/algae/game/index.html Comments URL: https://news.ycombinator.com/item?id=48797895 Points: 20 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-07-05T21:00:27+00:00"
       },
       {
         "title": "Pint in England",
         "link": "https://dispatch-media.com/the-best-pint-in-england/",
-        "description": "Article URL: https://dispatch-media.com/the-best-pint-in-england/ Comments URL: https://news.ycombinator.com/item?id=48797865 Points: 12 # Comments: 1",
+        "description": "Article URL: https://dispatch-media.com/the-best-pint-in-england/ Comments URL: https://news.ycombinator.com/item?id=48797865 Points: 21 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-07-05T20:55:47+00:00"
       },
       {
         "title": "Dependencies should be fetched directly from VCS",
         "link": "https://www.arp242.net/deps-vcs.html",
-        "description": "Article URL: https://www.arp242.net/deps-vcs.html Comments URL: https://news.ycombinator.com/item?id=48797771 Points: 8 # Comments: 3",
+        "description": "Article URL: https://www.arp242.net/deps-vcs.html Comments URL: https://news.ycombinator.com/item?id=48797771 Points: 22 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-07-05T20:44:01+00:00"
       },
@@ -64,27 +85,6 @@
         "description": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
         "source": "TechCrunch",
         "published": "2026-07-05T20:29:05+00:00"
-      },
-      {
-        "title": "Show HN: Osint tool that finds exposed files on domains",
-        "link": "https://search.cerast-intelligence.com/",
-        "description": "hey guys, wanted to show one of my side projects i just made public. the idea is basically another osint tool for pentesters and bug bounty hunters. it watches certificate transparency logs and checks newly-seen domains for exposed stuff like .env...",
-        "source": "HackerNews",
-        "published": "2026-07-05T20:24:37+00:00"
-      },
-      {
-        "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
-        "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
-        "description": "Article URL: https://segflow.github.io/post/zero-copy-sendfile-splice/ Comments URL: https://news.ycombinator.com/item?id=48797655 Points: 7 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-05T20:24:31+00:00"
-      },
-      {
-        "title": "Trouble Transitioning (2025)",
-        "link": "https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning",
-        "description": "Article URL: https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning Comments URL: https://news.ycombinator.com/item?id=48797501 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-05T20:05:13+00:00"
       },
       {
         "title": "Alibaba’dan Çalışanlarına Claude Code Yasağı",
@@ -99,6 +99,13 @@
         "description": "Apple Watch Series 12 için ortaya atılan yeni iddialar, cihazın kordonuna entegre edilmiş bir sağlık sensörüyle gelebileceğini gösteriyor.",
         "source": "ShiftDelete",
         "published": "2026-07-05T19:00:00+00:00"
+      },
+      {
+        "title": "Some of the nation’s rich are letting AI teach their kids",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "description": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead...",
+        "source": "The Verge",
+        "published": "2026-07-05T18:30:54-04:00"
       },
       {
         "title": "iPhone 18 Pro’da A20 Pro ile 96-bit LPDDR6 Dönemi Başlıyor",
@@ -339,13 +346,6 @@
         "published": "2026-07-02T16:41:14-04:00"
       },
       {
-        "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-        "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-        "description": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to...",
-        "source": "The Verge",
-        "published": "2026-07-02T15:53:56-04:00"
-      },
-      {
         "title": "Xbox is a disaster",
         "link": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
         "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt...",
@@ -355,16 +355,9 @@
     ],
     "dunya": [
       {
-        "title": "Shelter-in-place order at Azteca over severe weather before Mexico-England",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyeegldnmpo?at_medium=RSS&at_campaign=rss",
-        "description": "Supporters are told to stay in their seats as an electrical storm approaches the Azteca Stadium before Mexico v England in the last 16 of the World Cup.",
-        "source": "BBC News",
-        "published": "2026-07-05T21:52:07+00:00"
-      },
-      {
         "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
         "link": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
-        "description": "Many Venezuelans have accused the government of an inadequate response to the 24 June disaster Venezuela’s interim president has defended her country’s emergency response to the twin earthquakes which have killed more than 3,000 people, vowing the...",
+        "description": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster Venezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,000 people,...",
         "source": "The Guardian",
         "published": "2026-07-05T21:50:42+00:00"
       },
@@ -509,6 +502,13 @@
         "published": "2026-07-05T04:30:07-04:00"
       },
       {
+        "title": "What Sky buying ITV could mean for your favourite shows",
+        "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
+        "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
+        "source": "BBC News",
+        "published": "2026-07-04T23:23:51+00:00"
+      },
+      {
         "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
         "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
         "description": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had...",
@@ -567,6 +567,48 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-temmuz-2026-1731598",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-06T02:30:00+03:00"
+      },
+      {
+        "title": "Neymar'dan Norveç maçı sonrası şok karar!",
+        "link": "https://www.sozcu.com.tr/neymar-dan-norvec-maci-sonrasi-sok-karar-p334009",
+        "description": "Neymar'dan Norveç maçı sonrası şok karar!",
+        "source": "Sözcü",
+        "published": "2026-07-06T02:23:44+03:00"
+      },
+      {
+        "title": "Messi ve Mbappe ile yarışıyor! Haaland Dünya Kupası’nın zirvesinde",
+        "link": "https://www.sozcu.com.tr/messi-ve-mbappe-ile-yarisiyor-haaland-dunya-kupasi-nin-zirvesinde-p334008",
+        "description": "Messi ve Mbappe ile yarışıyor! Haaland Dünya Kupası’nın zirvesinde",
+        "source": "Sözcü",
+        "published": "2026-07-06T02:04:30+03:00"
+      },
+      {
+        "title": "Plajdaki şezlong tartışması gündem oldu! Bakanlık açıklama yaptı",
+        "link": "https://www.sozcu.com.tr/plajdaki-sezlong-tartismasi-gundem-oldu-bakanlik-aciklama-yapti-p334006",
+        "description": "Plajdaki şezlong tartışması gündem oldu! Bakanlık açıklama yaptı",
+        "source": "Sözcü",
+        "published": "2026-07-06T01:30:23+03:00"
+      },
+      {
+        "title": "Zihni Göktay'dan üzücü haber geldi",
+        "link": "https://www.sozcu.com.tr/zihni-goktay-dan-uzucu-haber-geldi-p333996",
+        "description": "Zihni Göktay'dan üzücü haber geldi",
+        "source": "Sözcü",
+        "published": "2026-07-06T01:18:05+03:00"
+      },
+      {
+        "title": "Rusların telefon şakası Yunanistan'da kriz çıkardı",
+        "link": "https://www.sozcu.com.tr/ruslarin-telefon-sakasi-yunanistan-da-kriz-cikardi-p334003",
+        "description": "Rusların telefon şakası Yunanistan'da kriz çıkardı",
+        "source": "Sözcü",
+        "published": "2026-07-06T01:10:09+03:00"
+      },
+      {
         "title": "Haaland, Brezilya’yı evine gönderdi! Dünya Kupası’nı en çok kazanan ülke veda etti",
         "link": "https://www.sozcu.com.tr/haaland-brezilya-yi-evine-gonderdi-dunya-kupasi-ni-en-cok-kazanan-ulke-veda-etti-p334002",
         "description": "Haaland, Brezilya’yı evine gönderdi! Dünya Kupası’nı en çok kazanan ülke veda etti",
@@ -579,13 +621,6 @@
         "description": "Jant kapağını andıran 5 bin yıllık diskin sırrı çözülemiyor",
         "source": "Sözcü",
         "published": "2026-07-06T01:01:27+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-temmuz-2026-1731598",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-06T01:00:00+03:00"
       },
       {
         "title": "Kimse dokunmasın uyarısı yapıldı: Sahilde gizemli metal küreler bulundu",
@@ -602,32 +637,11 @@
         "published": "2026-07-06T00:22:53+03:00"
       },
       {
-        "title": "Trump'ın konvoyunda yer alacak araçlar Ankara'da",
-        "link": "https://www.sozcu.com.tr/donald-trump-arac-konvoyu-ankara-da-p333990",
-        "description": "Trump'ın konvoyunda yer alacak araçlar Ankara'da",
-        "source": "Sözcü",
-        "published": "2026-07-06T00:19:08+03:00"
-      },
-      {
-        "title": "Zihni Göktay'dan üzücü haber geldi",
-        "link": "https://www.sozcu.com.tr/zihni-goktay-dan-uzucu-haber-geldi-p333996",
-        "description": "Zihni Göktay'dan üzücü haber geldi",
-        "source": "Sözcü",
-        "published": "2026-07-06T00:12:42+03:00"
-      },
-      {
         "title": "8 bin 500 tonluk dev beton bloklar tek tek denize indirildi",
         "link": "https://www.sozcu.com.tr/8-bin-500-tonluk-dev-beton-bloklar-tek-tek-denize-indirildi-p333992",
         "description": "8 bin 500 tonluk dev beton bloklar tek tek denize indirildi",
         "source": "Sözcü",
         "published": "2026-07-05T23:43:37+03:00"
-      },
-      {
-        "title": "İsrail basınında çok konuşulacak iddia: Ordu terhislere hazırlanıyor",
-        "link": "https://www.sozcu.com.tr/israil-basini-ordu-terhise-hazirlaniyor-p333991",
-        "description": "İsrail basınında çok konuşulacak iddia: Ordu terhislere hazırlanıyor",
-        "source": "Sözcü",
-        "published": "2026-07-05T23:42:55+03:00"
       },
       {
         "title": "Kuşadası'nda bir günde 4 kişi boğularak hayatını kaybetti",
@@ -637,25 +651,25 @@
         "published": "2026-07-05T23:35:50+03:00"
       },
       {
-        "title": "CHP'li gençlerden Gürsel Tekin'in toplantısına pankartlı protesto",
-        "link": "https://www.sozcu.com.tr/chp-li-genclerden-gursel-tekin-in-toplantisina-pankartli-protesto-p333989",
-        "description": "CHP'li gençlerden Gürsel Tekin'in toplantısına pankartlı protesto",
-        "source": "Sözcü",
-        "published": "2026-07-05T23:16:28+03:00"
-      },
-      {
-        "title": "19 metrelik dev ahtapot, okyanusların en korkulan avcısıymış",
-        "link": "https://www.sozcu.com.tr/19-metrelik-dev-ahtapot-okyanuslarin-en-korkulan-avcisiymis-p333988",
-        "description": "19 metrelik dev ahtapot, okyanusların en korkulan avcısıymış",
-        "source": "Sözcü",
-        "published": "2026-07-05T23:06:20+03:00"
-      },
-      {
-        "title": "Dünya Kupası: Brezilya'yı Haaland'ın golleriyle 2-1 yenen Norveç çeyrek finalde",
-        "link": "https://www.bbc.com/turkce/articles/ce3p3enl4v9o?at_medium=RSS&at_campaign=rss",
-        "description": "Dünya Kupası'nda çeyrek finale yükselen üçüncü takım, Brezilya'yı 2-0 yenen Norveç oldu. Norveç'e galibiyeti getiren goller, 79 ve 90. dakikalarda Erling Haaland'dan geldi.",
+        "title": "NATO Zirvesi neden önemli, Ankara'da hangi kararlar alınabilir?",
+        "link": "https://www.bbc.com/turkce/articles/c70yy6wxgl9o?at_medium=RSS&at_campaign=rss",
+        "description": "Yarın Ankara'da başlayacak ve iki gün sürecek NATO Zirvesi, gerek ittifakın ABD yönetiminin yaklaşımı nedeniyle içinden geçtiği zorlu dönem gerekse uluslararası konjonktür nedeniyle önem düzeyi en yüksek toplantılardan biri olarak görülüyor....",
         "source": "BBC Turkish",
-        "published": "2026-07-05T22:05:03+00:00"
+        "published": "2026-07-05T23:11:57+00:00"
+      },
+      {
+        "title": "Telefonlar vücudunuzun şeklini nasıl değiştiriyor?",
+        "link": "https://www.bbc.com/turkce/articles/crel04n73yeo?at_medium=RSS&at_campaign=rss",
+        "description": "Cihazlarınız vücudunuzu fark etmeyebileceğiniz şekillerde değiştiriyor. Bu konuda bir şeyler yapmak için henüz çok geç değil.",
+        "source": "BBC Turkish",
+        "published": "2026-07-05T23:05:29+00:00"
+      },
+      {
+        "title": "Norveç Brezilya'yı 2-1 yenerek Dünya Kupası'nda çeyrek finale yükseldi",
+        "link": "https://www.bbc.com/turkce/articles/ce3p3enl4v9o?at_medium=RSS&at_campaign=rss",
+        "description": "Dünya Kupası'nda çeyrek finale yükselen üçüncü takım, Brezilya'yı 2-1 yenen Norveç oldu. Norveç'e galibiyeti getiren goller, 79 ve 90. dakikalarda Erling Haaland'dan geldi.",
+        "source": "BBC Turkish",
+        "published": "2026-07-05T22:57:59+00:00"
       },
       {
         "title": "Ölüm virajı kabusu bitecek, yol 5 dakikaya düşecek",
@@ -749,11 +763,11 @@
         "published": "2026-07-05T08:57:59+00:00"
       },
       {
-        "title": "ABD bağımsızlığının 250. yılını kutladı",
-        "link": "https://www.bbc.com/turkce/articles/c9q23g48d19o?at_medium=RSS&at_campaign=rss",
-        "description": "ABD genelinde, ülkenin bağımsızlığının 250'nci yıldönümünü kutlamak için havai fişekler ve uçak gösterileri dahil çeşitli etkinlikler düzenlendi. Ancak aşırı hava koşulları bazı gösterilere engel oldu.",
+        "title": "İnsanların görünüşü gelecekte nasıl değişecek?",
+        "link": "https://www.bbc.com/turkce/articles/c78yj0mgrjyo?at_medium=RSS&at_campaign=rss",
+        "description": "Bilim insanları hala evrimleşmekte olduğumuzu söylüyor. Fakat gen düzenleme gibi yeni teknolojiler sayesinde, gelecekteki görünümümüz beklenmedik şekillerde değişebilir.",
         "source": "BBC Turkish",
-        "published": "2026-07-05T08:19:56+00:00"
+        "published": "2026-07-05T07:43:50+00:00"
       },
       {
         "title": "Türkiye ve NATO: 1952'den bugüne krizlerle şekillenen stratejik ortaklık",
@@ -761,20 +775,6 @@
         "description": "Türkiye’nin NATO’ya 1952’de katılımıyla başlayan ortaklık, Soğuk Savaş’tan günümüze uzanan krizler ve jeopolitik gerilimlerle şekillendi. Ankara, ittifak içinde zaman zaman yaşanan siyasi ve askeri anlaşmazlıklara rağmen NATO’nun güvenlik...",
         "source": "BBC Turkish",
         "published": "2026-07-05T07:26:05+00:00"
-      },
-      {
-        "title": "Japonya'da bir belediye başkanı doğum izni alacağını açıklayınca ülkenin gündemine oturdu",
-        "link": "https://www.bbc.com/turkce/articles/c5yzr2442wyo?at_medium=RSS&at_campaign=rss",
-        "description": "Eleştirilere rağmen, 35 yaşındaki Shoko Kawata, işini sevdiğini ve bebek sahibi olmak için izin almaktan gurur duyduğunu söylüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-07-04T13:41:38+00:00"
-      },
-      {
-        "title": "Depremlerde daha çok insanın ölmesi ile iklim değişikliği arasında bağlantı var mı?",
-        "link": "https://www.bbc.com/turkce/articles/cn07kewg2pgo?at_medium=RSS&at_campaign=rss",
-        "description": "Yerleşim bölgelerinde meydana gelen depremler genellikle aynı soruları gündeme getiriyor: Depremler daha sık ve daha ölümcül hale mi geliyor ve bunun sorumlusu iklim değişikliği mi?",
-        "source": "BBC Turkish",
-        "published": "2026-07-04T11:43:31+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8743
   },
   "weather": {
-    "condition": "Güneşli",
+    "condition": "Parçalı bulutlu",
     "temp": "+75°F",
-    "wind": "→5mph",
-    "humidity": "55%"
+    "wind": "↓11mph",
+    "humidity": "82%"
   }
 }
