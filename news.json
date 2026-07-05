@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-07-04T22:57:32.602141+00:00",
+  "updated_at": "2026-07-05T00:06:09.073087+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Scientists reverse brain aging, with a nasal spray",
+        "link": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+        "description": "Article URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/ Comments URL: https://news.ycombinator.com/item?id=48790066 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-04T23:41:10+00:00"
+      },
+      {
+        "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+        "link": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+        "description": "Article URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets Comments URL: https://news.ycombinator.com/item?id=48789712 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-04T22:36:28+00:00"
+      },
+      {
         "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
         "link": "https://github.com/openai/codex/issues/30364",
-        "description": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 54 # Comments: 6",
+        "description": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 106 # Comments: 23",
         "source": "HackerNews",
         "published": "2026-07-04T21:51:09+00:00"
+      },
+      {
+        "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "link": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+        "description": "Article URL: https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/ Comments URL: https://news.ycombinator.com/item?id=48789325 Points: 7 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-04T21:35:30+00:00"
       },
       {
         "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -19,14 +40,14 @@
       {
         "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
         "link": "https://arxiv.org/abs/2606.26967",
-        "description": "Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 5 # Comments: 0",
+        "description": "Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 8 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-07-04T20:38:39+00:00"
       },
       {
         "title": "Better Models: Worse Tools",
         "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-        "description": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 48 # Comments: 13",
+        "description": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 72 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-07-04T20:16:22+00:00"
       },
@@ -40,7 +61,7 @@
       {
         "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-        "description": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main Comments URL: https://news.ycombinator.com/item?id=48788283 Points: 246 # Comments: 106",
+        "description": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main Comments URL: https://news.ycombinator.com/item?id=48788283 Points: 299 # Comments: 126",
         "source": "HackerNews",
         "published": "2026-07-04T19:41:10+00:00"
       },
@@ -75,14 +96,14 @@
       {
         "title": "Verizon is About to Break our Watches",
         "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-        "description": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches Comments URL: https://news.ycombinator.com/item?id=48787329 Points: 111 # Comments: 49",
+        "description": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches Comments URL: https://news.ycombinator.com/item?id=48787329 Points: 121 # Comments: 62",
         "source": "HackerNews",
         "published": "2026-07-04T17:52:36+00:00"
       },
       {
         "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
         "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-        "description": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper Comments URL: https://news.ycombinator.com/item?id=48787201 Points: 44 # Comments: 29",
+        "description": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper Comments URL: https://news.ycombinator.com/item?id=48787201 Points: 46 # Comments: 31",
         "source": "HackerNews",
         "published": "2026-07-04T17:37:21+00:00"
       },
@@ -94,16 +115,9 @@
         "published": "2026-07-04T17:13:02+03:00"
       },
       {
-        "title": "Game Boy Advance Dev: Logging to the Console",
-        "link": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-        "description": "Article URL: https://www.mattgreer.dev/blog/gba-dev-logging/ Comments URL: https://news.ycombinator.com/item?id=48787001 Points: 20 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-07-04T17:12:00+00:00"
-      },
-      {
         "title": "EndBASIC 0.14: Are we multimedia yet?",
         "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-        "description": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html Comments URL: https://news.ycombinator.com/item?id=48786970 Points: 21 # Comments: 2",
+        "description": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html Comments URL: https://news.ycombinator.com/item?id=48786970 Points: 22 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-07-04T17:08:18+00:00"
       },
@@ -113,20 +127,6 @@
         "description": "Oyun dünyasında fiziksel kopya ve kutulu oyun hayranlarını derinden üzecek, nostaljik bir dönemin kapandığını ilan eden tarihi bir adım atıldı. Teknoloji devi Sony, Avusturya’da bulunan ve yıllardır milyonlarca PlayStation diski üreten devasa...",
         "source": "ShiftDelete",
         "published": "2026-07-04T17:00:18+00:00"
-      },
-      {
-        "title": "Finland's last analogue landline phones go silent after 150 years",
-        "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-        "description": "Article URL: https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years Comments URL: https://news.ycombinator.com/item?id=48786868 Points: 81 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-07-04T16:54:02+00:00"
-      },
-      {
-        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-        "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-        "description": "Article URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234 Comments URL: https://news.ycombinator.com/item?id=48786838 Points: 269 # Comments: 143",
-        "source": "HackerNews",
-        "published": "2026-07-04T16:51:26+00:00"
       },
       {
         "title": "Alibaba reportedly bans employees from using Claude Code",
@@ -355,6 +355,34 @@
     ],
     "dunya": [
       {
+        "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+        "link": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
+        "description": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
+        "source": "BBC News",
+        "published": "2026-07-04T23:33:27+00:00"
+      },
+      {
+        "title": "What Sky buying ITV could mean for your favourite shows",
+        "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
+        "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
+        "source": "BBC News",
+        "published": "2026-07-04T23:23:51+00:00"
+      },
+      {
+        "title": "Prince Harry and Meghan: Will they or won't they, and will we care?",
+        "link": "https://www.bbc.co.uk/news/articles/c621jwpld8zo?at_medium=RSS&at_campaign=rss",
+        "description": "There will be much attention on whether the Duke of Sussex can build bridges with his family.",
+        "source": "BBC News",
+        "published": "2026-07-04T23:18:36+00:00"
+      },
+      {
+        "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+        "description": "Far-right leader Marine Le Pen is appealing a verdict which found her guilty of misusing EU funds.",
+        "source": "BBC News",
+        "published": "2026-07-04T23:17:24+00:00"
+      },
+      {
         "title": "NHS app to use AI to determine which service best for patients",
         "link": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&at_campaign=rss",
         "description": "The update will be available to all users in England by April 2028, the health service says.",
@@ -409,13 +437,6 @@
         "description": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were...",
         "source": "The Guardian",
         "published": "2026-07-04T15:14:18+00:00"
-      },
-      {
-        "title": "Prince Harry will not be joined by Meghan and children on London trip",
-        "link": "https://www.bbc.co.uk/news/articles/cr5jpzn2814o?at_medium=RSS&at_campaign=rss",
-        "description": "The plans changed after it was confirmed they would not have taxpayer funded security, it is understood.",
-        "source": "BBC News",
-        "published": "2026-07-04T15:05:27+00:00"
       },
       {
         "title": "Washington's July 4 parade is called off. The fireworks are still on",
@@ -474,32 +495,11 @@
         "published": "2026-07-04T05:00:00-04:00"
       },
       {
-        "title": "The schools starting late after 1am England kick-off to 'reduce pressure' on parents",
-        "link": "https://www.bbc.co.uk/news/articles/c621j2qj50do?at_medium=RSS&at_campaign=rss",
-        "description": "Some schools are opting to open late, arguing they are striking the right balance, and many parents have backed the decision.",
-        "source": "BBC News",
-        "published": "2026-07-04T02:46:58+00:00"
-      },
-      {
         "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
         "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
         "description": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
         "source": "NPR",
         "published": "2026-07-04T01:44:19-04:00"
-      },
-      {
-        "title": "Ear plugs have become a festival must-have - but they aren't all created equal",
-        "link": "https://www.bbc.co.uk/news/articles/c87288g4zrgo?at_medium=RSS&at_campaign=rss",
-        "description": "Ear plugs are becoming an increasingly popular accessory at music festivals.",
-        "source": "BBC News",
-        "published": "2026-07-04T01:29:21+00:00"
-      },
-      {
-        "title": "What could new rights for unmarried couples mean for your money?",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
-        "description": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals.",
-        "source": "BBC News",
-        "published": "2026-07-04T01:10:13+00:00"
       },
       {
         "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
@@ -567,18 +567,32 @@
     ],
     "turkiye": [
       {
-        "title": "Dünya Kupası'nda tarihi sıcaklık! Koltuklar adeta alev aldı",
-        "link": "https://www.sozcu.com.tr/dunya-kupasi-nda-tarihi-sicaklik-koltuklar-adeta-alev-aldi-p333781",
-        "description": "Dünya Kupası'nda tarihi sıcaklık! Koltuklar adeta alev aldı",
-        "source": "Sözcü",
-        "published": "2026-07-05T01:48:18+03:00"
-      },
-      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-temmuz-2026-1731450",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-05T01:30:00+03:00"
+        "published": "2026-07-05T03:00:00+03:00"
+      },
+      {
+        "title": "Dervişoğlu Diyap Ağa’ya Fatiha okudu",
+        "link": "https://www.sozcu.com.tr/dervisoglu-diyap-aga-ya-fatiha-okudu-p333785",
+        "description": "Dervişoğlu Diyap Ağa’ya Fatiha okudu",
+        "source": "Sözcü",
+        "published": "2026-07-05T02:41:28+03:00"
+      },
+      {
+        "title": "Dünya Kupası'nda tarihi sıcaklık! Koltuklar adeta alev aldı",
+        "link": "https://www.sozcu.com.tr/dunya-kupasi-nda-tarihi-sicaklik-koltuklar-adeta-alev-aldi-p333781",
+        "description": "Dünya Kupası'nda tarihi sıcaklık! Koltuklar adeta alev aldı",
+        "source": "Sözcü",
+        "published": "2026-07-05T02:37:49+03:00"
+      },
+      {
+        "title": "Fransa penaltıyla kazandı, adını çeyrek finale yazdırdı",
+        "link": "https://www.sozcu.com.tr/fransa-penaltiyla-kazandi-adini-ceyrek-finale-yazdirdi-p333784",
+        "description": "Fransa penaltıyla kazandı, adını çeyrek finale yazdırdı",
+        "source": "Sözcü",
+        "published": "2026-07-05T02:37:17+03:00"
       },
       {
         "title": "Filyos Sahili'ne askeri İHA vurdu. İnceleme başlatıldı",
@@ -642,20 +656,6 @@
         "description": "Trump, Hamaney’in cenaze törenini işaret ederek İran'ı tehdit etti",
         "source": "Sözcü",
         "published": "2026-07-04T22:49:08+03:00"
-      },
-      {
-        "title": "Denize gidecekler dikkat: 4 ilde yasak kararı",
-        "link": "https://www.sozcu.com.tr/denize-gidecekler-dikkat-4-ilde-yasak-karari-p333764",
-        "description": "Denize gidecekler dikkat: 4 ilde yasak kararı",
-        "source": "Sözcü",
-        "published": "2026-07-04T22:27:47+03:00"
-      },
-      {
-        "title": "Ounahi şov yaptı, Fas çeyrek finale yükseldi",
-        "link": "https://www.sozcu.com.tr/ounahi-sov-yapti-fas-ceyrek-finale-yukseldi-p333761",
-        "description": "Ounahi şov yaptı, Fas çeyrek finale yükseldi",
-        "source": "Sözcü",
-        "published": "2026-07-04T22:06:38+03:00"
       },
       {
         "title": "TAYFUN Blok-3 füzesi ilke imza attı",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8743
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+85°F",
-    "wind": "↓6mph",
-    "humidity": "58%"
+    "condition": "Rain With Thunderstorm, Mist",
+    "temp": "+72°F",
+    "wind": "↓11mph",
+    "humidity": "94%"
   }
 }
