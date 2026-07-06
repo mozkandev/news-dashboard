@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-07-06T21:54:50.628805+00:00",
+  "updated_at": "2026-07-06T23:07:38.004891+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "How little exercise can you get away with?",
+        "link": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
+        "description": "Article URL: https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with Comments URL: https://news.ycombinator.com/item?id=48811147 Points: 25 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-07-06T22:09:36+00:00"
+      },
+      {
+        "title": "Full Writeup of the Windows GDID",
+        "link": "https://github.com/SmtimesIWndr/gdid-reversal",
+        "description": "Article URL: https://github.com/SmtimesIWndr/gdid-reversal Comments URL: https://news.ycombinator.com/item?id=48811081 Points: 8 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-06T22:02:24+00:00"
+      },
+      {
+        "title": "Titan's Resources and Their Utilization",
+        "link": "https://arxiv.org/abs/2606.06608",
+        "description": "Article URL: https://arxiv.org/abs/2606.06608 Comments URL: https://news.ycombinator.com/item?id=48810841 Points: 7 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-06T21:39:04+00:00"
+      },
+      {
+        "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+        "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+        "description": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 19 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-06T21:09:23+00:00"
+      },
+      {
+        "title": "Taiganet.com, Home of the WS4000 Simulator",
+        "link": "https://www.taiganet.com/",
+        "description": "Article URL: https://www.taiganet.com/ Comments URL: https://news.ycombinator.com/item?id=48810501 Points: 8 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-06T21:06:24+00:00"
+      },
       {
         "title": "watchOS 27 ile Üç Büyük Sağlık ve Spor Güncellemesi Geliyor",
         "link": "https://shiftdelete.net/watchos-27-ile-uc-buyuk-saglik-ve-spor-guncellemesi-geliyor",
@@ -12,9 +47,23 @@
       {
         "title": "Learning to code is still worthwhile",
         "link": "https://stevekrouse.com/learn-to-code",
-        "description": "Article URL: https://stevekrouse.com/learn-to-code Comments URL: https://news.ycombinator.com/item?id=48810439 Points: 47 # Comments: 24",
+        "description": "Article URL: https://stevekrouse.com/learn-to-code Comments URL: https://news.ycombinator.com/item?id=48810439 Points: 80 # Comments: 70",
         "source": "HackerNews",
         "published": "2026-07-06T20:59:54+00:00"
+      },
+      {
+        "title": "GLM 5.2 and the coming AI margin collapse",
+        "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "description": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 31 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-07-06T20:14:55+00:00"
+      },
+      {
+        "title": "M/PC – A Concatenative OS",
+        "link": "https://wiki.xxiivv.com/site/m_pc.html",
+        "description": "Article URL: https://wiki.xxiivv.com/site/m_pc.html Comments URL: https://news.ycombinator.com/item?id=48809810 Points: 14 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-06T20:08:46+00:00"
       },
       {
         "title": "Huawei Mate XT 2 ve Mate X8 Geliyor: İşte Sızan Tüm Özellikler",
@@ -31,18 +80,18 @@
         "published": "2026-07-06T19:49:10+00:00"
       },
       {
-        "title": "Price per 1M tokens is meaningless",
-        "link": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-        "description": "Article URL: https://janilowski.pl/en/blog/2026/price-per-m-tokens/ Comments URL: https://news.ycombinator.com/item?id=48809542 Points: 96 # Comments: 50",
-        "source": "HackerNews",
-        "published": "2026-07-06T19:43:36+00:00"
-      },
-      {
         "title": "Python 3.14 compiled to metal – no interpreter",
         "link": "https://github.com/can1357/pon",
-        "description": "Article URL: https://github.com/can1357/pon Comments URL: https://news.ycombinator.com/item?id=48809496 Points: 66 # Comments: 39",
+        "description": "Article URL: https://github.com/can1357/pon Comments URL: https://news.ycombinator.com/item?id=48809496 Points: 97 # Comments: 58",
         "source": "HackerNews",
         "published": "2026-07-06T19:40:22+00:00"
+      },
+      {
+        "title": "Pruning RAG context down to what the answer actually needs",
+        "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+        "description": "Article URL: https://www.kapa.ai/blog/how-we-prune-rag-context Comments URL: https://news.ycombinator.com/item?id=48809354 Points: 27 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-06T19:28:24+00:00"
       },
       {
         "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
@@ -59,39 +108,11 @@
         "published": "2026-07-06T19:00:05+00:00"
       },
       {
-        "title": "CoMaps – FOSS Offline Maps",
-        "link": "https://www.comaps.app/",
-        "description": "Article URL: https://www.comaps.app/ Comments URL: https://news.ycombinator.com/item?id=48808928 Points: 161 # Comments: 32",
-        "source": "HackerNews",
-        "published": "2026-07-06T18:55:07+00:00"
-      },
-      {
-        "title": "Linux on the Atari Jaguar",
-        "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-        "description": "Article URL: https://cakehonolulu.github.io/linux-for-jaguar/ Comments URL: https://news.ycombinator.com/item?id=48808663 Points: 77 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-07-06T18:35:54+00:00"
-      },
-      {
         "title": "Every major tech layoff in 2026 that has name-checked AI",
         "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
         "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
         "source": "TechCrunch",
         "published": "2026-07-06T18:35:00+00:00"
-      },
-      {
-        "title": "Pros and Cons of Solo Development",
-        "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-        "description": "Article URL: https://johnjeffers.com/pros-and-cons-of-solo-development/ Comments URL: https://news.ycombinator.com/item?id=48808508 Points: 89 # Comments: 47",
-        "source": "HackerNews",
-        "published": "2026-07-06T18:24:34+00:00"
-      },
-      {
-        "title": "OpenWrt One – Open Hardware Router",
-        "link": "https://openwrt.org/toh/openwrt/one",
-        "description": "Article URL: https://openwrt.org/toh/openwrt/one Comments URL: https://news.ycombinator.com/item?id=48808482 Points: 270 # Comments: 122",
-        "source": "HackerNews",
-        "published": "2026-07-06T18:23:12+00:00"
       },
       {
         "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
@@ -150,20 +171,6 @@
         "published": "2026-07-06T17:45:34+03:00"
       },
       {
-        "title": "A global workspace in language models",
-        "link": "https://www.anthropic.com/research/global-workspace",
-        "description": "Article URL: https://www.anthropic.com/research/global-workspace Comments URL: https://news.ycombinator.com/item?id=48808002 Points: 173 # Comments: 52",
-        "source": "HackerNews",
-        "published": "2026-07-06T17:44:08+00:00"
-      },
-      {
-        "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-        "link": "https://github.com/V4bel/Januscape",
-        "description": "Article URL: https://github.com/V4bel/Januscape Comments URL: https://news.ycombinator.com/item?id=48807908 Points: 57 # Comments: 14",
-        "source": "HackerNews",
-        "published": "2026-07-06T17:35:03+00:00"
-      },
-      {
         "title": "Steam İndirimlerinde Kendini Durduramayanlara: Steam İndirim Simülatörü Çıktı!",
         "link": "\n                    https://www.webtekno.com/steam-indirim-simulatoru-cikti-h219760.html\n                    ",
         "description": "Mike Wing isimli bir oyuncu, Steam indirimlerini taklit eden bir internet sitesi oluşturdu.",
@@ -211,13 +218,6 @@
         "description": "Nothing, bütçe dostu ve şeffaf tasarımlı ürün yelpazesine bir yenisini daha eklemeye hazırlanıyor. Şirketin yarın, yani 7 Temmuz’da gerçekleştireceği büyük etkinlikte yeni akıllı telefonu Phone (4b) ile birlikte sahneye çıkarmayı planladığı kablosuz...",
         "source": "ShiftDelete",
         "published": "2026-07-06T17:00:43+00:00"
-      },
-      {
-        "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-        "link": "https://github.com/iOfficeAI/OfficeCLI",
-        "description": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 79 # Comments: 23",
-        "source": "HackerNews",
-        "published": "2026-07-06T16:47:44+00:00"
       },
       {
         "title": "Hoto’s PixelDrive screwdriver is down to $60, matching its best price",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "World Cup fans react to Balogun's one-game ban suspension",
+        "link": "https://www.bbc.co.uk/news/videos/cly77en9z9lo?at_medium=RSS&at_campaign=rss",
+        "description": "The USA star striker will be available to play at today's match against Belgium after President Trump called Fifa for his ban to be reviewed.",
+        "source": "BBC News",
+        "published": "2026-07-06T22:30:36+00:00"
+      },
+      {
+        "title": "Why European backlash over Trump intervention won't worry Infantino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+        "description": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
+        "source": "BBC News",
+        "published": "2026-07-06T22:26:20+00:00"
+      },
+      {
         "title": "Britain's Arthur Fery reaches Wimbledon quarter-finals in history-making match",
         "link": "https://www.bbc.co.uk/sport/tennis/articles/cly99r28k9no?at_medium=RSS&at_campaign=rss",
         "description": "Arthur Fery's outstanding Wimbledon run continues as he beats Grigor Dimitrov in five thrilling sets to become the first British wildcard to reach a Grand Slam quarter-final.",
@@ -383,13 +397,6 @@
         "published": "2026-07-06T19:14:55+00:00"
       },
       {
-        "title": "Trump confirms he asked Fifa boss for review of US striker's ban",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says Fifa \"made the right decision\" to suspend Folarin Balogun's one-match ban, adding that otherwise, it would have left a \"big stain\" on the World Cup.",
-        "source": "BBC News",
-        "published": "2026-07-06T19:06:34+00:00"
-      },
-      {
         "title": "Consultants in England vote in favour of NHS strikes",
         "link": "https://www.bbc.co.uk/news/articles/c79yyyxzergo?at_medium=RSS&at_campaign=rss",
         "description": "The senior doctors in England now have a mandate for strike action over the next 12 months.",
@@ -404,18 +411,18 @@
         "published": "2026-07-06T17:31:21-04:00"
       },
       {
+        "title": "USA set to take on Belgium in World Cup amid Trump red card controversy",
+        "link": "https://www.npr.org/2026/07/06/nx-s1-5883818/the-world-cup-red-card-controversy-has-the-world-seeing-the-u-s-in-a-new-light",
+        "description": "Ahead of this evening's World Cup match between the U.S. and Belgium, the drama about the eligibility of U.S. striker Folarin Balogun continues to swirl following his red card in the previous match.",
+        "source": "NPR",
+        "published": "2026-07-06T17:01:15-04:00"
+      },
+      {
         "title": "Canada to buy 12 hi-tech German submarines after bidding war",
         "link": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
         "description": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts that will...",
         "source": "The Guardian",
         "published": "2026-07-06T16:41:47+00:00"
-      },
-      {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran for supreme leader's funeral",
-        "link": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss",
-        "description": "Huge crowds have lined the streets of Tehran for the funeral procession of Iran's late supreme leader, Ayatollah Ali Khamenei.",
-        "source": "BBC News",
-        "published": "2026-07-06T16:23:44+00:00"
       },
       {
         "title": "Supreme Court lets Texas restrict minors' access to app stores for the time being",
@@ -425,7 +432,7 @@
         "published": "2026-07-06T16:15:17-04:00"
       },
       {
-        "title": "Platner denies sexual assault allegation, but says he will assess 'best path forward'",
+        "title": "Graham Platner faces growing calls to withdraw following allegation of sexual assault",
         "link": "https://www.npr.org/2026/07/06/nx-s1-5875431/platner-sexual-assault-allegation-maine-senate",
         "description": "The Democratic candidate for Senate in Maine said he was assessing next steps after allegations of sexual assault were reported on Monday by Politico. Platner denied them as \"categorically untrue.\"",
         "source": "NPR",
@@ -509,13 +516,6 @@
         "published": "2026-07-06T05:00:00-04:00"
       },
       {
-        "title": "Fast walkers in their 80s cut their risk of cognitive decline by half, a study finds",
-        "link": "https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health",
-        "description": "A new study of people 80 and older with exceptional gaits finds fast walkers have about a 50% lower risk of cognitive decline, showing the connection between physical health and brain health.",
-        "source": "NPR",
-        "published": "2026-07-06T05:00:00-04:00"
-      },
-      {
         "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
         "link": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
         "description": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster Venezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,000 people,...",
@@ -567,18 +567,39 @@
     ],
     "turkiye": [
       {
-        "title": "Türkiye-NATO Başlangıç: 1950",
-        "link": "https://www.ntv.com.tr/turkiye/turkiye-nato-baslangic-1950-1731734",
-        "description": "Türkiye'nin Kuzey Atlantik Antlaşması'na (NATO) nasıl dahil olduğu ile ilgili süreci Kayhan Karaca ntv.com.tr okurları için kaleme aldı.",
-        "source": "NTV",
-        "published": "2026-07-07T00:51:42+03:00"
-      },
-      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-temmuz-2026-1731732",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-07T00:30:00+03:00"
+        "published": "2026-07-07T02:00:00+03:00"
+      },
+      {
+        "title": "Türkiye-NATO Başlangıç: 1950",
+        "link": "https://www.ntv.com.tr/turkiye/turkiye-nato-baslangic-1950-1731734",
+        "description": "Türkiye'nin Kuzey Atlantik Antlaşması'na (NATO) nasıl dahil olduğu ile ilgili süreci NTV Brüksel Muhabiri Kayhan Karaca, ntv.com.tr okurları için kaleme aldı.",
+        "source": "NTV",
+        "published": "2026-07-07T01:34:14+03:00"
+      },
+      {
+        "title": "12 Dev Adam’ın rakipleri belli oldu",
+        "link": "https://www.sozcu.com.tr/12-dev-adam-in-rakipleri-belli-oldu-p334322",
+        "description": "12 Dev Adam’ın rakipleri belli oldu",
+        "source": "Sözcü",
+        "published": "2026-07-07T01:28:30+03:00"
+      },
+      {
+        "title": "Portekiz’de Roberto Martinez depremi! Görevinden ayrılan 12. isim oldu",
+        "link": "https://www.sozcu.com.tr/portekiz-de-roberto-martinez-depremi-12-isim-oldu-p334318",
+        "description": "Portekiz’de Roberto Martinez depremi! Görevinden ayrılan 12. isim oldu",
+        "source": "Sözcü",
+        "published": "2026-07-07T01:15:50+03:00"
+      },
+      {
+        "title": "2 bin 600 yıllık prens mezarı yeni bir gizemi ortaya çıkardı",
+        "link": "https://www.sozcu.com.tr/2-bin-600-yillik-prens-mezari-yeni-bir-gizemi-ortaya-cikardi-p334317",
+        "description": "2 bin 600 yıllık prens mezarı yeni bir gizemi ortaya çıkardı",
+        "source": "Sözcü",
+        "published": "2026-07-07T01:01:53+03:00"
       },
       {
         "title": "Dev kaya sığınağında ortaya çıktı: 10 bin yıl boyunca kimse fark etmemiş",
@@ -651,32 +672,18 @@
         "published": "2026-07-06T23:07:40+03:00"
       },
       {
-        "title": "Gemilere dev kanatlar takmaya başladılar",
-        "link": "https://www.sozcu.com.tr/gemilere-dev-kanatlar-takmaya-basladilar-p334292",
-        "description": "Gemilere dev kanatlar takmaya başladılar",
-        "source": "Sözcü",
-        "published": "2026-07-06T22:48:10+03:00"
-      },
-      {
-        "title": "Infantino skandal kararı savundu",
-        "link": "https://www.sozcu.com.tr/infantino-skandal-karari-savundu-p334291",
-        "description": "Infantino skandal kararı savundu",
-        "source": "Sözcü",
-        "published": "2026-07-06T22:37:36+03:00"
-      },
-      {
-        "title": "Asgari ücretin 28 bin TL olduğu ülkede 420 bin TL trafik cezası gelince evine gidip intihar etti",
-        "link": "https://www.sozcu.com.tr/420-bin-liralik-trafik-cezasi-sonrasi-yasamini-yitirdi-p334290",
-        "description": "Asgari ücretin 28 bin TL olduğu ülkede 420 bin TL trafik cezası gelince evine gidip intihar etti",
-        "source": "Sözcü",
-        "published": "2026-07-06T22:26:32+03:00"
+        "title": "Ankara'daki Trump-Erdoğan görüşmesinde gündemde hangi konular var?",
+        "link": "https://www.bbc.com/turkce/articles/c9d223e346jo?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Başkanı Donald Trump bugün Türkiye'ye resmi bir ziyaret gerçekleştirecek ve ardından Ankara'da yapılacak NATO Zirvesi'ne katılacak. Trump, 2009'dan sonra Türkiye'ye ilk resmi ziyareti gerçekleştiren ABD Başkanı olacak. Erdoğan-Trump görüşmesinde...",
+        "source": "BBC Turkish",
+        "published": "2026-07-06T23:06:14+00:00"
       },
       {
         "title": "İspanya Portekiz'i 1-0 yenerek Dünya Kupası'nda çeyrek finale yükseldi",
         "link": "https://www.bbc.com/turkce/articles/cdx7rg1dnjlo?at_medium=RSS&at_campaign=rss",
         "description": "Dünya Kupası'nda çeyrek finale yükselen beşinci takım İspanya oldu. İspanya, Dallas'ta oynanan maçta Portekiz'i 90+1. dakikada Mikel Merino'nun golüyle yenerek tur atladı.",
         "source": "BBC Turkish",
-        "published": "2026-07-06T21:40:49+00:00"
+        "published": "2026-07-06T22:15:30+00:00"
       },
       {
         "title": "Akrabaların silahlı kavgasında 1 kişi öldü",
@@ -749,13 +756,6 @@
         "published": "2026-07-06T13:19:46+00:00"
       },
       {
-        "title": "Norveç futbolunun başındaki kadın Lise Klaveness",
-        "link": "https://www.bbc.com/turkce/articles/cp9llm22y59o?at_medium=RSS&at_campaign=rss",
-        "description": "Brezilya'yı 2-1 mağlup eden İskandinav ülkesinde federasyon başkanı Lise Klaveness siyasi görüşlerini açıklamaktan ve FIFA'nın kararlarını eleştirmekten kaçınmıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-07-06T12:23:41+00:00"
-      },
-      {
         "title": "Komedyen Tuba UIu'nun Sultan Süleyman şakasından yargılandığı dava ertelendi",
         "link": "https://www.bbc.com/turkce/articles/c9q22p9pq3vo?at_medium=RSS&at_campaign=rss",
         "description": "Stand-up gösterisindeki Sultan Süleyman hakkındaki şakası nedeniyle yargılanan komedyen Tuba Ulu, 6 Temmuz'da hakim karşısına çıktı. Dava 14 Temmuz'a ertelendi.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8743
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+84°F",
-    "wind": "↑2mph",
-    "humidity": "66%"
+    "condition": "Zaman zaman şiddetli yağmur",
+    "temp": "+72°F",
+    "wind": "→4mph",
+    "humidity": "91%"
   }
 }
