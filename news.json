@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-07-08T22:05:12.065251+00:00",
+  "updated_at": "2026-07-08T23:35:22.367143+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+        "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+        "description": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
+        "source": "TechCrunch",
+        "published": "2026-07-08T23:11:42+00:00"
+      },
+      {
+        "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+        "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+        "description": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 16 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-08T23:11:28+00:00"
+      },
+      {
+        "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+        "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+        "description": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+        "source": "TechCrunch",
+        "published": "2026-07-08T22:41:33+00:00"
+      },
+      {
+        "title": "Rewriting Bun in Rust",
+        "link": "https://bun.com/blog/bun-in-rust",
+        "description": "Article URL: https://bun.com/blog/bun-in-rust Comments URL: https://news.ycombinator.com/item?id=48837877 Points: 128 # Comments: 37",
+        "source": "HackerNews",
+        "published": "2026-07-08T21:49:59+00:00"
+      },
       {
         "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
         "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
@@ -10,9 +38,16 @@
         "published": "2026-07-08T21:49:33+00:00"
       },
       {
+        "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+        "link": "https://opensourcebarware.com",
+        "description": "Article URL: https://opensourcebarware.com Comments URL: https://news.ycombinator.com/item?id=48837809 Points: 9 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-08T21:43:07+00:00"
+      },
+      {
         "title": "Separating signal from noise in coding evaluations",
         "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-        "description": "Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/ Comments URL: https://news.ycombinator.com/item?id=48837396 Points: 73 # Comments: 32",
+        "description": "Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/ Comments URL: https://news.ycombinator.com/item?id=48837396 Points: 118 # Comments: 49",
         "source": "HackerNews",
         "published": "2026-07-08T21:03:51+00:00"
       },
@@ -26,14 +61,14 @@
       {
         "title": "The classifiers Anthropic puts in front of Fable are too zealous",
         "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-        "description": "Article URL: https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html Comments URL: https://news.ycombinator.com/item?id=48837162 Points: 143 # Comments: 122",
+        "description": "Article URL: https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html Comments URL: https://news.ycombinator.com/item?id=48837162 Points: 176 # Comments: 163",
         "source": "HackerNews",
         "published": "2026-07-08T20:41:33+00:00"
       },
       {
         "title": "Turning a pile of documents into a searchable useable knowledge base",
         "link": "https://github.com/linuxrebel/DocuBrowser",
-        "description": "Article URL: https://github.com/linuxrebel/DocuBrowser Comments URL: https://news.ycombinator.com/item?id=48837110 Points: 21 # Comments: 4",
+        "description": "Article URL: https://github.com/linuxrebel/DocuBrowser Comments URL: https://news.ycombinator.com/item?id=48837110 Points: 40 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-07-08T20:37:29+00:00"
       },
@@ -52,23 +87,9 @@
         "published": "2026-07-08T20:29:50+00:00"
       },
       {
-        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
-        "link": "https://danluu.com/ai-coding/#llm-variance",
-        "description": "Article URL: https://danluu.com/ai-coding/#llm-variance Comments URL: https://news.ycombinator.com/item?id=48836951 Points: 9 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-07-08T20:21:45+00:00"
-      },
-      {
-        "title": "Multigres Supports Listen/Notify Across Pooled Connections",
-        "link": "https://multigres.com/blog/listen-notify",
-        "description": "Article URL: https://multigres.com/blog/listen-notify Comments URL: https://news.ycombinator.com/item?id=48836838 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-08T20:11:40+00:00"
-      },
-      {
         "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
         "link": "https://github.com/animesh-94/Onboard-CLI",
-        "description": "Article URL: https://github.com/animesh-94/Onboard-CLI Comments URL: https://news.ycombinator.com/item?id=48836813 Points: 11 # Comments: 2",
+        "description": "Article URL: https://github.com/animesh-94/Onboard-CLI Comments URL: https://news.ycombinator.com/item?id=48836813 Points: 16 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-07-08T20:09:03+00:00"
       },
@@ -82,16 +103,9 @@
       {
         "title": "FAANG Simulator",
         "link": "https://www.abeyk.com/escape-the-rat-race/",
-        "description": "Article URL: https://www.abeyk.com/escape-the-rat-race/ Comments URL: https://news.ycombinator.com/item?id=48836778 Points: 70 # Comments: 22",
+        "description": "Article URL: https://www.abeyk.com/escape-the-rat-race/ Comments URL: https://news.ycombinator.com/item?id=48836778 Points: 188 # Comments: 70",
         "source": "HackerNews",
         "published": "2026-07-08T20:05:42+00:00"
-      },
-      {
-        "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
-        "link": "https://hnwork.app/",
-        "description": "Hey HN, I built a UI on top of the \"Who is hiring\" posts. Take a look at https://hnwork.app ! One of the downsides of unstructured text posts is the readability due to it being free-form and having little to no format. While there are other tools...",
-        "source": "HackerNews",
-        "published": "2026-07-08T20:00:04+00:00"
       },
       {
         "title": "Amazon’dan Moonraker Projesi: Alexa Çok Daha Zeki Oluyor",
@@ -103,7 +117,7 @@
       {
         "title": "Almost Always Unsigned",
         "link": "https://graphitemaster.github.io/aau/",
-        "description": "Article URL: https://graphitemaster.github.io/aau/ Comments URL: https://news.ycombinator.com/item?id=48836431 Points: 11 # Comments: 0",
+        "description": "Article URL: https://graphitemaster.github.io/aau/ Comments URL: https://news.ycombinator.com/item?id=48836431 Points: 20 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-07-08T19:35:07+00:00"
       },
@@ -113,6 +127,13 @@
         "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
         "source": "TechCrunch",
         "published": "2026-07-08T19:30:16+00:00"
+      },
+      {
+        "title": "New Sweden: the US's long-lost 'secret' colony",
+        "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+        "description": "Article URL: https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony Comments URL: https://news.ycombinator.com/item?id=48836324 Points: 20 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-08T19:26:18+00:00"
       },
       {
         "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
@@ -129,13 +150,6 @@
         "published": "2026-07-08T19:19:15+00:00"
       },
       {
-        "title": "Cloudflare Drop",
-        "link": "https://www.cloudflare.com/drop/",
-        "description": "Article URL: https://www.cloudflare.com/drop/ Comments URL: https://news.ycombinator.com/item?id=48836233 Points: 117 # Comments: 64",
-        "source": "HackerNews",
-        "published": "2026-07-08T19:18:26+00:00"
-      },
-      {
         "title": "Yokmuş Gibi Hissettiren Powerbank: Baseus Picogo Air AM71",
         "link": "https://shiftdelete.net/yokmus-gibi-hissettiren-powerbank-baseus-picogo-air-am71",
         "description": "Baseus, mobil aksesuar pazarında tasarımsal sınırları zorlayan yeni manyetik taşınabilir şarj cihazı Picogo Air AM71 modelini global pazarda kullanıcıların beğenisine sunuyor. Çin’de gerçekleşen lansmanının ardından tüm dünyada satışa çıkan bu yeni...",
@@ -150,11 +164,11 @@
         "published": "2026-07-08T18:46:20+00:00"
       },
       {
-        "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-        "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-        "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-        "source": "TechCrunch",
-        "published": "2026-07-08T18:30:08+00:00"
+        "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+        "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+        "description": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial...",
+        "source": "The Verge",
+        "published": "2026-07-08T18:37:25-04:00"
       },
       {
         "title": "Vivo V80 7.200 mAh Batarya ve 144 Hz Ekranla Gelecek",
@@ -162,13 +176,6 @@
         "description": "Vivo’nun premium orta segmentteki sevilen V serisine eklenecek yeni model olan Vivo V80’in ağustos ayının ortalarında resmi olarak tanıtılacağı sızdırıldı. Serinin bu yeni telefonunda, özellikle batarya kapasitesi ve ekran tarafında yapılan devasa...",
         "source": "ShiftDelete",
         "published": "2026-07-08T18:00:41+00:00"
-      },
-      {
-        "title": "Why this CEO thinks video games make better training data than the internet",
-        "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-        "description": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space...",
-        "source": "TechCrunch",
-        "published": "2026-07-08T17:47:55+00:00"
       },
       {
         "title": "Geçtiğimiz Ay Birçok Yeni Oyuna Daha DLSS Desteği Geldi: İşte Tam Liste!",
@@ -339,13 +346,6 @@
         "published": "2026-07-08T10:43:13-04:00"
       },
       {
-        "title": "Gaming laptops are too expensive right now, but this one’s a good value",
-        "link": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
-        "description": "It’s not a great time to shop for a gaming laptop. The unprecedented rise in cost for RAM (and storage to a slightly lesser extent) has made laptops with low-to-midrange specs cost much more than they should. Recent deals on gaming laptops worth...",
-        "source": "The Verge",
-        "published": "2026-07-08T10:43:00-04:00"
-      },
-      {
         "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
         "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
         "description": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made...",
@@ -354,6 +354,20 @@
       }
     ],
     "dunya": [
+      {
+        "title": "No crude proposals on disability benefits, minister leading review says",
+        "link": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Stephen Timms says personal independence payments (Pip) are not \"fit for purpose\" and need changing.",
+        "source": "BBC News",
+        "published": "2026-07-08T23:10:43+00:00"
+      },
+      {
+        "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+        "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+        "description": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+        "source": "BBC News",
+        "published": "2026-07-08T21:57:19+00:00"
+      },
       {
         "title": "Burnham's last potential rival Al Carns rules out leadership bid",
         "link": "https://www.bbc.co.uk/news/articles/cy9rzelexqlo?at_medium=RSS&at_campaign=rss",
@@ -367,13 +381,6 @@
         "description": "The Meningitis B vaccine does not prevent gonorrhoea infections despite being offered to at-risk men, scientists say.",
         "source": "BBC News",
         "published": "2026-07-08T21:06:53+00:00"
-      },
-      {
-        "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-        "description": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
-        "source": "BBC News",
-        "published": "2026-07-08T20:40:11+00:00"
       },
       {
         "title": "UK heatwave spreads further north and west as temperatures continue to climb",
@@ -423,13 +430,6 @@
         "description": "Families can still benefit even if their children aren't eligible for the free $1,000 contribution from the federal government.",
         "source": "NPR",
         "published": "2026-07-08T16:02:02-04:00"
-      },
-      {
-        "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-        "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-        "description": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-        "source": "BBC News",
-        "published": "2026-07-08T15:30:00+00:00"
       },
       {
         "title": "Police name man wanted over murders of wife and daughters",
@@ -567,18 +567,32 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-temmuz-2026-1732010",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-09T02:30:00+03:00"
+      },
+      {
+        "title": "Erdoğan'ın kritik devlet görüşmelerinde yanından ayırmadığı isim bakın kim çıktı!",
+        "link": "https://www.sozcu.com.tr/erdogan-in-kritik-devlet-gorusmelerinde-yanindan-ayirmadigi-isim-bakin-kim-cikti-p334901",
+        "description": "Erdoğan'ın kritik devlet görüşmelerinde yanından ayırmadığı isim bakın kim çıktı!",
+        "source": "Sözcü",
+        "published": "2026-07-09T01:53:44+03:00"
+      },
+      {
+        "title": "Çocuk parkında boşandığı kadını katletti, 4 yaşındaki kızını yaraladı",
+        "link": "https://www.ntv.com.tr/turkiye/cocuk-parkinda-bosandigi-kadini-katletti-4-yasindaki-kizini-yaraladi-1732016",
+        "description": "Kırklareli'nde kızını parka götüren 26 yaşındaki Çisem Çalkantı kısa süre önce boşandığı Y.K.'nin silahlı saldırısına uğradı. Genç kadın hayatını kaybetti, 4 yaşındaki kızı yaralandı.",
+        "source": "NTV",
+        "published": "2026-07-09T01:48:27+03:00"
+      },
+      {
         "title": "ABD dışında ilk kez üretilecek: Avrupa’da dengeleri değiştirecek füze hamlesi",
         "link": "https://www.sozcu.com.tr/abd-disinda-ilk-kez-uretilecek-avrupa-da-dengeleri-degistirecek-fuze-hamlesi-p334899",
         "description": "ABD dışında ilk kez üretilecek: Avrupa’da dengeleri değiştirecek füze hamlesi",
         "source": "Sözcü",
         "published": "2026-07-09T01:02:08+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-temmuz-2026-1732010",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-09T01:00:00+03:00"
       },
       {
         "title": "Bu ikili çok konuşulur: Salih Özcan'dan ayağının tozuyla Orkun Kökçü sözleri",
@@ -623,6 +637,13 @@
         "published": "2026-07-08T23:51:37+03:00"
       },
       {
+        "title": "NATO Zirvesi'nin ikinci gününde neler yaşandı?",
+        "link": "https://www.bbc.co.uk/turkce/live/c1dy1ygwd9vt?at_medium=RSS&at_campaign=rss",
+        "description": "Ankara'nın ev sahipliğinde düzenlenen NATO Zirvesi'nin ikinci gününde liderler Beştepe'de biraraya geldi. Müttefikler beklendiği gibi kolektif savunmaya odaklanan 5. maddeye yönelik “sarsılmaz kararlılıklarını” vurguladı. Cumhurbaşkanı Erdoğan,...",
+        "source": "BBC Turkish",
+        "published": "2026-07-08T23:35:21.106341+00:00"
+      },
+      {
         "title": "Yerin altında kilometrelerce uzanıyor, aynı bölgede 900 mağara bulunuyor",
         "link": "https://www.sozcu.com.tr/yerin-altinda-kilometrelerce-uzaniyor-ayni-bolgede-900-magara-bulunuyor-p334878",
         "description": "Yerin altında kilometrelerce uzanıyor, aynı bölgede 900 mağara bulunuyor",
@@ -637,6 +658,13 @@
         "published": "2026-07-08T23:13:49+03:00"
       },
       {
+        "title": "ABD'nin saldırıları sonrası İran'ın güney kıyısında patlama sesleri duyuluyor",
+        "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
+        "description": "ABD, Hürmüz Boğazı ve çevresinde İran'a karşı yeni hava saldırıları başlattı. ABD Merkez Komutanlığı (CENTCOM), X üzerinden yaptığı açıklamada, saldırıların Hürmüz Boğazı'nda \"ticari gemilere ve sivil mürettebata yönelik son dönemdeki haksız...",
+        "source": "BBC Turkish",
+        "published": "2026-07-08T23:04:52+00:00"
+      },
+      {
         "title": "134 milyon dolar yatırım aldılar: Yerin 20 kilometre altına inmeye hazırlanıyorlar",
         "link": "https://www.sozcu.com.tr/134-milyon-dolar-yatirim-aldilar-yerin-20-kilometre-altina-inmeye-hazirlaniyorlar-p334872",
         "description": "134 milyon dolar yatırım aldılar: Yerin 20 kilometre altına inmeye hazırlanıyorlar",
@@ -644,11 +672,11 @@
         "published": "2026-07-08T22:49:09+03:00"
       },
       {
-        "title": "Fenerbahçe, ilk hazırlık maçında farka koştu",
-        "link": "https://www.sozcu.com.tr/fenerbahce-ilk-hazirlik-macinda-farka-kostu-p334871",
-        "description": "Fenerbahçe, ilk hazırlık maçında farka koştu",
-        "source": "Sözcü",
-        "published": "2026-07-08T22:44:59+03:00"
+        "title": "BBC editörü Jeremy Bowen: Tüm kabadayılığına rağmen Trump'ın İran'la görüşmekten daha iyi bir seçeneği yok",
+        "link": "https://www.bbc.com/turkce/articles/cvgeyl7lrqqo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Uluslararası Editörü Jeremy Bowen son gelişmeler için, \"Müzakere sürecinin kırılgan olduğunu ve ABD'nin son saldırılarının anlaşmaya varmanın ne kadar zor olacağını gösterdi\" diyor.",
+        "source": "BBC Turkish",
+        "published": "2026-07-08T22:42:51+00:00"
       },
       {
         "title": "İzlanda Başbakanı Frostadottir, Ankara Kalesi'ni gezdi",
@@ -656,20 +684,6 @@
         "description": "İzlanda Başbakanı Kristrun Frostadottir, Ankara Kalesi'ni gezdi. Bir restoranda yemek yiyen Frostadottir, daha sonra şehir manzarasını seyretti.",
         "source": "NTV",
         "published": "2026-07-08T22:29:21+03:00"
-      },
-      {
-        "title": "NATO Zirvesi'nin ikinci gününde neler yaşandı?",
-        "link": "https://www.bbc.co.uk/turkce/live/c1dy1ygwd9vt?at_medium=RSS&at_campaign=rss",
-        "description": "Ankara'nın ev sahipliğinde düzenlenen NATO Zirvesi'nin ikinci gününde liderler Beştepe'de biraraya geldi. Müttefikler beklendiği gibi kolektif savunmaya odaklanan 5. maddeye yönelik “sarsılmaz kararlılıklarını” vurguladı. Cumhurbaşkanı Erdoğan,...",
-        "source": "BBC Turkish",
-        "published": "2026-07-08T22:05:10.407010+00:00"
-      },
-      {
-        "title": "ABD'nin saldırıları sonrası İran'ın güney kıyısında patlama sesleri duyuluyor",
-        "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
-        "description": "ABD, Hürmüz Boğazı ve çevresinde İran'a karşı yeni hava saldırıları başlattı. ABD Merkez Komutanlığı (CENTCOM), X üzerinden yaptığı açıklamada, saldırıların Hürmüz Boğazı'nda \"ticari gemilere ve sivil mürettebata yönelik son dönemdeki haksız...",
-        "source": "BBC Turkish",
-        "published": "2026-07-08T21:57:17+00:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan: Daha güçlü bir NATO'nun temelini Ankara'da attık",
@@ -742,20 +756,6 @@
         "published": "2026-07-08T15:44:12+00:00"
       },
       {
-        "title": "NATO Zirvesi'nde akşam yemeğini iki Michelin yıldızlı Fatih Tutak hazırladı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-nato-zirvesinde-aksam-yemegini-iki-michelin-yildizli-fatih-tutak-hazirladi-1731961",
-        "description": "NATO Liderler Zirvesi'ne katılan liderlere Türk gastronomisini tanıtan lezzetler sunuldu. Menüyü iki Michelin yıldızlı Fatih Tutak'ın hazırladığı öğrenildi.",
-        "source": "NTV",
-        "published": "2026-07-08T13:50:32+03:00"
-      },
-      {
-        "title": "İsrail cezaevinde işkence gördüğünü söyleyen Gazzeli doktorun hayatından endişe ediliyor",
-        "link": "https://www.bbc.com/turkce/articles/c1jy1ywg1p6o?at_medium=RSS&at_campaign=rss",
-        "description": "Doktor Hussam Abu Safiya'nın avukatı BBC'ye yaptığı açıklamada müvekkilinin dövüldüğünü iddia etti.",
-        "source": "BBC Turkish",
-        "published": "2026-07-08T10:34:04+00:00"
-      },
-      {
         "title": "Netanyahu: 'Türkiye'ye F-35 satışı Ortadoğu'da güç dengesini yok eder'",
         "link": "https://www.bbc.com/turkce/articles/c9v24x03dk9o?at_medium=RSS&at_campaign=rss",
         "description": "İsrail Başbakanı Benjamin Netanyahu, ABD'nin Türkiye'ye F-35 savaş uçakları satmasının Ortadoğu'daki güç dengesini \"yok edeceğini\" söyledi.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+82°F",
-    "wind": "↑4mph",
-    "humidity": "66%"
+    "temp": "+81°F",
+    "wind": "↑3mph",
+    "humidity": "67%"
   }
 }
