@@ -1,20 +1,76 @@
 {
-  "updated_at": "2026-07-08T20:43:17.680758+00:00",
+  "updated_at": "2026-07-08T22:05:12.065251+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+        "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+        "description": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
+        "source": "TechCrunch",
+        "published": "2026-07-08T21:49:33+00:00"
+      },
+      {
+        "title": "Separating signal from noise in coding evaluations",
+        "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "description": "Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/ Comments URL: https://news.ycombinator.com/item?id=48837396 Points: 73 # Comments: 32",
+        "source": "HackerNews",
+        "published": "2026-07-08T21:03:51+00:00"
+      },
+      {
+        "title": "Spotify Beklenen Özelliği Duyurdu: Sabitleme Sınırı Artırıldı",
+        "link": "https://shiftdelete.net/spotify-beklenen-ozelligi-duyurdu-sabitleme-siniri-artirildi",
+        "description": "Müzik ve podcast akış platformu Spotify, kullanıcıların yıllardır en çok talep ettiği özelliklerden biri olan kitaplık sabitleme limitinde büyük bir artış yapıyor. Bugüne kadar kitaplığınızın üst kısmında yalnızca dört ögeyi sabitlemenize izin veren...",
+        "source": "ShiftDelete",
+        "published": "2026-07-08T21:00:15+00:00"
+      },
+      {
+        "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+        "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+        "description": "Article URL: https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html Comments URL: https://news.ycombinator.com/item?id=48837162 Points: 143 # Comments: 122",
+        "source": "HackerNews",
+        "published": "2026-07-08T20:41:33+00:00"
+      },
+      {
+        "title": "Turning a pile of documents into a searchable useable knowledge base",
+        "link": "https://github.com/linuxrebel/DocuBrowser",
+        "description": "Article URL: https://github.com/linuxrebel/DocuBrowser Comments URL: https://news.ycombinator.com/item?id=48837110 Points: 21 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-08T20:37:29+00:00"
+      },
+      {
         "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
         "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-        "description": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+        "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
         "source": "TechCrunch",
         "published": "2026-07-08T20:37:03+00:00"
       },
       {
         "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
         "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-        "description": "The race to produce more chips is on, and Europe is in. ASML, the Dutch company that has a near-monopoly on manufacturing the machines used for chipmaking, may soon no longer be an isolated success story. Like its U.S. counterpart, the European...",
+        "description": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
         "source": "TechCrunch",
         "published": "2026-07-08T20:29:50+00:00"
+      },
+      {
+        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+        "link": "https://danluu.com/ai-coding/#llm-variance",
+        "description": "Article URL: https://danluu.com/ai-coding/#llm-variance Comments URL: https://news.ycombinator.com/item?id=48836951 Points: 9 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-08T20:21:45+00:00"
+      },
+      {
+        "title": "Multigres Supports Listen/Notify Across Pooled Connections",
+        "link": "https://multigres.com/blog/listen-notify",
+        "description": "Article URL: https://multigres.com/blog/listen-notify Comments URL: https://news.ycombinator.com/item?id=48836838 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-08T20:11:40+00:00"
+      },
+      {
+        "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+        "link": "https://github.com/animesh-94/Onboard-CLI",
+        "description": "Article URL: https://github.com/animesh-94/Onboard-CLI Comments URL: https://news.ycombinator.com/item?id=48836813 Points: 11 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-08T20:09:03+00:00"
       },
       {
         "title": "Autonomous drone delivery startup Manna plots major US expansion",
@@ -22,6 +78,13 @@
         "description": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.",
         "source": "TechCrunch",
         "published": "2026-07-08T20:06:54+00:00"
+      },
+      {
+        "title": "FAANG Simulator",
+        "link": "https://www.abeyk.com/escape-the-rat-race/",
+        "description": "Article URL: https://www.abeyk.com/escape-the-rat-race/ Comments URL: https://news.ycombinator.com/item?id=48836778 Points: 70 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-07-08T20:05:42+00:00"
       },
       {
         "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
@@ -36,6 +99,13 @@
         "description": "Amazon, sesli asistanı Alexa’yı çok daha gelişmiş ve bağımsız bir yapay zeka aracına dönüştürmek için kod adı ‘Moonraker’ olan yeni bir proje üzerinde çalışıyor. Sızdırılan şirket içi belgelere göre, bu yeni güncelleme ile Alexa’nın eş zamanlı ve...",
         "source": "ShiftDelete",
         "published": "2026-07-08T20:00:04+00:00"
+      },
+      {
+        "title": "Almost Always Unsigned",
+        "link": "https://graphitemaster.github.io/aau/",
+        "description": "Article URL: https://graphitemaster.github.io/aau/ Comments URL: https://news.ycombinator.com/item?id=48836431 Points: 11 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-08T19:35:07+00:00"
       },
       {
         "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -61,7 +131,7 @@
       {
         "title": "Cloudflare Drop",
         "link": "https://www.cloudflare.com/drop/",
-        "description": "Article URL: https://www.cloudflare.com/drop/ Comments URL: https://news.ycombinator.com/item?id=48836233 Points: 26 # Comments: 16",
+        "description": "Article URL: https://www.cloudflare.com/drop/ Comments URL: https://news.ycombinator.com/item?id=48836233 Points: 117 # Comments: 64",
         "source": "HackerNews",
         "published": "2026-07-08T19:18:26+00:00"
       },
@@ -87,25 +157,11 @@
         "published": "2026-07-08T18:30:08+00:00"
       },
       {
-        "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-        "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-        "description": "Article URL: https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997 Comments URL: https://news.ycombinator.com/item?id=48835439 Points: 28 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-07-08T18:21:53+00:00"
-      },
-      {
         "title": "Vivo V80 7.200 mAh Batarya ve 144 Hz Ekranla Gelecek",
         "link": "https://shiftdelete.net/vivo-v80-7-200-mah-batarya-ve-144-hz-ekranla-gelecek",
         "description": "Vivo’nun premium orta segmentteki sevilen V serisine eklenecek yeni model olan Vivo V80’in ağustos ayının ortalarında resmi olarak tanıtılacağı sızdırıldı. Serinin bu yeni telefonunda, özellikle batarya kapasitesi ve ekran tarafında yapılan devasa...",
         "source": "ShiftDelete",
         "published": "2026-07-08T18:00:41+00:00"
-      },
-      {
-        "title": "Grok 4.5",
-        "link": "https://x.ai/news/grok-4-5",
-        "description": "Article URL: https://x.ai/news/grok-4-5 Comments URL: https://news.ycombinator.com/item?id=48835111 Points: 296 # Comments: 212",
-        "source": "HackerNews",
-        "published": "2026-07-08T18:00:32+00:00"
       },
       {
         "title": "Why this CEO thinks video games make better training data than the internet",
@@ -129,27 +185,6 @@
         "published": "2026-07-08T17:46:58+03:00"
       },
       {
-        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-        "link": "https://microsoft.github.io/flint-chart/#/",
-        "description": "Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on...",
-        "source": "HackerNews",
-        "published": "2026-07-08T17:46:12+00:00"
-      },
-      {
-        "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-        "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-        "description": "Article URL: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582 Comments URL: https://news.ycombinator.com/item?id=48834919 Points: 125 # Comments: 58",
-        "source": "HackerNews",
-        "published": "2026-07-08T17:45:26+00:00"
-      },
-      {
-        "title": "What Do We Know About the Microplastics Inside Us?",
-        "link": "https://e360.yale.edu/features/cassandra-rauert-interview",
-        "description": "Article URL: https://e360.yale.edu/features/cassandra-rauert-interview Comments URL: https://news.ycombinator.com/item?id=48834898 Points: 137 # Comments: 61",
-        "source": "HackerNews",
-        "published": "2026-07-08T17:43:37+00:00"
-      },
-      {
         "title": "ChatGPT’nin Yeni GPT-Live Ses Modu Çıktı: Özellikleri ve Detaylar",
         "link": "https://shiftdelete.net/chatgptnin-yeni-gpt-live-ses-modu-cikti-ozellikleri-ve-detaylar",
         "description": "OpenAI, ChatGPT’nin sesli asistan özelliklerini tamamen baştan yaratan iki yeni modeli, GPT-Live-1 ve GPT-Live-1 mini sürümlerini bugün itibarıyla kullanıma sunuyor. Hatırlayacağınız üzere şirket, 2024 yılının yaz aylarında Gelişmiş Ses Modu’nu...",
@@ -164,32 +199,11 @@
         "published": "2026-07-08T17:25:10+03:00"
       },
       {
-        "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-        "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-        "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-        "source": "TechCrunch",
-        "published": "2026-07-08T17:11:18+00:00"
-      },
-      {
-        "title": "GPT‑Live",
-        "link": "https://openai.com/index/introducing-gpt-live/",
-        "description": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 444 # Comments: 301",
-        "source": "HackerNews",
-        "published": "2026-07-08T17:03:19+00:00"
-      },
-      {
         "title": "Huawei Pura 90s Pro Lansman Öncesi Boy Gösterdi",
         "link": "https://shiftdelete.net/huawei-pura-90s-pro-lansman-oncesi-boy-gosterdi",
         "description": "Akıllı telefon dünyasındaki rekabet hız kesmeden devam ederken, gözler Huawei’nin yeni nesil amiral gemisi serisine çevriliyor. Uzun süredir merakla beklenen Huawei Pura 90s serisinin 14 Temmuz’da gerçekleştirilecek küresel lansmanına sayılı günler...",
         "source": "ShiftDelete",
         "published": "2026-07-08T17:00:54+00:00"
-      },
-      {
-        "title": "EU now one step away from reviving private message scanning rules",
-        "link": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-        "description": "Article URL: https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/ Comments URL: https://news.ycombinator.com/item?id=48834296 Points: 228 # Comments: 98",
-        "source": "HackerNews",
-        "published": "2026-07-08T16:53:06+00:00"
       },
       {
         "title": "GTA'ya Alternatif Mobil Oyun: Gangstar Mirage City",
@@ -218,13 +232,6 @@
         "description": "Apple ve Broadcom arasında gelecek yıllarda üretilecek çiplere dair önemli bir anlaşmaya imza atıldı.",
         "source": "Webtekno",
         "published": "2026-07-08T16:35:11+03:00"
-      },
-      {
-        "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-        "link": "https://cognition.com/blog/swe-1-7",
-        "description": "Article URL: https://cognition.com/blog/swe-1-7 Comments URL: https://news.ycombinator.com/item?id=48833866 Points: 184 # Comments: 101",
-        "source": "HackerNews",
-        "published": "2026-07-08T16:19:36+00:00"
       },
       {
         "title": "Pilde Yeni Standart Bu Oldu: vivo V80, 7.200 mAh ile Gelecek!",
@@ -304,13 +311,6 @@
         "published": "2026-07-08T13:31:46-04:00"
       },
       {
-        "title": "Apple Antitröst Davasını Kaybetti",
-        "link": "https://shiftdelete.net/apple-antitrost-davasini-kaybetti",
-        "description": "Apple, Avrupa Birliği'ndeki 'bekçi' statüsüne karşı açtığı antitröst davasını kaybetti. İşte DMA kararı ve Apple'ın geleceğine dair detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-07-08T13:30:18+00:00"
-      },
-      {
         "title": "ChatGPT’s upgraded voice mode is better at shutting up",
         "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
         "description": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation....",
@@ -355,25 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "Burnham's last potential rival Al Carns rules out leadership bid",
+        "link": "https://www.bbc.co.uk/news/articles/cy9rzelexqlo?at_medium=RSS&at_campaign=rss",
+        "description": "Carns's said a leadership contest was \"not the best use of Labour's time\" and \"we need to get on board\" with Burnham.",
+        "source": "BBC News",
+        "published": "2026-07-08T21:31:00+00:00"
+      },
+      {
+        "title": "MenB vaccine offers men no protection from gonorrhoea, claims major study",
+        "link": "https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&at_campaign=rss",
+        "description": "The Meningitis B vaccine does not prevent gonorrhoea infections despite being offered to at-risk men, scientists say.",
+        "source": "BBC News",
+        "published": "2026-07-08T21:06:53+00:00"
+      },
+      {
+        "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+        "description": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
+        "source": "BBC News",
+        "published": "2026-07-08T20:40:11+00:00"
+      },
+      {
         "title": "UK heatwave spreads further north and west as temperatures continue to climb",
         "link": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&at_campaign=rss",
         "description": "This year's third heatwave is one of the longest lasting heatwaves since the infamous year of 1976.",
         "source": "BBC News",
         "published": "2026-07-08T20:34:56+00:00"
-      },
-      {
-        "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
-        "link": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss",
-        "description": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
-        "source": "BBC News",
-        "published": "2026-07-08T20:31:22+00:00"
-      },
-      {
-        "title": "Officer in Chris Kaba shooting may not face misconduct case after rule change",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyk1e0r2ko?at_medium=RSS&at_campaign=rss",
-        "description": "The police watchdog says it will decide soon if Sgt Martyn Blake will face a misconduct panel.",
-        "source": "BBC News",
-        "published": "2026-07-08T18:09:42+00:00"
       },
       {
         "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
@@ -395,6 +402,13 @@
         "description": "The Reform UK leader faces a challenge from Count Binface as the main parties rule out standing in Clacton.",
         "source": "BBC News",
         "published": "2026-07-08T17:14:04+00:00"
+      },
+      {
+        "title": "A new proposal for organ donation sparks concern",
+        "link": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
+        "description": "Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.",
+        "source": "NPR",
+        "published": "2026-07-08T17:00:19-04:00"
       },
       {
         "title": "Farage denies stunt as Reform proposes August by-election date",
@@ -467,13 +481,6 @@
         "published": "2026-07-08T12:46:39-04:00"
       },
       {
-        "title": "TV licence fee is 'yesterday's model', new BBC director general says",
-        "link": "https://www.bbc.co.uk/news/articles/c20yjjm7n87o?at_medium=RSS&at_campaign=rss",
-        "description": "Matt Brittin gives his views on the corporation's future, six weeks after taking over the BBC.",
-        "source": "BBC News",
-        "published": "2026-07-08T12:37:41+00:00"
-      },
-      {
         "title": "Inspiration for Trump's arch was sparked long before the design was first approved",
         "link": "https://www.npr.org/2026/07/08/nx-s1-5869629/trump-arch-inspiration-long-before-design-approved",
         "description": "The design process for new memorials shouldn't be fast-tracked or dictated by a select few, experts say. But a small group of people close to President Trump played an outsized role in the arch's quick approvals.",
@@ -493,13 +500,6 @@
         "description": "The rules of the midterms are being rewritten, from redistricting to campaign money. Mother Jones journalist Ari Berman explains why President Trump seems \"obsessed with the mechanics of voting.\"",
         "source": "NPR",
         "published": "2026-07-08T12:06:45-04:00"
-      },
-      {
-        "title": "Here are the 2026 Emmy nominations",
-        "link": "https://www.npr.org/2026/07/08/nx-s1-5883885/2026-emmy-nominations",
-        "description": "Liza Colón-Zayas and Jeff Hiller presented the nominees on Wednesday morning. The Pitt led all shows with 25 nominations, followed closely by the final season of Hacks with 24.",
-        "source": "NPR",
-        "published": "2026-07-08T11:29:56-04:00"
       },
       {
         "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
@@ -567,11 +567,60 @@
     ],
     "turkiye": [
       {
+        "title": "ABD dışında ilk kez üretilecek: Avrupa’da dengeleri değiştirecek füze hamlesi",
+        "link": "https://www.sozcu.com.tr/abd-disinda-ilk-kez-uretilecek-avrupa-da-dengeleri-degistirecek-fuze-hamlesi-p334899",
+        "description": "ABD dışında ilk kez üretilecek: Avrupa’da dengeleri değiştirecek füze hamlesi",
+        "source": "Sözcü",
+        "published": "2026-07-09T01:02:08+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-temmuz-2026-1732010",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-09T01:00:00+03:00"
+      },
+      {
+        "title": "Bu ikili çok konuşulur: Salih Özcan'dan ayağının tozuyla Orkun Kökçü sözleri",
+        "link": "https://www.sozcu.com.tr/bu-ikili-cok-konusulur-salih-ozcan-dan-ayaginin-tozuyla-orkun-kokcu-sozleri-p334897",
+        "description": "Bu ikili çok konuşulur: Salih Özcan'dan ayağının tozuyla Orkun Kökçü sözleri",
+        "source": "Sözcü",
+        "published": "2026-07-09T00:49:12+03:00"
+      },
+      {
+        "title": "Son dakika... CHP’li belediye başkanına silahlı saldırı",
+        "link": "https://www.sozcu.com.tr/son-dakika-chp-li-belediye-baskanina-silahli-saldiri-p334890",
+        "description": "Son dakika... CHP’li belediye başkanına silahlı saldırı",
+        "source": "Sözcü",
+        "published": "2026-07-09T00:30:18+03:00"
+      },
+      {
+        "title": "Son dakika Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya deprem Kandilli ve AFAD son depremler listesi 09 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-antalyada-deprem-mi-oldu-az-once-deprem-antalyada-nerede-oldu-antalya-deprem-kandilli-ve-afad-son-depremler-listesi-09-temmuz-2026-1732013",
+        "description": "Son dakika Antalya deprem haberleri.. Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya Kandilli ve AFAD son depremler.. 09 Temmuz 2026 Antalya deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Antalya'da?...",
+        "source": "NTV",
+        "published": "2026-07-09T00:30:00+03:00"
+      },
+      {
+        "title": "Bin yıl boyunca nehrin altında kalmış",
+        "link": "https://www.sozcu.com.tr/bin-yil-boyunca-nehrin-altinda-kalmis-p334892",
+        "description": "Bin yıl boyunca nehrin altında kalmış",
+        "source": "Sözcü",
+        "published": "2026-07-09T00:22:26+03:00"
+      },
+      {
+        "title": "Beşiktaş'ın yeni transferi İstanbul'a geldi",
+        "link": "https://www.sozcu.com.tr/besiktas-in-yeni-transferi-istanbul-a-geldi-p334888",
+        "description": "Beşiktaş'ın yeni transferi İstanbul'a geldi",
+        "source": "Sözcü",
+        "published": "2026-07-09T00:08:59+03:00"
+      },
+      {
         "title": "Son dakika... Trump 'saldıracağız' demişti: İran'da patlama sesleri",
         "link": "https://www.sozcu.com.tr/son-dakika-trump-saldiracagiz-demisti-iran-da-patlama-sesleri-p334874",
         "description": "Son dakika... Trump 'saldıracağız' demişti: İran'da patlama sesleri",
         "source": "Sözcü",
-        "published": "2026-07-08T23:41:20+03:00"
+        "published": "2026-07-08T23:51:37+03:00"
       },
       {
         "title": "Yerin altında kilometrelerce uzanıyor, aynı bölgede 900 mağara bulunuyor",
@@ -595,13 +644,6 @@
         "published": "2026-07-08T22:49:09+03:00"
       },
       {
-        "title": "Fenerbahçe, Greenwood'da sona geldi! Maaşı belli oldu",
-        "link": "https://www.sozcu.com.tr/fenerbahce-greenwood-da-sona-geldi-evi-bile-hazir-p334866",
-        "description": "Fenerbahçe, Greenwood'da sona geldi! Maaşı belli oldu",
-        "source": "Sözcü",
-        "published": "2026-07-08T22:47:57+03:00"
-      },
-      {
         "title": "Fenerbahçe, ilk hazırlık maçında farka koştu",
         "link": "https://www.sozcu.com.tr/fenerbahce-ilk-hazirlik-macinda-farka-kostu-p334871",
         "description": "Fenerbahçe, ilk hazırlık maçında farka koştu",
@@ -616,18 +658,18 @@
         "published": "2026-07-08T22:29:21+03:00"
       },
       {
-        "title": "Bir Avrupa ülkesi NATO Bildirgesi’ne karşı çıktı: Biz katkı sağlamayacağız",
-        "link": "https://www.sozcu.com.tr/bir-avrupa-ulkesi-nato-bildirgesi-ne-karsi-cikti-biz-katki-saglamayacagiz-p334869",
-        "description": "Bir Avrupa ülkesi NATO Bildirgesi’ne karşı çıktı: Biz katkı sağlamayacağız",
-        "source": "Sözcü",
-        "published": "2026-07-08T22:21:01+03:00"
+        "title": "NATO Zirvesi'nin ikinci gününde neler yaşandı?",
+        "link": "https://www.bbc.co.uk/turkce/live/c1dy1ygwd9vt?at_medium=RSS&at_campaign=rss",
+        "description": "Ankara'nın ev sahipliğinde düzenlenen NATO Zirvesi'nin ikinci gününde liderler Beştepe'de biraraya geldi. Müttefikler beklendiği gibi kolektif savunmaya odaklanan 5. maddeye yönelik “sarsılmaz kararlılıklarını” vurguladı. Cumhurbaşkanı Erdoğan,...",
+        "source": "BBC Turkish",
+        "published": "2026-07-08T22:05:10.407010+00:00"
       },
       {
-        "title": "Erdoğan anlattı: Liderler mehter marşı ve yeniçerileri nasıl karşıladı?",
-        "link": "https://www.sozcu.com.tr/erdogan-anlatti-liderler-mehter-marsi-ve-yenicerileri-nasil-karsiladi-p334868",
-        "description": "Erdoğan anlattı: Liderler mehter marşı ve yeniçerileri nasıl karşıladı?",
-        "source": "Sözcü",
-        "published": "2026-07-08T22:06:22+03:00"
+        "title": "ABD'nin saldırıları sonrası İran'ın güney kıyısında patlama sesleri duyuluyor",
+        "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
+        "description": "ABD, Hürmüz Boğazı ve çevresinde İran'a karşı yeni hava saldırıları başlattı. ABD Merkez Komutanlığı (CENTCOM), X üzerinden yaptığı açıklamada, saldırıların Hürmüz Boğazı'nda \"ticari gemilere ve sivil mürettebata yönelik son dönemdeki haksız...",
+        "source": "BBC Turkish",
+        "published": "2026-07-08T21:57:17+00:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan: Daha güçlü bir NATO'nun temelini Ankara'da attık",
@@ -635,27 +677,6 @@
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, NATO zirvesinin kapanış konuşmasında, daha güçlü bir NATO'nun temellerinin Ankara'da atıldığını söyledi.",
         "source": "NTV",
         "published": "2026-07-08T21:56:04+03:00"
-      },
-      {
-        "title": "Şair Ahmet Telli entübe edildi",
-        "link": "https://www.sozcu.com.tr/sair-ahmet-telli-entube-edildi-p334865",
-        "description": "Şair Ahmet Telli entübe edildi",
-        "source": "Sözcü",
-        "published": "2026-07-08T21:54:07+03:00"
-      },
-      {
-        "title": "Evleri tek tek orman yuttu",
-        "link": "https://www.sozcu.com.tr/evleri-tek-tek-orman-yuttu-p334863",
-        "description": "Evleri tek tek orman yuttu",
-        "source": "Sözcü",
-        "published": "2026-07-08T21:48:52+03:00"
-      },
-      {
-        "title": "NATO Zirvesi'nin ikinci gününde neler yaşandı?",
-        "link": "https://www.bbc.co.uk/turkce/live/c1dy1ygwd9vt?at_medium=RSS&at_campaign=rss",
-        "description": "Ankara'nın ev sahipliğinde düzenlenen NATO Zirvesi'nin ikinci gününde liderler Beştepe'de biraraya geldi. Müttefikler beklendiği gibi kolektif savunmaya odaklanan 5. maddeye yönelik “sarsılmaz kararlılıklarını” vurguladı. Cumhurbaşkanı Erdoğan,...",
-        "source": "BBC Turkish",
-        "published": "2026-07-08T20:43:14.263554+00:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan: F-35'ler Türkiye'ye teslim edildiğinde tüm dünya 'ABD sözünü tuttu' diyecek",
@@ -721,32 +742,11 @@
         "published": "2026-07-08T15:44:12+00:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: NATO 3.0 için kısıtlamalar kalkmalı",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-nato-30-icin-kisitlamalar-kalkmali-1731951",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ankara'daki NATO Zirvesi'nin açılış konuşmasını yaptı; 3.0 hedefine geniş yer ayırırken \"Savunma başta olmak üzere müttefikler arasındaki kısıtlamalar kalkmalı.\" ifadesini kullandı.",
-        "source": "NTV",
-        "published": "2026-07-08T15:36:40+03:00"
-      },
-      {
-        "title": "ABD-İran gerilimi yeniden tırmandı: 'Muhtemelen bu gece yine vuracağız'",
-        "link": "https://www.bbc.com/turkce/articles/czdemgm5gjmo?at_medium=RSS&at_campaign=rss",
-        "description": "ABD ve İran arasında son iki gündür yeniden patlak veren çatışmaların ardından, ABD Başkanı Donald Trump, \"Bence ateşkes bitti\" dedi.",
-        "source": "BBC Turkish",
-        "published": "2026-07-08T14:32:16+00:00"
-      },
-      {
         "title": "NATO Zirvesi'nde akşam yemeğini iki Michelin yıldızlı Fatih Tutak hazırladı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-nato-zirvesinde-aksam-yemegini-iki-michelin-yildizli-fatih-tutak-hazirladi-1731961",
         "description": "NATO Liderler Zirvesi'ne katılan liderlere Türk gastronomisini tanıtan lezzetler sunuldu. Menüyü iki Michelin yıldızlı Fatih Tutak'ın hazırladığı öğrenildi.",
         "source": "NTV",
         "published": "2026-07-08T13:50:32+03:00"
-      },
-      {
-        "title": "NATO Zirvesi’ni takip eden basın mensuplarından \"Lokum\"a yoğun ilgi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-nato-zirvesini-takip-eden-basin-mensuplarindan-lokuma-yogun-ilgi-1731957",
-        "description": "Cumhurbaşkanlığı Millet Kütüphanesi'nde NATO Zirvesi'ni takip eden yabancı gazetecilerin arasına giren Ankara kedisi \"Lokum\" ilgi odağı oldu.",
-        "source": "NTV",
-        "published": "2026-07-08T13:02:27+03:00"
       },
       {
         "title": "İsrail cezaevinde işkence gördüğünü söyleyen Gazzeli doktorun hayatından endişe ediliyor",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8758
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+90°F",
-    "wind": "←4mph",
-    "humidity": "56%"
+    "condition": "Güneşli",
+    "temp": "+82°F",
+    "wind": "↑4mph",
+    "humidity": "66%"
   }
 }
