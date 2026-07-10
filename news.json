@@ -1,13 +1,48 @@
 {
-  "updated_at": "2026-07-10T20:38:41.904999+00:00",
+  "updated_at": "2026-07-10T22:02:29.540905+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+        "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+        "description": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+        "source": "TechCrunch",
+        "published": "2026-07-10T21:51:55+00:00"
+      },
+      {
+        "title": "Moss (YC F25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+        "description": "Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk Comments URL: https://news.ycombinator.com/item?id=48865332 Points: 0 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-10T21:11:18+00:00"
+      },
+      {
+        "title": "Prismata: Confining cross-site prompt injection in web agents",
+        "link": "https://arxiv.org/abs/2607.08147",
+        "description": "Article URL: https://arxiv.org/abs/2607.08147 Comments URL: https://news.ycombinator.com/item?id=48865238 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-10T21:03:38+00:00"
+      },
       {
         "title": "Apple sues OpenAI over alleged trade secret theft",
         "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
         "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
         "source": "TechCrunch",
-        "published": "2026-07-10T20:32:00+00:00"
+        "published": "2026-07-10T21:00:29+00:00"
+      },
+      {
+        "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+        "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+        "description": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 55 # Comments: 27",
+        "source": "HackerNews",
+        "published": "2026-07-10T20:52:28+00:00"
+      },
+      {
+        "title": "Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker",
+        "link": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html",
+        "description": "Article URL: https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html Comments URL: https://news.ycombinator.com/item?id=48864825 Points: 22 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-07-10T20:29:55+00:00"
       },
       {
         "title": "Oppo Find N7’nin Batarya Kapasitesi Sızdırıldı: Katlanabilir Telefonlarda Yeni Dönem",
@@ -17,18 +52,18 @@
         "published": "2026-07-10T20:00:32+00:00"
       },
       {
-        "title": "An Update on the scraper situation",
-        "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-        "description": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/ Comments URL: https://news.ycombinator.com/item?id=48864252 Points: 8 # Comments: 4",
+        "title": "Don't discontinue Gemini 2.5 Flash",
+        "link": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+        "description": "Article URL: https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246 Comments URL: https://news.ycombinator.com/item?id=48864507 Points: 41 # Comments: 24",
         "source": "HackerNews",
-        "published": "2026-07-10T19:38:34+00:00"
+        "published": "2026-07-10T20:00:28+00:00"
       },
       {
-        "title": "Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
-        "link": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-        "description": "Article URL: https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot Comments URL: https://news.ycombinator.com/item?id=48864158 Points: 73 # Comments: 8",
+        "title": "An Update on the scraper situation",
+        "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+        "description": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/ Comments URL: https://news.ycombinator.com/item?id=48864252 Points: 28 # Comments: 16",
         "source": "HackerNews",
-        "published": "2026-07-10T19:30:12+00:00"
+        "published": "2026-07-10T19:38:34+00:00"
       },
       {
         "title": "TÜM YAPAY ZEKALARI İÇİNE TOPLAYAN TELEFON | TECNO CAMON 50 Ultra 5G İnceleme",
@@ -40,7 +75,7 @@
       {
         "title": "Materials innovation has a scale-up problem, not discovery",
         "link": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
-        "description": "Article URL: https://www.atomscale.ai/updates/our-thesis-atom-to-scale Comments URL: https://news.ycombinator.com/item?id=48863849 Points: 10 # Comments: 0",
+        "description": "Article URL: https://www.atomscale.ai/updates/our-thesis-atom-to-scale Comments URL: https://news.ycombinator.com/item?id=48863849 Points: 20 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-07-10T19:03:36+00:00"
       },
@@ -54,28 +89,21 @@
       {
         "title": "How the terrorist group Boko Haram uses frontier AI",
         "link": "https://casp.ac/reports/ai-enabled-terrorism",
-        "description": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 48 # Comments: 46",
+        "description": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 95 # Comments: 85",
         "source": "HackerNews",
         "published": "2026-07-10T18:49:26+00:00"
       },
       {
-        "title": "45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC",
-        "link": "https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc",
-        "description": "Article URL: https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc Comments URL: https://news.ycombinator.com/item?id=48863602 Points: 30 # Comments: 28",
-        "source": "HackerNews",
-        "published": "2026-07-10T18:41:10+00:00"
-      },
-      {
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "description": "Article URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 155 # Comments: 135",
+        "description": "Article URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 219 # Comments: 199",
         "source": "HackerNews",
         "published": "2026-07-10T18:29:19+00:00"
       },
       {
         "title": "New York City to become first in US to ban deceptive subscription practices",
         "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-        "description": "Article URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 154 # Comments: 66",
+        "description": "Article URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 252 # Comments: 93",
         "source": "HackerNews",
         "published": "2026-07-10T18:26:24+00:00"
       },
@@ -101,11 +129,11 @@
         "published": "2026-07-10T18:00:51+00:00"
       },
       {
-        "title": "War Atlas: An interactive cartography of every named war in human history",
-        "link": "https://waratlas.org",
-        "description": "Article URL: https://waratlas.org Comments URL: https://news.ycombinator.com/item?id=48863080 Points: 49 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-07-10T17:52:48+00:00"
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "description": "Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets \"for the benefit of OpenAI.\" In its complaint, Apple alleges that it has uncovered \"a pattern of theft of Apple's trade secrets...",
+        "source": "The Verge",
+        "published": "2026-07-10T17:56:49-04:00"
       },
       {
         "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
@@ -120,6 +148,13 @@
         "description": "İspanya-Belçika maçı canlı izlemek için TRT 1 yayın bilgilerini derledik. TRT 1 maç yayını için frekans bilgileri de haberimizde yer alıyor.",
         "source": "Webtekno",
         "published": "2026-07-10T17:29:35+03:00"
+      },
+      {
+        "title": "ICE is threatening to deport witnesses of its latest shooting",
+        "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+        "description": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS...",
+        "source": "The Verge",
+        "published": "2026-07-10T17:23:13-04:00"
       },
       {
         "title": "Netflix 6 Yıl Sonra Ücretsiz Deneme Sürelerini Geri Getiriyor: Türkiye'ye de Gelecek mi?",
@@ -185,20 +220,6 @@
         "published": "2026-07-10T16:51:07+00:00"
       },
       {
-        "title": "The tech of 'Terminator 2' – an oral history (2017)",
-        "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-        "description": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/ Comments URL: https://news.ycombinator.com/item?id=48862365 Points: 98 # Comments: 41",
-        "source": "HackerNews",
-        "published": "2026-07-10T16:48:41+00:00"
-      },
-      {
-        "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-        "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-        "description": "Article URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/ Comments URL: https://news.ycombinator.com/item?id=48862252 Points: 104 # Comments: 71",
-        "source": "HackerNews",
-        "published": "2026-07-10T16:37:52+00:00"
-      },
-      {
         "title": "Disney+ is considering a free streaming tier, report says",
         "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
         "description": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
@@ -248,13 +269,6 @@
         "published": "2026-07-10T15:30:48+00:00"
       },
       {
-        "title": "ICE is threatening to deport witnesses of its latest shooting",
-        "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-        "description": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS...",
-        "source": "The Verge",
-        "published": "2026-07-10T15:18:42-04:00"
-      },
-      {
         "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
         "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
         "description": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
@@ -281,13 +295,6 @@
         "description": "Samsung, 1.400 nit parlaklık sunan yeni OLED panel teknolojisini DisplayHDR True Black 1400 sertifikası ile piyasaya sürmeye hazırlanıyor.",
         "source": "ShiftDelete",
         "published": "2026-07-10T14:30:59+00:00"
-      },
-      {
-        "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-        "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-        "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
-        "source": "TechCrunch",
-        "published": "2026-07-10T14:19:40+00:00"
       },
       {
         "title": "Redmi K100 Pro Serisi Beklenenden Erken Piyasaya Sürülebilir",
@@ -344,22 +351,29 @@
         "description": "The Trump phone was never a serious phone. Not when it was announced last June, in dodgy renders and with an incoherent spec sheet. Nor when Trump Mobile admitted - just two weeks later - that it wouldn't be made in the US. Not even when the company...",
         "source": "The Verge",
         "published": "2026-07-10T10:46:59-04:00"
-      },
-      {
-        "title": "Empathy for the optimizers",
-        "link": "https://www.theverge.com/column/963917/optimizer-bryan-johnson-biohacking-health",
-        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Bryan Johnson, best known as the...",
-        "source": "The Verge",
-        "published": "2026-07-10T09:27:36-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Anton du Beke 'devastated' at death of Strictly co-star Ann Widdecombe",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&at_campaign=rss",
-        "description": "Kemi Badenoch said the Conservative Party was \"reeling\" as the former minister's death is investigated as murder.",
+        "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
+        "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
+        "description": "There was initially no suggestion of suspicious circumstances when her death was announced on Friday morning.",
         "source": "BBC News",
-        "published": "2026-07-10T20:11:44+00:00"
+        "published": "2026-07-10T21:38:20+00:00"
+      },
+      {
+        "title": "Pugnacious, charismatic and she always answered the question - Chris Mason on Widdecombe",
+        "link": "https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&at_campaign=rss",
+        "description": "Plenty in Westminster who knew her, whether they agreed with her or not, found her immensely likeable.",
+        "source": "BBC News",
+        "published": "2026-07-10T21:27:28+00:00"
+      },
+      {
+        "title": "Pitbull fans set Guinness World Record at BST Hyde Park show",
+        "link": "https://www.bbc.co.uk/news/articles/cp8leyy42nvo?at_medium=RSS&at_campaign=rss",
+        "description": "Mr Worldwide's fans have set the Guinness World Record for the largest gathering of people wearing bald caps.",
+        "source": "BBC News",
+        "published": "2026-07-10T20:35:05+00:00"
       },
       {
         "title": "Triple murder suspect arrested in South Africa",
@@ -367,13 +381,6 @@
         "description": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
         "source": "BBC News",
         "published": "2026-07-10T20:09:57+00:00"
-      },
-      {
-        "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
-        "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
-        "description": "There was initially no suggestion of suspicious circumstances when her death was announced on Friday morning.",
-        "source": "BBC News",
-        "published": "2026-07-10T19:39:00+00:00"
       },
       {
         "title": "Harry visits King with Meghan and children for first time in four years",
@@ -395,6 +402,13 @@
         "description": "A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.",
         "source": "BBC News",
         "published": "2026-07-10T18:04:39+00:00"
+      },
+      {
+        "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins",
+        "description": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27.",
+        "source": "NPR",
+        "published": "2026-07-10T17:22:01-04:00"
       },
       {
         "title": "Sam Fender and Olivia Dean make UK chart history with Rein Me In",
@@ -423,13 +437,6 @@
         "description": "Lorenzo Salgado Araujo was a 52-year-old Mexican national who worked in construction for more than three decades. The father of three was shot by Immigration and Customs Enforcement agents after they attempted to pull him over.",
         "source": "NPR",
         "published": "2026-07-10T15:08:57-04:00"
-      },
-      {
-        "title": "Top Boy actor Micheal Ward found not guilty of rape",
-        "link": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss",
-        "description": "Micheal Ward told the jury the encounter with his accuser was \"wholly consensual\".",
-        "source": "BBC News",
-        "published": "2026-07-10T14:52:59+00:00"
       },
       {
         "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
@@ -491,13 +498,6 @@
         "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
         "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
         "description": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
-        "source": "NPR",
-        "published": "2026-07-10T05:00:00-04:00"
-      },
-      {
-        "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
-        "description": "Many schools rely on consumer fees funneled through the federal government to cut internet costs. FCC Chairman Brendan Carr called for ending this program before Donald Trump tapped him for the job.",
         "source": "NPR",
         "published": "2026-07-10T05:00:00-04:00"
       },
@@ -567,18 +567,81 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-temmuz-2026-1732321",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-11T01:00:00+03:00"
+      },
+      {
+        "title": "Resmi Gazete yayınlandı: Danimarka Büyükelçiliği'ne Burak Özügergin atandı",
+        "link": "https://www.sozcu.com.tr/resmi-gazete-yayinlandi-danimarka-buyukelciligi-ne-burak-ozugergin-atandi-p335506",
+        "description": "Resmi Gazete yayınlandı: Danimarka Büyükelçiliği'ne Burak Özügergin atandı",
+        "source": "Sözcü",
+        "published": "2026-07-11T00:57:26+03:00"
+      },
+      {
+        "title": "Halı saha maçında yere yığıldı: 26 yaşındaki uzman çavuş kurtarılamadı",
+        "link": "https://www.sozcu.com.tr/hali-saha-macinda-yere-yigildi-26-yasindaki-uzman-cavus-kurtarilamadi-p335504",
+        "description": "Halı saha maçında yere yığıldı: 26 yaşındaki uzman çavuş kurtarılamadı",
+        "source": "Sözcü",
+        "published": "2026-07-11T00:56:34+03:00"
+      },
+      {
         "title": "Trump, gizli İran talimatını ilk kez açıkladı",
         "link": "https://www.sozcu.com.tr/trump-gizli-iran-talimatini-ilk-kez-acikladi-p335496",
         "description": "Trump, gizli İran talimatını ilk kez açıkladı",
         "source": "Sözcü",
-        "published": "2026-07-10T23:22:33+03:00"
+        "published": "2026-07-11T00:36:19+03:00"
       },
       {
-        "title": "Arnavutköy'de dehşet! Boşandığı eşi ve oğlunu öldürüp yaşamına son verdi",
-        "link": "https://www.sozcu.com.tr/arnavutkoy-de-bosandigi-esi-ve-oglunu-oldurup-yasamina-son-verdi-p335489",
-        "description": "Arnavutköy'de dehşet! Boşandığı eşi ve oğlunu öldürüp yaşamına son verdi",
+        "title": "Bolu Belediyesi davasında ara karar. İki sanık tahliye edildi",
+        "link": "https://www.ntv.com.tr/turkiye/bolu-belediyesi-davasinda-ara-karar-iki-sanik-tahliye-edildi-1732324",
+        "description": "Bolu Belediyesi'ne yönelik irtikap soruşturmasında, Tanju Özcan'ın da aralarında olduğu 19 sanık hakim karşısına çıktı. 2 tutuklu sanık tahliye edilirken, Tanju Özcan'ın da aralarında olduğu 4 kişinin tutukluluk hallerinin devamına karar verildi.",
+        "source": "NTV",
+        "published": "2026-07-11T00:31:38+03:00"
+      },
+      {
+        "title": "Özel hastaneye ateş açıp o anları kayda aldılar",
+        "link": "https://www.sozcu.com.tr/ozel-hastaneye-ates-acip-o-anlari-kayda-aldilar-p335503",
+        "description": "Özel hastaneye ateş açıp o anları kayda aldılar",
         "source": "Sözcü",
-        "published": "2026-07-10T23:18:49+03:00"
+        "published": "2026-07-11T00:28:44+03:00"
+      },
+      {
+        "title": "Suudi Arabistan'da 40 yıl mahsur kalan Türk vatandaşı yurda getirildi",
+        "link": "https://www.sozcu.com.tr/ali-baybas-turkiye-ye-getirildi-p335502",
+        "description": "Suudi Arabistan'da 40 yıl mahsur kalan Türk vatandaşı yurda getirildi",
+        "source": "Sözcü",
+        "published": "2026-07-11T00:18:43+03:00"
+      },
+      {
+        "title": "Düğün eğlencesi faciayla bitti: Maganda kurşunu can aldı",
+        "link": "https://www.sozcu.com.tr/dugun-eglencesi-faciayla-bitti-maganda-kursunu-can-aldi-p335501",
+        "description": "Düğün eğlencesi faciayla bitti: Maganda kurşunu can aldı",
+        "source": "Sözcü",
+        "published": "2026-07-11T00:13:28+03:00"
+      },
+      {
+        "title": "Merino yine sahnede İspanya yarı finalde! Dünya Kupası’nda ilk yarı final eşleşmesi belli oldu",
+        "link": "https://www.sozcu.com.tr/merino-yine-sahnede-ispanya-yari-finalde-dunya-kupasi-nda-ilk-yari-final-eslesmesi-belli-oldu-p335500",
+        "description": "Merino yine sahnede İspanya yarı finalde! Dünya Kupası’nda ilk yarı final eşleşmesi belli oldu",
+        "source": "Sözcü",
+        "published": "2026-07-11T00:04:39+03:00"
+      },
+      {
+        "title": "Manifest konserinde korkutan an: Sahneden inmek zorunda kaldı",
+        "link": "https://www.sozcu.com.tr/manifest-konserinde-korkutan-an-sahneden-ayrilmak-zorunda-kaldi-p335499",
+        "description": "Manifest konserinde korkutan an: Sahneden inmek zorunda kaldı",
+        "source": "Sözcü",
+        "published": "2026-07-10T23:57:00+03:00"
+      },
+      {
+        "title": "Mekke'de mahsur kalan Ali Baybaş, 40 yıl sonra Türkiye'ye döndü",
+        "link": "https://www.ntv.com.tr/turkiye/mekkede-mahsur-kalan-ali-baybas-40-yil-sonra-evine-donuyor-1732302",
+        "description": "40 yıl önce çalışmak için gittiği Suudi Arabistan'da yurt dışı çıkış yasağı nedeniyle mahsur kalan 77 yaşındaki Ali Baybaş, diplomatik girişimlerin ardından memleketine döndü.",
+        "source": "NTV",
+        "published": "2026-07-10T23:49:37+03:00"
       },
       {
         "title": "Motosiklet eğitmeni feci kazada yaşamını yitirdi",
@@ -595,20 +658,6 @@
         "published": "2026-07-10T23:12:41+03:00"
       },
       {
-        "title": "Fenerbahçe’den Greenwood açıklaması! 'Geliyor'",
-        "link": "https://www.sozcu.com.tr/fenerbahce-den-greenwood-aciklamasi-geliyor-p335495",
-        "description": "Fenerbahçe’den Greenwood açıklaması! 'Geliyor'",
-        "source": "Sözcü",
-        "published": "2026-07-10T22:53:55+03:00"
-      },
-      {
-        "title": "Özgür Özel'den yeni parti mesajı: Sabrın taştığı yerde kurarız",
-        "link": "https://www.sozcu.com.tr/zogru-ozel-aciklamalar-10-temmuz-2026-p335493",
-        "description": "Özgür Özel'den yeni parti mesajı: Sabrın taştığı yerde kurarız",
-        "source": "Sözcü",
-        "published": "2026-07-10T22:41:33+03:00"
-      },
-      {
         "title": "İmzalar atıldı. Türkiye ve KKTC arasında doğal gaz boru hattı inşa edilecek",
         "link": "https://www.ntv.com.tr/turkiye/imzalar-atildi-turkiye-ve-kktc-arasinda-dogal-gaz-boru-hatti-insa-edilecek-1732319",
         "description": "Türkiye ve KKTC arasında stratejik bir enerji projesi için imzalar atıldı. 2028'de hayata geçirilecek doğalgaz boru hattı projesi için mutabakat zaptı imzalandı.",
@@ -616,46 +665,11 @@
         "published": "2026-07-10T22:25:06+03:00"
       },
       {
-        "title": "İş İnsanı Halit Yukay'ın ölümünde Bilirkişi'den yeni ifade: Ana yoldan tehlikeli rotaya yöneldi",
-        "link": "https://www.sozcu.com.tr/is-insani-halit-yukay-in-olumunde-bilirkisi-den-yeni-ifade-ana-yoldan-tehlikeli-rotaya-yoneldi-p335491",
-        "description": "İş İnsanı Halit Yukay'ın ölümünde Bilirkişi'den yeni ifade: Ana yoldan tehlikeli rotaya yöneldi",
-        "source": "Sözcü",
-        "published": "2026-07-10T22:17:04+03:00"
-      },
-      {
-        "title": "İspanya'da orman yangını: 12 ölü, 23 kayıp",
-        "link": "https://www.sozcu.com.tr/ispanya-da-orman-yangini-12-olu-23-kayip-p335490",
-        "description": "İspanya'da orman yangını: 12 ölü, 23 kayıp",
-        "source": "Sözcü",
-        "published": "2026-07-10T22:09:43+03:00"
-      },
-      {
         "title": "Kendini yakmaya çalışırken 10 hektarlık alanı kül etti",
         "link": "https://www.ntv.com.tr/turkiye/kendi-yakmaya-calisirken-10-hektarlik-alani-kul-etti-1732316",
         "description": "Muğla'da kendisini yakmak isteyen 61 yaşındaki bir kadın, 10 hektarlık makilik alanı yaktı. Kurtarılan kadın hastaneye kaldırıldı.",
         "source": "NTV",
         "published": "2026-07-10T22:02:59+03:00"
-      },
-      {
-        "title": "Wimbledon’da tek erkekler finali belli oldu",
-        "link": "https://www.sozcu.com.tr/wimbledon-da-tek-erkekler-finali-belli-oldu-p335488",
-        "description": "Wimbledon’da tek erkekler finali belli oldu",
-        "source": "Sözcü",
-        "published": "2026-07-10T22:00:30+03:00"
-      },
-      {
-        "title": "Sadece Ajda Pekkan değil First Lady’lere defile sürprizi",
-        "link": "https://www.sozcu.com.tr/sadece-ajda-pekkan-degil-first-lady-lere-defile-surprizi-p335487",
-        "description": "Sadece Ajda Pekkan değil First Lady’lere defile sürprizi",
-        "source": "Sözcü",
-        "published": "2026-07-10T21:55:06+03:00"
-      },
-      {
-        "title": "Mekke'de mahsur kalan Ali Baybaş, 40 yıl sonra evine dönüyor",
-        "link": "https://www.ntv.com.tr/turkiye/mekkede-mahsur-kalan-ali-baybas-40-yil-sonra-evine-donuyor-1732302",
-        "description": "40 yıl önce çalışmak için gittiği Suudi Arabistan'da yurt dışı çıkış yasağı nedeniyle mahsur kalan 77 yaşındaki Ali Baybaş, diplomatik girişimlerin ardından memleketine dönüyor.",
-        "source": "NTV",
-        "published": "2026-07-10T19:38:46+03:00"
       },
       {
         "title": "Mehmet Akif Ersoy hakkında iddianame kabul edildi. 266 yıl hapis istemi",
@@ -705,20 +719,6 @@
         "description": "15 Temmuz resmi tatil mi? Sorusunun yanıtı, 15 Temmuz Demokrasi ve Milli Birlik Günü'nün yaklaşması nedeniyle merak ediliyor. Resmi tatillerde mesai yapmayan kamu, kurum ve kuruluşları nedeniyle özel işlerini halledecek olan vatandaşlar planlarını...",
         "source": "NTV",
         "published": "2026-07-10T15:39:59+03:00"
-      },
-      {
-        "title": "İhbar üzerine takip edildi, TIR'dan kilolarca uyuşturucu çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/ihbar-uzerine-takip-edildi-tirdan-kilolarca-uyusturucu-cikti-1732290",
-        "description": "Van’da uyuşturucu madde imalatçılarına yönelik düzenlenen operasyonda 333 kilogram skunk uyuşturucu maddesi ele geçirildi.",
-        "source": "NTV",
-        "published": "2026-07-10T14:43:10+03:00"
-      },
-      {
-        "title": "Dedenin büyük acısı: Küçük Aybüke kurtarılamadı",
-        "link": "https://www.ntv.com.tr/turkiye/dedenin-buyuk-acisi-kucuk-aybuke-kurtarilamadi-1732287",
-        "description": "İstanbul'da dedesinin kullandığı hafif ticari aracın altında kalan iki yaşındaki çocuk yaşamını yitirdi.",
-        "source": "NTV",
-        "published": "2026-07-10T14:08:09+03:00"
       },
       {
         "title": "Munchausen sendromu: 'Annem yıllarca beni kasten hasta etti'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8748
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+85°F",
-    "wind": "→6mph",
-    "humidity": "48%"
+    "condition": "Güneşli",
+    "temp": "+89°F",
+    "wind": "→5mph",
+    "humidity": "50%"
   }
 }
