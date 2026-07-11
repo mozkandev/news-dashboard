@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-07-11T20:22:57.833747+00:00",
+  "updated_at": "2026-07-11T21:22:27.354895+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "link": "https://antjs.org",
+        "description": "Hello HN! I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop...",
+        "source": "HackerNews",
+        "published": "2026-07-11T20:07:18+00:00"
+      },
       {
         "title": "Meta’dan Geri Adım: Muse Image Kapatıldı",
         "link": "https://shiftdelete.net/metadan-geri-adim-muse-image-kapatildi",
         "description": "Meta, Facebook ve Instagram kullanıcılarının görsellerini izinsiz kullandığı gerekçesiyle tepki çeken Muse Image aracını yayından kaldırdı.",
         "source": "ShiftDelete",
         "published": "2026-07-11T20:00:00+00:00"
+      },
+      {
+        "title": "The Chinese Voice Actor Forced to Prove He's Human",
+        "link": "https://www.sixthtone.com/news/1018753",
+        "description": "Article URL: https://www.sixthtone.com/news/1018753 Comments URL: https://news.ycombinator.com/item?id=48875153 Points: 27 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-11T19:46:00+00:00"
       },
       {
         "title": "God of War Laufey Fiziksel Disk Formatıyla Raflara Çıkacak",
@@ -17,16 +31,30 @@
         "published": "2026-07-11T19:00:00+00:00"
       },
       {
-        "title": "How to Hide from Killer Drones",
+        "title": "How to hide from killer drones",
         "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-        "description": "Article URL: https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones Comments URL: https://news.ycombinator.com/item?id=48874357 Points: 53 # Comments: 47",
+        "description": "https://archive.ph/xiCSq Comments URL: https://news.ycombinator.com/item?id=48874357 Points: 62 # Comments: 64",
         "source": "HackerNews",
         "published": "2026-07-11T18:22:02+00:00"
       },
       {
+        "title": "ZeroFS vs. Amazon S3 Files",
+        "link": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+        "description": "Article URL: https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/ Comments URL: https://news.ycombinator.com/item?id=48874297 Points: 13 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-11T18:15:35+00:00"
+      },
+      {
+        "title": "AI 2040 and the cult of intelligence",
+        "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "description": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 124 # Comments: 153",
+        "source": "HackerNews",
+        "published": "2026-07-11T18:04:01+00:00"
+      },
+      {
         "title": "Who manages the agents?",
         "link": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-        "description": "Article URL: https://www.off-policy.com/dont-go-quietly-into-the-ai-night/ Comments URL: https://news.ycombinator.com/item?id=48874182 Points: 43 # Comments: 30",
+        "description": "Article URL: https://www.off-policy.com/dont-go-quietly-into-the-ai-night/ Comments URL: https://news.ycombinator.com/item?id=48874182 Points: 60 # Comments: 53",
         "source": "HackerNews",
         "published": "2026-07-11T18:02:33+00:00"
       },
@@ -38,16 +66,16 @@
         "published": "2026-07-11T18:00:00+00:00"
       },
       {
-        "title": "Prefer Strict Tables in SQLite",
+        "title": "Prefer strict tables in SQLite",
         "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-        "description": "Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48873940 Points: 101 # Comments: 34",
+        "description": "Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48873940 Points: 141 # Comments: 55",
         "source": "HackerNews",
         "published": "2026-07-11T17:33:55+00:00"
       },
       {
         "title": "BLISS",
         "link": "https://en.wikipedia.org/wiki/BLISS",
-        "description": "Article URL: https://en.wikipedia.org/wiki/BLISS Comments URL: https://news.ycombinator.com/item?id=48873910 Points: 33 # Comments: 7",
+        "description": "Article URL: https://en.wikipedia.org/wiki/BLISS Comments URL: https://news.ycombinator.com/item?id=48873910 Points: 39 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-07-11T17:30:01+00:00"
       },
@@ -59,32 +87,18 @@
         "published": "2026-07-11T17:30:00+00:00"
       },
       {
-        "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
+        "title": "Leaded gas was a known poison the day it was invented (2016)",
         "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
-        "description": "Article URL: https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/ Comments URL: https://news.ycombinator.com/item?id=48873893 Points: 114 # Comments: 70",
+        "description": "Article URL: https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/ Comments URL: https://news.ycombinator.com/item?id=48873893 Points: 146 # Comments: 93",
         "source": "HackerNews",
         "published": "2026-07-11T17:27:55+00:00"
       },
       {
-        "title": "Earendel (Astronomical Object)",
-        "link": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
-        "description": "Article URL: https://en.wikipedia.org/wiki/Earendel_(astronomical_object) Comments URL: https://news.ycombinator.com/item?id=48873858 Points: 29 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-07-11T17:24:15+00:00"
-      },
-      {
-        "title": "Reverse centaurs are the answer to the AI paradox",
+        "title": "Reverse centaurs are the answer to the AI paradox (2025)",
         "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-        "description": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 55 # Comments: 16",
+        "description": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 71 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-07-11T17:23:52+00:00"
-      },
-      {
-        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-        "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-        "description": "Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom Comments URL: https://news.ycombinator.com/item?id=48873836 Points: 50 # Comments: 14",
-        "source": "HackerNews",
-        "published": "2026-07-11T17:21:49+00:00"
       },
       {
         "title": "GTA Vice City Görev Bulamıyorum! Hikâye İlerlemiyorsa Bunları Deneyin",
@@ -108,25 +122,18 @@
         "published": "2026-07-11T17:10:38+03:00"
       },
       {
-        "title": "Female US rower completes historic solo journey from California to Hawaii",
-        "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-        "description": "Article URL: https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey Comments URL: https://news.ycombinator.com/item?id=48873692 Points: 122 # Comments: 38",
-        "source": "HackerNews",
-        "published": "2026-07-11T17:03:23+00:00"
-      },
-      {
-        "title": "Sixtyfour (YC P25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
-        "description": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success Comments URL: https://news.ycombinator.com/item?id=48873665 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-11T17:00:35+00:00"
-      },
-      {
         "title": "Yeni Galaxy Watch Qualcomm İşlemci ve Büyük Bataryayla Geliyor",
         "link": "https://shiftdelete.net/yeni-galaxy-watch-qualcomm-islemci-ve-buyuk-bataryayla-geliyor",
         "description": "Samsung'un yeni akıllı saatleri Galaxy Watch 9 ve Galaxy Watch Ultra 2'nin işlemci, batarya ve tasarım özellikleri sızdırıldı.",
         "source": "ShiftDelete",
         "published": "2026-07-11T17:00:00+00:00"
+      },
+      {
+        "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+        "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+        "description": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth...",
+        "source": "The Verge",
+        "published": "2026-07-11T16:57:42-04:00"
       },
       {
         "title": "2026’da Satılan Otomobillerde Bilinen Kronik Sorunlar: Marka Marka Dikkat Edilmesi Gerekenler",
@@ -269,13 +276,6 @@
         "published": "2026-07-10T20:10:38-04:00"
       },
       {
-        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "description": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from...",
-        "source": "The Verge",
-        "published": "2026-07-10T19:56:48-04:00"
-      },
-      {
         "title": "TÜM YAPAY ZEKALARI İÇİNE TOPLAYAN TELEFON | TECNO CAMON 50 Ultra 5G İnceleme",
         "link": "\n                    https://www.webtekno.com/tecno-camon-50-ultra-5g-inceleme-h220384.html\n                    ",
         "description": "TECNO Türkiye işbirliği ile hazırladığımız bu videoda, akıllı telefon pazarında stratejisiyle dikkat çeken yeni TECNO CAMON 50 Ultra 5G modelini tüm detaylarıyla inceliyoruz.",
@@ -355,11 +355,11 @@
     ],
     "dunya": [
       {
-        "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&at_campaign=rss",
-        "description": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final.",
+        "title": "Iran supreme leader calls for revenge for father's killing",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "description": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
         "source": "BBC News",
-        "published": "2026-07-11T19:37:02+00:00"
+        "published": "2026-07-11T19:30:36+00:00"
       },
       {
         "title": "Tributes paid to TV presenter Dermot Murnaghan",
@@ -404,18 +404,18 @@
         "published": "2026-07-11T14:47:47+00:00"
       },
       {
+        "title": "If you ask Americans, Norway's Erling Haaland is already a winner",
+        "link": "https://www.bbc.co.uk/news/articles/ceqd3l4v7reo?at_medium=RSS&at_campaign=rss",
+        "description": "If the World Cup was a tournament for hearts and minds, the Norwegian striker would certainly win.",
+        "source": "BBC News",
+        "published": "2026-07-11T13:51:14+00:00"
+      },
+      {
         "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
         "link": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
         "description": "The Times says federal agents turned up on the doorsteps of several of its journalists to force grand jury testimony next week over their coverage of the Air Force One plane gifted to Trump by Qatar.",
         "source": "NPR",
         "published": "2026-07-11T12:35:24-04:00"
-      },
-      {
-        "title": "Pubs can stay open for full Norway game - even if kick-off delayed",
-        "link": "https://www.bbc.co.uk/news/articles/cm204lgrv10o?at_medium=RSS&at_campaign=rss",
-        "description": "The extended hours means fans can watch the entire game, even if the start is delayed.",
-        "source": "BBC News",
-        "published": "2026-07-11T12:26:08+00:00"
       },
       {
         "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
@@ -567,6 +567,20 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-12-temmuz-2026-1732454",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-12T00:00:00+03:00"
+      },
+      {
+        "title": "Jandarmadan WhatsApp operasyonu: 1276 kişinin bulunduğu gruplara erişim engeli",
+        "link": "https://www.sozcu.com.tr/jandarmadan-whatsapp-operasyonu-1276-kisinin-bulundugu-gruplara-erisim-engeli-p335682",
+        "description": "Jandarmadan WhatsApp operasyonu: 1276 kişinin bulunduğu gruplara erişim engeli",
+        "source": "Sözcü",
+        "published": "2026-07-11T23:43:16+03:00"
+      },
+      {
         "title": "Fenerbahçe hazırlık maçında fark attı",
         "link": "https://www.sozcu.com.tr/fenerbahce-hazirlik-macinda-fark-atti-p335681",
         "description": "Fenerbahçe hazırlık maçında fark attı",
@@ -616,25 +630,18 @@
         "published": "2026-07-11T21:53:00+03:00"
       },
       {
+        "title": "Betül’ü bıçakla yaralayan ve serbest bırakılan sanık yeniden tutuklandı",
+        "link": "https://www.sozcu.com.tr/betul-u-bicakla-yaralayan-ve-serbest-birakilan-sanik-yeniden-tutuklandi-p335674",
+        "description": "Betül’ü bıçakla yaralayan ve serbest bırakılan sanık yeniden tutuklandı",
+        "source": "Sözcü",
+        "published": "2026-07-11T21:49:34+03:00"
+      },
+      {
         "title": "Türk hakem Çisil Güngör tarihe geçti",
         "link": "https://www.sozcu.com.tr/turk-hakem-cisil-gungor-tarihe-gecti-p335672",
         "description": "Türk hakem Çisil Güngör tarihe geçti",
         "source": "Sözcü",
         "published": "2026-07-11T21:43:55+03:00"
-      },
-      {
-        "title": "Prof. Dr. Osman Bektaş'tan İstanbul'da beklenen deprem için ezber bozan çıkış",
-        "link": "https://www.sozcu.com.tr/prof-dr-osman-bektas-tan-istanbul-da-beklenen-deprem-icin-ezber-bozan-cikis-p335663",
-        "description": "Prof. Dr. Osman Bektaş'tan İstanbul'da beklenen deprem için ezber bozan çıkış",
-        "source": "Sözcü",
-        "published": "2026-07-11T20:59:11+03:00"
-      },
-      {
-        "title": "Yaz sıcakları için kritik uyarı! Bakanlık yapılması gerekenleri sıraladı",
-        "link": "https://www.sozcu.com.tr/yaz-sicaklari-icin-kritik-uyari-bakanlik-yapilmasi-gerekenleri-siraladi-p335664",
-        "description": "Yaz sıcakları için kritik uyarı! Bakanlık yapılması gerekenleri sıraladı",
-        "source": "Sözcü",
-        "published": "2026-07-11T20:49:51+03:00"
       },
       {
         "title": "Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor",
@@ -677,13 +684,6 @@
         "description": "Eskişehir'de meydana gelen silahlı çatışma olayında, Uzman Jandarma Çavuş Mehmet Demirbaş şehit oldu.",
         "source": "NTV",
         "published": "2026-07-11T14:58:41+03:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan: Srebrenitsa’yı asla unutmayacağız",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-srebrenitsayi-asla-unutmayacagiz-1732374",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Srebrenitsa katliamın 31. yılında hayatını kaybedenleri andı. Ankara'dan da anma mesajları art arda geldi.",
-        "source": "NTV",
-        "published": "2026-07-11T14:48:09+03:00"
       },
       {
         "title": "Sınır kapısında büyük sevinç: \"İki yıldır içimde tutuyorum sevincimi, hep bu anı bekledim\"",
