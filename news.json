@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-07-12T16:58:18.396248+00:00",
+  "updated_at": "2026-07-12T18:03:03.128408+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Spotify’ın Release Radar Listesine Yeni Filtreleme Özellikleri Geldi",
+        "link": "https://shiftdelete.net/spotifyin-release-radar-listesine-yeni-filtreleme-ozellikleri-geldi",
+        "description": "Spotify, popüler Release Radar çalma listesi için yeni filtreleme ve kontrol seçeneklerini kullanıma sunarak müzik keşif deneyimini güncelliyor.",
+        "source": "ShiftDelete",
+        "published": "2026-07-12T18:00:00+00:00"
+      },
+      {
+        "title": "AMD’nin Yeni FSR Teknolojisi 8x Kare Oluşturma ile Geliyor",
+        "link": "https://shiftdelete.net/amdnin-yeni-fsr-teknolojisi-8x-kare-olusturma-ile-geliyor",
+        "description": "AMD Radeon sürücülerinde keşfedilen 8x Çoklu Kare Oluşturma (MFG) ve yeni FSR geçersiz kılma seçenekleri oyun deneyimini değiştirmeye hazırlanıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-07-12T17:00:00+00:00"
+      },
+      {
+        "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+        "link": "https://github.com/hasenj/go-shirei/",
+        "description": "Article URL: https://github.com/hasenj/go-shirei/ Comments URL: https://news.ycombinator.com/item?id=48882562 Points: 20 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-07-12T16:55:42+00:00"
+      },
+      {
+        "title": "Automation Without Understanding",
+        "link": "https://arxiv.org/abs/2607.06377",
+        "description": "Article URL: https://arxiv.org/abs/2607.06377 Comments URL: https://news.ycombinator.com/item?id=48882554 Points: 16 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-12T16:54:47+00:00"
+      },
       {
         "title": "TechCrunch Mobility: A robotaxi ultimatum",
         "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
@@ -10,11 +38,60 @@
         "published": "2026-07-12T16:07:00+00:00"
       },
       {
+        "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
+        "link": "https://marc.info/?l=openbsd-misc&m=119318909016582",
+        "description": "Article URL: https://marc.info/?l=openbsd-misc&m=119318909016582 Comments URL: https://news.ycombinator.com/item?id=48882189 Points: 21 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-07-12T16:05:29+00:00"
+      },
+      {
         "title": "Yapay Zeka Talebi TSMC’yi Zorluyor: Rakipler Devrede",
         "link": "https://shiftdelete.net/yapay-zeka-talebi-tsmcyi-zorluyor-rakipler-devrede",
         "description": "TSMC, CoWoS talebini karşılamakta zorlanıyor. İleri paketleme siparişleri Intel ve diğer rakip fabrikalara kaymaya başladı.",
         "source": "ShiftDelete",
         "published": "2026-07-12T16:00:00+00:00"
+      },
+      {
+        "title": "TK, or the secret to effortless writing (2024)",
+        "link": "https://atthis.link/blog/2024/49629.html",
+        "description": "Article URL: https://atthis.link/blog/2024/49629.html Comments URL: https://news.ycombinator.com/item?id=48882144 Points: 28 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-07-12T15:58:42+00:00"
+      },
+      {
+        "title": "Why study Diophantine equations?",
+        "link": "https://hidden-phenomena.com/articles/modular",
+        "description": "Article URL: https://hidden-phenomena.com/articles/modular Comments URL: https://news.ycombinator.com/item?id=48882097 Points: 28 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-07-12T15:53:53+00:00"
+      },
+      {
+        "title": "How to Read More Books",
+        "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+        "description": "Article URL: https://scotto.me/blog/2026-07-12-how-to-read-more-books/ Comments URL: https://news.ycombinator.com/item?id=48882056 Points: 119 # Comments: 52",
+        "source": "HackerNews",
+        "published": "2026-07-12T15:47:16+00:00"
+      },
+      {
+        "title": "The power of collaboration: How we can reduce traffic congestion",
+        "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+        "description": "Article URL: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/ Comments URL: https://news.ycombinator.com/item?id=48881967 Points: 20 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-07-12T15:35:36+00:00"
+      },
+      {
+        "title": "A no-brainer for protecting your brain",
+        "link": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+        "description": "Article URL: https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain Comments URL: https://news.ycombinator.com/item?id=48881874 Points: 67 # Comments: 46",
+        "source": "HackerNews",
+        "published": "2026-07-12T15:23:59+00:00"
+      },
+      {
+        "title": "Don't You Mean Extinct?",
+        "link": "https://fabiensanglard.net/extinct/index.html",
+        "description": "Article URL: https://fabiensanglard.net/extinct/index.html Comments URL: https://news.ycombinator.com/item?id=48881830 Points: 69 # Comments: 23",
+        "source": "HackerNews",
+        "published": "2026-07-12T15:17:20+00:00"
       },
       {
         "title": "BİM’e 19 Temmuz’da RKS Elektrikli Bisikletler Geliyor",
@@ -29,6 +106,13 @@
         "description": "Kitaplığınıza yeni eserler eklemek istiyor ancak yüzlerce seçenek arasında karar vermekte zorlanıyorsanız doğru yerdesiniz. Bu hafta Amazon'da öne çıkan ve okurların ilgisini çeken kitapları farklı kategoriler altında bir araya getirdik.",
         "source": "Webtekno",
         "published": "2026-07-12T14:51:26+03:00"
+      },
+      {
+        "title": "Autoresearch, Claude and Constrained Optimization",
+        "link": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+        "description": "Article URL: https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/ Comments URL: https://news.ycombinator.com/item?id=48881498 Points: 15 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-12T14:32:00+00:00"
       },
       {
         "title": "Hyundai ve Kia’dan 14 Elektrikli Araç için Yangın Riski Çağrısı",
@@ -85,20 +169,6 @@
         "description": "Akıllı telefon pazarındaki rekabet giderek kızışırken, Motorola premium segmentteki yeni amiral gemisi Edge 70 Max modelini tanıtmaya hazırlanıyor. Paylaşılan bilgilere göre, gücünü Qualcomm’un en yeni amiral gemisi işlemcisi Snapdragon 8 Gen 5’ten...",
         "source": "ShiftDelete",
         "published": "2026-07-12T09:00:10+00:00"
-      },
-      {
-        "title": "Honor Magic 9 Serisi için Yapay Zeka Destekli Manyetik Arka Ekran Yolda",
-        "link": "https://shiftdelete.net/honor-magic-9-serisi-icin-yapay-zeka-destekli-manyetik-arka-ekran-yolda",
-        "description": "Akıllı telefon dünyasında donanım sınırlarını zorlayan yenilikçi tasarımlar hız kesmeden devam ediyor. Ekim 2026’da resmi olarak piyasaya sürülmesi planlanan Honor Magic 9 serisi, akıllı telefon kullanım alışkanlıklarımızı kökten değiştirecek...",
-        "source": "ShiftDelete",
-        "published": "2026-07-12T08:00:27+00:00"
-      },
-      {
-        "title": "Samsung Galaxy Tab S12+ Tasarımı Ortaya Çıktı",
-        "link": "https://shiftdelete.net/samsung-galaxy-tab-s12-tasarimi-ortaya-cikti",
-        "description": "Güney Koreli teknoloji devi Samsung, premium tablet pazarındaki iddiasını sürdürmek için yeni nesil Galaxy Tab S12 serisi üzerinde çalışmalarına hız kesmeden devam ediyor. Geçtiğimiz eylül ayında piyasaya sürülen Tab S11 serisinin ardından, bu yılın...",
-        "source": "ShiftDelete",
-        "published": "2026-07-12T07:00:01+00:00"
       },
       {
         "title": "Reed Jobs would rather talk about curing cancer than his last name",
@@ -285,18 +355,32 @@
     ],
     "dunya": [
       {
-        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+        "description": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
         "source": "BBC News",
-        "published": "2026-07-12T16:46:24+00:00"
+        "published": "2026-07-12T17:40:34+00:00"
       },
       {
         "title": "Bill for Hillsborough Law set to be approved by MPs",
         "link": "https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss",
         "description": "The crush at the 1989 FA Cup semi-final between Liverpool and Nottingham Forest left 97 fans dead.",
         "source": "BBC News",
-        "published": "2026-07-12T16:30:36+00:00"
+        "published": "2026-07-12T17:38:47+00:00"
+      },
+      {
+        "title": "Major incident declared in Wales as firefighters tackle wildfires across UK",
+        "link": "https://www.bbc.co.uk/news/articles/cy8w67l642no?at_medium=RSS&at_campaign=rss",
+        "description": "Residents near the Conwy fire have been evacuated, with at least 10 other fires across the UK this weekend.",
+        "source": "BBC News",
+        "published": "2026-07-12T17:02:57+00:00"
+      },
+      {
+        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+        "source": "BBC News",
+        "published": "2026-07-12T16:46:24+00:00"
       },
       {
         "title": "Andrew Flintoff's Top Gear crash passenger sues BBC Studios",
@@ -306,18 +390,11 @@
         "published": "2026-07-12T16:11:20+00:00"
       },
       {
-        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+        "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+        "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+        "description": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
         "source": "BBC News",
-        "published": "2026-07-12T15:34:45+00:00"
-      },
-      {
-        "title": "McCullum sacked as England Test head coach",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss",
-        "description": "England are now without a Test head coach and captain as Brendon McCullum leaves after four years in the role.",
-        "source": "BBC News",
-        "published": "2026-07-12T14:03:13+00:00"
+        "published": "2026-07-12T15:22:52+00:00"
       },
       {
         "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
@@ -327,6 +404,13 @@
         "published": "2026-07-12T13:35:01+00:00"
       },
       {
+        "title": "Toronto police looking for suspects after deadly shooting at festival",
+        "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+        "description": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+        "source": "NPR",
+        "published": "2026-07-12T13:22:29-04:00"
+      },
+      {
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
         "description": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
@@ -334,18 +418,18 @@
         "published": "2026-07-12T13:06:22+00:00"
       },
       {
-        "title": "Antiques Roadshow expert Theo Burrell dies aged 39",
-        "link": "https://www.bbc.co.uk/news/articles/c0ky6v64ny1o?at_medium=RSS&at_campaign=rss",
-        "description": "She was diagnosed with a glioblastoma, a highly aggressive brain tumour, in June 2022.",
-        "source": "BBC News",
-        "published": "2026-07-12T12:49:15+00:00"
-      },
-      {
         "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
         "link": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
         "description": "A surge of cases of the intestinal illness that causes diarrhea and nausea has been detected in 31 states, according to federal health authorities, but the source is still under investigation.",
         "source": "NPR",
         "published": "2026-07-12T12:48:41-04:00"
+      },
+      {
+        "title": "Tuchel wasn't happy with the performance. So why do England keep winning?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
+        "description": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.",
+        "source": "BBC News",
+        "published": "2026-07-12T12:19:03+00:00"
       },
       {
         "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -411,13 +495,6 @@
         "published": "2026-07-12T03:10:41-04:00"
       },
       {
-        "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
-        "description": "England boss Thomas Tuchel is praised by some for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees.",
-        "source": "BBC News",
-        "published": "2026-07-12T03:08:42+00:00"
-      },
-      {
         "title": "We are living fewer years in good health: Is the NHS part of the problem?",
         "link": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss",
         "description": "What is driving the UK's fall in healthy life expectancy?",
@@ -437,13 +514,6 @@
         "description": "Argentina was taken to the brink in its first two knockout games. In Saturday's quarterfinal against Switzerland, the Albiceleste survived again to advance to the semis, where they will face England.",
         "source": "NPR",
         "published": "2026-07-11T23:45:57-04:00"
-      },
-      {
-        "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
-        "link": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
-        "description": "A historic rainfall event has left communities across several Missouri counties underwater and prompted water rescues, including an evacuation of a summer camp.",
-        "source": "NPR",
-        "published": "2026-07-11T21:38:29-04:00"
       },
       {
         "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
@@ -497,6 +567,62 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika... Ahbap Derneği ofisine polis baskını!",
+        "link": "https://www.sozcu.com.tr/ahbap-ofisine-polis-baskini-p335884",
+        "description": "Son dakika... Ahbap Derneği ofisine polis baskını!",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:57:27+03:00"
+      },
+      {
+        "title": "Fenerbahçe’ye Mert Müldür ve Archie Brown müjdesi",
+        "link": "https://www.sozcu.com.tr/fenerbahce-ye-mert-muldur-ve-archie-brown-mujdesi-p335887",
+        "description": "Fenerbahçe’ye Mert Müldür ve Archie Brown müjdesi",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:42:14+03:00"
+      },
+      {
+        "title": "5 yıldızlı otelde zehirlenme iddiası: 28 kişi hastaneye kaldırıldı",
+        "link": "https://www.sozcu.com.tr/5-yildizli-otelde-zehirlenme-iddiasi-28-kisi-hastaneye-kaldirildi-p335886",
+        "description": "5 yıldızlı otelde zehirlenme iddiası: 28 kişi hastaneye kaldırıldı",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:38:39+03:00"
+      },
+      {
+        "title": "Beşiktaş’tan sürpriz hamle! Kadıköy’den Dolmabahçe’ye",
+        "link": "https://www.sozcu.com.tr/besiktas-tan-surpriz-hamle-kadikoy-den-dolmabahce-ye-p335885",
+        "description": "Beşiktaş’tan sürpriz hamle! Kadıköy’den Dolmabahçe’ye",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:34:56+03:00"
+      },
+      {
+        "title": "Fenerbahçe’de Kerem Aktürkoğlu için kafaları karıştıran teklif! Suudiler dev rakamı masaya koydu",
+        "link": "https://www.sozcu.com.tr/fenerbahce-de-kerem-akturkoglu-icin-kafalari-karistiran-teklif-suudiler-dev-rakami-masaya-koydu-p335883",
+        "description": "Fenerbahçe’de Kerem Aktürkoğlu için kafaları karıştıran teklif! Suudiler dev rakamı masaya koydu",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:27:14+03:00"
+      },
+      {
+        "title": "Evden uzakta park edin çağrısı yapıldı: Hyundai ve Kia 14 aracı geri çağırdı",
+        "link": "https://www.sozcu.com.tr/evden-uzakta-park-edin-cagrisi-yapildi-hyundai-ve-kia-14-araci-geri-cagirdi-p335882",
+        "description": "Evden uzakta park edin çağrısı yapıldı: Hyundai ve Kia 14 aracı geri çağırdı",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:19:34+03:00"
+      },
+      {
+        "title": "Deprem uzmanı Osman Bektaş, Marmara'daki hareketliliği değerlendirdi: İki olasılığa dikkat çekti",
+        "link": "https://www.sozcu.com.tr/osman-bektas-olasi-istanbul-depremi-aciklama-sozcu-tv-p335881",
+        "description": "Deprem uzmanı Osman Bektaş, Marmara'daki hareketliliği değerlendirdi: İki olasılığa dikkat çekti",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:10:24+03:00"
+      },
+      {
+        "title": "Beşiktaş Alimpijevic ile sözleşme uzattı",
+        "link": "https://www.sozcu.com.tr/besiktas-alimpijevic-ile-sozlesme-uzatti-p335880",
+        "description": "Beşiktaş Alimpijevic ile sözleşme uzattı",
+        "source": "Sözcü",
+        "published": "2026-07-12T20:05:19+03:00"
+      },
+      {
         "title": "İrlandalı sevgilisini boğarak öldürdüğü öne sürülen şüpheli Türkiye'ye kaçtı",
         "link": "https://www.sozcu.com.tr/irlandali-sevgilisini-bogarak-oldurdugu-one-surulen-supheli-turkiye-ye-kacti-p335878",
         "description": "İrlandalı sevgilisini boğarak öldürdüğü öne sürülen şüpheli Türkiye'ye kaçtı",
@@ -511,67 +637,11 @@
         "published": "2026-07-12T19:46:32+03:00"
       },
       {
-        "title": "İran'da iki noktada patlama sesleri!",
-        "link": "https://www.sozcu.com.tr/iran-da-patlamalar-12-temmuz-2026-p335875",
-        "description": "İran'da iki noktada patlama sesleri!",
-        "source": "Sözcü",
-        "published": "2026-07-12T19:15:47+03:00"
-      },
-      {
-        "title": "Dev göl birkaç gün içinde tamamen yok oldu",
-        "link": "https://www.sozcu.com.tr/dev-gol-birkac-gun-icinde-tamamen-yok-oldu-p335876",
-        "description": "Dev göl birkaç gün içinde tamamen yok oldu",
-        "source": "Sözcü",
-        "published": "2026-07-12T19:11:06+03:00"
-      },
-      {
-        "title": "Fatih Altaylı'nın günler önce yazdığı bu akşam gündem oldu: Kandırıldık mı?",
-        "link": "https://www.sozcu.com.tr/fatih-altayli-nin-gunler-once-yazdigi-bu-aksam-gundem-oldu-kandirildik-mi-p335874",
-        "description": "Fatih Altaylı'nın günler önce yazdığı bu akşam gündem oldu: Kandırıldık mı?",
-        "source": "Sözcü",
-        "published": "2026-07-12T18:59:43+03:00"
-      },
-      {
         "title": "Adalet Bakanı Gürlek, kazandığı 150 bin liralık tazminatı Türk Kızılay’a bağışladı",
         "link": "https://www.ntv.com.tr/turkiye/adalet-bakani-gurlek-kazandigi-150-bin-liralik-tazminati-turk-kizilaya-bagisladi-1732578",
         "description": "Adalet Bakanı Akın Gürlek, kendisine yönelik haksız ithamlar nedeniyle açtığı manevi tazminat davası sonucunda tahsil edilen 150 bin lirayı Türk Kızılay’a bağışladığını açıkladı.",
         "source": "NTV",
         "published": "2026-07-12T18:59:14+03:00"
-      },
-      {
-        "title": "Beşiktaş Trossard’ı bitirdi! Belçikalı futbolcu imza için İstanbul’a geliyor",
-        "link": "https://www.sozcu.com.tr/besiktas-trossard-i-bitirdi-istanbul-a-geliyor-p335872",
-        "description": "Beşiktaş Trossard’ı bitirdi! Belçikalı futbolcu imza için İstanbul’a geliyor",
-        "source": "Sözcü",
-        "published": "2026-07-12T18:58:39+03:00"
-      },
-      {
-        "title": "Bizim vekillere örnek olsun! Türkiye'deki vekiller bu haberi hiç sevmeyecek",
-        "link": "https://www.sozcu.com.tr/almanya-vekiller-zam-iptali-p335873",
-        "description": "Bizim vekillere örnek olsun! Türkiye'deki vekiller bu haberi hiç sevmeyecek",
-        "source": "Sözcü",
-        "published": "2026-07-12T18:48:26+03:00"
-      },
-      {
-        "title": "Galatasaray’dan 10 numara hamlesi! Dünya Kupası’na damga vuran takımdan",
-        "link": "https://www.sozcu.com.tr/galatasaray-dan-10-numara-hamlesi-dunya-kupasi-na-damga-vuran-takimdan-p335869",
-        "description": "Galatasaray’dan 10 numara hamlesi! Dünya Kupası’na damga vuran takımdan",
-        "source": "Sözcü",
-        "published": "2026-07-12T18:38:55+03:00"
-      },
-      {
-        "title": "Ersin Destanoğlu resmen Al-Jazira’da! Milli kaleci imzayı attı",
-        "link": "https://www.sozcu.com.tr/ersin-destanoglu-resmen-al-jazira-da-p335867",
-        "description": "Ersin Destanoğlu resmen Al-Jazira’da! Milli kaleci imzayı attı",
-        "source": "Sözcü",
-        "published": "2026-07-12T18:36:59+03:00"
-      },
-      {
-        "title": "Tuzlu suyun ortasında patates yetiştirerek imkansızı başarıyorlar",
-        "link": "https://www.sozcu.com.tr/tuzlu-suyun-ortasinda-patates-yetistirerek-imkansizi-basariyorlar-p335870",
-        "description": "Tuzlu suyun ortasında patates yetiştirerek imkansızı başarıyorlar",
-        "source": "Sözcü",
-        "published": "2026-07-12T18:34:09+03:00"
       },
       {
         "title": "Son dakika. Haluk Levent gözaltına alındı",
@@ -714,9 +784,9 @@
     "eur_usd": 0.8755
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+59°F",
-    "wind": "↑4mph",
-    "humidity": "69%"
+    "condition": "Güneşli",
+    "temp": "+87°F",
+    "wind": "↖11mph",
+    "humidity": "20%"
   }
 }
