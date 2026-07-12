@@ -1,39 +1,67 @@
 {
-  "updated_at": "2026-07-12T21:50:23.633747+00:00",
+  "updated_at": "2026-07-12T22:48:37.518048+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+        "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+        "link": "https://kode.diy",
+        "description": "Article URL: https://kode.diy Comments URL: https://news.ycombinator.com/item?id=48884992 Points: 7 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-12T21:27:29+00:00"
+      },
+      {
+        "title": "Ask HN: What Are You Working On? (July 2026)",
+        "link": "https://news.ycombinator.com/item?id=48884984",
+        "description": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=48884984 Points: 20 # Comments: 32",
+        "source": "HackerNews",
+        "published": "2026-07-12T21:26:41+00:00"
+      },
+      {
+        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
         "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-        "description": "Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=48884853 Points: 36 # Comments: 9",
+        "description": "Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=48884853 Points: 131 # Comments: 52",
         "source": "HackerNews",
         "published": "2026-07-12T21:12:11+00:00"
       },
       {
+        "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+        "link": "https://www.adaptiverecall.com/",
+        "description": "Article URL: https://www.adaptiverecall.com/ Comments URL: https://news.ycombinator.com/item?id=48884815 Points: 10 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-12T21:08:20+00:00"
+      },
+      {
+        "title": "Show HN: Zen Mode – a global focus mode for macOS",
+        "link": "https://github.com/cabeen/zen-mode",
+        "description": "Article URL: https://github.com/cabeen/zen-mode Comments URL: https://news.ycombinator.com/item?id=48884663 Points: 8 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-12T20:52:04+00:00"
+      },
+      {
         "title": "The State of MCP Security [pdf]",
         "link": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-        "description": "Article URL: https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf Comments URL: https://news.ycombinator.com/item?id=48884647 Points: 3 # Comments: 0",
+        "description": "Article URL: https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf Comments URL: https://news.ycombinator.com/item?id=48884647 Points: 13 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-07-12T20:49:46+00:00"
       },
       {
         "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
         "link": "https://nanduruganesh.github.io/flash-msa/",
-        "description": "Article URL: https://nanduruganesh.github.io/flash-msa/ Comments URL: https://news.ycombinator.com/item?id=48884618 Points: 4 # Comments: 0",
+        "description": "Article URL: https://nanduruganesh.github.io/flash-msa/ Comments URL: https://news.ycombinator.com/item?id=48884618 Points: 7 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-07-12T20:46:43+00:00"
       },
       {
         "title": "Tiny Emulators",
         "link": "https://floooh.github.io/tiny8bit-preview/index.html",
-        "description": "Article URL: https://floooh.github.io/tiny8bit-preview/index.html Comments URL: https://news.ycombinator.com/item?id=48884395 Points: 66 # Comments: 2",
+        "description": "Article URL: https://floooh.github.io/tiny8bit-preview/index.html Comments URL: https://news.ycombinator.com/item?id=48884395 Points: 90 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-07-12T20:23:05+00:00"
       },
       {
         "title": "Irish datacenters now guzzle 23% of the country's electricity",
         "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-        "description": "Article URL: https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013 Comments URL: https://news.ycombinator.com/item?id=48884322 Points: 67 # Comments: 36",
+        "description": "Article URL: https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013 Comments URL: https://news.ycombinator.com/item?id=48884322 Points: 131 # Comments: 81",
         "source": "HackerNews",
         "published": "2026-07-12T20:16:12+00:00"
       },
@@ -47,16 +75,9 @@
       {
         "title": "Defining new Jax types with hijax",
         "link": "https://docs.jax.dev/en/latest/hijax_types.html",
-        "description": "Article URL: https://docs.jax.dev/en/latest/hijax_types.html Comments URL: https://news.ycombinator.com/item?id=48884100 Points: 10 # Comments: 2",
+        "description": "Article URL: https://docs.jax.dev/en/latest/hijax_types.html Comments URL: https://news.ycombinator.com/item?id=48884100 Points: 11 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-07-12T19:54:30+00:00"
-      },
-      {
-        "title": "Neocities: Create your own free website",
-        "link": "https://neocities.org/",
-        "description": "Article URL: https://neocities.org/ Comments URL: https://news.ycombinator.com/item?id=48884052 Points: 54 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-07-12T19:49:53+00:00"
       },
       {
         "title": "Pixel 11 Pro Fold Tasarımı ve Rengi Sızdırıldı",
@@ -64,27 +85,6 @@
         "description": "Google'ın yakında tanıtılacak olan Pixel 11 Pro Fold modelinin Pine rengi ve güncellenen kamera tasarımı sızıntılarla ortaya çıktı.",
         "source": "ShiftDelete",
         "published": "2026-07-12T19:00:00+00:00"
-      },
-      {
-        "title": "The One-Step Trap (In AI Research)",
-        "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-        "description": "Article URL: http://incompleteideas.net/IncIdeas/OneStepTrap.html Comments URL: https://news.ycombinator.com/item?id=48883415 Points: 29 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-07-12T18:41:15+00:00"
-      },
-      {
-        "title": "I love LLMs, I hate hype",
-        "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-        "description": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html Comments URL: https://news.ycombinator.com/item?id=48883343 Points: 212 # Comments: 118",
-        "source": "HackerNews",
-        "published": "2026-07-12T18:31:56+00:00"
-      },
-      {
-        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-        "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-        "description": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode. This was the...",
-        "source": "HackerNews",
-        "published": "2026-07-12T18:25:51+00:00"
       },
       {
         "title": "Spotify’ın Release Radar Listesine Yeni Filtreleme Özellikleri Geldi",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+        "source": "BBC News",
+        "published": "2026-07-12T22:17:40+00:00"
+      },
+      {
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
         "description": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
@@ -383,6 +390,13 @@
         "published": "2026-07-12T20:10:20+00:00"
       },
       {
+        "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+        "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+        "description": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+        "source": "BBC News",
+        "published": "2026-07-12T19:42:26+00:00"
+      },
+      {
         "title": "Major incident declared in Wales as firefighters tackle wildfires across UK",
         "link": "https://www.bbc.co.uk/news/articles/cy8w67l642no?at_medium=RSS&at_campaign=rss",
         "description": "Residents near the Conwy fire have been evacuated, with at least 10 other fires across the UK this weekend.",
@@ -397,25 +411,11 @@
         "published": "2026-07-12T18:18:22+00:00"
       },
       {
-        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-        "source": "BBC News",
-        "published": "2026-07-12T17:40:34+00:00"
-      },
-      {
         "title": "Georgia's unique in the American Revolution told through its historical markers",
         "link": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
         "description": "NPR's Don Gonyea speaks with Andrew Iden, Executive Producer of Marked!: The Podcast , which examines Georgia's role in America's revolutionary period through the 2,000 roadside historical marker.",
         "source": "NPR",
         "published": "2026-07-12T17:08:15-04:00"
-      },
-      {
-        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-        "source": "BBC News",
-        "published": "2026-07-12T16:46:24+00:00"
       },
       {
         "title": "Andrew Flintoff's Top Gear crash passenger sues BBC Studios",
@@ -567,25 +567,46 @@
     ],
     "turkiye": [
       {
+        "title": "Ahbap soruşturmasında Haluk Levent ve 17 kişi gözaltına alındı",
+        "link": "https://www.sozcu.com.tr/ahbap-dernegi-sorusturmasi-haluk-levent-gozaltisi-ve-diger-detaylar-13-temmuz-2026-p335930",
+        "description": "Ahbap soruşturmasında Haluk Levent ve 17 kişi gözaltına alındı",
+        "source": "Sözcü",
+        "published": "2026-07-13T01:47:39+03:00"
+      },
+      {
+        "title": "İşareti Trump sosyal medyadan verdi, ABD İran'a bomba yağdırdı",
+        "link": "https://www.sozcu.com.tr/isareti-trump-sosyal-medyadan-verdi-abd-iran-a-bomba-yagdirdi-p335917",
+        "description": "İşareti Trump sosyal medyadan verdi, ABD İran'a bomba yağdırdı",
+        "source": "Sözcü",
+        "published": "2026-07-13T01:33:30+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-13-temmuz-2026-1732590",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-13T00:30:00+03:00"
+        "published": "2026-07-13T01:30:00+03:00"
       },
       {
-        "title": "Son dakika. Haluk Levent gözaltına alındı",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-haluk-levent-gozaltina-alindi-1732568",
-        "description": "İstanbul Cumhuriyet Başsavcılığı'nın Ahbap derneğine ilişkin yürüttüğü soruşturma kapsamında dernek başkanı Haluk Levent gözaltına alındı.",
-        "source": "NTV",
-        "published": "2026-07-13T00:24:55+03:00"
-      },
-      {
-        "title": "ABD ordusu, İran'a saldırı başlattı",
-        "link": "https://www.sozcu.com.tr/abd-ordusu-iran-a-saldiri-baslatti-p335917",
-        "description": "ABD ordusu, İran'a saldırı başlattı",
+        "title": "1.200 metre yükseklikteki köyde uçurumun kıyısında yaşıyorlar",
+        "link": "https://www.sozcu.com.tr/1-200-metre-yukseklikteki-koyde-ucurumun-kiyisinda-yasiyorlar-p335928",
+        "description": "1.200 metre yükseklikteki köyde uçurumun kıyısında yaşıyorlar",
         "source": "Sözcü",
-        "published": "2026-07-13T00:23:51+03:00"
+        "published": "2026-07-13T01:02:56+03:00"
+      },
+      {
+        "title": "Ahbap operasyonu. Haluk Levent gözaltına alındı",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-haluk-levent-gozaltina-alindi-1732568",
+        "description": "İstanbul Cumhuriyet Başsavcılığı'nın Ahbap derneğine ilişkin yürüttüğü soruşturma kapsamında dernek başkanı Haluk Levent gözaltına alındı. Operasyonda gözaltı sayısı 18'e çıktı.",
+        "source": "NTV",
+        "published": "2026-07-13T00:59:56+03:00"
+      },
+      {
+        "title": "Ahbap soruşturmasında yeni gelişme: Avukat Ece Güner hakkında gözaltı kararı",
+        "link": "https://www.sozcu.com.tr/ahbap-ece-guner-gozaltina-mi-alindi-p335911",
+        "description": "Ahbap soruşturmasında yeni gelişme: Avukat Ece Güner hakkında gözaltı kararı",
+        "source": "Sözcü",
+        "published": "2026-07-13T00:52:48+03:00"
       },
       {
         "title": "Denizi geri püskürtüp tarla yaptılar: 300 yılı aşkın süredir aynı sistemi kullanıyorlar",
@@ -593,13 +614,6 @@
         "description": "Denizi geri püskürtüp tarla yaptılar: 300 yılı aşkın süredir aynı sistemi kullanıyorlar",
         "source": "Sözcü",
         "published": "2026-07-13T00:23:29+03:00"
-      },
-      {
-        "title": "Ahbap soruşturmasında yeni gelişme: Avukat Ece Güner hakkında gözaltı kararı",
-        "link": "https://www.sozcu.com.tr/ahbap-ece-guner-gozaltina-mi-alindi-p335911",
-        "description": "Ahbap soruşturmasında yeni gelişme: Avukat Ece Güner hakkında gözaltı kararı",
-        "source": "Sözcü",
-        "published": "2026-07-13T00:03:46+03:00"
       },
       {
         "title": "Şirvan Belediye Başkanı Necat Cellek hayatını kaybetti",
@@ -614,13 +628,6 @@
         "description": "Tayland'da eğlence mekanında facia! 27 kişi hayatını kaybetti",
         "source": "Sözcü",
         "published": "2026-07-12T23:43:22+03:00"
-      },
-      {
-        "title": "Wimbledon tek erkeklerde şampiyon belli oldu! Sinner’dan üst üste ikinci zafer",
-        "link": "https://www.sozcu.com.tr/wimbledon-tek-erkeklerde-sampiyon-belli-oldu-sinner-dan-ust-uste-ikinci-zafer-p335898",
-        "description": "Wimbledon tek erkeklerde şampiyon belli oldu! Sinner’dan üst üste ikinci zafer",
-        "source": "Sözcü",
-        "published": "2026-07-12T23:33:53+03:00"
       },
       {
         "title": "Dedesinden kalan harita onu 74 yıllık hazineye götürdü",
@@ -642,13 +649,6 @@
         "description": "Thomas Reis’den sürpriz tercih! Yeni adresi belli oldu",
         "source": "Sözcü",
         "published": "2026-07-12T23:05:24+03:00"
-      },
-      {
-        "title": "Güneş battığında bile elektrik üretiyor: Dünyanın en büyük hibrit santrali devreye girdi",
-        "link": "https://www.sozcu.com.tr/gunes-battiginda-bile-elektrik-uretiyor-dunyanin-en-buyuk-hibrit-santrali-devreye-girdi-p335899",
-        "description": "Güneş battığında bile elektrik üretiyor: Dünyanın en büyük hibrit santrali devreye girdi",
-        "source": "Sözcü",
-        "published": "2026-07-12T22:43:32+03:00"
       },
       {
         "title": "Bangkok'ta bar yangını: En az 27 ölü",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8755
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+82°F",
-    "wind": "↑2mph",
-    "humidity": "43%"
+    "condition": "Güneşli",
+    "temp": "+85°F",
+    "wind": "↙8mph",
+    "humidity": "36%"
   }
 }
