@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-07-13T21:56:25.485460+00:00",
+  "updated_at": "2026-07-13T22:57:28.962794+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "California rocked by another earthquake that will unleash the Big One",
+        "link": "https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html",
+        "description": "Article URL: https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html Comments URL: https://news.ycombinator.com/item?id=48899741 Points: 3 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-13T22:26:34+00:00"
+      },
+      {
+        "title": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
+        "link": "https://1shotchallenge.ai",
+        "description": "Article URL: https://1shotchallenge.ai Comments URL: https://news.ycombinator.com/item?id=48899620 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-13T22:14:12+00:00"
+      },
+      {
+        "title": "Claude is just Mr. Meeseeks",
+        "link": "https://github.com/thephw/claude-meseeks",
+        "description": "Article URL: https://github.com/thephw/claude-meseeks Comments URL: https://news.ycombinator.com/item?id=48899529 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-13T22:03:54+00:00"
+      },
       {
         "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
         "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
@@ -40,21 +61,21 @@
       {
         "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
         "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
-        "description": "Article URL: https://github.com/Poseidon-fan/linux-0.11-rs Comments URL: https://news.ycombinator.com/item?id=48898134 Points: 19 # Comments: 1",
+        "description": "Article URL: https://github.com/Poseidon-fan/linux-0.11-rs Comments URL: https://news.ycombinator.com/item?id=48898134 Points: 57 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-07-13T20:11:29+00:00"
       },
       {
         "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
         "link": "https://github.com/yeet-src/sigwire",
-        "description": "Hey everyone, I wrote this tool for inspecting linux signals across proceses Comments URL: https://news.ycombinator.com/item?id=48898071 Points: 8 # Comments: 2",
+        "description": "Hey everyone, I wrote this tool for inspecting linux signals across proceses Comments URL: https://news.ycombinator.com/item?id=48898071 Points: 14 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-07-13T20:07:45+00:00"
       },
       {
-        "title": "Samsung will delete your health data if you don't let them use it to train AI",
+        "title": "Samsung Health app threatens data deletion if users opt out AI training",
         "link": "https://neow.in/cWsyMTV3",
-        "description": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 132 # Comments: 32",
+        "description": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 181 # Comments: 52",
         "source": "HackerNews",
         "published": "2026-07-13T20:01:43+00:00"
       },
@@ -82,23 +103,9 @@
       {
         "title": "Climate.gov was destroyed. Open data saved it",
         "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-        "description": "Article URL: https://werd.io/climate-gov-was-destroyed-open-data-saved-it/ Comments URL: https://news.ycombinator.com/item?id=48897945 Points: 251 # Comments: 106",
+        "description": "Article URL: https://werd.io/climate-gov-was-destroyed-open-data-saved-it/ Comments URL: https://news.ycombinator.com/item?id=48897945 Points: 333 # Comments: 132",
         "source": "HackerNews",
         "published": "2026-07-13T19:57:55+00:00"
-      },
-      {
-        "title": "Telegram's t.me domain has been suspended",
-        "link": "https://www.whois.com/whois/t.me",
-        "description": "Article URL: https://www.whois.com/whois/t.me Comments URL: https://news.ycombinator.com/item?id=48897878 Points: 134 # Comments: 71",
-        "source": "HackerNews",
-        "published": "2026-07-13T19:52:25+00:00"
-      },
-      {
-        "title": "TFTP Honey Pot Results",
-        "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
-        "description": "Article URL: https://bruceediger.com/posts/tftp-honeypot-results/ Comments URL: https://news.ycombinator.com/item?id=48897329 Points: 31 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-07-13T19:11:17+00:00"
       },
       {
         "title": "Valve’den Steam Machine için Kritik BIOS Güncellemesi",
@@ -106,13 +113,6 @@
         "description": "Valve’in oturma odaları için geliştirdiği ve kısa bir süre önce 1.049 dolar başlangıç fiyatıyla piyasaya sürülen yeni Steam Machine, oyun dünyasında büyük yankı uyandırmaya devam ediyor. Ancak kompakt yapılı bu oyun canavarını satın alan ilk...",
         "source": "ShiftDelete",
         "published": "2026-07-13T19:00:51+00:00"
-      },
-      {
-        "title": "Thunderbird Desktop settings research: what we learned from your feedback",
-        "link": "https://blog.thunderbird.net/2026/07/desktopsettings/",
-        "description": "Article URL: https://blog.thunderbird.net/2026/07/desktopsettings/ Comments URL: https://news.ycombinator.com/item?id=48896818 Points: 44 # Comments: 36",
-        "source": "HackerNews",
-        "published": "2026-07-13T18:33:47+00:00"
       },
       {
         "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
@@ -357,9 +357,16 @@
       {
         "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
         "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+        "description": "The US military later said it had started the third consecutive night of strikes on Iran.",
         "source": "BBC News",
-        "published": "2026-07-13T21:46:06+00:00"
+        "published": "2026-07-13T22:47:52+00:00"
+      },
+      {
+        "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+        "link": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+        "description": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be filing criminal complaints in the US for the deaths of more than a dozen...",
+        "source": "The Guardian",
+        "published": "2026-07-13T22:06:01+00:00"
       },
       {
         "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
@@ -425,6 +432,13 @@
         "published": "2026-07-13T16:17:53-04:00"
       },
       {
+        "title": "On foreign policy, Graham's influence may have been felt the most",
+        "link": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most",
+        "description": "Over the course of his three decades in Congress, Lindsey Graham was a major influence on Capitol Hill and throughout the world as one of the most vocal advocates for U.S. military might.",
+        "source": "NPR",
+        "published": "2026-07-13T16:05:24-04:00"
+      },
+      {
         "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
         "link": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
         "description": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deaths Bereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple farm in...",
@@ -432,7 +446,7 @@
         "published": "2026-07-13T14:00:49+00:00"
       },
       {
-        "title": "Trump says the U.S. will blockade Iran again and charge ships a toll in Hormuz",
+        "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
         "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
         "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
         "source": "NPR",
@@ -484,13 +498,6 @@
         "title": "Eat your ice cream for a long, healthy life? This doctor says so",
         "link": "https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life",
         "description": "Dr. Zeke Emanuel, a renowned U.S. health policy physician, takes on the wellness industry with a back-to-basics approach to optimizing good health.",
-        "source": "NPR",
-        "published": "2026-07-13T05:00:00-04:00"
-      },
-      {
-        "title": "He was having a mental health crisis. Memphis task force agents came and shot him",
-        "link": "https://www.npr.org/2026/07/13/nx-s1-5888618/memphis-safe-task-force-shooting-jonah-neal",
-        "description": "Jonah Neal, 25, was struck by a Homeland Security Investigations agent in May. There have been at least four deadly shootings related to the task force.",
         "source": "NPR",
         "published": "2026-07-13T05:00:00-04:00"
       },
@@ -551,13 +558,6 @@
         "published": "2026-07-10T07:00:14+00:00"
       },
       {
-        "title": "Mexico investigates whether US lied about role in capture of drug lord",
-        "link": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
-        "description": "Reporting suggests FBI involved in seizure of Ismael ‘El Mayo’ Zambada García from Mexican territory in 2024 Mexico has launched an investigation into whether the US lied about its involvement in the capture and secretive transfer of a top Sinaloa...",
-        "source": "The Guardian",
-        "published": "2026-07-09T18:17:49+00:00"
-      },
-      {
         "title": "Furore in Nigeria over fake federal agency set up in government HQ",
         "link": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
         "description": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruption A fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm...",
@@ -566,6 +566,20 @@
       }
     ],
     "turkiye": [
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-temmuz-2026-1732765",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-14T01:30:00+03:00"
+      },
+      {
+        "title": "Askeri kışlanın zemininde bulundu: Yüzyıllardır toprağın altında saklı kalmış",
+        "link": "https://www.sozcu.com.tr/askeri-kislanin-zemininde-bulundu-yuzyillardir-topragin-altinda-sakli-kalmis-p336244",
+        "description": "Askeri kışlanın zemininde bulundu: Yüzyıllardır toprağın altında saklı kalmış",
+        "source": "Sözcü",
+        "published": "2026-07-14T01:03:11+03:00"
+      },
       {
         "title": "Kılıçdaroğlu ilk kez paylaştı: Ofisinin giderleri nasıl karşılandı?",
         "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-ofisini-kim-finanse-etti-p336239",
@@ -586,13 +600,6 @@
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Katar Devleti'ne ziyareti dolayısıyla Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz vekalet edecek.",
         "source": "NTV",
         "published": "2026-07-14T00:30:37+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-temmuz-2026-1732765",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-14T00:30:01+03:00"
       },
       {
         "title": "Binlerce yıl sonra yeniden canlanıyor",
@@ -658,11 +665,11 @@
         "published": "2026-07-13T22:53:15+03:00"
       },
       {
-        "title": "Yukarıdan sadece delikler görünüyor, altında dev bir su ağı uzanıyor",
-        "link": "https://www.sozcu.com.tr/yukaridan-sadece-delikler-gorunuyor-altinda-dev-bir-su-agi-uzaniyor-p336216",
-        "description": "Yukarıdan sadece delikler görünüyor, altında dev bir su ağı uzanıyor",
-        "source": "Sözcü",
-        "published": "2026-07-13T22:44:53+03:00"
+        "title": "Macaristan parlamentosu Cumhurbaşkanı'nı görevden alacak yasa değişikliğini kabul etti",
+        "link": "https://www.bbc.com/turkce/articles/cn8q080g5z8o?at_medium=RSS&at_campaign=rss",
+        "description": "Macaristan Cumhurbaşkanı Tamas Sulyok, 16 yıl sonra Nisan ayında iktidarını kaybeden eski başbakan Viktor Orban'ın sadık bir destekçisi olarak görülüyordu.",
+        "source": "BBC Turkish",
+        "published": "2026-07-13T22:38:55+00:00"
       },
       {
         "title": "Kılıçdaroğlu: Özel'in partiden ayrılmasına gerek yok",
@@ -670,6 +677,13 @@
         "description": "CHP Genel Başkanı Kemal Kılıçdaroğlu, ''Özgür Özel'in partiden ayrılmasına gerek yok. Gitmesin, gerekirse parti içinde mücadele etsin ama paralel yapı olmaz.'' dedi.",
         "source": "NTV",
         "published": "2026-07-13T22:03:57+03:00"
+      },
+      {
+        "title": "Trump, ABD'nin Hürmüz Boğazı'na ablukayı geri getirdiğini açıkladı",
+        "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Başkanı Donald Trump, ABD'nin İran'ın Hürmüz Boğazı'ndaki limanlarına yeniden abluka uygulamaya başlayacağını açıkladı. Abluka 14 Temmuz salı günü TSİ 23.00'te uygulanmaya başlanacak. Trump ayrıca boğazdan geçen kargo gemilerinden %20 oranında...",
+        "source": "BBC Turkish",
+        "published": "2026-07-13T21:56:15+00:00"
       },
       {
         "title": "Paris yakınlarındaki 'şiddetli' orman yangını 'kasten başlatılmış olabilir'",
@@ -684,13 +698,6 @@
         "description": "İngiltere'de eski Manchester Belediye Başkanı Andy Burnham, iktidardaki İşçi Partisi'nin milletvekillerinin büyük çoğunluğu tarafından genel başkanlığa aday gösterilmesiyle fiilen İşçi Partisi'nin yeni lideri olarak onaylanmış oldu. Partinin 403...",
         "source": "BBC Turkish",
         "published": "2026-07-13T18:53:29+00:00"
-      },
-      {
-        "title": "Trump, ABD'nin Hürmüz Boğazı'na ablukayı geri getirdiğini açıkladı",
-        "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Başkanı Donald Trump, ABD'nin İran limanlarına yeniden abluka uygulamaya başladığını açıkladı. Trump ayrıca Hürmüz Boğazı'ndan geçen kargo gemilerinden %20 oranında ödeme alınacağını söyledi.",
-        "source": "BBC Turkish",
-        "published": "2026-07-13T17:55:53+00:00"
       },
       {
         "title": "Haluk Levent'ten açıklama: 'Kişisel borç-alacak ilişkilerimde Ahbap tamamen konu dışıdır'",
@@ -763,13 +770,6 @@
         "published": "2026-07-13T07:53:33+00:00"
       },
       {
-        "title": "Türkiye Voleybol Milletler Ligi'nde çeyrek finalde",
-        "link": "https://www.bbc.com/turkce/articles/c23y5yjpzr0o?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye A Milli Kadın Voleybol Takımı, 2026 Voleybol Milletler Ligi'nde Tayland'ı 3-1 mağlup etti. Bu skorla çeyrek finale yükselen Türkiye'nin rakibi Kanada oldu.",
-        "source": "BBC Turkish",
-        "published": "2026-07-13T02:18:37+00:00"
-      },
-      {
         "title": "Türkiye'de kumar bağımlılığı neden rekor düzeyde, neler yapılabilir?",
         "link": "https://www.bbc.com/turkce/articles/cpd8lg2vqqeo?at_medium=RSS&at_campaign=rss",
         "description": "Türkiye'de kumar bağımlılığı son yıllarda büyük bir artış gösterdi. Öyle ki, Yeşilay'a kumar bağımlılığı tedavisi için yapılan başvurular 2024'te ilk defa alkol ve uyuşturucu bağımlılığı nedeniyle yapılan başvuruların toplamını geçti. Peki bu...",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8768
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+89°F",
-    "wind": "←5mph",
-    "humidity": "47%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+78°F",
+    "wind": "←9mph",
+    "humidity": "86%"
   }
 }
