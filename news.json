@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-07-13T19:22:45.800499+00:00",
+  "updated_at": "2026-07-13T20:38:26.453248+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Bayraktar KIZILELMA, Süpersonik Füze JET-230 ile İlk Atışını Başarıyla Tamamladı",
+        "link": "https://shiftdelete.net/bayraktar-kizilelma-supersonik-fuze-jet-230-ile-ilk-atisini-basariyla-tamamladi",
+        "description": "Havacılık dünyasında kuralları yeniden yazan Türkiye’nin ilk insansız savaş uçağı Bayraktar KIZILELMA, havadan karaya süpersonik füze ile ilk atış testini başarıyla tamamladı. Merzifon’daki 5. Ana Jet Üs Komutanlığı’nda gerçekleştirilen testte,...",
+        "source": "ShiftDelete",
+        "published": "2026-07-13T20:20:29+00:00"
+      },
+      {
+        "title": "Show HN: YouTube Guitar Tab Parser",
+        "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+        "description": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab. There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I'm taking a simpler approach. It...",
+        "source": "HackerNews",
+        "published": "2026-07-13T20:13:14+00:00"
+      },
+      {
+        "title": "Küresel Akıllı Telefon Pazarı Küçülürken Samsung Lider Oldu",
+        "link": "https://shiftdelete.net/kuresel-akilli-telefon-pazari-kuculurken-samsung-lider-oldu",
+        "description": "Küresel akıllı telefon pazarı, artan bellek fiyatları ve bileşen tedarik sorunları nedeniyle 2013 yılından bu yana en zorlu ikinci çeyrek dönemini yaşıyor. Counterpoint Research tarafından yayınlanan en güncel pazar araştırması raporuna göre, 2026...",
+        "source": "ShiftDelete",
+        "published": "2026-07-13T20:00:42+00:00"
+      },
+      {
+        "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+        "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+        "description": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+        "source": "TechCrunch",
+        "published": "2026-07-13T20:00:17+00:00"
+      },
+      {
+        "title": "Show HN: I implemented a neural network in SQL",
+        "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+        "description": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of...",
+        "source": "HackerNews",
+        "published": "2026-07-13T20:00:10+00:00"
+      },
+      {
+        "title": "Show HN: PlanWright – A control plane for AI coding agents",
+        "link": "https://planwright.tools",
+        "description": "MCP driven control plane for Agentic Engineering. Plan from Claude Desktop, implement in Codex, review in a custom triage agent. All via MCP, all logged and tracked with full documentation of all decisions made by each agent. Comments URL:...",
+        "source": "HackerNews",
+        "published": "2026-07-13T19:59:50+00:00"
+      },
+      {
+        "title": "Climate.gov was destroyed. Open data saved it",
+        "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+        "description": "Article URL: https://werd.io/climate-gov-was-destroyed-open-data-saved-it/ Comments URL: https://news.ycombinator.com/item?id=48897945 Points: 79 # Comments: 26",
+        "source": "HackerNews",
+        "published": "2026-07-13T19:57:55+00:00"
+      },
+      {
+        "title": "Telegram's t.me domain has been suspended",
+        "link": "https://www.whois.com/whois/t.me",
+        "description": "Article URL: https://www.whois.com/whois/t.me Comments URL: https://news.ycombinator.com/item?id=48897878 Points: 28 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-07-13T19:52:25+00:00"
+      },
+      {
+        "title": "Section 219, the US-Israel Military Merger, Would Thwart American Democracy",
+        "link": "https://www.commondreams.org/opinion/us-israel-military-merger",
+        "description": "Article URL: https://www.commondreams.org/opinion/us-israel-military-merger Comments URL: https://news.ycombinator.com/item?id=48897855 Points: 24 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-13T19:50:12+00:00"
+      },
+      {
+        "title": "TFTP Honey Pot Results",
+        "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
+        "description": "Article URL: https://bruceediger.com/posts/tftp-honeypot-results/ Comments URL: https://news.ycombinator.com/item?id=48897329 Points: 12 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-13T19:11:17+00:00"
+      },
       {
         "title": "Valve’den Steam Machine için Kritik BIOS Güncellemesi",
         "link": "https://shiftdelete.net/valveden-steam-machine-icin-kritik-bios-guncellemesi",
@@ -10,18 +80,25 @@
         "published": "2026-07-13T19:00:51+00:00"
       },
       {
+        "title": "Thunderbird Desktop settings research: what we learned from your feedback",
+        "link": "https://blog.thunderbird.net/2026/07/desktopsettings/",
+        "description": "Article URL: https://blog.thunderbird.net/2026/07/desktopsettings/ Comments URL: https://news.ycombinator.com/item?id=48896818 Points: 21 # Comments: 20",
+        "source": "HackerNews",
+        "published": "2026-07-13T18:33:47+00:00"
+      },
+      {
         "title": "The real prices of frontier models. Tokens * Price, right?",
         "link": "https://playcode.io/blog/real-price-of-frontier-models",
-        "description": "Article URL: https://playcode.io/blog/real-price-of-frontier-models Comments URL: https://news.ycombinator.com/item?id=48896800 Points: 15 # Comments: 7",
+        "description": "Article URL: https://playcode.io/blog/real-price-of-frontier-models Comments URL: https://news.ycombinator.com/item?id=48896800 Points: 66 # Comments: 34",
         "source": "HackerNews",
         "published": "2026-07-13T18:32:27+00:00"
       },
       {
-        "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
-        "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-        "description": "Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/ Comments URL: https://news.ycombinator.com/item?id=48896665 Points: 25 # Comments: 8",
+        "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+        "link": "https://nobie.com",
+        "description": "Article URL: https://nobie.com Comments URL: https://news.ycombinator.com/item?id=48896703 Points: 24 # Comments: 8",
         "source": "HackerNews",
-        "published": "2026-07-13T18:22:16+00:00"
+        "published": "2026-07-13T18:26:04+00:00"
       },
       {
         "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
@@ -31,13 +108,6 @@
         "published": "2026-07-13T18:22:10+00:00"
       },
       {
-        "title": "A full body MRI earns you a year of smoking",
-        "link": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
-        "description": "Article URL: https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump Comments URL: https://news.ycombinator.com/item?id=48896658 Points: 8 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-13T18:21:50+00:00"
-      },
-      {
         "title": "Değer mi? 200.000 TL vs 50.000 TL’lik MacBook",
         "link": "https://shiftdelete.net/deger-mi-200-000-tl-vs-50-000-tllik-macbook",
         "description": "Yeni nesil işlemci mimarisine sahip bir cihaz mı, yoksa kaslı bir iş istasyonu mu? Apple ekosisteminde dizüstü bilgisayar seçerken en çok arada kalınan iki dünyayı karşı karşıya getiriyoruz. Bir tarafta Apple’ın en yeni verimlilik canavarı MacBook...",
@@ -45,46 +115,11 @@
         "published": "2026-07-13T18:19:21+00:00"
       },
       {
-        "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-        "link": "https://cakehonolulu.github.io/linux-on-32x/",
-        "description": "Article URL: https://cakehonolulu.github.io/linux-on-32x/ Comments URL: https://news.ycombinator.com/item?id=48896600 Points: 12 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-07-13T18:18:25+00:00"
-      },
-      {
-        "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-        "link": "https://github.com/morganwilliscloud/billai-bass",
-        "description": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599 Points: 11 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-07-13T18:18:23+00:00"
-      },
-      {
         "title": "Blue Prince İncelemesi: Roguelite ve Bulmaca Bir Arada",
         "link": "https://shiftdelete.net/blue-prince-incelemesi-roguelite-ve-bulmaca-bir-arada",
         "description": "Bağımsız oyun dünyası son yıllarda bizi şaşırtmaya devam ediyor ve Dogubomb tarafından geliştirilip Raw Fury tarafından yayınlanan Blue Prince, tam da bu tanıma uyan bir yapım olarak karşımıza çıkıyor. Nisan 2025’te piyasaya sürülen bu gizem dolu...",
         "source": "ShiftDelete",
         "published": "2026-07-13T18:00:53+00:00"
-      },
-      {
-        "title": "Show HN: Super Dario",
-        "link": "https://superdario.pawb.de",
-        "description": "Article URL: https://superdario.pawb.de Comments URL: https://news.ycombinator.com/item?id=48896286 Points: 140 # Comments: 32",
-        "source": "HackerNews",
-        "published": "2026-07-13T17:53:52+00:00"
-      },
-      {
-        "title": "Logseq 2.0 Beta (DB version) is here",
-        "link": "https://github.com/logseq/logseq/releases",
-        "description": "Article URL: https://github.com/logseq/logseq/releases Comments URL: https://news.ycombinator.com/item?id=48896229 Points: 41 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-07-13T17:49:49+00:00"
-      },
-      {
-        "title": "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
-        "link": "https://github.com/mathaix/OpenClawMachines",
-        "description": "Article URL: https://github.com/mathaix/OpenClawMachines Comments URL: https://news.ycombinator.com/item?id=48896179 Points: 9 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-07-13T17:45:29+00:00"
       },
       {
         "title": "Sam Altman’s space data center trash talk is what most experts already believe",
@@ -99,13 +134,6 @@
         "description": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
         "source": "TechCrunch",
         "published": "2026-07-13T17:03:11+00:00"
-      },
-      {
-        "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
-        "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-        "description": "Article URL: https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer Comments URL: https://news.ycombinator.com/item?id=48895565 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-13T17:00:54+00:00"
       },
       {
         "title": "Nintendo Switch 2 OLED için Hazırlıklar Başladı",
@@ -127,13 +155,6 @@
         "description": "What does a world of total user-aligned AI actually look like?",
         "source": "TechCrunch",
         "published": "2026-07-13T16:31:23+00:00"
-      },
-      {
-        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-        "description": "Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html Comments URL: https://news.ycombinator.com/item?id=48894752 Points: 242 # Comments: 117",
-        "source": "HackerNews",
-        "published": "2026-07-13T16:06:08+00:00"
       },
       {
         "title": "Lenovo Legion C700 Hafif Tasarım ve Bulut Gücüyle Geliyor",
@@ -178,13 +199,6 @@
         "published": "2026-07-13T14:18:16+00:00"
       },
       {
-        "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-        "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-        "description": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:13:38+00:00"
-      },
-      {
         "title": "Vivo X300 Ultra Türkiye’de 15.000 TL’ye Varan İndirimle Satışta",
         "link": "https://shiftdelete.net/vivo-x300-ultra-turkiyede-15-000-tlye-varan-indirimle-satista",
         "description": "vivo, amiral gemisi segmentindeki en güçlü ve gelişmiş modeli olan X300 Ultra’yı Türkiye’de resmen ön satışa sunuyor. 13–25 Temmuz tarihleri arasında devam edecek olan bu özel dönemde kullanıcılar, markanın resmi online satış kanalı üzerinden cihaza...",
@@ -225,20 +239,6 @@
         "description": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban,...",
         "source": "The Verge",
         "published": "2026-07-13T13:22:33-04:00"
-      },
-      {
-        "title": "TSMC 1.4nm Üretim Süreci 2027 Yılında Başlıyor",
-        "link": "https://shiftdelete.net/tsmc-1-4nm-uretim-sureci-2027-yilinda-basliyor",
-        "description": "TSMC, 1.4nm (A14) üretim süreci için ilk fabrikasını 2027'de tamamlıyor. Apple A22 Pro ve geleceğin çip teknolojileri hakkında detaylı haber.",
-        "source": "ShiftDelete",
-        "published": "2026-07-13T13:00:30+00:00"
-      },
-      {
-        "title": "SK Hynix Uyardı: 2027 Yılında Büyük RAM Krizi Bekleniyor",
-        "link": "https://shiftdelete.net/sk-hynix-uyardi-2027-yilinda-buyuk-ram-krizi-bekleniyor",
-        "description": "SK Hynix CEO'su, artan yapay zeka talebi nedeniyle 2027 yılında tarihin en büyük bellek kıtlığının yaşanabileceği konusunda uyardı.",
-        "source": "ShiftDelete",
-        "published": "2026-07-13T12:30:55+00:00"
       },
       {
         "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "Mahmood says law will be changed to help deport grooming gang leader",
+        "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
+        "description": "Calls to deport Rochdale grooming gang ringleader Shabir Ahmed have been growing since his release from prison.",
+        "source": "BBC News",
+        "published": "2026-07-13T20:11:28+00:00"
+      },
+      {
+        "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+        "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+        "source": "BBC News",
+        "published": "2026-07-13T20:06:14+00:00"
+      },
+      {
         "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
         "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
         "description": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
@@ -383,11 +397,11 @@
         "published": "2026-07-13T17:31:54+00:00"
       },
       {
-        "title": "UK seeking extradition of man suspected of killing wife and two daughters",
-        "link": "https://www.bbc.co.uk/news/articles/cy8w61qz873o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK is trying to extradite a man after his wife and two daughters are found dead in Bedfordshire.",
-        "source": "BBC News",
-        "published": "2026-07-13T16:25:32+00:00"
+        "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
+        "link": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
+        "description": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally.",
+        "source": "NPR",
+        "published": "2026-07-13T16:22:49-04:00"
       },
       {
         "title": "Volkswagen planning to cut up to 100,000 jobs globally",
@@ -404,11 +418,11 @@
         "published": "2026-07-13T16:18:16+00:00"
       },
       {
-        "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-        "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-        "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
-        "source": "BBC News",
-        "published": "2026-07-13T16:05:13+00:00"
+        "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
+        "link": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
+        "description": "South Carolina's governor says he is appointing Darline Graham Nordone to finish the term of her late brother. Top Republicans, including President Trump, have coalesced around the pick.",
+        "source": "NPR",
+        "published": "2026-07-13T16:17:53-04:00"
       },
       {
         "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
@@ -418,7 +432,7 @@
         "published": "2026-07-13T14:00:49+00:00"
       },
       {
-        "title": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
+        "title": "Trump says the U.S. will blockade Iran again and charge ships a toll in Hormuz",
         "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
         "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
         "source": "NPR",
@@ -434,7 +448,7 @@
       {
         "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
         "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-        "description": "The actor, who has died aged 78, built up a long string of screen credits over a five-decade career.",
+        "description": "The actor built up a long string of screen credits over a five-decade career.",
         "source": "BBC News",
         "published": "2026-07-13T12:10:38+00:00"
       },
@@ -467,9 +481,9 @@
         "published": "2026-07-13T05:10:00-04:00"
       },
       {
-        "title": "EV battery recycling has a math problem",
-        "link": "https://www.npr.org/2026/07/13/nx-s1-5847025/ev-battery-recycling-economics",
-        "description": "For some electric vehicle batteries, it costs more to recycle them than they're worth. That creates all kinds of problems, which a new Colorado law aims to solve.",
+        "title": "Eat your ice cream for a long, healthy life? This doctor says so",
+        "link": "https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life",
+        "description": "Dr. Zeke Emanuel, a renowned U.S. health policy physician, takes on the wellness industry with a back-to-basics approach to optimizing good health.",
         "source": "NPR",
         "published": "2026-07-13T05:00:00-04:00"
       },
@@ -481,25 +495,18 @@
         "published": "2026-07-13T05:00:00-04:00"
       },
       {
-        "title": "Eat your ice cream for a long, healthy life? This doctor says so",
-        "link": "https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life",
-        "description": "Dr. Zeke Emanuel, a renowned U.S. health policy physician, takes on the wellness industry with a back-to-basics approach to optimizing good health.",
+        "title": "EV battery recycling has a math problem",
+        "link": "https://www.npr.org/2026/07/13/nx-s1-5847025/ev-battery-recycling-economics",
+        "description": "For some electric vehicle batteries, it costs more to recycle them than they're worth. That creates all kinds of problems, which a new Colorado law aims to solve.",
         "source": "NPR",
         "published": "2026-07-13T05:00:00-04:00"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief",
-        "description": "The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.",
-        "source": "NPR",
-        "published": "2026-07-13T04:48:40-04:00"
-      },
-      {
-        "title": "Jubilee Media helps politicians connect with young people through viral debate videos",
-        "link": "https://www.npr.org/2026/07/13/nx-s1-5870650/jubilee-media-helps-politicians-connect-with-young-people-through-viral-debate-videos",
-        "description": "Jubilee Media produces some of the most watched content on YouTube. That includes the show \"Surrounded,\" which has increasingly become a stop for politicians hoping to make inroads with young viewers.",
-        "source": "NPR",
-        "published": "2026-07-13T04:45:38-04:00"
+        "title": "Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay",
+        "link": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
+        "description": "Scientists worry that current eradication efforts won’t be able to contain parasitic infestation pushing into US When conservationists set up cameras in remote regions of Central American forests, they wanted to monitor illegal cattle movement,...",
+        "source": "The Guardian",
+        "published": "2026-07-12T11:00:17+00:00"
       },
       {
         "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -556,29 +563,85 @@
         "description": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruption A fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a political storm...",
         "source": "The Guardian",
         "published": "2026-07-09T16:20:41+00:00"
-      },
-      {
-        "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
-        "link": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
-        "description": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 2018 ruling to...",
-        "source": "The Guardian",
-        "published": "2026-07-08T14:01:35+00:00"
       }
     ],
     "turkiye": [
       {
-        "title": "ABD'den İran'a deniz ablukası! Yarın Türkiye saati ile 23.00'te başlıyor",
-        "link": "https://www.sozcu.com.tr/abd-den-iran-a-deniz-ablukasi-yarin-turkiye-saati-ile-23-00-te-basliyor-p336213",
-        "description": "ABD'den İran'a deniz ablukası! Yarın Türkiye saati ile 23.00'te başlıyor",
+        "title": "Kılıçdaroğlu'nun 'naylon fatura' diyerek sahip çıktığı iddia asılsız çıktı: 18 milyon TL dediler, 18 bin TL çıktı",
+        "link": "https://www.sozcu.com.tr/chp-malatya-il-baskanligi-gazete-18-milyon-tl-iddialarina-iliskin-aciklama-p336226",
+        "description": "Kılıçdaroğlu'nun 'naylon fatura' diyerek sahip çıktığı iddia asılsız çıktı: 18 milyon TL dediler, 18 bin TL çıktı",
         "source": "Sözcü",
-        "published": "2026-07-13T22:22:03+03:00"
+        "published": "2026-07-13T23:30:13+03:00"
+      },
+      {
+        "title": "Trump duyurdu: \"Bu gece ve yarın İran'ı sert şekilde vuracağız!\"",
+        "link": "https://www.sozcu.com.tr/trump-mutabakat-bir-sinavdi-iran-i-cok-sert-vuracagiz-p336222",
+        "description": "Trump duyurdu: \"Bu gece ve yarın İran'ı sert şekilde vuracağız!\"",
+        "source": "Sözcü",
+        "published": "2026-07-13T23:29:44+03:00"
+      },
+      {
+        "title": "Trossard’da anlaşma tamam! İstanbul’a geliş saati belli oldu",
+        "link": "https://www.sozcu.com.tr/trossard-da-anlasma-tamam-istanbul-a-gelis-saati-belli-oldu-p336220",
+        "description": "Trossard’da anlaşma tamam! İstanbul’a geliş saati belli oldu",
+        "source": "Sözcü",
+        "published": "2026-07-13T23:15:49+03:00"
+      },
+      {
+        "title": "\"3 bin TL'cik\" diyerek sattığı ekmek arası döner gündem olmuştu: İşletmeye ceza kesildi",
+        "link": "https://www.sozcu.com.tr/3-bin-tl-cik-diyerek-sattigi-ekmek-arasi-doner-gundem-olmustu-isletmeye-ceza-kesildi-p336221",
+        "description": "\"3 bin TL'cik\" diyerek sattığı ekmek arası döner gündem olmuştu: İşletmeye ceza kesildi",
+        "source": "Sözcü",
+        "published": "2026-07-13T23:15:40+03:00"
+      },
+      {
+        "title": "Yabancı plakalı araç kullanımında yeni dönem",
+        "link": "https://www.ntv.com.tr/turkiye/yabanci-plakali-arac-kullaniminda-yeni-donem-1732760",
+        "description": "İçişleri Bakanlığı ile Ticaret Bakanlığı, gurbetçilerin Türkiye’de yabancı plakalı araç kullanımıyla ilgili yaşadığı mağduriyetlerin önüne geçmek amacıyla uygulamada değişikliğe gitti.",
+        "source": "NTV",
+        "published": "2026-07-13T23:04:20+03:00"
+      },
+      {
+        "title": "CHP'li eski vekilden Kılıçdaroğlu'nun \"Ayağa kalkmazdık\" sözlerine fotoğraflı yanıt",
+        "link": "https://www.sozcu.com.tr/melda-onur-2014-fotograflari-paylasarak-yanit-verdi-p336218",
+        "description": "CHP'li eski vekilden Kılıçdaroğlu'nun \"Ayağa kalkmazdık\" sözlerine fotoğraflı yanıt",
+        "source": "Sözcü",
+        "published": "2026-07-13T22:57:30+03:00"
+      },
+      {
+        "title": "Lukaku cephesinden Beşiktaş açıklaması",
+        "link": "https://www.sozcu.com.tr/lukaku-cephesinden-besiktas-aciklamasi-p336217",
+        "description": "Lukaku cephesinden Beşiktaş açıklaması",
+        "source": "Sözcü",
+        "published": "2026-07-13T22:53:15+03:00"
+      },
+      {
+        "title": "Yukarıdan sadece delikler görünüyor, altında dev bir su ağı uzanıyor",
+        "link": "https://www.sozcu.com.tr/yukaridan-sadece-delikler-gorunuyor-altinda-dev-bir-su-agi-uzaniyor-p336216",
+        "description": "Yukarıdan sadece delikler görünüyor, altında dev bir su ağı uzanıyor",
+        "source": "Sözcü",
+        "published": "2026-07-13T22:44:53+03:00"
       },
       {
         "title": "İş insanı İnan Kıraç davasında bilirkişi raporu ortaya çıktı",
         "link": "https://www.sozcu.com.tr/inan-kirac-davasinda-yeni-gelisme-p336215",
         "description": "İş insanı İnan Kıraç davasında bilirkişi raporu ortaya çıktı",
         "source": "Sözcü",
-        "published": "2026-07-13T22:20:24+03:00"
+        "published": "2026-07-13T22:24:39+03:00"
+      },
+      {
+        "title": "Kötü koku sonrası ortaya çıktı! Zihinsel engelli kadın detayı acıyı ikiye katladı",
+        "link": "https://www.sozcu.com.tr/kotu-koku-sonrasi-ortaya-cikti-zihinsel-engelli-kadin-detayi-aciyi-ikiye-katladi-p336214",
+        "description": "Kötü koku sonrası ortaya çıktı! Zihinsel engelli kadın detayı acıyı ikiye katladı",
+        "source": "Sözcü",
+        "published": "2026-07-13T22:23:19+03:00"
+      },
+      {
+        "title": "ABD'den İran'a deniz ablukası! Yarın Türkiye saati ile 23.00'te başlıyor",
+        "link": "https://www.sozcu.com.tr/abd-den-iran-a-deniz-ablukasi-yarin-turkiye-saati-ile-23-00-te-basliyor-p336213",
+        "description": "ABD'den İran'a deniz ablukası! Yarın Türkiye saati ile 23.00'te başlıyor",
+        "source": "Sözcü",
+        "published": "2026-07-13T22:22:31+03:00"
       },
       {
         "title": "Kılıçdaroğlu: Özel'in partiden ayrılmasına gerek yok",
@@ -588,60 +651,11 @@
         "published": "2026-07-13T22:03:57+03:00"
       },
       {
-        "title": "Yabancı plakalı araç kullanımında yeni dönem! Bakanlık duyurdu",
-        "link": "https://www.sozcu.com.tr/yabanci-plakali-arac-kullaniminda-yeni-donem-bakanlik-duyurdu-p336212",
-        "description": "Yabancı plakalı araç kullanımında yeni dönem! Bakanlık duyurdu",
-        "source": "Sözcü",
-        "published": "2026-07-13T22:02:46+03:00"
-      },
-      {
-        "title": "Dünyanın kara kutusu için geri sayım başladı",
-        "link": "https://www.sozcu.com.tr/dunyanin-kara-kutusu-icin-geri-sayim-basladi-p336211",
-        "description": "Dünyanın kara kutusu için geri sayım başladı",
-        "source": "Sözcü",
-        "published": "2026-07-13T21:45:01+03:00"
-      },
-      {
-        "title": "Butlan Yönetimi sorgusuz sualsiz partiden atıyor! Disiplin süreci işletilmedi",
-        "link": "https://www.sozcu.com.tr/butlan-yonetimi-sorgusuz-sualsiz-partiden-atiyor-disiplin-sureci-isletilmedi-p336210",
-        "description": "Butlan Yönetimi sorgusuz sualsiz partiden atıyor! Disiplin süreci işletilmedi",
-        "source": "Sözcü",
-        "published": "2026-07-13T21:37:30+03:00"
-      },
-      {
-        "title": "'Butlan' Kılıçdaroğlu'ndan Özgür Özel'e: Partiden ayrılmasına gerek yok!",
-        "link": "https://www.sozcu.com.tr/kemal-kilicdaroglu-aciklamalar-13-temmuz-2026-p336201",
-        "description": "'Butlan' Kılıçdaroğlu'ndan Özgür Özel'e: Partiden ayrılmasına gerek yok!",
-        "source": "Sözcü",
-        "published": "2026-07-13T21:35:44+03:00"
-      },
-      {
-        "title": "Galatasaray’ın yeni transferi İstanbul’da",
-        "link": "https://www.sozcu.com.tr/galatasaray-in-yeni-transferi-istanbul-da-p336206",
-        "description": "Galatasaray’ın yeni transferi İstanbul’da",
-        "source": "Sözcü",
-        "published": "2026-07-13T21:20:54+03:00"
-      },
-      {
-        "title": "Yeni sistem hızla yayılıyor: Bahçe duvarları artık elektrik üreten panellerle kaplanacak",
-        "link": "https://www.sozcu.com.tr/yeni-sistem-hizla-yayiliyor-bahce-duvarlari-artik-elektrik-ureten-panellerle-kaplanacak-p336208",
-        "description": "Yeni sistem hızla yayılıyor: Bahçe duvarları artık elektrik üreten panellerle kaplanacak",
-        "source": "Sözcü",
-        "published": "2026-07-13T21:10:21+03:00"
-      },
-      {
-        "title": "500 metre derine indiler: Eski kömür madeni bu kez bambaşka bir amaç için kullanılacak",
-        "link": "https://www.sozcu.com.tr/500-metre-derine-indiler-eski-komur-madeni-bu-kez-bambaska-bir-amac-icin-kullanilacak-p336205",
-        "description": "500 metre derine indiler: Eski kömür madeni bu kez bambaşka bir amaç için kullanılacak",
-        "source": "Sözcü",
-        "published": "2026-07-13T20:44:16+03:00"
-      },
-      {
-        "title": "Husiler saldırdı: Çatışmalar Suudi Arabistan'a sıçradı",
-        "link": "https://www.sozcu.com.tr/catismalar-suudi-arabistan-a-sicradi-p336202",
-        "description": "Husiler saldırdı: Çatışmalar Suudi Arabistan'a sıçradı",
-        "source": "Sözcü",
-        "published": "2026-07-13T20:39:07+03:00"
+        "title": "Paris yakınlarındaki 'şiddetli' orman yangını 'kasten başlatılmış olabilir'",
+        "link": "https://www.bbc.com/turkce/articles/crr84greg48o?at_medium=RSS&at_campaign=rss",
+        "description": "Fransa'da itfaiyeciler, başkent Paris'in güneyindeki büyük bir orman yangınıyla mücadele ediyor.",
+        "source": "BBC Turkish",
+        "published": "2026-07-13T19:35:34+00:00"
       },
       {
         "title": "Andy Burnham'ın 20 Temmuz'da İngiltere Başbakanı olması kesinleşti",
@@ -728,13 +742,6 @@
         "published": "2026-07-13T14:28:13+03:00"
       },
       {
-        "title": "Gökçe'nin öldüğü kazada \"fren tutmadı\" savunması",
-        "link": "https://www.ntv.com.tr/turkiye/gokcenin-oldugu-kazada-fren-tutmadi-savunmasi-1732722",
-        "description": "Eskişehir'de Gökçe Kurtulmuş'un ölümüne neden olan sürücü, aracın frenlerinin tutmadığını ve direksiyonun da kilitlendiğini öne sürdü.",
-        "source": "NTV",
-        "published": "2026-07-13T14:28:13+03:00"
-      },
-      {
         "title": "FIFA Dünya Kupası'nı 64 takıma çıkarmayı görüşecek",
         "link": "https://www.bbc.com/turkce/articles/cn0vlyk40r2o?at_medium=RSS&at_campaign=rss",
         "description": "FIFA Başkanı Gianni Infantino, organizasyonun \"tüm dünya için\" olması gerektiğini söyleyerek, bu yılki turnuvanın ardından erkekler Dünya Kupası'nın 64 takıma çıkarılması planlarının değerlendirileceğini açıkladı.",
@@ -747,13 +754,6 @@
         "description": "Adalet Bakanı Akın Gürlek, Büyük Birlik Partisi'nin eski lideri Muhsin Yazıcıoğlu'nun 2009'da hayatını kaybettiği helikopter kazasına dair yürütülen soruşturmada 25 kişinin gözaltına alındığını açıkladı.",
         "source": "BBC Turkish",
         "published": "2026-07-13T10:46:39+00:00"
-      },
-      {
-        "title": "Fransa'da Paris yakınlarında 'olağanüstü ölçekte' orman yangını",
-        "link": "https://www.bbc.com/turkce/articles/crr84greg48o?at_medium=RSS&at_campaign=rss",
-        "description": "Fransa'da itfaiyeciler, başkent Paris'in güneyindeki büyük bir orman yangınıyla mücadele ediyor.",
-        "source": "BBC Turkish",
-        "published": "2026-07-13T09:52:25+00:00"
       },
       {
         "title": "İngiltere'de aşırı sıcaklar 'yaklaşık üç bin kişinin ölümüne sebep oldu'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8768
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+79°F",
-    "wind": "→3mph",
-    "humidity": "50%"
+    "condition": "Güneşli",
+    "temp": "+90°F",
+    "wind": "↖6mph",
+    "humidity": "41%"
   }
 }
