@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-07-14T20:59:36.420341+00:00",
+  "updated_at": "2026-07-14T22:06:41.862990+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+        "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+        "description": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+        "source": "TechCrunch",
+        "published": "2026-07-14T21:50:11+00:00"
+      },
+      {
+        "title": "Dependabot version updates introduce default package cooldown",
+        "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+        "description": "Article URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/ Comments URL: https://news.ycombinator.com/item?id=48913050 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-14T21:15:51+00:00"
+      },
+      {
+        "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
+        "link": "https://github.com/logxio/picchio",
+        "description": "Article URL: https://github.com/logxio/picchio Comments URL: https://news.ycombinator.com/item?id=48912947 Points: 6 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-14T21:06:11+00:00"
+      },
       {
         "title": "Grok Verileri Sızdırıyor: Elon Musk Kabul Etti",
         "link": "https://shiftdelete.net/grok-verileri-sizdiriyor-elon-musk-kabul-etti",
@@ -17,9 +38,16 @@
         "published": "2026-07-14T20:00:00+00:00"
       },
       {
+        "title": "How I use HTMX with Go",
+        "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+        "description": "Article URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go Comments URL: https://news.ycombinator.com/item?id=48912175 Points: 12 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-14T19:55:31+00:00"
+      },
+      {
         "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
         "link": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
-        "description": "Article URL: https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987 Comments URL: https://news.ycombinator.com/item?id=48912100 Points: 21 # Comments: 2",
+        "description": "Article URL: https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987 Comments URL: https://news.ycombinator.com/item?id=48912100 Points: 52 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-07-14T19:48:36+00:00"
       },
@@ -43,13 +71,6 @@
         "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
         "source": "TechCrunch",
         "published": "2026-07-14T19:39:39+00:00"
-      },
-      {
-        "title": "Show HN: A Free RSS reader with a configurable recommendation engine",
-        "link": "https://sprinklz.io/feed/home",
-        "description": "Article URL: https://sprinklz.io/feed/home Comments URL: https://news.ycombinator.com/item?id=48911998 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-14T19:39:28+00:00"
       },
       {
         "title": "Türkiye’de Otonom Ulaşım Dönemi: Robotaksi Projesi Başlıyor",
@@ -96,14 +117,14 @@
       {
         "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
         "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "description": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left Comments URL: https://news.ycombinator.com/item?id=48910676 Points: 77 # Comments: 21",
+        "description": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left Comments URL: https://news.ycombinator.com/item?id=48910676 Points: 136 # Comments: 52",
         "source": "HackerNews",
         "published": "2026-07-14T17:58:35+00:00"
       },
       {
-        "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
         "link": "https://prismml.com/news/bonsai-27b",
-        "description": "Article URL: https://prismml.com/news/bonsai-27b Comments URL: https://news.ycombinator.com/item?id=48910545 Points: 192 # Comments: 56",
+        "description": "Article URL: https://prismml.com/news/bonsai-27b Comments URL: https://news.ycombinator.com/item?id=48910545 Points: 262 # Comments: 90",
         "source": "HackerNews",
         "published": "2026-07-14T17:50:48+00:00"
       },
@@ -115,11 +136,25 @@
         "published": "2026-07-14T17:45:55+00:00"
       },
       {
+        "title": "Windows 11’s big patch Tuesday allows you to hold off on updates for longer",
+        "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+        "description": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders...",
+        "source": "The Verge",
+        "published": "2026-07-14T17:32:04-04:00"
+      },
+      {
         "title": "Yapay Zeka Modellerine Denetim mi Geliyor?",
         "link": "https://shiftdelete.net/yapay-zeka-modellerine-denetim-mi-geliyor",
         "description": "DeepMind CEO'su Demis Hassabis, yapay zeka risklerini yönetmek için küresel bir denetleyici kurum kurulması gerektiğini savundu.",
         "source": "ShiftDelete",
         "published": "2026-07-14T17:30:00+00:00"
+      },
+      {
+        "title": "OpenAI may announce a ChatGPT smart speaker this year",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+        "description": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The...",
+        "source": "The Verge",
+        "published": "2026-07-14T17:26:32-04:00"
       },
       {
         "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
@@ -138,7 +173,7 @@
       {
         "title": "The Tower Keeps Rising",
         "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-        "description": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/ Comments URL: https://news.ycombinator.com/item?id=48909785 Points: 221 # Comments: 100",
+        "description": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/ Comments URL: https://news.ycombinator.com/item?id=48909785 Points: 263 # Comments: 125",
         "source": "HackerNews",
         "published": "2026-07-14T16:57:54+00:00"
       },
@@ -152,7 +187,7 @@
       {
         "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
         "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-        "description": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/ Comments URL: https://news.ycombinator.com/item?id=48909424 Points: 302 # Comments: 175",
+        "description": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/ Comments URL: https://news.ycombinator.com/item?id=48909424 Points: 325 # Comments: 195",
         "source": "HackerNews",
         "published": "2026-07-14T16:36:06+00:00"
       },
@@ -206,27 +241,6 @@
         "published": "2026-07-14T15:25:00-04:00"
       },
       {
-        "title": "Show HN: Opening lines of famous literary works",
-        "link": "https://www.verbaprima.com/",
-        "description": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on...",
-        "source": "HackerNews",
-        "published": "2026-07-14T15:24:49+00:00"
-      },
-      {
-        "title": "I'm a USB-C Maximalist",
-        "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-        "description": "Article URL: https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/ Comments URL: https://news.ycombinator.com/item?id=48908214 Points: 64 # Comments: 106",
-        "source": "HackerNews",
-        "published": "2026-07-14T15:20:36+00:00"
-      },
-      {
-        "title": "New York State halts construction of all new data centers",
-        "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-        "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-        "source": "TechCrunch",
-        "published": "2026-07-14T15:17:59+00:00"
-      },
-      {
         "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
         "link": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale",
         "description": "Discounts on the Nintendo Switch 2 are rare, but they do happen on occasion. There’s one happening now, actually, on the company’s $499.99 console bundle that includes a digital game (Mario Kart World, Donkey Kong Bananza, or Pokémon Pokopia)....",
@@ -276,20 +290,6 @@
         "published": "2026-07-14T12:46:27-04:00"
       },
       {
-        "title": "The OLED Xbox Ally X20 is so good, Asus will sell it solo",
-        "link": "https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview",
-        "description": "When I first told you about the \"OLED Xbox Ally X of my dreams,\" I had to curb my enthusiasm a bit. That's partly because I hadn't yet tried the handheld myself, and partly because Asus was only planning to sell it bundled with a pair of expensive...",
-        "source": "The Verge",
-        "published": "2026-07-14T12:23:00-04:00"
-      },
-      {
-        "title": "The Google Images homepage will recommend photos even before you search",
-        "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-        "description": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like...",
-        "source": "The Verge",
-        "published": "2026-07-13T20:04:45-04:00"
-      },
-      {
         "title": "35 Bin Liraya Her İşini Görecek Sağlam Laptop",
         "link": "\n                    https://www.webtekno.com/35-bin-liraya-her-isini-gorecek-saglam-bir-laptop-mumkun-mu-h219670.html\n                    ",
         "description": "Hem bütçemi sarsmasın hem de yapay zeka desteğinden alüminyum gövdesine kadar her şeyiyle beklentilerimi karşılasın diyenler için Casper Nirvana S100 modelini inceledik.",
@@ -327,6 +327,20 @@
     ],
     "dunya": [
       {
+        "title": "Midnight social media curfew proposed for older UK teens",
+        "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+        "description": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+        "source": "BBC News",
+        "published": "2026-07-14T21:43:56+00:00"
+      },
+      {
+        "title": "Review of MP security needed after Widdecombe death, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss",
+        "description": "The expected next prime minister says politics has \"darkened\" in the decade he has been away from Westminster.",
+        "source": "BBC News",
+        "published": "2026-07-14T21:30:15+00:00"
+      },
+      {
         "title": "Starmer and Burnham hail Hillsborough Law as MPs give approval",
         "link": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
         "description": "The legislation cleared the House of Commons in Sir Keir Starmer's final days as prime minister.",
@@ -339,13 +353,6 @@
         "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
         "source": "BBC News",
         "published": "2026-07-14T20:10:37+00:00"
-      },
-      {
-        "title": "Review of MP security needed after Widdecombe death, Burnham says",
-        "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss",
-        "description": "The expected next prime minister says politics has \"darkened\" in the decade he has been away from Westminster.",
-        "source": "BBC News",
-        "published": "2026-07-14T19:35:31+00:00"
       },
       {
         "title": "Starmer becomes first UK PM to receive top French honour",
@@ -374,6 +381,13 @@
         "description": "Counter terror police say they have obtained a warrant to hold a 28-year-old suspect for up to seven days.",
         "source": "BBC News",
         "published": "2026-07-14T18:07:08+00:00"
+      },
+      {
+        "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal",
+        "description": "Spain is back in the men's World Cup final for the first time since 2010. That's also when Spain won its only World Cup title. France had hoped to reach the final for the third straight tournament.",
+        "source": "NPR",
+        "published": "2026-07-14T16:59:10-04:00"
       },
       {
         "title": "How do young people feel about AI? 7 teens weigh in",
@@ -439,13 +453,6 @@
         "published": "2026-07-14T11:41:07-04:00"
       },
       {
-        "title": "Wildfires burn in parts of UK as fire chiefs warn of extreme pressure",
-        "link": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&at_campaign=rss",
-        "description": "Major incidents were declared in North Wales and in Glossop, Derbyshire in the Peak District on Sunday.",
-        "source": "BBC News",
-        "published": "2026-07-14T11:15:00+00:00"
-      },
-      {
         "title": "Some international artists are skipping U.S. tours. Others may follow suit",
         "link": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
         "description": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
@@ -479,13 +486,6 @@
         "description": "A troubling pattern of federal agents fatally shooting civilians is developing, with deaths in Maine, Texas and Tennessee. The family of a man shot by agents told NPR they want answers.",
         "source": "NPR",
         "published": "2026-07-14T07:26:15-04:00"
-      },
-      {
-        "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
-        "link": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
-        "description": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.",
-        "source": "NPR",
-        "published": "2026-07-14T06:30:00-04:00"
       },
       {
         "title": "Mexico to demand criminal complaints over migrants killed by ICE in US",
@@ -539,11 +539,60 @@
     ],
     "turkiye": [
       {
+        "title": "Tekneler burada nehirde değil, gökyüzünde yol alıyor",
+        "link": "https://www.sozcu.com.tr/tekneler-burada-nehirde-degil-gokyuzunde-yol-aliyor-p336530",
+        "description": "Tekneler burada nehirde değil, gökyüzünde yol alıyor",
+        "source": "Sözcü",
+        "published": "2026-07-15T01:03:56+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-temmuz-2026-1732930",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-15T01:00:00+03:00"
+      },
+      {
+        "title": "Türkiye-Ukrayna Serbest Ticaret Anlaşması onaylandı",
+        "link": "https://www.sozcu.com.tr/turkiye-ukrayna-serbest-ticaret-anlasmasi-onaylandi-p336528",
+        "description": "Türkiye-Ukrayna Serbest Ticaret Anlaşması onaylandı",
+        "source": "Sözcü",
+        "published": "2026-07-15T00:48:55+03:00"
+      },
+      {
+        "title": "Türkiye - Irak petrol hattı davası araştırma önergesi AKP ve MHP oylarıyla reddedildi",
+        "link": "https://www.sozcu.com.tr/turkiye-irak-petrol-hatti-davasi-arastirma-onergesi-akp-ve-mhp-oylariyla-reddedildi-p336526",
+        "description": "Türkiye - Irak petrol hattı davası araştırma önergesi AKP ve MHP oylarıyla reddedildi",
+        "source": "Sözcü",
+        "published": "2026-07-15T00:40:59+03:00"
+      },
+      {
+        "title": "Ukrayna'nın Odessa açıklarında bir Türk şirketine ait sivil ticaret gemisi İHA saldırısına uğradı",
+        "link": "https://www.ntv.com.tr/turkiye/ukraynanin-odessa-aciklarinda-bir-turk-sirketine-ait-sivil-ticaret-gemisi-iha-saldirisina-ugradi-1732932",
+        "description": "Ukrayna'nın Odessa kenti açıklarında bir Türk şirketine ait, mürettebatı arasında Azerbaycan vatandaşlarının bulunduğu sivil ticaret gemisinin, insansız hava aracı (İHA) saldırısına uğradığı bildirildi.",
+        "source": "NTV",
+        "published": "2026-07-15T00:32:03+03:00"
+      },
+      {
         "title": "Dünya Kupası'nın ilk finalisti belli oldu! İspanya, kupanın bir ucundan tuttu",
         "link": "https://www.sozcu.com.tr/dunya-kupasi-nin-ilk-finalisti-belli-oldu-ispanya-kupanin-bir-ucundan-tuttu-p336520",
         "description": "Dünya Kupası'nın ilk finalisti belli oldu! İspanya, kupanın bir ucundan tuttu",
         "source": "Sözcü",
-        "published": "2026-07-14T23:59:15+03:00"
+        "published": "2026-07-15T00:31:26+03:00"
+      },
+      {
+        "title": "3 bin yıllık mezardaki gizem çözüldü: En önemli ipucu duvarlarda bulundu",
+        "link": "https://www.sozcu.com.tr/3-bin-yillik-mezardaki-gizem-cozuldu-en-onemli-ipucu-duvarlarda-bulundu-p336525",
+        "description": "3 bin yıllık mezardaki gizem çözüldü: En önemli ipucu duvarlarda bulundu",
+        "source": "Sözcü",
+        "published": "2026-07-15T00:27:25+03:00"
+      },
+      {
+        "title": "7 bin kişi bu hastalığa yakalandı: Salgının kaynağı bilinmiyor",
+        "link": "https://www.sozcu.com.tr/7-bin-kisi-bu-hastaliga-yakalandi-salginin-kaynagi-bilinmiyor-p336524",
+        "description": "7 bin kişi bu hastalığa yakalandı: Salgının kaynağı bilinmiyor",
+        "source": "Sözcü",
+        "published": "2026-07-15T00:26:37+03:00"
       },
       {
         "title": "Babasını parçalayıp tuvalete gömdü, kayıp ihbarında bulundu",
@@ -588,41 +637,6 @@
         "published": "2026-07-14T22:47:57+03:00"
       },
       {
-        "title": "İsrail ve ev hapsi iddialarıyla gündem olan Ahmedinejad, Hamaney’i anma töreninde ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/israil-ve-ev-hapsi-iddialariyla-gundem-olan-ahmedinejad-hamaney-i-anma-toreninde-ortaya-cikti-p336513",
-        "description": "İsrail ve ev hapsi iddialarıyla gündem olan Ahmedinejad, Hamaney’i anma töreninde ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-07-14T22:46:23+03:00"
-      },
-      {
-        "title": "Vincenzo Italiano, hayalindeki Beşiktaş'ı anlattı",
-        "link": "https://www.sozcu.com.tr/vincenzo-italiano-hayalindeki-besiktas-i-anlatti-p336512",
-        "description": "Vincenzo Italiano, hayalindeki Beşiktaş'ı anlattı",
-        "source": "Sözcü",
-        "published": "2026-07-14T22:40:02+03:00"
-      },
-      {
-        "title": "AKP'li meclis üyesinden İsmet İnönü'ye hakaret! CHP Grubu salonu terk etti",
-        "link": "https://www.sozcu.com.tr/akp-li-meclis-uyesinden-ismet-inonu-ye-hakaret-chp-grubu-salonu-terk-etti-p336511",
-        "description": "AKP'li meclis üyesinden İsmet İnönü'ye hakaret! CHP Grubu salonu terk etti",
-        "source": "Sözcü",
-        "published": "2026-07-14T22:39:37+03:00"
-      },
-      {
-        "title": "Arjantin'den İngiltere'yi kızdıracak forma kararı",
-        "link": "https://www.sozcu.com.tr/arjantin-den-ingiltere-yi-kizdiracak-forma-karari-p336509",
-        "description": "Arjantin'den İngiltere'yi kızdıracak forma kararı",
-        "source": "Sözcü",
-        "published": "2026-07-14T22:26:38+03:00"
-      },
-      {
-        "title": "Haluk Levent’in şoförü İlker Çetin, etkin pişmanlıktan yararlandı: Talimatı Haluk Levent verdi",
-        "link": "https://www.sozcu.com.tr/haluk-levent-in-soforu-ilker-cetin-etkin-pismanliktan-yararlandi-talimati-haluk-levent-verdi-p336507",
-        "description": "Haluk Levent’in şoförü İlker Çetin, etkin pişmanlıktan yararlandı: Talimatı Haluk Levent verdi",
-        "source": "Sözcü",
-        "published": "2026-07-14T22:23:57+03:00"
-      },
-      {
         "title": "Son dakika Kahramanmaraş'ta deprem mi oldu? Az önce deprem Kahramanmaraş'ta nerede oldu? Kahramanmaraş deprem Kandilli ve AFAD son depremler listesi 14 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-kahramanmarasta-deprem-mi-oldu-az-once-deprem-kahramanmarasta-nerede-oldu-kahramanmaras-deprem-kandilli-ve-afad-son-depremler-listesi-14-temmuz-2026-1732926",
         "description": "Son dakika Kahramanmaraş deprem haberleri.. Kahramanmaraş'ta deprem mi oldu? Az önce deprem Kahramanmaraş'ta nerede oldu? Kahramanmaraş Kandilli ve AFAD son depremler.. 14 Temmuz 2026 Kahramanmaraş deprem son dakika haberleri haberin detayında......",
@@ -635,6 +649,13 @@
         "description": "Kahramanmaraş’ın Pazarcık ilçesinde 4,2 büyüklüğünde deprem meydana geldi.",
         "source": "NTV",
         "published": "2026-07-14T21:41:10+03:00"
+      },
+      {
+        "title": "Dünya Kupası'nın ilk finalisti İspanya",
+        "link": "https://www.bbc.com/turkce/articles/cdx7rg1dnjlo?at_medium=RSS&at_campaign=rss",
+        "description": "2026 FIFA Dünya Kupası'nda finale yükselen ilk takım, Fransa'yı 2-0 yenen İspanya oldu. İspanya, finalde 15 Temmuz'da oynanacak İngiltere-Norveç maçının kazananıyla karşı karşıya gelecek. Final maçı 19 Temmuz'da oynanacak.",
+        "source": "BBC Turkish",
+        "published": "2026-07-14T21:32:55+00:00"
       },
       {
         "title": "İçişleri Bakanlığı'nda \"Spor Güvenliği Toplantısı\" yapıldı",
@@ -693,25 +714,11 @@
         "published": "2026-07-14T15:48:20+00:00"
       },
       {
-        "title": "15 Temmuz'da toplu taşıma ücretsiz mi? Yarın Metro, Metrobüs, Marmaray, Başkentray ve İZBAN bedava mı?",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuzda-toplu-tasima-ucretsiz-mi-yarin-metro-metrobus-marmaray-baskentray-ve-izban-bedava-mi-1732897",
-        "description": "15 Temmuz Demokrasi ve Milli Birlik Günü resmi tatili kapsamında, yarın dışarı çıkacak, anma etkinliklerine katılacak veya seyahat edecek olan milyonlarca vatandaşın gözü ulaşım kararlarına çevrildi. Her resmi tatilde olduğu gibi, özellikle...",
-        "source": "NTV",
-        "published": "2026-07-14T15:47:53+03:00"
-      },
-      {
         "title": "ABD mahkemesi Reza Zarrab hakkında hüküm verdi",
         "link": "https://www.bbc.com/turkce/articles/c2lyldprgwxo?at_medium=RSS&at_campaign=rss",
         "description": "ABD mahkemesi, Reza Zarrab'ın hapis yattığı süreyi göz önünde tutarak fazladan hapis cezası vermedi. Zarrab, İran'a yönelik yaptırımların yasa dışı yollarla delinmesindeki rolünden ötürü tutuklanmış, daha sonra davada savcılarla iş birliği yapmıştı.",
         "source": "BBC Turkish",
         "published": "2026-07-14T15:38:59+00:00"
-      },
-      {
-        "title": "15 Temmuz kapalı yollar listesi: İstanbul'da yarın hangi yollar trafiğe kapatılacak?",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-kapali-yollar-listesi-istanbulda-yarin-hangi-yollar-trafige-kapatilacak-1732893",
-        "description": "15 Temmuz'da hangi yolların trafiğe kapatılacağı, yarın işe gidecek veya resmi tatil gününü ailesiyle geçirecek olan vatandaşlar tarafından sorgulanıyor. İstanbul Valiliği tarafından yapılan duyuruyla birlikte, \"15 Temmuz Demokrasi ve Şehitleri Anma...",
-        "source": "NTV",
-        "published": "2026-07-14T14:59:51+03:00"
       },
       {
         "title": "Özel'den Kılıçdaroğlu'na genel başkanlık yarışı çağrısı: 'Kaybeden CHP'yi salsın'",
@@ -740,13 +747,6 @@
         "description": "Mutlak butlan kararıyla fiilen bölünen CHP'de, Özgür Özel yönetimi resmi ayrılık hazırlıklarını hızlandırdı. Özel yönetimi, bir yandan olağanüstü kurultayın 45 gün içinde yapılması amacıyla yargı yoluna giderken, diğer yandan yeni partiye geçiş...",
         "source": "BBC Turkish",
         "published": "2026-07-14T03:30:57+00:00"
-      },
-      {
-        "title": "İmralı Heyeti AKP ve Kurtulmuş ile görüşecek: DEM Parti çerçeve yasa taslağının sunulmasını bekliyor",
-        "link": "https://www.bbc.com/turkce/articles/c0kykjpvexzo?at_medium=RSS&at_campaign=rss",
-        "description": "PKK'nın sembolik silah yakma töreninin ardından, sürecin hukuki altyapısını oluşturacak çerçeve yasanın bu hafta DEM Parti'ye iletilmesi bekleniyor.",
-        "source": "BBC Turkish",
-        "published": "2026-07-14T01:35:52+00:00"
       }
     ]
   },
@@ -757,8 +757,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+103°F",
-    "wind": "↗2mph",
-    "humidity": "28%"
+    "temp": "+87°F",
+    "wind": "↖15mph",
+    "humidity": "18%"
   }
 }
