@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-07-14T22:06:41.862990+00:00",
+  "updated_at": "2026-07-14T23:24:39.213547+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Lorde says AI glasses are “not sexy”",
+        "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+        "description": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+        "source": "TechCrunch",
+        "published": "2026-07-14T23:10:02+00:00"
+      },
+      {
+        "title": "QR-Swastika-Avoider",
+        "link": "https://crates.io/crates/qr-swastika-avoider",
+        "description": "Article URL: https://crates.io/crates/qr-swastika-avoider Comments URL: https://news.ycombinator.com/item?id=48913894 Points: 3 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-14T22:46:41+00:00"
+      },
+      {
+        "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+        "link": "https://www.benjamin-bai.com/projects/lemario",
+        "description": "Article URL: https://www.benjamin-bai.com/projects/lemario Comments URL: https://news.ycombinator.com/item?id=48913763 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-14T22:30:47+00:00"
+      },
+      {
+        "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+        "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+        "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+        "source": "TechCrunch",
+        "published": "2026-07-14T22:22:24+00:00"
+      },
+      {
+        "title": "OpenAI pushes back on Apple trade secret lawsuit",
+        "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+        "description": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+        "source": "TechCrunch",
+        "published": "2026-07-14T22:07:42+00:00"
+      },
+      {
+        "title": "Financing the AI boom: from cash flows to debt [pdf]",
+        "link": "https://www.bis.org/publ/bisbull120.pdf",
+        "description": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 33 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-14T21:58:36+00:00"
+      },
       {
         "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
         "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
@@ -10,16 +52,23 @@
         "published": "2026-07-14T21:50:11+00:00"
       },
       {
+        "title": "Microsoft deleted my account and OneDrive",
+        "link": "https://twitter.com/JoshuaKhane/status/2076918699248803977",
+        "description": "https://xcancel.com/JoshuaKhane/status/2076918699248803977 Comments URL: https://news.ycombinator.com/item?id=48913220 Points: 78 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-07-14T21:35:52+00:00"
+      },
+      {
         "title": "Dependabot version updates introduce default package cooldown",
         "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-        "description": "Article URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/ Comments URL: https://news.ycombinator.com/item?id=48913050 Points: 6 # Comments: 0",
+        "description": "Article URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/ Comments URL: https://news.ycombinator.com/item?id=48913050 Points: 45 # Comments: 31",
         "source": "HackerNews",
         "published": "2026-07-14T21:15:51+00:00"
       },
       {
         "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
         "link": "https://github.com/logxio/picchio",
-        "description": "Article URL: https://github.com/logxio/picchio Comments URL: https://news.ycombinator.com/item?id=48912947 Points: 6 # Comments: 1",
+        "description": "Article URL: https://github.com/logxio/picchio Comments URL: https://news.ycombinator.com/item?id=48912947 Points: 9 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-07-14T21:06:11+00:00"
       },
@@ -40,14 +89,14 @@
       {
         "title": "How I use HTMX with Go",
         "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-        "description": "Article URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go Comments URL: https://news.ycombinator.com/item?id=48912175 Points: 12 # Comments: 0",
+        "description": "Article URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go Comments URL: https://news.ycombinator.com/item?id=48912175 Points: 66 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-07-14T19:55:31+00:00"
       },
       {
-        "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
+        "title": "StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping",
         "link": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
-        "description": "Article URL: https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987 Comments URL: https://news.ycombinator.com/item?id=48912100 Points: 52 # Comments: 19",
+        "description": "Article URL: https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987 Comments URL: https://news.ycombinator.com/item?id=48912100 Points: 81 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-07-14T19:48:36+00:00"
       },
@@ -87,6 +136,13 @@
         "published": "2026-07-14T19:00:00+00:00"
       },
       {
+        "title": "Microsoft deleted my account and OneDrive",
+        "link": "https://twitter.com/JoshuaKhane/status/2076918699248803977",
+        "description": "Article URL: https://twitter.com/JoshuaKhane/status/2076918699248803977 Comments URL: https://news.ycombinator.com/item?id=48911452 Points: 20 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-07-14T18:54:52+00:00"
+      },
+      {
         "title": "EA SPORTS Tarihi Sohbeti Duyurdu: David Beckham, Zinédine Zidane ve Zlatan Ibrahimović İlk Kez Aynı Masada!",
         "link": "\n                    https://www.webtekno.com/ea-sports-beckham-zidane-ibrahimovic-ayni-masada-h220414.html\n                    ",
         "description": "Bu temmuz ayında EA SPORTS Presents Icons of Football, oyunun en etkili üç ismi David Beckham, Zinédine Zidane ve Zlatan Ibrahimović’i ilk kez aynı masada buluşturuyor.",
@@ -108,6 +164,13 @@
         "published": "2026-07-14T18:33:31+00:00"
       },
       {
+        "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+        "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+        "description": "While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amazon, where it costs $69 in...",
+        "source": "The Verge",
+        "published": "2026-07-14T18:24:26-04:00"
+      },
+      {
         "title": "Dying Light: The Beast Eski Nesil Konsollara Gelmeyecek",
         "link": "https://shiftdelete.net/dying-light-the-beast-eski-nesil-konsollara-gelmeyecek",
         "description": "Techland, Dying Light: The Beast oyununun PS4 ve Xbox One sürümlerini teknik kısıtlamalar nedeniyle iptal ettiğini açıkladı.",
@@ -117,16 +180,9 @@
       {
         "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
         "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "description": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left Comments URL: https://news.ycombinator.com/item?id=48910676 Points: 136 # Comments: 52",
+        "description": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left Comments URL: https://news.ycombinator.com/item?id=48910676 Points: 188 # Comments: 75",
         "source": "HackerNews",
         "published": "2026-07-14T17:58:35+00:00"
-      },
-      {
-        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-        "link": "https://prismml.com/news/bonsai-27b",
-        "description": "Article URL: https://prismml.com/news/bonsai-27b Comments URL: https://news.ycombinator.com/item?id=48910545 Points: 262 # Comments: 90",
-        "source": "HackerNews",
-        "published": "2026-07-14T17:50:48+00:00"
       },
       {
         "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
@@ -157,13 +213,6 @@
         "published": "2026-07-14T17:26:32-04:00"
       },
       {
-        "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-        "link": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
-        "description": "Article URL: https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security Comments URL: https://news.ycombinator.com/item?id=48909820 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-14T17:00:17+00:00"
-      },
-      {
         "title": "Yeni OLED iPad mini 60Hz Ekran ile mi Gelecek?",
         "link": "https://shiftdelete.net/yeni-oled-ipad-mini-60hz-ekran-ile-mi-gelecek",
         "description": "Apple'ın yakında çıkması beklenen OLED iPad mini modelinin 60Hz ekran paneliyle geleceği iddia ediliyor. İşte yeni iPad mini hakkında öne çıkanlar.",
@@ -171,53 +220,11 @@
         "published": "2026-07-14T17:00:00+00:00"
       },
       {
-        "title": "The Tower Keeps Rising",
-        "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-        "description": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/ Comments URL: https://news.ycombinator.com/item?id=48909785 Points: 263 # Comments: 125",
-        "source": "HackerNews",
-        "published": "2026-07-14T16:57:54+00:00"
-      },
-      {
-        "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-        "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-        "description": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
-        "source": "TechCrunch",
-        "published": "2026-07-14T16:45:23+00:00"
-      },
-      {
-        "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-        "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-        "description": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/ Comments URL: https://news.ycombinator.com/item?id=48909424 Points: 325 # Comments: 195",
-        "source": "HackerNews",
-        "published": "2026-07-14T16:36:06+00:00"
-      },
-      {
         "title": "Spotify’dan Yeni Yapay Zeka Hamlesi: Talk to Spotify",
         "link": "https://shiftdelete.net/spotifydan-yeni-yapay-zeka-hamlesi-talk-to-spotify",
         "description": "Spotify, yapay zeka destekli yeni Talk to Spotify özelliğini duyurdu. İşte sesli ve yazılı iletişim imkanı sunan bu yeniliğin tüm detayları.",
         "source": "ShiftDelete",
         "published": "2026-07-14T16:30:00+00:00"
-      },
-      {
-        "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-        "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-        "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-        "source": "TechCrunch",
-        "published": "2026-07-14T16:22:15+00:00"
-      },
-      {
-        "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-        "link": "https://agnost.ai",
-        "description": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at...",
-        "source": "HackerNews",
-        "published": "2026-07-14T16:06:18+00:00"
-      },
-      {
-        "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-        "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-        "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-        "source": "TechCrunch",
-        "published": "2026-07-14T16:00:00+00:00"
       },
       {
         "title": "ChatGPT WhatsApp’a Geri Döndü",
@@ -283,13 +290,6 @@
         "published": "2026-07-14T12:50:28-04:00"
       },
       {
-        "title": "Nomad’s high-end phone accessories are up to 30 percent off",
-        "link": "https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale",
-        "description": "Premium phone accessory maker Nomad is celebrating its anniversary with discounts on its entire catalog of products. The sale will knocks off up to thirty percent off usual prices and will run through July 20th. We found some particularly good deals...",
-        "source": "The Verge",
-        "published": "2026-07-14T12:46:27-04:00"
-      },
-      {
         "title": "35 Bin Liraya Her İşini Görecek Sağlam Laptop",
         "link": "\n                    https://www.webtekno.com/35-bin-liraya-her-isini-gorecek-saglam-bir-laptop-mumkun-mu-h219670.html\n                    ",
         "description": "Hem bütçemi sarsmasın hem de yapay zeka desteğinden alüminyum gövdesine kadar her şeyiyle beklentilerimi karşılasın diyenler için Casper Nirvana S100 modelini inceledik.",
@@ -331,7 +331,14 @@
         "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
         "description": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
         "source": "BBC News",
-        "published": "2026-07-14T21:43:56+00:00"
+        "published": "2026-07-14T23:17:23+00:00"
+      },
+      {
+        "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
+        "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss",
+        "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
+        "source": "BBC News",
+        "published": "2026-07-14T23:08:13+00:00"
       },
       {
         "title": "Review of MP security needed after Widdecombe death, Burnham says",
@@ -402,13 +409,6 @@
         "description": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR.",
         "source": "NPR",
         "published": "2026-07-14T15:54:53-04:00"
-      },
-      {
-        "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
-        "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
-        "description": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
-        "source": "BBC News",
-        "published": "2026-07-14T15:37:52+00:00"
       },
       {
         "title": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case",
@@ -539,18 +539,39 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-temmuz-2026-1732930",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-15T02:00:00+03:00"
+      },
+      {
+        "title": "İrade ve zaferin 10. yılı. Türkiye bir kez daha 15 Temmuz'da tek yürek",
+        "link": "https://www.ntv.com.tr/turkiye/irade-ve-zaferin-10-yili-turkiye-bir-kez-daha-15-temmuzda-tek-yurek-1732674",
+        "description": "Milyonlarca kişi 10. yılında bir kez daha FETÖ tarafından düzenlenen darbe girişimini lanetliyor. Vatandaşlar Türkiye'nin dört bir yanında şehitlerini anıyor, \"İrade bizim, zafer bizim\" temasıyla gerçekleştirilen buluşmalara katılıyor.",
+        "source": "NTV",
+        "published": "2026-07-15T01:51:39+03:00"
+      },
+      {
+        "title": "Deschamps’ın hedefinde hakem var",
+        "link": "https://www.sozcu.com.tr/deschamps-in-hedefinde-hakem-var-p336536",
+        "description": "Deschamps’ın hedefinde hakem var",
+        "source": "Sözcü",
+        "published": "2026-07-15T01:27:50+03:00"
+      },
+      {
+        "title": "Türk şirketine ait gemi Ukrayna açıklarında vuruldu: Gemi kaptanı kayıp",
+        "link": "https://www.sozcu.com.tr/turk-sirketine-ait-gemi-ukrayna-aciklarinda-vuruldu-gemi-kaptani-kayip-p336529",
+        "description": "Türk şirketine ait gemi Ukrayna açıklarında vuruldu: Gemi kaptanı kayıp",
+        "source": "Sözcü",
+        "published": "2026-07-15T01:08:28+03:00"
+      },
+      {
         "title": "Tekneler burada nehirde değil, gökyüzünde yol alıyor",
         "link": "https://www.sozcu.com.tr/tekneler-burada-nehirde-degil-gokyuzunde-yol-aliyor-p336530",
         "description": "Tekneler burada nehirde değil, gökyüzünde yol alıyor",
         "source": "Sözcü",
         "published": "2026-07-15T01:03:56+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-temmuz-2026-1732930",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-15T01:00:00+03:00"
       },
       {
         "title": "Türkiye-Ukrayna Serbest Ticaret Anlaşması onaylandı",
@@ -602,13 +623,6 @@
         "published": "2026-07-14T23:46:37+03:00"
       },
       {
-        "title": "Trump, yıllar sonra ABD'nin Irak'ı işgalini eleştirdi: Yanlış ülkeye saldırdılar",
-        "link": "https://www.sozcu.com.tr/trump-yillar-sonra-abd-nin-irak-isgalini-elestirdi-yanlis-ulkeye-saldirdilar-p336515",
-        "description": "Trump, yıllar sonra ABD'nin Irak'ı işgalini eleştirdi: Yanlış ülkeye saldırdılar",
-        "source": "Sözcü",
-        "published": "2026-07-14T23:41:06+03:00"
-      },
-      {
         "title": "40 yıllık füze sistemini emekliye ayıracaklar: Yerini radarlardan kaçabilen nükleer füze alacak",
         "link": "https://www.sozcu.com.tr/40-yillik-fuze-sistemini-emekliye-ayiracaklar-yerini-radarlardan-kacabilen-nukleer-fuze-alacak-p336516",
         "description": "40 yıllık füze sistemini emekliye ayıracaklar: Yerini radarlardan kaçabilen nükleer füze alacak",
@@ -630,11 +644,11 @@
         "published": "2026-07-14T23:20:02+03:00"
       },
       {
-        "title": "Evin duvar kaplamalarını söken çift tesadüfen keşfetti: 200 yıldır duvarın arkasındaymış",
-        "link": "https://www.sozcu.com.tr/evin-duvar-kaplamalarini-soken-cift-tesadufen-kesfetti-200-yildir-duvarin-arkasindaymis-p336514",
-        "description": "Evin duvar kaplamalarını söken çift tesadüfen keşfetti: 200 yıldır duvarın arkasındaymış",
-        "source": "Sözcü",
-        "published": "2026-07-14T22:47:57+03:00"
+        "title": "Dünya Kupası'nın ilk finalisti İspanya",
+        "link": "https://www.bbc.com/turkce/articles/cdx7rg1dnjlo?at_medium=RSS&at_campaign=rss",
+        "description": "2026 FIFA Dünya Kupası'nda finale yükselen ilk takım, Fransa'yı 2-0 yenen İspanya oldu. İspanya, finalde 15 Temmuz'da oynanacak İngiltere-Norveç maçının kazananıyla karşı karşıya gelecek. Final maçı 19 Temmuz'da oynanacak.",
+        "source": "BBC Turkish",
+        "published": "2026-07-14T22:20:58+00:00"
       },
       {
         "title": "Son dakika Kahramanmaraş'ta deprem mi oldu? Az önce deprem Kahramanmaraş'ta nerede oldu? Kahramanmaraş deprem Kandilli ve AFAD son depremler listesi 14 Temmuz 2026",
@@ -649,13 +663,6 @@
         "description": "Kahramanmaraş’ın Pazarcık ilçesinde 4,2 büyüklüğünde deprem meydana geldi.",
         "source": "NTV",
         "published": "2026-07-14T21:41:10+03:00"
-      },
-      {
-        "title": "Dünya Kupası'nın ilk finalisti İspanya",
-        "link": "https://www.bbc.com/turkce/articles/cdx7rg1dnjlo?at_medium=RSS&at_campaign=rss",
-        "description": "2026 FIFA Dünya Kupası'nda finale yükselen ilk takım, Fransa'yı 2-0 yenen İspanya oldu. İspanya, finalde 15 Temmuz'da oynanacak İngiltere-Norveç maçının kazananıyla karşı karşıya gelecek. Final maçı 19 Temmuz'da oynanacak.",
-        "source": "BBC Turkish",
-        "published": "2026-07-14T21:32:55+00:00"
       },
       {
         "title": "İçişleri Bakanlığı'nda \"Spor Güvenliği Toplantısı\" yapıldı",
@@ -698,13 +705,6 @@
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"FETÖ'yle mücadele noktasında asla geri adım atmayacak, Türkiye düşmanlarına taşeronluk yapan bu ihanet şebekesiyle hukuk içinde mücadelemizi sürdüreceğiz.\" dedi.",
         "source": "NTV",
         "published": "2026-07-14T16:13:14+03:00"
-      },
-      {
-        "title": "\"Bağırırsan daha çok vururum\" dediği görüntüsü ortaya çıkmıştı, mahkemede rapor istedi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-bagirirsan-daha-cok-vururum-dedigi-goruntusu-ortaya-cikmisti-mahkemede-rapor-istedi-1732900",
-        "description": "Ejegül Ovezova'nın ölümüne ilişkin cinayet suçlamasıyla yargılanan Cemil Koç, olayın intihar olduğunu öne sürdü. \"Bağırırsan daha çok vururum.\" dediği görüntüler ortaya çıkan Koç, bilirkişi raporu istedi.",
-        "source": "NTV",
-        "published": "2026-07-14T15:56:14+03:00"
       },
       {
         "title": "Beşiktaş'ın yeni yıldızı Belçikalı Leandro Trossard kimdir?",
@@ -757,8 +757,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+87°F",
-    "wind": "↖15mph",
-    "humidity": "18%"
+    "temp": "+92°F",
+    "wind": "↘9mph",
+    "humidity": "32%"
   }
 }
