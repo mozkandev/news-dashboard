@@ -1,62 +1,118 @@
 {
-  "updated_at": "2026-07-13T23:57:52.890792+00:00",
+  "updated_at": "2026-07-14T03:16:27.741189+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "iOS 27 Public Beta Yayınlandı",
+        "link": "https://shiftdelete.net/ios-27-public-beta-yayinlandi",
+        "description": "Apple, iOS 27 public beta sürümünü yayınladı. Siri AI, performans iyileştirmeleri ve yeni ebeveyn denetimleri gibi öne çıkan özellikleri hemen keşfedin.",
+        "source": "ShiftDelete",
+        "published": "2026-07-14T03:10:59+00:00"
+      },
+      {
+        "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+        "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+        "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+        "source": "TechCrunch",
+        "published": "2026-07-14T02:46:42+00:00"
+      },
+      {
+        "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+        "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+        "description": "Article URL: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/ Comments URL: https://news.ycombinator.com/item?id=48901569 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-14T02:27:20+00:00"
+      },
+      {
+        "title": "Fundamentals of Wireless Communication",
+        "link": "https://web.stanford.edu/~dntse/wireless_book.html",
+        "description": "Article URL: https://web.stanford.edu/~dntse/wireless_book.html Comments URL: https://news.ycombinator.com/item?id=48901454 Points: 20 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-14T02:10:19+00:00"
+      },
+      {
+        "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+        "link": "https://satellitemap.space/",
+        "description": "Article URL: https://satellitemap.space/ Comments URL: https://news.ycombinator.com/item?id=48901356 Points: 12 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-14T01:55:24+00:00"
+      },
+      {
+        "title": "What will be left for us to work on?",
+        "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+        "description": "Article URL: https://www.normaltech.ai/p/what-will-be-left-for-us-to-work Comments URL: https://news.ycombinator.com/item?id=48901292 Points: 21 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-14T01:44:40+00:00"
+      },
+      {
+        "title": "Building Food Metadata with LLM Juries",
+        "link": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+        "description": "Article URL: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/ Comments URL: https://news.ycombinator.com/item?id=48901275 Points: 13 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-14T01:41:49+00:00"
+      },
+      {
+        "title": "Is x86 ready to ACE it?",
+        "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+        "description": "Article URL: https://chipsandcheese.com/p/is-x86-ready-to-ace-it Comments URL: https://news.ycombinator.com/item?id=48901235 Points: 9 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-14T01:36:13+00:00"
+      },
+      {
+        "title": "The Economics of Recursive Self-Improvement [pdf]",
+        "link": "https://elasticity.institute/rsi-paper.pdf",
+        "description": "Article URL: https://elasticity.institute/rsi-paper.pdf Comments URL: https://news.ycombinator.com/item?id=48901224 Points: 14 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-14T01:35:23+00:00"
+      },
+      {
+        "title": "MorphoHDL: A minimalistic language for growing circuits",
+        "link": "https://paradigms-of-intelligence.github.io/morpho/",
+        "description": "Article URL: https://paradigms-of-intelligence.github.io/morpho/ Comments URL: https://news.ycombinator.com/item?id=48901126 Points: 22 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-14T01:17:30+00:00"
+      },
+      {
+        "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
+        "link": "https://github.com/DaqulaLin/MemStitch",
+        "description": "Article URL: https://github.com/DaqulaLin/MemStitch Comments URL: https://news.ycombinator.com/item?id=48901051 Points: 6 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-14T01:04:02+00:00"
+      },
+      {
+        "title": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
+        "link": "https://arxiv.org/abs/2607.08550",
+        "description": "Article URL: https://arxiv.org/abs/2607.08550 Comments URL: https://news.ycombinator.com/item?id=48901020 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-14T00:58:55+00:00"
+      },
+      {
+        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+        "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+        "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and...",
+        "source": "TechCrunch",
+        "published": "2026-07-14T00:45:00+00:00"
+      },
+      {
+        "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+        "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+        "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+        "source": "TechCrunch",
+        "published": "2026-07-14T00:00:00+00:00"
+      },
+      {
+        "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+        "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+        "description": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+        "source": "TechCrunch",
+        "published": "2026-07-13T23:58:27+00:00"
+      },
+      {
         "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
         "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-        "description": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+        "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
         "source": "TechCrunch",
         "published": "2026-07-13T23:31:18+00:00"
-      },
-      {
-        "title": "An Englishwoman who sketched India before photography took hold",
-        "link": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-        "description": "Article URL: https://www.bbc.com/news/articles/cm2drrv6q54o Comments URL: https://news.ycombinator.com/item?id=48900191 Points: 5 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-13T23:12:22+00:00"
-      },
-      {
-        "title": "Manifest Man",
-        "link": "https://www.thenewcritic.com/p/manifest-man",
-        "description": "Article URL: https://www.thenewcritic.com/p/manifest-man Comments URL: https://news.ycombinator.com/item?id=48899888 Points: 6 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-07-13T22:40:55+00:00"
-      },
-      {
-        "title": "‘Asia's cleanest village’ bans tourists on Sundays",
-        "link": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
-        "description": "Article URL: https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays Comments URL: https://news.ycombinator.com/item?id=48899672 Points: 41 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-07-13T22:19:16+00:00"
-      },
-      {
-        "title": "Claude is just Mr. Meeseeks",
-        "link": "https://github.com/thephw/claude-meseeks",
-        "description": "Article URL: https://github.com/thephw/claude-meseeks Comments URL: https://news.ycombinator.com/item?id=48899529 Points: 71 # Comments: 21",
-        "source": "HackerNews",
-        "published": "2026-07-13T22:03:54+00:00"
-      },
-      {
-        "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
-        "link": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/",
-        "description": "Article URL: https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/ Comments URL: https://news.ycombinator.com/item?id=48899324 Points: 10 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-07-13T21:44:18+00:00"
-      },
-      {
-        "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-        "link": "https://arxiv.org/abs/2607.01418",
-        "description": "Article URL: https://arxiv.org/abs/2607.01418 Comments URL: https://news.ycombinator.com/item?id=48899321 Points: 8 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-07-13T21:43:51+00:00"
-      },
-      {
-        "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-        "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-        "description": "Article URL: https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7 Comments URL: https://news.ycombinator.com/item?id=48898814 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-13T21:01:00+00:00"
       },
       {
         "title": "Google Pixel 11 Özellikleri ve Renkleri Belli Oldu",
@@ -78,27 +134,6 @@
         "description": "Havacılık dünyasında kuralları yeniden yazan Türkiye’nin ilk insansız savaş uçağı Bayraktar KIZILELMA, havadan karaya süpersonik füze ile ilk atış testini başarıyla tamamladı. Merzifon’daki 5. Ana Jet Üs Komutanlığı’nda gerçekleştirilen testte,...",
         "source": "ShiftDelete",
         "published": "2026-07-13T20:20:29+00:00"
-      },
-      {
-        "title": "Show HN: YouTube Guitar Tab Parser",
-        "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-        "description": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab. There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I'm taking a simpler approach. It...",
-        "source": "HackerNews",
-        "published": "2026-07-13T20:13:14+00:00"
-      },
-      {
-        "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-        "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
-        "description": "Article URL: https://github.com/Poseidon-fan/linux-0.11-rs Comments URL: https://news.ycombinator.com/item?id=48898134 Points: 79 # Comments: 64",
-        "source": "HackerNews",
-        "published": "2026-07-13T20:11:29+00:00"
-      },
-      {
-        "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
-        "link": "https://github.com/yeet-src/sigwire",
-        "description": "Hey everyone, I wrote this tool for inspecting linux signals across proceses Comments URL: https://news.ycombinator.com/item?id=48898071 Points: 20 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-07-13T20:07:45+00:00"
       },
       {
         "title": "Küresel Akıllı Telefon Pazarı Küçülürken Samsung Lider Oldu",
@@ -185,13 +220,6 @@
         "published": "2026-07-13T17:00:54+00:00"
       },
       {
-        "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-        "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
-        "description": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
-        "source": "TechCrunch",
-        "published": "2026-07-13T17:00:14+00:00"
-      },
-      {
         "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
         "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
         "description": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and other...",
@@ -234,32 +262,11 @@
         "published": "2026-07-13T16:43:20-04:00"
       },
       {
-        "title": "Should AI help you get away with killing your spouse?",
-        "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-        "description": "What does a world of total user-aligned AI actually look like?",
-        "source": "TechCrunch",
-        "published": "2026-07-13T16:31:23+00:00"
-      },
-      {
         "title": "Lenovo Legion C700 Hafif Tasarım ve Bulut Gücüyle Geliyor",
         "link": "https://shiftdelete.net/lenovo-legion-c700-hafif-tasarim-ve-bulut-gucuyle-geliyor",
         "description": "Lenovo Legion C700: Tencent İmzalı Yeni Bulut Oyun Konsolu Ağustos’ta Geliyor Çin merkezli teknoloji devi Lenovo, oyun odaklı Legion markası altında tamamen bulut üzerinden oyun oynamaya odaklanan yeni nesil el konsolu Lenovo Legion C700 modelini...",
         "source": "ShiftDelete",
         "published": "2026-07-13T16:00:28+00:00"
-      },
-      {
-        "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
-        "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
-        "description": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
-        "source": "TechCrunch",
-        "published": "2026-07-13T15:49:42+00:00"
-      },
-      {
-        "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-        "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-        "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-        "source": "TechCrunch",
-        "published": "2026-07-13T15:34:59+00:00"
       },
       {
         "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
@@ -274,13 +281,6 @@
         "description": "vivo, amiral gemisi segmentindeki en güçlü ve gelişmiş modeli olan X300 Ultra’yı Türkiye’de resmen ön satışa sunuyor. 13–25 Temmuz tarihleri arasında devam edecek olan bu özel dönemde kullanıcılar, markanın resmi online satış kanalı üzerinden cihaza...",
         "source": "ShiftDelete",
         "published": "2026-07-13T14:12:36+00:00"
-      },
-      {
-        "title": "Instagram Tartışma Yaratan Özelliğini Geri Çekti",
-        "link": "https://shiftdelete.net/instagram-tartisma-yaratan-ozelligini-geri-cekti",
-        "description": "Meta, gizlilik endişeleri ve gelen yoğun eleştiriler üzerine Instagram'daki tartışmalı yapay zeka görsel oluşturma özelliğini kullanımdan kaldırdı.",
-        "source": "ShiftDelete",
-        "published": "2026-07-13T14:00:44+00:00"
       },
       {
         "title": "35 Bin Liraya Her İşini Görecek Sağlam Laptop",
@@ -355,11 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "US-based Mexican food chain Chipotle opening first outlet in Mexico",
+        "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+        "description": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
+        "source": "BBC News",
+        "published": "2026-07-14T02:42:51+00:00"
+      },
+      {
+        "title": "Thai police probe safety lapses after deadly Bangkok bar fire",
+        "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+        "description": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+        "source": "BBC News",
+        "published": "2026-07-14T02:36:12+00:00"
+      },
+      {
         "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
         "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
         "description": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
         "source": "BBC News",
-        "published": "2026-07-13T23:42:24+00:00"
+        "published": "2026-07-14T02:27:50+00:00"
+      },
+      {
+        "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+        "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+        "description": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
+        "source": "BBC News",
+        "published": "2026-07-14T02:26:45+00:00"
       },
       {
         "title": "YouTube still recommending eating disorder videos to teens, research finds",
@@ -404,20 +425,6 @@
         "published": "2026-07-13T21:11:08+00:00"
       },
       {
-        "title": "Mahmood says law will be changed to help deport grooming gang leader",
-        "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
-        "description": "Calls to deport Rochdale grooming gang ringleader Shabir Ahmed have been growing since his release from prison.",
-        "source": "BBC News",
-        "published": "2026-07-13T20:11:28+00:00"
-      },
-      {
-        "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-        "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
-        "description": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-        "source": "BBC News",
-        "published": "2026-07-13T18:52:46+00:00"
-      },
-      {
         "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
         "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
         "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
@@ -430,13 +437,6 @@
         "description": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally.",
         "source": "NPR",
         "published": "2026-07-13T16:22:49-04:00"
-      },
-      {
-        "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
-        "link": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo?at_medium=RSS&at_campaign=rss",
-        "description": "Home Secretary Shabana Mahmood says the police's response \"undoubtedly saved lives\".",
-        "source": "BBC News",
-        "published": "2026-07-13T16:18:16+00:00"
       },
       {
         "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
@@ -502,9 +502,9 @@
         "published": "2026-07-13T05:00:00-04:00"
       },
       {
-        "title": "He was having a mental health crisis. Memphis task force agents came and shot him",
-        "link": "https://www.npr.org/2026/07/13/nx-s1-5888618/memphis-safe-task-force-shooting-jonah-neal",
-        "description": "Jonah Neal, 25, was struck by a Homeland Security Investigations agent in May. There have been at least four deadly shootings related to the task force.",
+        "title": "EV battery recycling has a math problem",
+        "link": "https://www.npr.org/2026/07/13/nx-s1-5847025/ev-battery-recycling-economics",
+        "description": "For some electric vehicle batteries, it costs more to recycle them than they're worth. That creates all kinds of problems, which a new Colorado law aims to solve.",
         "source": "NPR",
         "published": "2026-07-13T05:00:00-04:00"
       },
@@ -567,18 +567,74 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-temmuz-2026-1732765",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-14T06:00:00+03:00"
+      },
+      {
+        "title": "Bu ülkede terörist olmak daha avantajlı",
+        "link": "https://www.sozcu.com.tr/bu-ulkede-terorist-olmak-daha-avantajli-p336243",
+        "description": "Bu ülkede terörist olmak daha avantajlı",
+        "source": "Sözcü",
+        "published": "2026-07-14T05:30:12+03:00"
+      },
+      {
+        "title": "Cezaevinde felç geçirdi mahkemede oturarak savunma yapabildi",
+        "link": "https://www.sozcu.com.tr/cezaevinde-felc-gecirdi-mahkemede-oturarak-savunma-yapabildi-p336257",
+        "description": "Cezaevinde felç geçirdi mahkemede oturarak savunma yapabildi",
+        "source": "Sözcü",
+        "published": "2026-07-14T05:20:12+03:00"
+      },
+      {
+        "title": "Durdurulmaz bir sel var",
+        "link": "https://www.sozcu.com.tr/durdurulmaz-bir-sel-var-p336246",
+        "description": "Durdurulmaz bir sel var",
+        "source": "Sözcü",
+        "published": "2026-07-14T05:10:11+03:00"
+      },
+      {
+        "title": "Yeni müjdemiz Diyarbakır petrolü",
+        "link": "https://www.sozcu.com.tr/yeni-mujdemiz-diyarbakir-petrolu-p336255",
+        "description": "Yeni müjdemiz Diyarbakır petrolü",
+        "source": "Sözcü",
+        "published": "2026-07-14T04:50:16+03:00"
+      },
+      {
+        "title": "İşte iktidarın eseri",
+        "link": "https://www.sozcu.com.tr/iste-iktidarin-eseri-p336250",
+        "description": "İşte iktidarın eseri",
+        "source": "Sözcü",
+        "published": "2026-07-14T04:40:11+03:00"
+      },
+      {
+        "title": "Gümrük limiti yükseldi telefon cep yakacak",
+        "link": "https://www.sozcu.com.tr/gumruk-limiti-yukseldi-telefon-cep-yakacak-p336253",
+        "description": "Gümrük limiti yükseldi telefon cep yakacak",
+        "source": "Sözcü",
+        "published": "2026-07-14T04:30:10+03:00"
+      },
+      {
+        "title": "Irak’tan 1.6 milyar dolar alacağımız var",
+        "link": "https://www.sozcu.com.tr/irak-tan-1-6-milyar-dolar-alacagimiz-var-p336256",
+        "description": "Irak’tan 1.6 milyar dolar alacağımız var",
+        "source": "Sözcü",
+        "published": "2026-07-14T04:07:10+03:00"
+      },
+      {
         "title": "BAE: İran Hürmüz Boğazı'nda 2 tankerimize füze saldırısı düzenledi, bir ölü, 8 yaralı",
         "link": "https://www.sozcu.com.tr/bae-iran-hurmuz-bogazi-nda-2-tankerimize-fuze-saldirisi-duzenledi-bir-olu-8-yarali-p336252",
         "description": "BAE: İran Hürmüz Boğazı'nda 2 tankerimize füze saldırısı düzenledi, bir ölü, 8 yaralı",
         "source": "Sözcü",
-        "published": "2026-07-14T02:42:49+03:00"
+        "published": "2026-07-14T03:43:05+03:00"
       },
       {
-        "title": "Kılıçdaroğlu'na para desteği veren gizemli iş insanı bakın kim çıktı",
-        "link": "https://www.sozcu.com.tr/kilicdaroglu-na-para-destegi-veren-gizemli-is-insani-bakin-kim-cikti-p336251",
-        "description": "Kılıçdaroğlu'na para desteği veren gizemli iş insanı bakın kim çıktı",
+        "title": "Benzine 1 lira 60 kuruş zam yolda",
+        "link": "https://www.sozcu.com.tr/benzine-1-lira-60-kurus-zam-yolda-p336254",
+        "description": "Benzine 1 lira 60 kuruş zam yolda",
         "source": "Sözcü",
-        "published": "2026-07-14T02:40:48+03:00"
+        "published": "2026-07-14T03:30:10+03:00"
       },
       {
         "title": "Kamu zararı yok aksine yararı var",
@@ -588,32 +644,11 @@
         "published": "2026-07-14T02:30:07+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-temmuz-2026-1732765",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-14T02:30:00+03:00"
-      },
-      {
-        "title": "Savcılık dosyasına girdi: Ahbap'a hangi ünlü ne kadar bağış yaptı?",
-        "link": "https://www.sozcu.com.tr/savcilik-dosyasina-girdi-ahbap-a-hangi-unlu-ne-kadar-bagis-yapti-p336248",
-        "description": "Savcılık dosyasına girdi: Ahbap'a hangi ünlü ne kadar bağış yaptı?",
-        "source": "Sözcü",
-        "published": "2026-07-14T02:10:15+03:00"
-      },
-      {
-        "title": "Hücresel temizliğin püf noktaları",
-        "link": "https://www.sozcu.com.tr/hucresel-temizligin-puf-noktalari-p336231",
-        "description": "Hücresel temizliğin püf noktaları",
-        "source": "Sözcü",
-        "published": "2026-07-14T02:00:06+03:00"
-      },
-      {
-        "title": "Askeri kışlanın zemininde bulundu: Yüzyıllardır toprağın altında saklı kalmış",
-        "link": "https://www.sozcu.com.tr/askeri-kislanin-zemininde-bulundu-yuzyillardir-topragin-altinda-sakli-kalmis-p336244",
-        "description": "Askeri kışlanın zemininde bulundu: Yüzyıllardır toprağın altında saklı kalmış",
-        "source": "Sözcü",
-        "published": "2026-07-14T01:03:11+03:00"
+        "title": "İmralı Heyeti AKP ve Kurtulmuş ile görüşecek: DEM Parti çerçeve yasa taslağının sunulmasını bekliyor",
+        "link": "https://www.bbc.com/turkce/articles/c0kykjpvexzo?at_medium=RSS&at_campaign=rss",
+        "description": "PKK'nın sembolik silah yakma töreninin ardından, sürecin hukuki altyapısını oluşturacak çerçeve yasanın bu hafta DEM Parti'ye iletilmesi bekleniyor.",
+        "source": "BBC Turkish",
+        "published": "2026-07-14T01:35:52+00:00"
       },
       {
         "title": "Dışişleri Bakanı Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı",
@@ -630,39 +665,11 @@
         "published": "2026-07-14T00:30:37+03:00"
       },
       {
-        "title": "Binlerce yıl sonra yeniden canlanıyor",
-        "link": "https://www.sozcu.com.tr/binlerce-yil-sonra-yeniden-canlaniyor-p336234",
-        "description": "Binlerce yıl sonra yeniden canlanıyor",
-        "source": "Sözcü",
-        "published": "2026-07-14T00:23:28+03:00"
-      },
-      {
-        "title": "İş yeri sahipleri çöp yüzünden birbirine girdi",
-        "link": "https://www.sozcu.com.tr/is-yeri-sahipleri-cop-yuzunden-birbirine-girdi-p336230",
-        "description": "İş yeri sahipleri çöp yüzünden birbirine girdi",
-        "source": "Sözcü",
-        "published": "2026-07-14T00:01:27+03:00"
-      },
-      {
         "title": "Volkswagen yaklaşık 100 bin çalışanını işten çıkarmayı planlıyor",
         "link": "https://www.bbc.com/turkce/articles/cg4w4ynrgw6o?at_medium=RSS&at_campaign=rss",
         "description": "Porsche ve Audi'yi de bünyesinde barındıran grup, kârlarında ciddi bir düşüş ve Çin'den gelen sert rekabetle karşı karşıya.",
         "source": "BBC Turkish",
         "published": "2026-07-13T23:43:58+00:00"
-      },
-      {
-        "title": "Sıcak hava dalgası nükleer santralleri vurdu: 37 bölgede kırmızı alarm verildi",
-        "link": "https://www.sozcu.com.tr/sicak-hava-dalgasi-nukleer-santralleri-vurdu-37-bolgede-kirmizi-alarm-verildi-p336229",
-        "description": "Sıcak hava dalgası nükleer santralleri vurdu: 37 bölgede kırmızı alarm verildi",
-        "source": "Sözcü",
-        "published": "2026-07-13T23:40:07+03:00"
-      },
-      {
-        "title": "Kılıçdaroğlu'nun 'naylon fatura' diyerek sahip çıktığı iddia asılsız çıktı: 18 milyon TL dediler, 18 bin TL çıktı",
-        "link": "https://www.sozcu.com.tr/chp-malatya-il-baskanligi-gazete-18-milyon-tl-iddialarina-iliskin-aciklama-p336226",
-        "description": "Kılıçdaroğlu'nun 'naylon fatura' diyerek sahip çıktığı iddia asılsız çıktı: 18 milyon TL dediler, 18 bin TL çıktı",
-        "source": "Sözcü",
-        "published": "2026-07-13T23:30:13+03:00"
       },
       {
         "title": "Yabancı plakalı araç kullanımında yeni dönem",
@@ -756,13 +763,6 @@
         "published": "2026-07-13T15:57:17+03:00"
       },
       {
-        "title": "FIFA Dünya Kupası'nı 64 takıma çıkarmayı görüşecek",
-        "link": "https://www.bbc.com/turkce/articles/cn0vlyk40r2o?at_medium=RSS&at_campaign=rss",
-        "description": "FIFA Başkanı Gianni Infantino, organizasyonun \"tüm dünya için\" olması gerektiğini söyleyerek, bu yılki turnuvanın ardından erkekler Dünya Kupası'nın 64 takıma çıkarılması planlarının değerlendirileceğini açıkladı.",
-        "source": "BBC Turkish",
-        "published": "2026-07-13T11:24:04+00:00"
-      },
-      {
         "title": "25 kişinin gözaltına alındığı Muhsin Yazıcıoğlu soruşturması hakkında neler biliniyor?",
         "link": "https://www.bbc.com/turkce/articles/cvge2zwq0e2o?at_medium=RSS&at_campaign=rss",
         "description": "Adalet Bakanı Akın Gürlek, Büyük Birlik Partisi'nin eski lideri Muhsin Yazıcıoğlu'nun 2009'da hayatını kaybettiği helikopter kazasına dair yürütülen soruşturmada 25 kişinin gözaltına alındığını açıkladı.",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.0261,
-    "eur_try": 53.6393,
-    "eur_usd": 0.8768
+    "usd_try": 47.0058,
+    "eur_try": 53.5778,
+    "eur_usd": 0.8774
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+91°F",
-    "wind": "←4mph",
-    "humidity": "41%"
+    "condition": "Thunderstorm, Widespread Dust",
+    "temp": "+88°F",
+    "wind": "↖20mph",
+    "humidity": "52%"
   }
 }
