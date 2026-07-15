@@ -1,25 +1,46 @@
 {
-  "updated_at": "2026-07-15T22:00:17.891725+00:00",
+  "updated_at": "2026-07-15T23:06:54.798222+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Google Reklamlarında Yapay Zekâ Dönemi: Artık Hangisinin \"Gerçek\" Olmadığını Öğrenebileceğiz!",
+        "link": "\n                    https://www.webtekno.com/google-reklamlarinda-yapay-zeka-bilgisi-yer-alacak-h220301.html\n                    ",
+        "description": "Google, kullanıcıların karşılaştıklarında görselin veya içeriğin arkasında yapay zekâ olup olmadığını anlayabilmeleri için yeni bir özellik ekliyor.",
+        "source": "Webtekno",
+        "published": "2026-07-16T01:43:04+03:00"
+      },
+      {
+        "title": "SQLite should have (Rust-style) editions",
+        "link": "https://mort.coffee/home/sqlite-editions/",
+        "description": "Article URL: https://mort.coffee/home/sqlite-editions/ Comments URL: https://news.ycombinator.com/item?id=48928135 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-15T22:42:58+00:00"
+      },
+      {
+        "title": "P2P local file transfer based on WebRTC",
+        "link": "https://pairdrop.net/",
+        "description": "Article URL: https://pairdrop.net/ Comments URL: https://news.ycombinator.com/item?id=48927900 Points: 4 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-15T22:22:08+00:00"
+      },
+      {
         "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
         "link": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-        "description": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 10 # Comments: 1",
+        "description": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 33 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-07-15T21:39:21+00:00"
       },
       {
-        "title": "The End of Creativity",
-        "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
-        "description": "Article URL: https://hugodaniel.com/posts/the-end-of-creativity/ Comments URL: https://news.ycombinator.com/item?id=48927136 Points: 7 # Comments: 7",
+        "title": "We don't use AI in any of our design or production processes",
+        "link": "https://mass-driver.com/article/from-human-hands",
+        "description": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 49 # Comments: 26",
         "source": "HackerNews",
-        "published": "2026-07-15T21:19:42+00:00"
+        "published": "2026-07-15T21:36:49+00:00"
       },
       {
-        "title": "Must actively fund open source AI [pdf]",
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
         "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-        "description": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 7 # Comments: 0",
+        "description": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 30 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-07-15T21:16:36+00:00"
       },
@@ -47,7 +68,7 @@
       {
         "title": "Grok Build",
         "link": "https://github.com/xai-org/grok-build",
-        "description": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 88 # Comments: 101",
+        "description": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 155 # Comments: 174",
         "source": "HackerNews",
         "published": "2026-07-15T20:24:58+00:00"
       },
@@ -75,7 +96,7 @@
       {
         "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
         "link": "https://brainless.swerdlow.dev",
-        "description": "Article URL: https://brainless.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=48926085 Points: 48 # Comments: 6",
+        "description": "Article URL: https://brainless.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=48926085 Points: 63 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-07-15T19:42:53+00:00"
       },
@@ -89,7 +110,7 @@
       {
         "title": "Voxatron",
         "link": "https://www.lexaloffle.com/voxatron.php",
-        "description": "Article URL: https://www.lexaloffle.com/voxatron.php Comments URL: https://news.ycombinator.com/item?id=48926053 Points: 33 # Comments: 10",
+        "description": "Article URL: https://www.lexaloffle.com/voxatron.php Comments URL: https://news.ycombinator.com/item?id=48926053 Points: 43 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-07-15T19:40:23+00:00"
       },
@@ -103,7 +124,7 @@
       {
         "title": "Duskers, the scary command line game, is getting a sequel",
         "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-        "description": "Article URL: https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20 Comments URL: https://news.ycombinator.com/item?id=48925888 Points: 66 # Comments: 12",
+        "description": "Article URL: https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20 Comments URL: https://news.ycombinator.com/item?id=48925888 Points: 74 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-07-15T19:27:59+00:00"
       },
@@ -115,11 +136,25 @@
         "published": "2026-07-15T19:00:00+00:00"
       },
       {
+        "title": "HP’s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+        "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+        "description": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel...",
+        "source": "The Verge",
+        "published": "2026-07-15T18:47:11-04:00"
+      },
+      {
         "title": "Microsoft patches bug in video game Age of Empires II",
         "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
         "description": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
         "source": "TechCrunch",
         "published": "2026-07-15T18:47:01+00:00"
+      },
+      {
+        "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+        "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+        "description": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that...",
+        "source": "The Verge",
+        "published": "2026-07-15T18:40:48-04:00"
       },
       {
         "title": "AI PC’ler Bulut Maliyetlerini Düşürebilir mi?",
@@ -129,18 +164,18 @@
         "published": "2026-07-15T18:30:00+00:00"
       },
       {
+        "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+        "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+        "description": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery...",
+        "source": "The Verge",
+        "published": "2026-07-15T18:22:50-04:00"
+      },
+      {
         "title": "Apple bans home services from its upcoming Maps ads",
         "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
         "description": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising...",
         "source": "TechCrunch",
         "published": "2026-07-15T18:21:22+00:00"
-      },
-      {
-        "title": "Inkling: Our Open-Weights Model",
-        "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-        "description": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/ Comments URL: https://news.ycombinator.com/item?id=48924912 Points: 435 # Comments: 106",
-        "source": "HackerNews",
-        "published": "2026-07-15T18:12:45+00:00"
       },
       {
         "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
@@ -197,13 +232,6 @@
         "description": "Discord, dizi ve film sürprizbozanlarını engellemek için yeni spoiler kanalları özelliğini kullanıma sundu. İşte yeni özelliğin detayları.",
         "source": "ShiftDelete",
         "published": "2026-07-15T17:30:00+00:00"
-      },
-      {
-        "title": "Artie (YC S23) Is Hiring Software Engineers",
-        "link": "https://jobs.ashbyhq.com/artie",
-        "description": "Article URL: https://jobs.ashbyhq.com/artie Comments URL: https://news.ycombinator.com/item?id=48923833 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-15T17:01:02+00:00"
       },
       {
         "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
@@ -323,37 +351,23 @@
         "description": "Samsung Galaxy Tab S12 Ultra, BIS sertifikasyon sürecinde görüntülendi. Yeni amiral gemisi tabletin yakında tanıtılması beklenirken, ilk teknik detaylar da ortaya çıkmaya başladı.",
         "source": "Webtekno",
         "published": "2026-07-15T13:54:12+03:00"
-      },
-      {
-        "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
-        "link": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
-        "description": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it \"completely false\" and pointing to its available free cash flow as...",
-        "source": "The Verge",
-        "published": "2026-07-15T13:17:56-04:00"
-      },
-      {
-        "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
-        "link": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix",
-        "description": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original release,...",
-        "source": "The Verge",
-        "published": "2026-07-15T12:37:08-04:00"
-      },
-      {
-        "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
-        "link": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
-        "description": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey taking a foldable phone off a 3D printer and opening it book-style, but each...",
-        "source": "The Verge",
-        "published": "2026-07-15T12:05:34-04:00"
-      },
-      {
-        "title": "Meta'ya yapay zeka davası: İşten çıkarmalarda ayrımcılık iddiası",
-        "link": "\n                    https://www.webtekno.com/meta-suclama-isten-cikarmalarda-yapay-zeka-kullanildi-h220432.html\n                    ",
-        "description": "Meta, işten çıkarmalarda yapay zeka kullandığı ve bazı çalışanları ayrımcı şekilde hedef aldığı iddiasıyla dava edildi. Dava, yapay zekanın insan kaynaklarında kullanımına yönelik önemli bir emsal oluşturabilir.",
-        "source": "Webtekno",
-        "published": "2026-07-15T11:54:14+03:00"
       }
     ],
     "dunya": [
+      {
+        "title": "William tells England to 'hold their heads high' after defeat",
+        "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina.",
+        "source": "BBC News",
+        "published": "2026-07-15T22:33:43+00:00"
+      },
+      {
+        "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
+        "link": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+        "description": "Banner refers to Falkland Islands conflict in 1982 Players celebrate on the pitch with the message The Argentina players celebrated their World Cup win over England with a banner saying “ Las Malvinas son Argentinas ”, making reference to the 1982...",
+        "source": "The Guardian",
+        "published": "2026-07-15T22:03:19+00:00"
+      },
       {
         "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
         "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
@@ -488,13 +502,6 @@
         "published": "2026-07-15T11:16:35-04:00"
       },
       {
-        "title": "UK's extreme weather is the new normal, Met Office says",
-        "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss",
-        "description": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
-        "source": "BBC News",
-        "published": "2026-07-15T11:11:32+00:00"
-      },
-      {
         "title": "China's economy grows 4.3% in Q2, slowest since late 2022",
         "link": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
         "description": "Lagging consumer spending and business investment offset the boost from strong exports thanks partly to the boom in artificial intelligence.",
@@ -521,13 +528,6 @@
         "description": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’ Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared. More than...",
         "source": "The Guardian",
         "published": "2026-07-15T08:00:49+00:00"
-      },
-      {
-        "title": "Derision at US chain Chipotle’s plan to sell its Mexican food in Mexico",
-        "link": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
-        "description": "One social media user described the opening of its first outlet in Monterrey as ‘like the dog teaching a duck to fly’ A US chain’s plan to sell its version of Mexican food to Mexicans with a first branch south of the border has prompted bemusement,...",
-        "source": "The Guardian",
-        "published": "2026-07-14T18:23:45+00:00"
       },
       {
         "title": "New US Ebola patient arrives in Germany for treatment",
@@ -571,7 +571,14 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-16-temmuz-2026-1733085",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 16 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-16T01:00:00+03:00"
+        "published": "2026-07-16T02:00:00+03:00"
+      },
+      {
+        "title": "450 milyon yıllık sır bu adada saklı",
+        "link": "https://www.sozcu.com.tr/450-milyon-yillik-sir-bu-adada-sakli-p336859",
+        "description": "450 milyon yıllık sır bu adada saklı",
+        "source": "Sözcü",
+        "published": "2026-07-16T01:03:43+03:00"
       },
       {
         "title": "Rus basınının iddiası: Ayasofya’da İncil okuyan iki Rus vatandaşı gözaltına alındı",
@@ -656,13 +663,6 @@
         "description": "DEM Parti ve AK Parti heyetleri arasında görüşme gerçekleştiği bildirildi.",
         "source": "NTV",
         "published": "2026-07-15T23:42:34+03:00"
-      },
-      {
-        "title": "Erbil’de patlama sesleri",
-        "link": "https://www.sozcu.com.tr/erbil-de-patlama-sesleri-p336845",
-        "description": "Erbil’de patlama sesleri",
-        "source": "Sözcü",
-        "published": "2026-07-15T23:30:28+03:00"
       },
       {
         "title": "Bölgede endişe giderek büyüyor: İstilacı koyunların taşıdığı bakteri ölümcül çıktı",
