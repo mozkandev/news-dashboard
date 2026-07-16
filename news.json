@@ -1,41 +1,55 @@
 {
-  "updated_at": "2026-07-16T20:57:43.180458+00:00",
+  "updated_at": "2026-07-16T22:08:13.548596+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+        "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+        "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+        "source": "TechCrunch",
+        "published": "2026-07-16T21:22:31+00:00"
+      },
+      {
+        "title": "Mathematics of Data Science",
+        "link": "https://arxiv.org/abs/2607.11938",
+        "description": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 19 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-16T20:38:48+00:00"
+      },
+      {
         "title": "Timeline Scan – AI fixes the dates on your scanned photos",
         "link": "https://timelinescan.com/",
-        "description": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 3 # Comments: 1",
+        "description": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 8 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-07-16T20:25:47+00:00"
       },
       {
+        "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+        "link": "https://www.science.org/doi/10.1126/science.aea9708",
+        "description": "Article URL: https://www.science.org/doi/10.1126/science.aea9708 Comments URL: https://news.ycombinator.com/item?id=48939742 Points: 33 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-16T20:24:02+00:00"
+      },
+      {
+        "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+        "link": "https://libretto.sh/debug-agents",
+        "description": "Libretto PR agents is a free TypeScript library for maintaining Playwright browser automations. Add one line of code to your existing Playwright scripts and it lets an agent automatically open GitHub PRs fixing the script when it fails. A few months...",
+        "source": "HackerNews",
+        "published": "2026-07-16T20:21:27+00:00"
+      },
+      {
         "title": "LM Studio Bionic: the AI agent for open models",
         "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "description": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 3 # Comments: 0",
+        "description": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 57 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-07-16T20:18:15+00:00"
       },
       {
         "title": "The privacy problems hidden in your period tracker",
         "link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-        "description": "Article URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details Comments URL: https://news.ycombinator.com/item?id=48939641 Points: 5 # Comments: 0",
+        "description": "Article URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details Comments URL: https://news.ycombinator.com/item?id=48939641 Points: 37 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-07-16T20:15:58+00:00"
-      },
-      {
-        "title": "Show HN: Bonebox-01 – 29KB bare metal x86 OS (80 KiB, built to kill Tiny Core)",
-        "link": "https://github.com/Deadbytes101/BONEBOX-01",
-        "description": "I found this project on GitHub and it was dead quiet. After digging in, I think it deserves attention. Comments URL: https://news.ycombinator.com/item?id=48939596 Points: 3 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:11:21+00:00"
-      },
-      {
-        "title": "Kimi K3 Intelligence, Performance and Price Analysis",
-        "link": "https://artificialanalysis.ai/models/kimi-k3",
-        "description": "Article URL: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48939580 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:09:46+00:00"
       },
       {
         "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
@@ -47,16 +61,9 @@
       {
         "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
         "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "description": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 3 # Comments: 1",
+        "description": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 58 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-07-16T20:03:23+00:00"
-      },
-      {
-        "title": "As a musician, I prefer illegal downloading over Spotify (2011)",
-        "link": "https://derekwebb.tumblr.com/post/13503899950/giving-it-away-how-free-music-makes-more-than",
-        "description": "Article URL: https://derekwebb.tumblr.com/post/13503899950/giving-it-away-how-free-music-makes-more-than Comments URL: https://news.ycombinator.com/item?id=48939030 Points: 17 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-07-16T19:20:51+00:00"
       },
       {
         "title": "Android Rakip Yapay Zeka Asistanlarına Açılıyor",
@@ -75,7 +82,7 @@
       {
         "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
         "link": "https://nicholas-afk.github.io/AttoChess/",
-        "description": "Article URL: https://nicholas-afk.github.io/AttoChess/ Comments URL: https://news.ycombinator.com/item?id=48938372 Points: 12 # Comments: 4",
+        "description": "Article URL: https://nicholas-afk.github.io/AttoChess/ Comments URL: https://news.ycombinator.com/item?id=48938372 Points: 22 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-07-16T18:33:24+00:00"
       },
@@ -101,13 +108,6 @@
         "published": "2026-07-16T18:00:00+00:00"
       },
       {
-        "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-        "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-        "description": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 81 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-07-16T17:44:46+00:00"
-      },
-      {
         "title": "Oil giant BP shutters its corporate venture arm after 20 years",
         "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
         "description": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.",
@@ -115,11 +115,25 @@
         "published": "2026-07-16T17:37:03+00:00"
       },
       {
+        "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+        "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+        "description": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with...",
+        "source": "The Verge",
+        "published": "2026-07-16T17:30:35-04:00"
+      },
+      {
         "title": "Linus Torvalds: Yapay Zeka İstemeyen Linux’u Kendi Kodlasın",
         "link": "https://shiftdelete.net/linus-torvalds-yapay-zeka-istemeyen-linuxu-kendi-kodlasin",
         "description": "Linus Torvalds, Linux geliştirme sürecinde yapay zeka kullanımına karşı çıkanlara projeyi çatallamalarını söyledi. İşte detaylar.",
         "source": "ShiftDelete",
         "published": "2026-07-16T17:30:00+00:00"
+      },
+      {
+        "title": "Netflix says around 300 titles used generative AI",
+        "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+        "description": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging...",
+        "source": "The Verge",
+        "published": "2026-07-16T17:28:29-04:00"
       },
       {
         "title": "Apple, iPad Mini için Büyük Değişime Hazırlanıyor: İlk Kez OLED Ekran Geliyor!",
@@ -138,7 +152,7 @@
       {
         "title": "CD sales growth outpaced vinyl in the first half of 2026",
         "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-        "description": "Article URL: https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/ Comments URL: https://news.ycombinator.com/item?id=48937398 Points: 15 # Comments: 10",
+        "description": "Article URL: https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/ Comments URL: https://news.ycombinator.com/item?id=48937398 Points: 35 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-07-16T17:19:16+00:00"
       },
@@ -155,6 +169,13 @@
         "description": "New York, büyük yapay zekâ veri merkezlerine geçici yasak getirdi. Kararın arkasında enerji tüketimi, su kullanımı ve çevresel etkilerle ilgili artan endişeler bulunuyor.",
         "source": "Webtekno",
         "published": "2026-07-16T17:06:02+03:00"
+      },
+      {
+        "title": "Adaptional (YC S25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/adaptional/jobs",
+        "description": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs Comments URL: https://news.ycombinator.com/item?id=48937125 Points: 0 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-16T17:00:55+00:00"
       },
       {
         "title": "Yeni Ücretsiz Türk Oyunu Hackagon: Cyber Card Battler Tanıtıldı (Şimdi İstek Listesine Ekleyebilirsiniz)",
@@ -183,13 +204,6 @@
         "description": "OnePlus, ABD ve Avrupa pazarından çekiliyor. Şirket OxygenOS'u sonlandırıp ColorOS'a geçiyor. İşte mevcut kullanıcıları bekleyen tüm değişiklikler.",
         "source": "Webtekno",
         "published": "2026-07-16T16:55:18+03:00"
-      },
-      {
-        "title": "Netflix says around 300 titles used generative AI",
-        "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-        "description": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging...",
-        "source": "The Verge",
-        "published": "2026-07-16T16:49:05-04:00"
       },
       {
         "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
@@ -244,13 +258,6 @@
         "title": "Google’s AI Mode now lets you link and interact with select apps",
         "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
         "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-        "source": "TechCrunch",
-        "published": "2026-07-16T16:00:00+00:00"
-      },
-      {
-        "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-        "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-        "description": "Google said users can soon access their notebooks through AI Mode in Search.",
         "source": "TechCrunch",
         "published": "2026-07-16T16:00:00+00:00"
       },
@@ -344,16 +351,23 @@
         "description": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first...",
         "source": "The Verge",
         "published": "2026-07-16T12:11:20-04:00"
-      },
-      {
-        "title": "Time’s running out to save $10 on Splatoon Raiders physical preorders",
-        "link": "https://www.theverge.com/gadgets/966478/splatoon-raiders-preorder-the-sopranos-4k-bluray-deal-sale",
-        "description": "Splatoon Raiders’ July 23rd launch day is almost here, so your window to preorder the physical version at a $10 discount is about to close. The digital version is $49.99, and so is the game on cartridge if you preorder at Walmart. Amazon previously...",
-        "source": "The Verge",
-        "published": "2026-07-16T11:42:07-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Blasts reported in Iran as US launches new wave of strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+        "description": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+        "source": "BBC News",
+        "published": "2026-07-16T21:44:37+00:00"
+      },
+      {
+        "title": "Burnham to promise new path for UK when he becomes new Labour leader",
+        "link": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss",
+        "description": "In a speech on Friday, he will begin to set out his vision for government, before becoming prime minister next week.",
+        "source": "BBC News",
+        "published": "2026-07-16T21:44:24+00:00"
+      },
       {
         "title": "Energy drinks to be banned for under-16s in England from April",
         "link": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno?at_medium=RSS&at_campaign=rss",
@@ -369,11 +383,18 @@
         "published": "2026-07-16T18:44:43+00:00"
       },
       {
-        "title": "Mother guilty over baby's hairdryer burns death",
-        "link": "https://www.bbc.co.uk/news/articles/cy5d49q50ppo?at_medium=RSS&at_campaign=rss",
-        "description": "Courtney Gartshore, 28, denied the culpable homicide of her three-month-old daughter Dahlia-Rose.",
-        "source": "BBC News",
-        "published": "2026-07-16T17:26:55+00:00"
+        "title": "White House says ICE traffic stops will continue after deadly shootings",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings",
+        "description": "The comments came following widespread reports earlier in the week that those stops would be put on pause after two immigrants were fatally shot by ICE agents in early July.",
+        "source": "NPR",
+        "published": "2026-07-16T17:31:23-04:00"
+      },
+      {
+        "title": "Flood sirens blare in southcentral Texas as rivers reach perilous heights",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
+        "description": "Flood sirens blared early Thursday in Comfort, Texas, as the Guadalupe River rose more than 30 feet in three hours, the U.S. Geological Survey said. The storm could bring even more rainfall than last year's deadly Fourth of July floods.",
+        "source": "NPR",
+        "published": "2026-07-16T17:30:03-04:00"
       },
       {
         "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
@@ -460,13 +481,6 @@
         "published": "2026-07-16T11:33:27+00:00"
       },
       {
-        "title": "Why you should care about the third-place play-off between England and France",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
-        "description": "It might feel like the last thing anyone wants right now - but here is why, actually, you do want to watch the World Cup's third-place play-off.",
-        "source": "BBC News",
-        "published": "2026-07-16T10:44:03+00:00"
-      },
-      {
         "title": "Hong Kong official warns booksellers on security risks after raids",
         "link": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
         "description": "The police operation marks the third round of arrests targeting independent bookstores in four months.",
@@ -490,7 +504,7 @@
       {
         "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
         "link": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-        "description": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia.",
+        "description": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, Mykhailo Fedorov, who pushed for innovation on the battlefield through use of drones and turned the tables on Russia.",
         "source": "NPR",
         "published": "2026-07-16T07:33:11-04:00"
       },
@@ -514,20 +528,6 @@
         "description": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.",
         "source": "NPR",
         "published": "2026-07-16T05:01:00-04:00"
-      },
-      {
-        "title": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
-        "link": "https://www.npr.org/2026/07/16/nx-s1-5884780/gossip-word-origins-etymology",
-        "description": "We've all engaged in a little 'gossip.' But did you know its origins were tied to family and friendship?",
-        "source": "NPR",
-        "published": "2026-07-16T05:00:00-04:00"
-      },
-      {
-        "title": "No Asian team managed to go far this World Cup (again). What's holding them back?",
-        "link": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
-        "description": "For the sixth World Cup in a row, no team from the Asian Football Confederation made it past the first knockout round, winning only three games out of 29. Asian teams are competitive — up to a point.",
-        "source": "NPR",
-        "published": "2026-07-16T05:00:00-04:00"
       },
       {
         "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
@@ -567,6 +567,90 @@
     ],
     "turkiye": [
       {
+        "title": "Küçükçekmece’de yıkım paniği. Binanın bir bölümü yan apartmana devrildi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-kucukcekmecede-yikim-panigi-binanin-bir-bolumu-yan-apartmana-devrildi-1733251",
+        "description": "Küçükçekmece'de kontrollü yıkımı yapılan binanın bir bölümü bitişikteki apartmana yaslandı.",
+        "source": "NTV",
+        "published": "2026-07-17T01:04:29+03:00"
+      },
+      {
+        "title": "Çatılarını tamamen yeşil alanla kapladılar: Nedeni sadece görüntü değil",
+        "link": "https://www.sozcu.com.tr/catilarini-tamamen-yesil-alanla-kapladilar-nedeni-sadece-goruntu-degil-p337158",
+        "description": "Çatılarını tamamen yeşil alanla kapladılar: Nedeni sadece görüntü değil",
+        "source": "Sözcü",
+        "published": "2026-07-17T01:03:52+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-temmuz-2026-1733245",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-17T01:00:00+03:00"
+      },
+      {
+        "title": "YÖK, depremzede öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı",
+        "link": "https://www.ntv.com.tr/turkiye/yok-depremzede-ogrencilere-taninan-ozel-ogrencilik-hakkini-bir-yil-daha-uzatti-1733250",
+        "description": "Yükseköğretim Kurulu (YÖK) Kahramanmaraş merkezli 6 Şubat 2023'teki depremlerden etkilenen öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı.",
+        "source": "NTV",
+        "published": "2026-07-17T00:58:39+03:00"
+      },
+      {
+        "title": "Ekrem İmamoğlu'nun Youtube kanalı ve X hesabına erişim engeli",
+        "link": "https://www.sozcu.com.tr/imamoglu-youtube-ve-cao-x-hesabina-erisim-engeli-p337155",
+        "description": "Ekrem İmamoğlu'nun Youtube kanalı ve X hesabına erişim engeli",
+        "source": "Sözcü",
+        "published": "2026-07-17T00:57:38+03:00"
+      },
+      {
+        "title": "Ukrayna Devlet Başkanı Zelenski, Dışişleri Bakanı Fidan'a \"İkinci Derece Liyakat Nişanı\" verdi",
+        "link": "https://www.ntv.com.tr/turkiye/ukrayna-devlet-baskani-zelenskiy-disisleri-bakani-fidana-ikinci-derece-liyakat-nisanini-tevcih-etti-1733248",
+        "description": "Ukrayna Devlet Başkanı Volodimir Zelenski, Dışişleri Bakanı Hakan Fidan'a İkinci Derece Liyakat Nişanı'nı tevcih etti.",
+        "source": "NTV",
+        "published": "2026-07-17T00:54:26+03:00"
+      },
+      {
+        "title": "Cem Yılmaz’ın gözaltına alınan kuzeni Öner Faruk Işık serbest bırakıldı",
+        "link": "https://www.sozcu.com.tr/cem-yilmaz-in-kuzeni-oner-faruk-isik-da-gozaltinda-p337138",
+        "description": "Cem Yılmaz’ın gözaltına alınan kuzeni Öner Faruk Işık serbest bırakıldı",
+        "source": "Sözcü",
+        "published": "2026-07-17T00:50:13+03:00"
+      },
+      {
+        "title": "Köfteci Yusuf ile başlamıştı! Tartışmalı uygulama tüm restoranlarda zorunlu olacak",
+        "link": "https://www.sozcu.com.tr/kofteci-yusuf-ile-baslamisti-tartismali-uygulama-tum-restoranlarda-zorunlu-olacak-p337150",
+        "description": "Köfteci Yusuf ile başlamıştı! Tartışmalı uygulama tüm restoranlarda zorunlu olacak",
+        "source": "Sözcü",
+        "published": "2026-07-17T00:28:47+03:00"
+      },
+      {
+        "title": "Trossard 20 bin taraftarın önünde imzayı attı",
+        "link": "https://www.sozcu.com.tr/trossard-20-bin-taraftarin-onunde-imzayi-atti-p337148",
+        "description": "Trossard 20 bin taraftarın önünde imzayı attı",
+        "source": "Sözcü",
+        "published": "2026-07-17T00:18:08+03:00"
+      },
+      {
+        "title": "Trump’ın tehdidi sonrası ABD ordusu İran’da 2 köprüyü vurdu",
+        "link": "https://www.sozcu.com.tr/trump-in-tehdidi-sonrasi-abd-ordusu-iran-da-2-kopruyu-vurdu-p337146",
+        "description": "Trump’ın tehdidi sonrası ABD ordusu İran’da 2 köprüyü vurdu",
+        "source": "Sözcü",
+        "published": "2026-07-17T00:16:23+03:00"
+      },
+      {
+        "title": "24 yıl sonra bir ilk yaşanacak! Pazartesi başka bir Türkiye'ye uyanacağız",
+        "link": "https://www.sozcu.com.tr/24-yil-sonra-bir-ilk-yasanacak-pazartesi-baska-bir-turkiye-ye-uyanacagiz-p337144",
+        "description": "24 yıl sonra bir ilk yaşanacak! Pazartesi başka bir Türkiye'ye uyanacağız",
+        "source": "Sözcü",
+        "published": "2026-07-17T00:00:27+03:00"
+      },
+      {
+        "title": "AFAD duyurdu; Elazığ'da 4 büyüklüğünde deprem",
+        "link": "https://www.sozcu.com.tr/elazig-deprem-16-temmuz-2026-p337136",
+        "description": "AFAD duyurdu; Elazığ'da 4 büyüklüğünde deprem",
+        "source": "Sözcü",
+        "published": "2026-07-16T23:57:44+03:00"
+      },
+      {
         "title": "Elazığ'da 4 büyüklüğünde deprem",
         "link": "https://www.ntv.com.tr/turkiye/elazigda-4-buyuklugunde-deprem-1733243",
         "description": "Elazığ'ın Sivrice ilçesinde saat 22.52'de 4 büyüklüğünde deprem meydana geldi.",
@@ -574,25 +658,11 @@
         "published": "2026-07-16T23:34:29+03:00"
       },
       {
-        "title": "Cem Yılmaz’ın kuzeni Öner Faruk Işık da gözaltında",
-        "link": "https://www.sozcu.com.tr/cem-yilmaz-in-kuzeni-oner-faruk-isik-da-gozaltinda-p337138",
-        "description": "Cem Yılmaz’ın kuzeni Öner Faruk Işık da gözaltında",
-        "source": "Sözcü",
-        "published": "2026-07-16T23:34:11+03:00"
-      },
-      {
         "title": "270 yıllık gemi denizin dibinde dik halde bulundu: İçindeki kasalar bile yerinden oynamamış",
         "link": "https://www.sozcu.com.tr/270-yillik-gemi-denizin-dibinde-dik-halde-bulundu-icindeki-kasalar-bile-yerinden-oynamamis-p337141",
         "description": "270 yıllık gemi denizin dibinde dik halde bulundu: İçindeki kasalar bile yerinden oynamamış",
         "source": "Sözcü",
         "published": "2026-07-16T23:33:11+03:00"
-      },
-      {
-        "title": "Ahbap soruşturmasında ikinci dalga: 4 tutuklama, 7 adli kontrol",
-        "link": "https://www.sozcu.com.tr/ahbap-sorusturmasinda-ikinci-dalga-p337126",
-        "description": "Ahbap soruşturmasında ikinci dalga: 4 tutuklama, 7 adli kontrol",
-        "source": "Sözcü",
-        "published": "2026-07-16T23:31:02+03:00"
       },
       {
         "title": "F.Bahçe ve G.Saray'ın listesindeki milli yıldız imzayı attı",
@@ -609,13 +679,6 @@
         "published": "2026-07-16T23:17:24+03:00"
       },
       {
-        "title": "AFAD duyurdu; Elazığ'da 4 büyüklüğünde deprem",
-        "link": "https://www.sozcu.com.tr/elazig-deprem-16-temmuz-2026-p337136",
-        "description": "AFAD duyurdu; Elazığ'da 4 büyüklüğünde deprem",
-        "source": "Sözcü",
-        "published": "2026-07-16T23:14:03+03:00"
-      },
-      {
         "title": "Son dakika Elazığ'da deprem mi oldu? Az önce deprem Elazığ'da nerede oldu? Elazığ deprem Kandilli ve AFAD son depremler listesi 16 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-elazigda-deprem-mi-oldu-az-once-deprem-elazigda-nerede-oldu-elazig-deprem-kandilli-ve-afad-son-depremler-listesi-16-temmuz-2026-1733241",
         "description": "Son dakika Elazığ deprem haberleri.. Elazığ'da deprem mi oldu? Az önce deprem Elazığ'da nerede oldu? Elazığ Kandilli ve AFAD son depremler.. 16 Temmuz 2026 Elazığ deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Elazığ'da?...",
@@ -623,46 +686,18 @@
         "published": "2026-07-16T23:10:00+03:00"
       },
       {
-        "title": "Kasaba meydanının altında 2 bin yıllık büyü bulundu",
-        "link": "https://www.sozcu.com.tr/kasaba-meydaninin-altinda-2-bin-yillik-buyu-bulundu-p337135",
-        "description": "Kasaba meydanının altında 2 bin yıllık büyü bulundu",
-        "source": "Sözcü",
-        "published": "2026-07-16T22:52:38+03:00"
-      },
-      {
-        "title": "Kılıçdaroğlu, kendisiyle görüşmeyi reddeden Demirtaş'ı ziyaret etmek için resmi başvuru yapacak",
-        "link": "https://www.sozcu.com.tr/kemal-kilicdaroglu-selahattin-demirtas-i-ziyaret-edecek-mi-p337134",
-        "description": "Kılıçdaroğlu, kendisiyle görüşmeyi reddeden Demirtaş'ı ziyaret etmek için resmi başvuru yapacak",
-        "source": "Sözcü",
-        "published": "2026-07-16T22:41:24+03:00"
-      },
-      {
-        "title": "Doğum sonrası anne öldü, doktor tutuklandı",
-        "link": "https://www.sozcu.com.tr/dogum-sonrasi-anne-oldu-doktor-tutuklandi-p337127",
-        "description": "Doğum sonrası anne öldü, doktor tutuklandı",
-        "source": "Sözcü",
-        "published": "2026-07-16T22:10:44+03:00"
-      },
-      {
-        "title": "Evlerini uçurumun içine kurmuşlar: Tam 700 yıl boyunca burayı terk etmemişler",
-        "link": "https://www.sozcu.com.tr/evlerini-ucurumun-icine-kurmuslar-tam-700-yil-boyunca-burayi-terk-etmemisler-p337125",
-        "description": "Evlerini uçurumun içine kurmuşlar: Tam 700 yıl boyunca burayı terk etmemişler",
-        "source": "Sözcü",
-        "published": "2026-07-16T22:04:16+03:00"
-      },
-      {
-        "title": "Bir milli futbolcu daha Trabzonspor'da",
-        "link": "https://www.sozcu.com.tr/bir-milli-futbolcu-daha-trabzonspor-da-p337124",
-        "description": "Bir milli futbolcu daha Trabzonspor'da",
-        "source": "Sözcü",
-        "published": "2026-07-16T21:58:26+03:00"
-      },
-      {
         "title": "Adalet Bakanı Akın Gürlek açıkladı: Ahbap’ın deprem bağışları incelemeye alındı",
         "link": "https://www.ntv.com.tr/turkiye/adalet-bakani-akin-gurlek-acikladi-ahbapin-deprem-bagislari-incelemeye-alindi-1733239",
         "description": "Adalet Bakanı Akın Gürlek, İstanbul Cumhuriyet Başsavcılığı tarafından Ahbap Derneği hakkında yürütülen soruşturma kapsamında bilirkişi incelemesi yapılmasına karar verildiğini bildirdi. Gürlek, başsavcılığın konuya ilişkin açıklamasını da paylaştı.",
         "source": "NTV",
         "published": "2026-07-16T21:56:54+03:00"
+      },
+      {
+        "title": "TBMM Genel Kurulu'nda kabul edilen 12. Yargı Paketi'nde neler var?",
+        "link": "https://www.bbc.com/turkce/articles/cx26x7vk8yxo?at_medium=RSS&at_campaign=rss",
+        "description": "Uzun süredir kamuoyunda tartışılan 12. Yargı Paketi, 16 Temmuz'da TBMM Genel Kurulu'nda kabul edilerek yasalaştı. Teklif, yargının daha \"etkin ve verimli\" işlemesini sağlamaya yönelik değişikliklerin yanı sıra Anayasa Mahkemesi'nin iptal ettiği bazı...",
+        "source": "BBC Turkish",
+        "published": "2026-07-16T21:14:31+00:00"
       },
       {
         "title": "Depozito İade Sistemi’nde yeni dönem",
@@ -679,13 +714,6 @@
         "published": "2026-07-16T19:23:12+03:00"
       },
       {
-        "title": "İsrail Konsolosluğu önündeki saldırıda iddianame hazırlandı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-israil-konsoloslugu-onundeki-saldirida-iddianame-hazirlandi-1733226",
-        "description": "Beşiktaş'taki İsrail Konsolosluğu'nun da bulunduğu binanın önündeki saldırıya iddianame hazırlandı. 14 şüpheli hakkında 4 suçtan ceza talep edildi.",
-        "source": "NTV",
-        "published": "2026-07-16T19:11:51+03:00"
-      },
-      {
         "title": "Ahbap soruşturması: Deprem yardımlarının kullanımına ilişkin bilirkişi heyeti görevlendirildi",
         "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
         "description": "Ahbap Derneği soruşturmasında gözaltında bulunan ve savcılıktaki ifade işlemleri tamamlandıktan sonra tutuklama talebiyle Sulh Ceza Hakimliği'ne sevk edilen Haluk Levent ve 13 kişi daha, perşembe günü erken saatlerde tutuklandı.",
@@ -698,27 +726,6 @@
         "description": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı yeni çözüm sürecinin yasal zeminini oluşturacak çerçeve yasa için DEM Parti İmralı heyeti, AKP ve MHP Genel Başkanı Devlet Bahçeli ile art arda görüşmeler gerçekleştirdi. Peki AKP'ye hangi talepler...",
         "source": "BBC Turkish",
         "published": "2026-07-16T17:39:39+00:00"
-      },
-      {
-        "title": "CHP'de 8 il başkanı daha görevden alındı",
-        "link": "https://www.ntv.com.tr/turkiye/chpde-8-il-baskani-daha-gorevden-alindi-1733232",
-        "description": "CHP'de 8 il başkanı daha görevden alındı. Konya ve Tokat, il başkanlarının YDK'ya sevk edildiği bildirildi.",
-        "source": "NTV",
-        "published": "2026-07-16T17:35:51+03:00"
-      },
-      {
-        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 16 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-16-temmuz-2026-1733223",
-        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 16 Temmuz 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
-        "source": "NTV",
-        "published": "2026-07-16T16:20:00+03:00"
-      },
-      {
-        "title": "Annesiz kalan kuzuya şefkat eli: Biberonla büyütüyor",
-        "link": "https://www.ntv.com.tr/turkiye/video-annesiz-kalan-kuzuya-sefkat-eli-biberonla-buyutuyor-1733220",
-        "description": "Hakkari'nin Şemdinli ilçesinde, İsa Camiye, 2 günlükken annesi ölen kuzuyu sahiplendi. 'Arif' ismini verdiği kuzuyu biberonla besleyen Camiye, kuzuyu artık aileden biri gibi gördüklerini ve çok sevdiklerini söyledi.",
-        "source": "NTV",
-        "published": "2026-07-16T16:00:12+03:00"
       },
       {
         "title": "İtalya'da 43 kişinin öldüğü köprü faciasında yöneticilere 12 yıla varan hapis cezaları",
@@ -768,13 +775,6 @@
         "description": "Dışişleri Bakanı Hakan Fidan, Kiev'de Ukrayna Dışişleri Bakanı Andriy Sibiha ile görüşmesinin ardından düzenlenen ortak basın toplantısında, Rusya ile Ukrayna arasındaki savaşın \"Karadeniz'e taşınmasını istemiyoruz\" dedi. Ukraynalı mevkidaşı Sibiha...",
         "source": "BBC Turkish",
         "published": "2026-07-16T09:20:34+00:00"
-      },
-      {
-        "title": "'Karton gibiydiler': Venezuela'daki depremde Türk müteahhitin yaptığı 100'den fazla sosyal konut çöktü",
-        "link": "https://www.bbc.com/turkce/articles/c5yzy2k8r6zo?at_medium=RSS&at_campaign=rss",
-        "description": "Venezuela’da 24 Haziran’da meydana gelen depremlerde, Türk inşaat şirketi Summa’nın inşa ettiği 196 bloğun çoğu ya çöktü ya ağır hasar aldı. BBC Türkçe'nin sorularını yanıtlayan şirket, projenin inşası sırasında yürürlükte bulunan Venezuela...",
-        "source": "BBC Turkish",
-        "published": "2026-07-16T02:13:10+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8734
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+99°F",
-    "wind": "↑6mph",
-    "humidity": "33%"
+    "condition": "Patchy rain nearby",
+    "temp": "+90°F",
+    "wind": "→2mph",
+    "humidity": "49%"
   }
 }
