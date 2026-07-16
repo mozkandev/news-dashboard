@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-07-16T22:08:13.548596+00:00",
+  "updated_at": "2026-07-16T23:24:56.396848+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+        "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+        "description": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+        "source": "TechCrunch",
+        "published": "2026-07-16T23:01:27+00:00"
+      },
+      {
+        "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+        "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+        "description": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombinator.com/item?id=48941129 Points: 46 # Comments: 24",
+        "source": "HackerNews",
+        "published": "2026-07-16T22:29:44+00:00"
+      },
+      {
+        "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+        "link": "https://mojibake.zaerl.com/",
+        "description": "I've written Mojibake because I don't like the other Unicode libraries for Unicode support. It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such as normalization, case...",
+        "source": "HackerNews",
+        "published": "2026-07-16T22:29:21+00:00"
+      },
+      {
+        "title": "The Little Book of Reinforcement Learning",
+        "link": "https://github.com/alxndrTL/little-book-rl/",
+        "description": "Article URL: https://github.com/alxndrTL/little-book-rl/ Comments URL: https://news.ycombinator.com/item?id=48941104 Points: 10 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-16T22:27:22+00:00"
+      },
+      {
+        "title": "FIFA World Cup 2026 Data Portraits",
+        "link": "https://wc26.bogachev.fr/index.html",
+        "description": "Article URL: https://wc26.bogachev.fr/index.html Comments URL: https://news.ycombinator.com/item?id=48941056 Points: 26 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-07-16T22:21:59+00:00"
+      },
+      {
+        "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+        "link": "https://github.com/cgrtml/reasongate",
+        "description": "Article URL: https://github.com/cgrtml/reasongate Comments URL: https://news.ycombinator.com/item?id=48941051 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-16T22:21:31+00:00"
+      },
+      {
+        "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+        "link": "https://hellorecon.com/blog/cve-2026-25089",
+        "description": "Article URL: https://hellorecon.com/blog/cve-2026-25089 Comments URL: https://news.ycombinator.com/item?id=48940895 Points: 9 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-16T22:07:30+00:00"
+      },
+      {
+        "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+        "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+        "description": "Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin Comments URL: https://news.ycombinator.com/item?id=48940833 Points: 17 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-16T22:00:00+00:00"
+      },
+      {
+        "title": "Just Do Things",
+        "link": "https://ray.zo.space/blog/just-do-things",
+        "description": "Article URL: https://ray.zo.space/blog/just-do-things Comments URL: https://news.ycombinator.com/item?id=48940801 Points: 8 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-16T21:55:49+00:00"
+      },
+      {
+        "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+        "link": "https://arxiv.org/abs/2607.12395",
+        "description": "Article URL: https://arxiv.org/abs/2607.12395 Comments URL: https://news.ycombinator.com/item?id=48940603 Points: 14 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-16T21:38:02+00:00"
+      },
       {
         "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
         "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
@@ -12,44 +82,9 @@
       {
         "title": "Mathematics of Data Science",
         "link": "https://arxiv.org/abs/2607.11938",
-        "description": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 19 # Comments: 0",
+        "description": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 61 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-07-16T20:38:48+00:00"
-      },
-      {
-        "title": "Timeline Scan – AI fixes the dates on your scanned photos",
-        "link": "https://timelinescan.com/",
-        "description": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 8 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:25:47+00:00"
-      },
-      {
-        "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-        "link": "https://www.science.org/doi/10.1126/science.aea9708",
-        "description": "Article URL: https://www.science.org/doi/10.1126/science.aea9708 Comments URL: https://news.ycombinator.com/item?id=48939742 Points: 33 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:24:02+00:00"
-      },
-      {
-        "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
-        "link": "https://libretto.sh/debug-agents",
-        "description": "Libretto PR agents is a free TypeScript library for maintaining Playwright browser automations. Add one line of code to your existing Playwright scripts and it lets an agent automatically open GitHub PRs fixing the script when it fails. A few months...",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:21:27+00:00"
-      },
-      {
-        "title": "LM Studio Bionic: the AI agent for open models",
-        "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "description": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 57 # Comments: 17",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:18:15+00:00"
-      },
-      {
-        "title": "The privacy problems hidden in your period tracker",
-        "link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-        "description": "Article URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details Comments URL: https://news.ycombinator.com/item?id=48939641 Points: 37 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:15:58+00:00"
       },
       {
         "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
@@ -57,13 +92,6 @@
         "description": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
         "source": "TechCrunch",
         "published": "2026-07-16T20:07:14+00:00"
-      },
-      {
-        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-        "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "description": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 58 # Comments: 41",
-        "source": "HackerNews",
-        "published": "2026-07-16T20:03:23+00:00"
       },
       {
         "title": "Android Rakip Yapay Zeka Asistanlarına Açılıyor",
@@ -78,13 +106,6 @@
         "description": "Epic Games'in bu hafta ücretsiz vereceği yeni oyunlar belli oldu. Her hafta oyuncuları yeni ücretsiz oyunlarla mutlu eden Epic Games peki bu hafta hangi oyunları ücretsiz yaptı?",
         "source": "Webtekno",
         "published": "2026-07-16T18:54:40+03:00"
-      },
-      {
-        "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
-        "link": "https://nicholas-afk.github.io/AttoChess/",
-        "description": "Article URL: https://nicholas-afk.github.io/AttoChess/ Comments URL: https://news.ycombinator.com/item?id=48938372 Points: 22 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-07-16T18:33:24+00:00"
       },
       {
         "title": "Google Vids now lets you star in your own AI videos",
@@ -119,7 +140,7 @@
         "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
         "description": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with...",
         "source": "The Verge",
-        "published": "2026-07-16T17:30:35-04:00"
+        "published": "2026-07-16T17:31:58-04:00"
       },
       {
         "title": "Linus Torvalds: Yapay Zeka İstemeyen Linux’u Kendi Kodlasın",
@@ -150,13 +171,6 @@
         "published": "2026-07-16T17:20:22+03:00"
       },
       {
-        "title": "CD sales growth outpaced vinyl in the first half of 2026",
-        "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-        "description": "Article URL: https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/ Comments URL: https://news.ycombinator.com/item?id=48937398 Points: 35 # Comments: 37",
-        "source": "HackerNews",
-        "published": "2026-07-16T17:19:16+00:00"
-      },
-      {
         "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
         "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
         "description": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside China.",
@@ -169,13 +183,6 @@
         "description": "New York, büyük yapay zekâ veri merkezlerine geçici yasak getirdi. Kararın arkasında enerji tüketimi, su kullanımı ve çevresel etkilerle ilgili artan endişeler bulunuyor.",
         "source": "Webtekno",
         "published": "2026-07-16T17:06:02+03:00"
-      },
-      {
-        "title": "Adaptional (YC S25) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/adaptional/jobs",
-        "description": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs Comments URL: https://news.ycombinator.com/item?id=48937125 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-16T17:00:55+00:00"
       },
       {
         "title": "Yeni Ücretsiz Türk Oyunu Hackagon: Cyber Card Battler Tanıtıldı (Şimdi İstek Listesine Ekleyebilirsiniz)",
@@ -253,13 +260,6 @@
         "description": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
         "source": "TechCrunch",
         "published": "2026-07-16T16:08:40+00:00"
-      },
-      {
-        "title": "Google’s AI Mode now lets you link and interact with select apps",
-        "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-        "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-        "source": "TechCrunch",
-        "published": "2026-07-16T16:00:00+00:00"
       },
       {
         "title": "GTA 6 Ön Sipariş Rakamlarıyla Yeni Bir Rekora Koşuyor",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+        "link": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+        "description": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the US and...",
+        "source": "The Guardian",
+        "published": "2026-07-16T22:21:08+00:00"
+      },
+      {
         "title": "Blasts reported in Iran as US launches new wave of strikes",
         "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
         "description": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
@@ -367,6 +374,13 @@
         "description": "In a speech on Friday, he will begin to set out his vision for government, before becoming prime minister next week.",
         "source": "BBC News",
         "published": "2026-07-16T21:44:24+00:00"
+      },
+      {
+        "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+        "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+        "description": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
+        "source": "BBC News",
+        "published": "2026-07-16T19:58:55+00:00"
       },
       {
         "title": "Energy drinks to be banned for under-16s in England from April",
@@ -395,13 +409,6 @@
         "description": "Flood sirens blared early Thursday in Comfort, Texas, as the Guadalupe River rose more than 30 feet in three hours, the U.S. Geological Survey said. The storm could bring even more rainfall than last year's deadly Fourth of July floods.",
         "source": "NPR",
         "published": "2026-07-16T17:30:03-04:00"
-      },
-      {
-        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-        "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-        "description": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-        "source": "BBC News",
-        "published": "2026-07-16T17:22:31+00:00"
       },
       {
         "title": "Sadiq Khan among 26 new peers to enter the Lords",
@@ -444,13 +451,6 @@
         "description": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries,...",
         "source": "The Guardian",
         "published": "2026-07-16T15:20:58+00:00"
-      },
-      {
-        "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
-        "link": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
-        "description": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the US and...",
-        "source": "The Guardian",
-        "published": "2026-07-16T14:49:46+00:00"
       },
       {
         "title": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
@@ -567,6 +567,27 @@
     ],
     "turkiye": [
       {
+        "title": "Şişme bot keyfi kabusla bitti. Yüzlerce metre sürüklendiler",
+        "link": "https://www.ntv.com.tr/turkiye/sisme-bot-keyfi-kabusla-bitti-yuzlerce-metre-suruklendiler-1733255",
+        "description": "Foça'da baba ile çocuğunun deniz keyfi yaptığı lastik bot açığa sürüklendi. İkili kıyıya dönemeyince devreye Sahil Güvenlik ekipleri girdi.",
+        "source": "NTV",
+        "published": "2026-07-17T02:21:50+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-temmuz-2026-1733245",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-17T02:00:00+03:00"
+      },
+      {
+        "title": "12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
+        "link": "https://www.ntv.com.tr/turkiye/12-yargi-paketi-tbmm-genel-kurulunda-kabul-edildi-1733242",
+        "description": "TBMM Genel Kurulunda, kamuoyunda \"12. Yargı Paketi\" olarak bilinen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edilerek yasalaştı. Teklif, IBAN mağdurlarına yönelik düzenlemeyi de...",
+        "source": "NTV",
+        "published": "2026-07-17T01:28:49+03:00"
+      },
+      {
         "title": "Küçükçekmece’de yıkım paniği. Binanın bir bölümü yan apartmana devrildi",
         "link": "https://www.ntv.com.tr/turkiye/galeri-kucukcekmecede-yikim-panigi-binanin-bir-bolumu-yan-apartmana-devrildi-1733251",
         "description": "Küçükçekmece'de kontrollü yıkımı yapılan binanın bir bölümü bitişikteki apartmana yaslandı.",
@@ -579,13 +600,6 @@
         "description": "Çatılarını tamamen yeşil alanla kapladılar: Nedeni sadece görüntü değil",
         "source": "Sözcü",
         "published": "2026-07-17T01:03:52+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-temmuz-2026-1733245",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-17T01:00:00+03:00"
       },
       {
         "title": "YÖK, depremzede öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı",
@@ -672,18 +686,18 @@
         "published": "2026-07-16T23:22:11+03:00"
       },
       {
-        "title": "12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
-        "link": "https://www.ntv.com.tr/turkiye/12-yargi-paketi-tbmm-genel-kurulunda-kabul-edildi-1733242",
-        "description": "TBMM Genel Kurulunda, kamuoyunda \"12. Yargı Paketi\" olarak bilinen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edilerek yasalaştı. Teklif, IBAN mağdurlarına yönelik düzenlemeyi de...",
-        "source": "NTV",
-        "published": "2026-07-16T23:17:24+03:00"
-      },
-      {
         "title": "Son dakika Elazığ'da deprem mi oldu? Az önce deprem Elazığ'da nerede oldu? Elazığ deprem Kandilli ve AFAD son depremler listesi 16 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-elazigda-deprem-mi-oldu-az-once-deprem-elazigda-nerede-oldu-elazig-deprem-kandilli-ve-afad-son-depremler-listesi-16-temmuz-2026-1733241",
         "description": "Son dakika Elazığ deprem haberleri.. Elazığ'da deprem mi oldu? Az önce deprem Elazığ'da nerede oldu? Elazığ Kandilli ve AFAD son depremler.. 16 Temmuz 2026 Elazığ deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Elazığ'da?...",
         "source": "NTV",
         "published": "2026-07-16T23:10:00+03:00"
+      },
+      {
+        "title": "Ünlülere uyuşturucu soruşturması: 4 kişi tutuklandı",
+        "link": "https://www.bbc.com/turkce/articles/c0l58k1pk60o?at_medium=RSS&at_campaign=rss",
+        "description": "Ünlülere yönelik uyuşturucu soruşturması kapsamında aralarında şarkıcı Sıla Gençoğlu, yapımcı Mehmet Fatih Aksoy, şarkıcı İlyas Altıntaş'ın da olduğu 25 kişi gözaltına alındı. Gece saatlerinde bu isimlerden dördü tutuklandı.",
+        "source": "BBC Turkish",
+        "published": "2026-07-16T22:55:51+00:00"
       },
       {
         "title": "Adalet Bakanı Akın Gürlek açıkladı: Ahbap’ın deprem bağışları incelemeye alındı",
@@ -707,13 +721,6 @@
         "published": "2026-07-16T21:09:49+03:00"
       },
       {
-        "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma. FETÖ’nün rolüne ilişkin yeni delillere ulaşıldı",
-        "link": "https://www.ntv.com.tr/turkiye/muhsin-yazicioglunun-olumune-iliskin-sorusturma-fetonun-rolune-iliskin-yeni-delillere-ulasildi-1733234",
-        "description": "Ankara Cumhuriyet Başsavcılığınca Büyük Birlik Partisi (BBP) Genel Başkanı Muhsin Yazıcıoğlu ve beraberindeki 5 kişinin hayatını kaybettiği helikopter kazasına ilişkin soruşturmada, Fetullahçı Terör Örgütü'nün (FETÖ) rolünü ortaya koyan ve...",
-        "source": "NTV",
-        "published": "2026-07-16T19:23:12+03:00"
-      },
-      {
         "title": "Ahbap soruşturması: Deprem yardımlarının kullanımına ilişkin bilirkişi heyeti görevlendirildi",
         "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
         "description": "Ahbap Derneği soruşturmasında gözaltında bulunan ve savcılıktaki ifade işlemleri tamamlandıktan sonra tutuklama talebiyle Sulh Ceza Hakimliği'ne sevk edilen Haluk Levent ve 13 kişi daha, perşembe günü erken saatlerde tutuklandı.",
@@ -733,13 +740,6 @@
         "description": "İtalya'nın en büyük altyapı facialarından olan Cenova kentindeki Morandi Köprüsü'nün çökmesi sonucu 43 kişinin ölmesiyle ilgili davada eski otoyol işletmeleri yöneticisi de dahil 32 sanık toplamda 177 yıl hapis cezası aldı.",
         "source": "BBC Turkish",
         "published": "2026-07-16T15:20:22+00:00"
-      },
-      {
-        "title": "Ünlülere uyuşturucu operasyonu: 25 gözaltı",
-        "link": "https://www.bbc.com/turkce/articles/c0l58k1pk60o?at_medium=RSS&at_campaign=rss",
-        "description": "Ünlülere yönelik uyuşturucu soruşturması kapsamında aralarında şarkıcı Sıla Gençoğlu, yapımcı Mehmet Fatih Aksoy, şarkıcı İlyas Altıntaş'ın da olduğu 25 kişi gözaltına alındı.",
-        "source": "BBC Turkish",
-        "published": "2026-07-16T14:36:27+00:00"
       },
       {
         "title": "Türkiye ve Mısır savunma alanında hangi anlaşmalara imza attılar?",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8734
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+90°F",
-    "wind": "→2mph",
-    "humidity": "49%"
+    "condition": "Güneşli",
+    "temp": "+78°F",
+    "wind": "↘9mph",
+    "humidity": "40%"
   }
 }
