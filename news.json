@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-16T23:24:56.396848+00:00",
+  "updated_at": "2026-07-17T01:00:48.362196+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "description": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
+        "source": "TechCrunch",
+        "published": "2026-07-16T23:25:22+00:00"
+      },
       {
         "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
         "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
@@ -12,7 +19,7 @@
       {
         "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
         "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-        "description": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombinator.com/item?id=48941129 Points: 46 # Comments: 24",
+        "description": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombinator.com/item?id=48941129 Points: 104 # Comments: 118",
         "source": "HackerNews",
         "published": "2026-07-16T22:29:44+00:00"
       },
@@ -26,49 +33,35 @@
       {
         "title": "The Little Book of Reinforcement Learning",
         "link": "https://github.com/alxndrTL/little-book-rl/",
-        "description": "Article URL: https://github.com/alxndrTL/little-book-rl/ Comments URL: https://news.ycombinator.com/item?id=48941104 Points: 10 # Comments: 1",
+        "description": "Article URL: https://github.com/alxndrTL/little-book-rl/ Comments URL: https://news.ycombinator.com/item?id=48941104 Points: 41 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-07-16T22:27:22+00:00"
       },
       {
         "title": "FIFA World Cup 2026 Data Portraits",
         "link": "https://wc26.bogachev.fr/index.html",
-        "description": "Article URL: https://wc26.bogachev.fr/index.html Comments URL: https://news.ycombinator.com/item?id=48941056 Points: 26 # Comments: 12",
+        "description": "Article URL: https://wc26.bogachev.fr/index.html Comments URL: https://news.ycombinator.com/item?id=48941056 Points: 28 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-07-16T22:21:59+00:00"
       },
       {
-        "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
-        "link": "https://github.com/cgrtml/reasongate",
-        "description": "Article URL: https://github.com/cgrtml/reasongate Comments URL: https://news.ycombinator.com/item?id=48941051 Points: 6 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-16T22:21:31+00:00"
-      },
-      {
         "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
         "link": "https://hellorecon.com/blog/cve-2026-25089",
-        "description": "Article URL: https://hellorecon.com/blog/cve-2026-25089 Comments URL: https://news.ycombinator.com/item?id=48940895 Points: 9 # Comments: 0",
+        "description": "Article URL: https://hellorecon.com/blog/cve-2026-25089 Comments URL: https://news.ycombinator.com/item?id=48940895 Points: 15 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-07-16T22:07:30+00:00"
       },
       {
         "title": "'Likweli': A new monkey species discovered in the Congo Basin",
         "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-        "description": "Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin Comments URL: https://news.ycombinator.com/item?id=48940833 Points: 17 # Comments: 1",
+        "description": "Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin Comments URL: https://news.ycombinator.com/item?id=48940833 Points: 30 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-07-16T22:00:00+00:00"
       },
       {
-        "title": "Just Do Things",
-        "link": "https://ray.zo.space/blog/just-do-things",
-        "description": "Article URL: https://ray.zo.space/blog/just-do-things Comments URL: https://news.ycombinator.com/item?id=48940801 Points: 8 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-07-16T21:55:49+00:00"
-      },
-      {
         "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
         "link": "https://arxiv.org/abs/2607.12395",
-        "description": "Article URL: https://arxiv.org/abs/2607.12395 Comments URL: https://news.ycombinator.com/item?id=48940603 Points: 14 # Comments: 1",
+        "description": "Article URL: https://arxiv.org/abs/2607.12395 Comments URL: https://news.ycombinator.com/item?id=48940603 Points: 28 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-07-16T21:38:02+00:00"
       },
@@ -80,11 +73,25 @@
         "published": "2026-07-16T21:22:31+00:00"
       },
       {
+        "title": "Scaling to 1M concurrent sandboxes in seconds",
+        "link": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
+        "description": "Article URL: https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds Comments URL: https://news.ycombinator.com/item?id=48940231 Points: 19 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-16T21:04:32+00:00"
+      },
+      {
         "title": "Mathematics of Data Science",
         "link": "https://arxiv.org/abs/2607.11938",
-        "description": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 61 # Comments: 1",
+        "description": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 81 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-07-16T20:38:48+00:00"
+      },
+      {
+        "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+        "link": "https://timelinescan.com/",
+        "description": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 21 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-07-16T20:25:47+00:00"
       },
       {
         "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
@@ -255,13 +262,6 @@
         "published": "2026-07-16T16:25:36+03:00"
       },
       {
-        "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-        "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-        "description": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
-        "source": "TechCrunch",
-        "published": "2026-07-16T16:08:40+00:00"
-      },
-      {
         "title": "GTA 6 Ön Sipariş Rakamlarıyla Yeni Bir Rekora Koşuyor",
         "link": "https://shiftdelete.net/gta-6-on-siparis-rakamlariyla-yeni-bir-rekora-kosuyor",
         "description": "Newzoo raporuna göre GTA 6, ön sipariş rakamlarıyla oyun dünyasında yeni bir rekora koşuyor. İşte oyunun ilk hafta satış tahminleri ve detaylar.",
@@ -355,18 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "Blasts reported in Iran as US launches new wave of strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+        "description": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+        "source": "BBC News",
+        "published": "2026-07-16T23:57:26+00:00"
+      },
+      {
+        "title": "Targeted prostate cancer treatment cuts risk of side effects, study suggests",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss",
+        "description": "An NHS trial over 10 years followed nearly 3,500 men who received focal therapy, a less invasive treatment.",
+        "source": "BBC News",
+        "published": "2026-07-16T23:36:40+00:00"
+      },
+      {
+        "title": "UK heatwave approaches two-week mark",
+        "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
+        "description": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas looks at how unusual this spell of heat is, and when we might see it easing.",
+        "source": "BBC News",
+        "published": "2026-07-16T23:28:21+00:00"
+      },
+      {
         "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
         "link": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
         "description": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the US and...",
         "source": "The Guardian",
         "published": "2026-07-16T22:21:08+00:00"
-      },
-      {
-        "title": "Blasts reported in Iran as US launches new wave of strikes",
-        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-        "description": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
-        "source": "BBC News",
-        "published": "2026-07-16T21:44:37+00:00"
       },
       {
         "title": "Burnham to promise new path for UK when he becomes new Labour leader",
@@ -404,7 +418,7 @@
         "published": "2026-07-16T17:31:23-04:00"
       },
       {
-        "title": "Flood sirens blare in southcentral Texas as rivers reach perilous heights",
+        "title": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
         "link": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
         "description": "Flood sirens blared early Thursday in Comfort, Texas, as the Guadalupe River rose more than 30 feet in three hours, the U.S. Geological Survey said. The storm could bring even more rainfall than last year's deadly Fourth of July floods.",
         "source": "NPR",
@@ -425,11 +439,11 @@
         "published": "2026-07-16T16:50:26-04:00"
       },
       {
-        "title": "Teenagers from 15 should be given MenB vaccine, say UK experts after Kent outbreak",
-        "link": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss",
-        "description": "Advisers are asking the government to consider introducing the jabs following concerns over a meningitis B outbreak earlier this year, in which two people died.",
-        "source": "BBC News",
-        "published": "2026-07-16T16:36:13+00:00"
+        "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota",
+        "description": "Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue.",
+        "source": "NPR",
+        "published": "2026-07-16T16:32:27-04:00"
       },
       {
         "title": "Couples free to marry at the beach or the pub in England and Wales under new plans",
@@ -465,13 +479,6 @@
         "description": "It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.",
         "source": "NPR",
         "published": "2026-07-16T13:10:29-04:00"
-      },
-      {
-        "title": "Claudia Winkleman quits chat show after one series",
-        "link": "https://www.bbc.co.uk/news/articles/cpq8j188n90o?at_medium=RSS&at_campaign=rss",
-        "description": "Winkleman said she was \"incredibly grateful\" for the opportunity, but had been \"too nervous\" to enjoy it.",
-        "source": "BBC News",
-        "published": "2026-07-16T12:37:32+00:00"
       },
       {
         "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
@@ -523,13 +530,6 @@
         "published": "2026-07-16T05:01:23+00:00"
       },
       {
-        "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
-        "link": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
-        "description": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.",
-        "source": "NPR",
-        "published": "2026-07-16T05:01:00-04:00"
-      },
-      {
         "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
         "link": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
         "description": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north...",
@@ -567,18 +567,18 @@
     ],
     "turkiye": [
       {
-        "title": "Şişme bot keyfi kabusla bitti. Yüzlerce metre sürüklendiler",
-        "link": "https://www.ntv.com.tr/turkiye/sisme-bot-keyfi-kabusla-bitti-yuzlerce-metre-suruklendiler-1733255",
-        "description": "Foça'da baba ile çocuğunun deniz keyfi yaptığı lastik bot açığa sürüklendi. İkili kıyıya dönemeyince devreye Sahil Güvenlik ekipleri girdi.",
-        "source": "NTV",
-        "published": "2026-07-17T02:21:50+03:00"
-      },
-      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-temmuz-2026-1733245",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-17T02:00:00+03:00"
+        "published": "2026-07-17T03:30:00+03:00"
+      },
+      {
+        "title": "Şişme bot keyfi kabusa döndü. Yüzlerce metre sürüklendiler",
+        "link": "https://www.ntv.com.tr/turkiye/sisme-bot-keyfi-kabusla-bitti-yuzlerce-metre-suruklendiler-1733255",
+        "description": "Foça'da baba ile çocuğunun deniz keyfi yaptığı lastik bot açığa sürüklendi. İkili kıyıya dönemeyince devreye Sahil Güvenlik ekipleri girdi.",
+        "source": "NTV",
+        "published": "2026-07-17T02:54:43+03:00"
       },
       {
         "title": "12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.0663,
-    "eur_try": 53.8972,
-    "eur_usd": 0.8734
+    "usd_try": 47.0977,
+    "eur_try": 53.9208,
+    "eur_usd": 0.8735
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+78°F",
-    "wind": "↘9mph",
-    "humidity": "40%"
+    "temp": "+91°F",
+    "wind": "↖5mph",
+    "humidity": "53%"
   }
 }
