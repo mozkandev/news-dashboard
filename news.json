@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-17T20:27:06.382839+00:00",
+  "updated_at": "2026-07-17T21:22:37.062716+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "The Zoom hack that says, ‘Don’t record me’",
+        "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+        "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+        "source": "TechCrunch",
+        "published": "2026-07-17T21:20:47+00:00"
+      },
       {
         "title": "Agility Robotics plants its flag in Tesla’s backyard",
         "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
@@ -24,13 +31,6 @@
         "published": "2026-07-17T20:00:49+00:00"
       },
       {
-        "title": "Flock CEO Apologizes for Calling Activists 'Terrorists'",
-        "link": "https://www.forbes.com/sites/thomasbrewster/2026/07/17/flock-ceo-sorry-for-labelling-activists-terrorists/",
-        "description": "Article URL: https://www.forbes.com/sites/thomasbrewster/2026/07/17/flock-ceo-sorry-for-labelling-activists-terrorists/ Comments URL: https://news.ycombinator.com/item?id=48951595 Points: 7 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-07-17T19:53:01+00:00"
-      },
-      {
         "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
         "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
         "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
@@ -40,7 +40,7 @@
       {
         "title": "The Zilog Z80 has turned 50",
         "link": "https://goliath32.com/blog/z80.html",
-        "description": "Article URL: https://goliath32.com/blog/z80.html Comments URL: https://news.ycombinator.com/item?id=48951461 Points: 31 # Comments: 3",
+        "description": "Article URL: https://goliath32.com/blog/z80.html Comments URL: https://news.ycombinator.com/item?id=48951461 Points: 71 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-07-17T19:41:02+00:00"
       },
@@ -59,11 +59,25 @@
         "published": "2026-07-17T19:00:55+00:00"
       },
       {
+        "title": "ICE Flight Monitor Interactive Dashboard",
+        "link": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
+        "description": "Article URL: https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard Comments URL: https://news.ycombinator.com/item?id=48951014 Points: 41 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-07-17T18:59:28+00:00"
+      },
+      {
         "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
         "link": "https://app.everything.diena.co/",
         "description": "I'm building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface. This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia / Wikidata, scored...",
         "source": "HackerNews",
         "published": "2026-07-17T18:37:33+00:00"
+      },
+      {
+        "title": "Lego building instructions through time",
+        "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+        "description": "Article URL: https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time Comments URL: https://news.ycombinator.com/item?id=48950518 Points: 10 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-17T18:21:14+00:00"
       },
       {
         "title": "BYD Türkiye Yatırımı İçin Bakan Kacır’dan Açıklama",
@@ -96,7 +110,7 @@
       {
         "title": "Learning a few things about running SQLite",
         "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-        "description": "Article URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48950122 Points: 71 # Comments: 14",
+        "description": "Article URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48950122 Points: 92 # Comments: 21",
         "source": "HackerNews",
         "published": "2026-07-17T17:45:41+00:00"
       },
@@ -131,7 +145,7 @@
       {
         "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
         "link": "https://sofar.belfortlabs.cloud/",
-        "description": "Article URL: https://sofar.belfortlabs.cloud/ Comments URL: https://news.ycombinator.com/item?id=48949240 Points: 22 # Comments: 22",
+        "description": "Article URL: https://sofar.belfortlabs.cloud/ Comments URL: https://news.ycombinator.com/item?id=48949240 Points: 27 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-07-17T16:29:52+00:00"
       },
@@ -185,9 +199,9 @@
         "published": "2026-07-17T15:45:13+03:00"
       },
       {
-        "title": "Show HN: Explore the Workspaces of Modern Creators",
+        "title": "Workspaces – Explore the workspaces of modern creators",
         "link": "https://workspaces.xyz/",
-        "description": "Article URL: https://workspaces.xyz/ Comments URL: https://news.ycombinator.com/item?id=48948693 Points: 41 # Comments: 34",
+        "description": "Want to see what items show up in these setups time and time again? I compiled all of the data from 500+ interviews into one easy to read report: https://workspaces.xyz/gear-report Comments URL: https://news.ycombinator.com/item?id=48948693 Points:...",
         "source": "HackerNews",
         "published": "2026-07-17T15:41:05+00:00"
       },
@@ -201,7 +215,7 @@
       {
         "title": "Frame – Linux X server in Assembly",
         "link": "https://isene.org/2026/07/Frame.html",
-        "description": "Article URL: https://isene.org/2026/07/Frame.html Comments URL: https://news.ycombinator.com/item?id=48948597 Points: 101 # Comments: 59",
+        "description": "Article URL: https://isene.org/2026/07/Frame.html Comments URL: https://news.ycombinator.com/item?id=48948597 Points: 112 # Comments: 72",
         "source": "HackerNews",
         "published": "2026-07-17T15:31:22+00:00"
       },
@@ -220,25 +234,11 @@
         "published": "2026-07-17T15:26:07+03:00"
       },
       {
-        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-        "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively...",
-        "source": "TechCrunch",
-        "published": "2026-07-17T15:21:17+00:00"
-      },
-      {
         "title": "iPhone'larda Çalışabilen İlk Yapay Zeka Modeli Duyuruldu",
         "link": "\n                    https://www.webtekno.com/iphone-calisabilen-ilk-yapay-zeka-modeli-duyuruldu-h220571.html\n                    ",
         "description": "Apple'ın test ettiği iddia edilen Bonsai 27B, 27 milyar parametreli yapay zekâyı ilk kez telefonda çalıştırmayı hedefliyor. İşte tüm detaylar.",
         "source": "Webtekno",
         "published": "2026-07-17T15:20:07+03:00"
-      },
-      {
-        "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
-        "link": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
-        "description": "Article URL: https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/ Comments URL: https://news.ycombinator.com/item?id=48948435 Points: 121 # Comments: 85",
-        "source": "HackerNews",
-        "published": "2026-07-17T15:17:54+00:00"
       },
       {
         "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
@@ -271,7 +271,7 @@
       {
         "title": "The state of open source AI",
         "link": "https://stateofopensource.ai/",
-        "description": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 295 # Comments: 206",
+        "description": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 316 # Comments: 220",
         "source": "HackerNews",
         "published": "2026-07-17T14:31:10+00:00"
       },
@@ -285,7 +285,7 @@
       {
         "title": "Kimi K3, and what we can still learn from the pelican benchmark",
         "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-        "description": "Article URL: https://simonwillison.net/2026/Jul/16/kimi-k3/ Comments URL: https://news.ycombinator.com/item?id=48947717 Points: 188 # Comments: 109",
+        "description": "Article URL: https://simonwillison.net/2026/Jul/16/kimi-k3/ Comments URL: https://news.ycombinator.com/item?id=48947717 Points: 207 # Comments: 121",
         "source": "HackerNews",
         "published": "2026-07-17T14:21:51+00:00"
       },
@@ -355,11 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "Clacton by-election attracts 34 candidates",
+        "link": "https://www.bbc.co.uk/news/articles/ckge923jk3vo?at_medium=RSS&at_campaign=rss",
+        "description": "The list of people taking on Nigel Farage contains 20 independents and a number of joke candidates.",
+        "source": "BBC News",
+        "published": "2026-07-17T21:06:11+00:00"
+      },
+      {
+        "title": "Labour pins hopes on Burnham reboot as he plans policy blitz",
+        "link": "https://www.bbc.co.uk/news/articles/cjd45xmexnyo?at_medium=RSS&at_campaign=rss",
+        "description": "There is belief in the party that the new leader could put Labour back in the political match, political editor Chris Mason writes.",
+        "source": "BBC News",
+        "published": "2026-07-17T21:00:09+00:00"
+      },
+      {
         "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
         "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
         "description": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans are enduring another day of smoky skies , irritated eyes and...",
         "source": "The Guardian",
-        "published": "2026-07-17T19:38:52+00:00"
+        "published": "2026-07-17T20:31:59+00:00"
+      },
+      {
+        "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+        "description": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
+        "source": "BBC News",
+        "published": "2026-07-17T20:00:54+00:00"
       },
       {
         "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
@@ -432,25 +453,11 @@
         "published": "2026-07-17T15:16:16-04:00"
       },
       {
-        "title": "German politician faces calls to resign over surrogacy child",
-        "link": "https://www.bbc.co.uk/news/articles/cq56ed827peo?at_medium=RSS&at_campaign=rss",
-        "description": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
-        "source": "BBC News",
-        "published": "2026-07-17T15:08:37+00:00"
-      },
-      {
         "title": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
         "link": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
         "description": "President Trump's face will appear on a new commemorative coin honoring the nation's 250th birthday. It's one of the many unusual places his likeness has popped up this year.",
         "source": "NPR",
         "published": "2026-07-17T14:59:36-04:00"
-      },
-      {
-        "title": "Zeffman: Burnham promises huge change - but leaves questions about plan to deliver it",
-        "link": "https://www.bbc.co.uk/news/articles/cz7djw5dznpo?at_medium=RSS&at_campaign=rss",
-        "description": "The next prime minister promised nothing less than the biggest change in British politics in 40 years in his first speech as Labour leader.",
-        "source": "BBC News",
-        "published": "2026-07-17T13:52:20+00:00"
       },
       {
         "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
@@ -472,13 +479,6 @@
         "description": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US...",
         "source": "The Guardian",
         "published": "2026-07-17T12:17:14+00:00"
-      },
-      {
-        "title": "Boy attacked by zoo crocodile has had seven operations and is smiling again, say parents",
-        "link": "https://www.bbc.co.uk/news/articles/c998v0g2v0vo?at_medium=RSS&at_campaign=rss",
-        "description": "The three-year-old's parents say the boy is making progress after seven operations in a month.",
-        "source": "BBC News",
-        "published": "2026-07-17T12:14:43+00:00"
       },
       {
         "title": "Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself",
@@ -567,11 +567,53 @@
     ],
     "turkiye": [
       {
+        "title": "Filenin Sultanları’nın VNL final etabı kadrosu açıklandı",
+        "link": "https://www.sozcu.com.tr/filenin-sultanlari-nin-vnl-final-etabi-kadrosu-aciklandi-p337459",
+        "description": "Filenin Sultanları’nın VNL final etabı kadrosu açıklandı",
+        "source": "Sözcü",
+        "published": "2026-07-18T00:18:46+03:00"
+      },
+      {
+        "title": "Resmi Gazete'de yayımlandı. Ardahan Valisi değişti, diplomatik görevlere atama yapıldı",
+        "link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-yayimlandi-ardahan-valisi-degisti-diplomatik-gorevlere-atama-yapildi-1733406",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla yayımlanan atama kararlarına göre, Ardahan Valiliğine Gaziantep Şehitkamil Kaymakamı Ömer Hilmi Yamlı atandı.",
+        "source": "NTV",
+        "published": "2026-07-18T00:13:20+03:00"
+      },
+      {
+        "title": "Ahbap soruşturmasında Ece Güner'in kardeşi Özgür Güner gözaltında",
+        "link": "https://www.sozcu.com.tr/ece-guner-in-kardesi-ozgur-guner-gozaltinda-iddiasi-p337450",
+        "description": "Ahbap soruşturmasında Ece Güner'in kardeşi Özgür Güner gözaltında",
+        "source": "Sözcü",
+        "published": "2026-07-18T00:13:05+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-temmuz-2026-1733405",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-18T00:00:00+03:00"
+      },
+      {
         "title": "Irak'ta iki kentte patlama sesleri; ABD, İran'a yeni saldırı dalgası başlattı",
         "link": "https://www.sozcu.com.tr/abd-iran-saldiri-17-temmuz-2026-p337445",
         "description": "Irak'ta iki kentte patlama sesleri; ABD, İran'a yeni saldırı dalgası başlattı",
         "source": "Sözcü",
-        "published": "2026-07-17T23:20:45+03:00"
+        "published": "2026-07-17T23:55:51+03:00"
+      },
+      {
+        "title": "Ertuğrul Taşkıran’ın yeni adresi belli oldu",
+        "link": "https://www.sozcu.com.tr/ertugrul-taskiran-in-yeni-adresi-belli-oldu-p337452",
+        "description": "Ertuğrul Taşkıran’ın yeni adresi belli oldu",
+        "source": "Sözcü",
+        "published": "2026-07-17T23:49:24+03:00"
+      },
+      {
+        "title": "Bakan Yusuf Tekin bu bahaneye sığındı: ‘Kurtuluş Savaşı’nı ders kitaplarından çıkaracağız’ demişti",
+        "link": "https://www.sozcu.com.tr/bakan-yusuf-tekin-bu-bahaneye-sigindi-kurtulus-savasi-ni-ders-kitaplarindan-cikaracagiz-demisti-p337451",
+        "description": "Bakan Yusuf Tekin bu bahaneye sığındı: ‘Kurtuluş Savaşı’nı ders kitaplarından çıkaracağız’ demişti",
+        "source": "Sözcü",
+        "published": "2026-07-17T23:47:26+03:00"
       },
       {
         "title": "Galatasaray Ümraniyespor’u farklı geçti! Maça Mauro Icardi göndermesi damga vurdu",
@@ -614,34 +656,6 @@
         "description": "Mahsun Kırmızıgül eski dostu Haluk Levent'e geçmişi hatırlatarak sitem etti",
         "source": "Sözcü",
         "published": "2026-07-17T22:14:52+03:00"
-      },
-      {
-        "title": "Kılıçdaroğlu'na yakınlığıyla bilinen Bülent Kuşoğlu kurultay için tarih verdi",
-        "link": "https://www.sozcu.com.tr/bulent-kusoglu-kurultay-17-temmuz-2026-p337433",
-        "description": "Kılıçdaroğlu'na yakınlığıyla bilinen Bülent Kuşoğlu kurultay için tarih verdi",
-        "source": "Sözcü",
-        "published": "2026-07-17T22:08:41+03:00"
-      },
-      {
-        "title": "Aziz Yıldırım o ismi düğünde istemedi",
-        "link": "https://www.sozcu.com.tr/aziz-yildirim-o-ismi-dugunde-istemedi-p337438",
-        "description": "Aziz Yıldırım o ismi düğünde istemedi",
-        "source": "Sözcü",
-        "published": "2026-07-17T22:07:48+03:00"
-      },
-      {
-        "title": "Evde Tek Başına’nın yıldızı hayatını kaybetti! Oscar kazanan ilk İrlandalı kadındı",
-        "link": "https://www.sozcu.com.tr/evde-tek-basina-nin-yildizi-hayatini-kaybetti-oscar-kazanan-ilk-irlandali-kadindi-p337431",
-        "description": "Evde Tek Başına’nın yıldızı hayatını kaybetti! Oscar kazanan ilk İrlandalı kadındı",
-        "source": "Sözcü",
-        "published": "2026-07-17T21:40:18+03:00"
-      },
-      {
-        "title": "Fenerbahçe UEFA kadrosunu açıkladı! Listede sürpriz var",
-        "link": "https://www.sozcu.com.tr/fenerbahce-uefa-kadrosunu-acikladi-listede-surpriz-var-p337430",
-        "description": "Fenerbahçe UEFA kadrosunu açıkladı! Listede sürpriz var",
-        "source": "Sözcü",
-        "published": "2026-07-17T21:39:52+03:00"
       },
       {
         "title": "Türkiye'nin yerli atomik saati uzaya fırlatıldı",
@@ -707,20 +721,6 @@
         "published": "2026-07-17T15:47:41+00:00"
       },
       {
-        "title": "Kılıçdaroğlu ve Özel cenazede yan yana",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kilicdaroglu-ve-ozel-cenazede-yan-yana-1733367",
-        "description": "Eski CHP Genel Başkanı Deniz Baykal'ın eşi Olcay Baykal'ın cenaze töreninde CHP Genel Başkanı Kemal Kılıçdaroğlu ve CHP Grup Başkanı Özgür Özel yan yana gelerek tokalaştılar.",
-        "source": "NTV",
-        "published": "2026-07-17T15:45:00+03:00"
-      },
-      {
-        "title": "15 Temmuz çatı davasında yeniden yargılanan 139 sanık hakkında karar",
-        "link": "https://www.ntv.com.tr/turkiye/15-temmuz-cati-davasinda-yeniden-yargilanan-139-sanik-hakkinda-karar-1733368",
-        "description": "15 Temmuz 2016'daki darbe girişimine ilişkin Genelkurmay çatı davasında, Yargıtay'ın bozma kararının ardından yeniden yargılanan 4'ü firari 139 sanık hakkında karar açıklandı.",
-        "source": "NTV",
-        "published": "2026-07-17T15:28:59+03:00"
-      },
-      {
         "title": "CHP'ye mutlak butlanın iptal başvurusu Yargıtay'a ulaştı",
         "link": "https://www.bbc.com/turkce/articles/cdewny8l469o?at_medium=RSS&at_campaign=rss",
         "description": "CHP'de Kemal Kılıçdaroğlu'nun genel başkanlığa dönmesinin önünü açan mutlak butlan kararına yapılan itiraz yaklaşık iki ay sonra Yargıtay'a ulaştı.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8735
   },
   "weather": {
-    "condition": "Smoky haze",
-    "temp": "+98°F",
-    "wind": "←5mph",
-    "humidity": "30%"
+    "condition": "Güneşli",
+    "temp": "+79°F",
+    "wind": "↘6mph",
+    "humidity": "42%"
   }
 }
