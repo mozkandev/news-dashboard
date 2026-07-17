@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-07-17T21:22:37.062716+00:00",
+  "updated_at": "2026-07-17T22:21:32.878228+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+        "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+        "source": "TechCrunch",
+        "published": "2026-07-17T22:12:56+00:00"
+      },
+      {
+        "title": "I built a digital F1 garage to learn how Formula 1 cars work",
+        "link": "https://paddockpass.app",
+        "description": "Article URL: https://paddockpass.app Comments URL: https://news.ycombinator.com/item?id=48952450 Points: 4 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-17T21:25:09+00:00"
+      },
+      {
+        "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+        "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+        "description": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html Comments URL: https://news.ycombinator.com/item?id=48952439 Points: 30 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-07-17T21:22:53+00:00"
+      },
       {
         "title": "The Zoom hack that says, ‘Don’t record me’",
         "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
@@ -40,7 +61,7 @@
       {
         "title": "The Zilog Z80 has turned 50",
         "link": "https://goliath32.com/blog/z80.html",
-        "description": "Article URL: https://goliath32.com/blog/z80.html Comments URL: https://news.ycombinator.com/item?id=48951461 Points: 71 # Comments: 16",
+        "description": "Article URL: https://goliath32.com/blog/z80.html Comments URL: https://news.ycombinator.com/item?id=48951461 Points: 108 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-07-17T19:41:02+00:00"
       },
@@ -59,13 +80,6 @@
         "published": "2026-07-17T19:00:55+00:00"
       },
       {
-        "title": "ICE Flight Monitor Interactive Dashboard",
-        "link": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
-        "description": "Article URL: https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard Comments URL: https://news.ycombinator.com/item?id=48951014 Points: 41 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-07-17T18:59:28+00:00"
-      },
-      {
         "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
         "link": "https://app.everything.diena.co/",
         "description": "I'm building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface. This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia / Wikidata, scored...",
@@ -75,9 +89,16 @@
       {
         "title": "Lego building instructions through time",
         "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-        "description": "Article URL: https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time Comments URL: https://news.ycombinator.com/item?id=48950518 Points: 10 # Comments: 3",
+        "description": "Article URL: https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time Comments URL: https://news.ycombinator.com/item?id=48950518 Points: 21 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-07-17T18:21:14+00:00"
+      },
+      {
+        "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+        "link": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+        "description": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor...",
+        "source": "The Verge",
+        "published": "2026-07-17T18:15:26-04:00"
       },
       {
         "title": "BYD Türkiye Yatırımı İçin Bakan Kacır’dan Açıklama",
@@ -110,7 +131,7 @@
       {
         "title": "Learning a few things about running SQLite",
         "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-        "description": "Article URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48950122 Points: 92 # Comments: 21",
+        "description": "Article URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48950122 Points: 107 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-07-17T17:45:41+00:00"
       },
@@ -136,6 +157,13 @@
         "published": "2026-07-17T17:00:18+00:00"
       },
       {
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "link": "https://news.ycombinator.com/item?id=48949551",
+        "description": "Tomorrow is the 15th anniversary of the first day of the Recurse Center ( https://www.recurse.com/ ) My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building \"OkCupid for jobs.\" That idea quickly fizzled,...",
+        "source": "HackerNews",
+        "published": "2026-07-17T16:57:27+00:00"
+      },
+      {
         "title": "ChatGPT’ye Mola Hatırlatıcıları ve Gelişmiş Ebeveyn Kontrolleri Geldi",
         "link": "\n                    https://www.webtekno.com/chatgpt-mola-hatirlaticilari-gelismis-ebeveyn-kontrolleri-h220594.html\n                    ",
         "description": "Yeni güncellemeyle birlikte gençler artık ChatGPT başında saatlerce kontrolsüzce oturamayacak, ebeveynler ise çocuklarının yapay zekâ deneyimini çok daha yakından şekillendirebilecek.",
@@ -145,7 +173,7 @@
       {
         "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
         "link": "https://sofar.belfortlabs.cloud/",
-        "description": "Article URL: https://sofar.belfortlabs.cloud/ Comments URL: https://news.ycombinator.com/item?id=48949240 Points: 27 # Comments: 28",
+        "description": "Article URL: https://sofar.belfortlabs.cloud/ Comments URL: https://news.ycombinator.com/item?id=48949240 Points: 38 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-07-17T16:29:52+00:00"
       },
@@ -215,16 +243,9 @@
       {
         "title": "Frame – Linux X server in Assembly",
         "link": "https://isene.org/2026/07/Frame.html",
-        "description": "Article URL: https://isene.org/2026/07/Frame.html Comments URL: https://news.ycombinator.com/item?id=48948597 Points: 112 # Comments: 72",
+        "description": "Article URL: https://isene.org/2026/07/Frame.html Comments URL: https://news.ycombinator.com/item?id=48948597 Points: 123 # Comments: 83",
         "source": "HackerNews",
         "published": "2026-07-17T15:31:22+00:00"
-      },
-      {
-        "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
-        "link": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
-        "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
-        "source": "TechCrunch",
-        "published": "2026-07-17T15:29:21+00:00"
       },
       {
         "title": "Google, NotebookLM’in Adını Değiştirdi: Karşınızda Yepyeni Adıyla Gemini Notebook!",
@@ -269,25 +290,11 @@
         "published": "2026-07-17T14:37:04+03:00"
       },
       {
-        "title": "The state of open source AI",
-        "link": "https://stateofopensource.ai/",
-        "description": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 316 # Comments: 220",
-        "source": "HackerNews",
-        "published": "2026-07-17T14:31:10+00:00"
-      },
-      {
         "title": "Apple Music is getting a price hike",
         "link": "https://www.theverge.com/tech/967379/apple-music-price-increase",
         "description": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from...",
         "source": "The Verge",
         "published": "2026-07-17T14:25:53-04:00"
-      },
-      {
-        "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-        "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-        "description": "Article URL: https://simonwillison.net/2026/Jul/16/kimi-k3/ Comments URL: https://news.ycombinator.com/item?id=48947717 Points: 207 # Comments: 121",
-        "source": "HackerNews",
-        "published": "2026-07-17T14:21:51+00:00"
       },
       {
         "title": "WhatsApp Kullanıcı Adı ile İletişim Kurma Özelliği Geliyor",
@@ -344,16 +351,16 @@
         "description": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy,...",
         "source": "The Verge",
         "published": "2026-07-17T12:47:13-04:00"
-      },
-      {
-        "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
-        "link": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
-        "description": "Greenworks Tools has issued a recall for around 554,780 Kobalt-branded power tools designed for yard work because of a battery issue \"posing a risk of serious injury from fire hazard.\" There have been 34 reports of the tool's batteries \"producing...",
-        "source": "The Verge",
-        "published": "2026-07-17T11:42:27-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "White House defends Argentina team over Falklands banner",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+        "description": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+        "source": "BBC News",
+        "published": "2026-07-17T22:12:54+00:00"
+      },
       {
         "title": "Clacton by-election attracts 34 candidates",
         "link": "https://www.bbc.co.uk/news/articles/ckge923jk3vo?at_medium=RSS&at_campaign=rss",
@@ -376,11 +383,11 @@
         "published": "2026-07-17T20:31:59+00:00"
       },
       {
-        "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-        "description": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
-        "source": "BBC News",
-        "published": "2026-07-17T20:00:54+00:00"
+        "title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
+        "link": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
+        "description": "FDA investigation identified a single supplier of the lettuce, but federal warnings did not name the company Federal health officials have identified lettuce from Mexico served by Taco Bell locations across five US states as a source of the...",
+        "source": "The Guardian",
+        "published": "2026-07-17T20:10:26+00:00"
       },
       {
         "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
@@ -556,16 +563,58 @@
         "description": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month....",
         "source": "The Guardian",
         "published": "2026-07-16T00:01:08+00:00"
-      },
-      {
-        "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
-        "link": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
-        "description": "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operations Mexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immigration and...",
-        "source": "The Guardian",
-        "published": "2026-07-15T20:58:43+00:00"
       }
     ],
     "turkiye": [
+      {
+        "title": "Tam 4 ton... Bunları vatandaşlara yedireceklerdi",
+        "link": "https://www.sozcu.com.tr/tam-4-ton-bunlari-vatandaslara-yedireceklerdi-p337465",
+        "description": "Tam 4 ton... Bunları vatandaşlara yedireceklerdi",
+        "source": "Sözcü",
+        "published": "2026-07-18T01:05:11+03:00"
+      },
+      {
+        "title": "Tayt valinin başını yaktı; Erdoğan gece yarısı görevden aldı",
+        "link": "https://www.sozcu.com.tr/resmi-gazete-atama-kararlari-18-temmuz-2026-p337460",
+        "description": "Tayt valinin başını yaktı; Erdoğan gece yarısı görevden aldı",
+        "source": "Sözcü",
+        "published": "2026-07-18T01:01:37+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-temmuz-2026-1733405",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-18T01:00:00+03:00"
+      },
+      {
+        "title": "TBMM Milli Savunma Komisyonu Başkanı Akar: S-400 konusu bir şekilde çözülecek",
+        "link": "https://www.ntv.com.tr/turkiye/tbmm-milli-savunma-komisyonu-baskani-akar-s-400-konusu-bir-sekilde-cozulecek-1733408",
+        "description": "TBMM Milli Savunma Komisyonu Başkanı ve AK Parti Kayseri Milletvekili Hulusi Akar, \"S-400 konusu bir şekilde çözülecek. Bu konuda birtakım gelişmeler bekliyoruz, umuyoruz, temenni ediyoruz ve olacak gibi görünüyor.\" dedi.",
+        "source": "NTV",
+        "published": "2026-07-18T00:58:46+03:00"
+      },
+      {
+        "title": "Köpeği kasten ezip öldüren sürücü tutuklandı",
+        "link": "https://www.sozcu.com.tr/kopegi-kasten-ezip-olduren-surucu-tutuklandi-p337463",
+        "description": "Köpeği kasten ezip öldüren sürücü tutuklandı",
+        "source": "Sözcü",
+        "published": "2026-07-18T00:35:16+03:00"
+      },
+      {
+        "title": "Ahbap soruşturmasında Ece Güner'in kardeşi Özgür Güner gözaltında",
+        "link": "https://www.sozcu.com.tr/ece-guner-in-kardesi-ozgur-guner-gozaltinda-iddiasi-p337450",
+        "description": "Ahbap soruşturmasında Ece Güner'in kardeşi Özgür Güner gözaltında",
+        "source": "Sözcü",
+        "published": "2026-07-18T00:34:48+03:00"
+      },
+      {
+        "title": "Okan Buruk’tan Lemina açıklaması",
+        "link": "https://www.sozcu.com.tr/okan-buruk-tan-lemina-aciklamasi-p337461",
+        "description": "Okan Buruk’tan Lemina açıklaması",
+        "source": "Sözcü",
+        "published": "2026-07-18T00:27:17+03:00"
+      },
       {
         "title": "Filenin Sultanları’nın VNL final etabı kadrosu açıklandı",
         "link": "https://www.sozcu.com.tr/filenin-sultanlari-nin-vnl-final-etabi-kadrosu-aciklandi-p337459",
@@ -579,27 +628,6 @@
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla yayımlanan atama kararlarına göre, Ardahan Valiliğine Gaziantep Şehitkamil Kaymakamı Ömer Hilmi Yamlı atandı.",
         "source": "NTV",
         "published": "2026-07-18T00:13:20+03:00"
-      },
-      {
-        "title": "Ahbap soruşturmasında Ece Güner'in kardeşi Özgür Güner gözaltında",
-        "link": "https://www.sozcu.com.tr/ece-guner-in-kardesi-ozgur-guner-gozaltinda-iddiasi-p337450",
-        "description": "Ahbap soruşturmasında Ece Güner'in kardeşi Özgür Güner gözaltında",
-        "source": "Sözcü",
-        "published": "2026-07-18T00:13:05+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-temmuz-2026-1733405",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-07-18T00:00:00+03:00"
-      },
-      {
-        "title": "Irak'ta iki kentte patlama sesleri; ABD, İran'a yeni saldırı dalgası başlattı",
-        "link": "https://www.sozcu.com.tr/abd-iran-saldiri-17-temmuz-2026-p337445",
-        "description": "Irak'ta iki kentte patlama sesleri; ABD, İran'a yeni saldırı dalgası başlattı",
-        "source": "Sözcü",
-        "published": "2026-07-17T23:55:51+03:00"
       },
       {
         "title": "Ertuğrul Taşkıran’ın yeni adresi belli oldu",
@@ -630,32 +658,11 @@
         "published": "2026-07-17T23:09:22+03:00"
       },
       {
-        "title": "Ahbap dosyasında yeni gelişme: Çok sayıda isim ifadeye çağrılacak",
-        "link": "https://www.sozcu.com.tr/ahbap-sorusturmasinda-unlu-isimler-ifadeye-mi-cagrilacak-p337443",
-        "description": "Ahbap dosyasında yeni gelişme: Çok sayıda isim ifadeye çağrılacak",
-        "source": "Sözcü",
-        "published": "2026-07-17T22:49:47+03:00"
-      },
-      {
-        "title": "Zeki Çelik’in yerine Fenerbahçeli futbolcu",
-        "link": "https://www.sozcu.com.tr/zeki-celik-in-yerine-fenerbahceli-futbolcu-p337442",
-        "description": "Zeki Çelik’in yerine Fenerbahçeli futbolcu",
-        "source": "Sözcü",
-        "published": "2026-07-17T22:39:11+03:00"
-      },
-      {
         "title": "Gaziantep merkezli 45 ildeki yasa dışı bahis operasyonlarında 171 şüpheli tutuklandı",
         "link": "https://www.ntv.com.tr/turkiye/gaziantep-merkezli-45-ildeki-yasa-disi-bahis-operasyonlarinda-171-supheli-tutuklandi-1733397",
         "description": "Gaziantep merkezli 45 ilde \"yasa dışı bahis\" suçuna yönelik düzenlenen operasyonlarda gözaltına alınan 236 şüpheliden 171'i tutuklandı. Şüphelilerin 84 milyar 293 milyon 213 bin lira hacminde işlem gerçekleştirdiği tespit edildi.",
         "source": "NTV",
         "published": "2026-07-17T22:22:37+03:00"
-      },
-      {
-        "title": "Mahsun Kırmızıgül eski dostu Haluk Levent'e geçmişi hatırlatarak sitem etti",
-        "link": "https://www.sozcu.com.tr/mahsun-kirmizigul-eski-dostu-haluk-levent-e-gecmisi-hatirlatarak-sitem-etti-p337440",
-        "description": "Mahsun Kırmızıgül eski dostu Haluk Levent'e geçmişi hatırlatarak sitem etti",
-        "source": "Sözcü",
-        "published": "2026-07-17T22:14:52+03:00"
       },
       {
         "title": "Türkiye'nin yerli atomik saati uzaya fırlatıldı",
@@ -705,13 +712,6 @@
         "description": "Gaziosmanpaşa'da arabadaki birkaç kişi ile yolda yürüyen bir grup arasında kavga çıktı.",
         "source": "NTV",
         "published": "2026-07-17T16:12:34+03:00"
-      },
-      {
-        "title": "Yediemin otoparklarında milyarlık vurgun. Hastane sahibi ve çok sayıda iş insanı gözaltında",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-yediemin-otoparklarinda-milyarlik-vurgun-hastane-sahibi-ve-cok-sayida-is-insani-gozaltinda-1733374",
-        "description": "Yediemin otoparklarındaki otomobiller üzerinden üç farklı yöntemle yaklaşık 1,5 milyar liralık vurgun yapan 32 şüpheli yakalandı.",
-        "source": "NTV",
-        "published": "2026-07-17T16:00:38+03:00"
       },
       {
         "title": "PKK'nın kurucularından Duran Kalkan: 'Bu süreç batmayacak'",
