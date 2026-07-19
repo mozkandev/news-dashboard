@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-07-19T09:26:57.676114+00:00",
+  "updated_at": "2026-07-19T10:54:11.897935+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Claude Code uses Bun written in Rust now",
+        "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "description": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/ Comments URL: https://news.ycombinator.com/item?id=48966569 Points: 25 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-07-19T10:03:23+00:00"
+      },
+      {
+        "title": "Android’de Gemini Kaynaklı SMS Açığı",
+        "link": "https://shiftdelete.net/androidde-gemini-kaynakli-sms-acigi",
+        "description": "Android kilit ekranında Gemini üzerinden SMS gönderilmesine izin veren güvenlik açığı tespit edildi. Google sorunu gidermek için güncelleme hazırlıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-07-19T10:00:00+00:00"
+      },
       {
         "title": "Galaxy Watch 9 İşlemcisinde Qualcomm Sürprizi",
         "link": "https://shiftdelete.net/galaxy-watch-9-islemcisinde-qualcomm-surprizi",
@@ -10,16 +24,51 @@
         "published": "2026-07-19T09:00:00+00:00"
       },
       {
+        "title": "Qwen 3.8 Max Preview",
+        "link": "https://www.qwencloud.com/pricing/token-plan",
+        "description": "Article URL: https://www.qwencloud.com/pricing/token-plan Comments URL: https://news.ycombinator.com/item?id=48966190 Points: 9 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-19T08:57:31+00:00"
+      },
+      {
+        "title": "Half a Second – a book about the XZ backdoor",
+        "link": "https://www.half-second.com/",
+        "description": "Article URL: https://www.half-second.com/ Comments URL: https://news.ycombinator.com/item?id=48966139 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-19T08:48:41+00:00"
+      },
+      {
         "title": "Qwen3.8 is launching and going open-weight soon",
         "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-        "description": "Article URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291 Comments URL: https://news.ycombinator.com/item?id=48966120 Points: 48 # Comments: 7",
+        "description": "Article URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291 Comments URL: https://news.ycombinator.com/item?id=48966120 Points: 185 # Comments: 83",
         "source": "HackerNews",
         "published": "2026-07-19T08:44:57+00:00"
       },
       {
+        "title": "Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally",
+        "link": "https://offlinetts.com/",
+        "description": "Article URL: https://offlinetts.com/ Comments URL: https://news.ycombinator.com/item?id=48965983 Points: 4 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-19T08:21:28+00:00"
+      },
+      {
+        "title": "Mirror your GitHub repos to tangled.org automatically",
+        "link": "https://synchub.to/",
+        "description": "Article URL: https://synchub.to/ Comments URL: https://news.ycombinator.com/item?id=48965918 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-19T08:06:58+00:00"
+      },
+      {
+        "title": "The Mighty Big Array of Finn Jensen LA8YB",
+        "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
+        "description": "Article URL: https://la0by.darc.de/LA8YB_EME_MBA.htm Comments URL: https://news.ycombinator.com/item?id=48965914 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-19T08:05:46+00:00"
+      },
+      {
         "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
         "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-        "description": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic Comments URL: https://news.ycombinator.com/item?id=48965886 Points: 6 # Comments: 6",
+        "description": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic Comments URL: https://news.ycombinator.com/item?id=48965886 Points: 30 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-07-19T08:00:24+00:00"
       },
@@ -29,6 +78,20 @@
         "description": "HMD Global, 3700mAh bataryası ve ters şarj özelliğiyle dikkat çeken yeni Nokia 300 4G Power Bank modelini tanıttı. İşte tüm detaylar.",
         "source": "ShiftDelete",
         "published": "2026-07-19T08:00:00+00:00"
+      },
+      {
+        "title": "Ollama: All Aboard Open Models",
+        "link": "https://ollama.com/blog/all-aboard-open-models",
+        "description": "Article URL: https://ollama.com/blog/all-aboard-open-models Comments URL: https://news.ycombinator.com/item?id=48965880 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-19T07:59:44+00:00"
+      },
+      {
+        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "link": "https://github.com/openai/codex/pull/33972/files",
+        "description": "Article URL: https://github.com/openai/codex/pull/33972/files Comments URL: https://news.ycombinator.com/item?id=48965850 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-19T07:54:39+00:00"
       },
       {
         "title": "Samsung Galaxy S26 Ultra Ekran Sorunu için Güncelleme Yolda",
@@ -45,67 +108,11 @@
         "published": "2026-07-19T06:00:00+00:00"
       },
       {
-        "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-        "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-        "description": "Article URL: https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea Comments URL: https://news.ycombinator.com/item?id=48965161 Points: 22 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-19T05:07:08+00:00"
-      },
-      {
         "title": "Oppo Yeni Modeli için İlk Teknik Detaylar Belli Oldu",
         "link": "https://shiftdelete.net/oppo-yeni-modeli-icin-ilk-teknik-detaylar-belli-oldu",
         "description": "Oppo'nun yeni akıllı telefonu PYZ110, TENAA sertifikasyon sürecinde görüntülendi. İşte 8.000 mAh batarya ve 50 MP kameralı cihazın tüm özellikleri.",
         "source": "ShiftDelete",
         "published": "2026-07-19T05:00:00+00:00"
-      },
-      {
-        "title": "I built a browser-based P2P file transfer tool using WebRTC",
-        "link": "https://airdows.com/",
-        "description": "Article URL: https://airdows.com/ Comments URL: https://news.ycombinator.com/item?id=48964424 Points: 19 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-07-19T02:17:03+00:00"
-      },
-      {
-        "title": "Deepsec",
-        "link": "https://github.com/vercel-labs/deepsec",
-        "description": "Article URL: https://github.com/vercel-labs/deepsec Comments URL: https://news.ycombinator.com/item?id=48964215 Points: 29 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-07-19T01:33:32+00:00"
-      },
-      {
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-        "description": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 198 # Comments: 76",
-        "source": "HackerNews",
-        "published": "2026-07-19T01:29:19+00:00"
-      },
-      {
-        "title": "Better and Cheaper Than IPTV",
-        "link": "https://github.com/stupside/castor",
-        "description": "Article URL: https://github.com/stupside/castor Comments URL: https://news.ycombinator.com/item?id=48964015 Points: 187 # Comments: 48",
-        "source": "HackerNews",
-        "published": "2026-07-19T00:59:55+00:00"
-      },
-      {
-        "title": "Transcribe.cpp",
-        "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "description": "Article URL: https://workshop.cjpais.com/projects/transcribe-cpp Comments URL: https://news.ycombinator.com/item?id=48963879 Points: 500 # Comments: 98",
-        "source": "HackerNews",
-        "published": "2026-07-19T00:38:26+00:00"
-      },
-      {
-        "title": "Codex Resets",
-        "link": "https://codex-resets.com/",
-        "description": "Article URL: https://codex-resets.com/ Comments URL: https://news.ycombinator.com/item?id=48963465 Points: 174 # Comments: 128",
-        "source": "HackerNews",
-        "published": "2026-07-18T23:24:26+00:00"
-      },
-      {
-        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-        "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-        "description": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 464 # Comments: 205",
-        "source": "HackerNews",
-        "published": "2026-07-18T22:13:39+00:00"
       },
       {
         "title": "GTA 3 ve Vice City Artık San Andreas İçinde Oynanabiliyor",
@@ -162,13 +169,6 @@
         "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
         "source": "TechCrunch",
         "published": "2026-07-18T16:30:00+00:00"
-      },
-      {
-        "title": "Apple ve Epic Games Davasında Yeni Düğüm",
-        "link": "https://shiftdelete.net/apple-ve-epic-games-davasinda-yeni-dugum",
-        "description": "Teknoloji dünyasının en uzun soluklu ve büyük yasal savaşlarından biri olan Apple ile Epic Games arasındaki mücadele, yepyeni bir hukuki hamleyle daha da karmaşık bir hal alıyor. ABD merkezli teknoloji devi Apple, Yüksek Mahkemenin (Supreme Court)...",
-        "source": "ShiftDelete",
-        "published": "2026-07-18T16:00:21+00:00"
       },
       {
         "title": "Federal employees can download TikTok on their work phones again",
@@ -355,25 +355,53 @@
     ],
     "dunya": [
       {
-        "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
-        "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
-        "description": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
+        "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
+        "description": "Burnham will replace Sir Keir Starmer as prime minister on Monday, following a meeting with King Charles III.",
         "source": "BBC News",
-        "published": "2026-07-19T08:55:06+00:00"
+        "published": "2026-07-19T10:29:14+00:00"
+      },
+      {
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
+        "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+        "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+        "source": "BBC News",
+        "published": "2026-07-19T10:22:35+00:00"
+      },
+      {
+        "title": "Messi on the brink of history - will it be his last World Cup game?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+        "description": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
+        "source": "BBC News",
+        "published": "2026-07-19T09:55:22+00:00"
       },
       {
         "title": "Russia launches major ballistic missile attack on Kyiv",
         "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
         "description": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
         "source": "BBC News",
-        "published": "2026-07-19T08:37:48+00:00"
+        "published": "2026-07-19T09:54:50+00:00"
       },
       {
-        "title": "'A 10-goal thriller': England fans react to 6-4 win over France",
-        "link": "https://www.bbc.co.uk/news/videos/cdj0337k0r7o?at_medium=RSS&at_campaign=rss",
-        "description": "England's victory means the team finished third and secured their best World Cup result since 1966.",
+        "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
+        "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+        "description": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
         "source": "BBC News",
-        "published": "2026-07-19T06:31:07+00:00"
+        "published": "2026-07-19T08:55:06+00:00"
+      },
+      {
+        "title": "Bruno Mars has an unexpected opening before Wembley party starts",
+        "link": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss",
+        "description": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
+        "source": "BBC News",
+        "published": "2026-07-19T08:26:02+00:00"
+      },
+      {
+        "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+        "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+        "description": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
+        "source": "NPR",
+        "published": "2026-07-19T06:00:00-04:00"
       },
       {
         "title": "Deadly overnight Russian attack on Ukraine targets the capital",
@@ -411,18 +439,11 @@
         "published": "2026-07-19T03:00:00-04:00"
       },
       {
-        "title": "Best England team for a long time? That's a fact, says Rice",
+        "title": "Best England team for a long time - that's a fact, says Rice",
         "link": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
         "description": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after they secure a third-placed finish at the World Cup.",
         "source": "BBC News",
         "published": "2026-07-19T02:29:00+00:00"
-      },
-      {
-        "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-        "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-        "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-        "source": "BBC News",
-        "published": "2026-07-19T02:17:07+00:00"
       },
       {
         "title": "New EU border system tripling time at passport control, airport boss says",
@@ -446,25 +467,11 @@
         "published": "2026-07-19T01:11:23+00:00"
       },
       {
-        "title": "The hidden cost of the night shift and how to sleep it off",
-        "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
-        "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
-        "source": "BBC News",
-        "published": "2026-07-19T00:01:55+00:00"
-      },
-      {
         "title": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final",
         "link": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
         "description": "Worry no more about wildfire smoke and $10,000 ticket prices. Sunday's final between Argentina and Spain — the first meeting of their transcendent stars — is here and seems destined to be a classic.",
         "source": "NPR",
         "published": "2026-07-19T00:00:00-04:00"
-      },
-      {
-        "title": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss",
-        "description": "Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi could yet overtake him in the World Cup final.",
-        "source": "BBC News",
-        "published": "2026-07-18T23:48:40+00:00"
       },
       {
         "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
@@ -516,13 +523,6 @@
         "published": "2026-07-18T13:14:57+00:00"
       },
       {
-        "title": "Reporter's Notebook: Finding World Cup joy in speaking to women who love soccer",
-        "link": "https://www.npr.org/2026/07/18/nx-s1-5897607/2026-world-cup-fifa-argentina-spain-women-fans",
-        "description": "Tune into World Cup coverage, and you are likely to see waves of male, screaming, sweaty fans. But one of the joys of covering this World Cup has been speaking to women who love soccer.",
-        "source": "NPR",
-        "published": "2026-07-18T11:30:00-04:00"
-      },
-      {
         "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
         "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
         "description": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falkland Islands after their World...",
@@ -567,18 +567,137 @@
     ],
     "turkiye": [
       {
+        "title": "İstanbul'un dibinde. Gözde tatil rotası oldu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-dibinde-gozde-tatil-rotasi-oldu-1733629",
+        "description": "Kocaeli'nin doğası ve mavi bayraklı plajlarıyla öne çıkan turizm merkezi Kandıra'nın eşsiz koyları havadan görüntülendi. Çevre illerden yoğun ziyaretçi akınına uğrayan sahillerde deniz sezonu hareketliliği yaşanıyor",
+        "source": "NTV",
+        "published": "2026-07-19T13:52:04+03:00"
+      },
+      {
+        "title": "'Bir alana bir bedava' kampanyaları için karar verildi",
+        "link": "https://www.sozcu.com.tr/bir-alana-bir-bedava-kampanyalari-icin-karar-verildi-p337794",
+        "description": "'Bir alana bir bedava' kampanyaları için karar verildi",
+        "source": "Sözcü",
+        "published": "2026-07-19T13:37:16+03:00"
+      },
+      {
+        "title": "Yusuf Tekin ilkokulda bu olayları yaşamış... 'Sayın Tekin siz hangi Türkiye'de okudunuz'",
+        "link": "https://www.sozcu.com.tr/yusuf-tekin-ilkokulda-bu-olaylari-yasamis-sayin-tekin-siz-hangi-turkiye-de-okudunuz-p337792",
+        "description": "Yusuf Tekin ilkokulda bu olayları yaşamış... 'Sayın Tekin siz hangi Türkiye'de okudunuz'",
+        "source": "Sözcü",
+        "published": "2026-07-19T13:28:36+03:00"
+      },
+      {
+        "title": "Trakya'dan yola çıkıp İstanbul'a ulaştılar: Megakentte çekirge alarmı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-trakyadan-yola-cikip-istanbula-ulastilar-megakentte-cekirge-alarmi-1733601",
+        "description": "Balkanlarda hızlı şekilde artan çekirge popülasyonu yönünü Türkiye'ye çevirdi. İstanbul'da birçok vatandaş evlerine giren çekirgelerden şikayetçi.",
+        "source": "NTV",
+        "published": "2026-07-19T13:16:12+03:00"
+      },
+      {
+        "title": "\"Alev savaşçıları\" nöbette",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-alev-savascilari-nobette-1733615",
+        "description": "Yaz sıcaklarıyla birlikte orman yangınları riski de arttı. Orman Bölge Müdürlüğü ekipleri, yurdun dört bir yanında olası yangınlara karşı önlemleri artırdı. Kastamonu ve Adana'da \"alev savaşçıları\", riskli noktalarda nöbet tutmaya başladı.",
+        "source": "NTV",
+        "published": "2026-07-19T13:10:44+03:00"
+      },
+      {
+        "title": "Yeni Parti için geri sayım başladı: Logosu nasıl olacak, hangi renkler kullanılacak?",
+        "link": "https://www.ntv.com.tr/turkiye/yeni-parti-icin-geri-sayim-basladi-logosu-nasil-olacak-hangi-renkler-kullanilacak-1733617",
+        "description": "Özgür Özel'in kuracağı yeni parti için logo siparişi verildi. Şirketler Özel ve ekibine sunumlar yapacak. Parti logosunda hangi renklerin ağırlıklı olarak kullanılacağı da belli oldu.",
+        "source": "NTV",
+        "published": "2026-07-19T13:08:09+03:00"
+      },
+      {
+        "title": "İstanbul'un bazı ilçelerinde görülen dev çekirgeler vatandaşları tedirgin etti",
+        "link": "https://www.ntv.com.tr/turkiye/video-istanbulun-bazi-ilcelerinde-gorulen-dev-cekirgeler-vatandaslari-tedirgin-etti-1733616",
+        "description": "İstanbul'un bazı ilçelerinde son günlerde görülen dev çekirgeler vatandaşlarda tedirginliğe neden oldu. Evlerin balkonlarına, pencerelerine ve bahçelerine kadar gelen çekirgeler cep telefonu kameralarıyla görüntülendi.",
+        "source": "NTV",
+        "published": "2026-07-19T13:05:28+03:00"
+      },
+      {
+        "title": "Emekli olan valizini toplayıp o şehri terk ediyor. TÜİK açıkladı, her 3 kişiden biri gidiyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-emekli-olan-valizini-toplayip-o-sehri-terk-ediyor-tuik-acikladi-her-3-kisiden-biri-gidiyor-1733614",
+        "description": "Türkiye'de geçen yıl 11 bin 885 kişi emeklilik nedeniyle şehir değiştirirken en fazla emekli göçünü İstanbul, en azını Ardahan verdi.",
+        "source": "NTV",
+        "published": "2026-07-19T13:02:56+03:00"
+      },
+      {
+        "title": "Galatasaray'dan ayrılan Icardi ezeli rakibe",
+        "link": "https://www.sozcu.com.tr/galatasaray-dan-ayrilan-icardi-ezeli-rakibe-p337789",
+        "description": "Galatasaray'dan ayrılan Icardi ezeli rakibe",
+        "source": "Sözcü",
+        "published": "2026-07-19T12:58:30+03:00"
+      },
+      {
+        "title": "Temizlikçi kadından tokat gibi video: 'Herkes ne kadar kazandığımızı soruyor ama...'",
+        "link": "https://www.sozcu.com.tr/temizlik-iscisi-kadindan-tokat-gibi-video-herkes-ne-kadar-kazandigimizi-soruyor-ama-p337783",
+        "description": "Temizlikçi kadından tokat gibi video: 'Herkes ne kadar kazandığımızı soruyor ama...'",
+        "source": "Sözcü",
+        "published": "2026-07-19T12:55:41+03:00"
+      },
+      {
+        "title": "Uzun bir süredir gözlerden uzaktı: Mirkelam 13 yıllık aşkıyla ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/uzun-bir-suredir-gozlerden-uzakti-mirkelam-13-yillik-askiyla-ortaya-cikti-p337786",
+        "description": "Uzun bir süredir gözlerden uzaktı: Mirkelam 13 yıllık aşkıyla ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-07-19T12:53:27+03:00"
+      },
+      {
+        "title": "Kahinin sözünü dinleyip oynadı: Piyangodan tam 83 milyon lira kazandı",
+        "link": "https://www.sozcu.com.tr/kahinin-sozunu-dinleyip-oynadi-piyangodan-tam-83-milyon-lira-kazandi-p337785",
+        "description": "Kahinin sözünü dinleyip oynadı: Piyangodan tam 83 milyon lira kazandı",
+        "source": "Sözcü",
+        "published": "2026-07-19T12:49:41+03:00"
+      },
+      {
+        "title": "Tarihin en büyük halka arzıydı: Piyasa değerinden 1 trilyon dolar silindi",
+        "link": "https://www.sozcu.com.tr/hisseler-cakildi-piyasa-degerinden-1-trilyon-dolar-silindi-p337784",
+        "description": "Tarihin en büyük halka arzıydı: Piyasa değerinden 1 trilyon dolar silindi",
+        "source": "Sözcü",
+        "published": "2026-07-19T12:49:17+03:00"
+      },
+      {
+        "title": "Türkiye'nin en büyük ikinci gölü renk değiştirdi, pembe oldu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-turkiyenin-en-buyuk-ikinci-golu-renk-degistirdi-pembe-oldu-1733613",
+        "description": "Türkiye'nin ikinci büyük gölü Tuz Gölü, pembe rengini aldı.",
+        "source": "NTV",
+        "published": "2026-07-19T12:47:48+03:00"
+      },
+      {
+        "title": "Süreç yasasında kritik hafta. Çerçeve yasa taslağının partilerle paylaşılması bekleniyor",
+        "link": "https://www.ntv.com.tr/turkiye/surec-yasasinda-kritik-hafta-cerceve-yasa-taslaginin-partilerle-paylasilmasi-bekleniyor-1733598",
+        "description": "Terörsüz Türkiye sürecinde gözler yasal düzenlemede. Bu konuda yeni haftada yeni adımların atılması bekleniyor. Peki çerçeve yasada hangi başlıklar yer alabilir?",
+        "source": "NTV",
+        "published": "2026-07-19T12:43:30+03:00"
+      },
+      {
+        "title": "Doğanın gizemi: Kalpli göl yeniden pembeye büründü",
+        "link": "https://www.ntv.com.tr/turkiye/video-doganin-gizemi-kalpli-gol-yeniden-pembeye-burundu-1733603",
+        "description": "Yılın belirli dönemlerinde renk değiştiren Çanakkale'nin Ezine ilçesindeki Kalpli Göl, yaz sıcaklıkları ve artan tuzluluk nedeniyle yeniden pembe renge döndü. Uzmanlar, bu değişimin pembe renk oluşturan mikroorganizmaların yeniden baskın hale...",
+        "source": "NTV",
+        "published": "2026-07-19T12:42:14+03:00"
+      },
+      {
+        "title": "\"İçinde şeytan var\" deyip ablalarına dehşeti yaşatmıştı: Dokuz gün sonra acı haber geldi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-icinde-seytan-var-deyip-ablalarina-dehseti-yasatmisti-dokuz-gun-sonra-aci-haber-geldi-1733610",
+        "description": "Antalya'da kardeşi tarafından \"İçine şeytan girdi.\" denilerek boğulmaya kalkışılan kadın dokuz gün sonra yaşamını yitirdi.",
+        "source": "NTV",
+        "published": "2026-07-19T12:40:45+03:00"
+      },
+      {
+        "title": "Sadettin Saran'ın beğendiği paylaşım olay oldu",
+        "link": "https://www.sozcu.com.tr/sadettin-saran-in-begendigi-paylasim-olay-oldu-p337781",
+        "description": "Sadettin Saran'ın beğendiği paylaşım olay oldu",
+        "source": "Sözcü",
+        "published": "2026-07-19T12:32:42+03:00"
+      },
+      {
         "title": "Türk siyasetinde dönüm noktası olacak tarih: 21-22 Temmuz",
         "link": "https://www.sozcu.com.tr/turk-siyasetinde-donum-noktasi-olacak-tarih-21-22-temmuz-p337779",
         "description": "Türk siyasetinde dönüm noktası olacak tarih: 21-22 Temmuz",
         "source": "Sözcü",
         "published": "2026-07-19T12:19:28+03:00"
-      },
-      {
-        "title": "Doğanın büyük gizemi! Aylar sonra yeniden pembe oldu!",
-        "link": "https://www.sozcu.com.tr/doganin-buyuk-gizemi-aylar-sonra-yeniden-pembe-oldu-p337771",
-        "description": "Doğanın büyük gizemi! Aylar sonra yeniden pembe oldu!",
-        "source": "Sözcü",
-        "published": "2026-07-19T12:17:43+03:00"
       },
       {
         "title": "Galatasaray'da 'Patron'un yanına vatandaşı geliyor",
@@ -588,123 +707,11 @@
         "published": "2026-07-19T12:14:03+03:00"
       },
       {
-        "title": "Trakya'dan yola çıkıp İstanbul'a ulaştılar: Megakentte çekirge alarmı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-trakyadan-yola-cikip-istanbula-ulastilar-megakentte-cekirge-alarmi-1733601",
-        "description": "Balkanlarda hızlı şekilde artan çekirge popülasyonu yönünü Türkiye'ye çevirdi. İstanbul'da birçok vatandaş evlerine giren çekirgelerden şikayetçi.",
-        "source": "NTV",
-        "published": "2026-07-19T12:06:44+03:00"
-      },
-      {
-        "title": "Facebook ve Instagram çöktü: Hesaplara erişilemiyor",
-        "link": "https://www.sozcu.com.tr/facebook-ve-instagram-coktu-hesaplara-erisilemiyor-p337760",
-        "description": "Facebook ve Instagram çöktü: Hesaplara erişilemiyor",
-        "source": "Sözcü",
-        "published": "2026-07-19T12:04:57+03:00"
-      },
-      {
-        "title": "Çin'den sanal aşklara yasak: Binlerce kişi 'yapay' aşk acısı çekiyor",
-        "link": "https://www.sozcu.com.tr/cin-den-sanal-asklara-yasak-binlerce-kisi-yapay-ask-acisi-cekiyor-p337772",
-        "description": "Çin'den sanal aşklara yasak: Binlerce kişi 'yapay' aşk acısı çekiyor",
-        "source": "Sözcü",
-        "published": "2026-07-19T12:04:28+03:00"
-      },
-      {
-        "title": "Koç Holding 100 milyon dolara yeniledi! Türk turizminin simgesi 13 yıl sonra açılıyor",
-        "link": "https://www.sozcu.com.tr/koc-holding-100-milyon-dolara-yeniledi-turk-turizminin-simgesi-13-yil-sonra-aciliyor-p337761",
-        "description": "Koç Holding 100 milyon dolara yeniledi! Türk turizminin simgesi 13 yıl sonra açılıyor",
-        "source": "Sözcü",
-        "published": "2026-07-19T11:54:19+03:00"
-      },
-      {
-        "title": "Piyasalarda yer yerinden oynadı: Altın, gümüş ve platin dibi gördü",
-        "link": "https://www.sozcu.com.tr/piyasalarda-yer-yerinden-oynadi-altin-gumus-ve-platin-dibi-gordu-p337762",
-        "description": "Piyasalarda yer yerinden oynadı: Altın, gümüş ve platin dibi gördü",
-        "source": "Sözcü",
-        "published": "2026-07-19T11:47:23+03:00"
-      },
-      {
-        "title": "Doğanın gizemi: Kalpli göl yeniden pembeye büründü",
-        "link": "https://www.ntv.com.tr/turkiye/video-doganin-gizemi-kalpli-gol-yeniden-pembeye-burundu-1733603",
-        "description": "Yılın belirli dönemlerinde renk değiştiren Çanakkale'nin Ezine ilçesindeki Kalpli Göl, yaz sıcaklıkları ve artan tuzluluk nedeniyle yeniden pembe renge döndü. Uzmanlar, bu değişimin pembe renk oluşturan mikroorganizmaların yeniden baskın hale...",
-        "source": "NTV",
-        "published": "2026-07-19T11:46:26+03:00"
-      },
-      {
-        "title": "Martı'nın kurucusu siyasete girdi: İşte katıldığı parti",
-        "link": "https://www.sozcu.com.tr/marti-nin-kurucusu-siyasete-girdi-iste-katildigi-parti-p337767",
-        "description": "Martı'nın kurucusu siyasete girdi: İşte katıldığı parti",
-        "source": "Sözcü",
-        "published": "2026-07-19T11:39:24+03:00"
-      },
-      {
-        "title": "Süreç yasasında kritik hafta. Çerçeve yasa taslağının partilerle paylaşılması bekleniyor",
-        "link": "https://www.ntv.com.tr/turkiye/surec-yasasinda-kritik-hafta-cerceve-yasa-taslaginin-partilerle-paylasilmasi-bekleniyor-1733598",
-        "description": "Terörsüz Türkiye sürecinde gözler yasal düzenlemede Bu konuda yeni haftada yeni adımların atılması bekleniyor. Peki çerçeve yasada hangi başlıklar yer alabilir?",
-        "source": "NTV",
-        "published": "2026-07-19T11:36:53+03:00"
-      },
-      {
-        "title": "Türkiye'nin dibine dünyanın en büyük İsa heykelini dikecekler: Dağın zirvesine bırakacaklar",
-        "link": "https://www.sozcu.com.tr/turkiye-nin-dibine-dunyanin-en-buyuk-isa-heykelini-dikecekler-dagin-zirvesine-birakacaklar-p337765",
-        "description": "Türkiye'nin dibine dünyanın en büyük İsa heykelini dikecekler: Dağın zirvesine bırakacaklar",
-        "source": "Sözcü",
-        "published": "2026-07-19T11:35:26+03:00"
-      },
-      {
-        "title": "55 yıl sonra rahat yürümeye başladı",
-        "link": "https://www.ntv.com.tr/turkiye/video-55-yil-sonra-rahat-yurumeye-basladi-1733597",
-        "description": "Gaziantep'in İslahiye ilçesinde sağ ayağında doğuştan kısalık ve deformite olan 65 yaşındaki hasta, ilçe devlet hastanesinde yapılan başarılı operasyonla sağlığına kavuştu.",
-        "source": "NTV",
-        "published": "2026-07-19T11:26:59+03:00"
-      },
-      {
-        "title": "Bülent Ersoy lolita estetiği yaptırdı: İşte Lolita Diva",
-        "link": "https://www.sozcu.com.tr/bulent-ersoy-lolita-estetigi-yaptirdi-iste-lolita-diva-p337759",
-        "description": "Bülent Ersoy lolita estetiği yaptırdı: İşte Lolita Diva",
-        "source": "Sözcü",
-        "published": "2026-07-19T11:23:43+03:00"
-      },
-      {
-        "title": "Moğolistan'ın kırmızı bültenle aradığı şüpheli İstanbul'da yakalandı",
-        "link": "https://www.ntv.com.tr/turkiye/mogolistanin-kirmizi-bultenle-aradigi-supheli-istanbulda-yakalandi-1733591",
-        "description": "Moğolistan tarafından \"uyuşturucu madde ticareti\" suçundan kırmızı bültenle aranan şüpheli, İstanbul'da düzenlenen operasyonla yakalandı.",
-        "source": "NTV",
-        "published": "2026-07-19T11:09:25+03:00"
-      },
-      {
-        "title": "Türk jetlerinden Kıbrıs Adası'nın güneyinde eğitim uçuşu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-turk-jetlerinden-kibris-adasinin-guneyinde-egitim-ucusu-1733586",
-        "description": "Türk Hava Kuvvetleri uçakları, Kıbrıs Adası'nın güneyinde eğitim uçuşu yaptı.",
-        "source": "NTV",
-        "published": "2026-07-19T10:43:31+03:00"
-      },
-      {
-        "title": "Üniversiteli genç kız şarjör ve onlarca mermiyle AVM'ye girmeye çalıştı. \"Sevgilime götürüyordum\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-universiteli-genc-kiz-sarjor-ve-onlarca-mermiyle-avmye-girmeye-calisti-sevgilime-goturuyordum-1733579",
-        "description": "İstanbul'un Şişli ilçesinde üniversite öğrencisi Beyza A., bir AVM'ye çantasında şarjör ve 25 mermiyle girmeye çalıştı. Genç kız, temizlik yaparken bulduğu şarjör ve mermileri sevgilisinin kendisine getirmesini istediğini iddia etti.",
-        "source": "NTV",
-        "published": "2026-07-19T10:29:18+03:00"
-      },
-      {
-        "title": "Tuvalet sırası yüzünden kavga eden şahıs ortalığı birbirine kattı",
-        "link": "https://www.ntv.com.tr/turkiye/video-tuvalet-sirasi-yuzunden-kavga-eden-sahis-ortaligi-birbirine-katti-1733584",
-        "description": "Düğün için Eskişehir'e gelen bir grup ile başka bir grup arasında kadınlar tuvaleti sırası yüzünden çıkan tartışma kavgaya dönüştü. Olayda darp edilen 2 kişi kavga sonrası caddede bağırarak karşı tarafı aradı.",
-        "source": "NTV",
-        "published": "2026-07-19T10:21:29+03:00"
-      },
-      {
-        "title": "Adli tatil yarın başlayacak",
-        "link": "https://www.ntv.com.tr/turkiye/adli-tatil-yarin-baslayacak-1733583",
-        "description": "Adli tatil yarın başlayacak. Yargıda toplu izin kullanımı anlamına gelen adli tatil 31 Ağustos'ta sona erecek.",
-        "source": "NTV",
-        "published": "2026-07-19T10:18:24+03:00"
-      },
-      {
-        "title": "NASA'dan İstanbul paylaşımı: Uzaydan büyüleyici görüntü",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-nasadan-istanbul-paylasimi-uzaydan-buyuleyici-goruntu-1733582",
-        "description": "NASA, Karadeniz ile Marmara Denizi'nde ilkbahar ve yaz aylarında görülen turkuaz renk değişimini gösteren uydu ve uzay görüntülerini yayımladı.",
-        "source": "NTV",
-        "published": "2026-07-19T10:12:27+03:00"
+        "title": "Sıcak havalarda nasıl beslenmeli?",
+        "link": "https://www.bbc.com/turkce/articles/ckg49lpdml9o?at_medium=RSS&at_campaign=rss",
+        "description": "Havalar çok ısındığında beslenme alışkanlıklarımızı değiştirmeli miyiz?",
+        "source": "BBC Turkish",
+        "published": "2026-07-19T09:29:30+00:00"
       },
       {
         "title": "Yüzükler, Trump ve devre arası: Dünya Kupası final maçından neler beklemeliyiz?",
@@ -719,6 +726,13 @@
         "description": "Kadınların yaklaşık %12'sinin, onlara gelişmiş renk görme yeteneği kazandırabilecek genetik bir varyanta sahip olabileceği düşünülüyor; ancak ne gördüklerini kanıtlamak gerçekten zor.",
         "source": "BBC Turkish",
         "published": "2026-07-19T08:53:21+00:00"
+      },
+      {
+        "title": "Türkçe saykodelik müzik nasıl tüm dünyaya yayıldı?",
+        "link": "https://www.bbc.com/turkce/articles/cvgwdd8p049o?at_medium=RSS&at_campaign=rss",
+        "description": "Türk saykodelik müziğin ilk örnekleri 1970'li yıllarda Türkiye'de fazla ilgi görmemişti. Ancak yarım yüzyıl sonra dijital platformlardan yeni kuşak sanatçılara küresel bir fenomene dönüştü. Peki bu nasıl oldu? Burak Abatay'ın haberi",
+        "source": "BBC Turkish",
+        "published": "2026-07-19T08:43:19+00:00"
       },
       {
         "title": "Tarihin en gollü üçüncülük maçında İngiltere Fransa'yı 6-4 geçti",
@@ -742,13 +756,6 @@
         "published": "2026-07-18T14:14:59+00:00"
       },
       {
-        "title": "Perseid meteor yağmuru görsel bir şölen sunacak",
-        "link": "https://www.bbc.com/turkce/articles/c935ye3z010o?at_medium=RSS&at_campaign=rss",
-        "description": "Perseid meteor yağmuru önümüzdeki beş hafta boyunca gece gökyüzünü aydınlatacak.",
-        "source": "BBC Turkish",
-        "published": "2026-07-18T13:29:47+00:00"
-      },
-      {
         "title": "Kontrol, tehditler, şekil bozucu ameliyatlar: Jeffrey Epstein'ın 'tarikatının' içindeki hayatım",
         "link": "https://www.bbc.com/turkce/articles/cgewy8wpznwo?at_medium=RSS&at_campaign=rss",
         "description": "\"Anya\", BBC'ye cinsel suçlardan hüküm giyen Epstein'ın \"asistanlarını\" nasıl kandırıp istismar ettiğine dair az bilinen detaylar anlattı. Asistanlar Epstein tarafından barındırılan, onun emriyle günün her saati çalışan ve düzenli olarak onun...",
@@ -761,13 +768,6 @@
         "description": "Resmi Gazete'de yayımlanan bir kararla Ardahan Valisi Mehmet Fatih Çiçekli görevden alındı. Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla 17 Temmuz'da yayımlanan kararla yerine Gaziantep Şehitkamil Kaymakamı Ömer Hilmi Yamlı atandı. Mehmet Fatih...",
         "source": "BBC Turkish",
         "published": "2026-07-18T11:50:30+00:00"
-      },
-      {
-        "title": "Çocukların telefonda fazla zaman geçirmesini engellemenin beş yolu",
-        "link": "https://www.bbc.com/turkce/articles/cy45y3y2vdeo?at_medium=RSS&at_campaign=rss",
-        "description": "Çocuk yetiştirme uzmanlarından çocuklarının telefon ve tabletleri ellerinden kısa süreliğine bile olsa bırakmasına yardımcı olacak tavsiyeler.",
-        "source": "BBC Turkish",
-        "published": "2026-07-18T08:22:38+00:00"
       },
       {
         "title": "Hürmüz Boğazı: Alternatif rotalar hangileri, Türkiye rol oynayabilir mi?",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Açık",
-    "temp": "+73°F",
-    "wind": "←5mph",
-    "humidity": "79%"
+    "temp": "+60°F",
+    "wind": "↙2mph",
+    "humidity": "78%"
   }
 }
