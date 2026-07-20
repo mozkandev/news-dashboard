@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-07-20T20:20:35.082845+00:00",
+  "updated_at": "2026-07-20T21:42:35.083396+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "source": "TechCrunch",
+        "published": "2026-07-20T21:21:15+00:00"
+      },
+      {
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database,...",
+        "source": "TechCrunch",
+        "published": "2026-07-20T20:50:40+00:00"
+      },
+      {
+        "title": "ABD Çinli Yapay Zeka Modellerini Engellemek için Harekete Geçti",
+        "link": "https://shiftdelete.net/abd-cinli-yapay-zeka-modellerini-engellemek-icin-harekete-gecti",
+        "description": "ABD yönetimi, siber güvenlik endişeleri nedeniyle Çin menşeli yapay zeka modellerine yönelik yasaklama çalışmalarını yeniden başlattı.",
+        "source": "ShiftDelete",
+        "published": "2026-07-20T20:30:00+00:00"
+      },
+      {
+        "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+        "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+        "description": "Article URL: https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/ Comments URL: https://news.ycombinator.com/item?id=48984231 Points: 9 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-20T20:08:45+00:00"
+      },
       {
         "title": "En Gelişmiş Yapay Zeka Modelleri Gerçek Dünyada Neden Zorlanıyor?",
         "link": "https://shiftdelete.net/en-gelismis-yapay-zeka-modelleri-gercek-dunyada-neden-zorlaniyor",
@@ -40,7 +68,7 @@
       {
         "title": "Human mathematicians are being outcounterexampled",
         "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "description": "Article URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/ Comments URL: https://news.ycombinator.com/item?id=48983382 Points: 12 # Comments: 0",
+        "description": "Article URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/ Comments URL: https://news.ycombinator.com/item?id=48983382 Points: 80 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-07-20T19:03:37+00:00"
       },
@@ -54,7 +82,7 @@
       {
         "title": "Safety and alignment in an era of long-horizon models",
         "link": "https://openai.com/index/safety-alignment-long-horizon-models/",
-        "description": "Article URL: https://openai.com/index/safety-alignment-long-horizon-models/ Comments URL: https://news.ycombinator.com/item?id=48983108 Points: 13 # Comments: 2",
+        "description": "Article URL: https://openai.com/index/safety-alignment-long-horizon-models/ Comments URL: https://news.ycombinator.com/item?id=48983108 Points: 16 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-07-20T18:43:55+00:00"
       },
@@ -68,28 +96,21 @@
       {
         "title": "Nativ: Run frontier open models locally on your Mac",
         "link": "https://blaizzy.github.io/nativ/",
-        "description": "Article URL: https://blaizzy.github.io/nativ/ Comments URL: https://news.ycombinator.com/item?id=48982681 Points: 42 # Comments: 15",
+        "description": "Article URL: https://blaizzy.github.io/nativ/ Comments URL: https://news.ycombinator.com/item?id=48982681 Points: 98 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-07-20T18:16:08+00:00"
       },
       {
-        "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
-        "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
-        "description": "Article URL: https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/ Comments URL: https://news.ycombinator.com/item?id=48982583 Points: 13 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-07-20T18:10:44+00:00"
-      },
-      {
         "title": "The drivers behind software delivery inefficiency",
         "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
-        "description": "Article URL: https://dl.acm.org/doi/10.1145/3800646.3800650 Comments URL: https://news.ycombinator.com/item?id=48982578 Points: 20 # Comments: 7",
+        "description": "Article URL: https://dl.acm.org/doi/10.1145/3800646.3800650 Comments URL: https://news.ycombinator.com/item?id=48982578 Points: 32 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-07-20T18:10:17+00:00"
       },
       {
         "title": "Agent swarms and the new model economics",
         "link": "https://cursor.com/blog/agent-swarm-model-economics",
-        "description": "Article URL: https://cursor.com/blog/agent-swarm-model-economics Comments URL: https://news.ycombinator.com/item?id=48982535 Points: 26 # Comments: 12",
+        "description": "Article URL: https://cursor.com/blog/agent-swarm-model-economics Comments URL: https://news.ycombinator.com/item?id=48982535 Points: 58 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-07-20T18:06:13+00:00"
       },
@@ -115,30 +136,30 @@
         "published": "2026-07-20T17:58:50+00:00"
       },
       {
-        "title": "That post never existed. Stop listening to that thing",
-        "link": "https://rachelbythebay.com/w/2026/05/05/404/",
-        "description": "Article URL: https://rachelbythebay.com/w/2026/05/05/404/ Comments URL: https://news.ycombinator.com/item?id=48982374 Points: 81 # Comments: 68",
-        "source": "HackerNews",
-        "published": "2026-07-20T17:57:37+00:00"
-      },
-      {
         "title": "Hyprland 0.55 announced the switch to Lua for its config files",
         "link": "https://hypr.land/news/update55/",
-        "description": "Article URL: https://hypr.land/news/update55/ Comments URL: https://news.ycombinator.com/item?id=48982011 Points: 81 # Comments: 59",
+        "description": "Article URL: https://hypr.land/news/update55/ Comments URL: https://news.ycombinator.com/item?id=48982011 Points: 101 # Comments: 76",
         "source": "HackerNews",
         "published": "2026-07-20T17:31:57+00:00"
       },
       {
         "title": "Kimi Work",
         "link": "https://www.kimi.com/products/kimi-work",
-        "description": "Article URL: https://www.kimi.com/products/kimi-work Comments URL: https://news.ycombinator.com/item?id=48981703 Points: 139 # Comments: 67",
+        "description": "Article URL: https://www.kimi.com/products/kimi-work Comments URL: https://news.ycombinator.com/item?id=48981703 Points: 244 # Comments: 120",
         "source": "HackerNews",
         "published": "2026-07-20T17:13:23+00:00"
       },
       {
+        "title": "SpaceX in your index fund, explained",
+        "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+        "description": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion,...",
+        "source": "The Verge",
+        "published": "2026-07-20T17:12:45-04:00"
+      },
+      {
         "title": "Jelly UI: Soft-body physics for native HTML form controls",
         "link": "https://jelly-ui.com/",
-        "description": "Article URL: https://jelly-ui.com/ Comments URL: https://news.ycombinator.com/item?id=48981620 Points: 143 # Comments: 53",
+        "description": "Article URL: https://jelly-ui.com/ Comments URL: https://news.ycombinator.com/item?id=48981620 Points: 218 # Comments: 87",
         "source": "HackerNews",
         "published": "2026-07-20T17:07:39+00:00"
       },
@@ -148,6 +169,13 @@
         "description": "Akıllı telefon pazarında özellikle fiyat-performans odaklı ve yüksek batarya kapasiteli modelleriyle geniş bir kullanıcı kitlesine ulaşan Oppo, popüler “A” serisinde yepyeni bir sayfa açmaya hazırlanıyor. Küresel pazarlarda 15’ten fazla modeli...",
         "source": "ShiftDelete",
         "published": "2026-07-20T17:00:38+00:00"
+      },
+      {
+        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+        "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "description": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 176 # Comments: 129",
+        "source": "HackerNews",
+        "published": "2026-07-20T16:36:36+00:00"
       },
       {
         "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
@@ -234,13 +262,6 @@
         "published": "2026-07-20T15:15:00+00:00"
       },
       {
-        "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-        "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-        "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
-        "source": "TechCrunch",
-        "published": "2026-07-20T15:01:20+00:00"
-      },
-      {
         "title": "Standart iPhone 17 Yeterli mi Yoksa Pro Şart mı? iPhone 17 Uzun Kullanım Testi",
         "link": "https://shiftdelete.net/standart-iphone-17-yeterli-mi-yoksa-pro-sart-mi-3-aylik-kullanim-deneyimi",
         "description": "Her yeni iPhone serisi çıktığında tüketicilerin aklında tek bir soru beliriyor: Standart model günlük ihtiyaçları karşılamaya yetiyor mu, yoksa bütçeyi zorlayıp Pro modelini satın almak gerçekten fark yaratıyor mu? Özellikle günümüz ekonomik...",
@@ -274,20 +295,6 @@
         "description": "Chery Omoda 5 alınır mı? Tasarımı, teknik özellikleri, yakıt tüketimi, bagaj hacmi ve ikinci el fiyatları hakkında merak edilen tüm detayları bu içerikte bulabilirsiniz.",
         "source": "Webtekno",
         "published": "2026-07-20T14:48:29+03:00"
-      },
-      {
-        "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
-        "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
-        "source": "TechCrunch",
-        "published": "2026-07-20T14:30:00+00:00"
-      },
-      {
-        "title": "Xiaomi Mix Fold 5 HyperOS 4 ile İlk Kez Görüntülendi",
-        "link": "https://shiftdelete.net/xiaomi-mix-fold-5-hyperos-4-ile-ilk-kez-goruntulendi",
-        "description": "Xiaomi Mix Fold 5, HyperOS 4 ve Xring O3 işlemci ile görüntülendi. İşte yeni katlanabilir telefonun teknik özellikleri ve beklenen çıkış tarihi hakkında tüm detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-07-20T14:00:57+00:00"
       },
       {
         "title": "BİM'de Bu Hafta Satılacak Uygun Fiyatlı Teknolojik Ürünler",
@@ -339,13 +346,6 @@
         "published": "2026-07-20T11:04:05-04:00"
       },
       {
-        "title": "Electric air taxis go to war",
-        "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
-        "description": "Electric aviation is still in its infancy, but manufacturers are already looking beyond mere air taxi trips across cities. Today, one of the leading air taxi startups, San Jose-based Archer Aviation, unveiled a new aircraft it co-developed with...",
-        "source": "The Verge",
-        "published": "2026-07-20T10:45:46-04:00"
-      },
-      {
         "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
         "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
         "description": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI...",
@@ -359,7 +359,14 @@
         "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
         "description": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
         "source": "BBC News",
-        "published": "2026-07-20T19:44:56+00:00"
+        "published": "2026-07-20T21:34:17+00:00"
+      },
+      {
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+        "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+        "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+        "source": "BBC News",
+        "published": "2026-07-20T21:09:31+00:00"
       },
       {
         "title": "Chancellor Healey will be under pressure to deliver for armed forces",
@@ -374,13 +381,6 @@
         "description": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.",
         "source": "BBC News",
         "published": "2026-07-20T19:32:37+00:00"
-      },
-      {
-        "title": "Tate brothers appear in US court for extradition proceedings",
-        "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
-        "description": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
-        "source": "BBC News",
-        "published": "2026-07-20T19:05:50+00:00"
       },
       {
         "title": "Man, 28, charged with murder of Ann Widdecombe",
@@ -409,6 +409,13 @@
         "description": "Case against Ismael Zambada García, who helped co-found and lead the violent Sinaloa cartel, unfolded in New York The Mexican drug kingpin, Ismael Zambada García, known as “El Mayo”, was sentenced in a US federal court on Monday to life in prison,...",
         "source": "The Guardian",
         "published": "2026-07-20T15:58:42+00:00"
+      },
+      {
+        "title": "10 things that wowed us at the 2026 World Cup",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament",
+        "description": "The United States, Mexico, and Canada co-hosted the nearly six-week tournament. NPR's team of journalists who covered the World Cup reflects on the experience.",
+        "source": "NPR",
+        "published": "2026-07-20T15:56:44-04:00"
       },
       {
         "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
@@ -509,13 +516,6 @@
         "published": "2026-07-20T04:43:08-04:00"
       },
       {
-        "title": "Andy Burnham becomes U.K. prime minister",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
-        "description": "In a transition of power presided over by King Charles, Andy Burnham has replaced Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party.",
-        "source": "NPR",
-        "published": "2026-07-20T04:41:42-04:00"
-      },
-      {
         "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
         "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
         "description": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the coast of...",
@@ -567,6 +567,62 @@
     ],
     "turkiye": [
       {
+        "title": "Haluk Levent'ten cezaevinden 'veda' mektubu",
+        "link": "https://www.sozcu.com.tr/haluk-levent-ten-yeni-aciklama-20-temmuz-2026-p338229",
+        "description": "Haluk Levent'ten cezaevinden 'veda' mektubu",
+        "source": "Sözcü",
+        "published": "2026-07-21T00:35:07+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-temmuz-2026-1733818",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-21T00:30:00+03:00"
+      },
+      {
+        "title": "Jhon Duran’ın yeni adresi resmen açıklandı",
+        "link": "https://www.sozcu.com.tr/jhon-duran-in-yeni-adresi-resmen-aciklandi-p338245",
+        "description": "Jhon Duran’ın yeni adresi resmen açıklandı",
+        "source": "Sözcü",
+        "published": "2026-07-21T00:21:36+03:00"
+      },
+      {
+        "title": "Plastik atıklar jet yakıtına dönüşecek",
+        "link": "https://www.sozcu.com.tr/plastik-atiklar-jet-yakitina-donusecek-p338241",
+        "description": "Plastik atıklar jet yakıtına dönüşecek",
+        "source": "Sözcü",
+        "published": "2026-07-21T00:14:07+03:00"
+      },
+      {
+        "title": "ABD, İran'a karşı \"yeni bir saldırı dalgası\" başlattığını açıkladı",
+        "link": "https://www.sozcu.com.tr/abd-iran-a-karsi-yeni-bir-saldiri-dalgasi-baslattigini-acikladi-p338238",
+        "description": "ABD, İran'a karşı \"yeni bir saldırı dalgası\" başlattığını açıkladı",
+        "source": "Sözcü",
+        "published": "2026-07-21T00:06:53+03:00"
+      },
+      {
+        "title": "Dalgıçlar denizin dibinde buldu: 3 bin yıldır suyun altında kalmış",
+        "link": "https://www.sozcu.com.tr/dalgiclar-denizin-dibinde-buldu-3-bin-yildir-suyun-altinda-kalmis-p338232",
+        "description": "Dalgıçlar denizin dibinde buldu: 3 bin yıldır suyun altında kalmış",
+        "source": "Sözcü",
+        "published": "2026-07-20T23:43:40+03:00"
+      },
+      {
+        "title": "Galatasaray’da milli futbolcular çalışmalara başladı",
+        "link": "https://www.sozcu.com.tr/galatasaray-da-milli-futbolcular-calismalara-basladi-p338231",
+        "description": "Galatasaray’da milli futbolcular çalışmalara başladı",
+        "source": "Sözcü",
+        "published": "2026-07-20T23:31:41+03:00"
+      },
+      {
+        "title": "2026 FIFA Dünya Kupası’nın kaybedenleri",
+        "link": "https://www.sozcu.com.tr/2026-fifa-dunya-kupasi-nin-kaybedenleri-p338230",
+        "description": "2026 FIFA Dünya Kupası’nın kaybedenleri",
+        "source": "Sözcü",
+        "published": "2026-07-20T23:27:10+03:00"
+      },
+      {
         "title": "Üniversite tercihi öncesi kritik liste: İş bulma ihtimali en yüksek bölümler belli oldu",
         "link": "https://www.sozcu.com.tr/universite-tercihi-oncesi-kritik-liste-is-bulma-ihtimali-en-yuksek-bolumler-belli-oldu-p338225",
         "description": "Üniversite tercihi öncesi kritik liste: İş bulma ihtimali en yüksek bölümler belli oldu",
@@ -579,13 +635,6 @@
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, İngiltere Kralı 3. Charles'ın Cambridge Merkez Camisi'ne yaptığı ziyareti çok kıymetli bulduğunu belirterek, İslam karşıtlığı ve kültürel ırkçılığın küresel ölçekte tırmandığı bir dönemde Kral'ın ziyaretinin çok...",
         "source": "NTV",
         "published": "2026-07-20T23:02:38+03:00"
-      },
-      {
-        "title": "İsmail Yüksek'in kayınpederi'nden isyan: \"Evliliğini geçerli saymıyorum\"",
-        "link": "https://www.sozcu.com.tr/ismail-yuksek-in-kayinpederi-nden-isyan-evliligini-gecerli-saymiyorum-p338221",
-        "description": "İsmail Yüksek'in kayınpederi'nden isyan: \"Evliliğini geçerli saymıyorum\"",
-        "source": "Sözcü",
-        "published": "2026-07-20T22:51:25+03:00"
       },
       {
         "title": "Bakan Gürlek'in talimatıyla 81 ilde ‘Terör Suçları Soruşturma Büroları’ kurulacak",
@@ -602,13 +651,6 @@
         "published": "2026-07-20T22:45:03+03:00"
       },
       {
-        "title": "Cezaevlerinde peş peşe nakiller: İBB ve Gezi tutuklularına 'sürgün'",
-        "link": "https://www.sozcu.com.tr/ibb-tutuklularina-yeni-surgun-p338214",
-        "description": "Cezaevlerinde peş peşe nakiller: İBB ve Gezi tutuklularına 'sürgün'",
-        "source": "Sözcü",
-        "published": "2026-07-20T22:44:34+03:00"
-      },
-      {
         "title": "Fenerbahçe’de beklenmeyen ayrılık! İngiliz devi Archie Brown'un peşinde",
         "link": "https://www.sozcu.com.tr/fenerbahce-de-beklenmeyen-ayrilik-ingiliz-devi-archie-brown-un-pesinde-p338223",
         "description": "Fenerbahçe’de beklenmeyen ayrılık! İngiliz devi Archie Brown'un peşinde",
@@ -623,39 +665,11 @@
         "published": "2026-07-20T22:21:19+03:00"
       },
       {
-        "title": "Yaz sıcağına karşı doğal çözüm: Çatıların üzerine özel lifler sermeye başladılar",
-        "link": "https://www.sozcu.com.tr/yaz-sicagina-karsi-dogal-cozum-catilarin-uzerine-ozel-lifler-sermeye-basladilar-p338220",
-        "description": "Yaz sıcağına karşı doğal çözüm: Çatıların üzerine özel lifler sermeye başladılar",
-        "source": "Sözcü",
-        "published": "2026-07-20T22:13:29+03:00"
-      },
-      {
-        "title": "İran bu defa da Ürdün'e saldırdı",
-        "link": "https://www.sozcu.com.tr/iran-bu-defa-da-urdun-e-saldirdi-p338218",
-        "description": "İran bu defa da Ürdün'e saldırdı",
-        "source": "Sözcü",
-        "published": "2026-07-20T21:49:35+03:00"
-      },
-      {
-        "title": "Warner Bros'un 110 milyar dolarlık satışına mahkeme engeli",
-        "link": "https://www.sozcu.com.tr/warner-bros-un-110-milyar-dolarlik-satisina-mahkeme-engeli-p338215",
-        "description": "Warner Bros'un 110 milyar dolarlık satışına mahkeme engeli",
-        "source": "Sözcü",
-        "published": "2026-07-20T21:42:10+03:00"
-      },
-      {
-        "title": "Akaryakıt istasyonlarında yeni dönem: Lüks istasyonlar açacaklar",
-        "link": "https://www.sozcu.com.tr/akaryakit-istasyonlarinda-yeni-donem-luks-istasyonlar-acacaklar-p338217",
-        "description": "Akaryakıt istasyonlarında yeni dönem: Lüks istasyonlar açacaklar",
-        "source": "Sözcü",
-        "published": "2026-07-20T21:37:49+03:00"
-      },
-      {
-        "title": "Elif Buse Doğan’ın Malatya konserinde 'kayısı' yanıtı gündem oldu",
-        "link": "https://www.sozcu.com.tr/elif-buse-dogan-malatya-konseri-kayisi-yaniti-p338216",
-        "description": "Elif Buse Doğan’ın Malatya konserinde 'kayısı' yanıtı gündem oldu",
-        "source": "Sözcü",
-        "published": "2026-07-20T21:32:49+03:00"
+        "title": "ABD, İran'a yeni saldırılar başlattı: Trump'tan misilleme uyarısı",
+        "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
+        "description": "ABD ordusu, İran'ın Hürmüz Boğazı'ndaki gemilere saldırma gücünü \"daha da zayıflatmak\" amacıyla İran'a yönelik yeni hava saldırılarına başladığını açıkladı.",
+        "source": "BBC Turkish",
+        "published": "2026-07-20T21:25:41+00:00"
       },
       {
         "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Kıbrıs hiçbir zaman bir Rum adası olmayacaktır",
@@ -670,13 +684,6 @@
         "description": "Eski İşçi Partisi lideri Ed Miliband, Andy Burnham hükümetinde Dışişleri Bakanlığı görevine getirilmesini “hayatının en büyük onuru” olarak nitelendirdi",
         "source": "BBC Turkish",
         "published": "2026-07-20T19:54:26+00:00"
-      },
-      {
-        "title": "Futbolda bahis şikesi soruşturmasında gözaltına alınan 9 kulüp yöneticisi hakkında ev hapsi kararı",
-        "link": "https://www.bbc.com/turkce/articles/c89nw9evzj9o?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye Futbol Federasyonu'na (TFF) bağlı profesyonel liglerde görev yapan 19 kulüp yöneticisi yasa dışı bahis soruşturması kapsamında gözaltına alındı",
-        "source": "BBC Turkish",
-        "published": "2026-07-20T19:23:24+00:00"
       },
       {
         "title": "Andy Burnham İngiltere başbakanı oldu",
@@ -719,13 +726,6 @@
         "description": "Rusya karasularında drone saldırılarında hasar gören Panama bandıralı gemi, Türk karasularına demirledi.",
         "source": "NTV",
         "published": "2026-07-20T15:55:13+03:00"
-      },
-      {
-        "title": "Terörsüz Türkiye süreci | Çerçeve yasa ne zaman gelecek? AK Partili Usta'dan açıklama",
-        "link": "https://www.ntv.com.tr/turkiye/terorsuz-turkiye-sureci-cerceve-yasa-ne-zaman-gelecek-ak-partili-ustadan-aciklama-1733786",
-        "description": "AK Parti Grup Başkanvekili Leyla Şahin Usta, Meclis'in temmuz sonu veya ağustos başı tatile girmesinin planlandığını söyledi. Usta, terörsüz Türkiye süreci kapsamındaki yasal düzenlemeler için Meclis'in olağanüstü toplantıya çağrılabileceğini de...",
-        "source": "NTV",
-        "published": "2026-07-20T15:43:48+03:00"
       },
       {
         "title": "Ukrayna'da askere gitmek istemeyenler ve şiddet olayları: 'Herkes ölmekten korkuyor'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.875
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+79°F",
-    "wind": "→3mph",
-    "humidity": "49%"
+    "condition": "Kapalı",
+    "temp": "+86°F",
+    "wind": "↖3mph",
+    "humidity": "66%"
   }
 }
