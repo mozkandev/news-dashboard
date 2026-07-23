@@ -1,13 +1,104 @@
 {
-  "updated_at": "2026-07-23T18:16:30.372834+00:00",
+  "updated_at": "2026-07-23T19:55:08.518291+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+        "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
+        "description": "Meta has made significant investments in natural gas over the past year. Now, it's dropping out of an industry renewable energy group.",
+        "source": "TechCrunch",
+        "published": "2026-07-23T19:41:54+00:00"
+      },
+      {
+        "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+        "link": "https://news.ycombinator.com/item?id=49026810",
+        "description": "I’ve been building Echo ( https://echo.tracerml.ai/ ), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task. It started with a simple experiment. I took a group of...",
+        "source": "HackerNews",
+        "published": "2026-07-23T19:26:01+00:00"
+      },
       {
         "title": "FC 27 Türkiye Fiyatları Açıklandı",
         "link": "\n                    https://www.webtekno.com/fc-27-turkiye-fiyatlari-h220958.html\n                    ",
         "description": "EA'in merakla beklenen oyunu FC 27, duyuru fragmanının ardından ön siparişe açıldı. İşte FC 27 Türkiye fiyatları!",
         "source": "Webtekno",
         "published": "2026-07-23T19:18:39+03:00"
+      },
+      {
+        "title": "Xbox Bulut Oyunculuğunda Yeni Dönem: Ücretsiz ve Reklamlı Model Test Ediliyor",
+        "link": "https://shiftdelete.net/xbox-bulut-oyunculugunda-yeni-donem-ucretsiz-ve-reklamli-model-test-ediliyor",
+        "description": "Microsoft, bulut oyunculuğu pazarındaki iddiasını artırmak ve oyuncu kitlesini genişletmek amacıyla Xbox Cloud Gaming servisi için tamamen ücretsiz, ancak reklam destekli yeni bir seçeneği test etmeye başlıyor. 23 Temmuz 2026 tarihi itibarıyla Xbox...",
+        "source": "ShiftDelete",
+        "published": "2026-07-23T19:00:44+00:00"
+      },
+      {
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "source": "TechCrunch",
+        "published": "2026-07-23T19:00:00+00:00"
+      },
+      {
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+        "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+        "source": "TechCrunch",
+        "published": "2026-07-23T18:38:34+00:00"
+      },
+      {
+        "title": "AMD, Yapay Zeka Yarışında Vites Yükseltiyor: Karşınızda AMD Helios Rackscale",
+        "link": "https://shiftdelete.net/amd-yapay-zeka-yarisinda-vites-yukseltiyor-karsinizda-amd-helios-rackscale",
+        "description": "Yapay zeka teknolojilerinin hızla gelişmesi ve devasa parametreli yapay zeka modellerinin hayatımıza girmesi, veri merkezlerinin işlem gücü ihtiyacını benzeri görülmemiş bir seviyeye çıkarıyor. Donanım devi AMD, düzenlediği Advancing AI 2026...",
+        "source": "ShiftDelete",
+        "published": "2026-07-23T18:33:46+00:00"
+      },
+      {
+        "title": "AMD Otonom Robotlar için Kria AI Platformunu Duyurdu",
+        "link": "https://shiftdelete.net/amd-otonom-robotlar-icin-kria-ai-platformunu-duyurdu",
+        "description": "AMD, Advancing AI 2026 etkinliginde fiziki yapay zeka ve otonom robotik sistemlerin geleceğini şekillendirecek yeni AMD Kria AI çözümlerini tanıttı. Ryzen AI Embedded X100 serisi işlemcilerden güç alan bu yeni nesil sistemler, robotların sadece kas...",
+        "source": "ShiftDelete",
+        "published": "2026-07-23T18:32:32+00:00"
+      },
+      {
+        "title": "AMD’den Fiziksel Yapay Zeka Devrimi: Ryzen AI Embedded X100 Serisi Tanıtıldı",
+        "link": "https://shiftdelete.net/amdden-fiziksel-yapay-zeka-devrimi-ryzen-ai-embedded-x100-serisi-tanitildi",
+        "description": "AMD, robotik sistemlerden endüstriyel otomasyona kadar birçok alanda dengeleri değiştirecek yeni işlemci ailesi Ryzen AI Embedded X100 serisini resmi olarak duyurdu. Fiziksel yapay zeka (Physical AI) ve gerçek zamanlı gömülü sistemler için...",
+        "source": "ShiftDelete",
+        "published": "2026-07-23T18:31:13+00:00"
+      },
+      {
+        "title": "AMD Agentic AI Çağını Başlatıyor: 6. Nesil EPYC 9006 Serisi Tanıtıldı",
+        "link": "https://shiftdelete.net/amd-agentic-ai-cagini-baslatiyor-6-nesil-epyc-9006-serisi-tanitildi",
+        "description": "Ajan tabanlı yapay zeka (Agentic AI) sistemlerinin hızla yaygınlaşması, modern veri merkezlerinin mimari yapısını baştan aşağı değiştiriyor. Yalnızca sorulara yanıt veren geleneksel modellerin aksine; karar alan, kod yazan, araçları tetikleyen ve...",
+        "source": "ShiftDelete",
+        "published": "2026-07-23T18:30:56+00:00"
+      },
+      {
+        "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
+        "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
+        "description": "Article URL: https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/ Comments URL: https://news.ycombinator.com/item?id=49026059 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-23T18:29:22+00:00"
+      },
+      {
+        "title": "Building on ATProto",
+        "link": "https://lukekanies.com/writing/building-on-atproto/",
+        "description": "Article URL: https://lukekanies.com/writing/building-on-atproto/ Comments URL: https://news.ycombinator.com/item?id=49025984 Points: 51 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-07-23T18:23:50+00:00"
+      },
+      {
+        "title": "A solid-state “atomic channel” for separating rare earth elements",
+        "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+        "description": "Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements Comments URL: https://news.ycombinator.com/item?id=49025831 Points: 23 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-23T18:13:03+00:00"
+      },
+      {
+        "title": "Geekbench 7",
+        "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
+        "description": "Article URL: https://www.geekbench.com/blog/2026/07/geekbench-7/ Comments URL: https://news.ycombinator.com/item?id=49025812 Points: 16 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-07-23T18:11:46+00:00"
       },
       {
         "title": "[23-30 Temmuz] 317 TL Değerindeki Oyun Epic Games'te Bu Hafta Ücretsiz Oldu",
@@ -61,7 +152,7 @@
       {
         "title": "Show HN: Claude-thermos – keeps your Claude session warm for you",
         "link": "https://github.com/izeigerman/claude-thermos",
-        "description": "Article URL: https://github.com/izeigerman/claude-thermos Comments URL: https://news.ycombinator.com/item?id=49024882 Points: 6 # Comments: 2",
+        "description": "Article URL: https://github.com/izeigerman/claude-thermos Comments URL: https://news.ycombinator.com/item?id=49024882 Points: 26 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-07-23T17:06:22+00:00"
       },
@@ -87,6 +178,13 @@
         "published": "2026-07-23T17:00:49+03:00"
       },
       {
+        "title": "10.100 mAh Bataryalı Yeni Honor Pad X9 Max Tanıtıldı",
+        "link": "https://shiftdelete.net/10-100-mah-bataryali-yeni-honor-pad-x9-max-tanitildi",
+        "description": "Honor, tablet pazarındaki iddiasını yeni modellerle sürdürüyor. 2023 yılında piyasaya sürülen standart Honor Pad X9 ve ardından gelen X9a modelinden sonra, seri bitti diye düşünülürken marka büyük bir sürpriz yapıyor. Şirket, İngiltere’de...",
+        "source": "ShiftDelete",
+        "published": "2026-07-23T17:00:40+00:00"
+      },
+      {
         "title": "OpenAI makes ChatGPT Health available to all US users",
         "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
         "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
@@ -96,7 +194,7 @@
       {
         "title": "What happened to TheNumbers.com",
         "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "description": "Article URL: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all Comments URL: https://news.ycombinator.com/item?id=49024691 Points: 85 # Comments: 14",
+        "description": "Article URL: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all Comments URL: https://news.ycombinator.com/item?id=49024691 Points: 156 # Comments: 58",
         "source": "HackerNews",
         "published": "2026-07-23T16:53:33+00:00"
       },
@@ -110,12 +208,12 @@
       {
         "title": "The arguments against open source AI are bad",
         "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-        "description": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 37 # Comments: 8",
+        "description": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 88 # Comments: 59",
         "source": "HackerNews",
         "published": "2026-07-23T16:49:57+00:00"
       },
       {
-        "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+        "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
         "link": "https://news.ycombinator.com/item?id=49024620",
         "description": "Hi Hacker News, I'm Louis. I built Screenpipe ( https://screenpipe.com ), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you've seen, said, and heard. This makes it easier to automate your...",
         "source": "HackerNews",
@@ -159,7 +257,7 @@
       {
         "title": "JEP 540: Simple JSON API (Now in Incubator)",
         "link": "https://openjdk.org/jeps/540",
-        "description": "Article URL: https://openjdk.org/jeps/540 Comments URL: https://news.ycombinator.com/item?id=49023809 Points: 46 # Comments: 30",
+        "description": "Article URL: https://openjdk.org/jeps/540 Comments URL: https://news.ycombinator.com/item?id=49023809 Points: 62 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-07-23T16:01:02+00:00"
       },
@@ -171,39 +269,11 @@
         "published": "2026-07-23T16:00:54+00:00"
       },
       {
-        "title": "Free way to get your data out of ChatGPT Business accounts",
-        "link": "https://github.com/Conradqh/scrapemychats",
-        "description": "Article URL: https://github.com/Conradqh/scrapemychats Comments URL: https://news.ycombinator.com/item?id=49023486 Points: 42 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-07-23T15:45:51+00:00"
-      },
-      {
-        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-        "link": "https://github.com/onecli/onecli",
-        "description": "hey HN, Jonathan and Guy here, creators of OneCLI ( https://onecli.sh/ ). OneCLI is an open source vault for AI Agents. Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to...",
-        "source": "HackerNews",
-        "published": "2026-07-23T15:42:40+00:00"
-      },
-      {
-        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-        "description": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md Comments URL: https://news.ycombinator.com/item?id=49023019 Points: 30 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-07-23T15:18:48+00:00"
-      },
-      {
-        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-        "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-        "description": "https://littletech.org/ https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 367 # Comments: 363",
-        "source": "HackerNews",
-        "published": "2026-07-23T15:18:40+00:00"
-      },
-      {
-        "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
-        "link": "https://github.com/palmier-io/palmier-pro",
-        "description": "Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https://palmier.io ). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos: -...",
-        "source": "HackerNews",
-        "published": "2026-07-23T15:11:37+00:00"
+        "title": "Patreon is laying off 20 percent of workers",
+        "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+        "description": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but...",
+        "source": "The Verge",
+        "published": "2026-07-23T15:15:07-04:00"
       },
       {
         "title": "Elif Buse Doğan’ın Telefonunda Ne Var? – Okunmayan DM’ler, Borsa ve Yapay Zeka!",
@@ -220,46 +290,11 @@
         "published": "2026-07-23T15:00:00+00:00"
       },
       {
-        "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
-        "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
-        "description": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
-        "source": "TechCrunch",
-        "published": "2026-07-23T15:00:00+00:00"
-      },
-      {
-        "title": "Nvidia is sending GPUs to the moon",
-        "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-        "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-        "source": "TechCrunch",
-        "published": "2026-07-23T15:00:00+00:00"
-      },
-      {
-        "title": "Google’s Gemini nears billion-user milestone",
-        "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-        "description": "Gemini had over 750 million monthly users in February.",
-        "source": "TechCrunch",
-        "published": "2026-07-23T14:52:44+00:00"
-      },
-      {
-        "title": "Paramount’un 111 Milyar Dolarlık Satın Alımında Avrupa Engeli Kalktı",
-        "link": "https://shiftdelete.net/paramountun-111-milyar-dolarlik-satin-aliminda-avrupa-engeli-kalkti",
-        "description": "Avrupa Birliği, Paramount'un Warner Bros. Discovery'yi satın almasına şartlı onay verdi. İşte dev birleşmenin detayları ve karşılaştığı yasal engeller.",
-        "source": "ShiftDelete",
-        "published": "2026-07-23T14:00:00+00:00"
-      },
-      {
-        "title": "Apple’ın İki Yıllık Mac Yol Haritası Sızdırıldı",
-        "link": "https://shiftdelete.net/applein-iki-yillik-mac-yol-haritasi-sizdirildi",
-        "description": "Apple, önümüzdeki iki yılı kapsayan devasa bir Mac ürün yelpazesi güncellemesine hazırlanıyor. Bloomberg’den gelen son sızıntılara göre teknoloji devi, bu yılın sonuna kadar yeni nesil M6 çipinden güç alan giriş seviyesi MacBook Pro ve iMac...",
-        "source": "ShiftDelete",
-        "published": "2026-07-23T13:55:40+00:00"
-      },
-      {
-        "title": "Sony FX5 Tanıtıldı: Devrim Yaratan Sensörüyle Yeni Sinema Canavarı",
-        "link": "https://shiftdelete.net/sony-fx5-tanitildi-devrim-yaratan-sensoruyle-yeni-sinema-canavari",
-        "description": "Japon teknoloji devi Sony, sinema kameraları serisine yepyeni bir soluk getiren FX5 modelini resmi olarak teknoloji tutkunlarının beğenisine sunuyor. Kompakt yapısıyla dikkat çeken Cinema Line serisinin en yeni üyesi, özellikle içerik üreticilerinin...",
-        "source": "ShiftDelete",
-        "published": "2026-07-23T13:45:33+00:00"
+        "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
+        "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+        "description": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are capped at one hour. However, ads will only play...",
+        "source": "The Verge",
+        "published": "2026-07-23T14:22:27-04:00"
       },
       {
         "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
@@ -267,20 +302,6 @@
         "description": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Amazon Game Studios, and Luna now combined into one...",
         "source": "The Verge",
         "published": "2026-07-23T13:39:00-04:00"
-      },
-      {
-        "title": "WhatsApp Android Auto için Gelişmiş Destek Sunmaya Başladı",
-        "link": "https://shiftdelete.net/whatsapp-android-auto-icin-gelismis-destek-sunmaya-basladi",
-        "description": "WhatsApp, Android Auto için güncellendi! Artık sesli komutlarla arama yapabilir, favorilerinize ulaşabilir ve sürüş esnasında daha güvenli bir iletişim deneyimi yaşayabilirsiniz.",
-        "source": "ShiftDelete",
-        "published": "2026-07-23T13:30:03+00:00"
-      },
-      {
-        "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
-        "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
-        "description": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are capped at one hour. However, ads will only play...",
-        "source": "The Verge",
-        "published": "2026-07-23T13:22:59-04:00"
       },
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
@@ -297,13 +318,6 @@
         "published": "2026-07-23T13:09:31-04:00"
       },
       {
-        "title": "Xiaomi’den Yeni Hava Temizleyici ve Nemlendirici: Mijia Purifying Humidifier 3 Pro",
-        "link": "https://shiftdelete.net/xiaomiden-yeni-hava-temizleyici-ve-nemlendirici-mijia-purifying-humidifier-3-pro",
-        "description": "Xiaomi, hava temizleme ve nemlendirme özelliklerini birleştiren Mijia Purifying Humidifier 3 Pro modelini tanıttı. İşte cihazın özellikleri ve fiyatı.",
-        "source": "ShiftDelete",
-        "published": "2026-07-23T13:00:00+00:00"
-      },
-      {
         "title": "Corsair’s PC case with a panoramic glass design is $70 off",
         "link": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
         "description": "On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The versatile case supports motherboards up to EATX,...",
@@ -311,18 +325,18 @@
         "published": "2026-07-23T12:59:23-04:00"
       },
       {
+        "title": "Claude’s voice mode is now available for Opus and Sonnet",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "description": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva....",
+        "source": "The Verge",
+        "published": "2026-07-23T12:46:12-04:00"
+      },
+      {
         "title": "The new Halo remake is a reminder of what Xbox used to be",
         "link": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
         "description": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensive layoffs, decimated studios, and confusing strategies, most of which...",
         "source": "The Verge",
         "published": "2026-07-23T12:43:08-04:00"
-      },
-      {
-        "title": "Range Rover Ailesi Genişliyor: İşte Yeni Range Rover GT",
-        "link": "https://shiftdelete.net/range-rover-ailesi-genisliyor-iste-yeni-range-rover-gt",
-        "description": "Range Rover, SUV konforu ile grand tourer tasarımını birleştiren yeni elektrikli modeli Range Rover GT'yi resmen duyurdu.",
-        "source": "ShiftDelete",
-        "published": "2026-07-23T12:30:00+00:00"
       },
       {
         "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
@@ -337,23 +351,16 @@
         "description": "There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigned software that aims to make it easier to finding something you’ll...",
         "source": "The Verge",
         "published": "2026-07-23T10:42:24-04:00"
-      },
-      {
-        "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and...",
-        "source": "The Verge",
-        "published": "2026-07-23T10:13:35-04:00"
-      },
-      {
-        "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with...",
-        "source": "The Verge",
-        "published": "2026-07-23T09:55:07-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Burnham pauses plan to release some prisoners early from September",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says no prisoners will be released until a review has been conducted.",
+        "source": "BBC News",
+        "published": "2026-07-23T18:17:54+00:00"
+      },
       {
         "title": "Saudis must recognise Israel for nuclear deal, says Trump",
         "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
@@ -362,25 +369,11 @@
         "published": "2026-07-23T17:58:02+00:00"
       },
       {
-        "title": "Burnham tells Swinney independence is 'off limits' at Glasgow Commonwealth Games meeting",
-        "link": "https://www.bbc.co.uk/news/articles/c8xnq7qyr7ro?at_medium=RSS&at_campaign=rss",
-        "description": "The heads of the UK, Scottish and Welsh governments came together ahead of the opening of the Glasgow Commonwealth Games.",
-        "source": "BBC News",
-        "published": "2026-07-23T17:49:23+00:00"
-      },
-      {
         "title": "Mum and daughter who died at beach were trying to save boy, 7",
         "link": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss",
         "description": "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say.",
         "source": "BBC News",
         "published": "2026-07-23T17:23:21+00:00"
-      },
-      {
-        "title": "France evacuates 20,000 as wildfires spread in south-west",
-        "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-        "description": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-        "source": "BBC News",
-        "published": "2026-07-23T16:41:52+00:00"
       },
       {
         "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
@@ -404,7 +397,7 @@
         "published": "2026-07-23T15:31:00+00:00"
       },
       {
-        "title": "Haigh, Rayner and Powell likely to regularly work from No 10 North",
+        "title": "Senior ministers and aides set to work from No 10 North",
         "link": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&at_campaign=rss",
         "description": "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months.",
         "source": "BBC News",
@@ -451,6 +444,13 @@
         "description": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war.",
         "source": "NPR",
         "published": "2026-07-23T13:35:02-04:00"
+      },
+      {
+        "title": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
+        "link": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
+        "description": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
+        "source": "BBC News",
+        "published": "2026-07-23T13:05:01+00:00"
       },
       {
         "title": "In a first, Chinese woman wins the prestigious Fields Medal",
@@ -502,16 +502,16 @@
         "published": "2026-07-23T06:55:44-04:00"
       },
       {
-        "title": "DOT cranks up its campaign to strip bike lane references from federal websites",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
-        "description": "Transportation officials have removed a growing list of safety materials that mention bike lanes from federal websites. Safety advocates warn that's undermining proven measures for reducing crashes.",
+        "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
+        "link": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
+        "description": "The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Trump.",
         "source": "NPR",
         "published": "2026-07-23T05:00:00-04:00"
       },
       {
-        "title": "Amid a big hiring push, police experts question ICE officer vetting",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting",
-        "description": "The recent fatal shootings by ICE officers in Texas and Maine come at a time when the federal agency has hired a huge number of officers quickly. Some law enforcement experts worry that this kind of a hiring spree can lead police agencies to cut...",
+        "title": "DOT cranks up its campaign to strip bike lane references from federal websites",
+        "link": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
+        "description": "Transportation officials have removed a growing list of safety materials that mention bike lanes from federal websites. Safety advocates warn that's undermining proven measures for reducing crashes.",
         "source": "NPR",
         "published": "2026-07-23T05:00:00-04:00"
       },
@@ -567,11 +567,60 @@
     ],
     "turkiye": [
       {
-        "title": "Özgür Özel'in 'yeni parti'si için 90'ı aşkın vekil imza verdi",
-        "link": "https://www.sozcu.com.tr/yeni-parti-icin-90-imza-p339189",
-        "description": "Özgür Özel'in 'yeni parti'si için 90'ı aşkın vekil imza verdi",
+        "title": "560 tanesi birden bulundu: Hepsi tek bir amaç için yerleştirilmiş",
+        "link": "https://www.sozcu.com.tr/560-tanesi-birden-bulundu-hepsi-tek-bir-amac-icin-yerlestirilmis-p339210",
+        "description": "560 tanesi birden bulundu: Hepsi tek bir amaç için yerleştirilmiş",
         "source": "Sözcü",
-        "published": "2026-07-23T21:11:34+03:00"
+        "published": "2026-07-23T22:45:10+03:00"
+      },
+      {
+        "title": "İran’dan ABD’ye misilleme saldırısı",
+        "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-misilleme-saldirisi-p339207",
+        "description": "İran’dan ABD’ye misilleme saldırısı",
+        "source": "Sözcü",
+        "published": "2026-07-23T22:23:32+03:00"
+      },
+      {
+        "title": "Efsane saksafoncu Plas Johnson hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/pembe-panter-plas-johnson-hayatini-kaybetti-p339205",
+        "description": "Efsane saksafoncu Plas Johnson hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-07-23T22:19:17+03:00"
+      },
+      {
+        "title": "Tek seferde 10 bin 800 araç taşıyabiliyor: Dünyanın en büyüğü suya indirildi",
+        "link": "https://www.sozcu.com.tr/tek-seferde-10-bin-800-arac-tasiyabiliyor-dunyanin-en-buyugu-suya-indirildi-p339206",
+        "description": "Tek seferde 10 bin 800 araç taşıyabiliyor: Dünyanın en büyüğü suya indirildi",
+        "source": "Sözcü",
+        "published": "2026-07-23T22:15:05+03:00"
+      },
+      {
+        "title": "Profesör Hilmi Demir hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/profesor-hilmi-demir-hayatini-kaybetti-p339202",
+        "description": "Profesör Hilmi Demir hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-07-23T21:39:27+03:00"
+      },
+      {
+        "title": "Türkiye ile Suriye arasında kültür merkezlerine ilişkin anlaşma imzalandı",
+        "link": "https://www.ntv.com.tr/turkiye/turkiye-ile-suriye-arasinda-kultur-merkezlerine-iliskin-anlasma-imzalandi-1734267",
+        "description": "Türkiye ile Suriye arasında, iki ülkede kültür merkezlerinin kurulmasını, işleyişini ve faaliyetlerini düzenleyen anlaşma imzalandı.",
+        "source": "NTV",
+        "published": "2026-07-23T21:35:36+03:00"
+      },
+      {
+        "title": "Bu garip kızıl kayalar, zamanın bile dokunamadığı şeyler saklamış",
+        "link": "https://www.sozcu.com.tr/bu-garip-kizil-kayalar-zamanin-bile-dokunamadigi-seyler-saklamis-p339201",
+        "description": "Bu garip kızıl kayalar, zamanın bile dokunamadığı şeyler saklamış",
+        "source": "Sözcü",
+        "published": "2026-07-23T21:22:46+03:00"
+      },
+      {
+        "title": "Galatasaray'da kamp kadrosu açıklandı! Büyük sürpriz var",
+        "link": "https://www.sozcu.com.tr/galatasaray-da-kamp-kadrosu-aciklandi-buyuk-surpriz-var-p339200",
+        "description": "Galatasaray'da kamp kadrosu açıklandı! Büyük sürpriz var",
+        "source": "Sözcü",
+        "published": "2026-07-23T21:17:38+03:00"
       },
       {
         "title": "Yarkadaş'ın sözlerine Mansur Yavaş'tan 'Kılıçdaroğlu' yanıtı: Böyle bir şey olmadı",
@@ -595,46 +644,18 @@
         "published": "2026-07-23T20:48:55+03:00"
       },
       {
-        "title": "Denize yüzlerce litre zeytinyağı dökmelerinin bir sebebi varmış",
-        "link": "https://www.sozcu.com.tr/denize-yuzlerce-litre-zeytinyagi-dokmelerinin-bir-sebebi-varmis-p339193",
-        "description": "Denize yüzlerce litre zeytinyağı dökmelerinin bir sebebi varmış",
-        "source": "Sözcü",
-        "published": "2026-07-23T20:35:06+03:00"
+        "title": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet dahil 20 kişi tutuklandı",
+        "link": "https://www.bbc.com/turkce/articles/c2dkl2pgyn0o?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında İzmit Belediye Başkanı Fatma Kaplan Hürriyet ile eşi Murat Hürriyet'in de aralarında bulunduğu 20 kişi tutuklandı.",
+        "source": "BBC Turkish",
+        "published": "2026-07-23T19:18:31+00:00"
       },
       {
-        "title": "Denize girme yasağına uymadı, hayatını kaybetti",
-        "link": "https://www.sozcu.com.tr/denize-girme-yasagina-uymadi-hayatini-kaybetti-p339195",
-        "description": "Denize girme yasağına uymadı, hayatını kaybetti",
-        "source": "Sözcü",
-        "published": "2026-07-23T20:34:23+03:00"
-      },
-      {
-        "title": "Kemal Kılıçdaroğlu: CHP'nin içindeki tartışmalar beni ilgilendirmiyor",
-        "link": "https://www.sozcu.com.tr/kemal-kilicdaroglu-yeni-parti-aciklamasi-23-temmuz-2026-p339185",
-        "description": "Kemal Kılıçdaroğlu: CHP'nin içindeki tartışmalar beni ilgilendirmiyor",
-        "source": "Sözcü",
-        "published": "2026-07-23T20:15:14+03:00"
-      },
-      {
-        "title": "40 yaşındaki Modric, Milan ile sözleşme uzattı",
-        "link": "https://www.sozcu.com.tr/40-yasindaki-modric-milan-ile-sozlesme-uzatti-p339191",
-        "description": "40 yaşındaki Modric, Milan ile sözleşme uzattı",
-        "source": "Sözcü",
-        "published": "2026-07-23T19:58:30+03:00"
-      },
-      {
-        "title": "Moda akımı kabusa dönüştü: Bu pantolonu giyen yere düşüyor",
-        "link": "https://www.sozcu.com.tr/moda-akimi-kabusa-donustu-bu-pantolonu-giyen-yere-dusuyor-p339186",
-        "description": "Moda akımı kabusa dönüştü: Bu pantolonu giyen yere düşüyor",
-        "source": "Sözcü",
-        "published": "2026-07-23T19:43:00+03:00"
-      },
-      {
-        "title": "18 kilometrelik tünelin içine gökyüzü yaptılar",
-        "link": "https://www.sozcu.com.tr/18-kilometrelik-tunelin-icine-gokyuzu-yaptilar-p339188",
-        "description": "18 kilometrelik tünelin içine gökyüzü yaptılar",
-        "source": "Sözcü",
-        "published": "2026-07-23T19:42:58+03:00"
+        "title": "Trump: Nükleer anlaşma için Suudiler İsrail'i tanımalı",
+        "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Başkanı Donald Trump, ülkesi ile Suudi Arabistan arasındaki tarihi nükleer anlaşmanın, Riyad'ın İsrail'i tanımasına bağlı olduğunu duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-07-23T19:08:58+00:00"
       },
       {
         "title": "Dışişleri'nden İsrail'e Mescid-i Aksa tepkisi",
@@ -672,13 +693,6 @@
         "published": "2026-07-23T16:11:49+03:00"
       },
       {
-        "title": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet için tutuklama talebi",
-        "link": "https://www.bbc.com/turkce/articles/c2dkl2pgyn0o?at_medium=RSS&at_campaign=rss",
-        "description": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında İzmit Belediye Başkanı Fatma Kaplan Hürriyet ile eşi Murat Hürriyet'in de aralarında olduğu 21 kişi tutuklama talebiyle hakimliğe sevk edildi.",
-        "source": "BBC Turkish",
-        "published": "2026-07-23T16:08:10+00:00"
-      },
-      {
         "title": "Akaryakıt istasyonunda kanlı tartışma: Gurbetçi dehşet saçtı",
         "link": "https://www.ntv.com.tr/turkiye/video-akaryakit-istasyonunda-kanli-tartisma-gurbetci-dehset-sacti-1734249",
         "description": "Bolu'nun Dörtdivan ilçesinde TEM Otoyolu üzerinde bulunan bir akaryakıt istasyonunda çıkan tartışmada gurbetçi bir sürücü, 2 kardeşi tabancayla bacaklarından vurarak yaraladı. Silahlı şüpheli, jandarma ekipleri tarafından kıskıvrak yakalandı.",
@@ -714,25 +728,11 @@
         "published": "2026-07-23T15:51:10+03:00"
       },
       {
-        "title": "Kuyumcu kuryesi 380 gram altınla sır oldu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kuyumcu-kuryesi-380-gram-altinla-sir-oldu-1734237",
-        "description": "İstanbul'da bir kuyumcuda kurye olarak çalışan Deniz Beşli, 380 gram altınla kayboldu. Beşli'nin motosikleti terk edilmiş halde bulundu.",
-        "source": "NTV",
-        "published": "2026-07-23T15:11:36+03:00"
-      },
-      {
         "title": "Zenginleştirilmiş uranyum nedir, ABD-Suudi Arabistan nükleer anlaşmasında neden tartışma yaratıyor?",
         "link": "https://www.bbc.com/turkce/articles/c89n7kp0jgdo?at_medium=RSS&at_campaign=rss",
         "description": "ABD ile Suudi Arabistan, Körfez ülkesinin kendi topraklarında uranyum zenginleştirmesine izin verebileceği bildirilen tarihi bir anlaşmaya imza attı. Peki uranyum zenginleştirme nedir ve neden tartışılıyor?",
         "source": "BBC Turkish",
         "published": "2026-07-23T14:44:38+00:00"
-      },
-      {
-        "title": "Trump: Nükleer anlaşma için Suudiler İsrail'i tanımalı",
-        "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Başkanı Donald Trump, ülkesi ile Suudi Arabistan arasındaki tarihi nükleer anlaşmanın, Riyad'ın İsrail'i tanımasına bağlı olduğunu duyurdu.",
-        "source": "BBC Turkish",
-        "published": "2026-07-23T14:05:06+00:00"
       },
       {
         "title": "Merkez Bankası politika faizini değiştirmedi, ekonomistler nasıl yorumladı?",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Parçalı bulutlu",
-    "temp": "+74°F",
-    "wind": "←7mph",
-    "humidity": "36%"
+    "temp": "+76°F",
+    "wind": "←8mph",
+    "humidity": "35%"
   }
 }
