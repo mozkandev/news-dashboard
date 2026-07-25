@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-07-25T20:10:11.145142+00:00",
+  "updated_at": "2026-07-25T21:24:28.348922+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+        "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+        "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+        "source": "TechCrunch",
+        "published": "2026-07-25T20:55:11+00:00"
+      },
+      {
+        "title": "The hacker who humiliated spyware makers and was never caught",
+        "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+        "description": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+        "source": "TechCrunch",
+        "published": "2026-07-25T20:24:14+00:00"
+      },
       {
         "title": "God of War Laufey için Çıkış Tarihi Belli Oldu",
         "link": "https://shiftdelete.net/god-of-war-laufey-icin-cikis-tarihi-belli-oldu",
@@ -10,16 +24,9 @@
         "published": "2026-07-25T20:00:00+00:00"
       },
       {
-        "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-        "link": "https://github.com/lucid-fabrics/proxmox-bluetooth",
-        "description": "Article URL: https://github.com/lucid-fabrics/proxmox-bluetooth Comments URL: https://news.ycombinator.com/item?id=49050824 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-25T19:41:07+00:00"
-      },
-      {
         "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
         "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-        "description": "Article URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/ Comments URL: https://news.ycombinator.com/item?id=49050735 Points: 6 # Comments: 0",
+        "description": "Article URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/ Comments URL: https://news.ycombinator.com/item?id=49050735 Points: 48 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-07-25T19:30:24+00:00"
       },
@@ -33,7 +40,7 @@
       {
         "title": "The growing vigilante movement to knock out Flock surveillance cameras",
         "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-        "description": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras Comments URL: https://news.ycombinator.com/item?id=49050538 Points: 25 # Comments: 4",
+        "description": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras Comments URL: https://news.ycombinator.com/item?id=49050538 Points: 81 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-07-25T19:02:17+00:00"
       },
@@ -47,9 +54,16 @@
       {
         "title": "Tile's security is so bad it's a feature for stalkers",
         "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-        "description": "Article URL: https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/ Comments URL: https://news.ycombinator.com/item?id=49050152 Points: 61 # Comments: 11",
+        "description": "Article URL: https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/ Comments URL: https://news.ycombinator.com/item?id=49050152 Points: 91 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-07-25T18:18:42+00:00"
+      },
+      {
+        "title": "Memory Safety Absolutists",
+        "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+        "description": "Article URL: https://itsallaboutthebit.com/memory-safety-absolutists/ Comments URL: https://news.ycombinator.com/item?id=49050058 Points: 27 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-07-25T18:08:52+00:00"
       },
       {
         "title": "Android Auto Kullanıcıları için Hız Göstergesi Dönemi Başlıyor",
@@ -82,7 +96,7 @@
       {
         "title": "Rauno's Field Notes #2",
         "link": "https://rauno.me/notes/2",
-        "description": "Article URL: https://rauno.me/notes/2 Comments URL: https://news.ycombinator.com/item?id=49049066 Points: 17 # Comments: 1",
+        "description": "Article URL: https://rauno.me/notes/2 Comments URL: https://news.ycombinator.com/item?id=49049066 Points: 19 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-07-25T16:39:55+00:00"
       },
@@ -117,21 +131,21 @@
       {
         "title": "Bringing PyTorch Monarch to AMD GPUs",
         "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-        "description": "Article URL: https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/ Comments URL: https://news.ycombinator.com/item?id=49048689 Points: 36 # Comments: 6",
+        "description": "Article URL: https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/ Comments URL: https://news.ycombinator.com/item?id=49048689 Points: 47 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-07-25T15:55:27+00:00"
       },
       {
         "title": "The Dark Night of Mathematics",
         "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-        "description": "Article URL: https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49048681 Points: 85 # Comments: 66",
+        "description": "Article URL: https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49048681 Points: 114 # Comments: 106",
         "source": "HackerNews",
         "published": "2026-07-25T15:54:59+00:00"
       },
       {
         "title": "Engineering management after the cost of code collapsed",
         "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-        "description": "Article URL: https://karimjedda.com/engineering-management-after-cost-of-code-collapse/ Comments URL: https://news.ycombinator.com/item?id=49048212 Points: 66 # Comments: 108",
+        "description": "Article URL: https://karimjedda.com/engineering-management-after-cost-of-code-collapse/ Comments URL: https://news.ycombinator.com/item?id=49048212 Points: 88 # Comments: 135",
         "source": "HackerNews",
         "published": "2026-07-25T15:10:51+00:00"
       },
@@ -145,7 +159,7 @@
       {
         "title": "Open-weight AI is having its Kubernetes moment",
         "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "description": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 190 # Comments: 133",
+        "description": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 244 # Comments: 177",
         "source": "HackerNews",
         "published": "2026-07-25T14:49:49+00:00"
       },
@@ -232,20 +246,6 @@
         "description": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
         "source": "TechCrunch",
         "published": "2026-07-24T22:10:00+00:00"
-      },
-      {
-        "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-        "link": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-        "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-        "source": "TechCrunch",
-        "published": "2026-07-24T21:15:00+00:00"
-      },
-      {
-        "title": "Waymo reportedly mulling a breakup with Uber",
-        "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-        "description": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
-        "source": "TechCrunch",
-        "published": "2026-07-24T20:43:35+00:00"
       },
       {
         "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
@@ -355,18 +355,18 @@
     ],
     "dunya": [
       {
+        "title": "Several injured in incident at Berlin Pride event, police say",
+        "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+        "description": "Police say an intensive manhunt is under way after the incident in Berlin city centre.",
+        "source": "BBC News",
+        "published": "2026-07-25T21:20:38+00:00"
+      },
+      {
         "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
         "link": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
         "description": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
         "source": "BBC News",
         "published": "2026-07-25T18:20:20+00:00"
-      },
-      {
-        "title": "Cairngorm residents say wildfire response 'too slow'",
-        "link": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss",
-        "description": "Nethy Bridge residents were evacuated on Friday and a major incident was declared.",
-        "source": "BBC News",
-        "published": "2026-07-25T18:05:08+00:00"
       },
       {
         "title": "Police investigate donations by Tice company to Reform UK",
@@ -567,6 +567,62 @@
     ],
     "turkiye": [
       {
+        "title": "Gülşen’e 14 saniyelik reklam için rekor ücret",
+        "link": "https://www.sozcu.com.tr/gulsen-e-14-saniyelik-reklam-icin-rekor-ucret-p339745",
+        "description": "Gülşen’e 14 saniyelik reklam için rekor ücret",
+        "source": "Sözcü",
+        "published": "2026-07-26T00:12:12+03:00"
+      },
+      {
+        "title": "Ukrayna İran gemisini vurdu",
+        "link": "https://www.sozcu.com.tr/ukrayna-iran-gemisini-vurdu-p339744",
+        "description": "Ukrayna İran gemisini vurdu",
+        "source": "Sözcü",
+        "published": "2026-07-26T00:06:24+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Temmuz 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-temmuz-2026-1734567",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-07-26T00:00:00+03:00"
+      },
+      {
+        "title": "Galatasaray mı Fenerbahçe mi? Rafael Leao'dan transfer açıklaması",
+        "link": "https://www.sozcu.com.tr/galatasaray-mi-fenerbahce-mi-rafael-leao-dan-transfer-aciklamasi-p339743",
+        "description": "Galatasaray mı Fenerbahçe mi? Rafael Leao'dan transfer açıklaması",
+        "source": "Sözcü",
+        "published": "2026-07-25T23:59:20+03:00"
+      },
+      {
+        "title": "Rusya’dan akaryakıt piyasasını etkileyecek karar",
+        "link": "https://www.sozcu.com.tr/rusya-dan-akaryakit-piyasasini-etkileyecek-karar-p339742",
+        "description": "Rusya’dan akaryakıt piyasasını etkileyecek karar",
+        "source": "Sözcü",
+        "published": "2026-07-25T23:48:14+03:00"
+      },
+      {
+        "title": "ABD'nin planı ortaya çıktı! Binlerce asker saldıracak",
+        "link": "https://www.sozcu.com.tr/abd-nin-plani-ortaya-cikti-binlerce-asker-saldiracak-p339741",
+        "description": "ABD'nin planı ortaya çıktı! Binlerce asker saldıracak",
+        "source": "Sözcü",
+        "published": "2026-07-25T23:41:53+03:00"
+      },
+      {
+        "title": "Ayı saldırısından yaralı kurtuldu. \"Kürek olmasaydı sonum ne olurdu bilmiyorum\"",
+        "link": "https://www.ntv.com.tr/turkiye/ayi-saldirisindan-yarali-kurtuldu-kurek-olmasaydi-sonum-ne-olurdu-bilmiyorum-1734566",
+        "description": "Erzincan'ın Tercan ilçesinde ayının saldırması sonucu yaralanan kişi hastanede tedavi altına alındı. Geçirdiği ameliyatına ardından konuşan 53 yaşındaki İsmail Tirifi, elindeki kürek sayesinde ayının saldırısından kurtulduğunu söyledi.",
+        "source": "NTV",
+        "published": "2026-07-25T23:41:52+03:00"
+      },
+      {
+        "title": "İran Devrim Muhafızları: ABD halkına yalan söylüyor, en az 200 ABD askeri öldü",
+        "link": "https://www.sozcu.com.tr/iran-devrim-muhafizlari-abd-halkina-yalan-soyluyor-en-az-200-abd-askeri-oldu-p339739",
+        "description": "İran Devrim Muhafızları: ABD halkına yalan söylüyor, en az 200 ABD askeri öldü",
+        "source": "Sözcü",
+        "published": "2026-07-25T23:13:03+03:00"
+      },
+      {
         "title": "Milli okçularımız tarih yazdı",
         "link": "https://www.sozcu.com.tr/milli-okcularimiz-tarih-yazdi-p339738",
         "description": "Milli okçularımız tarih yazdı",
@@ -609,13 +665,6 @@
         "published": "2026-07-25T21:54:06+03:00"
       },
       {
-        "title": "Tesla hisseleri çakıldı, Musk’ın serveti eridi",
-        "link": "https://www.sozcu.com.tr/tesla-hisseleri-cakildi-musk-in-serveti-eridi-p339734",
-        "description": "Tesla hisseleri çakıldı, Musk’ın serveti eridi",
-        "source": "Sözcü",
-        "published": "2026-07-25T21:50:58+03:00"
-      },
-      {
         "title": "Adli kontrolle serbest kalan Ezel Akay'dan açıklama. \"Mahkeme sonunda her şeyi öğreneceksiniz\"",
         "link": "https://www.ntv.com.tr/turkiye/galeri-adli-kontrolle-serbest-kalan-ezel-akaydan-aciklama-mahkeme-sonunda-her-seyi-ogreneceksiniz-1734560",
         "description": "Bursa'nın İnegöl ilçesinde evine düzenlenen uyuşturucu operasyonunda yakalanarak, çıkarıldığı mahkemece adli kontrol şartıyla serbest bırakılan ünlü yönetmen Ezel Akay, sosyal medya hesabından ilk kez açıklama yaptı.",
@@ -623,46 +672,11 @@
         "published": "2026-07-25T21:43:51+03:00"
       },
       {
-        "title": "Midtjylland-Beşiktaş maçına İngiliz hakem",
-        "link": "https://www.sozcu.com.tr/midtjylland-besiktas-macina-ingiliz-hakem-p339732",
-        "description": "Midtjylland-Beşiktaş maçına İngiliz hakem",
-        "source": "Sözcü",
-        "published": "2026-07-25T21:38:25+03:00"
-      },
-      {
-        "title": "Bilal Erdoğan: FETÖ'yü doğuran dindarlık değil, katı laikliğin ta kendisi olmuştur",
-        "link": "https://www.sozcu.com.tr/bilal-erdogan-feto-yu-doguran-dindarlik-degil-kati-laikligin-ta-kendisi-olmustur-p339730",
-        "description": "Bilal Erdoğan: FETÖ'yü doğuran dindarlık değil, katı laikliğin ta kendisi olmuştur",
-        "source": "Sözcü",
-        "published": "2026-07-25T21:30:53+03:00"
-      },
-      {
-        "title": "Mevduat faizleri güncellendi: 5 Milyon TL'nin aylık getirisi belli oldu",
-        "link": "https://www.sozcu.com.tr/mevduat-faizleri-guncellendi-5-milyon-tl-nin-aylik-getirisi-belli-oldu-p339731",
-        "description": "Mevduat faizleri güncellendi: 5 Milyon TL'nin aylık getirisi belli oldu",
-        "source": "Sözcü",
-        "published": "2026-07-25T21:17:49+03:00"
-      },
-      {
-        "title": "Macaristan yarışı öncesi Hamilton’a ceza",
-        "link": "https://www.sozcu.com.tr/macaristan-yarisi-oncesi-hamilton-a-ceza-p339729",
-        "description": "Macaristan yarışı öncesi Hamilton’a ceza",
-        "source": "Sözcü",
-        "published": "2026-07-25T20:51:32+03:00"
-      },
-      {
         "title": "İzmir'de orman yangını. Havadan ve karadan müdahale ediliyor",
         "link": "https://www.ntv.com.tr/turkiye/galeri-izmirde-orman-yangini-havadan-ve-karadan-mudahale-ediliyor-1734558",
         "description": "İzmir'in Torbalı ilçesinde çıkan orman yangınına havadan ve karadan müdahale ediliyor.",
         "source": "NTV",
         "published": "2026-07-25T20:48:06+03:00"
-      },
-      {
-        "title": "Galatasaray’ın yaptığı teklif ortaya çıktı! Defansa Kolombiyalı duvar",
-        "link": "https://www.sozcu.com.tr/galatasaray-in-yaptigi-teklif-ortaya-cikti-defansa-kolombiyali-duvar-p339728",
-        "description": "Galatasaray’ın yaptığı teklif ortaya çıktı! Defansa Kolombiyalı duvar",
-        "source": "Sözcü",
-        "published": "2026-07-25T20:45:45+03:00"
       },
       {
         "title": "Bursa'da feci kazada 3 kişi öldü. Otomobil köprü altındaki beton duvara çarptı",
@@ -691,20 +705,6 @@
         "description": "Muğla'nın Milas ilçesinde kontrolden çıkan otomobil bir markete girdi. Kaza anı kameralara yansırken, markette bulunan çalışanlar ve müşteriler ölümden döndü.",
         "source": "NTV",
         "published": "2026-07-25T18:51:30+03:00"
-      },
-      {
-        "title": "Ümraniye’de kaçan boğa dükkana girdi. Kısa süreli panik kamerada",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-umraniyede-kacan-boga-dukkana-girdi-kisa-sureli-panik-kamerada-1734550",
-        "description": "Ümraniye’de sahibinin elinden kaçan boğa, sanayi sitesinde dükkana girdi.",
-        "source": "NTV",
-        "published": "2026-07-25T18:26:43+03:00"
-      },
-      {
-        "title": "Kaçan boğa sanayi sitesinde dükkana girdi",
-        "link": "https://www.ntv.com.tr/turkiye/video-kacan-boga-sanayi-sitesinde-dukkana-girdi-1734551",
-        "description": "Ümraniye’de sahibinin elinden kaçan boğa, sanayi sitesinde dükkana girdi. İş yeri çalışanlarının panikle kaçtığı anlar güvenlik kamerasına yansıdı.",
-        "source": "NTV",
-        "published": "2026-07-25T18:26:11+03:00"
       },
       {
         "title": "Yemek seçen bir çocuğa yaz tatilinde yemek yedirme ipuçları",
@@ -784,9 +784,9 @@
     "eur_usd": 0.879
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+92°F",
-    "wind": "↑12mph",
-    "humidity": "23%"
+    "condition": "Güneşli",
+    "temp": "+86°F",
+    "wind": "↖3mph",
+    "humidity": "79%"
   }
 }
