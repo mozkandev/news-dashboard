@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-07-25T00:02:49.350297+00:00",
+  "updated_at": "2026-07-25T03:48:33.927043+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+        "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+        "description": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points: 22 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-25T02:54:36+00:00"
+      },
+      {
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "source": "TechCrunch",
+        "published": "2026-07-25T00:23:11+00:00"
+      },
       {
         "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
         "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
@@ -12,16 +26,9 @@
       {
         "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
         "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-        "description": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 6 # Comments: 0",
+        "description": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 49 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-07-24T23:13:18+00:00"
-      },
-      {
-        "title": "SpaceX Starship Flight 13 livestream [video]",
-        "link": "https://www.spacex.com/launches/starship-flight-13",
-        "description": "Article URL: https://www.spacex.com/launches/starship-flight-13 Comments URL: https://news.ycombinator.com/item?id=49042528 Points: 38 # Comments: 28",
-        "source": "HackerNews",
-        "published": "2026-07-24T22:44:38+00:00"
       },
       {
         "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
@@ -29,13 +36,6 @@
         "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
         "source": "TechCrunch",
         "published": "2026-07-24T22:25:58+00:00"
-      },
-      {
-        "title": "AIs don't do what you want. This is bad",
-        "link": "https://rewardhacking.org",
-        "description": "Article URL: https://rewardhacking.org Comments URL: https://news.ycombinator.com/item?id=49042354 Points: 15 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-07-24T22:24:08+00:00"
       },
       {
         "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
@@ -54,7 +54,7 @@
       {
         "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
         "link": "https://github.com/apresta/max-studio-tools",
-        "description": "Article URL: https://github.com/apresta/max-studio-tools Comments URL: https://news.ycombinator.com/item?id=49041546 Points: 12 # Comments: 0",
+        "description": "Article URL: https://github.com/apresta/max-studio-tools Comments URL: https://news.ycombinator.com/item?id=49041546 Points: 26 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-07-24T21:03:10+00:00"
       },
@@ -82,7 +82,7 @@
       {
         "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
         "link": "https://artificialanalysis.ai/models",
-        "description": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 82 # Comments: 35",
+        "description": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 179 # Comments: 115",
         "source": "HackerNews",
         "published": "2026-07-24T19:45:10+00:00"
       },
@@ -103,7 +103,7 @@
       {
         "title": "Postgres LISTEN/NOTIFY actually scales",
         "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-        "description": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 170 # Comments: 29",
+        "description": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 233 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-07-24T19:05:53+00:00"
       },
@@ -152,7 +152,7 @@
       {
         "title": "Gsxui – Shadcn-style components for Go",
         "link": "https://ui.gsxhq.dev/",
-        "description": "Article URL: https://ui.gsxhq.dev/ Comments URL: https://news.ycombinator.com/item?id=49039395 Points: 54 # Comments: 8",
+        "description": "Article URL: https://ui.gsxhq.dev/ Comments URL: https://news.ycombinator.com/item?id=49039395 Points: 58 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-07-24T17:59:08+00:00"
       },
@@ -241,13 +241,6 @@
         "published": "2026-07-24T17:00:18+03:00"
       },
       {
-        "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-        "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-        "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-        "source": "TechCrunch",
-        "published": "2026-07-24T17:00:00+00:00"
-      },
-      {
         "title": "Hyundai Leasing ile İşletmelere Özel Finansman Dönemi",
         "link": "\n                    https://www.webtekno.com/hyundai-leasing-duyuruldu-h221054.html\n                    ",
         "description": "Hyundai Leasing; işletmelere 60 aya varan vade, yüzde 100’e kadar finansman, sabit ödeme ve banka kredi limitini etkilemeyen araç alım imkânı sunuyor.",
@@ -257,23 +250,30 @@
       {
         "title": "Claude Opus 5",
         "link": "https://www.anthropic.com/news/claude-opus-5",
-        "description": "https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 1207 # Comments: 660",
+        "description": "https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 1375 # Comments: 742",
         "source": "HackerNews",
         "published": "2026-07-24T16:57:41+00:00"
       },
       {
         "title": "Don't Take the Black Pill [video]",
         "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-        "description": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://news.ycombinator.com/item?id=49038298 Points: 109 # Comments: 72",
+        "description": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://news.ycombinator.com/item?id=49038298 Points: 147 # Comments: 114",
         "source": "HackerNews",
         "published": "2026-07-24T16:48:57+00:00"
       },
       {
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "description": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 385 # Comments: 210",
+        "description": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 450 # Comments: 254",
         "source": "HackerNews",
         "published": "2026-07-24T16:33:31+00:00"
+      },
+      {
+        "title": "Unitree As2-W",
+        "link": "https://www.unitree.com/As2-W/",
+        "description": "Article URL: https://www.unitree.com/As2-W/ Comments URL: https://news.ycombinator.com/item?id=49038045 Points: 104 # Comments: 41",
+        "source": "HackerNews",
+        "published": "2026-07-24T16:32:52+00:00"
       },
       {
         "title": "PlayStation Disk Kararı İçin Ubisoft Ne Düşünüyor?",
@@ -355,18 +355,46 @@
     ],
     "dunya": [
       {
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "description": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "source": "BBC News",
+        "published": "2026-07-25T02:29:36+00:00"
+      },
+      {
+        "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+        "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+        "source": "BBC News",
+        "published": "2026-07-25T02:23:09+00:00"
+      },
+      {
+        "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+        "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+        "description": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+        "source": "BBC News",
+        "published": "2026-07-25T02:14:50+00:00"
+      },
+      {
+        "title": "Teenage boy dies after stabbing in Luton as police launch murder investigation",
+        "link": "https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&at_campaign=rss",
+        "description": "The 17-year-old was taken to hospital with multiple stab wounds but was pronounced dead shortly after, Bedfordshire Police says.",
+        "source": "BBC News",
+        "published": "2026-07-25T02:02:15+00:00"
+      },
+      {
+        "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
+        "description": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
+        "source": "BBC News",
+        "published": "2026-07-25T01:12:39+00:00"
+      },
+      {
         "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
         "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
         "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
         "source": "BBC News",
         "published": "2026-07-24T23:11:13+00:00"
-      },
-      {
-        "title": "Wildfire burning one month on is 'the size of a small town'",
-        "link": "https://www.bbc.co.uk/news/articles/c4gwpvq6q03o?at_medium=RSS&at_campaign=rss",
-        "description": "More than a month on, and firefighting shows no sign of immediate end at Tintwistle Moor.",
-        "source": "BBC News",
-        "published": "2026-07-24T23:09:21+00:00"
       },
       {
         "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
@@ -376,14 +404,7 @@
         "published": "2026-07-24T23:01:06+00:00"
       },
       {
-        "title": "'I just wanted them to survive': Couple tell of attempt to save drowning girl and mum",
-        "link": "https://www.bbc.co.uk/news/videos/cwyje55dw4xo?at_medium=RSS&at_campaign=rss",
-        "description": "A couple have told the BBC how they attempted to save a mother and daughter who drowned off an Essex beach.",
-        "source": "BBC News",
-        "published": "2026-07-24T23:00:06+00:00"
-      },
-      {
-        "title": "Horror injury overshadows gymnastics silver at Commonwealths",
+        "title": "Horror injury overshadows gymnastics silver for England at Commonwealths",
         "link": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss",
         "description": "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.",
         "source": "BBC News",
@@ -402,13 +423,6 @@
         "description": "More than 100 firefighters were sent to tackle a huge fire at industrial units on a farm on Friday.",
         "source": "BBC News",
         "published": "2026-07-24T21:48:49+00:00"
-      },
-      {
-        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-        "source": "BBC News",
-        "published": "2026-07-24T21:47:16+00:00"
       },
       {
         "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
@@ -439,13 +453,6 @@
         "published": "2026-07-24T17:37:37-04:00"
       },
       {
-        "title": "Heatwave reveals lost archaeological sites across Wales",
-        "link": "https://www.bbc.co.uk/news/articles/cn8n99241y3o?at_medium=RSS&at_campaign=rss",
-        "description": "The Royal Commission of Wales said some of these known sites have not been seen clearly in decades.",
-        "source": "BBC News",
-        "published": "2026-07-24T16:39:17+00:00"
-      },
-      {
         "title": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
         "link": "https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music",
         "description": "The Illharmonic Orchestra blends hip-hop and classical music during live performances. Its leaders tell NPR's Juana Summers how they build community with their shows, which feature all-Black musicians.",
@@ -465,13 +472,6 @@
         "description": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal between US...",
         "source": "The Guardian",
         "published": "2026-07-24T13:53:34+00:00"
-      },
-      {
-        "title": "Andy Burnham's first week pledges - how much do they add up to?",
-        "link": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for",
-        "source": "BBC News",
-        "published": "2026-07-24T13:04:47+00:00"
       },
       {
         "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
@@ -567,18 +567,109 @@
     ],
     "turkiye": [
       {
+        "title": "Fatma Soydaş'ın adliye koridorundaki doğal hali viral oldu",
+        "link": "https://www.sozcu.com.tr/fatma-soydas-in-adliye-koridorundaki-dogal-hali-viral-oldu-p339554",
+        "description": "Fatma Soydaş'ın adliye koridorundaki doğal hali viral oldu",
+        "source": "Sözcü",
+        "published": "2026-07-25T06:40:45+03:00"
+      },
+      {
+        "title": "Özel’den merak edilen İmamoğlu sorusuna yanıt: Cumhurbaşkanı adayınız mı?",
+        "link": "https://www.sozcu.com.tr/ozel-den-merak-edilen-imamoglu-sorusuna-yanit-cumhurbaskani-adayiniz-mi-p339552",
+        "description": "Özel’den merak edilen İmamoğlu sorusuna yanıt: Cumhurbaşkanı adayınız mı?",
+        "source": "Sözcü",
+        "published": "2026-07-25T06:36:03+03:00"
+      },
+      {
+        "title": "Özel’e ilk telefon eden isim sürpriz oldu!",
+        "link": "https://www.sozcu.com.tr/ozel-e-ilk-telefon-eden-isim-surpriz-oldu-p339553",
+        "description": "Özel’e ilk telefon eden isim sürpriz oldu!",
+        "source": "Sözcü",
+        "published": "2026-07-25T06:34:36+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-temmuz-2026-1734429",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-25T03:00:00+03:00"
+        "published": "2026-07-25T06:30:00+03:00"
       },
       {
-        "title": "Beyni sessizce yaşlandıran nedenler",
-        "link": "https://www.sozcu.com.tr/beyni-sessizce-yaslandiran-nedenler-p339542",
-        "description": "Beyni sessizce yaşlandıran nedenler",
+        "title": "Erbaş’ın memleketinde sahte imam skandalı",
+        "link": "https://www.sozcu.com.tr/erbas-in-memleketinde-sahte-imam-skandali-p339551",
+        "description": "Erbaş’ın memleketinde sahte imam skandalı",
         "source": "Sözcü",
-        "published": "2026-07-25T02:30:12+03:00"
+        "published": "2026-07-25T05:40:11+03:00"
+      },
+      {
+        "title": "Uraloğlu Bakan, Reis ihya oldu",
+        "link": "https://www.sozcu.com.tr/uraloglu-bakan-reis-ihya-oldu-p339550",
+        "description": "Uraloğlu Bakan, Reis ihya oldu",
+        "source": "Sözcü",
+        "published": "2026-07-25T05:30:10+03:00"
+      },
+      {
+        "title": "Dev kazanlarda 7 saatte pişti, vatandaşlara ikram edildi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-dev-kazanlarda-7-saatte-pisti-vatandaslara-ikram-edildi-1734447",
+        "description": "Uluslararası Erbaa Yaprak Festivali'nde dev kazanda yaklaşık 7 saatte pişirilen yaklaşık 280 bin bakla dolması, vatandaşlara ikram edildi.",
+        "source": "NTV",
+        "published": "2026-07-25T05:28:20+03:00"
+      },
+      {
+        "title": "Boşanmak isteyen eşini uykusunda katletti",
+        "link": "https://www.ntv.com.tr/turkiye/bosanmak-isteyen-esini-uykuda-katletti-1734445",
+        "description": "Adana'da boşanmak isteyen kadın, eşi tarafından uykusunda başına vurularak öldürüldü. Polis, olayın ardından kaçan zanlıyı 30 dakika içinde yakaladı.",
+        "source": "NTV",
+        "published": "2026-07-25T05:20:11+03:00"
+      },
+      {
+        "title": "İktidara yakın Hak-İş’ten asgaride ‘hile’ uyarısı",
+        "link": "https://www.sozcu.com.tr/iktidara-yakin-hak-is-ten-asgaride-hile-uyarisi-p339549",
+        "description": "İktidara yakın Hak-İş’ten asgaride ‘hile’ uyarısı",
+        "source": "Sözcü",
+        "published": "2026-07-25T05:20:10+03:00"
+      },
+      {
+        "title": "Dostum Trump'tan vergi hediyesi",
+        "link": "https://www.sozcu.com.tr/dostum-trump-tan-vergi-hediyesi-p339548",
+        "description": "Dostum Trump'tan vergi hediyesi",
+        "source": "Sözcü",
+        "published": "2026-07-25T05:10:10+03:00"
+      },
+      {
+        "title": "İmamoğlu dosyasına astroloji raporu girdi",
+        "link": "https://www.sozcu.com.tr/imamoglu-dosyasina-astroloji-raporu-girdi-p339547",
+        "description": "İmamoğlu dosyasına astroloji raporu girdi",
+        "source": "Sözcü",
+        "published": "2026-07-25T04:59:45+03:00"
+      },
+      {
+        "title": "Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-bakan-gurlek-haluk-levent-tekneyle-yunan-adalarina-kacacakti-1734426",
+        "description": "Adalet Bakanı Akın Gürlek, ''Ahbap Derneği için deprem zamanı 245 milyon dolar para toplandığı belirlendi.'' dedi.",
+        "source": "NTV",
+        "published": "2026-07-25T04:48:06+03:00"
+      },
+      {
+        "title": "Türk siyasetine soluk: YENİ Parti",
+        "link": "https://www.sozcu.com.tr/turk-siyasetine-soluk-yeni-parti-p339546",
+        "description": "Türk siyasetine soluk: YENİ Parti",
+        "source": "Sözcü",
+        "published": "2026-07-25T04:00:02+03:00"
+      },
+      {
+        "title": "Minareler devrildi, çatılar uçtu",
+        "link": "https://www.ntv.com.tr/turkiye/minareler-devrildi-catilar-uctu-1734442",
+        "description": "Kırıkkale'de kuvvetli fırtına nedeniyle iki caminin minaresi yıkıldı, bazı binaların çatıları ile araçlar hasar gördü.",
+        "source": "NTV",
+        "published": "2026-07-25T03:28:01+03:00"
+      },
+      {
+        "title": "Fırtına cami minarelerini devirdi",
+        "link": "https://www.sozcu.com.tr/firtina-cami-minarelerini-devirdi-p339545",
+        "description": "Fırtına cami minarelerini devirdi",
+        "source": "Sözcü",
+        "published": "2026-07-25T03:11:51+03:00"
       },
       {
         "title": "Yolcu otobüsü şarampole devrildi. 40 kişi yaralandı",
@@ -595,81 +686,11 @@
         "published": "2026-07-25T01:58:36+03:00"
       },
       {
-        "title": "İran’dan gövde gösterisi: Balistik füzeler simge meydanda",
-        "link": "https://www.sozcu.com.tr/iran-dan-govde-gosterisi-balistik-fuzeler-simge-meydanda-p339540",
-        "description": "İran’dan gövde gösterisi: Balistik füzeler simge meydanda",
-        "source": "Sözcü",
-        "published": "2026-07-25T01:00:37+03:00"
-      },
-      {
         "title": "Polisin ehliyet ve kimlik istediği alkollü sürücü, \"150 TL param var\" dedi",
         "link": "https://www.ntv.com.tr/turkiye/polisin-ehliyet-ve-kimlik-istedigi-alkollu-surucu-150-tl-param-var-dedi-1734437",
         "description": "Aksaray’da yasal sınırın 6 katı üzerinde alkollü sürücü, polisin kovalamacası sonucu yakalandı. Polisin ehliyet ve kimlik istediği sürücü, \"150 TL param var\" diye cevap verdi.",
         "source": "NTV",
         "published": "2026-07-25T00:39:51+03:00"
-      },
-      {
-        "title": "Çin ve Rusya’dan İran sözü: Trump’tan dikkat çeken çıkış",
-        "link": "https://www.sozcu.com.tr/cin-ve-rusya-dan-iran-sozu-trump-tan-dikkat-ceken-cikis-p339539",
-        "description": "Çin ve Rusya’dan İran sözü: Trump’tan dikkat çeken çıkış",
-        "source": "Sözcü",
-        "published": "2026-07-25T00:37:30+03:00"
-      },
-      {
-        "title": "Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-bakan-gurlek-haluk-levent-tekneyle-yunan-adalarina-kacacakti-1734426",
-        "description": "Adalet Bakanı Akın Gürlek, ''Ahbap Derneği için deprem zamanı 245 milyon dolar para toplandığı belirlendi.'' dedi.",
-        "source": "NTV",
-        "published": "2026-07-25T00:27:07+03:00"
-      },
-      {
-        "title": "Kızıldeniz ateş çemberi: Suudi Arabistan Husilere saldırdı",
-        "link": "https://www.sozcu.com.tr/yemen-in-hudeyde-limani-vuruldu-p339526",
-        "description": "Kızıldeniz ateş çemberi: Suudi Arabistan Husilere saldırdı",
-        "source": "Sözcü",
-        "published": "2026-07-25T00:21:11+03:00"
-      },
-      {
-        "title": "Gülistan Doku dosyasında eski Vali Tuncay Sonel'in eşi Handan Sonel tutuklandı",
-        "link": "https://www.sozcu.com.tr/gulistan-doku-sorusturmasi-handan-sonel-tutuklandi-p339531",
-        "description": "Gülistan Doku dosyasında eski Vali Tuncay Sonel'in eşi Handan Sonel tutuklandı",
-        "source": "Sözcü",
-        "published": "2026-07-25T00:16:13+03:00"
-      },
-      {
-        "title": "Oyuncu Esra Dermancıoğlu'ndan dikkat çeken Haluk Levent tepkisi",
-        "link": "https://www.sozcu.com.tr/oyuncu-esra-dermancioglu-ndan-dikkat-ceken-haluk-levent-e-tepki-p339528",
-        "description": "Oyuncu Esra Dermancıoğlu'ndan dikkat çeken Haluk Levent tepkisi",
-        "source": "Sözcü",
-        "published": "2026-07-24T23:56:46+03:00"
-      },
-      {
-        "title": "Kızıldeniz’de Suudi Arabistan gemisi vuruldu",
-        "link": "https://www.sozcu.com.tr/kizildeniz-de-suudi-arabistan-gemisi-vuruldu-p339529",
-        "description": "Kızıldeniz’de Suudi Arabistan gemisi vuruldu",
-        "source": "Sözcü",
-        "published": "2026-07-24T23:54:57+03:00"
-      },
-      {
-        "title": "Okan Buruk: Birçok oyuncu bizimle olmayacak",
-        "link": "https://www.sozcu.com.tr/okan-buruk-bircok-oyuncu-bizimle-olmayacak-p339530",
-        "description": "Okan Buruk: Birçok oyuncu bizimle olmayacak",
-        "source": "Sözcü",
-        "published": "2026-07-24T23:54:43+03:00"
-      },
-      {
-        "title": "Balkondan düşen Alzheimer hastası yaşlı adam öldü",
-        "link": "https://www.sozcu.com.tr/balkondan-dusen-alzheimer-hastasi-yasli-adam-oldu-p339527",
-        "description": "Balkondan düşen Alzheimer hastası yaşlı adam öldü",
-        "source": "Sözcü",
-        "published": "2026-07-24T23:37:04+03:00"
-      },
-      {
-        "title": "Herkes Vlahovic’i bekliyordu! Beşiktaş’tan sürpriz hamle",
-        "link": "https://www.sozcu.com.tr/herkes-vlahovic-i-bekliyordu-besiktas-tan-surpriz-hamle-p339525",
-        "description": "Herkes Vlahovic’i bekliyordu! Beşiktaş’tan sürpriz hamle",
-        "source": "Sözcü",
-        "published": "2026-07-24T23:12:01+03:00"
       },
       {
         "title": "Dışişleri Bakanı Fidan, Ukraynalı mevkidaşı Sybiha ile telefonda görüştü",
@@ -686,13 +707,6 @@
         "published": "2026-07-24T21:06:15+03:00"
       },
       {
-        "title": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı",
-        "link": "https://www.ntv.com.tr/turkiye/izmit-belediye-baskani-fatma-kaplan-hurriyet-gorevden-uzaklastirildi-1734419",
-        "description": "İçişleri Bakanlığı, İzmit Belediye Başkanı Fatma Kaplan Hürriyet'in görevden uzaklaştırıldığını bildirdi.",
-        "source": "NTV",
-        "published": "2026-07-24T20:45:13+03:00"
-      },
-      {
         "title": "Özgür Özel liderliğindeki yeni partiye ne tepki geldi?",
         "link": "https://www.bbc.com/turkce/articles/cr7kv74z4g4o?at_medium=RSS&at_campaign=rss",
         "description": "Yeni Parti'nin kurulması sonrası cezaevindeki Ekrem İmamoğlu X hesabından yaptığı açıklamada \"Her şey çok güzel olacak! Yürüyelim arkadaşlar!\" paylaşımı yaptı.",
@@ -707,25 +721,11 @@
         "published": "2026-07-24T18:13:38+00:00"
       },
       {
-        "title": "Çöplük günlerdir yanıyor. Duman kent merkezine ulaştı, mahalleler is kokuyor",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-copluk-gunlerdir-icin-icin-yaniyor-duman-kent-merkezine-ulasti-mahalleler-is-kokuyor-1734400",
-        "description": "Amasya'da katı atık bertaraf tesisinin çöp döküm sahası beş gündür yanıyor. Çöplükten yükselen duman kenti olumsuz etkiliyor, mahallelerde is kokusu var.",
-        "source": "NTV",
-        "published": "2026-07-24T17:26:25+03:00"
-      },
-      {
         "title": "Fransa ve İspanya'da orman yangınları: On binlerce kişi tahliye edildi",
         "link": "https://www.bbc.com/turkce/articles/cdx71e1g114o?at_medium=RSS&at_campaign=rss",
         "description": "Fransa ve İspanya'da orman yangınları nedeniyle on binlerce kişi tahliye edildi. İspanya hükümeti Madrid ve komşu Avila'da ulusal acil durum ilan etti. Yangınlar, sıcak ve kuru hava koşullarında hızla yayılıyor. Başkentin çevresinde on bin kişi...",
         "source": "BBC Turkish",
         "published": "2026-07-24T17:06:44+00:00"
-      },
-      {
-        "title": "AK Parti ve DEM Parti'den Terörsüz Türkiye görüşmesi",
-        "link": "https://www.ntv.com.tr/turkiye/ak-parti-ve-dem-partiden-terorsuz-turkiye-gorusmesi-1734407",
-        "description": "AK Parti ve DEM Parti heyetleri arasında Terörsüz Türkiye sürecine ilişkin görüşme yapıldı.",
-        "source": "NTV",
-        "published": "2026-07-24T16:38:09+03:00"
       },
       {
         "title": "Özel liderliğindeki Yeni Parti yönetimi belirlendi: Fezlekeli isimler PM dışında kaldı",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.2974,
-    "eur_try": 53.8299,
-    "eur_usd": 0.8782
+    "usd_try": 47.3268,
+    "eur_try": 53.8348,
+    "eur_usd": 0.879
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+78°F",
-    "wind": "↑5mph",
-    "humidity": "42%"
+    "condition": "Açık",
+    "temp": "+73°F",
+    "wind": "↗8mph",
+    "humidity": "57%"
   }
 }
