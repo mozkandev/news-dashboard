@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-07-26T02:46:04.254528+00:00",
+  "updated_at": "2026-07-26T06:05:42.922111+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "App Store’daki Sahte Uygulama Apple’ı Mahkemelik Etti",
+        "link": "https://shiftdelete.net/app-storedaki-sahte-uygulama-applei-mahkemelik-etti",
+        "description": "Apple, App Store üzerinden indirilen sahte bir Bitcoin cüzdanı nedeniyle 1,8 milyon dolar kaybettiren kullanıcılar tarafından dava edildi.",
+        "source": "ShiftDelete",
+        "published": "2026-07-26T06:00:00+00:00"
+      },
+      {
+        "title": "OnePlus N6x’in Batarya Kapasitesi ve Ekran Süresi Belli Oldu",
+        "link": "https://shiftdelete.net/oneplus-n6xin-batarya-kapasitesi-ve-ekran-suresi-belli-oldu",
+        "description": "OnePlus, 31 Temmuz'da tanıtılacak olan N6x modelinin 7.000 mAh batarya kapasitesine sahip olduğunu resmi olarak duyurdu.",
+        "source": "ShiftDelete",
+        "published": "2026-07-26T05:00:00+00:00"
+      },
+      {
+        "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+        "link": "https://github.com/mulfyx/w4me-station",
+        "description": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 10 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-26T04:19:59+00:00"
+      },
+      {
+        "title": "Humans haven't stopped evolving",
+        "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+        "description": "Article URL: https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure Comments URL: https://news.ycombinator.com/item?id=49054307 Points: 45 # Comments: 46",
+        "source": "HackerNews",
+        "published": "2026-07-26T03:09:46+00:00"
+      },
+      {
+        "title": "JetZero",
+        "link": "https://www.jetzero.aero",
+        "description": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 128 # Comments: 91",
+        "source": "HackerNews",
+        "published": "2026-07-26T02:55:50+00:00"
+      },
+      {
+        "title": "An ESP32 based plane radar for my desk",
+        "link": "https://blog.ktz.me/esp32-plane-radar/",
+        "description": "Article URL: https://blog.ktz.me/esp32-plane-radar/ Comments URL: https://news.ycombinator.com/item?id=49054107 Points: 68 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-07-26T02:35:43+00:00"
+      },
+      {
+        "title": "Show HN: I mapped every US golf course",
+        "link": "https://golfcoursebrowser.com/",
+        "description": "I got tired of Googling basic course info, so I made a free directory of every US course Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https://golfcoursebrowser.com/ It's...",
+        "source": "HackerNews",
+        "published": "2026-07-26T02:22:26+00:00"
+      },
+      {
+        "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+        "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+        "description": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/ Comments URL: https://news.ycombinator.com/item?id=49053708 Points: 27 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-07-26T01:35:03+00:00"
+      },
       {
         "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
         "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -10,30 +66,16 @@
         "published": "2026-07-26T01:30:00+00:00"
       },
       {
-        "title": "Possible invasive species superspreader event near Strait of Hormuz",
-        "link": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
-        "description": "Article URL: https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186 Comments URL: https://news.ycombinator.com/item?id=49053603 Points: 21 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-07-26T01:13:19+00:00"
-      },
-      {
-        "title": "Git rebase -I is not that scary",
-        "link": "https://cachebag.sh/journal/interactive-rebasing/",
-        "description": "Article URL: https://cachebag.sh/journal/interactive-rebasing/ Comments URL: https://news.ycombinator.com/item?id=49053385 Points: 13 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-07-26T00:37:54+00:00"
-      },
-      {
         "title": "Systems and Delays",
         "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "description": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 19 # Comments: 4",
+        "description": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 48 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-07-26T00:37:30+00:00"
       },
       {
         "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
         "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "description": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 12 # Comments: 1",
+        "description": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 67 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-07-26T00:36:30+00:00"
       },
@@ -47,37 +89,9 @@
       {
         "title": "Clinical failure rates over the decades: yikes",
         "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-        "description": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 49 # Comments: 28",
+        "description": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 82 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-07-25T22:57:17+00:00"
-      },
-      {
-        "title": "Cloudflare's new AI traffic options for customers",
-        "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-        "description": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 42 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-07-25T22:50:49+00:00"
-      },
-      {
-        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-        "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-        "description": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 130 # Comments: 51",
-        "source": "HackerNews",
-        "published": "2026-07-25T21:48:22+00:00"
-      },
-      {
-        "title": "Becoming a Research Engineer at a Big LLM Lab",
-        "link": "https://www.maxmynter.com/pages/blog/jobhunt",
-        "description": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 19 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-07-25T21:19:42+00:00"
-      },
-      {
-        "title": "Multicast TV Distribution on My Home Network",
-        "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
-        "description": "Article URL: https://www.apalrd.net/posts/2026/isp_mcast/ Comments URL: https://news.ycombinator.com/item?id=49051463 Points: 41 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-07-25T20:55:12+00:00"
       },
       {
         "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
@@ -190,20 +204,6 @@
         "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
         "source": "TechCrunch",
         "published": "2026-07-25T13:05:00+00:00"
-      },
-      {
-        "title": "Meta AI Muse Spark 1.1 Desteğiyle Yeni Özelliklere Kavuştu",
-        "link": "https://shiftdelete.net/meta-ai-muse-spark-1-1-destegiyle-yeni-ozelliklere-kavustu",
-        "description": "Meta AI, yeni Muse Spark 1.1 modeliyle takvim entegrasyonu, stok kontrolü ve detaylı planlama gibi gelişmiş özelliklere kavuştu.",
-        "source": "ShiftDelete",
-        "published": "2026-07-25T13:00:00+00:00"
-      },
-      {
-        "title": "Nothing Essential Apps ile Ana Ekran Deneyimini Değiştiriyor",
-        "link": "https://shiftdelete.net/nothing-essential-apps-ile-ana-ekran-deneyimini-degistiriyor",
-        "description": "Nothing, akıllı telefonlar için geliştirdiği widget oluşturucu uygulaması Essential Apps'i kullanıma sundu. Detaylar haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-07-25T12:00:00+00:00"
       },
       {
         "title": "Synth historian Oli Freke will spend big on a good bicycle",
@@ -355,11 +355,25 @@
     ],
     "dunya": [
       {
-        "title": "More than 300,000 flee wildfires in France and Spain",
-        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-        "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "title": "Andy Burnham rules out early election in exclusive BBC interview",
+        "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+        "description": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
         "source": "BBC News",
-        "published": "2026-07-26T00:54:06+00:00"
+        "published": "2026-07-26T05:00:56+00:00"
+      },
+      {
+        "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+        "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking exclusively to the BBC, Andy Burnham says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+        "source": "BBC News",
+        "published": "2026-07-26T05:00:14+00:00"
+      },
+      {
+        "title": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
+        "link": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
+        "description": "Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown Venezuelan men sent last year to a notorious Salvadorian terrorism prison by the Trump administration are suing the US aviation companies...",
+        "source": "The Guardian",
+        "published": "2026-07-26T05:00:03+00:00"
       },
       {
         "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
@@ -397,6 +411,13 @@
         "published": "2026-07-25T23:30:07+00:00"
       },
       {
+        "title": "Residents allowed to return after Cairngorms wildfire evacuation",
+        "link": "https://www.bbc.co.uk/news/articles/c75gdn674r9o?at_medium=RSS&at_campaign=rss",
+        "description": "The fire was declared a major incident on Friday, but that has now been stood down by Police Scotland.",
+        "source": "BBC News",
+        "published": "2026-07-25T23:28:07+00:00"
+      },
+      {
         "title": "Ramsay-Peaty in tears after missing out on gold again",
         "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
         "description": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
@@ -404,9 +425,9 @@
         "published": "2026-07-25T22:37:49+00:00"
       },
       {
-        "title": "One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany",
-        "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured",
-        "description": "A search is underway for one or two suspects, according to Berlin police.",
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "description": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
         "source": "NPR",
         "published": "2026-07-25T21:10:56-04:00"
       },
@@ -416,13 +437,6 @@
         "description": "At least one person has died in a fire in Spain, according to officials.",
         "source": "NPR",
         "published": "2026-07-25T21:05:45-04:00"
-      },
-      {
-        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-        "link": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
-        "description": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
-        "source": "BBC News",
-        "published": "2026-07-25T18:20:20+00:00"
       },
       {
         "title": "Police investigate donations by Tice company to Reform UK",
@@ -437,13 +451,6 @@
         "description": "Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.",
         "source": "NPR",
         "published": "2026-07-25T15:36:18-04:00"
-      },
-      {
-        "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-        "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
-        "description": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
-        "source": "BBC News",
-        "published": "2026-07-25T14:18:32+00:00"
       },
       {
         "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
@@ -523,13 +530,6 @@
         "published": "2026-07-24T11:49:19+00:00"
       },
       {
-        "title": "Weather tracker: More than 900 wildfires rage across Canada",
-        "link": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
-        "description": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 were burning,...",
-        "source": "The Guardian",
-        "published": "2026-07-24T08:11:31+00:00"
-      },
-      {
         "title": "Two Russian men jailed in Angola for terrorism and spying",
         "link": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
         "description": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and...",
@@ -567,53 +567,102 @@
     ],
     "turkiye": [
       {
-        "title": "Sezaryen cezası",
-        "link": "https://www.sozcu.com.tr/sezaryen-cezasi-p339767",
-        "description": "Sezaryen cezası",
+        "title": "24 yıl sonra eurolar değişiyor!",
+        "link": "https://www.sozcu.com.tr/24-yil-sonra-eurolar-degisiyor-p339791",
+        "description": "24 yıl sonra eurolar değişiyor!",
         "source": "Sözcü",
-        "published": "2026-07-26T05:30:52+03:00"
-      },
-      {
-        "title": "Halka açıldı, işçi feryat etti",
-        "link": "https://www.sozcu.com.tr/halka-acildi-isci-feryat-etti-p339766",
-        "description": "Halka açıldı, işçi feryat etti",
-        "source": "Sözcü",
-        "published": "2026-07-26T05:30:04+03:00"
-      },
-      {
-        "title": "Bakan hafızlara bilimi anlattı",
-        "link": "https://www.sozcu.com.tr/bakan-hafizlara-bilimi-anlatti-p339764",
-        "description": "Bakan hafızlara bilimi anlattı",
-        "source": "Sözcü",
-        "published": "2026-07-26T05:30:04+03:00"
+        "published": "2026-07-26T09:00:11+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-temmuz-2026-1734567",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-26T05:30:00+03:00"
+        "published": "2026-07-26T09:00:00+03:00"
       },
       {
-        "title": "Trump tehdit üzerine uçak değiştirmiş",
-        "link": "https://www.sozcu.com.tr/trump-tehdit-uzerine-ucak-degistirmis-p339765",
-        "description": "Trump tehdit üzerine uçak değiştirmiş",
+        "title": "Kramponları çıkardı, kara lastikleri giydi: Hakan Çalhanoğlu'nun köy hali olay oldu",
+        "link": "https://www.sozcu.com.tr/kramponlari-cikardi-kara-lastikleri-giydi-hakan-calhanoglu-nun-koy-hali-olay-oldu-p339790",
+        "description": "Kramponları çıkardı, kara lastikleri giydi: Hakan Çalhanoğlu'nun köy hali olay oldu",
         "source": "Sözcü",
-        "published": "2026-07-26T05:20:04+03:00"
+        "published": "2026-07-26T08:56:19+03:00"
       },
       {
-        "title": "Deli Dumrul köye indi",
-        "link": "https://www.sozcu.com.tr/deli-dumrul-koye-indi-p339762",
-        "description": "Deli Dumrul köye indi",
-        "source": "Sözcü",
-        "published": "2026-07-26T05:10:04+03:00"
+        "title": "Adana’da trafik denetimi; 42 sürücüye idari para cezası",
+        "link": "https://www.ntv.com.tr/turkiye/video-adanada-trafik-denetimi-42-surucuye-idari-para-cezasi-1734589",
+        "description": "Adana'da trafik polislerinin gerçekleştirdiği denetimlerde çeşitli ihlaller tespit edilen 42 sürücüye idari para cezası uygulanırken, 2 araç trafikten men edildi.",
+        "source": "NTV",
+        "published": "2026-07-26T08:54:58+03:00"
       },
       {
-        "title": "İmzalanışının 103. yıldönümünde, Yunanistan Lozan’ı deliyor",
-        "link": "https://www.sozcu.com.tr/imzalanisinin-103-yildonumunde-yunanistan-lozan-i-deliyor-p339763",
-        "description": "İmzalanışının 103. yıldönümünde, Yunanistan Lozan’ı deliyor",
+        "title": "Onlarca kişi para gönderdi, avukatın telefonu dört yıldır susmuyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-onlarca-kisi-para-gonderdi-avukatin-telefonu-dort-yildir-susmuyor-1734587",
+        "description": "Telefonla ulaştıkları kişileri \"Dosyayı kapatacağız.\" diyerek tuzağa düşüren dolandırıcılar, onlarca kişiyi mağdur etti. Fotoğrafı kullanılan avukat ise dört yıldır mağdurlardan gelen telefonlara yanıt veriyor. (Haber: Rojbin Hayrullahoğlu)",
+        "source": "NTV",
+        "published": "2026-07-26T08:53:44+03:00"
+      },
+      {
+        "title": "52 milyon dolar ödediler ama bu yol hiç bir yere çıkmıyor",
+        "link": "https://www.sozcu.com.tr/52-milyon-dolar-odediler-ama-bu-yol-hic-bir-yere-cikmiyor-p339788",
+        "description": "52 milyon dolar ödediler ama bu yol hiç bir yere çıkmıyor",
         "source": "Sözcü",
-        "published": "2026-07-26T05:01:03+03:00"
+        "published": "2026-07-26T08:38:38+03:00"
+      },
+      {
+        "title": "Altın, gümüş ve dolar nefesini tuttu: Bu hafta piyasalarda yer yerinden oynayacak",
+        "link": "https://www.sozcu.com.tr/altin-gumus-ve-dolar-nefesini-tuttu-bu-hafta-piyasalarda-yer-yerinden-oynayacak-p339784",
+        "description": "Altın, gümüş ve dolar nefesini tuttu: Bu hafta piyasalarda yer yerinden oynayacak",
+        "source": "Sözcü",
+        "published": "2026-07-26T08:36:53+03:00"
+      },
+      {
+        "title": "Yarı çıplak sokağa çıkan kadının sonu acı oldu",
+        "link": "https://www.sozcu.com.tr/yari-ciplak-sokaga-cikan-kadinin-sonu-aci-oldu-p339787",
+        "description": "Yarı çıplak sokağa çıkan kadının sonu acı oldu",
+        "source": "Sözcü",
+        "published": "2026-07-26T08:35:33+03:00"
+      },
+      {
+        "title": "Milletvekilleri öğrendikleriyle şoke oldu: 'Öğretmen öldürme' oyunu",
+        "link": "https://www.sozcu.com.tr/milletvekilleri-ogrendikleriyle-soke-oldu-ogretmen-oldurme-oyunu-p339786",
+        "description": "Milletvekilleri öğrendikleriyle şoke oldu: 'Öğretmen öldürme' oyunu",
+        "source": "Sözcü",
+        "published": "2026-07-26T08:27:44+03:00"
+      },
+      {
+        "title": "Aşkın fitilini o an ateşlemiş: Buse Terim'den romantik itiraf",
+        "link": "https://www.sozcu.com.tr/askin-fitilini-o-an-ateslemis-buse-terim-den-romantik-itiraf-p339785",
+        "description": "Aşkın fitilini o an ateşlemiş: Buse Terim'den romantik itiraf",
+        "source": "Sözcü",
+        "published": "2026-07-26T08:26:32+03:00"
+      },
+      {
+        "title": "Güneş panellerindeki gizli tehlike: Duyan apar topar çatıdan söküyor",
+        "link": "https://www.sozcu.com.tr/gunes-panellerindeki-gizli-tehlike-duyan-apar-topar-catidan-sokuyor-p339783",
+        "description": "Güneş panellerindeki gizli tehlike: Duyan apar topar çatıdan söküyor",
+        "source": "Sözcü",
+        "published": "2026-07-26T08:22:04+03:00"
+      },
+      {
+        "title": "Serin hava gidiyor, sıcaklar geri dönüyor. Yeni haftada hava yeniden değişiyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-serin-hava-gidiyor-sicaklar-geri-donuyor-yeni-haftada-hava-yeniden-degisiyor-1734577",
+        "description": "Temmuz sonunda sonbaharı yaşatan serin ve yağışlı hava etkisini yitiriyor. 9 ile kuvvetli yağış uyarısı yapan meteorolojiye göre yeni haftada sıcaklar artacak.",
+        "source": "NTV",
+        "published": "2026-07-26T08:20:44+03:00"
+      },
+      {
+        "title": "Nişanlanıp altınlarla kaçtılar, 189 ülkede aranıyorlar",
+        "link": "https://www.sozcu.com.tr/nisanlanip-altinlarla-kactilar-189-ulkede-araniyorlar-p339782",
+        "description": "Nişanlanıp altınlarla kaçtılar, 189 ülkede aranıyorlar",
+        "source": "Sözcü",
+        "published": "2026-07-26T08:19:43+03:00"
+      },
+      {
+        "title": "Sevgilisi eve bıraktı, kameramanları fark edince yüzünü sakladı",
+        "link": "https://www.sozcu.com.tr/sevgilisi-eve-birakti-kameramanlari-fark-edince-yuzunu-sakladi-p339781",
+        "description": "Sevgilisi eve bıraktı, kameramanları fark edince yüzünü sakladı",
+        "source": "Sözcü",
+        "published": "2026-07-26T08:14:34+03:00"
       },
       {
         "title": "Kavgada Kızılırmak'a düşüp boğuldu",
@@ -621,34 +670,6 @@
         "description": "Arkadaşlarıyla içki içerken çıkan kavgada dengesini kaybedip Kızılırmak'a düşen 37 yaşındaki Ertuğrul Altan hayatını kaybetti.",
         "source": "NTV",
         "published": "2026-07-26T04:39:38+03:00"
-      },
-      {
-        "title": "Adana-İstanbul yolunun masrafı asgari ücreti geçti",
-        "link": "https://www.sozcu.com.tr/adana-istanbul-yolunun-masrafi-asgari-ucreti-gecti-p339761",
-        "description": "Adana-İstanbul yolunun masrafı asgari ücreti geçti",
-        "source": "Sözcü",
-        "published": "2026-07-26T04:30:03+03:00"
-      },
-      {
-        "title": "3 dolarlık et sofrada 22 dolar",
-        "link": "https://www.sozcu.com.tr/3-dolarlik-et-sofrada-22-dolar-p339760",
-        "description": "3 dolarlık et sofrada 22 dolar",
-        "source": "Sözcü",
-        "published": "2026-07-26T04:00:02+03:00"
-      },
-      {
-        "title": "Vergi yetmedi borç rekor kırdı",
-        "link": "https://www.sozcu.com.tr/vergi-yetmedi-borc-rekor-kirdi-p339759",
-        "description": "Vergi yetmedi borç rekor kırdı",
-        "source": "Sözcü",
-        "published": "2026-07-26T03:35:24+03:00"
-      },
-      {
-        "title": "Bağışıklığın gücü nelere bağlıdır?",
-        "link": "https://www.sozcu.com.tr/bagisikligin-gucu-nelere-baglidir-p339758",
-        "description": "Bağışıklığın gücü nelere bağlıdır?",
-        "source": "Sözcü",
-        "published": "2026-07-26T03:00:02+03:00"
       },
       {
         "title": "Seyir tepesinde sır dolu katliam. 3 ölü",
@@ -663,13 +684,6 @@
         "description": "Antalya'da bir atölyede eşiyle birlikte kamyonetten indirdikleri mermerin altında kalan 32 yaşındaki Hasibe Özdemir hayatını kaybetti.",
         "source": "NTV",
         "published": "2026-07-26T01:52:41+03:00"
-      },
-      {
-        "title": "İzmir'deki orman yangını kontrol altına alındı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-izmirde-orman-yangini-havadan-ve-karadan-mudahale-ediliyor-1734558",
-        "description": "İzmir'in Torbalı ilçesinde çıkan orman yangını havadan ve karadan müdahale edilerek gece saatlerinde kontrol altına alındı.",
-        "source": "NTV",
-        "published": "2026-07-26T01:41:55+03:00"
       },
       {
         "title": "Dilan Polat hakkında yeni soruşturma. \"Ticari bir faaliyette dolandırıcılık\" iddiası",
@@ -691,20 +705,6 @@
         "description": "Adana’nın Ceyhan ilçesinde dondurmacıda çalışan Yusuf Erdem silahlı saldırıda hayatını kaybetti. Ortaya çıkan görüntülerde saldırganın Erdem’in cep telefonunda görüştüğü kişiye el salladığı, ardından kurşun yağdırdığı görülüyor.",
         "source": "NTV",
         "published": "2026-07-25T21:54:56+03:00"
-      },
-      {
-        "title": "Dondurmacıda silahlı saldırı. Bir kişi hayatını kaybetti",
-        "link": "https://www.ntv.com.tr/turkiye/video-dondurmacida-silahli-saldiri-bir-kisi-hayatini-kaybetti-1734562",
-        "description": "Adana’nın Ceyhan ilçesinde dondurmacıda çalışan Yusuf Erdem silahlı saldırıda hayatını kaybetti. Ortaya çıkan görüntülerde saldırganın Erdem’in cep telefonunda görüştüğü kişiye el salladığı, ardından kurşun yağdırdığı görülüyor.",
-        "source": "NTV",
-        "published": "2026-07-25T21:54:06+03:00"
-      },
-      {
-        "title": "Adli kontrolle serbest kalan Ezel Akay'dan açıklama. \"Mahkeme sonunda her şeyi öğreneceksiniz\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-adli-kontrolle-serbest-kalan-ezel-akaydan-aciklama-mahkeme-sonunda-her-seyi-ogreneceksiniz-1734560",
-        "description": "Bursa'nın İnegöl ilçesinde evine düzenlenen uyuşturucu operasyonunda yakalanarak, çıkarıldığı mahkemece adli kontrol şartıyla serbest bırakılan ünlü yönetmen Ezel Akay, sosyal medya hesabından ilk kez açıklama yaptı.",
-        "source": "NTV",
-        "published": "2026-07-25T21:43:51+03:00"
       },
       {
         "title": "Yemek seçen bir çocuğa yaz tatilinde yemek yedirme ipuçları",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8788
   },
   "weather": {
-    "condition": "Orta kuvvette veya şiddetli sağanak yağmur",
-    "temp": "+100°F",
-    "wind": "↙23mph",
-    "humidity": "26%"
+    "condition": "Açık",
+    "temp": "+62°F",
+    "wind": "↘5mph",
+    "humidity": "84%"
   }
 }
