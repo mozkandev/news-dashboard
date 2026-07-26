@@ -1,39 +1,81 @@
 {
-  "updated_at": "2026-07-25T23:31:43.265314+00:00",
+  "updated_at": "2026-07-26T02:46:04.254528+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Clinical Failure Rates over the Decades: Yikes",
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "source": "TechCrunch",
+        "published": "2026-07-26T01:30:00+00:00"
+      },
+      {
+        "title": "Possible invasive species superspreader event near Strait of Hormuz",
+        "link": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+        "description": "Article URL: https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186 Comments URL: https://news.ycombinator.com/item?id=49053603 Points: 21 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-26T01:13:19+00:00"
+      },
+      {
+        "title": "Git rebase -I is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "description": "Article URL: https://cachebag.sh/journal/interactive-rebasing/ Comments URL: https://news.ycombinator.com/item?id=49053385 Points: 13 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-07-26T00:37:54+00:00"
+      },
+      {
+        "title": "Systems and Delays",
+        "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "description": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 19 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-26T00:37:30+00:00"
+      },
+      {
+        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+        "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "description": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 12 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-07-26T00:36:30+00:00"
+      },
+      {
+        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "description": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments...",
+        "source": "HackerNews",
+        "published": "2026-07-25T23:32:50+00:00"
+      },
+      {
+        "title": "Clinical failure rates over the decades: yikes",
         "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-        "description": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 4 # Comments: 0",
+        "description": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 49 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-07-25T22:57:17+00:00"
       },
       {
-        "title": "Kimi K3 built a Windows XP in browser",
-        "link": "https://windows-xp.kimi.site/",
-        "description": "Article URL: https://windows-xp.kimi.site/ Comments URL: https://news.ycombinator.com/item?id=49052074 Points: 29 # Comments: 15",
+        "title": "Cloudflare's new AI traffic options for customers",
+        "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "description": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 42 # Comments: 16",
         "source": "HackerNews",
-        "published": "2026-07-25T22:03:22+00:00"
+        "published": "2026-07-25T22:50:49+00:00"
       },
       {
         "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
         "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-        "description": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 68 # Comments: 19",
+        "description": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 130 # Comments: 51",
         "source": "HackerNews",
         "published": "2026-07-25T21:48:22+00:00"
       },
       {
-        "title": "Who does Anubis actually stop?",
-        "link": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
-        "description": "Article URL: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Comments URL: https://news.ycombinator.com/item?id=49051505 Points: 30 # Comments: 36",
+        "title": "Becoming a Research Engineer at a Big LLM Lab",
+        "link": "https://www.maxmynter.com/pages/blog/jobhunt",
+        "description": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 19 # Comments: 5",
         "source": "HackerNews",
-        "published": "2026-07-25T20:59:24+00:00"
+        "published": "2026-07-25T21:19:42+00:00"
       },
       {
         "title": "Multicast TV Distribution on My Home Network",
         "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
-        "description": "Article URL: https://www.apalrd.net/posts/2026/isp_mcast/ Comments URL: https://news.ycombinator.com/item?id=49051463 Points: 20 # Comments: 3",
+        "description": "Article URL: https://www.apalrd.net/posts/2026/isp_mcast/ Comments URL: https://news.ycombinator.com/item?id=49051463 Points: 41 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-07-25T20:55:12+00:00"
       },
@@ -45,46 +87,11 @@
         "published": "2026-07-25T20:55:11+00:00"
       },
       {
-        "title": "Fly.io CEO Kurt Mackey is stepping down",
-        "link": "https://fly.io/blog/kurt-scott-money-sprites/",
-        "description": "Article URL: https://fly.io/blog/kurt-scott-money-sprites/ Comments URL: https://news.ycombinator.com/item?id=49051369 Points: 115 # Comments: 69",
-        "source": "HackerNews",
-        "published": "2026-07-25T20:43:11+00:00"
-      },
-      {
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "description": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 104 # Comments: 54",
-        "source": "HackerNews",
-        "published": "2026-07-25T20:42:35+00:00"
-      },
-      {
         "title": "The hacker who humiliated spyware makers and was never caught",
         "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
         "description": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
         "source": "TechCrunch",
         "published": "2026-07-25T20:24:14+00:00"
-      },
-      {
-        "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-        "link": "https://news.ycombinator.com/item?id=49051130",
-        "description": "I like writing Markdown, but do not like writing it inside a plain textarea. I wanted something I could use anywhere by dropping in a single web component: ``` ``` That became Writemark. It renders Markdown while you write, but Markdown remains the...",
-        "source": "HackerNews",
-        "published": "2026-07-25T20:18:54+00:00"
-      },
-      {
-        "title": "Did They Ghost You?",
-        "link": "https://didtheyghostyou.com/",
-        "description": "Article URL: https://didtheyghostyou.com/ Comments URL: https://news.ycombinator.com/item?id=49051120 Points: 142 # Comments: 50",
-        "source": "HackerNews",
-        "published": "2026-07-25T20:18:03+00:00"
-      },
-      {
-        "title": "Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
-        "link": "https://github.com/0hardik1/awsmux",
-        "description": "awsmux fans one AWS CLI command out across hundreds of accounts and regions in parallel and merges the results into a single stream. There's an MCP server built in for agents. In a 150-session benchmark, agents using awsmux beat agents using the raw...",
-        "source": "HackerNews",
-        "published": "2026-07-25T20:09:06+00:00"
       },
       {
         "title": "God of War Laufey için Çıkış Tarihi Belli Oldu",
@@ -241,13 +248,6 @@
         "published": "2026-07-24T22:14:46-04:00"
       },
       {
-        "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-        "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-        "description": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
-        "source": "TechCrunch",
-        "published": "2026-07-24T22:10:00+00:00"
-      },
-      {
         "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
         "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
         "description": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has...",
@@ -355,11 +355,67 @@
     ],
     "dunya": [
       {
+        "title": "More than 300,000 flee wildfires in France and Spain",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "source": "BBC News",
+        "published": "2026-07-26T00:54:06+00:00"
+      },
+      {
+        "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+        "description": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+        "source": "BBC News",
+        "published": "2026-07-26T00:17:50+00:00"
+      },
+      {
+        "title": "Sunscreen doesn't cause cancer. Why do those claims keep spreading?",
+        "link": "https://www.bbc.co.uk/news/videos/cy4kv8ezpdyo?at_medium=RSS&at_campaign=rss",
+        "description": "Each summer, false claims about sunscreen causing cancer continue to spread online.",
+        "source": "BBC News",
+        "published": "2026-07-25T23:37:45+00:00"
+      },
+      {
+        "title": "What Love Island tells us about the changing face of dating",
+        "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+        "description": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+        "source": "BBC News",
+        "published": "2026-07-25T23:31:49+00:00"
+      },
+      {
+        "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
+        "description": "The deeper I dug, the more complicated Lockerbie became and there have been times that I don't know what to believe.",
+        "source": "BBC News",
+        "published": "2026-07-25T23:31:06+00:00"
+      },
+      {
+        "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+        "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+        "description": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+        "source": "BBC News",
+        "published": "2026-07-25T23:30:07+00:00"
+      },
+      {
         "title": "Ramsay-Peaty in tears after missing out on gold again",
         "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
         "description": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
         "source": "BBC News",
         "published": "2026-07-25T22:37:49+00:00"
+      },
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany",
+        "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured",
+        "description": "A search is underway for one or two suspects, according to Berlin police.",
+        "source": "NPR",
+        "published": "2026-07-25T21:10:56-04:00"
+      },
+      {
+        "title": "France and Spain fires force more than 200,000 to flee homes",
+        "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+        "description": "At least one person has died in a fire in Spain, according to officials.",
+        "source": "NPR",
+        "published": "2026-07-25T21:05:45-04:00"
       },
       {
         "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
@@ -374,20 +430,6 @@
         "description": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
         "source": "BBC News",
         "published": "2026-07-25T18:04:50+00:00"
-      },
-      {
-        "title": "India's 'cockroach' protest called off after education minister quits",
-        "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-        "description": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-        "source": "BBC News",
-        "published": "2026-07-25T17:44:46+00:00"
-      },
-      {
-        "title": "More than 250,000 flee wildfires in France and Spain",
-        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-        "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-        "source": "BBC News",
-        "published": "2026-07-25T17:13:40+00:00"
       },
       {
         "title": "Biden ghostwriter tapes to be released",
@@ -439,13 +481,6 @@
         "published": "2026-07-25T07:51:44-04:00"
       },
       {
-        "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
-        "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss",
-        "description": "Farmers describe attacks and police receive nearly 9,000 reports of banned hare coursing.",
-        "source": "BBC News",
-        "published": "2026-07-25T05:00:21+00:00"
-      },
-      {
         "title": "Trump is hellbent on tariffs. Here are 5 implications",
         "link": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
         "description": "Trump's determination to find new legal justifications for his tariffs threatens to prolong the uncertainty facing the U.S. and global economies.",
@@ -458,41 +493,6 @@
         "description": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner.",
         "source": "NPR",
         "published": "2026-07-25T05:00:00-04:00"
-      },
-      {
-        "title": "'The show must go on.' Trump makes jabs at rescheduled White House Correspondents' dinner",
-        "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
-        "description": "President Trump used his speech to attack his political opponents, members of the media and even members of his own cabinet.",
-        "source": "NPR",
-        "published": "2026-07-25T01:04:00-04:00"
-      },
-      {
-        "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
-        "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-        "description": "The government wants to relax wedding laws so couples can get married almost anywhere.",
-        "source": "BBC News",
-        "published": "2026-07-24T23:31:11+00:00"
-      },
-      {
-        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-        "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-        "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-        "source": "BBC News",
-        "published": "2026-07-24T23:23:53+00:00"
-      },
-      {
-        "title": "The pop band who went from playing for rescue dogs to selling out arenas",
-        "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
-        "description": "Muna discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
-        "source": "BBC News",
-        "published": "2026-07-24T23:01:10+00:00"
-      },
-      {
-        "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
-        "link": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
-        "description": "A dozen states and the Writers Guild of America had challenged the merger.",
-        "source": "NPR",
-        "published": "2026-07-24T18:26:21-04:00"
       },
       {
         "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
@@ -567,11 +567,88 @@
     ],
     "turkiye": [
       {
+        "title": "Sezaryen cezası",
+        "link": "https://www.sozcu.com.tr/sezaryen-cezasi-p339767",
+        "description": "Sezaryen cezası",
+        "source": "Sözcü",
+        "published": "2026-07-26T05:30:52+03:00"
+      },
+      {
+        "title": "Halka açıldı, işçi feryat etti",
+        "link": "https://www.sozcu.com.tr/halka-acildi-isci-feryat-etti-p339766",
+        "description": "Halka açıldı, işçi feryat etti",
+        "source": "Sözcü",
+        "published": "2026-07-26T05:30:04+03:00"
+      },
+      {
+        "title": "Bakan hafızlara bilimi anlattı",
+        "link": "https://www.sozcu.com.tr/bakan-hafizlara-bilimi-anlatti-p339764",
+        "description": "Bakan hafızlara bilimi anlattı",
+        "source": "Sözcü",
+        "published": "2026-07-26T05:30:04+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-temmuz-2026-1734567",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-26T02:30:00+03:00"
+        "published": "2026-07-26T05:30:00+03:00"
+      },
+      {
+        "title": "Trump tehdit üzerine uçak değiştirmiş",
+        "link": "https://www.sozcu.com.tr/trump-tehdit-uzerine-ucak-degistirmis-p339765",
+        "description": "Trump tehdit üzerine uçak değiştirmiş",
+        "source": "Sözcü",
+        "published": "2026-07-26T05:20:04+03:00"
+      },
+      {
+        "title": "Deli Dumrul köye indi",
+        "link": "https://www.sozcu.com.tr/deli-dumrul-koye-indi-p339762",
+        "description": "Deli Dumrul köye indi",
+        "source": "Sözcü",
+        "published": "2026-07-26T05:10:04+03:00"
+      },
+      {
+        "title": "İmzalanışının 103. yıldönümünde, Yunanistan Lozan’ı deliyor",
+        "link": "https://www.sozcu.com.tr/imzalanisinin-103-yildonumunde-yunanistan-lozan-i-deliyor-p339763",
+        "description": "İmzalanışının 103. yıldönümünde, Yunanistan Lozan’ı deliyor",
+        "source": "Sözcü",
+        "published": "2026-07-26T05:01:03+03:00"
+      },
+      {
+        "title": "Kavgada Kızılırmak'a düşüp boğuldu",
+        "link": "https://www.ntv.com.tr/turkiye/kavgada-kizilirmaka-dusup-boguldu-1734573",
+        "description": "Arkadaşlarıyla içki içerken çıkan kavgada dengesini kaybedip Kızılırmak'a düşen 37 yaşındaki Ertuğrul Altan hayatını kaybetti.",
+        "source": "NTV",
+        "published": "2026-07-26T04:39:38+03:00"
+      },
+      {
+        "title": "Adana-İstanbul yolunun masrafı asgari ücreti geçti",
+        "link": "https://www.sozcu.com.tr/adana-istanbul-yolunun-masrafi-asgari-ucreti-gecti-p339761",
+        "description": "Adana-İstanbul yolunun masrafı asgari ücreti geçti",
+        "source": "Sözcü",
+        "published": "2026-07-26T04:30:03+03:00"
+      },
+      {
+        "title": "3 dolarlık et sofrada 22 dolar",
+        "link": "https://www.sozcu.com.tr/3-dolarlik-et-sofrada-22-dolar-p339760",
+        "description": "3 dolarlık et sofrada 22 dolar",
+        "source": "Sözcü",
+        "published": "2026-07-26T04:00:02+03:00"
+      },
+      {
+        "title": "Vergi yetmedi borç rekor kırdı",
+        "link": "https://www.sozcu.com.tr/vergi-yetmedi-borc-rekor-kirdi-p339759",
+        "description": "Vergi yetmedi borç rekor kırdı",
+        "source": "Sözcü",
+        "published": "2026-07-26T03:35:24+03:00"
+      },
+      {
+        "title": "Bağışıklığın gücü nelere bağlıdır?",
+        "link": "https://www.sozcu.com.tr/bagisikligin-gucu-nelere-baglidir-p339758",
+        "description": "Bağışıklığın gücü nelere bağlıdır?",
+        "source": "Sözcü",
+        "published": "2026-07-26T03:00:02+03:00"
       },
       {
         "title": "Seyir tepesinde sır dolu katliam. 3 ölü",
@@ -579,13 +656,6 @@
         "description": "Adana'da iki erkek ile bir kadın, gece yarısı şehir manzarası izlemek için çıktıkları Rüzgarlı Tepe mevkisinde katledildi. 28 yaşındaki şüpheli Osman A., saklandığı adreste yakalandı.",
         "source": "NTV",
         "published": "2026-07-26T02:19:01+03:00"
-      },
-      {
-        "title": "Oğlu güreşte kaybeden bakan yardımcısı sahaya atladı: Hakeme küfredip üzerine yürüdü!",
-        "link": "https://www.sozcu.com.tr/oglu-gureste-kaybeden-bakan-yardimcisi-sahaya-atladi-hakeme-kufredip-uzerine-yurudu-p339754",
-        "description": "Oğlu güreşte kaybeden bakan yardımcısı sahaya atladı: Hakeme küfredip üzerine yürüdü!",
-        "source": "Sözcü",
-        "published": "2026-07-26T01:53:48+03:00"
       },
       {
         "title": "Mermer atölyesinde feci ölüm",
@@ -602,13 +672,6 @@
         "published": "2026-07-26T01:41:55+03:00"
       },
       {
-        "title": "Kılıçdaroğlu’nun rozet taktığı isim yılların CHP’lisi çıktı",
-        "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-rozet-taktigi-isim-yillarin-chp-lisi-cikti-p339749",
-        "description": "Kılıçdaroğlu’nun rozet taktığı isim yılların CHP’lisi çıktı",
-        "source": "Sözcü",
-        "published": "2026-07-26T01:06:45+03:00"
-      },
-      {
         "title": "Dilan Polat hakkında yeni soruşturma. \"Ticari bir faaliyette dolandırıcılık\" iddiası",
         "link": "https://www.ntv.com.tr/turkiye/dilan-polat-hakkinda-yeni-sorusturma-ticari-bir-faaliyette-dolandiricilik-iddiasi-1734552",
         "description": "Fenomen Dilan Polat hakkında ticari bir faaliyet kapsamında dolandırıcılık yaptığı iddiasıyla Bakırköy Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı.",
@@ -616,67 +679,11 @@
         "published": "2026-07-26T00:45:32+03:00"
       },
       {
-        "title": "Arda Güler’den Mourinho sözleri! ‘Benim için büyük fırsat’",
-        "link": "https://www.sozcu.com.tr/arda-guler-den-mourinho-sozleri-benim-icin-buyuk-firsat-p339750",
-        "description": "Arda Güler’den Mourinho sözleri! ‘Benim için büyük fırsat’",
-        "source": "Sözcü",
-        "published": "2026-07-26T00:27:30+03:00"
-      },
-      {
-        "title": "Gülşen’e 14 saniyelik reklam için rekor ücret",
-        "link": "https://www.sozcu.com.tr/gulsen-e-14-saniyelik-reklam-icin-rekor-ucret-p339745",
-        "description": "Gülşen’e 14 saniyelik reklam için rekor ücret",
-        "source": "Sözcü",
-        "published": "2026-07-26T00:12:12+03:00"
-      },
-      {
-        "title": "Ukrayna İran gemisini vurdu",
-        "link": "https://www.sozcu.com.tr/ukrayna-iran-gemisini-vurdu-p339744",
-        "description": "Ukrayna İran gemisini vurdu",
-        "source": "Sözcü",
-        "published": "2026-07-26T00:06:24+03:00"
-      },
-      {
-        "title": "Galatasaray mı Fenerbahçe mi? Rafael Leao'dan transfer açıklaması",
-        "link": "https://www.sozcu.com.tr/galatasaray-mi-fenerbahce-mi-rafael-leao-dan-transfer-aciklamasi-p339743",
-        "description": "Galatasaray mı Fenerbahçe mi? Rafael Leao'dan transfer açıklaması",
-        "source": "Sözcü",
-        "published": "2026-07-25T23:59:20+03:00"
-      },
-      {
-        "title": "Rusya’dan akaryakıt piyasasını etkileyecek karar",
-        "link": "https://www.sozcu.com.tr/rusya-dan-akaryakit-piyasasini-etkileyecek-karar-p339742",
-        "description": "Rusya’dan akaryakıt piyasasını etkileyecek karar",
-        "source": "Sözcü",
-        "published": "2026-07-25T23:48:14+03:00"
-      },
-      {
-        "title": "ABD'nin planı ortaya çıktı! Binlerce asker saldıracak",
-        "link": "https://www.sozcu.com.tr/abd-nin-plani-ortaya-cikti-binlerce-asker-saldiracak-p339741",
-        "description": "ABD'nin planı ortaya çıktı! Binlerce asker saldıracak",
-        "source": "Sözcü",
-        "published": "2026-07-25T23:41:53+03:00"
-      },
-      {
         "title": "Ayı saldırısından yaralı kurtuldu. \"Kürek olmasaydı sonum ne olurdu bilmiyorum\"",
         "link": "https://www.ntv.com.tr/turkiye/ayi-saldirisindan-yarali-kurtuldu-kurek-olmasaydi-sonum-ne-olurdu-bilmiyorum-1734566",
         "description": "Erzincan'ın Tercan ilçesinde ayının saldırması sonucu yaralanan kişi hastanede tedavi altına alındı. Geçirdiği ameliyatına ardından konuşan 53 yaşındaki İsmail Tirifi, elindeki kürek sayesinde ayının saldırısından kurtulduğunu söyledi.",
         "source": "NTV",
         "published": "2026-07-25T23:41:52+03:00"
-      },
-      {
-        "title": "İran Devrim Muhafızları: ABD halkına yalan söylüyor, en az 200 ABD askeri öldü",
-        "link": "https://www.sozcu.com.tr/iran-devrim-muhafizlari-abd-halkina-yalan-soyluyor-en-az-200-abd-askeri-oldu-p339739",
-        "description": "İran Devrim Muhafızları: ABD halkına yalan söylüyor, en az 200 ABD askeri öldü",
-        "source": "Sözcü",
-        "published": "2026-07-25T23:13:03+03:00"
-      },
-      {
-        "title": "Milli okçularımız tarih yazdı",
-        "link": "https://www.sozcu.com.tr/milli-okcularimiz-tarih-yazdi-p339738",
-        "description": "Milli okçularımız tarih yazdı",
-        "source": "Sözcü",
-        "published": "2026-07-25T22:46:37+03:00"
       },
       {
         "title": "Önce el salladı sonra kurşun yağdırdı. Bir kişi hayatını kaybetti",
@@ -698,13 +705,6 @@
         "description": "Bursa'nın İnegöl ilçesinde evine düzenlenen uyuşturucu operasyonunda yakalanarak, çıkarıldığı mahkemece adli kontrol şartıyla serbest bırakılan ünlü yönetmen Ezel Akay, sosyal medya hesabından ilk kez açıklama yaptı.",
         "source": "NTV",
         "published": "2026-07-25T21:43:51+03:00"
-      },
-      {
-        "title": "Bursa'da feci kazada 3 kişi öldü. Otomobil köprü altındaki beton duvara çarptı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-bursada-feci-kazada-3-kisi-oldu-otomobil-kopru-altindaki-beton-duvara-carpti-1734557",
-        "description": "Bursa'nın Karacabey ilçesinde kontrolden çıkan araç, köprünün beton duvarına çarptı. Kazada araçtaki 3 kişi hayatını kaybederken, biri çocuk 2 kişi de ağır şekilde yaralandı.",
-        "source": "NTV",
-        "published": "2026-07-25T20:32:17+03:00"
       },
       {
         "title": "Yemek seçen bir çocuğa yaz tatilinde yemek yedirme ipuçları",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.3268,
-    "eur_try": 53.8348,
-    "eur_usd": 0.879
+    "usd_try": 47.3301,
+    "eur_try": 53.8472,
+    "eur_usd": 0.8788
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+71°F",
-    "wind": "↗11mph",
-    "humidity": "50%"
+    "condition": "Orta kuvvette veya şiddetli sağanak yağmur",
+    "temp": "+100°F",
+    "wind": "↙23mph",
+    "humidity": "26%"
   }
 }
