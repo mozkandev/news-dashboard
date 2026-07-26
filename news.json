@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-07-26T06:05:42.922111+00:00",
+  "updated_at": "2026-07-26T08:56:23.735272+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Moonshot CEO’dan OpenAI’a Eleştiri: Yeni Bir Şey İcat Etmediler",
+        "link": "https://shiftdelete.net/moonshot-ceodan-openaia-elestiri-yeni-bir-sey-icat-etmediler",
+        "description": "Moonshot CEO'su Zhilin Yang, OpenAI'ın yeni bir şey icat etmediğini belirterek şirketi eleştirdi. İşte açık ağırlıklı yapay zeka modellerindeki son durum.",
+        "source": "ShiftDelete",
+        "published": "2026-07-26T08:00:00+00:00"
+      },
+      {
+        "title": "Avrupa Birliği: TikTok Gençleri Koruyamıyor",
+        "link": "https://shiftdelete.net/avrupa-birligi-tiktok-gencleri-koruyamiyor",
+        "description": "Avrupa Komisyonu, TikTok'un reşit olmayan kullanıcıların gizliliğini korumadığını belirterek platforma yönelik yeni güvenlik uyarılarında bulundu.",
+        "source": "ShiftDelete",
+        "published": "2026-07-26T07:00:00+00:00"
+      },
       {
         "title": "App Store’daki Sahte Uygulama Apple’ı Mahkemelik Etti",
         "link": "https://shiftdelete.net/app-storedaki-sahte-uygulama-applei-mahkemelik-etti",
         "description": "Apple, App Store üzerinden indirilen sahte bir Bitcoin cüzdanı nedeniyle 1,8 milyon dolar kaybettiren kullanıcılar tarafından dava edildi.",
         "source": "ShiftDelete",
         "published": "2026-07-26T06:00:00+00:00"
+      },
+      {
+        "title": "GrapheneOS protections against data extraction from locked devices",
+        "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+        "description": "Article URL: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices Comments URL: https://news.ycombinator.com/item?id=49055169 Points: 33 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-07-26T05:57:22+00:00"
       },
       {
         "title": "OnePlus N6x’in Batarya Kapasitesi ve Ekran Süresi Belli Oldu",
@@ -19,28 +40,21 @@
       {
         "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
         "link": "https://github.com/mulfyx/w4me-station",
-        "description": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 10 # Comments: 1",
+        "description": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 15 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-07-26T04:19:59+00:00"
       },
       {
-        "title": "Humans haven't stopped evolving",
-        "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-        "description": "Article URL: https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure Comments URL: https://news.ycombinator.com/item?id=49054307 Points: 45 # Comments: 46",
-        "source": "HackerNews",
-        "published": "2026-07-26T03:09:46+00:00"
-      },
-      {
         "title": "JetZero",
         "link": "https://www.jetzero.aero",
-        "description": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 128 # Comments: 91",
+        "description": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 189 # Comments: 151",
         "source": "HackerNews",
         "published": "2026-07-26T02:55:50+00:00"
       },
       {
         "title": "An ESP32 based plane radar for my desk",
         "link": "https://blog.ktz.me/esp32-plane-radar/",
-        "description": "Article URL: https://blog.ktz.me/esp32-plane-radar/ Comments URL: https://news.ycombinator.com/item?id=49054107 Points: 68 # Comments: 13",
+        "description": "Article URL: https://blog.ktz.me/esp32-plane-radar/ Comments URL: https://news.ycombinator.com/item?id=49054107 Points: 126 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-07-26T02:35:43+00:00"
       },
@@ -54,7 +68,7 @@
       {
         "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
         "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-        "description": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/ Comments URL: https://news.ycombinator.com/item?id=49053708 Points: 27 # Comments: 7",
+        "description": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/ Comments URL: https://news.ycombinator.com/item?id=49053708 Points: 62 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-07-26T01:35:03+00:00"
       },
@@ -66,16 +80,23 @@
         "published": "2026-07-26T01:30:00+00:00"
       },
       {
+        "title": "Git rebase -I is not that scary",
+        "link": "https://cachebag.sh/journal/interactive-rebasing/",
+        "description": "Article URL: https://cachebag.sh/journal/interactive-rebasing/ Comments URL: https://news.ycombinator.com/item?id=49053385 Points: 60 # Comments: 60",
+        "source": "HackerNews",
+        "published": "2026-07-26T00:37:54+00:00"
+      },
+      {
         "title": "Systems and Delays",
         "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-        "description": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 48 # Comments: 11",
+        "description": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 59 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-07-26T00:37:30+00:00"
       },
       {
         "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
         "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "description": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 67 # Comments: 5",
+        "description": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 121 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-07-26T00:36:30+00:00"
       },
@@ -85,13 +106,6 @@
         "description": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments...",
         "source": "HackerNews",
         "published": "2026-07-25T23:32:50+00:00"
-      },
-      {
-        "title": "Clinical failure rates over the decades: yikes",
-        "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-        "description": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 82 # Comments: 45",
-        "source": "HackerNews",
-        "published": "2026-07-25T22:57:17+00:00"
       },
       {
         "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
@@ -178,25 +192,11 @@
         "published": "2026-07-25T16:00:00+00:00"
       },
       {
-        "title": "GIGABYTE’ın RTX 4090 Garanti Reddi Kullanıcıları Şaşırttı",
-        "link": "https://shiftdelete.net/gigabytein-rtx-4090-garanti-reddi-kullanicilari-sasirtti",
-        "description": "GIGABYTE, RTX 4090 ekran kartı için yapılan garanti talebini, görünür bir hasar olmamasına rağmen PCB kırığı gerekçesiyle reddetti.",
-        "source": "ShiftDelete",
-        "published": "2026-07-25T15:00:00+00:00"
-      },
-      {
         "title": "Google basically confirms the Pixel 11 is getting a price hike",
         "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
         "description": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data...",
         "source": "The Verge",
         "published": "2026-07-25T14:13:36-04:00"
-      },
-      {
-        "title": "Xbox 360 Oyunları PC’de: Microsoft’un Gizli Emülatörü Keşfedildi",
-        "link": "https://shiftdelete.net/xbox-360-oyunlari-pcde-microsoftun-gizli-emulatoru-kesfedildi",
-        "description": "Microsoft'un PC için yayınladığı orijinal Xbox oyunları, şirketin resmi Xbox 360 emülatörünü de beraberinde getirdi. Modcular emülatörü PC'de kullanıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-07-25T14:00:00+00:00"
       },
       {
         "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
@@ -355,6 +355,27 @@
     ],
     "dunya": [
       {
+        "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
+        "description": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?",
+        "source": "BBC News",
+        "published": "2026-07-26T08:48:18+00:00"
+      },
+      {
+        "title": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
+        "description": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
+        "source": "BBC News",
+        "published": "2026-07-26T07:40:27+00:00"
+      },
+      {
+        "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+        "source": "BBC News",
+        "published": "2026-07-26T07:21:11+00:00"
+      },
+      {
         "title": "Andy Burnham rules out early election in exclusive BBC interview",
         "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
         "description": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
@@ -364,7 +385,7 @@
       {
         "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
         "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking exclusively to the BBC, Andy Burnham says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+        "description": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
         "source": "BBC News",
         "published": "2026-07-26T05:00:14+00:00"
       },
@@ -383,13 +404,6 @@
         "published": "2026-07-26T00:17:50+00:00"
       },
       {
-        "title": "Sunscreen doesn't cause cancer. Why do those claims keep spreading?",
-        "link": "https://www.bbc.co.uk/news/videos/cy4kv8ezpdyo?at_medium=RSS&at_campaign=rss",
-        "description": "Each summer, false claims about sunscreen causing cancer continue to spread online.",
-        "source": "BBC News",
-        "published": "2026-07-25T23:37:45+00:00"
-      },
-      {
         "title": "What Love Island tells us about the changing face of dating",
         "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
         "description": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
@@ -397,25 +411,11 @@
         "published": "2026-07-25T23:31:49+00:00"
       },
       {
-        "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
-        "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
-        "description": "The deeper I dug, the more complicated Lockerbie became and there have been times that I don't know what to believe.",
-        "source": "BBC News",
-        "published": "2026-07-25T23:31:06+00:00"
-      },
-      {
         "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
         "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
         "description": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
         "source": "BBC News",
         "published": "2026-07-25T23:30:07+00:00"
-      },
-      {
-        "title": "Residents allowed to return after Cairngorms wildfire evacuation",
-        "link": "https://www.bbc.co.uk/news/articles/c75gdn674r9o?at_medium=RSS&at_campaign=rss",
-        "description": "The fire was declared a major incident on Friday, but that has now been stood down by Police Scotland.",
-        "source": "BBC News",
-        "published": "2026-07-25T23:28:07+00:00"
       },
       {
         "title": "Ramsay-Peaty in tears after missing out on gold again",
@@ -567,25 +567,109 @@
     ],
     "turkiye": [
       {
-        "title": "24 yıl sonra eurolar değişiyor!",
-        "link": "https://www.sozcu.com.tr/24-yil-sonra-eurolar-degisiyor-p339791",
-        "description": "24 yıl sonra eurolar değişiyor!",
+        "title": "Uçuruma yuvarlanan otomobilde 5 kişi can verdi",
+        "link": "https://www.sozcu.com.tr/antalya-da-ucuruma-yuvarlanan-otomobildeki-5-kisi-hayatini-kaybetti-p339847",
+        "description": "Uçuruma yuvarlanan otomobilde 5 kişi can verdi",
         "source": "Sözcü",
-        "published": "2026-07-26T09:00:11+03:00"
+        "published": "2026-07-26T11:42:09+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Temmuz 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-temmuz-2026-1734567",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "title": "Serin hava gidiyor, sıcaklar geri dönüyor. Yeni haftada hava yeniden değişiyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-serin-hava-gidiyor-sicaklar-geri-donuyor-yeni-haftada-hava-yeniden-degisiyor-1734577",
+        "description": "Temmuz sonunda sonbaharı yaşatan serin ve yağışlı hava etkisini yitiriyor. 9 ile kuvvetli yağış uyarısı yapan meteorolojiye göre yeni haftada sıcaklar artacak.",
         "source": "NTV",
-        "published": "2026-07-26T09:00:00+03:00"
+        "published": "2026-07-26T11:39:02+03:00"
       },
       {
-        "title": "Kramponları çıkardı, kara lastikleri giydi: Hakan Çalhanoğlu'nun köy hali olay oldu",
-        "link": "https://www.sozcu.com.tr/kramponlari-cikardi-kara-lastikleri-giydi-hakan-calhanoglu-nun-koy-hali-olay-oldu-p339790",
-        "description": "Kramponları çıkardı, kara lastikleri giydi: Hakan Çalhanoğlu'nun köy hali olay oldu",
+        "title": "Rus gazı kesildi, Avrupa ikiye bölündü",
+        "link": "https://www.sozcu.com.tr/rus-gazi-kesildi-avrupa-ikiye-bolundu-p339846",
+        "description": "Rus gazı kesildi, Avrupa ikiye bölündü",
         "source": "Sözcü",
-        "published": "2026-07-26T08:56:19+03:00"
+        "published": "2026-07-26T11:37:17+03:00"
+      },
+      {
+        "title": "Usta oyuncu misafirhaneye yerleşti! Tarık Papuççuoğlu bir göz odada yeni hayat kurdu",
+        "link": "https://www.sozcu.com.tr/usta-oyuncu-misafirhaneye-yerlesti-tarik-papuccuoglu-bir-goz-odada-yeni-hayat-kurdu-p339841",
+        "description": "Usta oyuncu misafirhaneye yerleşti! Tarık Papuççuoğlu bir göz odada yeni hayat kurdu",
+        "source": "Sözcü",
+        "published": "2026-07-26T11:27:04+03:00"
+      },
+      {
+        "title": "Pars Filo yola çıkıyor. Türk jetleri 7 gün 24 saat alarm nöbeti tutacak",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-pars-filo-yola-cikiyor-turk-jetleri-7-gun-24-saat-alarm-nobeti-tutacak-1734619",
+        "description": "Diyarbakır'da konuşlu 181. Jet Filo Komutanlığı'na bağlı beş F-16 ve 76 personel, NATO Baltık Hava Polisliği görevi kapsamında Estonya'da dört ay boyunca 7 gün 24 saat esasıyla alarm-reaksiyon nöbeti tutacak.",
+        "source": "NTV",
+        "published": "2026-07-26T11:26:10+03:00"
+      },
+      {
+        "title": "CHP’ye oy veren 8.214 kişiye soruldu: \" Bugün seçim olsa kime oy verirsiniz?",
+        "link": "https://www.sozcu.com.tr/chp-ye-oy-veren-8-214-kisiye-soruldu-bugun-secim-olsa-kime-oy-verirsiniz-p339834",
+        "description": "CHP’ye oy veren 8.214 kişiye soruldu: \" Bugün seçim olsa kime oy verirsiniz?",
+        "source": "Sözcü",
+        "published": "2026-07-26T11:15:47+03:00"
+      },
+      {
+        "title": "Beyoğlu'nda sır ölüm: 2008'deki cinayet davasının sanığı olduğu ortaya çıktı",
+        "link": "https://www.ntv.com.tr/turkiye/beyoglunda-sir-olum-2008deki-cinayet-davasinin-sanigi-oldugu-ortaya-cikti-1734615",
+        "description": "İstanbul'da Aykut Akhoroz isimli adam yaşadığı evde ölü bulundu. Akhoroz'un 2008 yılında işlenen bir cinayetin sanığı olduğu belirlendi.",
+        "source": "NTV",
+        "published": "2026-07-26T11:15:38+03:00"
+      },
+      {
+        "title": "Hull City Konyaspor'u 3 golle geçti",
+        "link": "https://www.sozcu.com.tr/hull-city-konyaspor-u-3-golle-gecti-p339831",
+        "description": "Hull City Konyaspor'u 3 golle geçti",
+        "source": "Sözcü",
+        "published": "2026-07-26T11:09:56+03:00"
+      },
+      {
+        "title": "Yolculuk sadece 3 dakikaya düştü: Dev proje resmen açıldı",
+        "link": "https://www.sozcu.com.tr/yolculuk-sadece-3-dakikaya-dustu-dev-proje-resmen-acildi-p339832",
+        "description": "Yolculuk sadece 3 dakikaya düştü: Dev proje resmen açıldı",
+        "source": "Sözcü",
+        "published": "2026-07-26T11:09:24+03:00"
+      },
+      {
+        "title": "Citi’den 'kara kuğu' raporu: Altın ve petrolde sert fiyat şokları kapıda",
+        "link": "https://www.sozcu.com.tr/citi-den-kara-kugu-raporu-altin-ve-petrolde-sert-fiyat-soklari-kapida-p339830",
+        "description": "Citi’den 'kara kuğu' raporu: Altın ve petrolde sert fiyat şokları kapıda",
+        "source": "Sözcü",
+        "published": "2026-07-26T10:59:58+03:00"
+      },
+      {
+        "title": "Yumurta böyle çıkınca ne yapacağını bilemedi: Tavuklarını hasta sandı ama sebebi çok başka çıktı",
+        "link": "https://www.sozcu.com.tr/yumurta-boyle-cikinca-ne-yapacagini-bilemedi-tavuklarini-hasta-sandi-ama-sebebi-cok-baska-cikti-p339828",
+        "description": "Yumurta böyle çıkınca ne yapacağını bilemedi: Tavuklarını hasta sandı ama sebebi çok başka çıktı",
+        "source": "Sözcü",
+        "published": "2026-07-26T10:47:49+03:00"
+      },
+      {
+        "title": "Türklerin kasalarını soyanlar bakın kim çıktı",
+        "link": "https://www.sozcu.com.tr/turklerin-kasalarini-soyanlar-bakin-kim-cikti-p339826",
+        "description": "Türklerin kasalarını soyanlar bakın kim çıktı",
+        "source": "Sözcü",
+        "published": "2026-07-26T10:41:16+03:00"
+      },
+      {
+        "title": "Etiler'de tek tek kapıları yoklayan üç kadın tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-etilerde-tek-tek-kapilari-yoklayan-uc-kadin-tutuklandi-1734609",
+        "description": "Etiler'de hırsızlık amacıyla evlerin kapılarını çalarak içeride kimsenin olup olmadığını kontrol eden üç şüpheli gözaltına alındı. Şüphelilerin üzerinden tornavida ve kurbağacık anahtar gibi malzemeler çıktı.",
+        "source": "NTV",
+        "published": "2026-07-26T10:39:30+03:00"
+      },
+      {
+        "title": "Sadece kamp yer arıyordu: İnsanlıktan bile daha eski olan şeyi buldu",
+        "link": "https://www.sozcu.com.tr/sadece-kamp-yer-ariyordu-insanliktan-bile-daha-eski-olan-seyi-buldu-p339823",
+        "description": "Sadece kamp yer arıyordu: İnsanlıktan bile daha eski olan şeyi buldu",
+        "source": "Sözcü",
+        "published": "2026-07-26T10:31:50+03:00"
+      },
+      {
+        "title": "Adana'daki dehşette tetikçi çocuk çıktı!",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-adanadaki-dehsette-tetikci-cocuk-cikti-1734598",
+        "description": "Adana'da bir PVC ustasının öldürüldüğü olayda tetiği çeken kişinin 16 yaşındaki A.E.M. olduğu ortaya çıktı.",
+        "source": "NTV",
+        "published": "2026-07-26T10:00:47+03:00"
       },
       {
         "title": "Adana’da trafik denetimi; 42 sürücüye idari para cezası",
@@ -602,67 +686,32 @@
         "published": "2026-07-26T08:53:44+03:00"
       },
       {
-        "title": "52 milyon dolar ödediler ama bu yol hiç bir yere çıkmıyor",
-        "link": "https://www.sozcu.com.tr/52-milyon-dolar-odediler-ama-bu-yol-hic-bir-yere-cikmiyor-p339788",
-        "description": "52 milyon dolar ödediler ama bu yol hiç bir yere çıkmıyor",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:38:38+03:00"
+        "title": "İngiltere'de 40 yıl önce işlenen cinayeti katillerin hayatına sızan polisler çözdü",
+        "link": "https://www.bbc.com/turkce/articles/c5yzyn4jg4jo?at_medium=RSS&at_campaign=rss",
+        "description": "İki kardeş, 42 yıl önce devlet memuru Anthony Littler'ı öldürmekten hüküm giydi.",
+        "source": "BBC Turkish",
+        "published": "2026-07-26T07:53:14+00:00"
       },
       {
-        "title": "Altın, gümüş ve dolar nefesini tuttu: Bu hafta piyasalarda yer yerinden oynayacak",
-        "link": "https://www.sozcu.com.tr/altin-gumus-ve-dolar-nefesini-tuttu-bu-hafta-piyasalarda-yer-yerinden-oynayacak-p339784",
-        "description": "Altın, gümüş ve dolar nefesini tuttu: Bu hafta piyasalarda yer yerinden oynayacak",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:36:53+03:00"
+        "title": "Kılıçdaroğlu: 'Arınma büyük ölçüde gerçekleşti'",
+        "link": "https://www.bbc.com/turkce/articles/c5y0mvmqne2o?at_medium=RSS&at_campaign=rss",
+        "description": "Cumhuriyet Halk Partisi'ndeki bölünme sonrası CHP Genel Başkanı Kemal Kılıçdaroğlu, İstanbul'daki üye katılım töreninde konuştu. Mutlak butlan kararıyla partinin genel başkanlığına dönen Kılıçdaroğlu, \"Arınma büyük ölçüde gerçekleşti\" dedi.",
+        "source": "BBC Turkish",
+        "published": "2026-07-26T07:47:17+00:00"
       },
       {
-        "title": "Yarı çıplak sokağa çıkan kadının sonu acı oldu",
-        "link": "https://www.sozcu.com.tr/yari-ciplak-sokaga-cikan-kadinin-sonu-aci-oldu-p339787",
-        "description": "Yarı çıplak sokağa çıkan kadının sonu acı oldu",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:35:33+03:00"
+        "title": "Gecenin bir yarısı neden sürekli uyanıyorum?",
+        "link": "https://www.bbc.com/turkce/articles/cwym1932myko?at_medium=RSS&at_campaign=rss",
+        "description": "Uzmanlara göre gece 03.00 civarında uyanmak uyku döngüsünün doğal bir parçası olsa da stres, hormonlar, sağlık sorunları ve yaşam tarzı yeniden uykuya dalmayı zorlaştırabiliyor",
+        "source": "BBC Turkish",
+        "published": "2026-07-26T07:39:43+00:00"
       },
       {
-        "title": "Milletvekilleri öğrendikleriyle şoke oldu: 'Öğretmen öldürme' oyunu",
-        "link": "https://www.sozcu.com.tr/milletvekilleri-ogrendikleriyle-soke-oldu-ogretmen-oldurme-oyunu-p339786",
-        "description": "Milletvekilleri öğrendikleriyle şoke oldu: 'Öğretmen öldürme' oyunu",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:27:44+03:00"
-      },
-      {
-        "title": "Aşkın fitilini o an ateşlemiş: Buse Terim'den romantik itiraf",
-        "link": "https://www.sozcu.com.tr/askin-fitilini-o-an-ateslemis-buse-terim-den-romantik-itiraf-p339785",
-        "description": "Aşkın fitilini o an ateşlemiş: Buse Terim'den romantik itiraf",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:26:32+03:00"
-      },
-      {
-        "title": "Güneş panellerindeki gizli tehlike: Duyan apar topar çatıdan söküyor",
-        "link": "https://www.sozcu.com.tr/gunes-panellerindeki-gizli-tehlike-duyan-apar-topar-catidan-sokuyor-p339783",
-        "description": "Güneş panellerindeki gizli tehlike: Duyan apar topar çatıdan söküyor",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:22:04+03:00"
-      },
-      {
-        "title": "Serin hava gidiyor, sıcaklar geri dönüyor. Yeni haftada hava yeniden değişiyor",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-serin-hava-gidiyor-sicaklar-geri-donuyor-yeni-haftada-hava-yeniden-degisiyor-1734577",
-        "description": "Temmuz sonunda sonbaharı yaşatan serin ve yağışlı hava etkisini yitiriyor. 9 ile kuvvetli yağış uyarısı yapan meteorolojiye göre yeni haftada sıcaklar artacak.",
-        "source": "NTV",
-        "published": "2026-07-26T08:20:44+03:00"
-      },
-      {
-        "title": "Nişanlanıp altınlarla kaçtılar, 189 ülkede aranıyorlar",
-        "link": "https://www.sozcu.com.tr/nisanlanip-altinlarla-kactilar-189-ulkede-araniyorlar-p339782",
-        "description": "Nişanlanıp altınlarla kaçtılar, 189 ülkede aranıyorlar",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:19:43+03:00"
-      },
-      {
-        "title": "Sevgilisi eve bıraktı, kameramanları fark edince yüzünü sakladı",
-        "link": "https://www.sozcu.com.tr/sevgilisi-eve-birakti-kameramanlari-fark-edince-yuzunu-sakladi-p339781",
-        "description": "Sevgilisi eve bıraktı, kameramanları fark edince yüzünü sakladı",
-        "source": "Sözcü",
-        "published": "2026-07-26T08:14:34+03:00"
+        "title": "Uganda'dan Amerika'ya: Rusya'nın savaşında ölen yabancılar",
+        "link": "https://www.bbc.com/turkce/articles/c75gw17dxklo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC'nin araştırmasına göre Ekvador, Uganda, ABD, Vietnam ve Sri Lanka dahil olmak üzere 40'tan fazla ülkeden 3.500'den fazla yabancı Ukrayna savaşında Rusya saflarında savaşırken hayatını kaybetti. BBC News Rusça, öldürülen yabancı askerler hakkında...",
+        "source": "BBC Turkish",
+        "published": "2026-07-26T07:37:14+00:00"
       },
       {
         "title": "Kavgada Kızılırmak'a düşüp boğuldu",
@@ -686,41 +735,6 @@
         "published": "2026-07-26T01:52:41+03:00"
       },
       {
-        "title": "Dilan Polat hakkında yeni soruşturma. \"Ticari bir faaliyette dolandırıcılık\" iddiası",
-        "link": "https://www.ntv.com.tr/turkiye/dilan-polat-hakkinda-yeni-sorusturma-ticari-bir-faaliyette-dolandiricilik-iddiasi-1734552",
-        "description": "Fenomen Dilan Polat hakkında ticari bir faaliyet kapsamında dolandırıcılık yaptığı iddiasıyla Bakırköy Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı.",
-        "source": "NTV",
-        "published": "2026-07-26T00:45:32+03:00"
-      },
-      {
-        "title": "Ayı saldırısından yaralı kurtuldu. \"Kürek olmasaydı sonum ne olurdu bilmiyorum\"",
-        "link": "https://www.ntv.com.tr/turkiye/ayi-saldirisindan-yarali-kurtuldu-kurek-olmasaydi-sonum-ne-olurdu-bilmiyorum-1734566",
-        "description": "Erzincan'ın Tercan ilçesinde ayının saldırması sonucu yaralanan kişi hastanede tedavi altına alındı. Geçirdiği ameliyatına ardından konuşan 53 yaşındaki İsmail Tirifi, elindeki kürek sayesinde ayının saldırısından kurtulduğunu söyledi.",
-        "source": "NTV",
-        "published": "2026-07-25T23:41:52+03:00"
-      },
-      {
-        "title": "Önce el salladı sonra kurşun yağdırdı. Bir kişi hayatını kaybetti",
-        "link": "https://www.ntv.com.tr/turkiye/once-el-salladi-sonra-kursun-yagdirdi-bir-kisi-hayatini-kaybetti-1734561",
-        "description": "Adana’nın Ceyhan ilçesinde dondurmacıda çalışan Yusuf Erdem silahlı saldırıda hayatını kaybetti. Ortaya çıkan görüntülerde saldırganın Erdem’in cep telefonunda görüştüğü kişiye el salladığı, ardından kurşun yağdırdığı görülüyor.",
-        "source": "NTV",
-        "published": "2026-07-25T21:54:56+03:00"
-      },
-      {
-        "title": "Yemek seçen bir çocuğa yaz tatilinde yemek yedirme ipuçları",
-        "link": "https://www.bbc.com/turkce/articles/clyx53kglxro?at_medium=RSS&at_campaign=rss",
-        "description": "Yaz tatili başladı ve çocuklara biraz sebze yedirmek için mücadele devam ediyor. Yemek seçen bir çocuğunuz varsa tatil dönemi çok stresli olabilir. İşte yemek saatlerini daha keyifli hale getirmek için birkaç ipucu...",
-        "source": "BBC Turkish",
-        "published": "2026-07-25T14:15:20+00:00"
-      },
-      {
-        "title": "Filenin Sultanları Milletler Ligi'nde finale çıktı",
-        "link": "https://www.bbc.com/turkce/articles/c23y5yjpzr0o?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye A Milli Kadın Voleybol Takımı, 2026 Voleybol Milletler Ligi (VNL) yarı finalinde Çin'i yenerek finale çıktı.",
-        "source": "BBC Turkish",
-        "published": "2026-07-25T13:16:56+00:00"
-      },
-      {
         "title": "CHP'nin bölünme tarihi: Yeni Parti'ye kadar neler yaşandı?",
         "link": "https://www.bbc.com/turkce/articles/cp8xl5yngk8o?at_medium=RSS&at_campaign=rss",
         "description": "CHP’nin 103 yıllık tarihinde yaşanan bölünmeler; ideolojik ayrışmalar, liderlik mücadeleleri ve toplumu dönüştürme konusundaki farklı yaklaşımlardan kaynaklanıyor. Tarih boyunca Terakkiperver’den Demokrat Parti’ye, Güven Partisi’nden DSP’ye uzanan...",
@@ -733,13 +747,6 @@
         "description": "Yeni Parti Genel Başkanı Özgür Özel, partinin vitrini konumundaki Merkez Yönetim Kurulu (MYK) kadrosunu belirledi. Özel'in CHP Genel Başkanlığı dönemindeki son MYK'sında da görev yapan üç isim yeni A takımında da yer aldı.",
         "source": "BBC Turkish",
         "published": "2026-07-25T10:48:21+00:00"
-      },
-      {
-        "title": "Kılıçdaroğlu: Arınma büyük ölçüde gerçekleşti",
-        "link": "https://www.bbc.com/turkce/articles/c5y0mvmqne2o?at_medium=RSS&at_campaign=rss",
-        "description": "Cumhuriyet Halk Partisi'ndeki bölünme sonrası CHP Genel Başkanı Kemal Kılıçdaroğlu, İstanbul'daki üye katılım töreninde konuştu. Mutlak butlan kararıyla partinin genel başkanlığına dönen Kılıçdaroğlu, \"Arınma büyük ölçüde gerçekleşti\" dedi.",
-        "source": "BBC Turkish",
-        "published": "2026-07-25T10:26:53+00:00"
       },
       {
         "title": "Gülistan Doku soruşturmasında dönemin Tunceli valisinin eşi de tutuklandı",
@@ -763,13 +770,6 @@
         "published": "2026-07-24T16:31:26+00:00"
       },
       {
-        "title": "Yeni Parti hazine yardımı alabilir mi, sistem yıllar içinde nasıl değişti?",
-        "link": "https://www.bbc.com/turkce/articles/cp8xl3e9z49o?at_medium=RSS&at_campaign=rss",
-        "description": "21 Mayıs'ta İstinaf Mahkemesi'nin mutlak butlan kararıyla CHP Genel Başkanlığı görevinden uzaklaştırılan Özgür Özel partiden istifa etti ve kendisi dahil 91 milletvekiliyle Yeni Parti'yi kurdu. Partiyle ilgili en çok merak edilen konulardan biri de,...",
-        "source": "BBC Turkish",
-        "published": "2026-07-24T15:28:37+00:00"
-      },
-      {
         "title": "Yeni Parti kuruldu, Özgür Özel Genel Başkan seçildi",
         "link": "https://www.bbc.com/turkce/articles/c0jlnyg5v8po?at_medium=RSS&at_campaign=rss",
         "description": "Özgür Özel, Yeni Parti'nin ilk kurucular toplantısında genel başkan seçildi. Özgür Özel'in X hesabındaki unvanı da Yeni Parti Genel Başkanı olarak değişti.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8788
   },
   "weather": {
-    "condition": "Açık",
-    "temp": "+62°F",
-    "wind": "↘5mph",
-    "humidity": "84%"
+    "condition": "Kapalı",
+    "temp": "+72°F",
+    "wind": "↗6mph",
+    "humidity": "93%"
   }
 }
