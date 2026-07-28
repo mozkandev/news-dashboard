@@ -1,18 +1,81 @@
 {
-  "updated_at": "2026-07-27T23:01:04.293033+00:00",
+  "updated_at": "2026-07-28T00:55:00.815870+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "source": "TechCrunch",
+        "published": "2026-07-28T00:13:33+00:00"
+      },
+      {
+        "title": "The Burau representation of the braid group is faithful for n = 4",
+        "link": "https://arxiv.org/abs/2607.05283",
+        "description": "Article URL: https://arxiv.org/abs/2607.05283 Comments URL: https://news.ycombinator.com/item?id=49077209 Points: 6 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-27T23:46:15+00:00"
+      },
+      {
+        "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+        "link": "https://www.dowe.dev",
+        "description": "Article URL: https://www.dowe.dev Comments URL: https://news.ycombinator.com/item?id=49076975 Points: 16 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-07-27T23:26:05+00:00"
+      },
+      {
+        "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+        "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+        "description": "Article URL: https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349 Comments URL: https://news.ycombinator.com/item?id=49076923 Points: 97 # Comments: 49",
+        "source": "HackerNews",
+        "published": "2026-07-27T23:21:37+00:00"
+      },
+      {
+        "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+        "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+        "description": "Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/ Comments URL:...",
+        "source": "HackerNews",
+        "published": "2026-07-27T23:19:19+00:00"
+      },
+      {
+        "title": "DConf 2026 in London",
+        "link": "https://dconf.org/2026/index.html",
+        "description": "Article URL: https://dconf.org/2026/index.html Comments URL: https://news.ycombinator.com/item?id=49076840 Points: 38 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-07-27T23:14:19+00:00"
+      },
+      {
+        "title": "C/C++ projects packaged for Zig",
+        "link": "https://github.com/allyourcodebase",
+        "description": "Article URL: https://github.com/allyourcodebase Comments URL: https://news.ycombinator.com/item?id=49076791 Points: 20 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-07-27T23:09:50+00:00"
+      },
+      {
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "description": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 73 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-07-27T22:37:52+00:00"
+      },
+      {
+        "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+        "link": "https://hardroad.xyz/",
+        "description": "Article URL: https://hardroad.xyz/ Comments URL: https://news.ycombinator.com/item?id=49076382 Points: 26 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-07-27T22:36:55+00:00"
+      },
+      {
         "title": "A missing underscore sent innocent man to prison for 18 months",
         "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-        "description": "Article URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/ Comments URL: https://news.ycombinator.com/item?id=49076116 Points: 19 # Comments: 4",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/ Comments URL: https://news.ycombinator.com/item?id=49076116 Points: 102 # Comments: 63",
         "source": "HackerNews",
         "published": "2026-07-27T22:10:15+00:00"
       },
       {
         "title": "Our position on open-weights models",
         "link": "https://www.anthropic.com/news/position-open-weights-models",
-        "description": "Article URL: https://www.anthropic.com/news/position-open-weights-models Comments URL: https://news.ycombinator.com/item?id=49076057 Points: 145 # Comments: 118",
+        "description": "Article URL: https://www.anthropic.com/news/position-open-weights-models Comments URL: https://news.ycombinator.com/item?id=49076057 Points: 383 # Comments: 491",
         "source": "HackerNews",
         "published": "2026-07-27T22:03:49+00:00"
       },
@@ -22,20 +85,6 @@
         "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
         "source": "TechCrunch",
         "published": "2026-07-27T21:17:11+00:00"
-      },
-      {
-        "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
-        "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
-        "description": "Article URL: https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest Comments URL: https://news.ycombinator.com/item?id=49075386 Points: 18 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-07-27T20:53:29+00:00"
-      },
-      {
-        "title": "US DOT deleting bike lane references",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
-        "description": "Article URL: https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites Comments URL: https://news.ycombinator.com/item?id=49075350 Points: 57 # Comments: 37",
-        "source": "HackerNews",
-        "published": "2026-07-27T20:50:58+00:00"
       },
       {
         "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
@@ -59,18 +108,11 @@
         "published": "2026-07-27T20:19:42+00:00"
       },
       {
-        "title": "Forth",
-        "link": "https://xkcd.com/3277/",
-        "description": "Article URL: https://xkcd.com/3277/ Comments URL: https://news.ycombinator.com/item?id=49074991 Points: 41 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-07-27T20:15:50+00:00"
-      },
-      {
-        "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-        "link": "https://www.rise-reforming.com",
-        "description": "Hi HN! This is George, Lucas, and Jona from Rise Reforming ( https://www.rise-reforming.com/ ). We’re developing a process to convert gas produced at landfills, farms, and wastewater plants (“biogas”) into higher value chemicals. Our technology is...",
-        "source": "HackerNews",
-        "published": "2026-07-27T19:58:22+00:00"
+        "title": "Xbox’s huge outage even blocked games on disc",
+        "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+        "description": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM...",
+        "source": "The Verge",
+        "published": "2026-07-27T19:53:34-04:00"
       },
       {
         "title": "Xiaomi Oyuncular için Yeni Game Space’i Kullanıma Sundu",
@@ -78,13 +120,6 @@
         "description": "Xiaomi, HyperOS güncellemesi ile Game Turbo'yu kaldırarak yerine gelişmiş performans profilleri sunan Game Space uygulamasını getiriyor.",
         "source": "ShiftDelete",
         "published": "2026-07-27T19:00:35+00:00"
-      },
-      {
-        "title": "Self-contained highly-portable Python distributions",
-        "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-        "description": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/ Comments URL: https://news.ycombinator.com/item?id=49073942 Points: 85 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-07-27T18:43:31+00:00"
       },
       {
         "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
@@ -101,13 +136,6 @@
         "published": "2026-07-27T18:32:11+00:00"
       },
       {
-        "title": "The Artist Who Colored Ghibli",
-        "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
-        "description": "Article URL: https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli Comments URL: https://news.ycombinator.com/item?id=49073785 Points: 91 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-07-27T18:32:09+00:00"
-      },
-      {
         "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
         "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
         "description": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users...",
@@ -120,27 +148,6 @@
         "description": "Apple, iOS 26.6 güncellemesiyle iPhone ve iPad'lerdeki 75'ten fazla güvenlik açığını kapattı. Kritik yamalar ve sistem iyileştirmeleri hakkında detaylar burada.",
         "source": "ShiftDelete",
         "published": "2026-07-27T18:26:00+00:00"
-      },
-      {
-        "title": "Bytecode-to-Source Mapping",
-        "link": "https://tidefield.dev/bytecode-to-source-mapping/",
-        "description": "Article URL: https://tidefield.dev/bytecode-to-source-mapping/ Comments URL: https://news.ycombinator.com/item?id=49073665 Points: 28 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-07-27T18:25:21+00:00"
-      },
-      {
-        "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-        "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-        "description": "Article URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/ Comments URL: https://news.ycombinator.com/item?id=49073513 Points: 204 # Comments: 77",
-        "source": "HackerNews",
-        "published": "2026-07-27T18:15:35+00:00"
-      },
-      {
-        "title": "Xbox’s huge outage even blocked games on disc",
-        "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
-        "description": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about...",
-        "source": "The Verge",
-        "published": "2026-07-27T18:10:42-04:00"
       },
       {
         "title": "X Money is launching in the US starting today",
@@ -204,13 +211,6 @@
         "description": "Xiaomi, 8.000 mAh bataryalı yeni 5G destekli POCO M8 Power modelini 4 Ağustos'ta tanıtacağını duyurdu. İşte yeni model hakkında merak edilen tüm detaylar.",
         "source": "ShiftDelete",
         "published": "2026-07-27T17:00:15+00:00"
-      },
-      {
-        "title": "Threads users can now chat with Meta AI in their DMs",
-        "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-        "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-        "source": "TechCrunch",
-        "published": "2026-07-27T16:45:24+00:00"
       },
       {
         "title": "Samsung, Yeni Galaxy Z Serisinin Tasarım ve Mühendislik Hikâyesini Anlattı",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "Fourth heatwave grips parts of UK with 35C forecast",
+        "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss",
+        "description": "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.",
+        "source": "BBC News",
+        "published": "2026-07-28T00:18:58+00:00"
+      },
+      {
+        "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
+        "link": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss",
+        "description": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
+        "source": "BBC News",
+        "published": "2026-07-28T00:14:41+00:00"
+      },
+      {
         "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
         "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
         "description": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
@@ -383,18 +397,18 @@
         "published": "2026-07-27T21:57:08+00:00"
       },
       {
-        "title": "Badenoch calls for emergency legislation to stop early release scheme",
-        "link": "https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o?at_medium=RSS&at_campaign=rss",
-        "description": "Last week Andy Burnham announced he was pausing early release plans for September after backlash from survivors and victims.",
-        "source": "BBC News",
-        "published": "2026-07-27T21:54:12+00:00"
-      },
-      {
         "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
         "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
         "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
         "source": "BBC News",
         "published": "2026-07-27T20:34:55+00:00"
+      },
+      {
+        "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
+        "description": "Sen. Rand Paul has released a tranche of Dr. Anthony Fauci's diary entries from the COVID-19 pandemic. Fauci is set to appear before a Senate committee Wednesday on the origins of the coronavirus.",
+        "source": "NPR",
+        "published": "2026-07-27T20:05:31-04:00"
       },
       {
         "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
@@ -404,9 +418,9 @@
         "published": "2026-07-27T17:29:27-04:00"
       },
       {
-        "title": "Authors wary of content ownership despite court ruling on Anthropic case",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
-        "description": "The literary world is celebrating Anthropic's $1.5 billion settlement with authors. But AI firms may still train models on legally purchased books. What does that mean?",
+        "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
+        "description": "Some say the $3,100 per title payout is small compensation for what they view as big, ongoing threats from the makers of generative AI models.",
         "source": "NPR",
         "published": "2026-07-27T16:49:57-04:00"
       },
@@ -460,13 +474,6 @@
         "published": "2026-07-27T12:54:28-04:00"
       },
       {
-        "title": "TV presenter and comedian Bill Oddie dies at 85",
-        "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
-        "description": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
-        "source": "BBC News",
-        "published": "2026-07-27T12:47:47+00:00"
-      },
-      {
         "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
         "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
         "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
@@ -495,13 +502,6 @@
         "published": "2026-07-27T05:00:00-04:00"
       },
       {
-        "title": "Baltimore will turn 911 into more than just an emergency number",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
-        "description": "Baltimore is rethinking what it means to call 911, and who responds. Callers who don't need police will get help finding social services and healthcare before they actually fall into crisis.",
-        "source": "NPR",
-        "published": "2026-07-27T05:00:00-04:00"
-      },
-      {
         "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
         "link": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
         "description": "The influx of federal agents into the city last fall led to widespread immigration arrests – a majority without criminal convictions. President Trump has said he wants to replicate it elsewhere.",
@@ -509,11 +509,11 @@
         "published": "2026-07-27T05:00:00-04:00"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
-        "description": "Three people were killed in a shooting at a Seattle food festival Sunday, U.S and Iran pause airstrikes, with less than 100 days left until Election Day, a look at how the midterms are shaping up.",
+        "title": "Baltimore will turn 911 into more than just an emergency number",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+        "description": "Baltimore is rethinking what it means to call 911, and who responds. Callers who don't need police will get help finding social services and healthcare before they actually fall into crisis.",
         "source": "NPR",
-        "published": "2026-07-27T04:43:38-04:00"
+        "published": "2026-07-27T05:00:00-04:00"
       },
       {
         "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
@@ -571,7 +571,7 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-28-temmuz-2026-1734838",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 28 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-28T02:00:00+03:00"
+        "published": "2026-07-28T03:30:00+03:00"
       },
       {
         "title": "Genç kıza ait mezarda hareketli gümüş kapak bulundu",
@@ -780,13 +780,13 @@
   },
   "exchange_rates": {
     "usd_try": 47.3404,
-    "eur_try": 53.9224,
+    "eur_try": 53.8741,
     "eur_usd": 0.878
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+89°F",
-    "wind": "↙3mph",
-    "humidity": "38%"
+    "temp": "+76°F",
+    "wind": "↘10mph",
+    "humidity": "51%"
   }
 }
