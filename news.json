@@ -1,18 +1,46 @@
 {
-  "updated_at": "2026-07-29T19:15:20.322065+00:00",
+  "updated_at": "2026-07-29T20:29:31.521472+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Claude Is Down",
+        "link": "https://status.claude.com/incidents/q2kg8n613kr3",
+        "description": "Article URL: https://status.claude.com/incidents/q2kg8n613kr3 Comments URL: https://news.ycombinator.com/item?id=49102150 Points: 85 # Comments: 47",
+        "source": "HackerNews",
+        "published": "2026-07-29T19:50:42+00:00"
+      },
+      {
+        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+        "source": "TechCrunch",
+        "published": "2026-07-29T19:44:49+00:00"
+      },
+      {
+        "title": "Kimi K3-256k",
+        "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "description": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models Comments URL: https://news.ycombinator.com/item?id=49101852 Points: 116 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-07-29T19:25:33+00:00"
+      },
+      {
+        "title": "How much can you delegate to agents?",
+        "link": "https://newsletter.posthog.com/p/agent-autonomy",
+        "description": "Article URL: https://newsletter.posthog.com/p/agent-autonomy Comments URL: https://news.ycombinator.com/item?id=49101655 Points: 15 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-29T19:07:13+00:00"
+      },
+      {
         "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
         "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-        "description": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 6 # Comments: 3",
+        "description": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 17 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-07-29T18:57:10+00:00"
       },
       {
-        "title": "Austerity Breeds Financial Protectionism",
+        "title": "Who the welfare state protects shapes a country’s financial openness",
         "link": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
-        "description": "Article URL: https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/ Comments URL: https://news.ycombinator.com/item?id=49101460 Points: 7 # Comments: 1",
+        "description": "Article URL: https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/ Comments URL: https://news.ycombinator.com/item?id=49101460 Points: 31 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-07-29T18:50:10+00:00"
       },
@@ -24,25 +52,11 @@
         "published": "2026-07-29T18:45:27+00:00"
       },
       {
-        "title": "The motion-sickness cure hidden in iPhone settings",
-        "link": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings",
-        "description": "Article URL: https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings Comments URL: https://news.ycombinator.com/item?id=49101371 Points: 5 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-07-29T18:43:18+00:00"
-      },
-      {
         "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
         "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-        "description": "Article URL: https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html Comments URL: https://news.ycombinator.com/item?id=49101351 Points: 4 # Comments: 0",
+        "description": "Article URL: https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html Comments URL: https://news.ycombinator.com/item?id=49101351 Points: 18 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-07-29T18:42:10+00:00"
-      },
-      {
-        "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
-        "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-        "description": "Article URL: https://gleam.run/news/a-field-day-for-gleams-language-server/ Comments URL: https://news.ycombinator.com/item?id=49101334 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-29T18:40:52+00:00"
       },
       {
         "title": "Gornik Zabrze-Fenerbahçe Maçı Canlı İzle: S Sport Plus Yayın Bilgileri",
@@ -54,7 +68,7 @@
       {
         "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
         "link": "https://prilik.com/blog/post/automating-ac-nyc/",
-        "description": "Article URL: https://prilik.com/blog/post/automating-ac-nyc/ Comments URL: https://news.ycombinator.com/item?id=49101198 Points: 5 # Comments: 0",
+        "description": "Article URL: https://prilik.com/blog/post/automating-ac-nyc/ Comments URL: https://news.ycombinator.com/item?id=49101198 Points: 33 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-07-29T18:28:51+00:00"
       },
@@ -166,16 +180,16 @@
       {
         "title": "Some thoughts about Anthropic's new cryptanalysis results",
         "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "description": "Article URL: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/ Comments URL: https://news.ycombinator.com/item?id=49099804 Points: 46 # Comments: 21",
+        "description": "Article URL: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/ Comments URL: https://news.ycombinator.com/item?id=49099804 Points: 65 # Comments: 35",
         "source": "HackerNews",
         "published": "2026-07-29T16:42:20+00:00"
       },
       {
-        "title": "Keychron announces first open-source firmware for gaming mice",
-        "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-        "description": "Article URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice Comments URL: https://news.ycombinator.com/item?id=49099715 Points: 113 # Comments: 50",
-        "source": "HackerNews",
-        "published": "2026-07-29T16:36:59+00:00"
+        "title": "Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges",
+        "link": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+        "description": "Xbox is having yet another tough quarter, as revenue from Game Pass subscription and other services dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 14 percent, according to Microsoft's fourth-quarter...",
+        "source": "The Verge",
+        "published": "2026-07-29T16:29:05-04:00"
       },
       {
         "title": "Honor Magic V6 Türkiye Yolunda – Fiyatı Ne Kadar Olacak?",
@@ -255,13 +269,6 @@
         "published": "2026-07-29T14:19:30-04:00"
       },
       {
-        "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-        "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-        "description": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a...",
-        "source": "TechCrunch",
-        "published": "2026-07-29T14:00:00+00:00"
-      },
-      {
         "title": "HBO Max’e Dikey Videolar ve Yapay Zeka Arama Geliyor",
         "link": "https://shiftdelete.net/hbo-maxe-dikey-videolar-ve-yapay-zeka-arama-geliyor",
         "description": "HBO Max, içerik keşfini kolaylaştırmak için dikey video formatı HBO Max Shorts ve doğal dil destekli arama özelliği Ask HBO Max'i test ediyor.",
@@ -339,13 +346,6 @@
         "published": "2026-07-29T09:02:00-04:00"
       },
       {
-        "title": "Artists are lawyering up against AI slop, and some are even winning",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-        "description": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief...",
-        "source": "The Verge",
-        "published": "2026-07-28T16:19:25-04:00"
-      },
-      {
         "title": "DoorDash is going airborne with new drone delivery division",
         "link": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
         "description": "DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration that clears the way for drone delivery in the near future. DoorDash...",
@@ -355,25 +355,25 @@
     ],
     "dunya": [
       {
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-        "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "title": "Limiting sugar before age two linked to better brain health",
+        "link": "https://www.bbc.co.uk/news/articles/clyx85z1ld5o?at_medium=RSS&at_campaign=rss",
+        "description": "Study suggests less sugar in early life is good for long-term brain health, but the evidence is not conclusive.",
         "source": "BBC News",
-        "published": "2026-07-29T18:41:31+00:00"
+        "published": "2026-07-29T20:02:45+00:00"
       },
       {
         "title": "Police to take no further action against Polanski over guillotine re-post",
         "link": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
         "description": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
         "source": "BBC News",
-        "published": "2026-07-29T18:40:44+00:00"
+        "published": "2026-07-29T19:53:48+00:00"
       },
       {
-        "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-        "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-        "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
         "source": "BBC News",
-        "published": "2026-07-29T17:58:42+00:00"
+        "published": "2026-07-29T18:41:31+00:00"
       },
       {
         "title": "Fifa opens disciplinary proceedings against Argentina",
@@ -397,7 +397,7 @@
         "published": "2026-07-29T17:00:41+00:00"
       },
       {
-        "title": "France fire crews face searing heat in battle to contain flames",
+        "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
         "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
         "description": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
         "source": "BBC News",
@@ -474,16 +474,16 @@
         "published": "2026-07-29T05:00:00-04:00"
       },
       {
-        "title": "As extreme heat grips the South and West, here's how to stay safe",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
-        "description": "Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications.",
+        "title": "To win over working-class voters, Democrats need to stop talking about democracy",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
+        "description": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party's future, a new reports shows. But first, the messaging has to change.",
         "source": "NPR",
         "published": "2026-07-29T05:00:00-04:00"
       },
       {
-        "title": "To win over working-class voters, Democrats need to stop talking about democracy",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
-        "description": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party's future, a new reports shows. But first, the messaging has to change.",
+        "title": "As extreme heat grips the South and West, here's how to stay safe",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
+        "description": "Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications.",
         "source": "NPR",
         "published": "2026-07-29T05:00:00-04:00"
       },
@@ -567,25 +567,67 @@
     ],
     "turkiye": [
       {
-        "title": "Son dakika... Fed faiz kararını açıkladı",
-        "link": "https://www.sozcu.com.tr/son-dakika-fed-faiz-kararini-acikladi-p340819",
-        "description": "Son dakika... Fed faiz kararını açıkladı",
+        "title": "Yeni Yol Grubu dağılıyor mu? Selçuk Özdağ yol haritasını açıkladı",
+        "link": "https://www.sozcu.com.tr/yeni-yol-grubu-dagiliyor-mu-selcuk-ozdag-yol-haritasini-acikladi-p340837",
+        "description": "Yeni Yol Grubu dağılıyor mu? Selçuk Özdağ yol haritasını açıkladı",
         "source": "Sözcü",
-        "published": "2026-07-29T22:12:41+03:00"
+        "published": "2026-07-29T23:18:04+03:00"
       },
       {
-        "title": "Yandaş yazardan bomba iddia: Gelecek Partili vekillerin geçecekleri partileri açıkladı",
-        "link": "https://www.sozcu.com.tr/yandas-yazardan-bomba-iddia-gelecek-partili-vekillerin-gececekleri-partileri-acikladi-p340827",
-        "description": "Yandaş yazardan bomba iddia: Gelecek Partili vekillerin geçecekleri partileri açıkladı",
+        "title": "UEFA'dan FIFA'nın futbol federasyonlarına baskısına sert tepki",
+        "link": "https://www.sozcu.com.tr/uefa-dan-fifa-nin-futbol-federasyonlarina-baskisina-sert-tepki-p340839",
+        "description": "UEFA'dan FIFA'nın futbol federasyonlarına baskısına sert tepki",
         "source": "Sözcü",
-        "published": "2026-07-29T22:00:33+03:00"
+        "published": "2026-07-29T23:14:44+03:00"
       },
       {
-        "title": "Gelecek Partisi’nin feshi sonrası AKP’li Şamil Tayyar’dan olay sözler",
-        "link": "https://www.sozcu.com.tr/gelecek-partisi-nin-feshi-sonrasi-akp-li-samil-tayyar-dan-olay-sozler-p340822",
-        "description": "Gelecek Partisi’nin feshi sonrası AKP’li Şamil Tayyar’dan olay sözler",
+        "title": "Karşıyaka'da ikinci Markovic dönemi",
+        "link": "https://www.sozcu.com.tr/karsiyaka-da-ikinci-markovic-donemi-p340838",
+        "description": "Karşıyaka'da ikinci Markovic dönemi",
         "source": "Sözcü",
-        "published": "2026-07-29T22:00:19+03:00"
+        "published": "2026-07-29T23:12:13+03:00"
+      },
+      {
+        "title": "Galatasaray Avusturya'da hazırlıklarına devam etti",
+        "link": "https://www.sozcu.com.tr/galatasaray-avusturya-da-hazirliklarina-devam-etti-p340836",
+        "description": "Galatasaray Avusturya'da hazırlıklarına devam etti",
+        "source": "Sözcü",
+        "published": "2026-07-29T23:06:09+03:00"
+      },
+      {
+        "title": "Meteorolojiden kuvvetli fırtına uyarısı",
+        "link": "https://www.sozcu.com.tr/meteorolojiden-kuvvetli-firtina-uyarisi-p340835",
+        "description": "Meteorolojiden kuvvetli fırtına uyarısı",
+        "source": "Sözcü",
+        "published": "2026-07-29T23:01:48+03:00"
+      },
+      {
+        "title": "Fırtınada devrilen ağacın içinden 6 metrelik dev bal peteği çıktı",
+        "link": "https://www.sozcu.com.tr/firtinada-devrilen-agacin-icinden-6-metrelik-dev-bal-petegi-cikti-p340834",
+        "description": "Fırtınada devrilen ağacın içinden 6 metrelik dev bal peteği çıktı",
+        "source": "Sözcü",
+        "published": "2026-07-29T22:48:24+03:00"
+      },
+      {
+        "title": "Dışişleri Bakanı Fidan, Hamas heyetiyle görüştü",
+        "link": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidan-hamas-heyetiyle-gorustu-1735160",
+        "description": "Dışişleri Bakanı Hakan Fidan, Hamas Siyasi Büro Şefi Halil Hayye ve beraberindeki heyetle Ankara’da bir araya geldi.",
+        "source": "NTV",
+        "published": "2026-07-29T22:47:31+03:00"
+      },
+      {
+        "title": "Otoparkta tekme tokat kavga etmişlerdi: 5 gözaltı",
+        "link": "https://www.sozcu.com.tr/otoparkta-tekme-tokat-kavga-etmislerdi-5-gozalti-p340833",
+        "description": "Otoparkta tekme tokat kavga etmişlerdi: 5 gözaltı",
+        "source": "Sözcü",
+        "published": "2026-07-29T22:45:11+03:00"
+      },
+      {
+        "title": "Elon Musk'tan dev enerji hamlesi: Güneşten üretilecek elektriğin tamamını satın alacak",
+        "link": "https://www.sozcu.com.tr/elon-musk-tan-dev-enerji-hamlesi-gunesten-uretilecek-elektrigin-tamamini-satin-alacak-p340831",
+        "description": "Elon Musk'tan dev enerji hamlesi: Güneşten üretilecek elektriğin tamamını satın alacak",
+        "source": "Sözcü",
+        "published": "2026-07-29T22:19:55+03:00"
       },
       {
         "title": "Eren Kaşıkçı'nın ölmeden önce kızıyla paylaşımları yürek sızlattı",
@@ -593,13 +635,6 @@
         "description": "Eren Kaşıkçı'nın ölmeden önce kızıyla paylaşımları yürek sızlattı",
         "source": "Sözcü",
         "published": "2026-07-29T21:57:40+03:00"
-      },
-      {
-        "title": "Somer Şef’ten ölü bulunan Eren Kaşıkçı'nın ardından yürek burkan paylaşım",
-        "link": "https://www.sozcu.com.tr/somer-sef-ten-olu-bulunan-eren-kasikci-nin-ardindan-yurek-burkan-paylasim-p340825",
-        "description": "Somer Şef’ten ölü bulunan Eren Kaşıkçı'nın ardından yürek burkan paylaşım",
-        "source": "Sözcü",
-        "published": "2026-07-29T21:38:16+03:00"
       },
       {
         "title": "Gelecek Partisi feshedildi",
@@ -623,13 +658,6 @@
         "published": "2026-07-29T21:22:05+03:00"
       },
       {
-        "title": "YENİ Parti'nin bağış kampanyası başladı",
-        "link": "https://www.sozcu.com.tr/yeni-parti-nin-bagis-kampanyasi-basladi-p340818",
-        "description": "YENİ Parti'nin bağış kampanyası başladı",
-        "source": "Sözcü",
-        "published": "2026-07-29T21:07:03+03:00"
-      },
-      {
         "title": "CHP seçmen verilerini hukuka aykırı ele geçirdiği iddiasıyla 2 şüpheli hakkında soruşturma",
         "link": "https://www.ntv.com.tr/turkiye/chp-secmen-verilerini-hukuka-aykiri-ele-gecirdigi-iddiasiyla-2-supheli-hakkinda-sorusturma-1735155",
         "description": "CHP Genel Merkezi'nin seçmen verilerini hukuka aykırı olarak ele geçirdiği iddia edilen şüpheliler Çetin Fındık ile İsmail Yekta Deger hakkında soruşturma başlatıldı.",
@@ -637,32 +665,18 @@
         "published": "2026-07-29T20:49:23+03:00"
       },
       {
-        "title": "Dev proje resmen hayata geçti: Hayvansal yağ ve sebze atıkları yakıta dönüşecek",
-        "link": "https://www.sozcu.com.tr/dev-proje-resmen-hayata-gecti-hayvansal-yag-ve-sebze-atiklari-yakita-donusecek-p340821",
-        "description": "Dev proje resmen hayata geçti: Hayvansal yağ ve sebze atıkları yakıta dönüşecek",
-        "source": "Sözcü",
-        "published": "2026-07-29T20:48:09+03:00"
-      },
-      {
-        "title": "Orman yolunda dehşet! 7 metrelik dev piton, 35 yaşındaki adamı yuttu",
-        "link": "https://www.sozcu.com.tr/orman-yolunda-dehset-7-metrelik-dev-piton-35-yasindaki-adami-yuttu-p340820",
-        "description": "Orman yolunda dehşet! 7 metrelik dev piton, 35 yaşındaki adamı yuttu",
-        "source": "Sözcü",
-        "published": "2026-07-29T20:23:54+03:00"
-      },
-      {
-        "title": "İktidardan ‘satılık köprü’ Masada iki farklı model var",
-        "link": "https://www.sozcu.com.tr/iktidardan-satilik-kopru-masada-iki-farkli-model-var-p340817",
-        "description": "İktidardan ‘satılık köprü’ Masada iki farklı model var",
-        "source": "Sözcü",
-        "published": "2026-07-29T19:56:36+03:00"
+        "title": "Fenerbahçe, Şampiyonlar Ligi ön elemesinde Gornik Zabrze deplasmanında turu geçen taraf oldu",
+        "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo?at_medium=RSS&at_campaign=rss",
+        "description": "Fenerbahçe, Şampiyonlar Ligi ikinci ön eleme turu ilk maçında Polonya ligi temsilcilerinden Gornik Zabrze karşısında deplasmandaki rövanş maçında 1-1 berabere kaldı. İlk maçı 1-0 kazanan Fenerbahçe, toplam skorla turu geçen taraf oldu.",
+        "source": "BBC Turkish",
+        "published": "2026-07-29T20:17:50+00:00"
       },
       {
         "title": "Davutoğlu, Gelecek Partisi'ni feshettiklerini açıkladı",
         "link": "https://www.bbc.com/turkce/articles/cy07w8dey5no?at_medium=RSS&at_campaign=rss",
         "description": "Ahmet Davutoğlu, genel başkanı olduğu Gelecek Partisi'nin siyasi faaliyetlerini sonlandırma kararı aldıklarını açıkladı. Davutoğlu kararı \"ahlaki bir mesafe koyma kararı\" olarak niteledi.",
         "source": "BBC Turkish",
-        "published": "2026-07-29T19:08:25+00:00"
+        "published": "2026-07-29T19:27:02+00:00"
       },
       {
         "title": "Sinem Dedetaş'ın gözaltına alınmasına tepkiler ne oldu?",
@@ -714,13 +728,6 @@
         "published": "2026-07-29T16:18:52+03:00"
       },
       {
-        "title": "Cemil Tugay ile ilgili iddiaların ardından Yeni Parti'den ilk açıklama",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-cemil-tugay-ile-ilgili-iddialarin-ardindan-yeni-partiden-ilk-aciklama-1735122",
-        "description": "\"Mutlak butlan\" kararının ardından CHP'den istifa edip yoluna bağımsız devam edeceğini bildiren İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye katılacağı iddiaları Yeni Parti'den ilk açıklama geldi.",
-        "source": "NTV",
-        "published": "2026-07-29T16:00:45+03:00"
-      },
-      {
         "title": "Mobil DOA cihazları geliyor. Bakkal, büfe ve marketler de sisteme dahil olacak",
         "link": "https://www.ntv.com.tr/turkiye/galeri-mobil-doa-cihazlari-geliyor-bakkal-bufe-ve-marketler-de-sisteme-dahil-olacak-1735014",
         "description": "Depozitosu Olan Ambalajlar (DOA) makineleri mobil oluyor. Elde taşınabilen mobil cihazlar sayesinde büyük makinelere gerek kalmadan bakkal ve büfe gibi yerlerde de iade yapılabilecek.",
@@ -756,13 +763,6 @@
         "published": "2026-07-29T10:06:13+00:00"
       },
       {
-        "title": "Fenerbahçe, Şampiyonlar Ligi ön elemesinde Gornik Zabrze deplasmanında",
-        "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo?at_medium=RSS&at_campaign=rss",
-        "description": "Fenerbahçe, Şampiyonlar Ligi ikinci ön eleme turu ilk maçında Polonya ligi temsilcilerinden Gornik Zabrze karşısında deplasmanda rövanşa maçına çıkacak.",
-        "source": "BBC Turkish",
-        "published": "2026-07-29T09:45:59+00:00"
-      },
-      {
         "title": "Türkiye'den vize isteyen ve istemeyen ülkeler hangileri?",
         "link": "https://www.bbc.com/turkce/articles/cpq8ey2p7vgo?at_medium=RSS&at_campaign=rss",
         "description": "Karadağ'ın Ekim 2026'dan itibaren Türk vatandaşlarından vize istemeye başlayacağını açıklamasıyla birlikte, Türk pasaportuyla Avrupa'da vizesiz gidilebilen ülke sayısı 10'a düşecek. Peki Türk vatandaşları dünya genelinde hangi ülkeleri vizesiz...",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8787
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+81°F",
+    "condition": "Güneşli",
+    "temp": "+84°F",
     "wind": "↘11mph",
-    "humidity": "45%"
+    "humidity": "40%"
   }
 }
