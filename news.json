@@ -1,20 +1,83 @@
 {
-  "updated_at": "2026-07-29T00:03:56.452264+00:00",
+  "updated_at": "2026-07-29T03:49:08.840279+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
-        "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-        "description": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn Comments URL: https://news.ycombinator.com/item?id=49090867 Points: 87 # Comments: 36",
+        "title": "Hooray for the Sockets Interface",
+        "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+        "description": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/ Comments URL: https://news.ycombinator.com/item?id=49092754 Points: 7 # Comments: 4",
         "source": "HackerNews",
-        "published": "2026-07-28T22:31:14+00:00"
+        "published": "2026-07-29T02:25:29+00:00"
       },
       {
-        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-        "link": "https://github.com/twalichiewicz/HNewhere",
-        "description": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. I...",
+        "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+        "link": "https://github.com/jagg-ix/zil-lean",
+        "description": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under...",
         "source": "HackerNews",
-        "published": "2026-07-28T22:09:06+00:00"
+        "published": "2026-07-29T02:22:04+00:00"
+      },
+      {
+        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+        "link": "https://www.bbc.com/news/articles/cly8zng43npo",
+        "description": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 25 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-07-29T01:56:00+00:00"
+      },
+      {
+        "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+        "link": "https://learnvector.ai/",
+        "description": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 60 # Comments: 30",
+        "source": "HackerNews",
+        "published": "2026-07-29T01:49:19+00:00"
+      },
+      {
+        "title": "Multiple Mouse Cursors in Wayland",
+        "link": "https://blinry.org/multi-seat-wayland/",
+        "description": "Article URL: https://blinry.org/multi-seat-wayland/ Comments URL: https://news.ycombinator.com/item?id=49092112 Points: 32 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-07-29T00:59:37+00:00"
+      },
+      {
+        "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+        "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+        "description": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html Comments URL: https://news.ycombinator.com/item?id=49091895 Points: 16 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-29T00:32:08+00:00"
+      },
+      {
+        "title": "The Difference Between a Button and a Link",
+        "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+        "description": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/ Comments URL: https://news.ycombinator.com/item?id=49091738 Points: 47 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-07-29T00:12:14+00:00"
+      },
+      {
+        "title": "Hubble: Open-source notetaking app for you and your agents",
+        "link": "https://www.hubble.md/",
+        "description": "Article URL: https://www.hubble.md/ Comments URL: https://news.ycombinator.com/item?id=49091730 Points: 57 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-07-29T00:11:23+00:00"
+      },
+      {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "description": "The deal is Cyera's third acquisition this year.",
+        "source": "TechCrunch",
+        "published": "2026-07-29T00:09:05+00:00"
+      },
+      {
+        "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+        "link": "https://studio.academa.ai/",
+        "description": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos. We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust...",
+        "source": "HackerNews",
+        "published": "2026-07-29T00:07:43+00:00"
+      },
+      {
+        "title": "ReFrame – The EPaper Camera",
+        "link": "https://reframe.camera/",
+        "description": "Article URL: https://reframe.camera/ Comments URL: https://news.ycombinator.com/item?id=49091379 Points: 51 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-07-28T23:27:09+00:00"
       },
       {
         "title": "Bot-detection startup Spur nabs $200M from Insight",
@@ -24,39 +87,11 @@
         "published": "2026-07-28T21:29:34+00:00"
       },
       {
-        "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-        "link": "https://github.com/anthropics/cryptography-research-demo",
-        "description": "Article URL: https://github.com/anthropics/cryptography-research-demo Comments URL: https://news.ycombinator.com/item?id=49090083 Points: 49 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-07-28T21:22:48+00:00"
-      },
-      {
-        "title": "Half-Life ported to Mac OS 9",
-        "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-        "description": "Article URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/ Comments URL: https://news.ycombinator.com/item?id=49089814 Points: 101 # Comments: 33",
-        "source": "HackerNews",
-        "published": "2026-07-28T20:58:39+00:00"
-      },
-      {
-        "title": "OpenAI just open-sourced Codex Security",
-        "link": "https://github.com/openai/codex-security",
-        "description": "Article URL: https://github.com/openai/codex-security Comments URL: https://news.ycombinator.com/item?id=49089755 Points: 283 # Comments: 60",
-        "source": "HackerNews",
-        "published": "2026-07-28T20:52:55+00:00"
-      },
-      {
         "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
         "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
         "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
         "source": "TechCrunch",
         "published": "2026-07-28T20:45:12+00:00"
-      },
-      {
-        "title": "Toolcraft",
-        "link": "https://toolcraft.sh",
-        "description": "Article URL: https://toolcraft.sh Comments URL: https://news.ycombinator.com/item?id=49089600 Points: 31 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-07-28T20:37:29+00:00"
       },
       {
         "title": "Sam Altman is ready to decelerate",
@@ -73,11 +108,25 @@
         "published": "2026-07-28T20:00:27+00:00"
       },
       {
-        "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
-        "link": "https://github.com/ghaziwali/Hulios",
-        "description": "Article URL: https://github.com/ghaziwali/Hulios Comments URL: https://news.ycombinator.com/item?id=49089045 Points: 27 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-07-28T19:54:38+00:00"
+        "title": "AI’s finally expensive enough to make Wall Street nervous",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+        "description": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected...",
+        "source": "The Verge",
+        "published": "2026-07-28T19:37:03-04:00"
+      },
+      {
+        "title": "The union drive at the Wikimedia Foundation is expanding",
+        "link": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+        "description": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit has declined to...",
+        "source": "The Verge",
+        "published": "2026-07-28T19:32:36-04:00"
+      },
+      {
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at...",
+        "source": "The Verge",
+        "published": "2026-07-28T19:14:53-04:00"
       },
       {
         "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
@@ -136,13 +185,6 @@
         "published": "2026-07-28T18:35:29+00:00"
       },
       {
-        "title": "MCP 2026-07-28 Specification: transport going stateless",
-        "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-        "description": "Article URL: https://blog.modelcontextprotocol.io/posts/2026-07-28/ Comments URL: https://news.ycombinator.com/item?id=49088058 Points: 95 # Comments: 31",
-        "source": "HackerNews",
-        "published": "2026-07-28T18:35:11+00:00"
-      },
-      {
         "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
         "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
         "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest...",
@@ -178,13 +220,6 @@
         "published": "2026-07-28T17:38:49+03:00"
       },
       {
-        "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-        "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-        "description": "https://www.apple.com/shop/apple-upgrade Comments URL: https://news.ycombinator.com/item?id=49087306 Points: 125 # Comments: 215",
-        "source": "HackerNews",
-        "published": "2026-07-28T17:37:12+00:00"
-      },
-      {
         "title": "Land Rover Discovery Sport Üretimi Bitiyor!",
         "link": "\n                    https://www.webtekno.com/land-rover-discovery-sport-uretimi-bitiyor-h221188.html\n                    ",
         "description": "Land Rover’ın sevilen modellerinden biri olan Discovery Sport’un üretiminin sona ereceği açıklandı.",
@@ -197,13 +232,6 @@
         "description": "Nike ve Hyperice, antrenmandan sonra ayaklarınızı rahatlatan akıllı terlik duyurdu.",
         "source": "Webtekno",
         "published": "2026-07-28T17:34:02+03:00"
-      },
-      {
-        "title": "Saudi prince buys 5% stake in Lucid Motors",
-        "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
-        "description": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
-        "source": "TechCrunch",
-        "published": "2026-07-28T17:33:51+00:00"
       },
       {
         "title": "Redmi Note 17 Serisinin Avrupa Fiyatları Ortaya Çıktı",
@@ -220,25 +248,11 @@
         "published": "2026-07-28T17:33:34+03:00"
       },
       {
-        "title": "Discovering Cryptographic Weaknesses with Claude",
-        "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-        "description": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Comments URL: https://news.ycombinator.com/item?id=49087091 Points: 164 # Comments: 91",
-        "source": "HackerNews",
-        "published": "2026-07-28T17:22:16+00:00"
-      },
-      {
         "title": "Perplexity Personal Computer Windows Kullanıcılarına Sunuldu",
         "link": "https://shiftdelete.net/perplexity-personal-computer-windows-kullanicilarina-sunuldu",
         "description": "Perplexity, Personal Computer adını verdiği yapay zeka aracını Windows işletim sistemi için kullanıma sunarak, bilgisayarları bağımsız çalışabilen bir dijital asistana dönüştürüyor. İlk olarak Nisan 2026’da Mac cihazlar için piyasaya sürülen bu...",
         "source": "ShiftDelete",
         "published": "2026-07-28T17:18:32+00:00"
-      },
-      {
-        "title": "The union drive at the Wikimedia Foundation is expanding",
-        "link": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-        "description": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit have declined to...",
-        "source": "The Verge",
-        "published": "2026-07-28T17:11:31-04:00"
       },
       {
         "title": "MacBook Ultra OLED Ekran ile Gelecek",
@@ -255,13 +269,6 @@
         "published": "2026-07-28T16:35:20-04:00"
       },
       {
-        "title": "AI’s finally expensive enough to make Wall Street nervous",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-        "description": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected...",
-        "source": "The Verge",
-        "published": "2026-07-28T16:22:54-04:00"
-      },
-      {
         "title": "FreeClip 2 S Kablosuz Kulaklığı Detaylıca İnceledik",
         "link": "\n                    https://www.webtekno.com/huawei-freeclip-2-s-inceledik-h220996.html\n                    ",
         "description": "Huawei’nin açık kulak tasarımını sıvı metal görünümü, daha yumuşak yapısı ve adaptif ses teknolojileriyle yenilenen FreeClip 2 S modelini tüm detaylarıyla inceledik.",
@@ -274,13 +281,6 @@
         "description": "Avrupa otomotiv pazarında tarihi bir ilk yaşandı; elektrikli ve hibrit araçlar satışlarda benzinli ve dizel modelleri geride bıraktı. Sektördeki büyük değişimi inceleyin.",
         "source": "ShiftDelete",
         "published": "2026-07-28T16:00:32+00:00"
-      },
-      {
-        "title": "AI leaders sign statement asking the government to do something about automated AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at...",
-        "source": "The Verge",
-        "published": "2026-07-28T15:48:50-04:00"
       },
       {
         "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
@@ -355,11 +355,39 @@
     ],
     "dunya": [
       {
-        "title": "Iran launches 'attempted surprise attack' on US forces in Middle East",
+        "title": "Iran and US trade strikes, shattering brief lull in fighting",
         "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
         "description": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
         "source": "BBC News",
-        "published": "2026-07-28T23:57:24+00:00"
+        "published": "2026-07-29T02:47:28+00:00"
+      },
+      {
+        "title": "Trump administration bans new Chinese humanoid robots",
+        "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+        "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+        "source": "BBC News",
+        "published": "2026-07-29T02:30:50+00:00"
+      },
+      {
+        "title": "Burnham invites Tories and Lib Dems to social care talks",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
+        "description": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.",
+        "source": "BBC News",
+        "published": "2026-07-29T01:59:59+00:00"
+      },
+      {
+        "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
+        "link": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
+        "description": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
+        "source": "BBC News",
+        "published": "2026-07-29T00:49:40+00:00"
+      },
+      {
+        "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+        "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+        "description": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife Service (KWS)...",
+        "source": "The Guardian",
+        "published": "2026-07-29T00:48:07+00:00"
       },
       {
         "title": "The evidence that shows today's 20-somethings really do have it worse",
@@ -383,25 +411,18 @@
         "published": "2026-07-28T23:00:15+00:00"
       },
       {
+        "title": "Burnham has no scope to increase borrowing, think tank warns",
+        "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
+        "description": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
+        "source": "BBC News",
+        "published": "2026-07-28T23:00:12+00:00"
+      },
+      {
         "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
         "link": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
         "description": "FIFA has a complex plan to sell chunks of its commercial rights to the World Cup to minority investors, including a firm run by Joshua Kushner, the brother of Jared Kushner.",
         "source": "NPR",
         "published": "2026-07-28T19:04:59-04:00"
-      },
-      {
-        "title": "Grieving mum was told baby's ashes were animal remains",
-        "link": "https://www.bbc.co.uk/news/articles/cly5jvegxeqo?at_medium=RSS&at_campaign=rss",
-        "description": "Lucy Ness says \"I hope my baby's remains are with someone who loves them like I loved these\".",
-        "source": "BBC News",
-        "published": "2026-07-28T18:48:45+00:00"
-      },
-      {
-        "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
-        "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
-        "description": "Some parents on benefits lose income if their children take on apprenticeships.",
-        "source": "BBC News",
-        "published": "2026-07-28T17:32:56+00:00"
       },
       {
         "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
@@ -446,13 +467,6 @@
         "published": "2026-07-28T16:14:03+00:00"
       },
       {
-        "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
-        "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
-        "description": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
-        "source": "BBC News",
-        "published": "2026-07-28T16:12:35+00:00"
-      },
-      {
         "title": "Ukraine negotiator: 'We have the upper hand'",
         "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
         "description": "In an interview with NPR, one of Ukraine's top negotiators Sergiy Kyslytsya explains why Kyiv believes it now has the leverage to force Russia into serious negotiations.",
@@ -465,13 +479,6 @@
         "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
         "source": "BBC News",
         "published": "2026-07-28T15:36:29+00:00"
-      },
-      {
-        "title": "The moment Tuesday's powerful earthquake hit Japan",
-        "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
-        "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
-        "source": "BBC News",
-        "published": "2026-07-28T15:32:37+00:00"
       },
       {
         "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
@@ -556,22 +563,148 @@
         "description": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK resident was...",
         "source": "The Guardian",
         "published": "2026-07-21T22:39:00+00:00"
-      },
-      {
-        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-        "link": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-        "description": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a healthy diet,...",
-        "source": "The Guardian",
-        "published": "2026-07-21T10:00:42+00:00"
       }
     ],
     "turkiye": [
+      {
+        "title": "1 trilyon dolar bağış düellosu",
+        "link": "https://www.sozcu.com.tr/1-trilyon-dolar-bagis-duellosu-p340579",
+        "description": "1 trilyon dolar bağış düellosu",
+        "source": "Sözcü",
+        "published": "2026-07-29T06:39:46+03:00"
+      },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 29 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-29-temmuz-2026-1734998",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 29 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-29T03:00:00+03:00"
+        "published": "2026-07-29T06:30:00+03:00"
+      },
+      {
+        "title": "Avrupa Birliği isteyince Türkiye’ye vize koydu",
+        "link": "https://www.sozcu.com.tr/avrupa-birligi-isteyince-turkiye-ye-vize-koydu-p340571",
+        "description": "Avrupa Birliği isteyince Türkiye’ye vize koydu",
+        "source": "Sözcü",
+        "published": "2026-07-29T06:28:09+03:00"
+      },
+      {
+        "title": "Ankara'da dolunay manzaraları",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-ankarada-dolunay-manzaralari-1735012",
+        "description": "Türkiye genelinde görsel şölen oluşturan dolunay, Ankara'da Anıtkabir ve Kocatepe Camisi ile birlikte görüntülendi.",
+        "source": "NTV",
+        "published": "2026-07-29T06:16:48+03:00"
+      },
+      {
+        "title": "Son dakika... Suudi Arabistan ve ABD'den İran'a ortak saldırı",
+        "link": "https://www.sozcu.com.tr/son-dakika-suudi-arabistan-ve-abd-den-iran-a-ortak-saldiri-p340581",
+        "description": "Son dakika... Suudi Arabistan ve ABD'den İran'a ortak saldırı",
+        "source": "Sözcü",
+        "published": "2026-07-29T06:13:32+03:00"
+      },
+      {
+        "title": "Silah bırakmadan çıkarılacak af teröre teslim olmak demektir",
+        "link": "https://www.sozcu.com.tr/silah-birakmadan-cikarilacak-af-terore-teslim-olmak-demektir-p340580",
+        "description": "Silah bırakmadan çıkarılacak af teröre teslim olmak demektir",
+        "source": "Sözcü",
+        "published": "2026-07-29T05:30:28+03:00"
+      },
+      {
+        "title": "Önce okulların hayati sorunlarına çare bulun",
+        "link": "https://www.sozcu.com.tr/once-okullarin-hayati-sorunlarina-care-bulun-p340577",
+        "description": "Önce okulların hayati sorunlarına çare bulun",
+        "source": "Sözcü",
+        "published": "2026-07-29T05:30:28+03:00"
+      },
+      {
+        "title": "310 milyonluk yeni ihale Erdoğan’ın lise arkadaşına",
+        "link": "https://www.sozcu.com.tr/310-milyonluk-yeni-ihale-erdogan-in-lise-arkadasina-p340575",
+        "description": "310 milyonluk yeni ihale Erdoğan’ın lise arkadaşına",
+        "source": "Sözcü",
+        "published": "2026-07-29T05:30:28+03:00"
+      },
+      {
+        "title": "‘Gökçek 4 milyonluk robotu çöpe mi attı, eve mi götürdü?",
+        "link": "https://www.sozcu.com.tr/gokcek-4-milyonluk-robotu-cope-mi-atti-eve-mi-goturdu-p340574",
+        "description": "‘Gökçek 4 milyonluk robotu çöpe mi attı, eve mi götürdü?",
+        "source": "Sözcü",
+        "published": "2026-07-29T05:30:28+03:00"
+      },
+      {
+        "title": "Gaziler: Kullanılıp atılmış mendil gibiyiz",
+        "link": "https://www.sozcu.com.tr/gaziler-kullanilip-atilmis-mendil-gibiyiz-p340573",
+        "description": "Gaziler: Kullanılıp atılmış mendil gibiyiz",
+        "source": "Sözcü",
+        "published": "2026-07-29T05:30:28+03:00"
+      },
+      {
+        "title": "İktidarın 15 Ağustos planı",
+        "link": "https://www.sozcu.com.tr/iktidarin-15-agustos-plani-p340572",
+        "description": "İktidarın 15 Ağustos planı",
+        "source": "Sözcü",
+        "published": "2026-07-29T05:30:28+03:00"
+      },
+      {
+        "title": "Doruk Madencilik işçileri Bakanlık önünde eylemde",
+        "link": "https://www.sozcu.com.tr/doruk-madencilik-iscileri-bakanlik-onunde-eylemde-p340570",
+        "description": "Doruk Madencilik işçileri Bakanlık önünde eylemde",
+        "source": "Sözcü",
+        "published": "2026-07-29T05:30:28+03:00"
+      },
+      {
+        "title": "İzmir ve Antalya'da orman yangını. Gece olunca hava desteği durdu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-antalya-kasta-orman-yangini-suruyor-gece-olunca-hava-destegi-durdu-1735002",
+        "description": "Antalya'nın Kaş ilçesinden dün sabahın erken saatlerinde başlayan orman yangını devam ediyor. Havanın kararmasıyla havadan müdahale sona ererken, ekiplerin karadan müdahalesi aralıksız sürüyor. İzmir'in Menemen ilçesinde de makilik alanda yangın...",
+        "source": "NTV",
+        "published": "2026-07-29T05:05:37+03:00"
+      },
+      {
+        "title": "Bakan Yumaklı'dan şiddetli rüzgar uyarısı. \"Bir kıvılcım felakete neden olur\"",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-yumaklidan-siddetli-ruzgar-uyarisi-bir-kivilcim-felakete-neden-olur-1735010",
+        "description": "Bu hafta başta kıyı kesimler olmak üzere birçok ilde şiddetli rüzgar etkili olacak. Bu kapsamda Tarım ve Orman Bakanı İbrahim Yumaklı'dan vatandaşlara orman yangını uyarısı geldi.",
+        "source": "NTV",
+        "published": "2026-07-29T05:00:25+03:00"
+      },
+      {
+        "title": "Şarj istasyonunda elektrikli otomobil alev aldı. Yangın battaniyesi ile müdahale",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-sarj-istasyonunda-elektrikli-otomobil-alev-aldi-yangin-battaniyesi-ile-mudahale-1735007",
+        "description": "Kayseri’de şarj istasyonundayken henüz belirlenemeyen nedenle alev alıp, patlamanın meydana geldiği otomobil, itfaiye ekiplerinin yangın battaniyesi ile yaptığı müdahale sonucu söndürüldü.",
+        "source": "NTV",
+        "published": "2026-07-29T03:41:59+03:00"
+      },
+      {
+        "title": "Elektrikli araç yangınına profesyonel müdahale",
+        "link": "https://www.ntv.com.tr/turkiye/video-elektrikli-arac-yanginina-profesyonel-mudahale-1735008",
+        "description": "Kayseri’de şarj istasyonundayken henüz belirlenemeyen nedenle alev alıp, patlamanın meydana geldiği otomobil, itfaiye ekiplerinin yangın battaniyesi ile yaptığı müdahale sonucu söndürüldü.",
+        "source": "NTV",
+        "published": "2026-07-29T03:36:02+03:00"
+      },
+      {
+        "title": "Türkiye'den vize isteyen ve istemeyen ülkeler hangileri?",
+        "link": "https://www.bbc.com/turkce/articles/cpq8ey2p7vgo?at_medium=RSS&at_campaign=rss",
+        "description": "Karadağ'ın Ekim 2026'dan itibaren Türk vatandaşlarından vize istemeye başlayacağını açıklamasıyla birlikte, Türk pasaportuyla Avrupa'da vizesiz gidilebilen ülke sayısı 10'a düşecek. Peki Türk vatandaşları dünya genelinde hangi ülkeleri vizesiz...",
+        "source": "BBC Turkish",
+        "published": "2026-07-29T03:29:30+00:00"
+      },
+      {
+        "title": "Emlakçıyı öldürüp, intihar etti",
+        "link": "https://www.ntv.com.tr/turkiye/emlakciyi-oldurup-intihar-etti-1735006",
+        "description": "Yalova'nın Çiftlikköy ilçesindeki bir emlak dükkanında Gül Nihal Akçal (49), tartıştığı Enes Vasfi Yerlikaya'yı (40) tabancayla vurarak öldürdükten sonra kendi yaşamına son verdi.",
+        "source": "NTV",
+        "published": "2026-07-29T03:25:22+03:00"
+      },
+      {
+        "title": "ABD ve İran arasında kısa süreliğine duran saldırılar yeniden başladı",
+        "link": "https://www.bbc.com/turkce/articles/cvgvp3e2dgeo?at_medium=RSS&at_campaign=rss",
+        "description": "ABD ordusu, İran'ın \"sürpriz bir saldırı girişimi\" kapsamında Ortadoğu'daki Amerikan güçlerine \"çok sayıda\" balistik füze fırlattığını açıkladı. Saldırıyla birlikte çatışmalardaki kısa süreli duraklama sona erdi.",
+        "source": "BBC Turkish",
+        "published": "2026-07-29T03:24:12+00:00"
+      },
+      {
+        "title": "Yabancı plakalı araçlar için yeni düzenleme. Borcunu ödemeyen sınırdan geçemeyecek",
+        "link": "https://www.ntv.com.tr/turkiye/yabanci-plakali-araclar-icin-yeni-duzenleme-borcunu-odemeyen-sinirdan-gecemeyecek-1735005",
+        "description": "Yabancı plakalı araçlarla ilgili düzenleme Resmi Gazete'de yayımlandı. Düzenlemede geçiş ücretleri, ihlaller ve cezalara ilişkin usuller belirlendi. Ayrıca yabancı plakalı araçların ücretli otoyollar da dahil ihlal borcunu ödemeden sınırdan geçişine...",
+        "source": "NTV",
+        "published": "2026-07-29T03:20:56+03:00"
       },
       {
         "title": "Yalova’da uyuşturucu operasyonu. 1’i kırmızı bültenle aranan 3 şüpheli yakalandı",
@@ -581,81 +714,18 @@
         "published": "2026-07-29T02:19:46+03:00"
       },
       {
-        "title": "Antalya Kaş'ta orman yangını sürüyor. Gece olunca hava desteği durdu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-antalya-kasta-orman-yangini-suruyor-gece-olunca-hava-destegi-durdu-1735002",
-        "description": "Antalya'nın Kaş ilçesinden dün sabahın erken saatlerinde başlayan orman yangını devam ediyor. Havanın kararmasıyla havadan müdahale sona ererken, ekiplerin karadan müdahalesi aralıksız sürüyor.",
-        "source": "NTV",
-        "published": "2026-07-29T01:37:34+03:00"
-      },
-      {
-        "title": "Yerin metrelerce altında ortaya çıktı: Aynı bölgede peş peşe 30 tanesi bulundu",
-        "link": "https://www.sozcu.com.tr/yerin-metreler-altinda-ortaya-cikti-ayni-bolgede-pes-pese-30-tanesi-bulundu-p340555",
-        "description": "Yerin metrelerce altında ortaya çıktı: Aynı bölgede peş peşe 30 tanesi bulundu",
-        "source": "Sözcü",
-        "published": "2026-07-29T01:04:14+03:00"
-      },
-      {
-        "title": "Konuşurken yaptığınız bu değişiklik beyninizin yaşlandığına işaret ediyor",
-        "link": "https://www.sozcu.com.tr/konusurken-yaptiginiz-bu-degisiklik-beyninizin-yaslandigina-isaret-ediyor-p340565",
-        "description": "Konuşurken yaptığınız bu değişiklik beyninizin yaşlandığına işaret ediyor",
-        "source": "Sözcü",
-        "published": "2026-07-29T01:02:29+03:00"
-      },
-      {
-        "title": "Kahreden kaza: Devrilen patpat küçük Miray’ın sonu oldu",
-        "link": "https://www.sozcu.com.tr/kahreden-kaza-devrilen-patpat-kucuk-miray-in-sonu-oldu-p340564",
-        "description": "Kahreden kaza: Devrilen patpat küçük Miray’ın sonu oldu",
-        "source": "Sözcü",
-        "published": "2026-07-29T00:48:05+03:00"
-      },
-      {
-        "title": "Cüneyt Özdemir ile Hayko Cepkin birbirine girdi!",
-        "link": "https://www.sozcu.com.tr/cuneyt-ozdemir-ile-hayko-cepkin-polemigi-p340558",
-        "description": "Cüneyt Özdemir ile Hayko Cepkin birbirine girdi!",
-        "source": "Sözcü",
-        "published": "2026-07-29T00:44:35+03:00"
-      },
-      {
-        "title": "Erdoğan'ın Irak Başbakanı görüşmesinde canlı yayında imza krizi",
-        "link": "https://www.sozcu.com.tr/erdogan-in-irak-basbakani-ile-ankara-daki-toplantida-imza-krizi-p340557",
-        "description": "Erdoğan'ın Irak Başbakanı görüşmesinde canlı yayında imza krizi",
-        "source": "Sözcü",
-        "published": "2026-07-29T00:31:04+03:00"
-      },
-      {
-        "title": "İran Hürmüz önerisini açıkladı: Başka hiçbir formülü kabul etmeyeceğiz. Savaşa hazırız",
-        "link": "https://www.sozcu.com.tr/iran-hurmuz-onerisini-acikladi-baska-hicbir-formulu-kabul-etmeyecegiz-savasa-haziriz-p340548",
-        "description": "İran Hürmüz önerisini açıkladı: Başka hiçbir formülü kabul etmeyeceğiz. Savaşa hazırız",
-        "source": "Sözcü",
-        "published": "2026-07-29T00:05:40+03:00"
-      },
-      {
-        "title": "Fenerbahçe'nin 3. turdaki muhtemel rakibi oldu",
-        "link": "https://www.sozcu.com.tr/fenerbahce-nin-3-turdaki-muhtemel-rakibi-oldu-p340547",
-        "description": "Fenerbahçe'nin 3. turdaki muhtemel rakibi oldu",
-        "source": "Sözcü",
-        "published": "2026-07-28T23:50:11+03:00"
-      },
-      {
-        "title": "Kayyum Gürsel Tekin BirGün Muhabiri Ebru Çelik'ten özür diledi",
-        "link": "https://www.sozcu.com.tr/kayyum-gursel-tekin-birgun-muhabiri-ebru-celik-ten-ozur-diledi-p340545",
-        "description": "Kayyum Gürsel Tekin BirGün Muhabiri Ebru Çelik'ten özür diledi",
-        "source": "Sözcü",
-        "published": "2026-07-28T23:46:46+03:00"
+        "title": "Japonya'daki depremde en az 13 kişi hayatını kaybetti",
+        "link": "https://www.bbc.com/turkce/articles/c5yd84778d8o?at_medium=RSS&at_campaign=rss",
+        "description": "Japonya'nın güneyindeki Kumamoto'da meydana gelen deprem nedeniyle çöken alışveriş merkezinde en az 13 kişinin hayatını kaybettiği açıklandı. Başbakan Sanae Takaichi, depremde hayatını kaybedenlerin sayısının 13'e yükseldiğini duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-07-29T01:48:17+00:00"
       },
       {
         "title": "Erdoğan: 'Irak Türkiye'ye günde 1 milyon varil petrol verecek'",
         "link": "https://www.bbc.com/turkce/articles/cvgwn29yqjyo?at_medium=RSS&at_campaign=rss",
         "description": "Erdoğan, \"Kerkük üretim sahasında Türkiye Petrollerine ortaklık verilmiştir. Bugün imzalanan anlaşma, enerji alanındaki ortaklık açısından tarihi bir adım olmuştur\" dedi.",
         "source": "BBC Turkish",
-        "published": "2026-07-28T23:46:34+00:00"
-      },
-      {
-        "title": "Denizin ortasında milimetre hesabıyla birleştirdiler: Dev köprünün iki ucu ilk kez buluştu",
-        "link": "https://www.sozcu.com.tr/denizin-ortasinda-milimetre-hesabiyla-birlestirdiler-dev-koprunun-iki-ucu-ilk-kez-bulustu-p340544",
-        "description": "Denizin ortasında milimetre hesabıyla birleştirdiler: Dev köprünün iki ucu ilk kez buluştu",
-        "source": "Sözcü",
-        "published": "2026-07-28T23:41:39+03:00"
+        "published": "2026-07-29T00:17:58+00:00"
       },
       {
         "title": "Dışişleri Bakanı Fidan, Irak Dışişleri Bakanı Hüseyin ile Ankara'da görüştü",
@@ -665,46 +735,11 @@
         "published": "2026-07-28T23:26:56+03:00"
       },
       {
-        "title": "İstanbul'un iki ilçesinde denize girme yasağı",
-        "link": "https://www.sozcu.com.tr/istanbul-un-iki-ilcesinde-denize-girme-yasagi-p340540",
-        "description": "İstanbul'un iki ilçesinde denize girme yasağı",
-        "source": "Sözcü",
-        "published": "2026-07-28T23:25:28+03:00"
-      },
-      {
         "title": "Prestijli Booker Ödülü listesine giren yazar Kenan Orhan kimdir?",
         "link": "https://www.bbc.com/turkce/articles/cd692e29d6xo?at_medium=RSS&at_campaign=rss",
         "description": "Edebiyat dünyasının en prestijli ödüllerinden biri olarak kabul edilen Booker Ödülü için 13 yazarın yer aldığı uzun liste açıklandı. Türk-Amerikan yazar Kenan Orhan ilk romanı The Renovation ile listede yer alıyor. Roman, Türkiye'den İtalya'ya göç...",
         "source": "BBC Turkish",
         "published": "2026-07-28T23:03:27+00:00"
-      },
-      {
-        "title": "Türkiye-Irak arasında anlaşmalar imzalandı. Erdoğan: Türkiye olarak her alanda desteğe hazırız",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-irak-basbakani-zeydiyi-resmi-torenle-karsiladi-1734987",
-        "description": "Cumhurbaşkanı Erdoğan, Irak Başbakanı Ali ez-Zeydi ile görüşme sonrası ''Bölgemizin artık savaş, terör ve çatışmayla değil, kalkınma, refah, huzur ve istikrarla anılması için çaba gösteriyoruz.'' dedi. Diğer yandan Türkiye Petrolleri Anonim...",
-        "source": "NTV",
-        "published": "2026-07-28T22:57:07+03:00"
-      },
-      {
-        "title": "Türkiye’den Kerkük petrolüne stratejik ortaklık",
-        "link": "https://www.ntv.com.tr/turkiye/turkiyeden-kerkuk-petrolune-stratejik-ortaklik-1734991",
-        "description": "Türkiye Petrolleri Anonim Ortaklığı, BP’nin Kerkük’te faaliyet gösteren şirketinin yüzde 15 hissesini devraldı. TPAO, yaklaşık 3 milyar varillik üretim potansiyeline sahip projeyle Irak’ın en önemli hidrokarbon bölgelerinden Kerkük’te faaliyet...",
-        "source": "NTV",
-        "published": "2026-07-28T20:12:15+03:00"
-      },
-      {
-        "title": "Japonya'daki depremde en az 19 kişi halen kayıp",
-        "link": "https://www.bbc.com/turkce/articles/c5yd84778d8o?at_medium=RSS&at_campaign=rss",
-        "description": "Japonya'nın güneyindeki Kumamoto'da meydana gelen deprem nedeniyle onlarca kişiye ulaşılamıyor, hayatını kaybedenlerin olmasından endişe ediliyor.",
-        "source": "BBC Turkish",
-        "published": "2026-07-28T17:09:11+00:00"
-      },
-      {
-        "title": "Meclis'te 24 yıl sonra bir ilk. Yeni Parti kuruldu, CHP'li milletvekillerinin yeri değişti",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-mecliste-24-yil-sonra-bir-ilk-yeni-parti-kuruldu-chpli-milletvekillerinin-yeri-degisti-1734979",
-        "description": "Yeni Parti'nin kurulmasıyla birlikte Meclis'teki oturma düzeni de değişti. \"Ana muhalefet\" konumunu kaybederek beşinci sıraya gerileyen CHP, DEM Parti ve MHP arasına oturdu. CHP sıralarına ise Yeni Partili vekiller geçti.",
-        "source": "NTV",
-        "published": "2026-07-28T16:47:04+03:00"
       },
       {
         "title": "Trump-Netanyahu görüşmesi 'olumlu ve verimli geçti'",
@@ -714,39 +749,11 @@
         "published": "2026-07-28T16:42:37+00:00"
       },
       {
-        "title": "D-100'ü savaş alanına çeviren kaza. Ulaşım 1,5 saat durdu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-d-100u-savas-alanina-ceviren-kaza-ulasim-15-saat-durdu-1734985",
-        "description": "Kocaeli'nin Körfez ilçesi D-100 Karayolu'nda lastiği patlayan TIR, bariyerleri aşıp karşı şeride geçerek başka TIR'a çarptı. Kazada ölen ya da yaralanan olmadı.",
-        "source": "NTV",
-        "published": "2026-07-28T16:37:52+03:00"
-      },
-      {
         "title": "Çerçeve yasa için geri sayım: 'Gelecek hafta yasalaşabilir'",
         "link": "https://www.bbc.com/turkce/articles/ckg4rndrw57o?at_medium=RSS&at_campaign=rss",
         "description": "AKP'nin \"Terörsüz Türkiye\" adını verdiği süreç kapsamında hazırlanan çerçeve yasa teklifinde çalışmalar son aşamaya geldi. İktidar partisi, yasa teklifi taslağını hafta sonuna kadar tamamlamayı, ardından teklif Meclis'e sunulmadan önce siyasi...",
         "source": "BBC Turkish",
         "published": "2026-07-28T16:19:00+00:00"
-      },
-      {
-        "title": "Ankara'da su kaynaklı salgın iddiasına ASKİ'den açıklama. Verileri tek tek paylaştı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-ankarada-su-kaynakli-salgin-iddiasina-askiden-aciklama-verileri-tek-tek-paylasti-1734983",
-        "description": "Ankara'da son günlerde sosyal medyada gündem olan su kaynaklı salgın iddiasına Ankara Su ve Kanalizasyon İdaresi Genel Müdürlüğü'nden (ASKİ) açıklama geldi.",
-        "source": "NTV",
-        "published": "2026-07-28T16:12:16+03:00"
-      },
-      {
-        "title": "Aliağa'da gemi söküm tesisinde korkutan yangın",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-aliagada-gemi-sokum-tesisinde-korkutan-yangin-1734977",
-        "description": "İzmir'in Aliağa ilçesinde gemi söküm tesisinde sökümü yapılan tankerde yangın çıktı.",
-        "source": "NTV",
-        "published": "2026-07-28T15:46:40+03:00"
-      },
-      {
-        "title": "Zidane Fransa'nın başına geçti, ilk maçı Türkiye ile",
-        "link": "https://www.bbc.com/turkce/articles/c3w01qvq0g5o?at_medium=RSS&at_campaign=rss",
-        "description": "Fransa Futbol Federasyonu (FFF), Didier Deschamps'ın ayrılmasının ardından, Zinedine Zidane'ın Fransa milli takımı teknik direktörlüğüne getirildiğini resmen duyurdu.",
-        "source": "BBC Turkish",
-        "published": "2026-07-28T14:25:49+00:00"
       },
       {
         "title": "BM Genel Sekreteri Guterres Kıbrıs'ta: Yeni bir 'Annan Planı' çıkabilir mi?",
@@ -768,25 +775,18 @@
         "description": "Fransa Cumhurbaşkanı Emmanuel Macron, Bordeaux kentine yaklaşan orman yangınlarının \"İkinci Dünya Savaşı'ndan bu yana en kötü yangın\" olduğunu söyledi.",
         "source": "BBC Turkish",
         "published": "2026-07-28T08:13:53+00:00"
-      },
-      {
-        "title": "Johnson & Johnson'dan bebek pudrası davalarına 5.5 milyar dolar tazminat teklifi",
-        "link": "https://www.bbc.com/turkce/articles/clyjgg8zvmro?at_medium=RSS&at_campaign=rss",
-        "description": "Önerilen anlaşma, talk pudrası ürünlerinin kansere neden olduğu iddiaları üzerine yıllardır süren hukuki mücadeleyi sona erdirmeyi amaçlıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-07-28T04:21:16+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.3661,
-    "eur_try": 53.8741,
-    "eur_usd": 0.8788
+    "usd_try": 47.3863,
+    "eur_try": 53.931,
+    "eur_usd": 0.8787
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+88°F",
+    "condition": "Açık",
+    "temp": "+76°F",
     "wind": "←7mph",
-    "humidity": "62%"
+    "humidity": "85%"
   }
 }
