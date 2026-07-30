@@ -1,13 +1,90 @@
 {
-  "updated_at": "2026-07-30T18:56:01.004030+00:00",
+  "updated_at": "2026-07-30T20:15:12.560816+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+        "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+        "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+        "source": "TechCrunch",
+        "published": "2026-07-30T20:13:12+00:00"
+      },
+      {
+        "title": "ABD’de robot süpürge yasağı gündeme oturdu",
+        "link": "https://shiftdelete.net/abdde-robot-supurge-yasagi-gundeme-oturdu",
+        "description": "ABD hükümeti, ulusal güvenlik gerekçesiyle robot süpürgeleri yasaklı ürünler listesine ekledi. FCC'nin aldığı kararın detayları ve güvenlik endişeleri haberimizde.",
+        "source": "ShiftDelete",
+        "published": "2026-07-30T20:00:15+00:00"
+      },
+      {
+        "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+        "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+        "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+        "source": "TechCrunch",
+        "published": "2026-07-30T19:44:16+00:00"
+      },
+      {
+        "title": "Booking.com İçin Kritik Yasal Düzenleme Hazırlığı Başladı",
+        "link": "https://shiftdelete.net/booking-com-icin-kritik-yasal-duzenleme-hazirligi-basladi",
+        "description": "Booking.com için Türkiye'de yeni bir yasal düzenleme dönemi başlıyor. Dokuz maddelik kanun teklifi ve platformun geleceğine dair tüm detaylar haberimizde.",
+        "source": "ShiftDelete",
+        "published": "2026-07-30T19:00:51+00:00"
+      },
+      {
+        "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+        "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+        "source": "TechCrunch",
+        "published": "2026-07-30T18:57:58+00:00"
+      },
+      {
+        "title": "UEFA and its national associations will not participate in FIFA competitions",
+        "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+        "description": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/ Comments URL: https://news.ycombinator.com/item?id=49113929 Points: 314 # Comments: 201",
+        "source": "HackerNews",
+        "published": "2026-07-30T18:40:52+00:00"
+      },
+      {
+        "title": "Making Postgres queues scale",
+        "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+        "description": "Article URL: https://www.dbos.dev/blog/making-postgres-queues-scale Comments URL: https://news.ycombinator.com/item?id=49113913 Points: 55 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-07-30T18:39:32+00:00"
+      },
       {
         "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
         "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
         "description": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
         "source": "TechCrunch",
         "published": "2026-07-30T18:38:12+00:00"
+      },
+      {
+        "title": "What would it mean to see a new color?",
+        "link": "https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color",
+        "description": "Article URL: https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color Comments URL: https://news.ycombinator.com/item?id=49113864 Points: 9 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-07-30T18:36:23+00:00"
+      },
+      {
+        "title": "So you want to use plants to reduce CO₂",
+        "link": "https://dynomight.net/plants/",
+        "description": "Article URL: https://dynomight.net/plants/ Comments URL: https://news.ycombinator.com/item?id=49113801 Points: 48 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-07-30T18:31:02+00:00"
+      },
+      {
+        "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+        "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "description": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and...",
+        "source": "HackerNews",
+        "published": "2026-07-30T18:13:06+00:00"
+      },
+      {
+        "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+        "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "description": "Article URL: https://github.com/yashmahajan10/llm-differential-privacy-gateway Comments URL: https://news.ycombinator.com/item?id=49113543 Points: 8 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-30T18:08:48+00:00"
       },
       {
         "title": "LinkedIn adds a button to report AI-generated ‘slop’",
@@ -31,9 +108,16 @@
         "published": "2026-07-30T18:00:00+00:00"
       },
       {
+        "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
+        "link": "https://tally.jiegou.ai/",
+        "description": "Article URL: https://tally.jiegou.ai/ Comments URL: https://news.ycombinator.com/item?id=49113381 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-30T17:55:54+00:00"
+      },
+      {
         "title": "CodePen 2.0",
         "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-        "description": "Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/ Comments URL: https://news.ycombinator.com/item?id=49113338 Points: 9 # Comments: 0",
+        "description": "Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/ Comments URL: https://news.ycombinator.com/item?id=49113338 Points: 55 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-07-30T17:52:51+00:00"
       },
@@ -47,12 +131,12 @@
       {
         "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
         "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-        "description": "Add another member to the fast-and-furious AI unicorn club: Simile",
+        "description": "Add another member to the fast-and-furious AI unicorn club: Simile.",
         "source": "TechCrunch",
         "published": "2026-07-30T17:50:11+00:00"
       },
       {
-        "title": "Spotify launches ‘User notes’ to let users add memories to songs",
+        "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
         "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
         "description": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
         "source": "TechCrunch",
@@ -61,14 +145,14 @@
       {
         "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
         "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-        "description": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 82 # Comments: 54",
+        "description": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 181 # Comments: 106",
         "source": "HackerNews",
         "published": "2026-07-30T17:31:07+00:00"
       },
       {
         "title": "Advancing the price-performance frontier with GPT‑5.6",
         "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-        "description": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 233 # Comments: 132",
+        "description": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 368 # Comments: 240",
         "source": "HackerNews",
         "published": "2026-07-30T17:15:51+00:00"
       },
@@ -80,25 +164,11 @@
         "published": "2026-07-30T17:13:13+03:00"
       },
       {
-        "title": "Read This Before You Buy That TV Streaming Stick",
-        "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-        "description": "Article URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/ Comments URL: https://news.ycombinator.com/item?id=49112744 Points: 141 # Comments: 55",
-        "source": "HackerNews",
-        "published": "2026-07-30T17:04:53+00:00"
-      },
-      {
         "title": "Meta, Instagram Akışını Bağımlılık Yapacak Düzeye Getirdi: Yapay Zekâ Sizi Uygulamada Tutmak İçin Her Paylaşımı İnceliyor!",
         "link": "\n                    https://www.webtekno.com/meta-instagram-akisini-bagimlilik-yapacak-duzeye-getirdi-h221383.html\n                    ",
         "description": "Instagram’da dakikalarca durmaksızın kaydırma yaparken kendinizi kaybettiğinizi hissediyorsanız bunun arkasında devasa bir yapay zekâ algoritması var.",
         "source": "Webtekno",
         "published": "2026-07-30T17:04:24+03:00"
-      },
-      {
-        "title": "Rise Reforming (YC S26) Is Hiring",
-        "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
-        "description": "Article URL: https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer Comments URL: https://news.ycombinator.com/item?id=49112683 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-30T17:00:21+00:00"
       },
       {
         "title": "Copilot Süper Uygulama Oluyor: Bu Yıl Gelecek",
@@ -115,32 +185,11 @@
         "published": "2026-07-30T16:39:36+03:00"
       },
       {
-        "title": "How Olinia Turns Mexico's EV Ambition into Reality",
-        "link": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
-        "description": "Article URL: https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle Comments URL: https://news.ycombinator.com/item?id=49112368 Points: 18 # Comments: 21",
-        "source": "HackerNews",
-        "published": "2026-07-30T16:36:47+00:00"
-      },
-      {
-        "title": "Toot.community is shutting down",
-        "link": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
-        "description": "Article URL: https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2 Comments URL: https://news.ycombinator.com/item?id=49112327 Points: 34 # Comments: 40",
-        "source": "HackerNews",
-        "published": "2026-07-30T16:33:41+00:00"
-      },
-      {
         "title": "Midtjylland-Beşiktaş Maçı Canlı İzle: S Sport Plus Yayın Bilgileri",
         "link": "\n                    https://www.webtekno.com/midtjylland-besiktas-maci-canli-izle-h221380.html\n                    ",
         "description": "Midtjylland-Beşiktaş maçını canlı izlemek için S Sport Plus yayın bilgilerini derledik. S Sport Plus üzerinden maçı takip etmek için gereken tüm detaylar haberimizde.",
         "source": "Webtekno",
         "published": "2026-07-30T16:27:45+03:00"
-      },
-      {
-        "title": "Stacked PRs are now live on GitHub",
-        "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "description": "Article URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=49112232 Points: 93 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-07-30T16:26:16+00:00"
       },
       {
         "title": "Microsoft'tan Yeni Hamle: Copilot Tek Bir \"Süper Uygulama\" Hâline Geliyor!",
@@ -157,7 +206,7 @@
         "published": "2026-07-30T16:16:55+03:00"
       },
       {
-        "title": "Okta buys AI security startup Permiso; source says for about $200M",
+        "title": "Okta buys AI security startup Permiso — source says for about $200M",
         "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
         "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
         "source": "TechCrunch",
@@ -192,46 +241,11 @@
         "published": "2026-07-30T15:42:49+03:00"
       },
       {
-        "title": "Meta says AI is making it easier to build new apps — and more are coming",
-        "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-        "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups,...",
-        "source": "TechCrunch",
-        "published": "2026-07-30T15:41:16+00:00"
-      },
-      {
         "title": "Xiaomi'nin Yeni SUV Serisi SkyNomad N90 Max ve N70 Max Tanıtıldı",
         "link": "\n                    https://www.webtekno.com/xiaomi-yeni-suv-serisi-skynomad-n90-n70-tanitildi-h221368.html\n                    ",
         "description": "Xiaomi, Çin'de gerçekleştirdiği lansmanda yeni SUV serisinden SkyNomad N90 Max ve N70 Max modellerini tanıttı.",
         "source": "Webtekno",
         "published": "2026-07-30T15:37:15+03:00"
-      },
-      {
-        "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
-        "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
-        "description": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
-        "source": "TechCrunch",
-        "published": "2026-07-30T15:27:08+00:00"
-      },
-      {
-        "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-        "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-        "description": "Article URL: https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/ Comments URL: https://news.ycombinator.com/item?id=49111305 Points: 96 # Comments: 47",
-        "source": "HackerNews",
-        "published": "2026-07-30T15:22:46+00:00"
-      },
-      {
-        "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-        "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-        "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-        "source": "TechCrunch",
-        "published": "2026-07-30T15:19:15+00:00"
-      },
-      {
-        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "description": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 287 # Comments: 277",
-        "source": "HackerNews",
-        "published": "2026-07-30T15:15:48+00:00"
       },
       {
         "title": "Dyson V16 Piston Animal Submarine ıslak kuru kablosuz süpürge inceleme",
@@ -246,6 +260,13 @@
         "description": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post...",
         "source": "The Verge",
         "published": "2026-07-30T14:43:26-04:00"
+      },
+      {
+        "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+        "link": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+        "description": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch,...",
+        "source": "The Verge",
+        "published": "2026-07-30T14:36:37-04:00"
       },
       {
         "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
@@ -318,13 +339,6 @@
         "published": "2026-07-30T12:30:40+00:00"
       },
       {
-        "title": "Oppo A7 Pro Max Gümbür Gümbür Geliyor",
-        "link": "https://shiftdelete.net/oppo-a7-pro-max-gumbur-gumbur-geliyor",
-        "description": "Oppo A7 Pro Max için lansman tarihi 4 Ağustos olarak açıklandı. 10.000mAh batarya, 50MP kamera ve renk seçenekleri hakkındaki tüm detaylar haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-07-30T12:00:37+00:00"
-      },
-      {
         "title": "Google is working on Chrome updates that don’t require restarts",
         "link": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
         "description": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less disruptive by...",
@@ -337,29 +351,29 @@
         "description": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCardz reports. The ROG Astral RTX 5080 OC now costs...",
         "source": "The Verge",
         "published": "2026-07-30T11:48:10-04:00"
-      },
-      {
-        "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
-        "link": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
-        "description": "The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max Camping Edition....",
-        "source": "The Verge",
-        "published": "2026-07-30T11:44:47-04:00"
-      },
-      {
-        "title": "Smart #1 ile Şarj Süresi 12 Dakikaya Düşüyor",
-        "link": "https://shiftdelete.net/smart-1-ile-sarj-suresi-12-dakikaya-dusuyor",
-        "description": "Geely ve Mercedes-Benz ortaklığıyla geliştirilen Smart #1, yeni 800V mimarisi ile şarj süresini 12 dakikaya indiriyor. İşte yenilenen Smart #1 hakkındaki tüm detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-07-30T11:30:36+00:00"
       }
     ],
     "dunya": [
       {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+        "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
+        "description": "Joani Reid, the MP for East Kilbride and Strathaven, will also be let back into Labour, a party spokesperson confirmed.",
         "source": "BBC News",
-        "published": "2026-07-30T17:55:24+00:00"
+        "published": "2026-07-30T19:48:37+00:00"
+      },
+      {
+        "title": "Archbishop of Canterbury committed to £100m slavery fund",
+        "link": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&at_campaign=rss",
+        "description": "Dame Sarah Mullally has renewed her commitment to the fund on a visit to Cape Coast Castle in Ghana.",
+        "source": "BBC News",
+        "published": "2026-07-30T19:44:00+00:00"
+      },
+      {
+        "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+        "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+        "description": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+        "source": "BBC News",
+        "published": "2026-07-30T18:50:57+00:00"
       },
       {
         "title": "British Airways flight called mayday on approach to Heathrow",
@@ -388,20 +402,6 @@
         "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
         "source": "BBC News",
         "published": "2026-07-30T16:47:40+00:00"
-      },
-      {
-        "title": "Greens review social media operation as Polanski row rumbles on",
-        "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
-        "description": "The Green Party is grappling with how to manage its social media following a controversial post by its leader.",
-        "source": "BBC News",
-        "published": "2026-07-30T16:42:21+00:00"
-      },
-      {
-        "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-        "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
-        "source": "BBC News",
-        "published": "2026-07-30T16:19:08+00:00"
       },
       {
         "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
@@ -448,7 +448,7 @@
       {
         "title": "European soccer leaders to boycott the World Cup in an unprecedented step",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-        "description": "In an unprecedented step, European nations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
+        "description": "In an unprecedented step, European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
         "source": "NPR",
         "published": "2026-07-30T13:38:38-04:00"
       },
@@ -571,7 +571,56 @@
         "link": "https://www.sozcu.com.tr/cem-kucuk-gozaltina-alindi-p341136",
         "description": "Gazeteci Cem Küçük gözaltına alındı",
         "source": "Sözcü",
-        "published": "2026-07-30T21:50:59+03:00"
+        "published": "2026-07-30T23:09:12+03:00"
+      },
+      {
+        "title": "Öğrenci affı TBMM’de kabul edildi",
+        "link": "https://www.sozcu.com.tr/ogrenci-affi-tbmm-de-kabul-edildi-p341144",
+        "description": "Öğrenci affı TBMM’de kabul edildi",
+        "source": "Sözcü",
+        "published": "2026-07-30T23:01:28+03:00"
+      },
+      {
+        "title": "10 öğretmeni işten çıkaran Özel İtalyan Lisesi Müdürü 'persona non grata' ilan edildi",
+        "link": "https://www.sozcu.com.tr/ozel-italyan-lisesi-muduru-persona-non-grata-mi-ilan-edildi-p341141",
+        "description": "10 öğretmeni işten çıkaran Özel İtalyan Lisesi Müdürü 'persona non grata' ilan edildi",
+        "source": "Sözcü",
+        "published": "2026-07-30T22:43:57+03:00"
+      },
+      {
+        "title": "Ülkenin yol ağı baştan sona değişecek: 28 milyar dolarlık dev dönüşüm başlıyor",
+        "link": "https://www.sozcu.com.tr/ulkenin-yol-agi-bastan-sona-degisecek-28-milyar-dolarlik-dev-donusum-basliyor-p341143",
+        "description": "Ülkenin yol ağı baştan sona değişecek: 28 milyar dolarlık dev dönüşüm başlıyor",
+        "source": "Sözcü",
+        "published": "2026-07-30T22:43:26+03:00"
+      },
+      {
+        "title": "154 Tomahawk füzesi taşıyabilen denizaltı için yolun sonu göründü",
+        "link": "https://www.sozcu.com.tr/154-tomahawk-fuzesi-tasiyabilen-denizalti-icin-yolun-sonu-gorundu-p341140",
+        "description": "154 Tomahawk füzesi taşıyabilen denizaltı için yolun sonu göründü",
+        "source": "Sözcü",
+        "published": "2026-07-30T22:24:25+03:00"
+      },
+      {
+        "title": "Ahbap soruşturmasında tutuklanan Nejdet Kuy’un ifadesi ortaya çıktı: 70 milyon TL verdim",
+        "link": "https://www.sozcu.com.tr/ahbap-sorusturmasinda-tutuklanan-nejdet-kuy-un-ifadesi-ortaya-cikti-70-milyon-tl-verdim-p341139",
+        "description": "Ahbap soruşturmasında tutuklanan Nejdet Kuy’un ifadesi ortaya çıktı: 70 milyon TL verdim",
+        "source": "Sözcü",
+        "published": "2026-07-30T22:19:07+03:00"
+      },
+      {
+        "title": "Ahbap Derneği soruşturması. Gözaltına alınan 7 şüpheliye tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/ahbap-dernegi-sorusturmasi-gozaltina-alinan-7-supheliye-tutuklama-talebi-1735305",
+        "description": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamındaki dördüncü dalga operasyonda gözaltına alınan 13 şüpheliden 7'si tutuklandı.",
+        "source": "NTV",
+        "published": "2026-07-30T22:16:49+03:00"
+      },
+      {
+        "title": "Nuri Şahin: Çok büyük hayal kırıklığı yaşıyoruz",
+        "link": "https://www.sozcu.com.tr/nuri-sahin-cok-buyuk-hayal-kirikligi-yasiyoruz-p341138",
+        "description": "Nuri Şahin: Çok büyük hayal kırıklığı yaşıyoruz",
+        "source": "Sözcü",
+        "published": "2026-07-30T22:11:27+03:00"
       },
       {
         "title": "117 bin petrol kuyusunu kaderine terk ettiler",
@@ -595,46 +644,18 @@
         "published": "2026-07-30T21:21:40+03:00"
       },
       {
-        "title": "Trump’ın İran hamlesi ters tepti: Anketten çıkan sonuç dikkat çekti",
-        "link": "https://www.sozcu.com.tr/trump-in-iran-hamlesi-ters-tepti-anketten-cikan-sonuc-dikkat-cekti-p341132",
-        "description": "Trump’ın İran hamlesi ters tepti: Anketten çıkan sonuç dikkat çekti",
-        "source": "Sözcü",
-        "published": "2026-07-30T21:13:24+03:00"
+        "title": "İspanya, binlerce göçmenin girdiği Fas'taki toprağı Ceuta'ya asker konuşlandıracak",
+        "link": "https://www.bbc.com/turkce/articles/cz97klj5x98o?at_medium=RSS&at_campaign=rss",
+        "description": "İspanya'nın Afrika'daki kenti Ceuta'ya sınır komşusu Fas üzerinden binlerce kişi girdi.",
+        "source": "BBC Turkish",
+        "published": "2026-07-30T19:38:42+00:00"
       },
       {
-        "title": "Başakşehir zayıf rakibine yenildi! Avrupa’ya temmuz ayında veda etti",
-        "link": "https://www.sozcu.com.tr/basaksehir-zayif-rakibine-yenildi-avrupa-ya-temmuz-ayinda-veda-etti-p341130",
-        "description": "Başakşehir zayıf rakibine yenildi! Avrupa’ya temmuz ayında veda etti",
-        "source": "Sözcü",
-        "published": "2026-07-30T20:54:03+03:00"
-      },
-      {
-        "title": "Yeni Parti için toplanan bağış açıklandı: İlk 24 saatte 32 bin kişi katıldı",
-        "link": "https://www.sozcu.com.tr/yeni-parti-icin-ne-kadar-bagis-yapildi-30-temmuz-2026-p341127",
-        "description": "Yeni Parti için toplanan bağış açıklandı: İlk 24 saatte 32 bin kişi katıldı",
-        "source": "Sözcü",
-        "published": "2026-07-30T20:49:00+03:00"
-      },
-      {
-        "title": "Orman yangınlarına karşı keçi ve koyunları doğaya salacaklar",
-        "link": "https://www.sozcu.com.tr/orman-yanginlarina-karsi-keci-ve-koyunlari-dogaya-salacaklar-p341129",
-        "description": "Orman yangınlarına karşı keçi ve koyunları doğaya salacaklar",
-        "source": "Sözcü",
-        "published": "2026-07-30T20:48:51+03:00"
-      },
-      {
-        "title": "Çiğ sebze ve meyveyle bulaşıyor: Binlerce kişi hastanelik oldu",
-        "link": "https://www.sozcu.com.tr/cig-sebze-ve-meyveyle-bulasiyor-binlerce-kisi-hastanelik-oldu-p341128",
-        "description": "Çiğ sebze ve meyveyle bulaşıyor: Binlerce kişi hastanelik oldu",
-        "source": "Sözcü",
-        "published": "2026-07-30T20:24:06+03:00"
-      },
-      {
-        "title": "18 yaşındaki genç, geliştirdiği süngerle 3,5 milyon liralık ödül kazandı",
-        "link": "https://www.sozcu.com.tr/18-yasindaki-genc-gelistirdigi-sungerle-3-5-milyon-liralik-odul-kazandi-p341126",
-        "description": "18 yaşındaki genç, geliştirdiği süngerle 3,5 milyon liralık ödül kazandı",
-        "source": "Sözcü",
-        "published": "2026-07-30T20:22:16+03:00"
+        "title": "Beşiktaş 2-0 ile turu geçti",
+        "link": "https://www.bbc.com/turkce/articles/cly899d2l8vo?at_medium=RSS&at_campaign=rss",
+        "description": "UEFA Avrupa Ligi ön eleme turu ikinci maçında Danimarka temsilcisi Midtjylland ile deplasmanda karşılaşan Beşiktaş, maçı 2-0 kazandı.",
+        "source": "BBC Turkish",
+        "published": "2026-07-30T19:03:35+00:00"
       },
       {
         "title": "Lübnan Cumhurbaşkanı Ankara'da. Erdoğan: İsrail insanlık suçu işiyor",
@@ -642,13 +663,6 @@
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, ''Lübnan egemenliğini temin için başlatılacak tüm girişimlerde Türkiye olarak yer almak istiyoruz.'' dedi.",
         "source": "NTV",
         "published": "2026-07-30T19:02:40+03:00"
-      },
-      {
-        "title": "Ahbap Derneği soruşturması. Gözaltına alınan 7 şüpheliye tutuklama talebi",
-        "link": "https://www.ntv.com.tr/turkiye/ahbap-dernegi-sorusturmasi-gozaltina-alinan-7-supheliye-tutuklama-talebi-1735305",
-        "description": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamındaki dördüncü dalga operasyonda gözaltına alınan 13 şüpheliden 7'si tutuklama talebiyle hakimliğe sevk edildi.",
-        "source": "NTV",
-        "published": "2026-07-30T19:00:51+03:00"
       },
       {
         "title": "Gülistan Doku soruşturmasında adliyeye sevk edilen 8 şüpheliden 4'ü tutuklandı",
@@ -663,13 +677,6 @@
         "description": "Suudi Arabistan, Türkiye'nin de aralarında bulunduğu 14 ülkenin, Kızıldeniz'deki ticari güzergahları korumak için bir deniz savunma koalisyonu kurulması önerisine destek veren bir açıklama yayımladığını bildirdi.",
         "source": "BBC Turkish",
         "published": "2026-07-30T18:16:37+00:00"
-      },
-      {
-        "title": "Beşiktaş Danimarka'da tur için sahada",
-        "link": "https://www.bbc.com/turkce/articles/cly899d2l8vo?at_medium=RSS&at_campaign=rss",
-        "description": "Beşiktaş, UEFA Avrupa Ligi ön eleme turu ikinci maçında Danimarka temsilcisi Midtjylland ile deplasmanda karşılaşıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-07-30T16:55:53+00:00"
       },
       {
         "title": "MHP'li Feti Yıldız: Rüşvet ve yolsuzluk parti kapatma nedeni olmalı",
@@ -712,13 +719,6 @@
         "description": "Türkiye Maden İşçileri Sendikası, Perşembe günü alacaklarını almak için kendilerini Ankara'da Yıldızlar SSS Holding'in önüne zincirleyen 60 Doruk Madencilik işçisi ve sendika temsilcisinin gözaltına alındığını duyurdu.",
         "source": "BBC Turkish",
         "published": "2026-07-30T16:17:27+00:00"
-      },
-      {
-        "title": "Binlerce göçmen Fas'taki İspanya toprağı Ceuta'ya girdi",
-        "link": "https://www.bbc.com/turkce/articles/cz97klj5x98o?at_medium=RSS&at_campaign=rss",
-        "description": "İspanya'nın Afrika'daki kenti Ceuta'ya sınır komşusu Fas üzerinden binlerce kişi girdi.",
-        "source": "BBC Turkish",
-        "published": "2026-07-30T16:04:28+00:00"
       },
       {
         "title": "DOA Sistemi'nde yeni dönem başladı. Getirene 1 lira, alana 50 kuruş ödenecek",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8756
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+106°F",
-    "wind": "→5mph",
-    "humidity": "18%"
+    "condition": "Güneşli",
+    "temp": "+88°F",
+    "wind": "↘6mph",
+    "humidity": "38%"
   }
 }
