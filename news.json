@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-07-29T23:58:55.693198+00:00",
+  "updated_at": "2026-07-30T03:15:37.291485+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "NSF pilots 4-year PhDs with industry research placements",
+        "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+        "description": "Article URL: https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four Comments URL: https://news.ycombinator.com/item?id=49105642 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-30T02:55:21+00:00"
+      },
+      {
+        "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+        "link": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+        "description": "Article URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/ Comments URL: https://news.ycombinator.com/item?id=49105190 Points: 29 # Comments: 39",
+        "source": "HackerNews",
+        "published": "2026-07-30T01:35:10+00:00"
+      },
+      {
+        "title": "Logic for Programmers by Hillel Wayne",
+        "link": "https://logicforprogrammers.com/",
+        "description": "Article URL: https://logicforprogrammers.com/ Comments URL: https://news.ycombinator.com/item?id=49104937 Points: 8 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-30T00:51:39+00:00"
+      },
+      {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "source": "TechCrunch",
+        "published": "2026-07-30T00:21:06+00:00"
+      },
+      {
+        "title": "Show HN: A local merge queue for parallel Claude Code agents",
+        "link": "https://github.com/funador/claude-code-merge-queue",
+        "description": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want...",
+        "source": "HackerNews",
+        "published": "2026-07-30T00:20:16+00:00"
+      },
+      {
+        "title": "The Productivity Mirage",
+        "link": "https://frantic.im/mirage/",
+        "description": "Article URL: https://frantic.im/mirage/ Comments URL: https://news.ycombinator.com/item?id=49104335 Points: 67 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-07-29T23:18:11+00:00"
+      },
       {
         "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
         "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
@@ -12,14 +54,14 @@
       {
         "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
         "link": "https://archive.org/details/mancomputerbyjoh0000john",
-        "description": "Article URL: https://archive.org/details/mancomputerbyjoh0000john Comments URL: https://news.ycombinator.com/item?id=49104140 Points: 7 # Comments: 1",
+        "description": "Article URL: https://archive.org/details/mancomputerbyjoh0000john Comments URL: https://news.ycombinator.com/item?id=49104140 Points: 23 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-07-29T22:53:44+00:00"
       },
       {
         "title": "LLM Honeypot",
         "link": "https://llm2human.pages.dev/",
-        "description": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 11 # Comments: 7",
+        "description": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 89 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-07-29T22:51:03+00:00"
       },
@@ -31,13 +73,6 @@
         "published": "2026-07-29T22:46:03+00:00"
       },
       {
-        "title": "GitHub is the wrong shape for this new world",
-        "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-        "description": "Article URL: https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world Comments URL: https://news.ycombinator.com/item?id=49103910 Points: 17 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-07-29T22:27:09+00:00"
-      },
-      {
         "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
         "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
         "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
@@ -47,7 +82,7 @@
       {
         "title": "AI's top startups are barely publishing their research",
         "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "description": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 117 # Comments: 78",
+        "description": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 262 # Comments: 141",
         "source": "HackerNews",
         "published": "2026-07-29T21:25:40+00:00"
       },
@@ -68,7 +103,7 @@
       {
         "title": "The Cold Email",
         "link": "https://zachholman.com/posts/cold-email",
-        "description": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 45 # Comments: 17",
+        "description": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 107 # Comments: 44",
         "source": "HackerNews",
         "published": "2026-07-29T21:06:42+00:00"
       },
@@ -87,39 +122,11 @@
         "published": "2026-07-29T21:01:01+00:00"
       },
       {
-        "title": "The coolest use for the Vision Pro",
-        "link": "https://christianselig.com/2026/07/vision-pro-house/",
-        "description": "Article URL: https://christianselig.com/2026/07/vision-pro-house/ Comments URL: https://news.ycombinator.com/item?id=49102774 Points: 291 # Comments: 139",
-        "source": "HackerNews",
-        "published": "2026-07-29T20:39:40+00:00"
-      },
-      {
-        "title": "A Trampoline",
-        "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-        "description": "Article URL: https://dogdogfish.com/blog/2026/07/29/a-trampoline/ Comments URL: https://news.ycombinator.com/item?id=49102425 Points: 53 # Comments: 27",
-        "source": "HackerNews",
-        "published": "2026-07-29T20:14:36+00:00"
-      },
-      {
         "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
         "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
         "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
         "source": "TechCrunch",
         "published": "2026-07-29T19:44:49+00:00"
-      },
-      {
-        "title": "Kimi K3-256k",
-        "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
-        "description": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models Comments URL: https://news.ycombinator.com/item?id=49101852 Points: 308 # Comments: 89",
-        "source": "HackerNews",
-        "published": "2026-07-29T19:25:33+00:00"
-      },
-      {
-        "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-        "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-        "description": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 48 # Comments: 27",
-        "source": "HackerNews",
-        "published": "2026-07-29T18:57:10+00:00"
       },
       {
         "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -211,13 +218,6 @@
         "description": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, according to Microsoft's...",
         "source": "The Verge",
         "published": "2026-07-29T17:53:54-04:00"
-      },
-      {
-        "title": "Waymo robotaxis are starting to return to freeways",
-        "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-        "description": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
-        "source": "TechCrunch",
-        "published": "2026-07-29T17:50:57+00:00"
       },
       {
         "title": "Mark Zuckerberg is planning a big push into personal AI agents",
@@ -355,6 +355,27 @@
     ],
     "dunya": [
       {
+        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+        "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+        "source": "BBC News",
+        "published": "2026-07-30T02:36:53+00:00"
+      },
+      {
+        "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
+        "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "description": "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan.",
+        "source": "BBC News",
+        "published": "2026-07-30T01:58:28+00:00"
+      },
+      {
+        "title": "Cooler conditions on way for parts of UK - but still no rain for drought-hit areas",
+        "link": "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss",
+        "description": "After another day of record-breaking temperatures for some parts of England, a cold front is moving in.",
+        "source": "BBC News",
+        "published": "2026-07-30T01:40:07+00:00"
+      },
+      {
         "title": "How the UK's extreme heat is shifting the conversation about air-con",
         "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
         "description": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
@@ -369,25 +390,11 @@
         "published": "2026-07-29T23:13:43+00:00"
       },
       {
-        "title": "Salman Rushdie attacker convicted of terror offenses",
-        "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-        "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+        "title": "Interest rates expected to be held again by Bank of England",
+        "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+        "description": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
         "source": "BBC News",
-        "published": "2026-07-29T22:15:33+00:00"
-      },
-      {
-        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-        "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-        "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-        "source": "BBC News",
-        "published": "2026-07-29T21:36:06+00:00"
-      },
-      {
-        "title": "Zendaya at Spider-Man premiere: Working with husband Tom Holland 'easy when you're best friends'",
-        "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-        "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-        "source": "BBC News",
-        "published": "2026-07-29T20:21:46+00:00"
+        "published": "2026-07-29T23:01:56+00:00"
       },
       {
         "title": "Limiting sugar before age two linked to better brain health",
@@ -411,18 +418,11 @@
         "published": "2026-07-29T19:02:53-04:00"
       },
       {
-        "title": "Fifa opens disciplinary proceedings against Argentina",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
         "source": "BBC News",
-        "published": "2026-07-29T17:21:57+00:00"
-      },
-      {
-        "title": "Moment police officers set foot in 'horror scene' funeral home",
-        "link": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
-        "description": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
-        "source": "BBC News",
-        "published": "2026-07-29T17:00:41+00:00"
+        "published": "2026-07-29T18:41:31+00:00"
       },
       {
         "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
@@ -439,11 +439,11 @@
         "published": "2026-07-29T16:28:44-04:00"
       },
       {
-        "title": "More than half of England in drought, Environment Agency declares",
-        "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
-        "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+        "title": "Body of Scottish woman found inside suitcase in Greece",
+        "link": "https://www.bbc.co.uk/news/articles/clyx8762kj2o?at_medium=RSS&at_campaign=rss",
+        "description": "Police Scotland confirmed they are liaising with authorities after the woman was reportedly discovered by a homeless man in Athens earlier this month.",
         "source": "BBC News",
-        "published": "2026-07-29T14:37:30+00:00"
+        "published": "2026-07-29T16:28:08+00:00"
       },
       {
         "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
@@ -488,9 +488,9 @@
         "published": "2026-07-29T05:07:03-04:00"
       },
       {
-        "title": "'Machines are collaborators' at this new museum of AI art",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
-        "description": "\"What is beyond reality?\" asks artist Refik Anadol. His latest projects include Dataland, an immersive AI art museum in Los Angeles, and an installation at the Smithsonian in Washington, D.C.",
+        "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+        "description": "The Federal Reserve left its benchmark interest rate unchanged Wednesday. Fed policymakers say they remain committed to curbing stubborn inflation.",
         "source": "NPR",
         "published": "2026-07-29T05:00:00-04:00"
       },
@@ -571,14 +571,91 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-30-temmuz-2026-1735165",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-07-30T02:30:00+03:00"
+        "published": "2026-07-30T06:00:00+03:00"
+      },
+      {
+        "title": "Kriz tekstili delip geçti",
+        "link": "https://www.sozcu.com.tr/kriz-tekstili-delip-gecti-p340865",
+        "description": "Kriz tekstili delip geçti",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:48:02+03:00"
+      },
+      {
+        "title": "Başkasının fabrikasıyla maaş ödeyecekmiş",
+        "link": "https://www.sozcu.com.tr/baskasinin-fabrikasiyla-maas-odeyecekmis-p340867",
+        "description": "Başkasının fabrikasıyla maaş ödeyecekmiş",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:45:16+03:00"
+      },
+      {
+        "title": "Şehit ve gazilerimizden utanıyor, PKK’nın tutumuna kahroluyorum",
+        "link": "https://www.sozcu.com.tr/sehit-ve-gazilerimizden-utaniyor-pkk-nin-tutumuna-kahroluyorum-p340873",
+        "description": "Şehit ve gazilerimizden utanıyor, PKK’nın tutumuna kahroluyorum",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:30:08+03:00"
+      },
+      {
+        "title": "203 belediye YENi Parti’ye katılıyor",
+        "link": "https://www.sozcu.com.tr/203-belediye-yeni-parti-ye-katiliyor-p340871",
+        "description": "203 belediye YENi Parti’ye katılıyor",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:30:08+03:00"
+      },
+      {
+        "title": "Dedetaş’a da gözaltı",
+        "link": "https://www.sozcu.com.tr/dedetas-a-da-gozalti-p340870",
+        "description": "Dedetaş’a da gözaltı",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:30:08+03:00"
+      },
+      {
+        "title": "Af demeden af yolu",
+        "link": "https://www.sozcu.com.tr/af-demeden-af-yolu-p340869",
+        "description": "Af demeden af yolu",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:30:08+03:00"
+      },
+      {
+        "title": "Paşamız gazileri hatırladı, ayağına çağırıp azarladı",
+        "link": "https://www.sozcu.com.tr/pasamiz-gazileri-hatirladi-ayagina-cagirip-azarladi-p340868",
+        "description": "Paşamız gazileri hatırladı, ayağına çağırıp azarladı",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:30:08+03:00"
+      },
+      {
+        "title": "Fransız şirket köprülere talip",
+        "link": "https://www.sozcu.com.tr/fransiz-sirket-koprulere-talip-p340866",
+        "description": "Fransız şirket köprülere talip",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:30:08+03:00"
+      },
+      {
+        "title": "Bütçenin ardındaki kara delik tehlikesi",
+        "link": "https://www.sozcu.com.tr/butcenin-ardindaki-kara-delik-tehlikesi-p340864",
+        "description": "Bütçenin ardındaki kara delik tehlikesi",
+        "source": "Sözcü",
+        "published": "2026-07-30T05:30:08+03:00"
       },
       {
         "title": "Türkiye’nin dört bir yanında yangın. Rüzgar mücadeleyi zorlaştırıyor",
         "link": "https://www.ntv.com.tr/turkiye/galeri-turkiyenin-dort-bir-yaninda-yangin-ruzgar-mucadeleyi-zorlastiriyor-1735168",
-        "description": "Türkiye'de çarşamba günü 9 ilde yangın çıktı. Yangınlarla mücadele Antalya, Muğla ve İzmir gibi illerde rüzgarın etkisiyle sürüyor.",
+        "description": "Türkiye'de dün 9 ilde yangın çıktı. Alevlerle mücadele Antalya, Muğla, Balıkesir ve İzmir'de sürüyor.",
         "source": "NTV",
-        "published": "2026-07-30T02:14:11+03:00"
+        "published": "2026-07-30T05:07:22+03:00"
+      },
+      {
+        "title": "Ağaca çarptı, ikiye bölündü",
+        "link": "https://www.ntv.com.tr/turkiye/agaca-carpti-ikiye-bolundu-1735173",
+        "description": "Sakarya'nın Erenler ilçesinde ağaca çarpıp kağıt gibi ikiye bölünen otomobilin sürücüsü yaralandı.",
+        "source": "NTV",
+        "published": "2026-07-30T03:12:10+03:00"
+      },
+      {
+        "title": "Avrupa'da yangınlar: Girit'te üç itfaiye eri hayatını kaybetti",
+        "link": "https://www.bbc.com/turkce/articles/cdx71e1g114o?at_medium=RSS&at_campaign=rss",
+        "description": "Fransa ve İspanya'da itfaiye orman yangınlarını kontrol altına almak için gece gündüz demeden çalışırken iki ülkede de yeni bir sıcak hava dalgasının etkili olması bekleniyor.",
+        "source": "BBC Turkish",
+        "published": "2026-07-30T02:25:23+00:00"
       },
       {
         "title": "Gelecek Partisi feshedildi",
@@ -595,74 +672,11 @@
         "published": "2026-07-30T01:03:12+03:00"
       },
       {
-        "title": "Hatay’da toplu istifa: 54 CHP’li YENİ Parti’ye katılıyor",
-        "link": "https://www.sozcu.com.tr/hatay-da-toplu-istifa-54-chp-li-yeni-parti-ye-katiliyor-p340856",
-        "description": "Hatay’da toplu istifa: 54 CHP’li YENİ Parti’ye katılıyor",
-        "source": "Sözcü",
-        "published": "2026-07-30T00:55:18+03:00"
-      },
-      {
-        "title": "Altın dolu çantayı teslim etti karşılığında ödüllendirildi",
-        "link": "https://www.sozcu.com.tr/altin-dolu-cantayi-teslim-etti-karsiliginda-odullendirildi-p340858",
-        "description": "Altın dolu çantayı teslim etti karşılığında ödüllendirildi",
-        "source": "Sözcü",
-        "published": "2026-07-30T00:44:57+03:00"
-      },
-      {
-        "title": "Kartal 'kurt' avında! Midtjylland -Beşiktaş muhtemel 11'ler",
-        "link": "https://www.sozcu.com.tr/kartal-kurt-avinda-midtjylland-besiktas-muhtemel-11-ler-p340843",
-        "description": "Kartal 'kurt' avında! Midtjylland -Beşiktaş muhtemel 11'ler",
-        "source": "Sözcü",
-        "published": "2026-07-30T00:44:19+03:00"
-      },
-      {
-        "title": "Ortadoğu'da tansiyonu yükselten sözler: Trump'tan İran mesajı",
-        "link": "https://www.sozcu.com.tr/ortadogu-da-tansiyonu-yukselten-sozler-trump-tan-iran-mesaji-p340855",
-        "description": "Ortadoğu'da tansiyonu yükselten sözler: Trump'tan İran mesajı",
-        "source": "Sözcü",
-        "published": "2026-07-30T00:24:50+03:00"
-      },
-      {
         "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 30 Temmuz 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-30-temmuz-2026-1735167",
         "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 30 Temmuz 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
         "source": "NTV",
         "published": "2026-07-30T00:20:00+03:00"
-      },
-      {
-        "title": "Dere yatağında facia: 3 ölü, 3 yaralı",
-        "link": "https://www.sozcu.com.tr/dere-yataginda-facia-3-olu-3-yarali-p340853",
-        "description": "Dere yatağında facia: 3 ölü, 3 yaralı",
-        "source": "Sözcü",
-        "published": "2026-07-30T00:11:49+03:00"
-      },
-      {
-        "title": "Fenerbahçe turu atlasa da taraftar o futbolcuya tepkili! 'Acilen Leao'yu alın'",
-        "link": "https://www.sozcu.com.tr/fenerbahce-turu-atlasa-da-taraftar-o-futbolcuya-tepkili-acilen-leao-yu-alin-p340852",
-        "description": "Fenerbahçe turu atlasa da taraftar o futbolcuya tepkili! 'Acilen Leao'yu alın'",
-        "source": "Sözcü",
-        "published": "2026-07-29T23:46:13+03:00"
-      },
-      {
-        "title": "ABD İran’a yeni yaptırımlar açıkladı",
-        "link": "https://www.sozcu.com.tr/abd-iran-a-yeni-yaptirimlar-acikladi-p340850",
-        "description": "ABD İran’a yeni yaptırımlar açıkladı",
-        "source": "Sözcü",
-        "published": "2026-07-29T23:41:06+03:00"
-      },
-      {
-        "title": "Kuraklığın hüküm sürdüğü çöldeki göl imkansızı başarıyor",
-        "link": "https://www.sozcu.com.tr/kurakligin-hukum-surdugu-coldeki-gol-imkansizi-basariyor-p340847",
-        "description": "Kuraklığın hüküm sürdüğü çöldeki göl imkansızı başarıyor",
-        "source": "Sözcü",
-        "published": "2026-07-29T23:33:23+03:00"
-      },
-      {
-        "title": "UEFA'dan FIFA'nın futbol federasyonlarına baskısına sert tepki",
-        "link": "https://www.sozcu.com.tr/uefa-dan-fifa-nin-futbol-federasyonlarina-baskisina-sert-tepki-p340839",
-        "description": "UEFA'dan FIFA'nın futbol federasyonlarına baskısına sert tepki",
-        "source": "Sözcü",
-        "published": "2026-07-29T23:14:44+03:00"
       },
       {
         "title": "Dışişleri Bakanı Fidan, Hamas heyetiyle görüştü",
@@ -735,13 +749,6 @@
         "published": "2026-07-29T16:27:20+03:00"
       },
       {
-        "title": "Aziz İhsan Aktaş davasında karar günü belli oldu",
-        "link": "https://www.ntv.com.tr/turkiye/aziz-ihsan-aktas-davasinda-karar-gunu-belli-oldu-1735134",
-        "description": "Aziz İhsan Aktaş davasında esasa ilişkin savunmalar tamamlandı. Mahkeme heyeti karar için 3 haftalık ara verdi. 200 kişi hakkındaki karar 24 Ağustos'ta açıklanacak.",
-        "source": "NTV",
-        "published": "2026-07-29T16:18:52+03:00"
-      },
-      {
         "title": "BM Genel Sekreteri'nin Kıbrıs ziyaretinden 'koşullu 5+1 konferansı' sonucu çıktı",
         "link": "https://www.bbc.com/turkce/articles/cj4k5l7pgdxo?at_medium=RSS&at_campaign=rss",
         "description": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres'in 27-29 Temmuz günlerinde yaptığı Kıbrıs ziyaretinden somut bir çözüm planı ya da yeni bir takvim çıkmadı, ancak Kıbrıs Rum ve Kıbrıs Türk taraflarının yanı sıra üç garantör ülkenin...",
@@ -754,13 +761,6 @@
         "description": "FIFA Başkanı Gianni Infantino, 211 ülke federasyonuna bir mektup göndererek, Dünya Kupası'nı özel yatırımcılara açmayı öngören tartışmalı planına destek vermeleri halinde 40 milyon dolar alacaklarını bildirdi. UEFA yönetimi, Dünya Kupası'nın boykot...",
         "source": "BBC Turkish",
         "published": "2026-07-29T14:44:16+00:00"
-      },
-      {
-        "title": "2024'teki yerel seçimlerden bu yana kaç belediye başkanı tutuklandı?",
-        "link": "https://www.bbc.com/turkce/articles/cq6ge85y5ylo?at_medium=RSS&at_campaign=rss",
-        "description": "CHP'nin birinci olduğu 31 Mart 2024 yerel seçimlerinden sonra aralarında İstanbul, Bursa, Adana ve Antalya'nın da bulunduğu çok sayıda il ve ilçede belediye başkanları tutuklandı veya görevden uzaklaştırıldı. Türkiye genelindeki son durumu derledik.",
-        "source": "BBC Turkish",
-        "published": "2026-07-29T10:06:13+00:00"
       },
       {
         "title": "Türkiye'den vize isteyen ve istemeyen ülkeler hangileri?",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.3863,
-    "eur_try": 53.931,
-    "eur_usd": 0.8787
+    "usd_try": 47.4259,
+    "eur_try": 54.1909,
+    "eur_usd": 0.8756
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+80°F",
-    "wind": "↘11mph",
-    "humidity": "47%"
+    "condition": "Açık",
+    "temp": "+71°F",
+    "wind": "↘5mph",
+    "humidity": "63%"
   }
 }
