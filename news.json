@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-07-31T20:20:20.471393+00:00",
+  "updated_at": "2026-07-31T21:38:25.856508+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+        "link": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+        "description": "Article URL: https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49128539 Points: 15 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-07-31T21:08:05+00:00"
+      },
+      {
+        "title": "India is starting to pay for apps, not just download them",
+        "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+        "description": "India's app market generated a record $345 million in Q2.",
+        "source": "TechCrunch",
+        "published": "2026-07-31T21:07:45+00:00"
+      },
+      {
+        "title": "Loops (YC W22) Is Hiring a Product Educator",
+        "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+        "description": "Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator Comments URL: https://news.ycombinator.com/item?id=49128462 Points: 0 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-31T21:00:40+00:00"
+      },
+      {
+        "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+        "link": "https://arxiv.org/abs/2607.28233",
+        "description": "Article URL: https://arxiv.org/abs/2607.28233 Comments URL: https://news.ycombinator.com/item?id=49128323 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-31T20:44:29+00:00"
+      },
+      {
+        "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+        "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
+        "description": "https://github.com/jwlaboratory/bite-the-bullet Comments URL: https://news.ycombinator.com/item?id=49127874 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-07-31T19:55:41+00:00"
+      },
       {
         "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
         "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
@@ -19,7 +54,7 @@
       {
         "title": "Tailscale didn't stop the Hugging Face intrusion",
         "link": "https://tailscale.com/blog/hugging-face-intrusion",
-        "description": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 91 # Comments: 37",
+        "description": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 218 # Comments: 81",
         "source": "HackerNews",
         "published": "2026-07-31T19:03:45+00:00"
       },
@@ -40,51 +75,37 @@
       {
         "title": "Golang proposal: container/: generic collection types",
         "link": "https://github.com/golang/go/issues/80590",
-        "description": "Article URL: https://github.com/golang/go/issues/80590 Comments URL: https://news.ycombinator.com/item?id=49127031 Points: 34 # Comments: 5",
+        "description": "Article URL: https://github.com/golang/go/issues/80590 Comments URL: https://news.ycombinator.com/item?id=49127031 Points: 75 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-07-31T18:39:47+00:00"
       },
       {
         "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
         "link": "https://arxiv.org/abs/2607.28545",
-        "description": "Article URL: https://arxiv.org/abs/2607.28545 Comments URL: https://news.ycombinator.com/item?id=49126943 Points: 13 # Comments: 4",
+        "description": "Article URL: https://arxiv.org/abs/2607.28545 Comments URL: https://news.ycombinator.com/item?id=49126943 Points: 18 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-07-31T18:32:43+00:00"
       },
       {
         "title": "Using the railway network as a flatbed scanner [video]",
         "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-        "description": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner Comments URL: https://news.ycombinator.com/item?id=49126919 Points: 15 # Comments: 5",
+        "description": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner Comments URL: https://news.ycombinator.com/item?id=49126919 Points: 32 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-07-31T18:30:44+00:00"
       },
       {
         "title": "Termixer (TUI DJ Mixer)",
         "link": "https://github.com/l00sed/termixer",
-        "description": "Article URL: https://github.com/l00sed/termixer Comments URL: https://news.ycombinator.com/item?id=49126883 Points: 24 # Comments: 12",
+        "description": "Article URL: https://github.com/l00sed/termixer Comments URL: https://news.ycombinator.com/item?id=49126883 Points: 36 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-07-31T18:28:08+00:00"
       },
       {
         "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
         "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-        "description": "Article URL: https://servo.org/blog/2026/07/31/june-in-servo/ Comments URL: https://news.ycombinator.com/item?id=49126765 Points: 20 # Comments: 0",
+        "description": "Article URL: https://servo.org/blog/2026/07/31/june-in-servo/ Comments URL: https://news.ycombinator.com/item?id=49126765 Points: 53 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-07-31T18:17:52+00:00"
-      },
-      {
-        "title": "Everyone is building LLM routers, we deprecated ours",
-        "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "description": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 32 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-07-31T18:06:39+00:00"
-      },
-      {
-        "title": "qm",
-        "link": "https://github.com/yc-software/qm",
-        "description": "Article URL: https://github.com/yc-software/qm Comments URL: https://news.ycombinator.com/item?id=49126604 Points: 171 # Comments: 45",
-        "source": "HackerNews",
-        "published": "2026-07-31T18:04:58+00:00"
       },
       {
         "title": "Huawei Pura 90 Serisi Satışları 1 Milyon Barajını Aştı",
@@ -136,25 +157,11 @@
         "published": "2026-07-31T17:17:49+03:00"
       },
       {
-        "title": "Severance",
-        "link": "https://lcamtuf.substack.com/p/severance",
-        "description": "Article URL: https://lcamtuf.substack.com/p/severance Comments URL: https://news.ycombinator.com/item?id=49125971 Points: 58 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-07-31T17:15:09+00:00"
-      },
-      {
         "title": "Samsung Galaxy Z Fold 8 Ön Siparişleri Galaxy S26 Serisini Yakaladı",
         "link": "\n                    https://www.webtekno.com/samsung-galaxy-z-fold-8-on-siparisleri-galaxy-s26-serisini-yakaladi-h221470.html\n                    ",
         "description": "Samsung'un yeni katlanabilir telefonu Galaxy Z Fold 8, lansmanın ardından ön sipariş rekorları kırarak geleneksel amiral gemisi Galaxy S26 serisinin satış performansını geride bırakma noktasına geldi.",
         "source": "Webtekno",
         "published": "2026-07-31T17:02:08+03:00"
-      },
-      {
-        "title": "Miso (YC S16) is hiring for U.S. expansion",
-        "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-        "description": "Article URL: https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion Comments URL: https://news.ycombinator.com/item?id=49125785 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-07-31T17:01:08+00:00"
       },
       {
         "title": "Epic Games Store’da Bu Haftanın Ücretsiz Oyunları Belli Oldu",
@@ -276,13 +283,6 @@
         "published": "2026-07-31T15:00:19+00:00"
       },
       {
-        "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-        "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-        "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the...",
-        "source": "TechCrunch",
-        "published": "2026-07-31T14:49:21+00:00"
-      },
-      {
         "title": "The ban on robot vacuums won’t make them safer, only worse",
         "link": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
         "description": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the...",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+        "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+        "description": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal.",
+        "source": "BBC News",
+        "published": "2026-07-31T20:58:27+00:00"
+      },
+      {
         "title": "Two more small boat pilots jailed for Channel crossings",
         "link": "https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o?at_medium=RSS&at_campaign=rss",
         "description": "Both men admitted steering overcrowded vessels carrying more than 80 people each to the UK.",
@@ -362,11 +369,11 @@
         "published": "2026-07-31T18:14:49+00:00"
       },
       {
-        "title": "AI firms must answer for rogue bots, says boss of hacked company",
-        "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-        "description": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
+        "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
+        "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
         "source": "BBC News",
-        "published": "2026-07-31T18:10:28+00:00"
+        "published": "2026-07-31T17:55:04+00:00"
       },
       {
         "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -376,7 +383,7 @@
         "published": "2026-07-31T17:52:11+00:00"
       },
       {
-        "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+        "title": "Fifa executive says staff 'deceived' by Infantino plans",
         "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
         "description": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
         "source": "BBC News",
@@ -418,6 +425,20 @@
         "published": "2026-07-31T16:29:00+00:00"
       },
       {
+        "title": "Climate adaptation at its limits, says one scientist",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+        "description": "A climate scientist says Earth is \"passing the limits of adaptation\" when it comes to withstanding the effects of climate change.",
+        "source": "NPR",
+        "published": "2026-07-31T16:28:46-04:00"
+      },
+      {
+        "title": "Drone delivery helps in Rwanda, but only so much",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+        "description": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
+        "source": "NPR",
+        "published": "2026-07-31T16:28:41-04:00"
+      },
+      {
         "title": "Burnham faces criticism over plans for mayors to get share of income tax",
         "link": "https://www.bbc.co.uk/news/articles/cwyr1w8r2y2o?at_medium=RSS&at_campaign=rss",
         "description": "Tory mayor Lord Houchen wants to offer a rebate, but the prime minister says it should be reinvested in communities.",
@@ -430,13 +451,6 @@
         "description": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
         "source": "BBC News",
         "published": "2026-07-31T15:48:34+00:00"
-      },
-      {
-        "title": "Puberty blockers trial can start recruiting children after judge rejects legal challenge",
-        "link": "https://www.bbc.co.uk/news/articles/c0jl4np49w1o?at_medium=RSS&at_campaign=rss",
-        "description": "Campaigners brought the legal action to try and stop the trial going ahead.",
-        "source": "BBC News",
-        "published": "2026-07-31T15:09:57+00:00"
       },
       {
         "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
@@ -495,20 +509,6 @@
         "published": "2026-07-31T05:00:00-04:00"
       },
       {
-        "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-        "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
-        "source": "NPR",
-        "published": "2026-07-31T05:00:00-04:00"
-      },
-      {
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
-        "source": "NPR",
-        "published": "2026-07-31T05:00:00-04:00"
-      },
-      {
         "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
         "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
@@ -516,11 +516,11 @@
         "published": "2026-07-31T05:00:00-04:00"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
-        "description": "President Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
+        "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+        "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
         "source": "NPR",
-        "published": "2026-07-31T04:49:30-04:00"
+        "published": "2026-07-31T05:00:00-04:00"
       },
       {
         "title": "US government map of Africa mislabels every country at global conference",
@@ -567,6 +567,62 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-agustos-2026-1735441",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-01T00:30:00+03:00"
+      },
+      {
+        "title": "Çerkezköy Belediye Başkanı Vahap Akay CHP’den istifa etti",
+        "link": "https://www.sozcu.com.tr/cerkezkoy-belediye-baskani-vahap-akay-chp-den-istifa-etti-p341420",
+        "description": "Çerkezköy Belediye Başkanı Vahap Akay CHP’den istifa etti",
+        "source": "Sözcü",
+        "published": "2026-08-01T00:27:17+03:00"
+      },
+      {
+        "title": "Üç CHP'li Başkan AKP'ye katılıyor: Rozeti Erdoğan takacak",
+        "link": "https://www.sozcu.com.tr/uc-chp-li-baskan-akp-ye-katiliyor-rozeti-erdogan-takacak-p341415",
+        "description": "Üç CHP'li Başkan AKP'ye katılıyor: Rozeti Erdoğan takacak",
+        "source": "Sözcü",
+        "published": "2026-08-01T00:14:23+03:00"
+      },
+      {
+        "title": "İBB duyurdu: Pazar günü ücretsiz olacak",
+        "link": "https://www.sozcu.com.tr/ibb-duyurdu-pazar-gunu-ucretsiz-olacak-p341414",
+        "description": "İBB duyurdu: Pazar günü ücretsiz olacak",
+        "source": "Sözcü",
+        "published": "2026-08-01T00:03:49+03:00"
+      },
+      {
+        "title": "Altay’a kayyum atanıyor",
+        "link": "https://www.sozcu.com.tr/altay-a-kayyum-ataniyor-p341413",
+        "description": "Altay’a kayyum atanıyor",
+        "source": "Sözcü",
+        "published": "2026-07-31T23:59:44+03:00"
+      },
+      {
+        "title": "Türkiye’nin dev market zinciri resmen satıldı: İşte yeni sahibi",
+        "link": "https://www.sozcu.com.tr/turkiye-nin-dev-market-zinciri-resmen-satildi-iste-yeni-sahibi-p341411",
+        "description": "Türkiye’nin dev market zinciri resmen satıldı: İşte yeni sahibi",
+        "source": "Sözcü",
+        "published": "2026-07-31T23:47:07+03:00"
+      },
+      {
+        "title": "Kılıçdaroğlu'nun sözcüsü Sarı açıkladı! Selin Sayek Böke ve Gül Çiftçi için disiplin süreci",
+        "link": "https://www.sozcu.com.tr/chp-de-iki-isim-icin-disiplin-sureci-p341410",
+        "description": "Kılıçdaroğlu'nun sözcüsü Sarı açıkladı! Selin Sayek Böke ve Gül Çiftçi için disiplin süreci",
+        "source": "Sözcü",
+        "published": "2026-07-31T23:26:38+03:00"
+      },
+      {
+        "title": "Trump aradığı fırsatı buldu: Hedefinde yine o isim var",
+        "link": "https://www.sozcu.com.tr/trump-aradigi-firsati-buldu-hedefinde-yine-o-isim-var-p341409",
+        "description": "Trump aradığı fırsatı buldu: Hedefinde yine o isim var",
+        "source": "Sözcü",
+        "published": "2026-07-31T23:21:23+03:00"
+      },
+      {
         "title": "Yeni Parti'den tutuklu belediye başkanları için yürüyüş çağrısı",
         "link": "https://www.sozcu.com.tr/yeni-parti-tutuklu-baskanlar-icin-1-agustos-2026-cagri-p341407",
         "description": "Yeni Parti'den tutuklu belediye başkanları için yürüyüş çağrısı",
@@ -581,25 +637,11 @@
         "published": "2026-07-31T22:47:25+03:00"
       },
       {
-        "title": "Gazze için 15 maddelik plan: Yol haritası açıklandı",
-        "link": "https://www.sozcu.com.tr/gazze-icin-15-maddelik-plan-yol-haritasi-aciklandi-p341405",
-        "description": "Gazze için 15 maddelik plan: Yol haritası açıklandı",
-        "source": "Sözcü",
-        "published": "2026-07-31T22:41:22+03:00"
-      },
-      {
         "title": "Dışişleri Bakanı Fidan, Suudi mevkidaşı Bin Ferhan ile telefonda görüştü",
         "link": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidan-suudi-mevkidasi-bin-ferhan-ile-telefonda-gorustu-1735437",
         "description": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile telefon görüşmesi gerçekleştirdi.",
         "source": "NTV",
         "published": "2026-07-31T22:27:31+03:00"
-      },
-      {
-        "title": "AKP'li Burcu Köksal'ın Whatsapp kazası: Torpil ve kadro talepleri ifşa oldu",
-        "link": "https://www.sozcu.com.tr/burcu-koksal-in-whatsapp-kazasi-p341395",
-        "description": "AKP'li Burcu Köksal'ın Whatsapp kazası: Torpil ve kadro talepleri ifşa oldu",
-        "source": "Sözcü",
-        "published": "2026-07-31T22:11:53+03:00"
       },
       {
         "title": "Acun Ilıcalı ve Aziz Yıldırım davalık oldu! Loca krizi mahkemeye taşınıyor",
@@ -609,25 +651,11 @@
         "published": "2026-07-31T22:00:47+03:00"
       },
       {
-        "title": "Savcılıktan Sinem Dedetaş'a 'Örgüt Lideri' suçlaması",
-        "link": "https://www.sozcu.com.tr/savciliktan-sinem-dedetas-a-orgut-lideri-suclamasi-p341399",
-        "description": "Savcılıktan Sinem Dedetaş'a 'Örgüt Lideri' suçlaması",
-        "source": "Sözcü",
-        "published": "2026-07-31T21:54:15+03:00"
-      },
-      {
-        "title": "Butlan yönetimi itiraf etti: Yarım milyona yakın kayıp var",
-        "link": "https://www.sozcu.com.tr/chp-de-12-ile-yeni-il-baskani-atandi-p341391",
-        "description": "Butlan yönetimi itiraf etti: Yarım milyona yakın kayıp var",
-        "source": "Sözcü",
-        "published": "2026-07-31T21:46:28+03:00"
-      },
-      {
-        "title": "Michelin Yıldızlı Şefe ‘Karınca’ Şoku",
-        "link": "https://www.sozcu.com.tr/michelin-yildizli-sefe-karinca-soku-p341394",
-        "description": "Michelin Yıldızlı Şefe ‘Karınca’ Şoku",
-        "source": "Sözcü",
-        "published": "2026-07-31T21:21:29+03:00"
+        "title": "Cem Küçük 'halkı yanıltıcı bilgiyi alenen yayma' suçlamasıyla tutuklandı",
+        "link": "https://www.bbc.com/turkce/articles/cwyqe433j9no?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan TV yorumcusu Cem Küçük tutuklandı",
+        "source": "BBC Turkish",
+        "published": "2026-07-31T21:11:16+00:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan: Geçmişteki gibi gençleri kirli oyunlarına alet edemezler",
@@ -637,18 +665,11 @@
         "published": "2026-07-31T21:07:24+03:00"
       },
       {
-        "title": "Sitelerde yeni ilan: Mangal arkadaşı aranıyor",
-        "link": "https://www.sozcu.com.tr/sitelerinde-yeni-ilan-mangal-arkadasi-araniyor-p341393",
-        "description": "Sitelerde yeni ilan: Mangal arkadaşı aranıyor",
-        "source": "Sözcü",
-        "published": "2026-07-31T21:03:20+03:00"
-      },
-      {
-        "title": "Fenerbahçe’den İrfan Can Kahveci açıklaması",
-        "link": "https://www.sozcu.com.tr/fenerbahce-den-irfan-can-kahveci-aciklamasi-p341392",
-        "description": "Fenerbahçe’den İrfan Can Kahveci açıklaması",
-        "source": "Sözcü",
-        "published": "2026-07-31T20:50:46+03:00"
+        "title": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil dört kişi tutuklandı",
+        "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul Anadolu Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında gözaltına alınan Üsküdar Belediye Başkanı Sinem Dedetaş'ın da aralarında bulunduğu dört kişi tutuklandı",
+        "source": "BBC Turkish",
+        "published": "2026-07-31T20:27:49+00:00"
       },
       {
         "title": "Gazze barış anlaşmasının yol haritasında neler var?",
@@ -672,32 +693,11 @@
         "published": "2026-07-31T16:42:27+03:00"
       },
       {
-        "title": "Cem Küçük hakkında tutuklama talebi",
-        "link": "https://www.bbc.com/turkce/articles/cwyqe433j9no?at_medium=RSS&at_campaign=rss",
-        "description": "TV yorumcusu Cem Küçük, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, İstanbul İl Jandarma Komutanlığı güçleri tarafından gözaltına alındı. Soruşturmada Küçük'e, \"halkı yanıltıcı bilgiyi alenen yayma\" ve \"şantaj\"...",
-        "source": "BBC Turkish",
-        "published": "2026-07-31T16:10:40+00:00"
-      },
-      {
-        "title": "Üsküdar Belediye Başkanı Sinem Dedetaş hakkında tutuklama talebi",
-        "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
-        "description": "İstanbul Anadolu Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında Üsküdar Belediyesi'ne yönelik operasyonda gözaltına alınan Sinem Dedetaş dahil dört kişi hakkında tutuklama talep edildi.",
-        "source": "BBC Turkish",
-        "published": "2026-07-31T15:39:12+00:00"
-      },
-      {
         "title": "Bakanlık firmaları isim isim paylaştı. Tantuniden tek tırnaklı eti çıktı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-bakanlik-firmalari-isim-isim-paylasti-tantuniden-tek-tirnakli-eti-cikti-1735401",
         "description": "Gıda ürünlerinde taklit ve tağşiş yapan firmaların ifşa edildiği liste yenilendi. Listede bir işletmenin tantunisinde tek tırnaklı tespit edildiği yer aldı.",
         "source": "NTV",
         "published": "2026-07-31T15:18:17+03:00"
-      },
-      {
-        "title": "Hamas, Gazze'de Barış Kurulu ile silah bırakma konusunda anlaştı",
-        "link": "https://www.bbc.com/turkce/articles/c70gx2gke5ro?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Başkanı Donald Trump, Barış Kurulu'nun Hamas ve Gazze'deki diğer silahlı grupların \"tamamen silah bırakması\" konusunda anlaşmaya vardığını açıkladı. Hamas anlaşma kapsamında ağır silahlarını teslim etmesinin, İsrail'in \"her türlü saldırganlığa\"...",
-        "source": "BBC Turkish",
-        "published": "2026-07-31T14:36:12+00:00"
       },
       {
         "title": "Cemil Tugay AKP'ye geçecek mi, CHP'den istifası sonrası neler söyledi?",
@@ -742,13 +742,6 @@
         "published": "2026-07-31T12:25:45+03:00"
       },
       {
-        "title": "MasterChef şampiyonu Eren Kaşıkçı'nın cansız bedenini bulan arkadaşı konuştu. \"Eşi ulaşamayınca bizi aradı\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-masterchef-sampiyonu-eren-kasikcinin-cansiz-bedenini-bulan-arkadasi-konustu-esi-ulasamayinca-bizi-aradi-1735389",
-        "description": "37 yaşında ani ölümüyle herkesi şoke eden MasterChef Eren Kaşıkçı'nın ölümüne ilişkin yeni ayrıntılar ortaya çıkmaya devam ediyor.",
-        "source": "NTV",
-        "published": "2026-07-31T12:04:40+03:00"
-      },
-      {
         "title": "Yeni Parti'nin yol haritası: İlk kurultay ekimde, Doğu ve Güneydoğu için özel heyet",
         "link": "https://www.bbc.com/turkce/articles/cqx72dgnw28o?at_medium=RSS&at_campaign=rss",
         "description": "Yeni Parti Genel Başkan Yardımcısı Ensar Aytekin, partinin ilk kurultayının Ekim ayında yapılmasının öngörüldüğünü, Doğu ve Güneydoğu bölgelerindeki örgütlenme için özel heyet oluşturulacağını söyledi.",
@@ -775,6 +768,13 @@
         "description": "Yakın çevresine göre Davutoğlu'nun kararının arkasında sonuçsuz kalan ittifak arayışlarının yanı sıra yıllardır inşa etmeye çalıştığı \"muhafazakâr reformcu yeni merkez\" projesinin hayata geçirilemeyeceğini görmesinden kaynaklı \"derin hayal...",
         "source": "BBC Turkish",
         "published": "2026-07-31T03:33:51+00:00"
+      },
+      {
+        "title": "MEB'in son yönetmeliğiyle okul öncesi eğitimde ve ilkokullarda neler değişecek?",
+        "link": "https://www.bbc.com/turkce/articles/cn9nyxwjnnjo?at_medium=RSS&at_campaign=rss",
+        "description": "Milli Eğitim Bakanlığı'nın Okul Öncesi Eğitim ve İlköğretim Kurumları Yönetmeliği'nde yaptığı değişiklikler 28 Temmuz'da Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+        "source": "BBC Turkish",
+        "published": "2026-07-30T04:19:11+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8688
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+82°F",
-    "wind": "↘6mph",
-    "humidity": "33%"
+    "condition": "Bulutlu",
+    "temp": "+111°F",
+    "wind": "→10mph",
+    "humidity": "15%"
   }
 }
