@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-01T21:56:55.035213+00:00",
+  "updated_at": "2026-08-01T22:55:49.468846+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "From MIT: AI financial advice is surprisingly good",
+        "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "description": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 10 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-01T22:25:12+00:00"
+      },
       {
         "title": "Inside the London hacker house taking a stand against founder burnout",
         "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
@@ -10,9 +17,16 @@
         "published": "2026-08-01T21:14:48+00:00"
       },
       {
+        "title": "Seedance 2.5",
+        "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+        "description": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 45 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-08-01T20:45:12+00:00"
+      },
+      {
         "title": "Diátaxis",
         "link": "https://diataxis.fr/",
-        "description": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 45 # Comments: 7",
+        "description": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 85 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-08-01T20:33:27+00:00"
       },
@@ -26,7 +40,7 @@
       {
         "title": "The Silicon Valley Founder Meat Grinder",
         "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-        "description": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 85 # Comments: 38",
+        "description": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 168 # Comments: 101",
         "source": "HackerNews",
         "published": "2026-08-01T20:20:58+00:00"
       },
@@ -40,16 +54,9 @@
       {
         "title": "But can your calculator run Linux?",
         "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "description": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 28 # Comments: 1",
+        "description": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 41 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-08-01T19:44:48+00:00"
-      },
-      {
-        "title": "Google has abandoned Google News?",
-        "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-        "description": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now Comments URL: https://news.ycombinator.com/item?id=49137681 Points: 210 # Comments: 142",
-        "source": "HackerNews",
-        "published": "2026-08-01T19:39:43+00:00"
       },
       {
         "title": "Google Earth’ün Yapay Zeka Özelliği Güvenlik Nedeniyle Kaldırıldı",
@@ -59,16 +66,9 @@
         "published": "2026-08-01T19:00:00+00:00"
       },
       {
-        "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
-        "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
-        "description": "Article URL: https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf Comments URL: https://news.ycombinator.com/item?id=49137320 Points: 11 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-08-01T18:59:35+00:00"
-      },
-      {
         "title": "CISA Alert: Water Sector PLC Targeting",
         "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-        "description": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 24 # Comments: 9",
+        "description": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 36 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-08-01T18:50:17+00:00"
       },
@@ -82,21 +82,21 @@
       {
         "title": "Postmortem for Kernel Soundness Bug #14576",
         "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-        "description": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=49137060 Points: 82 # Comments: 30",
+        "description": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=49137060 Points: 94 # Comments: 34",
         "source": "HackerNews",
         "published": "2026-08-01T18:32:20+00:00"
       },
       {
         "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
         "link": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-        "description": "Article URL: https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets Comments URL: https://news.ycombinator.com/item?id=49136955 Points: 15 # Comments: 4",
+        "description": "Article URL: https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets Comments URL: https://news.ycombinator.com/item?id=49136955 Points: 26 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-08-01T18:21:41+00:00"
       },
       {
         "title": "How Google helped destroy adoption of RSS feeds (2023)",
         "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-        "description": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds Comments URL: https://news.ycombinator.com/item?id=49136821 Points: 173 # Comments: 47",
+        "description": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds Comments URL: https://news.ycombinator.com/item?id=49136821 Points: 267 # Comments: 67",
         "source": "HackerNews",
         "published": "2026-08-01T18:07:07+00:00"
       },
@@ -110,7 +110,7 @@
       {
         "title": "NetBSD 11.0",
         "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "description": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Comments URL: https://news.ycombinator.com/item?id=49136736 Points: 152 # Comments: 57",
+        "description": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Comments URL: https://news.ycombinator.com/item?id=49136736 Points: 179 # Comments: 79",
         "source": "HackerNews",
         "published": "2026-08-01T17:56:41+00:00"
       },
@@ -357,9 +357,16 @@
       {
         "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
         "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-        "description": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines, police reported on...",
+        "description": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines....",
         "source": "The Guardian",
-        "published": "2026-08-01T21:47:06+00:00"
+        "published": "2026-08-01T22:31:13+00:00"
+      },
+      {
+        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+        "description": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
+        "source": "BBC News",
+        "published": "2026-08-01T22:23:20+00:00"
       },
       {
         "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
@@ -388,6 +395,20 @@
         "description": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000...",
         "source": "The Guardian",
         "published": "2026-08-01T19:03:39+00:00"
+      },
+      {
+        "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
+        "description": "Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including \"Goodfellas\" and \"Awakenings,\" both in 1990.",
+        "source": "NPR",
+        "published": "2026-08-01T18:32:44-04:00"
+      },
+      {
+        "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+        "description": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth.",
+        "source": "NPR",
+        "published": "2026-08-01T18:23:39-04:00"
       },
       {
         "title": "William and Kate bring children to Commonwealth Games",
@@ -439,13 +460,6 @@
         "published": "2026-08-01T12:41:17+00:00"
       },
       {
-        "title": "Infantino on the brink? Who might replace him if he goes?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
-        "source": "BBC News",
-        "published": "2026-08-01T10:02:43+00:00"
-      },
-      {
         "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
         "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
         "description": "The governing party's poll ratings have improved but they're only just ahead of Reform.",
@@ -493,20 +507,6 @@
         "description": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
         "source": "NPR",
         "published": "2026-08-01T05:36:05-04:00"
-      },
-      {
-        "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-        "description": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
-        "source": "NPR",
-        "published": "2026-08-01T05:00:00-04:00"
-      },
-      {
-        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
-        "description": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is.",
-        "source": "NPR",
-        "published": "2026-08-01T05:00:00-04:00"
       },
       {
         "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -567,18 +567,18 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-02-agustos-2026-1735568",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-02T01:30:00+03:00"
+      },
+      {
         "title": "Siirt'te çaya düşen çocuk boğuldu, baba akıntıya kapıldı",
         "link": "https://www.ntv.com.tr/turkiye/siirtte-caya-dusen-cocuk-boguldu-baba-akintiya-kapildi-1735572",
         "description": "Siirt'te çaya düşen 12 yaşındaki çocuk boğuldu, oğlunu kurtarmak için suya atlayan baba akıntıya kapılarak kayboldu.",
         "source": "NTV",
         "published": "2026-08-02T00:37:38+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-02-agustos-2026-1735568",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-02T00:30:00+03:00"
       },
       {
         "title": "Cemil Tugay AKP'ye mi geçiyor? Özgür Özel'den çok konuşulacak sözler",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8687
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+89°F",
-    "wind": "↘6mph",
-    "humidity": "30%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+113°F",
+    "wind": "→10mph",
+    "humidity": "13%"
   }
 }
