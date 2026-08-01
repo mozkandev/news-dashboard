@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T22:59:37.639759+00:00",
+  "updated_at": "2026-08-01T00:07:50.584339+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -12,7 +12,7 @@
       {
         "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
         "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-        "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+        "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
         "source": "TechCrunch",
         "published": "2026-07-31T22:00:08+00:00"
       },
@@ -40,7 +40,7 @@
       {
         "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
         "link": "https://arxiv.org/abs/2607.28233",
-        "description": "Article URL: https://arxiv.org/abs/2607.28233 Comments URL: https://news.ycombinator.com/item?id=49128323 Points: 16 # Comments: 10",
+        "description": "Article URL: https://arxiv.org/abs/2607.28233 Comments URL: https://news.ycombinator.com/item?id=49128323 Points: 24 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-07-31T20:44:29+00:00"
       },
@@ -54,7 +54,7 @@
       {
         "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
         "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
-        "description": "https://github.com/jwlaboratory/bite-the-bullet Comments URL: https://news.ycombinator.com/item?id=49127874 Points: 12 # Comments: 0",
+        "description": "https://github.com/jwlaboratory/bite-the-bullet Comments URL: https://news.ycombinator.com/item?id=49127874 Points: 19 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-07-31T19:55:41+00:00"
       },
@@ -73,9 +73,16 @@
         "published": "2026-07-31T19:39:51+00:00"
       },
       {
+        "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+        "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+        "description": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk...",
+        "source": "The Verge",
+        "published": "2026-07-31T19:11:42-04:00"
+      },
+      {
         "title": "Tailscale didn't stop the Hugging Face intrusion",
         "link": "https://tailscale.com/blog/hugging-face-intrusion",
-        "description": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 299 # Comments: 121",
+        "description": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 378 # Comments: 153",
         "source": "HackerNews",
         "published": "2026-07-31T19:03:45+00:00"
       },
@@ -96,44 +103,37 @@
       {
         "title": "Golang proposal: container/: generic collection types",
         "link": "https://github.com/golang/go/issues/80590",
-        "description": "Article URL: https://github.com/golang/go/issues/80590 Comments URL: https://news.ycombinator.com/item?id=49127031 Points: 94 # Comments: 49",
+        "description": "Article URL: https://github.com/golang/go/issues/80590 Comments URL: https://news.ycombinator.com/item?id=49127031 Points: 110 # Comments: 66",
         "source": "HackerNews",
         "published": "2026-07-31T18:39:47+00:00"
       },
       {
-        "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-        "link": "https://arxiv.org/abs/2607.28545",
-        "description": "Article URL: https://arxiv.org/abs/2607.28545 Comments URL: https://news.ycombinator.com/item?id=49126943 Points: 22 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-07-31T18:32:43+00:00"
-      },
-      {
         "title": "Using the railway network as a flatbed scanner [video]",
         "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-        "description": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner Comments URL: https://news.ycombinator.com/item?id=49126919 Points: 39 # Comments: 20",
+        "description": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner Comments URL: https://news.ycombinator.com/item?id=49126919 Points: 43 # Comments: 21",
         "source": "HackerNews",
         "published": "2026-07-31T18:30:44+00:00"
       },
       {
         "title": "Termixer (TUI DJ Mixer)",
         "link": "https://github.com/l00sed/termixer",
-        "description": "Article URL: https://github.com/l00sed/termixer Comments URL: https://news.ycombinator.com/item?id=49126883 Points: 42 # Comments: 31",
+        "description": "Article URL: https://github.com/l00sed/termixer Comments URL: https://news.ycombinator.com/item?id=49126883 Points: 45 # Comments: 32",
         "source": "HackerNews",
         "published": "2026-07-31T18:28:08+00:00"
       },
       {
         "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
         "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-        "description": "Article URL: https://servo.org/blog/2026/07/31/june-in-servo/ Comments URL: https://news.ycombinator.com/item?id=49126765 Points: 73 # Comments: 27",
+        "description": "Article URL: https://servo.org/blog/2026/07/31/june-in-servo/ Comments URL: https://news.ycombinator.com/item?id=49126765 Points: 87 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-07-31T18:17:52+00:00"
       },
       {
-        "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
-        "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
-        "description": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk...",
-        "source": "The Verge",
-        "published": "2026-07-31T18:11:35-04:00"
+        "title": "Everyone is building LLM routers, we deprecated ours",
+        "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+        "description": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 83 # Comments: 39",
+        "source": "HackerNews",
+        "published": "2026-07-31T18:06:39+00:00"
       },
       {
         "title": "Huawei Pura 90 Serisi Satışları 1 Milyon Barajını Aştı",
@@ -355,18 +355,25 @@
     ],
     "dunya": [
       {
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "description": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.",
+        "source": "BBC News",
+        "published": "2026-08-01T00:04:50+00:00"
+      },
+      {
+        "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+        "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+        "description": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
+        "source": "BBC News",
+        "published": "2026-07-31T22:46:44+00:00"
+      },
+      {
         "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
         "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
         "description": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
         "source": "BBC News",
         "published": "2026-07-31T21:57:59+00:00"
-      },
-      {
-        "title": "Fifa executive says staff 'deceived' by Infantino plans",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
-        "source": "BBC News",
-        "published": "2026-07-31T21:48:49+00:00"
       },
       {
         "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
@@ -376,18 +383,18 @@
         "published": "2026-07-31T20:58:27+00:00"
       },
       {
+        "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+        "description": "The government had accused David Hearn of ripping a piece of sealant after a $14 million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
+        "source": "NPR",
+        "published": "2026-07-31T19:24:36-04:00"
+      },
+      {
         "title": "Two more small boat pilots jailed for Channel crossings",
         "link": "https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o?at_medium=RSS&at_campaign=rss",
         "description": "Both men admitted steering overcrowded vessels carrying more than 80 people each to the UK.",
         "source": "BBC News",
         "published": "2026-07-31T18:14:49+00:00"
-      },
-      {
-        "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
-        "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
-        "source": "BBC News",
-        "published": "2026-07-31T17:55:04+00:00"
       },
       {
         "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -425,13 +432,6 @@
         "published": "2026-07-31T16:29:14+00:00"
       },
       {
-        "title": "Parents sue school over 'inhumane' calming rooms after BBC report",
-        "link": "https://www.bbc.co.uk/news/articles/cq89757z9vyo?at_medium=RSS&at_campaign=rss",
-        "description": "Ten families are claiming their children were amongst those harmed by their treatment in the rooms.",
-        "source": "BBC News",
-        "published": "2026-07-31T16:29:00+00:00"
-      },
-      {
         "title": "Climate adaptation at its limits, says one scientist",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
         "description": "A climate scientist says Earth is \"passing the limits of adaptation\" when it comes to withstanding the effects of climate change.",
@@ -451,6 +451,13 @@
         "description": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
         "source": "BBC News",
         "published": "2026-07-31T15:48:34+00:00"
+      },
+      {
+        "title": "Puberty blockers trial can start recruiting children after judge rejects legal challenge",
+        "link": "https://www.bbc.co.uk/news/articles/c0jl4np49w1o?at_medium=RSS&at_campaign=rss",
+        "description": "Campaigners brought the legal action to try and stop the trial going ahead.",
+        "source": "BBC News",
+        "published": "2026-07-31T15:09:57+00:00"
       },
       {
         "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
@@ -516,13 +523,6 @@
         "published": "2026-07-31T05:00:00-04:00"
       },
       {
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
-        "source": "NPR",
-        "published": "2026-07-31T05:00:00-04:00"
-      },
-      {
         "title": "US government map of Africa mislabels every country at global conference",
         "link": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
         "description": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil...",
@@ -567,11 +567,39 @@
     ],
     "turkiye": [
       {
+        "title": "CHP’nin yüzde 40’ı gitti",
+        "link": "https://www.sozcu.com.tr/chp-nin-yuzde-40-i-gitti-p341426",
+        "description": "CHP’nin yüzde 40’ı gitti",
+        "source": "Sözcü",
+        "published": "2026-08-01T03:00:04+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-agustos-2026-1735441",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-01T01:30:00+03:00"
+        "published": "2026-08-01T03:00:00+03:00"
+      },
+      {
+        "title": "Ağaçları kökünden söktü, çatıları uçurdu, tekneleri kıyıya attı",
+        "link": "https://www.sozcu.com.tr/agaclari-kokunden-soktu-catilari-ucurdu-tekneleri-kiyiya-atti-p341425",
+        "description": "Ağaçları kökünden söktü, çatıları uçurdu, tekneleri kıyıya attı",
+        "source": "Sözcü",
+        "published": "2026-08-01T02:30:04+03:00"
+      },
+      {
+        "title": "Gaziantep'te Narko Kapan operasyonu. 416 kişi tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/gaziantepte-narko-kapan-operasyonu-416-kisi-tutuklandi-1735445",
+        "description": "Gaziantep merkezli 14 ilde düzenlenen Narko Kapan operasyonunda gözaltına alınan 450 şüpheliden 416'sı tutuklandı.",
+        "source": "NTV",
+        "published": "2026-08-01T02:24:39+03:00"
+      },
+      {
+        "title": "Yaşlanmayı yavaşlatan en doğal ilaç",
+        "link": "https://www.sozcu.com.tr/yaslanmayi-yavaslatan-en-dogal-ilac-p341424",
+        "description": "Yaşlanmayı yavaşlatan en doğal ilaç",
+        "source": "Sözcü",
+        "published": "2026-08-01T02:00:27+03:00"
       },
       {
         "title": "Yüksel Yıldırım transferi sosyal medyadan açıkladı! İşte Samsunspor’un yeni futbolcusu",
@@ -593,13 +621,6 @@
         "description": "Çerkezköy Belediye Başkanı Vahap Akay CHP’den istifa etti",
         "source": "Sözcü",
         "published": "2026-08-01T00:27:17+03:00"
-      },
-      {
-        "title": "Üç CHP'li Başkan AKP'ye katılıyor: Rozeti Erdoğan takacak",
-        "link": "https://www.sozcu.com.tr/uc-chp-li-baskan-akp-ye-katiliyor-rozeti-erdogan-takacak-p341415",
-        "description": "Üç CHP'li Başkan AKP'ye katılıyor: Rozeti Erdoğan takacak",
-        "source": "Sözcü",
-        "published": "2026-08-01T00:14:23+03:00"
       },
       {
         "title": "İBB duyurdu: Pazar günü ücretsiz olacak",
@@ -628,20 +649,6 @@
         "description": "Kılıçdaroğlu'nun sözcüsü Sarı açıkladı! Selin Sayek Böke ve Gül Çiftçi için disiplin süreci",
         "source": "Sözcü",
         "published": "2026-07-31T23:26:38+03:00"
-      },
-      {
-        "title": "Trump aradığı fırsatı buldu: Hedefinde yine o isim var",
-        "link": "https://www.sozcu.com.tr/trump-aradigi-firsati-buldu-hedefinde-yine-o-isim-var-p341409",
-        "description": "Trump aradığı fırsatı buldu: Hedefinde yine o isim var",
-        "source": "Sözcü",
-        "published": "2026-07-31T23:21:23+03:00"
-      },
-      {
-        "title": "Yeni Parti'den tutuklu belediye başkanları için yürüyüş çağrısı",
-        "link": "https://www.sozcu.com.tr/yeni-parti-tutuklu-baskanlar-icin-1-agustos-2026-cagri-p341407",
-        "description": "Yeni Parti'den tutuklu belediye başkanları için yürüyüş çağrısı",
-        "source": "Sözcü",
-        "published": "2026-07-31T23:04:08+03:00"
       },
       {
         "title": "Dışişleri Bakanı Fidan, Suudi mevkidaşı Bin Ferhan ile telefonda görüştü",
@@ -735,13 +742,6 @@
         "published": "2026-07-31T12:35:36+03:00"
       },
       {
-        "title": "Gömeç yangınının nedeni belli oldu. İki şüpheli tutuklandı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-gomec-yangininin-nedeni-belli-oldu-iki-supheli-tutuklandi-1735396",
-        "description": "Balıkesir Gömeç'te başlayıp Ayvalık'a sıçrayan orman yangınında 3'üncü gün geride kaldı. Kaynak yaparken yangın çıkardıkları belirlenen iki kişi tutuklandı.",
-        "source": "NTV",
-        "published": "2026-07-31T12:25:45+03:00"
-      },
-      {
         "title": "Yeni Parti'nin yol haritası: İlk kurultay ekimde, Doğu ve Güneydoğu için özel heyet",
         "link": "https://www.bbc.com/turkce/articles/cqx72dgnw28o?at_medium=RSS&at_campaign=rss",
         "description": "Yeni Parti Genel Başkan Yardımcısı Ensar Aytekin, partinin ilk kurultayının Ekim ayında yapılmasının öngörüldüğünü, Doğu ve Güneydoğu bölgelerindeki örgütlenme için özel heyet oluşturulacağını söyledi.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+89°F",
-    "wind": "→2mph",
-    "humidity": "32%"
+    "temp": "+82°F",
+    "wind": "↘8mph",
+    "humidity": "38%"
   }
 }
