@@ -1,11 +1,39 @@
 {
-  "updated_at": "2026-08-01T22:55:49.468846+00:00",
+  "updated_at": "2026-08-01T23:58:05.096715+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "From MIT: AI financial advice is surprisingly good",
+        "title": "Stop fucking around with database commits and transactions",
+        "link": "https://www.droppedasbaby.com/posts/db-commits/",
+        "description": "Article URL: https://www.droppedasbaby.com/posts/db-commits/ Comments URL: https://news.ycombinator.com/item?id=49139562 Points: 13 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-01T23:19:23+00:00"
+      },
+      {
+        "title": "Unraveling the mysteries of habit formation",
+        "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+        "description": "Article URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28 Comments URL: https://news.ycombinator.com/item?id=49139383 Points: 9 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-08-01T22:55:52+00:00"
+      },
+      {
+        "title": "Morph (YC S23) Is Hiring Member of Technical Stuff",
+        "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+        "description": "Article URL: https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff Comments URL: https://news.ycombinator.com/item?id=49139352 Points: 0 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-01T22:52:44+00:00"
+      },
+      {
+        "title": "Anime User Interfaces",
+        "link": "https://animeuserinterface.tumblr.com",
+        "description": "Article URL: https://animeuserinterface.tumblr.com Comments URL: https://news.ycombinator.com/item?id=49139304 Points: 16 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-01T22:47:24+00:00"
+      },
+      {
+        "title": "AI financial advice is surprisingly good if you ask the right questions",
         "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "description": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 10 # Comments: 4",
+        "description": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 67 # Comments: 48",
         "source": "HackerNews",
         "published": "2026-08-01T22:25:12+00:00"
       },
@@ -19,14 +47,14 @@
       {
         "title": "Seedance 2.5",
         "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-        "description": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 45 # Comments: 12",
+        "description": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 89 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-08-01T20:45:12+00:00"
       },
       {
         "title": "Diátaxis",
         "link": "https://diataxis.fr/",
-        "description": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 85 # Comments: 10",
+        "description": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 129 # Comments: 21",
         "source": "HackerNews",
         "published": "2026-08-01T20:33:27+00:00"
       },
@@ -38,13 +66,6 @@
         "published": "2026-08-01T20:26:04+00:00"
       },
       {
-        "title": "The Silicon Valley Founder Meat Grinder",
-        "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-        "description": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 168 # Comments: 101",
-        "source": "HackerNews",
-        "published": "2026-08-01T20:20:58+00:00"
-      },
-      {
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
         "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
@@ -54,7 +75,7 @@
       {
         "title": "But can your calculator run Linux?",
         "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "description": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 41 # Comments: 4",
+        "description": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 50 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-01T19:44:48+00:00"
       },
@@ -68,7 +89,7 @@
       {
         "title": "CISA Alert: Water Sector PLC Targeting",
         "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-        "description": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 36 # Comments: 20",
+        "description": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 50 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-08-01T18:50:17+00:00"
       },
@@ -82,23 +103,9 @@
       {
         "title": "Postmortem for Kernel Soundness Bug #14576",
         "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-        "description": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=49137060 Points: 94 # Comments: 34",
+        "description": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=49137060 Points: 104 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-08-01T18:32:20+00:00"
-      },
-      {
-        "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "link": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-        "description": "Article URL: https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets Comments URL: https://news.ycombinator.com/item?id=49136955 Points: 26 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-08-01T18:21:41+00:00"
-      },
-      {
-        "title": "How Google helped destroy adoption of RSS feeds (2023)",
-        "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-        "description": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds Comments URL: https://news.ycombinator.com/item?id=49136821 Points: 267 # Comments: 67",
-        "source": "HackerNews",
-        "published": "2026-08-01T18:07:07+00:00"
       },
       {
         "title": "AMD’den Linux için RDNA 5 Hamlesi",
@@ -106,13 +113,6 @@
         "description": "AMD, RDNA 5 mimarisi için Linux sürücü desteği hazırlıklarına başladı. DCN6 görüntü motoru yamaları, GFX13 mimarisi ile bağlantılı olarak ortaya çıktı.",
         "source": "ShiftDelete",
         "published": "2026-08-01T18:00:00+00:00"
-      },
-      {
-        "title": "NetBSD 11.0",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "description": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Comments URL: https://news.ycombinator.com/item?id=49136736 Points: 179 # Comments: 79",
-        "source": "HackerNews",
-        "published": "2026-08-01T17:56:41+00:00"
       },
       {
         "title": "Pixel 11 specs and price leak with no surprises",
@@ -355,9 +355,30 @@
     ],
     "dunya": [
       {
-        "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
+        "title": "Spider-Man fans hail Brand New Day as Holland's best yet",
+        "link": "https://www.bbc.co.uk/news/articles/cwyeq0wpn0go?at_medium=RSS&at_campaign=rss",
+        "description": "Spider-Man fans are full of praise for Tom Holland's latest web-slinging performance.",
+        "source": "BBC News",
+        "published": "2026-08-01T23:40:17+00:00"
+      },
+      {
+        "title": "I had a vasectomy in my 20s after the trauma of my sons' births",
+        "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
+        "description": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip.",
+        "source": "BBC News",
+        "published": "2026-08-01T23:35:28+00:00"
+      },
+      {
+        "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+        "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+        "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+        "source": "BBC News",
+        "published": "2026-08-01T23:03:35+00:00"
+      },
+      {
+        "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
         "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-        "description": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines....",
+        "description": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines. Local...",
         "source": "The Guardian",
         "published": "2026-08-01T22:31:13+00:00"
       },
@@ -367,6 +388,13 @@
         "description": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
         "source": "BBC News",
         "published": "2026-08-01T22:23:20+00:00"
+      },
+      {
+        "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+        "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+        "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+        "source": "BBC News",
+        "published": "2026-08-01T22:06:18+00:00"
       },
       {
         "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
@@ -418,13 +446,6 @@
         "published": "2026-08-01T17:23:55+00:00"
       },
       {
-        "title": "Call for 'full review' as pressure grows on Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-        "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-        "source": "BBC News",
-        "published": "2026-08-01T17:07:46+00:00"
-      },
-      {
         "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
         "description": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
@@ -444,27 +465,6 @@
         "description": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
         "source": "NPR",
         "published": "2026-08-01T14:33:27-04:00"
-      },
-      {
-        "title": "The five dramatic days that shook Infantino and world football",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.",
-        "source": "BBC News",
-        "published": "2026-08-01T12:42:23+00:00"
-      },
-      {
-        "title": "Faisal Islam: Four reasons why the World Cup plan never stacked up",
-        "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-        "description": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-        "source": "BBC News",
-        "published": "2026-08-01T12:41:17+00:00"
-      },
-      {
-        "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
-        "description": "The governing party's poll ratings have improved but they're only just ahead of Reform.",
-        "source": "BBC News",
-        "published": "2026-08-01T09:13:00+00:00"
       },
       {
         "title": "Opinion: Remembering Margo Howard",
@@ -567,11 +567,18 @@
     ],
     "turkiye": [
       {
+        "title": "Diyabetiniz varsa kalbinize dikkat!",
+        "link": "https://www.sozcu.com.tr/diyabetiniz-varsa-kalbinize-dikkat-p341610",
+        "description": "Diyabetiniz varsa kalbinize dikkat!",
+        "source": "Sözcü",
+        "published": "2026-08-02T02:30:41+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-02-agustos-2026-1735568",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-02T01:30:00+03:00"
+        "published": "2026-08-02T02:30:00+03:00"
       },
       {
         "title": "Siirt'te çaya düşen çocuk boğuldu, baba akıntıya kapıldı",
@@ -677,13 +684,6 @@
         "description": "CHP’den istifa edip AKP’ye katılmıştı! Bingöl’den ilk açıklama",
         "source": "Sözcü",
         "published": "2026-08-01T21:54:53+03:00"
-      },
-      {
-        "title": "Fenerbahçe'ye Sturm Graz maçı öncesi çifte müjde",
-        "link": "https://www.sozcu.com.tr/fenerbahce-ye-sturm-graz-maci-oncesi-cifte-mujde-p341599",
-        "description": "Fenerbahçe'ye Sturm Graz maçı öncesi çifte müjde",
-        "source": "Sözcü",
-        "published": "2026-08-01T21:47:51+03:00"
       },
       {
         "title": "Yaşlı kadının 4 milyonluk altınını aldılar. Dolandırıcılar \"Günlük dolgun ücretli iş\" ilanıyla buldukları kuryeyi kullanmış",
