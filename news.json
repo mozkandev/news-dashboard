@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-08-01T20:52:19.081206+00:00",
+  "updated_at": "2026-08-01T21:56:55.035213+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Inside the London hacker house taking a stand against founder burnout",
+        "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+        "description": "How one founder house is betting work-life balance can beat burnout .",
+        "source": "TechCrunch",
+        "published": "2026-08-01T21:14:48+00:00"
+      },
+      {
+        "title": "Diátaxis",
+        "link": "https://diataxis.fr/",
+        "description": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 45 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-08-01T20:33:27+00:00"
+      },
       {
         "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
         "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
         "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
         "source": "TechCrunch",
         "published": "2026-08-01T20:26:04+00:00"
+      },
+      {
+        "title": "The Silicon Valley Founder Meat Grinder",
+        "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+        "description": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 85 # Comments: 38",
+        "source": "HackerNews",
+        "published": "2026-08-01T20:20:58+00:00"
       },
       {
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
@@ -17,11 +38,39 @@
         "published": "2026-08-01T19:45:45+00:00"
       },
       {
+        "title": "But can your calculator run Linux?",
+        "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+        "description": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 28 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-01T19:44:48+00:00"
+      },
+      {
+        "title": "Google has abandoned Google News?",
+        "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+        "description": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now Comments URL: https://news.ycombinator.com/item?id=49137681 Points: 210 # Comments: 142",
+        "source": "HackerNews",
+        "published": "2026-08-01T19:39:43+00:00"
+      },
+      {
         "title": "Google Earth’ün Yapay Zeka Özelliği Güvenlik Nedeniyle Kaldırıldı",
         "link": "https://shiftdelete.net/google-earthun-yapay-zeka-ozelligi-guvenlik-nedeniyle-kaldirildi",
         "description": "Google, sahte uydu görüntüleri üretilmesine neden olan yapay zeka özelliği Nano Banana 2'yi Google Earth'ten geçici olarak kaldırdı.",
         "source": "ShiftDelete",
         "published": "2026-08-01T19:00:00+00:00"
+      },
+      {
+        "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
+        "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
+        "description": "Article URL: https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf Comments URL: https://news.ycombinator.com/item?id=49137320 Points: 11 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:59:35+00:00"
+      },
+      {
+        "title": "CISA Alert: Water Sector PLC Targeting",
+        "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+        "description": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 24 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:50:17+00:00"
       },
       {
         "title": "Should you still buy your next smartphone — or subscribe to it instead?",
@@ -31,11 +80,46 @@
         "published": "2026-08-01T18:47:27+00:00"
       },
       {
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "description": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=49137060 Points: 82 # Comments: 30",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:32:20+00:00"
+      },
+      {
+        "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+        "link": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+        "description": "Article URL: https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets Comments URL: https://news.ycombinator.com/item?id=49136955 Points: 15 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:21:41+00:00"
+      },
+      {
+        "title": "How Google helped destroy adoption of RSS feeds (2023)",
+        "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+        "description": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds Comments URL: https://news.ycombinator.com/item?id=49136821 Points: 173 # Comments: 47",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:07:07+00:00"
+      },
+      {
         "title": "AMD’den Linux için RDNA 5 Hamlesi",
         "link": "https://shiftdelete.net/amdden-linux-icin-rdna-5-hamlesi",
         "description": "AMD, RDNA 5 mimarisi için Linux sürücü desteği hazırlıklarına başladı. DCN6 görüntü motoru yamaları, GFX13 mimarisi ile bağlantılı olarak ortaya çıktı.",
         "source": "ShiftDelete",
         "published": "2026-08-01T18:00:00+00:00"
+      },
+      {
+        "title": "NetBSD 11.0",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "description": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Comments URL: https://news.ycombinator.com/item?id=49136736 Points: 152 # Comments: 57",
+        "source": "HackerNews",
+        "published": "2026-08-01T17:56:41+00:00"
+      },
+      {
+        "title": "Pixel 11 specs and price leak with no surprises",
+        "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+        "description": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price...",
+        "source": "The Verge",
+        "published": "2026-08-01T17:31:24-04:00"
       },
       {
         "title": "Sam Altman is still making the case for parenting via ChatGPT",
@@ -171,13 +255,6 @@
         "published": "2026-07-31T22:47:26+00:00"
       },
       {
-        "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-        "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-        "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-        "source": "TechCrunch",
-        "published": "2026-07-31T22:00:08+00:00"
-      },
-      {
         "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
         "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
         "description": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk...",
@@ -262,13 +339,6 @@
         "published": "2026-07-31T15:58:49+03:00"
       },
       {
-        "title": "Apple’s new AirTags are back down to their best price",
-        "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
-        "description": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the...",
-        "source": "The Verge",
-        "published": "2026-07-31T15:35:45-04:00"
-      },
-      {
         "title": "The OG reading app just got a big update",
         "link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
         "description": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading...",
@@ -287,16 +357,16 @@
       {
         "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
         "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-        "description": "Plane crashes into field after departing from the nearby city of Ica, according to local authorities At least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said. Nazca’s municipal government said...",
+        "description": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines, police reported on...",
         "source": "The Guardian",
-        "published": "2026-08-01T20:42:06+00:00"
+        "published": "2026-08-01T21:47:06+00:00"
       },
       {
-        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
         "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-        "description": "Security officials said the female attacker tried to enter the restaurant but was stopped by a security guard.",
+        "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
         "source": "BBC News",
-        "published": "2026-08-01T20:39:16+00:00"
+        "published": "2026-08-01T21:13:17+00:00"
       },
       {
         "title": "Cambridge professor at centre of plagiarism row defends his work",
@@ -432,9 +502,9 @@
         "published": "2026-08-01T05:00:00-04:00"
       },
       {
-        "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
-        "description": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.",
+        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
+        "description": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is.",
         "source": "NPR",
         "published": "2026-08-01T05:00:00-04:00"
       },
@@ -497,6 +567,55 @@
     ],
     "turkiye": [
       {
+        "title": "Siirt'te çaya düşen çocuk boğuldu, baba akıntıya kapıldı",
+        "link": "https://www.ntv.com.tr/turkiye/siirtte-caya-dusen-cocuk-boguldu-baba-akintiya-kapildi-1735572",
+        "description": "Siirt'te çaya düşen 12 yaşındaki çocuk boğuldu, oğlunu kurtarmak için suya atlayan baba akıntıya kapılarak kayboldu.",
+        "source": "NTV",
+        "published": "2026-08-02T00:37:38+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-02-agustos-2026-1735568",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-02T00:30:00+03:00"
+      },
+      {
+        "title": "Cemil Tugay AKP'ye mi geçiyor? Özgür Özel'den çok konuşulacak sözler",
+        "link": "https://www.sozcu.com.tr/cemil-tugay-akp-ye-mi-geciyor-ozgur-ozel-den-cok-konusulacak-sozler-p341621",
+        "description": "Cemil Tugay AKP'ye mi geçiyor? Özgür Özel'den çok konuşulacak sözler",
+        "source": "Sözcü",
+        "published": "2026-08-02T00:29:20+03:00"
+      },
+      {
+        "title": "Yangını fark etmeden düğüne devam ettiler",
+        "link": "https://www.ntv.com.tr/turkiye/video-yangini-fark-etmeden-dugune-devam-ettiler-1735571",
+        "description": "Hatay'ın Reyhanlı ilçesinde, açık hava düğün salonundan atılan havai fişekler çalılık ve zeytin bahçesinde yangına neden oldu. Yangın sırasında bazı davetlilerin alevleri fark etmeyerek eğlenmeye devam ettiği anlar cep telefonu kamerasıyla...",
+        "source": "NTV",
+        "published": "2026-08-02T00:27:37+03:00"
+      },
+      {
+        "title": "Yeni Parti'nin ilk mitingi. Özgür Özel, Beylikdüzü'nde partililere hitap etti",
+        "link": "https://www.ntv.com.tr/turkiye/yeni-partinin-ilk-mitingi-ozgur-ozel-beylikduzunde-partililere-hitap-etti-1735569",
+        "description": "Yeni Parti İstanbul'daki ilk mitingini Beylikdüzü'nde yaptı. Yeni Parti Genel Başkanı Özgür Özel, tutuklu belediye başkanları için dayanışma yürüyüşüne katıldı. Ardından toplanan kalabalığa konuşan Özel'in gündeminde CHP'den AK Partiye geçen isimler...",
+        "source": "NTV",
+        "published": "2026-08-02T00:15:44+03:00"
+      },
+      {
+        "title": "Saldırı emri her an gelebilir ABD ve İsrail Ordusu alarma geçti",
+        "link": "https://www.sozcu.com.tr/saldiri-emri-her-an-gelebilir-abd-ve-israil-ordusu-alarma-gecti-p341620",
+        "description": "Saldırı emri her an gelebilir ABD ve İsrail Ordusu alarma geçti",
+        "source": "Sözcü",
+        "published": "2026-08-02T00:12:39+03:00"
+      },
+      {
+        "title": "TFF, lisans alan kulüpleri duyurdu",
+        "link": "https://www.sozcu.com.tr/tff-lisans-alan-kulupleri-duyurdu-p341616",
+        "description": "TFF, lisans alan kulüpleri duyurdu",
+        "source": "Sözcü",
+        "published": "2026-08-02T00:00:53+03:00"
+      },
+      {
         "title": "Bakan Fidan, İranlı mevkidaşıyla görüştü",
         "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-iranli-mevkidasiyla-gorustu-1735565",
         "description": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Arakçi ile telefon görüşmesi gerçekleştirdi.",
@@ -539,13 +658,6 @@
         "published": "2026-08-01T22:20:13+03:00"
       },
       {
-        "title": "Canan Kaftancıoğlu'ndan AKP'ye geçen Eren Ali Bingöl'e zehir zemberek sözler",
-        "link": "https://www.sozcu.com.tr/canan-kaftancioglu-ndan-akp-ye-gecen-eren-ali-bingol-e-zehir-zemberek-sozler-p341597",
-        "description": "Canan Kaftancıoğlu'ndan AKP'ye geçen Eren Ali Bingöl'e zehir zemberek sözler",
-        "source": "Sözcü",
-        "published": "2026-08-01T22:13:57+03:00"
-      },
-      {
         "title": "Genç kıza para karşılığı cinsel ilişki teklifinde bulundu! İğrenç olaya soruşturma başlatıldı",
         "link": "https://www.sozcu.com.tr/genc-kiza-para-karsiligi-cinsel-iliski-teklifinde-bulundu-igrenc-olaya-sorusturma-baslatildi-p341607",
         "description": "Genç kıza para karşılığı cinsel ilişki teklifinde bulundu! İğrenç olaya soruşturma başlatıldı",
@@ -574,13 +686,6 @@
         "published": "2026-08-01T21:47:51+03:00"
       },
       {
-        "title": "Hull City, Kasımpaşa ile kozlarını paylaştı",
-        "link": "https://www.sozcu.com.tr/hull-city-kasimpasa-ile-kozlarini-paylasti-p341598",
-        "description": "Hull City, Kasımpaşa ile kozlarını paylaştı",
-        "source": "Sözcü",
-        "published": "2026-08-01T21:42:24+03:00"
-      },
-      {
         "title": "Yaşlı kadının 4 milyonluk altınını aldılar. Dolandırıcılar \"Günlük dolgun ücretli iş\" ilanıyla buldukları kuryeyi kullanmış",
         "link": "https://www.ntv.com.tr/turkiye/yasli-kadinin-4-milyonluk-altinini-aldilar-dolandiricilar-gunluk-dolgun-ucretli-is-ilaniyla-bulduklari-kuryeyi-kullanmis-1735561",
         "description": "Denizli'de telefonla aradıkları H.K. (81) isimli kadını, kendilerini hakim ve savcı olarak tanıtıp, yaklaşık 4 milyon lira değerindeki altın takılarını alarak dolandıran 8 kişi gözaltına alındı. Dolandırıcıların evlere gönderdikleri kişileri...",
@@ -595,46 +700,11 @@
         "published": "2026-08-01T21:23:44+03:00"
       },
       {
-        "title": "Pentagon'a gönderilen rapor ortaya çıktı: ABD’nin İsrail savunmasında alarm",
-        "link": "https://www.sozcu.com.tr/pentagon-a-gonderilen-rapor-ortaya-cikti-abd-nin-israil-savunmasinda-alarm-p341596",
-        "description": "Pentagon'a gönderilen rapor ortaya çıktı: ABD’nin İsrail savunmasında alarm",
-        "source": "Sözcü",
-        "published": "2026-08-01T21:11:52+03:00"
-      },
-      {
         "title": "Yangını gözyaşları içinde izlediler",
         "link": "https://www.ntv.com.tr/turkiye/video-yangini-gozyaslari-icinde-izlediler-1735559",
         "description": "Aydın'da Madran Dağı’ndaki orman yangını çevrede yaşayan köylüleri de endişelendirdi. Yaklaşık 1800 metre yükseklikteki zirvede toplanan vatandaşlar, alevlerin ilerleyişini gözyaşları içinde izledi. Tehlike geçtikten sonra bölge sakinleri evlerine...",
         "source": "NTV",
         "published": "2026-08-01T20:53:22+03:00"
-      },
-      {
-        "title": "Şanlıurfa'da otomobil sulama kanalına uçtu. Sürücü kayboldu",
-        "link": "https://www.ntv.com.tr/turkiye/sanliurfada-otomobil-sulama-kanalina-uctu-surucu-kayboldu-1735558",
-        "description": "Şanlıurfa'nın Akçakale ilçesinde sulama kanalına devrilen otomobilin sürücüsü kayboldu.",
-        "source": "NTV",
-        "published": "2026-08-01T20:38:24+03:00"
-      },
-      {
-        "title": "Hayvan otlatma kavgası. Tartıştığı kişilerin üzerine traktör sürdü",
-        "link": "https://www.ntv.com.tr/turkiye/hayvan-otlatma-kavgasi-tartistigi-kisilerin-uzerine-traktor-surdu-1735556",
-        "description": "Malatya'da iki aile arasında hayvan otlatma meselesi nedeniyle çıkan taşlı kavgada bir köy korucusu ağır yaralandı. Kavgada bir şahıs, kullandığı traktörü tartıştığı kişilerin üzerine sürdü.",
-        "source": "NTV",
-        "published": "2026-08-01T20:22:39+03:00"
-      },
-      {
-        "title": "Tartıştığı kişilerin üzerine traktör sürdü",
-        "link": "https://www.ntv.com.tr/turkiye/video-tartistigi-kisilerin-uzerine-traktor-surdu-1735557",
-        "description": "Malatya'da iki aile arasında hayvan otlatma meselesi nedeniyle çıkan taşlı kavgada bir köy korucusu ağır yaralandı. Kavgada bir şahıs, kullandığı traktörü tartıştığı kişilerin üzerine sürdü.",
-        "source": "NTV",
-        "published": "2026-08-01T20:22:29+03:00"
-      },
-      {
-        "title": "840 bin lira ceza yedi. Ses sistemini belediye önünde yakan işletme sahibi tutuklandı",
-        "link": "https://www.ntv.com.tr/turkiye/839-bin-lira-ceza-yedi-ses-sistemini-belediye-onunde-yakan-isletme-sahibi-tutuklandi-1735555",
-        "description": "Antalya'nın Manavgat ilçesinde iş yerine 840 bin lira para cezası yazıldığı gerekçesiyle Manavgat Belediyesi önünde ses cihazlarını yakan işletme sahibi tutuklanarak cezaevine gönderildi.",
-        "source": "NTV",
-        "published": "2026-08-01T19:51:36+03:00"
       },
       {
         "title": "İstanbul'da üç belediye başkanı daha AKP'ye katıldı",
@@ -714,9 +784,9 @@
     "eur_usd": 0.8687
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+85°F",
-    "wind": "↑10mph",
-    "humidity": "48%"
+    "condition": "Güneşli",
+    "temp": "+89°F",
+    "wind": "↘6mph",
+    "humidity": "30%"
   }
 }
