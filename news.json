@@ -1,13 +1,55 @@
 {
-  "updated_at": "2026-08-01T18:05:22.402866+00:00",
+  "updated_at": "2026-08-01T19:43:00.277802+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Google Earth’ün Yapay Zeka Özelliği Güvenlik Nedeniyle Kaldırıldı",
+        "link": "https://shiftdelete.net/google-earthun-yapay-zeka-ozelligi-guvenlik-nedeniyle-kaldirildi",
+        "description": "Google, sahte uydu görüntüleri üretilmesine neden olan yapay zeka özelliği Nano Banana 2'yi Google Earth'ten geçici olarak kaldırdı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-01T19:00:00+00:00"
+      },
+      {
+        "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+        "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+        "description": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+        "source": "TechCrunch",
+        "published": "2026-08-01T18:47:27+00:00"
+      },
+      {
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "description": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=49137060 Points: 42 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:32:20+00:00"
+      },
+      {
+        "title": "Oil companies report sky-high profits thanks to wartime crude prices",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+        "description": "Article URL: https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026 Comments URL: https://news.ycombinator.com/item?id=49137024 Points: 29 # Comments: 32",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:28:06+00:00"
+      },
+      {
+        "title": "Tell HN: I hate your fuzzy search",
+        "link": "https://news.ycombinator.com/item?id=49136990",
+        "description": "Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find. When I ran a site that had lots of search use I agonized over making search good and never nuked exact match for...",
+        "source": "HackerNews",
+        "published": "2026-08-01T18:25:00+00:00"
+      },
       {
         "title": "AMD’den Linux için RDNA 5 Hamlesi",
         "link": "https://shiftdelete.net/amdden-linux-icin-rdna-5-hamlesi",
         "description": "AMD, RDNA 5 mimarisi için Linux sürücü desteği hazırlıklarına başladı. DCN6 görüntü motoru yamaları, GFX13 mimarisi ile bağlantılı olarak ortaya çıktı.",
         "source": "ShiftDelete",
         "published": "2026-08-01T18:00:00+00:00"
+      },
+      {
+        "title": "NetBSD 11.0 Released",
+        "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "description": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Comments URL: https://news.ycombinator.com/item?id=49136736 Points: 93 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-08-01T17:56:41+00:00"
       },
       {
         "title": "Sam Altman is still making the case for parenting via ChatGPT",
@@ -24,30 +66,30 @@
         "published": "2026-08-01T17:00:00+00:00"
       },
       {
-        "title": "I ♥ RSS – A directory of people who love RSS",
+        "title": "A directory of people who love RSS",
         "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-        "description": "Article URL: https://andrewshell.org/2026/07/i-%e2%99%a5-rss/ Comments URL: https://news.ycombinator.com/item?id=49136063 Points: 83 # Comments: 37",
+        "description": "Article URL: https://andrewshell.org/2026/07/i-%e2%99%a5-rss/ Comments URL: https://news.ycombinator.com/item?id=49136063 Points: 122 # Comments: 65",
         "source": "HackerNews",
         "published": "2026-08-01T16:52:41+00:00"
       },
       {
-        "title": "Twelve Years Without a VPN",
-        "link": "https://khessin.de/twelve-years-without-a-vpn/",
-        "description": "Article URL: https://khessin.de/twelve-years-without-a-vpn/ Comments URL: https://news.ycombinator.com/item?id=49136061 Points: 7 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-08-01T16:52:38+00:00"
-      },
-      {
         "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
         "link": "https://kaisel.dev/",
-        "description": "Article URL: https://kaisel.dev/ Comments URL: https://news.ycombinator.com/item?id=49135985 Points: 16 # Comments: 0",
+        "description": "Article URL: https://kaisel.dev/ Comments URL: https://news.ycombinator.com/item?id=49135985 Points: 30 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-08-01T16:45:40+00:00"
       },
       {
+        "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+        "link": "https://franken.domains/",
+        "description": "Article URL: https://franken.domains/ Comments URL: https://news.ycombinator.com/item?id=49135975 Points: 18 # Comments: 25",
+        "source": "HackerNews",
+        "published": "2026-08-01T16:44:49+00:00"
+      },
+      {
         "title": "Pgtestdb's template cloning approach to testing is fast",
         "link": "https://brandur.org/fragments/pgtestdb",
-        "description": "Article URL: https://brandur.org/fragments/pgtestdb Comments URL: https://news.ycombinator.com/item?id=49135546 Points: 25 # Comments: 8",
+        "description": "Article URL: https://brandur.org/fragments/pgtestdb Comments URL: https://news.ycombinator.com/item?id=49135546 Points: 42 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-08-01T16:01:22+00:00"
       },
@@ -66,25 +108,18 @@
         "published": "2026-08-01T15:58:17+00:00"
       },
       {
+        "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+        "link": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+        "description": "Article URL: https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe Comments URL: https://news.ycombinator.com/item?id=49135426 Points: 20 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-08-01T15:46:54+00:00"
+      },
+      {
         "title": "Cursor removed cost information from the usage page and CSV export",
         "link": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-        "description": "Article URL: https://forum.cursor.com/t/usage-page-to-token-amount-what/167153 Comments URL: https://news.ycombinator.com/item?id=49135257 Points: 143 # Comments: 61",
+        "description": "Article URL: https://forum.cursor.com/t/usage-page-to-token-amount-what/167153 Comments URL: https://news.ycombinator.com/item?id=49135257 Points: 217 # Comments: 97",
         "source": "HackerNews",
         "published": "2026-08-01T15:25:21+00:00"
-      },
-      {
-        "title": "Explorative modeling: Train on the best of K guesses",
-        "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-        "description": "Article URL: https://alexiglad.github.io/blog/2026/explorative_modeling/ Comments URL: https://news.ycombinator.com/item?id=49135245 Points: 28 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-08-01T15:23:15+00:00"
-      },
-      {
-        "title": "Toast IDE Gets Markdown Spell Checking",
-        "link": "https://github.com/paradise-runner/toast",
-        "description": "Article URL: https://github.com/paradise-runner/toast Comments URL: https://news.ycombinator.com/item?id=49135184 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-01T15:15:51+00:00"
       },
       {
         "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
@@ -101,18 +136,11 @@
         "published": "2026-08-01T15:00:50+00:00"
       },
       {
-        "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-        "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-        "description": "Article URL: https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/ Comments URL: https://news.ycombinator.com/item?id=49134694 Points: 157 # Comments: 83",
-        "source": "HackerNews",
-        "published": "2026-08-01T14:19:51+00:00"
-      },
-      {
-        "title": "The Art of 64-bit Assembly",
-        "link": "https://nostarch.com/art-64-bit-assembly-v2",
-        "description": "Article URL: https://nostarch.com/art-64-bit-assembly-v2 Comments URL: https://news.ycombinator.com/item?id=49134599 Points: 95 # Comments: 48",
-        "source": "HackerNews",
-        "published": "2026-08-01T14:09:00+00:00"
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were...",
+        "source": "The Verge",
+        "published": "2026-08-01T14:18:49-04:00"
       },
       {
         "title": "Apps that help you break free from doomscrolling and get active",
@@ -150,13 +178,6 @@
         "published": "2026-08-01T13:00:00+00:00"
       },
       {
-        "title": "Charlie Stross – On the non-use of AI in my writing process",
-        "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "description": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 93 # Comments: 71",
-        "source": "HackerNews",
-        "published": "2026-08-01T12:56:54+00:00"
-      },
-      {
         "title": "You could be taking way better photos on your phone",
         "link": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
         "description": "Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the right circumstances - can rival dedicated digital...",
@@ -192,13 +213,6 @@
         "published": "2026-08-01T10:00:00+00:00"
       },
       {
-        "title": "Japonlardan 999 Gramlık Çılgın Laptop: Bataryası 30 Saat Gidiyor",
-        "link": "https://shiftdelete.net/japonlardan-999-gramlik-cilgin-laptop-bataryasi-30-saat-gidiyor",
-        "description": "NEC, sadece 999 gram ağırlığında olan ve 30 saati aşan pil ömrü sunan yeni iş dizüstü bilgisayarı LAVIE BM94C modelini duyurdu.",
-        "source": "ShiftDelete",
-        "published": "2026-08-01T09:00:00+00:00"
-      },
-      {
         "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
         "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
         "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -225,13 +239,6 @@
         "description": "India's app market generated a record $345 million in Q2.",
         "source": "TechCrunch",
         "published": "2026-07-31T21:07:45+00:00"
-      },
-      {
-        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-        "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-        "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-        "source": "TechCrunch",
-        "published": "2026-07-31T19:47:28+00:00"
       },
       {
         "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
@@ -339,13 +346,6 @@
         "published": "2026-07-31T14:47:21-04:00"
       },
       {
-        "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
-        "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
-        "description": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by Reuters....",
-        "source": "The Verge",
-        "published": "2026-07-31T14:33:39-04:00"
-      },
-      {
         "title": "The Verge’s 2026 back-to-school shopping guide",
         "link": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
         "description": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight...",
@@ -354,6 +354,13 @@
       }
     ],
     "dunya": [
+      {
+        "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+        "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+        "description": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000...",
+        "source": "The Guardian",
+        "published": "2026-08-01T19:03:39+00:00"
+      },
       {
         "title": "William and Kate bring children to Commonwealth Games",
         "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
@@ -369,13 +376,6 @@
         "published": "2026-08-01T17:07:46+00:00"
       },
       {
-        "title": "EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’",
-        "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-        "description": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa The EU will hold an extraordinary meeting of interior ministers after a breakdown of political unity over the arrival of more than...",
-        "source": "The Guardian",
-        "published": "2026-08-01T16:59:07+00:00"
-      },
-      {
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
         "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
@@ -388,6 +388,13 @@
         "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
         "source": "BBC News",
         "published": "2026-08-01T15:25:30+00:00"
+      },
+      {
+        "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+        "description": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
+        "source": "NPR",
+        "published": "2026-08-01T14:33:27-04:00"
       },
       {
         "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
@@ -488,13 +495,6 @@
         "published": "2026-08-01T05:00:00-04:00"
       },
       {
-        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
-        "description": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is.",
-        "source": "NPR",
-        "published": "2026-08-01T05:00:00-04:00"
-      },
-      {
         "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
         "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
         "description": "Daniel Murphy's mental health spiralled after he took missold drugs which had been mixed with steroids.",
@@ -567,6 +567,90 @@
     ],
     "turkiye": [
       {
+        "title": "Özgür Özel'den kritik açıklamalar! YENİ Parti'nin ilk mitinginde on binler Beylikdüzü'nde",
+        "link": "https://www.sozcu.com.tr/ozgur-ozel-den-kritik-aciklamalar-yeni-parti-ilk-mitingini-beylikduzu-nde-gerceklestiriyor-p341595",
+        "description": "Özgür Özel'den kritik açıklamalar! YENİ Parti'nin ilk mitinginde on binler Beylikdüzü'nde",
+        "source": "Sözcü",
+        "published": "2026-08-01T22:24:52+03:00"
+      },
+      {
+        "title": "Pakistan'daki çığ faciasında 10 dağcı hayatını kaybetti. 6 ayda 8 bin metre üstü 14 zirveye tırmanmıştı",
+        "link": "https://www.ntv.com.tr/turkiye/pakistandaki-cig-faciasinda-10-dagci-hayatini-kaybetti-6-ayda-8-bin-metre-ustu-14-zirveye-tirmanmisti-1735562",
+        "description": "Pakistan'daki Broad Peak Dağı'nda meydana gelen çığ felaketinde kaybolan ünlü Nepalli dağcı Nirmal Purja ve beraberindeki 9 dağcının hayatını kaybettiği açıklandı.",
+        "source": "NTV",
+        "published": "2026-08-01T22:20:13+03:00"
+      },
+      {
+        "title": "Canan Kaftancıoğlu'ndan AKP'ye geçen Eren Ali Bingöl'e zehir zemberek sözler",
+        "link": "https://www.sozcu.com.tr/canan-kaftancioglu-ndan-akp-ye-gecen-eren-ali-bingol-e-zehir-zemberek-sozler-p341597",
+        "description": "Canan Kaftancıoğlu'ndan AKP'ye geçen Eren Ali Bingöl'e zehir zemberek sözler",
+        "source": "Sözcü",
+        "published": "2026-08-01T22:13:57+03:00"
+      },
+      {
+        "title": "Genç kıza para karşılığı cinsel ilişki teklifinde bulundu! İğrenç olaya soruşturma başlatıldı",
+        "link": "https://www.sozcu.com.tr/genc-kiza-para-karsiligi-cinsel-iliski-teklifinde-bulundu-igrenc-olaya-sorusturma-baslatildi-p341607",
+        "description": "Genç kıza para karşılığı cinsel ilişki teklifinde bulundu! İğrenç olaya soruşturma başlatıldı",
+        "source": "Sözcü",
+        "published": "2026-08-01T22:11:15+03:00"
+      },
+      {
+        "title": "Kırşehir’de deprem",
+        "link": "https://www.sozcu.com.tr/kirsehir-de-deprem-p341605",
+        "description": "Kırşehir’de deprem",
+        "source": "Sözcü",
+        "published": "2026-08-01T22:07:53+03:00"
+      },
+      {
+        "title": "Kocaeli'de kız öğrenciye taciz iddiasına soruşturma",
+        "link": "https://www.ntv.com.tr/turkiye/kocaelide-kiz-ogrenciye-taciz-iddiasina-sorusturma-1735563",
+        "description": "Kocaeli'nin Gebze ilçesinde bir kız öğrenciye taciz iddiasına ilişkin soruşturma başlatıldı.",
+        "source": "NTV",
+        "published": "2026-08-01T21:56:04+03:00"
+      },
+      {
+        "title": "CHP’den istifa edip AKP’ye katılmıştı! Bingöl’den ilk açıklama",
+        "link": "https://www.sozcu.com.tr/chp-den-istifa-edip-akp-ye-katilmisti-bingol-den-ilk-aciklama-p341600",
+        "description": "CHP’den istifa edip AKP’ye katılmıştı! Bingöl’den ilk açıklama",
+        "source": "Sözcü",
+        "published": "2026-08-01T21:54:53+03:00"
+      },
+      {
+        "title": "Fenerbahçe'ye Sturm Graz maçı öncesi çifte müjde",
+        "link": "https://www.sozcu.com.tr/fenerbahce-ye-sturm-graz-maci-oncesi-cifte-mujde-p341599",
+        "description": "Fenerbahçe'ye Sturm Graz maçı öncesi çifte müjde",
+        "source": "Sözcü",
+        "published": "2026-08-01T21:47:51+03:00"
+      },
+      {
+        "title": "Hull City, Kasımpaşa ile kozlarını paylaştı",
+        "link": "https://www.sozcu.com.tr/hull-city-kasimpasa-ile-kozlarini-paylasti-p341598",
+        "description": "Hull City, Kasımpaşa ile kozlarını paylaştı",
+        "source": "Sözcü",
+        "published": "2026-08-01T21:42:24+03:00"
+      },
+      {
+        "title": "Yaşlı kadının 4 milyonluk altınını aldılar. Dolandırıcılar \"Günlük dolgun ücretli iş\" ilanıyla buldukları kuryeyi kullanmış",
+        "link": "https://www.ntv.com.tr/turkiye/yasli-kadinin-4-milyonluk-altinini-aldilar-dolandiricilar-gunluk-dolgun-ucretli-is-ilaniyla-bulduklari-kuryeyi-kullanmis-1735561",
+        "description": "Denizli'de telefonla aradıkları H.K. (81) isimli kadını, kendilerini hakim ve savcı olarak tanıtıp, yaklaşık 4 milyon lira değerindeki altın takılarını alarak dolandıran 8 kişi gözaltına alındı. Dolandırıcıların evlere gönderdikleri kişileri...",
+        "source": "NTV",
+        "published": "2026-08-01T21:32:26+03:00"
+      },
+      {
+        "title": "Kırşehir'de 3.4 büyüklüğünde deprem",
+        "link": "https://www.ntv.com.tr/turkiye/kirsehirde-34-buyuklugunde-deprem-1735560",
+        "description": "Kırşehir'in Çiçekdağı ilçesinde 3.4 büyüklüğünde deprem meydana geldi.",
+        "source": "NTV",
+        "published": "2026-08-01T21:23:44+03:00"
+      },
+      {
+        "title": "Pentagon'a gönderilen rapor ortaya çıktı: ABD’nin İsrail savunmasında alarm",
+        "link": "https://www.sozcu.com.tr/pentagon-a-gonderilen-rapor-ortaya-cikti-abd-nin-israil-savunmasinda-alarm-p341596",
+        "description": "Pentagon'a gönderilen rapor ortaya çıktı: ABD’nin İsrail savunmasında alarm",
+        "source": "Sözcü",
+        "published": "2026-08-01T21:11:52+03:00"
+      },
+      {
         "title": "Yangını gözyaşları içinde izlediler",
         "link": "https://www.ntv.com.tr/turkiye/video-yangini-gozyaslari-icinde-izlediler-1735559",
         "description": "Aydın'da Madran Dağı’ndaki orman yangını çevrede yaşayan köylüleri de endişelendirdi. Yaklaşık 1800 metre yükseklikteki zirvede toplanan vatandaşlar, alevlerin ilerleyişini gözyaşları içinde izledi. Tehlike geçtikten sonra bölge sakinleri evlerine...",
@@ -574,32 +658,11 @@
         "published": "2026-08-01T20:53:22+03:00"
       },
       {
-        "title": "DSÖ duyurdu: Ebola salgını kontrolden çıkıyor",
-        "link": "https://www.sozcu.com.tr/dso-duyurdu-ebola-salgini-kontrolden-cikti-p341592",
-        "description": "DSÖ duyurdu: Ebola salgını kontrolden çıkıyor",
-        "source": "Sözcü",
-        "published": "2026-08-01T20:51:03+03:00"
-      },
-      {
-        "title": "Özgür Özel'den kritik açıklamalar! YENİ Parti ilk mitingini Beylikdüzü'nde gerçekleştiriyor",
-        "link": "https://www.sozcu.com.tr/ozgur-ozel-den-kritik-aciklamalar-yeni-parti-ilk-mitingini-beylikduzu-nde-gerceklestiriyor-p341595",
-        "description": "Özgür Özel'den kritik açıklamalar! YENİ Parti ilk mitingini Beylikdüzü'nde gerçekleştiriyor",
-        "source": "Sözcü",
-        "published": "2026-08-01T20:46:02+03:00"
-      },
-      {
         "title": "Şanlıurfa'da otomobil sulama kanalına uçtu. Sürücü kayboldu",
         "link": "https://www.ntv.com.tr/turkiye/sanliurfada-otomobil-sulama-kanalina-uctu-surucu-kayboldu-1735558",
         "description": "Şanlıurfa'nın Akçakale ilçesinde sulama kanalına devrilen otomobilin sürücüsü kayboldu.",
         "source": "NTV",
         "published": "2026-08-01T20:38:24+03:00"
-      },
-      {
-        "title": "15 Temmuz Köprüsü 3 gece boyunca kapatılacak",
-        "link": "https://www.sozcu.com.tr/15-temmuz-koprusu-3-gece-boyunca-kapatilacak-p341589",
-        "description": "15 Temmuz Köprüsü 3 gece boyunca kapatılacak",
-        "source": "Sözcü",
-        "published": "2026-08-01T20:37:49+03:00"
       },
       {
         "title": "Hayvan otlatma kavgası. Tartıştığı kişilerin üzerine traktör sürdü",
@@ -630,41 +693,6 @@
         "published": "2026-08-01T20:19:24+03:00"
       },
       {
-        "title": "Galatasaray'ın imza için gün saydığı ismin yeni takımını duyurdular",
-        "link": "https://www.sozcu.com.tr/galatasaray-in-imza-icin-gun-saydigi-ismin-yeni-takimini-duyurdular-p341591",
-        "description": "Galatasaray'ın imza için gün saydığı ismin yeni takımını duyurdular",
-        "source": "Sözcü",
-        "published": "2026-08-01T20:10:21+03:00"
-      },
-      {
-        "title": "Trabzonspor'un genç yıldızı BAE yolcusu",
-        "link": "https://www.sozcu.com.tr/trabzonspor-un-genc-yildizi-bae-yolcusu-p341590",
-        "description": "Trabzonspor'un genç yıldızı BAE yolcusu",
-        "source": "Sözcü",
-        "published": "2026-08-01T20:05:14+03:00"
-      },
-      {
-        "title": "Erkekler VNL finalinin adı belli oldu",
-        "link": "https://www.sozcu.com.tr/erkekler-vnl-finalinin-adi-belli-oldu-p341588",
-        "description": "Erkekler VNL finalinin adı belli oldu",
-        "source": "Sözcü",
-        "published": "2026-08-01T20:00:00+03:00"
-      },
-      {
-        "title": "Cumhuriyetin kurucusu Atatürksüz koreografi",
-        "link": "https://www.sozcu.com.tr/cumhuriyetin-kurucusu-ataturksuz-koreografi-p341587",
-        "description": "Cumhuriyetin kurucusu Atatürksüz koreografi",
-        "source": "Sözcü",
-        "published": "2026-08-01T19:57:40+03:00"
-      },
-      {
-        "title": "Galatasaray, 38 gole katkı veren İskoç forveti alıyor",
-        "link": "https://www.sozcu.com.tr/galatasaray-38-gole-katki-veren-iskoc-golcuyu-aliyor-p341586",
-        "description": "Galatasaray, 38 gole katkı veren İskoç forveti alıyor",
-        "source": "Sözcü",
-        "published": "2026-08-01T19:52:18+03:00"
-      },
-      {
         "title": "840 bin lira ceza yedi. Ses sistemini belediye önünde yakan işletme sahibi tutuklandı",
         "link": "https://www.ntv.com.tr/turkiye/839-bin-lira-ceza-yedi-ses-sistemini-belediye-onunde-yakan-isletme-sahibi-tutuklandi-1735555",
         "description": "Antalya'nın Manavgat ilçesinde iş yerine 840 bin lira para cezası yazıldığı gerekçesiyle Manavgat Belediyesi önünde ses cihazlarını yakan işletme sahibi tutuklanarak cezaevine gönderildi.",
@@ -677,34 +705,6 @@
         "description": "İzmir’de etkisini artıran sıcak hava ve kuvvetli rüzgar, orman yangını riskini yükseltti. İzmir İtfaiyesi sigara izmariti, mangal ateşi, cam atıkları ve kıvılcım çıkaran çalışmaların büyük yangınlara yol açabileceğine dikkat çekerek vatandaşları...",
         "source": "NTV",
         "published": "2026-08-01T19:43:35+03:00"
-      },
-      {
-        "title": "15 Temmuz Şehitler Köprüsü'nde dizi çekimi. 3 gece trafiğe kapacak",
-        "link": "https://www.ntv.com.tr/turkiye/15-temmuz-sehitler-koprusunde-dizi-cekimi-3-gece-trafige-kapacak-1735553",
-        "description": "15 Temmuz Şehitler Köprüsü, dizi çekimi için 3 gün Anadolu Yakası'ndan Avrupa Yakası'na geçişler gece 01.00 ile 05.00 arasında tek yönlü olarak trafiğe kapatılacak.",
-        "source": "NTV",
-        "published": "2026-08-01T19:35:15+03:00"
-      },
-      {
-        "title": "Süreç yasasında sona doğru. Kurtulmuş: Gelecek hafta Meclis'e gelecek",
-        "link": "https://www.ntv.com.tr/turkiye/surec-yasasinda-sona-dogru-kurtulmus-gelecek-hafta-meclise-gelecek-1735552",
-        "description": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecine ilişkin yasa teklifinin gelecek hafta partilerin ortak teklifiyle Meclis'e gelmesinin beklendiğini söyledi.",
-        "source": "NTV",
-        "published": "2026-08-01T19:09:18+03:00"
-      },
-      {
-        "title": "Üsküdar Belediye Başkanı Sinem Dedetaş görevden uzaklaştırıldı",
-        "link": "https://www.ntv.com.tr/turkiye/uskudar-belediye-baskani-sinem-dedetas-gorevden-uzaklastirildi-1735550",
-        "description": "Üsküdar Belediyesi'ne yönelik yolsuzluk suçlamalı soruşturmada tutuklanan Sinem Dedetaş, görevden uzaklaştırıldı.",
-        "source": "NTV",
-        "published": "2026-08-01T18:24:41+03:00"
-      },
-      {
-        "title": "Üç belediye başkanı AK Parti'ye katıldı | Cumhurbaşkanı Erdoğan: AK Parti bir Türkiye kitabıdır",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-turkiye-yuzyilini-milletimizle-birlikte-insa-ediyoruz-1735548",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti'nin 11 milyonu aşkın üye sayısıyla Türkiye'nin birinci partisi olduğunu dile getirerek \"AK Parti Türkiye kitabıdır.\" dedi. AK Parti'ye geçen İstanbul Tuzla, Çekmeköy ve Şile belediye başkanlarına...",
-        "source": "NTV",
-        "published": "2026-08-01T17:36:12+03:00"
       },
       {
         "title": "İstanbul'da üç belediye başkanı daha AKP'ye katıldı",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+89°F",
-    "wind": "↑7mph",
-    "humidity": "37%"
+    "temp": "+94°F",
+    "wind": "↑10mph",
+    "humidity": "42%"
   }
 }
