@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-02T20:54:58.710283+00:00",
+  "updated_at": "2026-08-02T21:55:47.196227+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "The global memory shortage hits the MacBook Air",
+        "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+        "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+        "source": "TechCrunch",
+        "published": "2026-08-02T21:33:59+00:00"
+      },
       {
         "title": "Sam Altman and AI’s decel debate",
         "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -10,39 +17,74 @@
         "published": "2026-08-02T20:54:22+00:00"
       },
       {
+        "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+        "link": "https://github.com/0xchasercat/draco/",
+        "description": "Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by...",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:48:45+00:00"
+      },
+      {
+        "title": "AI Mania: From Tulips to Tokens",
+        "link": "https://seanhelvey.com/tools-and-their-tools/",
+        "description": "Article URL: https://seanhelvey.com/tools-and-their-tools/ Comments URL: https://news.ycombinator.com/item?id=49148159 Points: 29 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:48:28+00:00"
+      },
+      {
+        "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+        "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+        "description": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 22 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:44:24+00:00"
+      },
+      {
+        "title": "Show HN: Make your Framework 12 sound like a creaky door",
+        "link": "https://github.com/ArcaEge/creakwork12",
+        "description": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor ( https://github.com/samhenrigold/LidAngleSensor ) but for the Framework...",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:33:01+00:00"
+      },
+      {
+        "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+        "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+        "description": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 11 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:26:47+00:00"
+      },
+      {
+        "title": "Let the Machines In",
+        "link": "https://blog.semenzin.com/let-the-machines-in/",
+        "description": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 12 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:17:16+00:00"
+      },
+      {
+        "title": "Adding Go's Defer to the TypeScript Compiler",
+        "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+        "description": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 6 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:12:39+00:00"
+      },
+      {
+        "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "link": "https://github.com/paoloanzn/microcodex",
+        "description": "Article URL: https://github.com/paoloanzn/microcodex Comments URL: https://news.ycombinator.com/item?id=49147842 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:11:35+00:00"
+      },
+      {
+        "title": "TinyNES Review – A Super Niche NES Console",
+        "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+        "description": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Comments URL: https://news.ycombinator.com/item?id=49147760 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-02T20:01:37+00:00"
+      },
+      {
         "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
         "link": "https://frogs.vaguespac.es/",
-        "description": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 22 # Comments: 11",
+        "description": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 41 # Comments: 23",
         "source": "HackerNews",
         "published": "2026-08-02T19:42:08+00:00"
-      },
-      {
-        "title": "EU rules on AI models become enforceable. What's going to change?",
-        "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-        "description": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 30 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-08-02T19:40:19+00:00"
-      },
-      {
-        "title": "German carmakers flood jobs market with managers after wielding axe",
-        "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
-        "description": "Article URL: https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597 Comments URL: https://news.ycombinator.com/item?id=49147478 Points: 25 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-08-02T19:24:18+00:00"
-      },
-      {
-        "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
-        "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
-        "description": "Article URL: https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/ Comments URL: https://news.ycombinator.com/item?id=49147450 Points: 35 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-08-02T19:20:50+00:00"
-      },
-      {
-        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-        "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-        "description": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2 Comments URL: https://news.ycombinator.com/item?id=49147435 Points: 51 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-08-02T19:19:24+00:00"
       },
       {
         "title": "Oppo Find X10 Ultra’nın Kamerası ve Fiyatı Sızdırıldı",
@@ -59,18 +101,11 @@
         "published": "2026-08-02T18:00:00+00:00"
       },
       {
-        "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-        "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-        "description": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/ Comments URL: https://news.ycombinator.com/item?id=49146605 Points: 25 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-08-02T17:45:51+00:00"
-      },
-      {
-        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-        "link": "https://github.com/graham33/nixos-dgx-spark",
-        "description": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems. This works on the NVIDIA DGX Spark itself and...",
-        "source": "HackerNews",
-        "published": "2026-08-02T17:05:54+00:00"
+        "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+        "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+        "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no...",
+        "source": "The Verge",
+        "published": "2026-08-02T17:53:15-04:00"
       },
       {
         "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
@@ -87,20 +122,6 @@
         "published": "2026-08-02T17:00:00+00:00"
       },
       {
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "link": "https://github.com/wie-project/kakehashi",
-        "description": "Article URL: https://github.com/wie-project/kakehashi Comments URL: https://news.ycombinator.com/item?id=49145937 Points: 112 # Comments: 28",
-        "source": "HackerNews",
-        "published": "2026-08-02T16:26:40+00:00"
-      },
-      {
-        "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-        "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-        "description": "Article URL: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/ Comments URL: https://news.ycombinator.com/item?id=49145883 Points: 60 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-08-02T16:19:17+00:00"
-      },
-      {
         "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
         "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
         "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
@@ -113,13 +134,6 @@
         "description": "Apple, MacBook Air modellerinde yaşanan ciddi stok sorunu nedeniyle satış stratejisini değiştiriyor. M6 işlemcili yeni modeller öncesi son durum.",
         "source": "ShiftDelete",
         "published": "2026-08-02T16:00:00+00:00"
-      },
-      {
-        "title": "How the words we teach English language learners changed",
-        "link": "https://pudding.cool/2026/07/essential-words/",
-        "description": "Article URL: https://pudding.cool/2026/07/essential-words/ Comments URL: https://news.ycombinator.com/item?id=49145590 Points: 166 # Comments: 94",
-        "source": "HackerNews",
-        "published": "2026-08-02T15:41:08+00:00"
       },
       {
         "title": "Fender’s CEO seems to think your bandmates are just analog AI",
@@ -241,20 +255,6 @@
         "published": "2026-08-01T16:13:56-04:00"
       },
       {
-        "title": "This $9 key physically locks your most addictive apps",
-        "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-        "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-        "source": "TechCrunch",
-        "published": "2026-08-01T15:58:17+00:00"
-      },
-      {
-        "title": "Spider-Man: Brand New Day leak racks up millions of views",
-        "link": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-        "description": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none...",
-        "source": "The Verge",
-        "published": "2026-08-01T13:00:12-04:00"
-      },
-      {
         "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
         "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
         "description": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little...",
@@ -355,6 +355,27 @@
     ],
     "dunya": [
       {
+        "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts",
+        "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
+        "description": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
+        "source": "BBC News",
+        "published": "2026-08-02T21:45:22+00:00"
+      },
+      {
+        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+        "source": "BBC News",
+        "published": "2026-08-02T21:18:26+00:00"
+      },
+      {
+        "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+        "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour, her representative says.",
+        "source": "BBC News",
+        "published": "2026-08-02T21:02:29+00:00"
+      },
+      {
         "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
         "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
@@ -374,20 +395,6 @@
         "description": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
         "source": "BBC News",
         "published": "2026-08-02T17:40:02+00:00"
-      },
-      {
-        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
-        "source": "BBC News",
-        "published": "2026-08-02T16:45:03+00:00"
-      },
-      {
-        "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-        "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-        "description": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
-        "source": "BBC News",
-        "published": "2026-08-02T16:37:02+00:00"
       },
       {
         "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
@@ -416,13 +423,6 @@
         "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
         "source": "BBC News",
         "published": "2026-08-02T14:15:07+00:00"
-      },
-      {
-        "title": "Three in hospital after fire and crush at festival in London",
-        "link": "https://www.bbc.co.uk/news/articles/c05q964n4llo?at_medium=RSS&at_campaign=rss",
-        "description": "Ghana Party in the Park organisers called the day \"difficult\" and \"deeply upsetting\".",
-        "source": "BBC News",
-        "published": "2026-08-02T13:36:15+00:00"
       },
       {
         "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
@@ -567,6 +567,55 @@
     ],
     "turkiye": [
       {
+        "title": "Okan Buruk: İyi bir kadro kuracağız",
+        "link": "https://www.sozcu.com.tr/okan-buruk-iyi-bir-kadro-kuracagiz-p341829",
+        "description": "Okan Buruk: İyi bir kadro kuracağız",
+        "source": "Sözcü",
+        "published": "2026-08-03T00:36:10+03:00"
+      },
+      {
+        "title": "Kemal Kılıçdaroğlu, AKP'li isimle birlikte nikah şahitliği yaptı",
+        "link": "https://www.sozcu.com.tr/kemal-kilicdaroglu-aviclar-da-dugunde-p341828",
+        "description": "Kemal Kılıçdaroğlu, AKP'li isimle birlikte nikah şahitliği yaptı",
+        "source": "Sözcü",
+        "published": "2026-08-03T00:32:18+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 03 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-03-agustos-2026-1735698",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 03 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-03T00:30:00+03:00"
+      },
+      {
+        "title": "Toprağın altındaki gizli mekanizma keşfedildi: Tohumlar yağmuru duyabiliyormuş",
+        "link": "https://www.sozcu.com.tr/topragin-altindaki-gizli-mekanizma-kesfedildi-tohumlar-yagmuru-duyabiliyormus-p341827",
+        "description": "Toprağın altındaki gizli mekanizma keşfedildi: Tohumlar yağmuru duyabiliyormuş",
+        "source": "Sözcü",
+        "published": "2026-08-03T00:22:28+03:00"
+      },
+      {
+        "title": "Jandarma kıyafeti giyip 13 kilogram altın çaldılar! Film gibi soygun cezaevinde bitti",
+        "link": "https://www.sozcu.com.tr/jandarma-kiyafeti-giyip-13-kilogram-altin-caldilar-film-gibi-soygun-cezaevinde-bitti-p341826",
+        "description": "Jandarma kıyafeti giyip 13 kilogram altın çaldılar! Film gibi soygun cezaevinde bitti",
+        "source": "Sözcü",
+        "published": "2026-08-03T00:17:03+03:00"
+      },
+      {
+        "title": "Kastamonu'da tarlada insansız hava aracı bulundu",
+        "link": "https://www.ntv.com.tr/turkiye/kastamonuda-tarlada-insansiz-hava-araci-bulundu-1735699",
+        "description": "Kastamonu'nun Taşköprü ilçesinde tarlada vatandaşlar tarafından insansız hava aracı bulundu. Araç, ekipler tarafından incelenmek üzere götürüldü.",
+        "source": "NTV",
+        "published": "2026-08-03T00:12:58+03:00"
+      },
+      {
+        "title": "Devrilen traktörün altında kalan karı-koca hayatını kaybetti",
+        "link": "https://www.ntv.com.tr/turkiye/devrilen-traktorun-altinda-kalan-kari-koca-hayatini-kaybetti-1735697",
+        "description": "Edirne’de sürücüsünün kontrolünden çıkarak devrilen traktörün altında kalan Raşit Taşkın ile eşi Fatma Taşkın, yaşamını yitirdi.",
+        "source": "NTV",
+        "published": "2026-08-03T00:02:21+03:00"
+      },
+      {
         "title": "Burhaniye Belediye Başkanı Ali Kemal Deveciler CHP'den istifa etti",
         "link": "https://www.sozcu.com.tr/burhaniye-ali-kemal-deveciler-chp-den-istifa-etti-p341823",
         "description": "Burhaniye Belediye Başkanı Ali Kemal Deveciler CHP'den istifa etti",
@@ -609,13 +658,6 @@
         "published": "2026-08-02T22:58:17+03:00"
       },
       {
-        "title": "Bu 5 ilacı sakın torpido gözünde bırakmayın",
-        "link": "https://www.sozcu.com.tr/bu-5-ilaci-sakin-torpido-gozunde-birakmayin-p341816",
-        "description": "Bu 5 ilacı sakın torpido gözünde bırakmayın",
-        "source": "Sözcü",
-        "published": "2026-08-02T22:45:44+03:00"
-      },
-      {
         "title": "Selman Öğüt, Sinem Dedetaş'ı hedef aldı; müteahhitlerin sözcülüğüne soyundu",
         "link": "https://www.sozcu.com.tr/selman-ogut-sinem-dedetas-p341814",
         "description": "Selman Öğüt, Sinem Dedetaş'ı hedef aldı; müteahhitlerin sözcülüğüne soyundu",
@@ -644,20 +686,6 @@
         "published": "2026-08-02T22:32:37+03:00"
       },
       {
-        "title": "Fatih Tekke’den Salah açıklaması",
-        "link": "https://www.sozcu.com.tr/fatih-tekke-den-salah-aciklamasi-p341810",
-        "description": "Fatih Tekke’den Salah açıklaması",
-        "source": "Sözcü",
-        "published": "2026-08-02T22:15:20+03:00"
-      },
-      {
-        "title": "Bağların yeni bekçileri baykuşlar oldu: 500’den fazla yuva kutusu kuruldu",
-        "link": "https://www.sozcu.com.tr/baglarin-yeni-bekcileri-baykuslar-oldu-500-den-fazla-yuva-kutusu-kuruldu-p341808",
-        "description": "Bağların yeni bekçileri baykuşlar oldu: 500’den fazla yuva kutusu kuruldu",
-        "source": "Sözcü",
-        "published": "2026-08-02T22:11:47+03:00"
-      },
-      {
         "title": "Samsun’da özel halk otobüsü devrildi. 21 kişi yaralandı",
         "link": "https://www.ntv.com.tr/turkiye/samsunda-ozel-halk-otobusu-devrildi-21-kisi-yaralandi-1735690",
         "description": "Samsun’un Çarşamba ilçesinde özel halk otobüsünün yoldan çıkarak devrilmesi sonucu 21 kişi yaralandı.",
@@ -672,39 +700,11 @@
         "published": "2026-08-02T21:47:46+03:00"
       },
       {
-        "title": "Tarihlerinin en büyük siparişi: 14 nükleer denizaltı için 76,6 milyar dolar ödeyecekler",
-        "link": "https://www.sozcu.com.tr/tarihlerinin-en-buyuk-siparisi-14-nukleer-denizalti-icin-76-6-milyar-dolar-odeyecekler-p341807",
-        "description": "Tarihlerinin en büyük siparişi: 14 nükleer denizaltı için 76,6 milyar dolar ödeyecekler",
-        "source": "Sözcü",
-        "published": "2026-08-02T21:39:24+03:00"
-      },
-      {
         "title": "Yasağa rağmen inat etti. Jandarma dakikalarca ikna etmeye çalıştı",
         "link": "https://www.ntv.com.tr/turkiye/yasaga-ragmen-inat-etti-jandarma-dakikalarca-ikna-etmeye-calisti-1735687",
         "description": "Tekirdağ'ın Süleymanpaşa ilçesinde alkollü olduğu iddia edilen bir kişi, denize girme yasağına rağmen gece denize girmeye çalıştı. Jandarma ekiplerinin uzun süren ikna çabası sonucu vatandaş kıyıdan uzaklaştırıldı.",
         "source": "NTV",
         "published": "2026-08-02T21:10:24+03:00"
-      },
-      {
-        "title": "Tekirdağ'da su kaynakları denetimi. 4 işletmeye 4,8 milyon liralık atık su cezası",
-        "link": "https://www.ntv.com.tr/turkiye/tekirdagda-su-kaynaklari-denetimi-4-isletmeye-48-milyon-liralik-atik-su-cezasi-1735685",
-        "description": "Tekirdağ'da atıklarıyla su kaynaklarını kirlettikleri belirlenen 4 işletmeye toplam 4 milyon 824 bin 987 lira ceza uygulandı.",
-        "source": "NTV",
-        "published": "2026-08-02T20:46:21+03:00"
-      },
-      {
-        "title": "Formulaz renkli görüntülere sahne oldu. Tahta arabalarla yarıştılar",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-formulaz-renkli-goruntulere-sahne-oldu-tahta-arabalarla-yaristilar-1735683",
-        "description": "Rize'nin Ardeşen ilçesinde \"16. Geleneksel Red Bull Formulaz Tahta Araba Yarışları\" gerçekleştirildi. 80 yarışmacının mücadelesi renkli görüntülere sahne oldu.",
-        "source": "NTV",
-        "published": "2026-08-02T20:18:37+03:00"
-      },
-      {
-        "title": "TBMM Dilekçe Komisyonu'na ilginç talepler. \"İstanbul kışlık, Ankara yazlık başkent olsun\"",
-        "link": "https://www.ntv.com.tr/turkiye/tbmm-dilekce-komisyonuna-ilginc-talepler-istanbul-kislik-ankara-yazlik-baskent-olsun-1735676",
-        "description": "Türkiye Büyük Millet Meclisi dilekçe Komisyonu'na geçtiğimiz ay bin 610 başvuru geldi. Yapılan başvurularda \"seçimlerde vatandaşlara yaşadıkları ilin milletvekili sayısı kadar oy hakkı verilmesi, İstanbul'un kışlık, Ankara'nın yazlık başkent...",
-        "source": "NTV",
-        "published": "2026-08-02T18:25:28+03:00"
       },
       {
         "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 44 kişi hakkında tutuklama talebi",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8685
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+75°F",
-    "wind": "↑6mph",
-    "humidity": "90%"
+    "condition": "Güneşli",
+    "temp": "+93°F",
+    "wind": "→4mph",
+    "humidity": "36%"
   }
 }
