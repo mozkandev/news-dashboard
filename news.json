@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-08-02T09:08:20.296380+00:00",
+  "updated_at": "2026-08-02T10:58:30.772517+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
+        "link": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+        "description": "Article URL: https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html Comments URL: https://news.ycombinator.com/item?id=49143053 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-02T10:25:25+00:00"
+      },
+      {
+        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "link": "https://publicdomainreview.org/essay/ars-notoria/",
+        "description": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 7 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T10:18:24+00:00"
+      },
+      {
+        "title": "Microsoft Piyasa Değerini Bir Günde 450 Milyar Dolar Artırdı",
+        "link": "https://shiftdelete.net/microsoft-piyasa-degerini-bir-gunde-450-milyar-dolar-artirdi",
+        "description": "Microsoft, açıkladığı finansal sonuçlarla tek günde 450 milyar dolar değer kazandı. Bu rakam Türkiye borsasının toplam değerini geride bıraktı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-02T10:00:00+00:00"
+      },
+      {
+        "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+        "link": "https://github.com/syncular/syncular",
+        "description": "Article URL: https://github.com/syncular/syncular Comments URL: https://news.ycombinator.com/item?id=49142794 Points: 11 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-08-02T09:48:08+00:00"
+      },
+      {
+        "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+        "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+        "description": "Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management. Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently...",
+        "source": "HackerNews",
+        "published": "2026-08-02T09:06:33+00:00"
+      },
       {
         "title": "Mercedes GLC 400 4Matic alınır mı? Tüm artıları ve eksileri",
         "link": "https://shiftdelete.net/mercedes-glc-400-4matic-alinir-mi-tum-artilari-ve-eksileri",
@@ -17,6 +52,13 @@
         "published": "2026-08-02T09:00:00+00:00"
       },
       {
+        "title": "The time filter in Google Search broke a few days ago",
+        "link": "https://mastodon.online/@mwichary/117023736804129342",
+        "description": "Article URL: https://mastodon.online/@mwichary/117023736804129342 Comments URL: https://news.ycombinator.com/item?id=49142458 Points: 21 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-08-02T08:48:53+00:00"
+      },
+      {
         "title": "Yapay Zeka Firmaları Nadir Kitapların Peşinde: Milyonlarca Eser Tehlike Altında",
         "link": "https://shiftdelete.net/yapay-zeka-firmalari-nadir-kitaplarin-pesinde-milyonlarca-eser-tehlike-altinda",
         "description": "Yapay zeka şirketleri, eğitim verisi elde etmek için 2022 öncesi basılmış milyonlarca kitabı dijitalleştirme sürecinde yok ediyor.",
@@ -24,23 +66,37 @@
         "published": "2026-08-02T08:00:00+00:00"
       },
       {
-        "title": "Nerd culture is murdering intellectuals",
-        "link": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
-        "description": "Article URL: https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals Comments URL: https://news.ycombinator.com/item?id=49142128 Points: 16 # Comments: 16",
+        "title": "Cyberscript",
+        "link": "https://cyberscript.dev",
+        "description": "Article URL: https://cyberscript.dev Comments URL: https://news.ycombinator.com/item?id=49142130 Points: 7 # Comments: 1",
         "source": "HackerNews",
-        "published": "2026-08-02T07:57:52+00:00"
+        "published": "2026-08-02T07:58:30+00:00"
       },
       {
-        "title": "Show HN: Tone Generator",
-        "link": "https://soundtonegenerator.com/",
-        "description": "Article URL: https://soundtonegenerator.com/ Comments URL: https://news.ycombinator.com/item?id=49142002 Points: 7 # Comments: 3",
+        "title": "Mathematics Without Mathematicians",
+        "link": "https://borretti.me/article/mathematics-without-mathematicians",
+        "description": "Article URL: https://borretti.me/article/mathematics-without-mathematicians Comments URL: https://news.ycombinator.com/item?id=49142083 Points: 13 # Comments: 7",
         "source": "HackerNews",
-        "published": "2026-08-02T07:31:40+00:00"
+        "published": "2026-08-02T07:47:26+00:00"
+      },
+      {
+        "title": "Police in the US are making their own true crime podcasts",
+        "link": "https://www.bbc.com/news/articles/cpw9q0ekd9eo",
+        "description": "Article URL: https://www.bbc.com/news/articles/cpw9q0ekd9eo Comments URL: https://news.ycombinator.com/item?id=49141967 Points: 12 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-08-02T07:25:00+00:00"
+      },
+      {
+        "title": "IBM i (OS/400) the Database Operating System",
+        "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+        "description": "Article URL: https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/ Comments URL: https://news.ycombinator.com/item?id=49141937 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-02T07:17:49+00:00"
       },
       {
         "title": "I don't recommend Tailwind CSS",
         "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-        "description": "Article URL: https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/ Comments URL: https://news.ycombinator.com/item?id=49141891 Points: 38 # Comments: 27",
+        "description": "Article URL: https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/ Comments URL: https://news.ycombinator.com/item?id=49141891 Points: 99 # Comments: 96",
         "source": "HackerNews",
         "published": "2026-08-02T07:09:38+00:00"
       },
@@ -50,13 +106,6 @@
         "description": "Microsoft Word belgelerine gizlenen komutlar Copilot'ı tehdit ediyor. İşte Copilot'ın dosyaları sessizce değiştirmesine yol açan güvenlik açığı.",
         "source": "ShiftDelete",
         "published": "2026-08-02T07:00:00+00:00"
-      },
-      {
-        "title": "CRM: An open-source, agentic-first CRM",
-        "link": "https://github.com/trycompai/crm",
-        "description": "Article URL: https://github.com/trycompai/crm Comments URL: https://news.ycombinator.com/item?id=49141847 Points: 9 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-02T06:59:28+00:00"
       },
       {
         "title": "Xbox Series Konsollarına Avrupa’da Büyük Zam",
@@ -71,48 +120,6 @@
         "description": "Apple'ın 2027 başında tanıtması beklenen iPhone Air 2 modeli hakkındaki ilk detaylar ve beş yeni özellik sızdırıldı.",
         "source": "ShiftDelete",
         "published": "2026-08-02T05:00:00+00:00"
-      },
-      {
-        "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-        "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-        "description": "Article URL: https://www.wafer.ai/blog/kimi-k3-mi355x Comments URL: https://news.ycombinator.com/item?id=49141073 Points: 119 # Comments: 25",
-        "source": "HackerNews",
-        "published": "2026-08-02T04:21:14+00:00"
-      },
-      {
-        "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-        "description": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html Comments URL: https://news.ycombinator.com/item?id=49140702 Points: 52 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-02T03:12:52+00:00"
-      },
-      {
-        "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-        "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-        "description": "Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific# Comments URL: https://news.ycombinator.com/item?id=49140599 Points: 48 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-08-02T02:51:15+00:00"
-      },
-      {
-        "title": "Four Time Scales for Technology Development and Deployment",
-        "link": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-        "description": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/ Comments URL: https://news.ycombinator.com/item?id=49140487 Points: 26 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-08-02T02:26:52+00:00"
-      },
-      {
-        "title": "When random.bytes() runs but doesn't work",
-        "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-        "description": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 34 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-08-02T02:08:26+00:00"
-      },
-      {
-        "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-        "link": "https://github.com/tom-ilan/cycloidal_gearbox",
-        "description": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 145 # Comments: 31",
-        "source": "HackerNews",
-        "published": "2026-08-02T02:07:09+00:00"
       },
       {
         "title": "Inside the London hacker house taking a stand against founder burnout",
@@ -190,13 +197,6 @@
         "description": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me...",
         "source": "The Verge",
         "published": "2026-08-01T16:13:56-04:00"
-      },
-      {
-        "title": "iPhone 18e Modelinde 9 GB RAM Sürprizi",
-        "link": "https://shiftdelete.net/iphone-18e-modelinde-9-gb-ram-surprizi",
-        "description": "Apple analisti Jeff Pu, 2027'de çıkacak iPhone 18e modelinin 9 GB RAM ile gelebileceğini iddia etti. İşte yeni iPhone hakkındaki tüm detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-08-01T16:00:00+00:00"
       },
       {
         "title": "This $9 key physically locks your most addictive apps",
@@ -355,18 +355,32 @@
     ],
     "dunya": [
       {
-        "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-        "source": "BBC News",
-        "published": "2026-08-02T06:24:01+00:00"
-      },
-      {
         "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
         "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
         "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
         "source": "BBC News",
-        "published": "2026-08-02T05:40:42+00:00"
+        "published": "2026-08-02T10:54:44+00:00"
+      },
+      {
+        "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
+        "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "source": "BBC News",
+        "published": "2026-08-02T10:32:28+00:00"
+      },
+      {
+        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+        "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+        "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "source": "BBC News",
+        "published": "2026-08-02T10:11:26+00:00"
+      },
+      {
+        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+        "source": "BBC News",
+        "published": "2026-08-02T09:10:51+00:00"
       },
       {
         "title": "We asked a first grader to interview his hero: A bird scientist",
@@ -404,13 +418,6 @@
         "published": "2026-08-02T03:34:27-04:00"
       },
       {
-        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-        "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-        "source": "BBC News",
-        "published": "2026-08-02T00:55:16+00:00"
-      },
-      {
         "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
         "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
         "description": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
@@ -439,18 +446,11 @@
         "published": "2026-08-01T23:35:28+00:00"
       },
       {
-        "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+        "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
         "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
         "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
         "source": "BBC News",
         "published": "2026-08-01T23:03:35+00:00"
-      },
-      {
-        "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
-        "description": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.",
-        "source": "BBC News",
-        "published": "2026-08-01T22:41:38+00:00"
       },
       {
         "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
@@ -460,7 +460,7 @@
         "published": "2026-08-01T22:31:13+00:00"
       },
       {
-        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+        "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
         "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
         "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
         "source": "BBC News",
@@ -567,11 +567,123 @@
     ],
     "turkiye": [
       {
-        "title": "FETÖ'nün Marmaris suikast timindeki terörist, MİT'in yüz tanıma sistemiyle tespit edildi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-fetonun-marmaris-suikast-timindeki-terorist-mitin-yuz-tanima-sistemiyle-tespit-edildi-1735611",
-        "description": "15 Temmuz darbe girişiminde Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik suikast timinde yer alan firari FETÖ'cü Burkay Karatepe'nin yakalanmasının perde arkası ortaya çıktı. Milli İstihbarat Teşkilatı'nın (MİT) yüz tanıma sistemi, firarinin izini...",
+        "title": "Ümit Dikbayır 'Nimet Abla'ya rakip çıktı",
+        "link": "https://www.sozcu.com.tr/umit-dikbayir-nimet-abla-ya-rakip-cikti-p341741",
+        "description": "Ümit Dikbayır 'Nimet Abla'ya rakip çıktı",
+        "source": "Sözcü",
+        "published": "2026-08-02T13:48:57+03:00"
+      },
+      {
+        "title": "Etimesgut Belediye Başkanı Beşikçioğlu'nun ifadesi ortaya çıktı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-etimesgut-belediye-baskani-besikcioglunun-ifadesi-ortaya-cikti-1735640",
+        "description": "Etimesgut Belediyesine yönelik \"ihaleye fesat karıştırma\", \"irtikap\" ve \"suç işlemek amacıyla örgüt kurma\" suçlamaları kapsamında düzenlenen operasyonda gözaltına alınan Belediye Başkanı Erdal Beşikçioğlu'nun ifadesi ortaya çıktı.",
         "source": "NTV",
-        "published": "2026-08-02T12:06:13+03:00"
+        "published": "2026-08-02T13:42:50+03:00"
+      },
+      {
+        "title": "Çerçeve yasa için kritik hafta. Düzenlemede af anlamına gelebilecek hükümler olmayacak",
+        "link": "https://www.ntv.com.tr/turkiye/cerceve-yasa-icin-kritik-hafta-duzenlemede-af-anlamina-gelebilecek-hukumler-olmayacak-1735642",
+        "description": "Terörsüz Türkiye süreci için hazırlanan yasal düzenlemede kritik haftaya giriliyor. Çerçeve yasanın yeni haftada Meclis'e sunulması bekleniyor.",
+        "source": "NTV",
+        "published": "2026-08-02T13:36:20+03:00"
+      },
+      {
+        "title": "Didem Balçın ve Rojda Demirer şehirden kaçtı: İstanbul'un yanı başında karavanda kız kıza kamp yaptı",
+        "link": "https://www.sozcu.com.tr/unlu-oyuncular-sehirden-kacti-istanbul-un-yani-basinda-karavanli-mangalli-kiz-kiza-kamp-p341726",
+        "description": "Didem Balçın ve Rojda Demirer şehirden kaçtı: İstanbul'un yanı başında karavanda kız kıza kamp yaptı",
+        "source": "Sözcü",
+        "published": "2026-08-02T13:12:58+03:00"
+      },
+      {
+        "title": "Fotoğraf çekerken Fırat Nehri'ne düşen kadın hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/fotograf-cekerken-firat-nehrine-dusen-kadin-hayatini-kaybetti-p341715",
+        "description": "Fotoğraf çekerken Fırat Nehri'ne düşen kadın hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-08-02T13:10:02+03:00"
+      },
+      {
+        "title": "Ekmek parası için binlerce kilometre yol geldiler. 7 Ağustos için bekliyorlar",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-ekmek-parasi-icin-binlerce-kilometre-yol-geldiler-7-agustos-icin-bekliyorlar-1735638",
+        "description": "Karadeniz'de fındık hasadına günler kala, Doğu ve Güneydoğu Anadolu'dan gelen mevsimlik tarım işçileri Zonguldak'ın Alaplı ilçesinde çadırlarını kurmaya başladı. 7 Ağustos'ta başlayacak hasadı bekleyen işçiler, umutlarını bu sezonun bereketine...",
+        "source": "NTV",
+        "published": "2026-08-02T12:55:37+03:00"
+      },
+      {
+        "title": "Bunu yapana adada konaklama ve yemek bedava: Eylül'de başvurular başlıyor",
+        "link": "https://www.sozcu.com.tr/bunu-yapana-adada-konaklama-ve-yemek-bedava-eylul-de-basvurular-basliyor-p341734",
+        "description": "Bunu yapana adada konaklama ve yemek bedava: Eylül'de başvurular başlıyor",
+        "source": "Sözcü",
+        "published": "2026-08-02T12:54:54+03:00"
+      },
+      {
+        "title": "Altay Bayındır transferde ters köşe yaptı! Yeni adresi şaşırttı",
+        "link": "https://www.sozcu.com.tr/altay-bayindir-transferde-ters-kose-yapti-yeni-adresi-sasirtti-p341733",
+        "description": "Altay Bayındır transferde ters köşe yaptı! Yeni adresi şaşırttı",
+        "source": "Sözcü",
+        "published": "2026-08-02T12:53:16+03:00"
+      },
+      {
+        "title": "Muhtemel Aşk final mi yapacak? Hayal Köseoğlu'ndan açıklama geldi",
+        "link": "https://www.sozcu.com.tr/muhtemel-ask-final-mi-yapacak-hayal-koseoglu-ndan-aciklama-geldi-p341731",
+        "description": "Muhtemel Aşk final mi yapacak? Hayal Köseoğlu'ndan açıklama geldi",
+        "source": "Sözcü",
+        "published": "2026-08-02T12:42:55+03:00"
+      },
+      {
+        "title": "18 yaş altına müebbet hapis geliyor, çocuk suçluya ceza artıyor. Yeni düzenleme için gözler Meclis'te",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-18-yas-altina-muebbet-hapis-geliyor-cocuk-sucluya-ceza-artiyor-yeni-duzenleme-icin-gozler-mecliste-1735633",
+        "description": "TBMM Genel Kurulu'nda, suça sürüklenen çocuklara ilişkin düzenlemeleri içeren kanun teklifinin görüşmelerine başlanacak, bir uluslararası anlaşma ele alınacak.",
+        "source": "NTV",
+        "published": "2026-08-02T12:40:44+03:00"
+      },
+      {
+        "title": "ABD kendi üretmediği robot süpürgeleri yasaklıyor: Yoksa şehir efsanesi gerçek mi?",
+        "link": "https://www.sozcu.com.tr/abd-kendi-uretmedigi-robot-supurgeleri-yasakliyor-yoksa-sehir-efsanesi-gercek-mi-p341730",
+        "description": "ABD kendi üretmediği robot süpürgeleri yasaklıyor: Yoksa şehir efsanesi gerçek mi?",
+        "source": "Sözcü",
+        "published": "2026-08-02T12:36:21+03:00"
+      },
+      {
+        "title": "Kahreden an: Yangın şokunun etkisiyle hareket bile edemiyor",
+        "link": "https://www.ntv.com.tr/turkiye/video-kahreden-an-yangin-sokunun-etkisiyle-hareket-bile-edemiyor-1735632",
+        "description": "Balıkesir'in Susurluk ilçesinde çıkan yangında alevler bazı ahırlara da sıçradı, çok sayıda hayvan telef oldu. NTV ekibinden Baran Bila ile kameraman Cüneyt Ali Horozal, yanan bölgede yaptıkları inceleme sırasında hala hayatta olan hayvanlara...",
+        "source": "NTV",
+        "published": "2026-08-02T12:36:04+03:00"
+      },
+      {
+        "title": "MHP Genel Başkanı Devlet Bahçeli: Çerçeve yasaya destek verilmeli",
+        "link": "https://www.ntv.com.tr/turkiye/mhp-genel-baskani-devlet-bahceli-cerceve-yasaya-destek-verilmeli-1735629",
+        "description": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, terörsüz Türkiye süreci kapsamında hayata geçirilecek yasal düzenlemeye tam destek verilmesi çağrısında bulundu.",
+        "source": "NTV",
+        "published": "2026-08-02T12:24:28+03:00"
+      },
+      {
+        "title": "Güllü'ye roman havasıyla tuzak kurmuşlar. Şüpheli ölümde Tuğyan Ülkem Gülter'e istenen ceza belli oldu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-gulluye-roman-havasiyla-tuzak-kurmuslar-supheli-olumde-tugyan-ulkem-gultere-istenen-ceza-belli-oldu-1735618",
+        "description": "Şarkıcı Güllü'nün şüpheli ölümünde iddianamede hazırlandı. Baş şüpheli konumunda yer alan kızı Tuğyan Ülkem Gülter'e istenen ceza belli olurken iddianamede dikkat çekici ayrıntılar da yer aldı.",
+        "source": "NTV",
+        "published": "2026-08-02T12:23:38+03:00"
+      },
+      {
+        "title": "Aydın, Balıkesir ve İzmir yangınlarında son durum. Bakan Yumaklı paylaştı: \"Tamamen kontrol altında\"",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-aydin-balikesir-ve-izmir-yanginlarinda-son-durum-bakan-yumakli-paylasti-tamamen-kontrol-altinda-1735621",
+        "description": "Aydın, Balıkesir ve İzmir başta olmak üzere 29 Temmuz'dan bu yana ülke genelinde etkili olan yangınların tamamı havadan ve karadan yapılan müdahalelerle kontrol altına alındı.",
+        "source": "NTV",
+        "published": "2026-08-02T12:22:54+03:00"
+      },
+      {
+        "title": "Güneş ve ay peş peşe tutulacak. TÜBİTAK saat verdi, biri Türkiye’den izlenebilecek",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-gunes-ve-ay-pes-pese-tutulacak-tubitak-saat-verdi-biri-turkiyeden-izlenebilecek-1735622",
+        "description": "Ağustos 2026'da gökyüzü tutkunlarını ve bilim dünyasını heyecanlandıran iki astronomi olayı peş peşe yaşanacak. TÜBİTAK Türkiye Ulusal Gözlemevleri tarafından hazırlanan 2026 Gök Olayları Yıllığı'na göre, 12 Ağustos'ta tam Güneş tutulması, 28...",
+        "source": "NTV",
+        "published": "2026-08-02T12:22:46+03:00"
+      },
+      {
+        "title": "Çalı kılığındaki polis 74 araca ceza yağdırdı",
+        "link": "https://www.sozcu.com.tr/cali-kiligindaki-polis-74-araca-ceza-yagdirdi-p341725",
+        "description": "Çalı kılığındaki polis 74 araca ceza yağdırdı",
+        "source": "Sözcü",
+        "published": "2026-08-02T12:09:49+03:00"
       },
       {
         "title": "Meclis'e sunulan sıra dışı teklif: \"Ankara yazlık, İstanbul kışlık başkent olsun\"",
@@ -581,67 +693,11 @@
         "published": "2026-08-02T12:05:48+03:00"
       },
       {
-        "title": "Resmi Gazete'de bugün (2 Ağustos 2026 Resmi Gazete kararları)",
-        "link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-2-agustos-2026-resmi-gazete-kararlari-1735583",
-        "description": "Resmi Gazete'de 2 Ağustos 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 2 Ağustos 2026 tarihli ve 33328 Sayılı Resmi Gazete ayrıntıları.",
-        "source": "NTV",
-        "published": "2026-08-02T11:51:47+03:00"
-      },
-      {
-        "title": "Güneş ve ay peş peşe tutulacak. TÜBİTAK saat verdi, biri Türkiye’den izlenebilecek",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-gunes-ve-ay-pes-pese-tutulacak-tubitak-saat-verdi-biri-turkiyeden-izlenebilecek-1735622",
-        "description": "Ağustos 2026'da gökyüzü tutkunlarını ve bilim dünyasını heyecanlandıran iki astronomi olayı peş peşe yaşanacak. TÜBİTAK Türkiye Ulusal Gözlemevleri tarafından hazırlanan 2026 Gök Olayları Yıllığı'na göre, 12 Ağustos'ta tam Güneş tutulması, 28...",
-        "source": "NTV",
-        "published": "2026-08-02T11:46:14+03:00"
-      },
-      {
-        "title": "Meteoroloji il il uyardı. Eyyam-ı bahur sıcakları geliyor, Türkiye kavrulacak",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-meteoroloji-il-il-uyardi-eyyam-i-bahur-sicaklari-geliyor-turkiye-kavrulacak-1735607",
-        "description": "Eyyam-ı bahur sıcaklarının etkisi altına girmesi beklenen Türkiye'de termometrelerin 40 derecenin üzerine çıkacağı ifade ediliyor. Yeni haftada hava nasıl olacak, İstanbul haftalık hava durumu raporunda son durum nasıl?",
-        "source": "NTV",
-        "published": "2026-08-02T11:44:28+03:00"
-      },
-      {
-        "title": "Aydın, Balıkesir ve İzmir yangınlarında son durum. Bakan Yumaklı paylaştı: \"Tamamen kontrol altında\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-aydin-balikesir-ve-izmir-yanginlarinda-son-durum-bakan-yumakli-paylasti-tamamen-kontrol-altinda-1735621",
-        "description": "Aydın, Balıkesir ve İzmir başta olmak üzere 29 Temmuz'dan bu yana ülke genelinde etkili olan yangınların tamamı havadan ve karadan yapılan müdahalelerle kontrol altına alındı.",
-        "source": "NTV",
-        "published": "2026-08-02T11:43:05+03:00"
-      },
-      {
-        "title": "Ses kayıtları çözülünce ortaya çıktı! Güllü'nün ölümünde şoke eden detaylar",
-        "link": "https://www.sozcu.com.tr/ses-kayitlari-cozulunce-ortaya-cikti-gullu-nun-olumunde-soke-eden-detaylar-p341705",
-        "description": "Ses kayıtları çözülünce ortaya çıktı! Güllü'nün ölümünde şoke eden detaylar",
-        "source": "Sözcü",
-        "published": "2026-08-02T11:42:15+03:00"
-      },
-      {
         "title": "Aziz Yıldırım'ın 'bu hafta içinde bitiririz' dediği forvetin kim olduğu ortaya çıktı",
         "link": "https://www.sozcu.com.tr/aziz-yildirim-in-bu-hafta-icinde-bitiririz-dedigi-forvetin-kim-oldugu-ortaya-cikti-p341711",
         "description": "Aziz Yıldırım'ın 'bu hafta içinde bitiririz' dediği forvetin kim olduğu ortaya çıktı",
         "source": "Sözcü",
         "published": "2026-08-02T11:36:46+03:00"
-      },
-      {
-        "title": "Biran Damla Yılmaz'dan dizi setleriyle ilgili açıklama: 'İki gün iznim bile yok'",
-        "link": "https://www.sozcu.com.tr/biran-damla-yilmaz-dan-dizi-setleriyle-ilgili-aciklama-iki-gun-iznim-bile-yok-p341710",
-        "description": "Biran Damla Yılmaz'dan dizi setleriyle ilgili açıklama: 'İki gün iznim bile yok'",
-        "source": "Sözcü",
-        "published": "2026-08-02T11:29:54+03:00"
-      },
-      {
-        "title": "Icardi'yi yıkan haber mahkemeden geldi!",
-        "link": "https://www.sozcu.com.tr/icardi-yi-yikan-haber-mahkemeden-geldi-p341709",
-        "description": "Icardi'yi yıkan haber mahkemeden geldi!",
-        "source": "Sözcü",
-        "published": "2026-08-02T11:28:42+03:00"
-      },
-      {
-        "title": "Güllü'ye roman havasıyla tuzak kurmuşlar. Şüpheli ölümde Tuğyan Ülkem Gülter'e istenen ceza belli oldu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-gulluye-roman-havasiyla-tuzak-kurmuslar-supheli-olumde-tugyan-ulkem-gultere-istenen-ceza-belli-oldu-1735618",
-        "description": "Şarkıcı Güllü'nün şüpheli ölümünde iddianamede hazırlandı. Baş şüpheli konumunda yer alan kızı Tuğyan Ülkem Gülter'e istenen ceza belli olurken iddianamede dikkat çekici ayrıntılar da yer aldı.",
-        "source": "NTV",
-        "published": "2026-08-02T11:21:25+03:00"
       },
       {
         "title": "Cezaevinden çıkıp otomobil çaldı, yakalanınca savunması pes dedirtti",
@@ -651,60 +707,18 @@
         "published": "2026-08-02T11:19:29+03:00"
       },
       {
-        "title": "Gören İsviçre sanıyor ama Türkiye'de: Berrak suyuyla ziyaretçilerini büyülüyor",
-        "link": "https://www.sozcu.com.tr/goren-isvicre-saniyor-ama-turkiye-de-berrak-suyuyla-ziyaretcilerini-buyuluyor-p341706",
-        "description": "Gören İsviçre sanıyor ama Türkiye'de: Berrak suyuyla ziyaretçilerini büyülüyor",
-        "source": "Sözcü",
-        "published": "2026-08-02T11:18:22+03:00"
+        "title": "Saat başı bir dakika hareket etmek, uzun süre oturmanın risklerinden korur mu?",
+        "link": "https://www.bbc.com/turkce/articles/ceqeyrq0pe9o?at_medium=RSS&at_campaign=rss",
+        "description": "Günde bir saat egzersiz yapmak, uzun süre oturmanın risklerinden korunmak için yeterli mi? Yeni bilimsel bulgular şaşırtıcı bir gerçeğe işaret ediyor: Aktif kişiler bile hareketsiz yaşamın etkilerinden tamamen kurtulamayabilir. Ancak çözüm,...",
+        "source": "BBC Turkish",
+        "published": "2026-08-02T10:09:12+00:00"
       },
       {
-        "title": "Geldikleri gibi dönüyorlar ama gittikleri gibi karşılanmıyorlar",
-        "link": "https://www.sozcu.com.tr/geldikleri-gibi-donuyorlar-ama-gittikleri-gibi-karsilanmiyorlar-p341702",
-        "description": "Geldikleri gibi dönüyorlar ama gittikleri gibi karşılanmıyorlar",
-        "source": "Sözcü",
-        "published": "2026-08-02T11:04:35+03:00"
-      },
-      {
-        "title": "Bankacılık devi UBS duyurdu: Altını yeniden uçuracak iki önemli gelişme!",
-        "link": "https://www.sozcu.com.tr/bankacilik-devi-ubs-duyurdu-altini-yeniden-ucuracak-iki-onemli-gelisme-p341701",
-        "description": "Bankacılık devi UBS duyurdu: Altını yeniden uçuracak iki önemli gelişme!",
-        "source": "Sözcü",
-        "published": "2026-08-02T11:03:18+03:00"
-      },
-      {
-        "title": "Şahane Pazar 25 yıl sonra geri dönüyor: Uygur Kardeşler efsane programı sahneye taşıyor",
-        "link": "https://www.sozcu.com.tr/sahane-pazar-25-yil-sonra-geri-donuyor-uygur-kardesler-efsane-programi-sahneye-tasiyor-p341700",
-        "description": "Şahane Pazar 25 yıl sonra geri dönüyor: Uygur Kardeşler efsane programı sahneye taşıyor",
-        "source": "Sözcü",
-        "published": "2026-08-02T10:54:37+03:00"
-      },
-      {
-        "title": "Bankalarda unutulan paralar artık anında görülebilecek: e-Devlet'te yeni dönem",
-        "link": "https://www.sozcu.com.tr/bankalarda-unutulan-paralar-artik-aninda-gorulebilecek-e-devlet-te-yeni-donem-p341698",
-        "description": "Bankalarda unutulan paralar artık anında görülebilecek: e-Devlet'te yeni dönem",
-        "source": "Sözcü",
-        "published": "2026-08-02T10:53:59+03:00"
-      },
-      {
-        "title": "Çatıda mahsur kalan kediyi ütü masasıyla kurtardılar",
-        "link": "https://www.ntv.com.tr/turkiye/video-catida-mahsur-kalan-kediyi-utu-masasiyla-kurtardilar-1735600",
-        "description": "Kars'ta 6 katlı binanın çatısında mahsur kalan kedi, vatandaşların evlerinin penceresinden çatıya uzattıkları ütü masasıyla kurtarıldı.",
-        "source": "NTV",
-        "published": "2026-08-02T09:19:43+03:00"
-      },
-      {
-        "title": "40 yıllık emekleri kül oldu, kızlarına sığındılar. Alevler bir evi yok etti",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-40-yillik-emekleri-kul-oldu-kizlarina-sigindilar-alevler-bir-evi-yok-etti-1735602",
-        "description": "Hatay'ın Antakya ilçesinde yaşanan yangında Ali ve Hatice Aydın çiftinin 40 yıllık yuvası küle döndü. Yangında can kaybı yaşanmazken, yaşlı kadının yuvasından geriye camının önünü renklendiren çiçekleri kaldı.",
-        "source": "NTV",
-        "published": "2026-08-02T09:19:33+03:00"
-      },
-      {
-        "title": "Düğünde çıkan yangına aldırış etmeden halaya devam ettiler",
-        "link": "https://www.ntv.com.tr/turkiye/video-dugunde-cikan-yangina-aldiris-etmeden-halaya-devam-ettiler-1735598",
-        "description": "Hatay'da düğünde havaya atılan havai fişeklerden çıktığı düşünülen yangında otluk alandan yükselen alevler düğün salonunun çatısına sıçradı. Düğünün devam ettiği sırada yaşanan yangın itfaiye ekiplerinin hızlı müdahalesiyle kontrol altına alınırken,...",
-        "source": "NTV",
-        "published": "2026-08-02T09:13:32+03:00"
+        "title": "Gülistan Doku soruşturması: Tutuklu sayısı 28'e yükseldi",
+        "link": "https://www.bbc.com/turkce/articles/cy8mez9g777o?at_medium=RSS&at_campaign=rss",
+        "description": "Gülistan Doku soruşturmasıyla bağlantılı olarak gözaltına alınan polislerden üçü daha tutuklandı. Böylece soruşturmada tutuklu sayısı 28'e yükseldi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-02T09:50:28+00:00"
       },
       {
         "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 55 kişi adliyeye sevk edildi",
@@ -749,20 +763,6 @@
         "published": "2026-08-01T14:21:18+00:00"
       },
       {
-        "title": "İtalya'nın 'İspanya ile Schengen'i askıya alma' kararı ne anlama geliyor?",
-        "link": "https://www.bbc.com/turkce/articles/cg4dx7zqzy9o?at_medium=RSS&at_campaign=rss",
-        "description": "İspanya'nın Kuzey Afrika'daki toprağı Ceuta'ya Fas'tan on binlerce kişinin geçmesinin ardından İtalya'nın İspanya ile \"Schengen serbest dolaşım rejimini geçici olarak askıya alma\" kararı tartışmalara neden oldu. Bu tedbirin Ceuta vakasında ne amaca...",
-        "source": "BBC Turkish",
-        "published": "2026-08-01T13:58:10+00:00"
-      },
-      {
-        "title": "Batı Şeria'da İsrailli yerleşimci: 'Tanrı bizi seçti, Filistinlilere saldırılar haklı bir intikam'",
-        "link": "https://www.bbc.com/turkce/articles/cj03y3115d8o?at_medium=RSS&at_campaign=rss",
-        "description": "İşgal altındaki Batı Şeria'nın derinliklerinde yer alan İsraillilerin yasa dışı yerleşimlerinden Havat Gilad, son dönemde Filistinlilere yönelik saldırılarla tekrar gündemde. Aşırılık yanlısı İsrailli yerleşimcilerin önderi, bu bölgenin kendilerine...",
-        "source": "BBC Turkish",
-        "published": "2026-08-01T11:52:02+00:00"
-      },
-      {
         "title": "'Bu gezegenin gerçek hükümdarı biz değiliz': Dünya'nın derinliklerinde kol gezen gizemli şeytan solucanları",
         "link": "https://www.bbc.com/turkce/articles/cm2gzrjm121o?at_medium=RSS&at_campaign=rss",
         "description": "Dünya'nın derinliklerinde hiçbir canlının yaşayamayacağını düşünüyorduk. Yanılmışız.",
@@ -785,7 +785,7 @@
   },
   "weather": {
     "condition": "Açık",
-    "temp": "+65°F",
+    "temp": "+64°F",
     "wind": "↓4mph",
     "humidity": "91%"
   }
