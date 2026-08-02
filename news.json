@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-02T15:37:34.959913+00:00",
+  "updated_at": "2026-08-02T16:58:01.085858+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+        "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch",
+        "published": "2026-08-02T16:05:00+00:00"
+      },
+      {
+        "title": "MacBook Air Stokları Tükendi: Apple’ın Stratejisi Ne?",
+        "link": "https://shiftdelete.net/macbook-air-stoklari-tukendi-applein-stratejisi-ne",
+        "description": "Apple, MacBook Air modellerinde yaşanan ciddi stok sorunu nedeniyle satış stratejisini değiştiriyor. M6 işlemcili yeni modeller öncesi son durum.",
+        "source": "ShiftDelete",
+        "published": "2026-08-02T16:00:00+00:00"
+      },
+      {
+        "title": "How the words we teach English language learners changed",
+        "link": "https://pudding.cool/2026/07/essential-words/",
+        "description": "Article URL: https://pudding.cool/2026/07/essential-words/ Comments URL: https://news.ycombinator.com/item?id=49145590 Points: 57 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-08-02T15:41:08+00:00"
+      },
       {
         "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
         "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
@@ -17,9 +38,9 @@
         "published": "2026-08-02T15:00:00+00:00"
       },
       {
-        "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+        "title": "A Rant About “Technology” (2005)",
         "link": "https://www.ursulakleguin.com/a-rant-about-technology",
-        "description": "Article URL: https://www.ursulakleguin.com/a-rant-about-technology Comments URL: https://news.ycombinator.com/item?id=49145201 Points: 53 # Comments: 13",
+        "description": "Article URL: https://www.ursulakleguin.com/a-rant-about-technology Comments URL: https://news.ycombinator.com/item?id=49145201 Points: 89 # Comments: 46",
         "source": "HackerNews",
         "published": "2026-08-02T14:51:18+00:00"
       },
@@ -40,16 +61,23 @@
       {
         "title": "Twenty Years of RISC OS Open",
         "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-        "description": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 69 # Comments: 10",
+        "description": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 92 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-08-02T12:36:07+00:00"
       },
       {
         "title": "F*: A general-purpose proof-oriented programming language",
         "link": "https://fstar-lang.org/",
-        "description": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 47 # Comments: 13",
+        "description": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 77 # Comments: 30",
         "source": "HackerNews",
         "published": "2026-08-02T12:31:16+00:00"
+      },
+      {
+        "title": "Xbox prices are increasing by up to €200 or £170",
+        "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+        "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The...",
+        "source": "The Verge",
+        "published": "2026-08-02T12:18:38-04:00"
       },
       {
         "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -68,16 +96,9 @@
       {
         "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
         "link": "https://meshdiff.com/",
-        "description": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 102 # Comments: 12",
+        "description": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 128 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-02T11:34:41+00:00"
-      },
-      {
-        "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-        "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-        "description": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes Comments URL: https://news.ycombinator.com/item?id=49143414 Points: 227 # Comments: 198",
-        "source": "HackerNews",
-        "published": "2026-08-02T11:24:20+00:00"
       },
       {
         "title": "Show HN: Fuse – statically typed functional programming language",
@@ -85,13 +106,6 @@
         "description": "Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code....",
         "source": "HackerNews",
         "published": "2026-08-02T11:23:56+00:00"
-      },
-      {
-        "title": "I made a Promise-aware debounce and throttle library for TypeScript",
-        "link": "https://github.com/nyvexis1/temporize",
-        "description": "Article URL: https://github.com/nyvexis1/temporize Comments URL: https://news.ycombinator.com/item?id=49143304 Points: 13 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-08-02T11:07:56+00:00"
       },
       {
         "title": "OpenAI’dan Yeni Model: Astra Yapay Zeka Modelleri Geliyor",
@@ -103,16 +117,23 @@
       {
         "title": "US Treasury undertakes historic intervention in yen market",
         "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-        "description": "Article URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8 Comments URL: https://news.ycombinator.com/item?id=49143188 Points: 116 # Comments: 71",
+        "description": "Article URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8 Comments URL: https://news.ycombinator.com/item?id=49143188 Points: 152 # Comments: 95",
         "source": "HackerNews",
         "published": "2026-08-02T10:46:28+00:00"
       },
       {
         "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
         "link": "https://github.com/kamalfarahani/katharos",
-        "description": "Article URL: https://github.com/kamalfarahani/katharos Comments URL: https://news.ycombinator.com/item?id=49143179 Points: 19 # Comments: 2",
+        "description": "Article URL: https://github.com/kamalfarahani/katharos Comments URL: https://news.ycombinator.com/item?id=49143179 Points: 24 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-08-02T10:45:11+00:00"
+      },
+      {
+        "title": "Rust All Hands 2026 Retrospective",
+        "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+        "description": "Article URL: https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/ Comments URL: https://news.ycombinator.com/item?id=49143096 Points: 47 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-08-02T10:33:26+00:00"
       },
       {
         "title": "Microsoft Piyasa Değerini Bir Günde 450 Milyar Dolar Artırdı",
@@ -148,13 +169,6 @@
         "description": "Yapay zeka şirketleri, eğitim verisi elde etmek için 2022 öncesi basılmış milyonlarca kitabı dijitalleştirme sürecinde yok ediyor.",
         "source": "ShiftDelete",
         "published": "2026-08-02T08:00:00+00:00"
-      },
-      {
-        "title": "Microsoft Word’de Güvenlik Açığı: Copilot Tehlikede",
-        "link": "https://shiftdelete.net/microsoft-wordde-guvenlik-acigi-copilot-tehlikede",
-        "description": "Microsoft Word belgelerine gizlenen komutlar Copilot'ı tehdit ediyor. İşte Copilot'ın dosyaları sessizce değiştirmesine yol açan güvenlik açığı.",
-        "source": "ShiftDelete",
-        "published": "2026-08-02T07:00:00+00:00"
       },
       {
         "title": "Inside the London hacker house taking a stand against founder burnout",
@@ -225,13 +239,6 @@
         "description": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
         "source": "TechCrunch",
         "published": "2026-08-01T14:00:00+00:00"
-      },
-      {
-        "title": "What’s the best handheld mini fan?",
-        "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-        "description": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-        "source": "TechCrunch",
-        "published": "2026-08-01T13:36:54+00:00"
       },
       {
         "title": "Spider-Man: Brand New Day leak racks up millions of views",
@@ -339,13 +346,6 @@
         "published": "2026-07-31T14:40:27-04:00"
       },
       {
-        "title": "The Verge’s 2026 back-to-school shopping guide",
-        "link": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-        "description": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight...",
-        "source": "The Verge",
-        "published": "2026-07-30T11:28:25-04:00"
-      },
-      {
         "title": "Foldables are sort of boring now — and that’s great news for Apple",
         "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
         "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The...",
@@ -354,6 +354,34 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+        "source": "BBC News",
+        "published": "2026-08-02T16:45:03+00:00"
+      },
+      {
+        "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+        "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+        "description": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+        "source": "BBC News",
+        "published": "2026-08-02T16:37:02+00:00"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "source": "BBC News",
+        "published": "2026-08-02T15:50:59+00:00"
+      },
+      {
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "source": "BBC News",
+        "published": "2026-08-02T15:48:00+00:00"
+      },
       {
         "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
         "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
@@ -369,18 +397,18 @@
         "published": "2026-08-02T14:15:07+00:00"
       },
       {
+        "title": "Three in hospital after fire and crush at festival in London",
+        "link": "https://www.bbc.co.uk/news/articles/c05q964n4llo?at_medium=RSS&at_campaign=rss",
+        "description": "Ghana Party in the Park organisers called the day \"difficult\" and \"deeply upsetting\".",
+        "source": "BBC News",
+        "published": "2026-08-02T13:36:15+00:00"
+      },
+      {
         "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
         "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
         "description": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about...",
         "source": "The Guardian",
         "published": "2026-08-02T13:11:56+00:00"
-      },
-      {
-        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-        "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-        "description": "The vessel with at least 250 people on board caught fire off Madura island.",
-        "source": "BBC News",
-        "published": "2026-08-02T11:49:40+00:00"
       },
       {
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -409,13 +437,6 @@
         "description": "An 18-month investigation by The Seattle Times, KUOW and NPR's Embedded podcast and a review of more than a dozen videos from the night of the shooting reveal the most comprehensive view to date of how the chaotic scene unfolded. And they show how a...",
         "source": "NPR",
         "published": "2026-08-02T08:00:00-04:00"
-      },
-      {
-        "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-        "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-        "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-        "source": "BBC News",
-        "published": "2026-08-02T07:58:51+00:00"
       },
       {
         "title": "Why is the rate of premature births so high in this community?",
@@ -460,32 +481,11 @@
         "published": "2026-08-02T03:34:27-04:00"
       },
       {
-        "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-        "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-        "description": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-        "source": "BBC News",
-        "published": "2026-08-01T23:56:19+00:00"
-      },
-      {
-        "title": "Peak District's rebrand deal brings in cash but also criticism",
-        "link": "https://www.bbc.co.uk/news/articles/c235gykvjkjo?at_medium=RSS&at_campaign=rss",
-        "description": "After the Peak District signed a brand deal with Skoda, could other national parks follow suit?",
-        "source": "BBC News",
-        "published": "2026-08-01T23:52:58+00:00"
-      },
-      {
         "title": "Why I don't regret choosing a vasectomy in my 20s",
         "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
         "description": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip.",
         "source": "BBC News",
         "published": "2026-08-01T23:35:28+00:00"
-      },
-      {
-        "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
-        "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-        "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-        "source": "BBC News",
-        "published": "2026-08-01T23:03:35+00:00"
       },
       {
         "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
@@ -567,6 +567,62 @@
     ],
     "turkiye": [
       {
+        "title": "Trabzonspor Avusturya kampını galibiyetle kapattı",
+        "link": "https://www.sozcu.com.tr/trabzonspor-avusturya-kampini-galibiyetle-kapatti-p341791",
+        "description": "Trabzonspor Avusturya kampını galibiyetle kapattı",
+        "source": "Sözcü",
+        "published": "2026-08-02T19:50:58+03:00"
+      },
+      {
+        "title": "Süreç tamamen değişti: Pasaport başvurularında yeni dönem başladı",
+        "link": "https://www.sozcu.com.tr/surec-tamamen-degisti-pasaport-basvurularinda-yeni-donem-basladi-p341790",
+        "description": "Süreç tamamen değişti: Pasaport başvurularında yeni dönem başladı",
+        "source": "Sözcü",
+        "published": "2026-08-02T19:47:36+03:00"
+      },
+      {
+        "title": "Erdal Beşikçioğlu'na tutuklama talebi",
+        "link": "https://www.sozcu.com.tr/etimesgut-sorusturmasinda-44-kisi-hakkinda-karar-p341782",
+        "description": "Erdal Beşikçioğlu'na tutuklama talebi",
+        "source": "Sözcü",
+        "published": "2026-08-02T19:40:18+03:00"
+      },
+      {
+        "title": "Çanakkale'de ormanlık alanda yangın çıktı. Köylere çok yakın bir bölge",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-canakkalede-ormanlik-alanda-yangin-cikti-koylere-cok-yakin-bir-bolge-1735674",
+        "description": "Çanakkale'nin Bayramiç ilçesinde köylere yakın bir bölgede ormanlık alanda çıkan yangına havadan ve karadan müdahale ediliyor. Çanakkale Valiliği'nden yapılan açıklamada yerleşim yerlerine tehdit eden bir durum olmadığı belirtildi.",
+        "source": "NTV",
+        "published": "2026-08-02T19:36:04+03:00"
+      },
+      {
+        "title": "CHP'den istifa eden belediye başkanı AKP'ye mi geçiyor?",
+        "link": "https://www.sozcu.com.tr/hakan-bilecen-akp-ye-mi-geciyor-p341788",
+        "description": "CHP'den istifa eden belediye başkanı AKP'ye mi geçiyor?",
+        "source": "Sözcü",
+        "published": "2026-08-02T19:34:06+03:00"
+      },
+      {
+        "title": "Galatasaray taraftarı transfer bekliyordu! Osimhen sürprizi",
+        "link": "https://www.sozcu.com.tr/galatasaray-taraftari-transfer-bekliyordu-osimhen-surprizi-p341787",
+        "description": "Galatasaray taraftarı transfer bekliyordu! Osimhen sürprizi",
+        "source": "Sözcü",
+        "published": "2026-08-02T19:29:35+03:00"
+      },
+      {
+        "title": "Ustaların yerini 3D yazıcı aldı: Askeri kışlayı 58 günde inşa ettiler",
+        "link": "https://www.sozcu.com.tr/ustalarin-yerini-3d-yazici-aldi-askeri-kislayi-58-gunde-insa-ettiler-p341785",
+        "description": "Ustaların yerini 3D yazıcı aldı: Askeri kışlayı 58 günde inşa ettiler",
+        "source": "Sözcü",
+        "published": "2026-08-02T19:04:30+03:00"
+      },
+      {
+        "title": "Değersiz sandıkları milyonlarca tonluk yığın altın kaynağına dönüştü",
+        "link": "https://www.sozcu.com.tr/degersiz-sandiklari-milyonlarca-tonluk-yigin-altin-kaynagina-donustu-p341781",
+        "description": "Değersiz sandıkları milyonlarca tonluk yığın altın kaynağına dönüştü",
+        "source": "Sözcü",
+        "published": "2026-08-02T18:42:05+03:00"
+      },
+      {
         "title": "2026'nın en sıcak günleri geliyor... İstanbul'da 40 derece alarmı!",
         "link": "https://www.sozcu.com.tr/sicak-hava-alarmi-2026-agustos-p341777",
         "description": "2026'nın en sıcak günleri geliyor... İstanbul'da 40 derece alarmı!",
@@ -602,60 +658,11 @@
         "published": "2026-08-02T17:52:45+03:00"
       },
       {
-        "title": "Milletler Ligi’nde şampiyon Polonya! Son 4 yılda üçüncü şampiyonluk",
-        "link": "https://www.sozcu.com.tr/milletler-ligi-nde-sampiyon-polonya-son-4-yilda-ucuncu-sampiyonluk-p341774",
-        "description": "Milletler Ligi’nde şampiyon Polonya! Son 4 yılda üçüncü şampiyonluk",
-        "source": "Sözcü",
-        "published": "2026-08-02T17:44:06+03:00"
-      },
-      {
-        "title": "Yağmuru sünger gibi emen dev evi çelik kafese kapattılar",
-        "link": "https://www.sozcu.com.tr/yagmuru-sunger-gibi-emen-dev-evi-celik-kafese-kapattilar-p341772",
-        "description": "Yağmuru sünger gibi emen dev evi çelik kafese kapattılar",
-        "source": "Sözcü",
-        "published": "2026-08-02T17:37:05+03:00"
-      },
-      {
-        "title": "Eğer doğru ise ‘yazıklar olsun’ dedirten bir haber: Ormanlar yanarken araçlardan yol ücreti istendi",
-        "link": "https://www.sozcu.com.tr/mugla-orman-yanginlarinda-tartisilacak-iddia-p341770",
-        "description": "Eğer doğru ise ‘yazıklar olsun’ dedirten bir haber: Ormanlar yanarken araçlardan yol ücreti istendi",
-        "source": "Sözcü",
-        "published": "2026-08-02T17:36:25+03:00"
-      },
-      {
-        "title": "Herkes Leao’yu beklerken Fenerbahçe’den ters köşe! Rota İngiltere",
-        "link": "https://www.sozcu.com.tr/herkes-leao-yu-beklerken-fenerbahce-den-ters-kose-rota-ingiltere-p341771",
-        "description": "Herkes Leao’yu beklerken Fenerbahçe’den ters köşe! Rota İngiltere",
-        "source": "Sözcü",
-        "published": "2026-08-02T17:32:14+03:00"
-      },
-      {
-        "title": "Yangın söndürme esnasında facia! İki helikopter havada çarpıştı",
-        "link": "https://www.sozcu.com.tr/yangin-sondurme-esnasinda-facia-iki-helikopter-havada-carpisti-p341768",
-        "description": "Yangın söndürme esnasında facia! İki helikopter havada çarpıştı",
-        "source": "Sözcü",
-        "published": "2026-08-02T17:32:08+03:00"
-      },
-      {
-        "title": "Çanakkale'de ormanlık alanda yangın çıktı. Köylere çok yakın bir bölge",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-canakkalede-ormanlik-alanda-yangin-cikti-koylere-cok-yakin-bir-bolge-1735674",
-        "description": "Çanakkale'nin Bayramiç ilçesinde köylere yakın bir bölgede ormanlık alanda çıkan yangına havadan ve karadan müdahale ediliyor.",
-        "source": "NTV",
-        "published": "2026-08-02T17:29:19+03:00"
-      },
-      {
-        "title": "Sıvada mala dönemi kapanıyor: Harcı artık makine püskürtüyor, usta sadece düzeltiyor",
-        "link": "https://www.sozcu.com.tr/sivada-mala-donemi-kapaniyor-harci-artik-makine-puskurtuyor-usta-sadece-duzeltiyor-p341769",
-        "description": "Sıvada mala dönemi kapanıyor: Harcı artık makine püskürtüyor, usta sadece düzeltiyor",
-        "source": "Sözcü",
-        "published": "2026-08-02T17:22:44+03:00"
-      },
-      {
-        "title": "Taşkın sırasında kaçan 4 balık ülkenin başına bela oldu",
-        "link": "https://www.sozcu.com.tr/taskin-sirasinda-kacan-4-balik-ulkenin-basina-bela-oldu-p341767",
-        "description": "Taşkın sırasında kaçan 4 balık ülkenin başına bela oldu",
-        "source": "Sözcü",
-        "published": "2026-08-02T17:12:43+03:00"
+        "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 44 kişi hakkında tutuklama talebi",
+        "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
+        "description": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan Etimesgut Belediye Başkanı Erdal Beşikçioğlu'nun da yer aldığı 55 kişiden 44'ünün tutuklanması talep edildi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-02T16:39:29+00:00"
       },
       {
         "title": "Bakan Memişoğlu: Anne sütü, hayata atılan en sağlıklı adım",
@@ -742,13 +749,6 @@
         "published": "2026-08-02T09:50:28+00:00"
       },
       {
-        "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 55 kişi adliyeye sevk edildi",
-        "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
-        "description": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan Etimesgut Belediye Başkanı Erdal Beşikçioğlu'nun da yer aldığı 55 kişi adliyeye sevk edildi.",
-        "source": "BBC Turkish",
-        "published": "2026-08-02T08:35:08+00:00"
-      },
-      {
         "title": "'Genital uçuk (herpes) teşhisimden utanmayı reddediyorum'",
         "link": "https://www.bbc.com/turkce/articles/c62e85j4n6jo?at_medium=RSS&at_campaign=rss",
         "description": "Uzmanlara göre herpes tanısının psikolojik etkileri fiziksel belirtilerinden daha ciddi olabilir.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+57°F",
-    "wind": "↑3mph",
-    "humidity": "87%"
+    "temp": "+78°F",
+    "wind": "↓7mph",
+    "humidity": "72%"
   }
 }
