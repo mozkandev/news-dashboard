@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-02T21:55:47.196227+00:00",
+  "updated_at": "2026-08-02T22:57:08.284424+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+        "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+        "description": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/ Comments URL: https://news.ycombinator.com/item?id=49148987 Points: 15 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-02T22:16:34+00:00"
+      },
       {
         "title": "The global memory shortage hits the MacBook Air",
         "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
@@ -17,23 +24,9 @@
         "published": "2026-08-02T20:54:22+00:00"
       },
       {
-        "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-        "link": "https://github.com/0xchasercat/draco/",
-        "description": "Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by...",
-        "source": "HackerNews",
-        "published": "2026-08-02T20:48:45+00:00"
-      },
-      {
-        "title": "AI Mania: From Tulips to Tokens",
-        "link": "https://seanhelvey.com/tools-and-their-tools/",
-        "description": "Article URL: https://seanhelvey.com/tools-and-their-tools/ Comments URL: https://news.ycombinator.com/item?id=49148159 Points: 29 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-08-02T20:48:28+00:00"
-      },
-      {
         "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
         "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-        "description": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 22 # Comments: 8",
+        "description": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 75 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-08-02T20:44:24+00:00"
       },
@@ -47,44 +40,51 @@
       {
         "title": "Sharing an X11 Server Across Hosts with FamilyWild",
         "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-        "description": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 11 # Comments: 1",
+        "description": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 21 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-08-02T20:26:47+00:00"
       },
       {
-        "title": "Let the Machines In",
+        "title": "Let the machines in",
         "link": "https://blog.semenzin.com/let-the-machines-in/",
-        "description": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 12 # Comments: 1",
+        "description": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 20 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-08-02T20:17:16+00:00"
       },
       {
         "title": "Adding Go's Defer to the TypeScript Compiler",
         "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-        "description": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 6 # Comments: 1",
+        "description": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 13 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-08-02T20:12:39+00:00"
       },
       {
         "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
         "link": "https://github.com/paoloanzn/microcodex",
-        "description": "Article URL: https://github.com/paoloanzn/microcodex Comments URL: https://news.ycombinator.com/item?id=49147842 Points: 4 # Comments: 0",
+        "description": "Article URL: https://github.com/paoloanzn/microcodex Comments URL: https://news.ycombinator.com/item?id=49147842 Points: 11 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-02T20:11:35+00:00"
       },
       {
         "title": "TinyNES Review – A Super Niche NES Console",
         "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-        "description": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Comments URL: https://news.ycombinator.com/item?id=49147760 Points: 3 # Comments: 0",
+        "description": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Comments URL: https://news.ycombinator.com/item?id=49147760 Points: 15 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-02T20:01:37+00:00"
       },
       {
         "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
         "link": "https://frogs.vaguespac.es/",
-        "description": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 41 # Comments: 23",
+        "description": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 73 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-08-02T19:42:08+00:00"
+      },
+      {
+        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+        "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+        "description": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2 Comments URL: https://news.ycombinator.com/item?id=49147435 Points: 128 # Comments: 57",
+        "source": "HackerNews",
+        "published": "2026-08-02T19:19:24+00:00"
       },
       {
         "title": "Oppo Find X10 Ultra’nın Kamerası ve Fiyatı Sızdırıldı",
@@ -355,7 +355,7 @@
     ],
     "dunya": [
       {
-        "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts",
+        "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
         "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
         "description": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
         "source": "BBC News",
@@ -567,6 +567,41 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 03 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-03-agustos-2026-1735698",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 03 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-03T01:30:00+03:00"
+      },
+      {
+        "title": "Trump duyurdu: Hürmüz Boğazı için anlaşma sağlandı",
+        "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklama-3-agustos-2026-p341834",
+        "description": "Trump duyurdu: Hürmüz Boğazı için anlaşma sağlandı",
+        "source": "Sözcü",
+        "published": "2026-08-03T01:27:10+03:00"
+      },
+      {
+        "title": "İBB yönetimi el değiştirebilir mi? Kritik senaryoda 10 üye detayı",
+        "link": "https://www.sozcu.com.tr/ibb-yonetimi-el-degistirebilir-mi-p341832",
+        "description": "İBB yönetimi el değiştirebilir mi? Kritik senaryoda 10 üye detayı",
+        "source": "Sözcü",
+        "published": "2026-08-03T01:23:51+03:00"
+      },
+      {
+        "title": "İnşaat kazısında tesadüfen keşfedildi: Toprağın iki metre altında yıllardır gizli kalmış",
+        "link": "https://www.sozcu.com.tr/insaat-kazisinda-tesadufen-kesfedildi-topragin-iki-metre-altinda-yillardir-gizli-kalmis-p341830",
+        "description": "İnşaat kazısında tesadüfen keşfedildi: Toprağın iki metre altında yıllardır gizli kalmış",
+        "source": "Sözcü",
+        "published": "2026-08-03T01:06:55+03:00"
+      },
+      {
+        "title": "Acı haberler peş peşe geldi: İki çift feci şekilde can verdi",
+        "link": "https://www.sozcu.com.tr/traktorun-altinda-kalan-cift-hayatini-kaybetti-p341820",
+        "description": "Acı haberler peş peşe geldi: İki çift feci şekilde can verdi",
+        "source": "Sözcü",
+        "published": "2026-08-03T00:57:17+03:00"
+      },
+      {
         "title": "Okan Buruk: İyi bir kadro kuracağız",
         "link": "https://www.sozcu.com.tr/okan-buruk-iyi-bir-kadro-kuracagiz-p341829",
         "description": "Okan Buruk: İyi bir kadro kuracağız",
@@ -579,13 +614,6 @@
         "description": "Kemal Kılıçdaroğlu, AKP'li isimle birlikte nikah şahitliği yaptı",
         "source": "Sözcü",
         "published": "2026-08-03T00:32:18+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 03 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-03-agustos-2026-1735698",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 03 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-03T00:30:00+03:00"
       },
       {
         "title": "Toprağın altındaki gizli mekanizma keşfedildi: Tohumlar yağmuru duyabiliyormuş",
@@ -637,34 +665,6 @@
         "published": "2026-08-02T23:28:35+03:00"
       },
       {
-        "title": "Gazeteci Ertuğrul Özkök ile TİP vekili Sera Kadıgil hakkında soruşturma başlatıldı",
-        "link": "https://www.sozcu.com.tr/ertugrul-ozkok-ve-sera-kadigil-sorusturma-haberleri-pes-pese-geldi-p341812",
-        "description": "Gazeteci Ertuğrul Özkök ile TİP vekili Sera Kadıgil hakkında soruşturma başlatıldı",
-        "source": "Sözcü",
-        "published": "2026-08-02T23:06:01+03:00"
-      },
-      {
-        "title": "İmamoğlu'ndan AKP'ye geçen belediye başkanlarına tepki",
-        "link": "https://www.sozcu.com.tr/ekrem-imamoglu-x-aciklama-2-agustos-2026-p341819",
-        "description": "İmamoğlu'ndan AKP'ye geçen belediye başkanlarına tepki",
-        "source": "Sözcü",
-        "published": "2026-08-02T22:59:03+03:00"
-      },
-      {
-        "title": "Gol düellosunda kazanan çıkmadı",
-        "link": "https://www.sozcu.com.tr/gol-duellosunda-kazanan-cikmadi-p341818",
-        "description": "Gol düellosunda kazanan çıkmadı",
-        "source": "Sözcü",
-        "published": "2026-08-02T22:58:17+03:00"
-      },
-      {
-        "title": "Selman Öğüt, Sinem Dedetaş'ı hedef aldı; müteahhitlerin sözcülüğüne soyundu",
-        "link": "https://www.sozcu.com.tr/selman-ogut-sinem-dedetas-p341814",
-        "description": "Selman Öğüt, Sinem Dedetaş'ı hedef aldı; müteahhitlerin sözcülüğüne soyundu",
-        "source": "Sözcü",
-        "published": "2026-08-02T22:42:41+03:00"
-      },
-      {
         "title": "\"Laf atma\" kavgasında araya giren kişi öldü. Güvenlik kamerası görüntüleri ortaya çıktı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-laf-atma-kavgasinda-araya-giren-kisi-oldu-guvenlik-kamerasi-goruntuleri-ortaya-cikti-1735692",
         "description": "Bayrampaşa’da Enis Emre C. (38), eşine laf attığını iddia ettiği Raşit Ö. (44) ile tartışmaya başladı. Tartışmanın kısa sürede kavgaya dönüşmesi üzerine Enis Emre C. silahla etrafa rastgele ateş etti. Silahtan çıkan kurşunlardan biri, tarafları...",
@@ -684,6 +684,13 @@
         "description": "Bayrampaşa’da Enis Emre C. (38), eşine laf attığını iddia ettiği Raşit Ö. (44) ile tartışmaya başladı. Tartışmanın kısa sürede kavgaya dönüşmesi üzerine Enis Emre C. silahla etrafa rastgele ateş etti. Silahtan çıkan kurşunlardan biri, tarafları...",
         "source": "NTV",
         "published": "2026-08-02T22:32:37+03:00"
+      },
+      {
+        "title": "Lindsay Clancy davası: Doğum sonrası psikoz mu, cinayet mi?",
+        "link": "https://www.bbc.com/turkce/articles/c2k7z5k2p74o?at_medium=RSS&at_campaign=rss",
+        "description": "ABD'de 35 yaşındaki Lindsay Clancy üç çocuğunu öldürme suçundan yargılanıyor. Dava, kadınların doğum sonrası ruh sağlığını yeniden başlıklara taşıdığı için gündemde.",
+        "source": "BBC Turkish",
+        "published": "2026-08-02T22:03:18+00:00"
       },
       {
         "title": "Samsun’da özel halk otobüsü devrildi. 21 kişi yaralandı",
@@ -735,13 +742,6 @@
         "published": "2026-08-02T11:56:41+00:00"
       },
       {
-        "title": "Saat başı bir dakika hareket etmek, uzun süre oturmanın risklerinden korur mu?",
-        "link": "https://www.bbc.com/turkce/articles/ceqeyrq0pe9o?at_medium=RSS&at_campaign=rss",
-        "description": "Günde bir saat egzersiz yapmak, uzun süre oturmanın risklerinden korunmak için yeterli mi? Yeni bilimsel bulgular şaşırtıcı bir gerçeğe işaret ediyor: Aktif kişiler bile hareketsiz yaşamın etkilerinden tamamen kurtulamayabilir. Ancak çözüm,...",
-        "source": "BBC Turkish",
-        "published": "2026-08-02T10:09:12+00:00"
-      },
-      {
         "title": "Gülistan Doku soruşturması: Tutuklu sayısı 28'e yükseldi",
         "link": "https://www.bbc.com/turkce/articles/cy8mez9g777o?at_medium=RSS&at_campaign=rss",
         "description": "Gülistan Doku soruşturmasıyla bağlantılı olarak gözaltına alınan polislerden üçü daha tutuklandı. Böylece soruşturmada tutuklu sayısı 28'e yükseldi.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+93°F",
-    "wind": "→4mph",
-    "humidity": "36%"
+    "temp": "+87°F",
+    "wind": "↙8mph",
+    "humidity": "55%"
   }
 }
