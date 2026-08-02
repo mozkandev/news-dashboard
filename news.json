@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-08-02T12:10:09.637386+00:00",
+  "updated_at": "2026-08-02T14:08:00.648935+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Windows 11’in Sağ Tık Menüsü Kişiselleştirilebilecek",
+        "link": "https://shiftdelete.net/windows-11in-sag-tik-menusu-kisisellestirilebilecek",
+        "description": "Microsoft, Windows 11'in yavaş sağ tık menüsünü hızlandırmak ve kullanıcıların özelleştirebileceği yeni bir tasarım sunmak için çalışmalara başladı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-02T14:00:00+00:00"
+      },
+      {
+        "title": "Has the New Cocaine Arrived?",
+        "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
+        "description": "Article URL: https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived Comments URL: https://news.ycombinator.com/item?id=49144273 Points: 43 # Comments: 31",
+        "source": "HackerNews",
+        "published": "2026-08-02T13:05:06+00:00"
+      },
+      {
+        "title": "Tesla FSD Kaza Yaptı: Araç İkiye Bölündü",
+        "link": "https://shiftdelete.net/tesla-fsd-kaza-yapti-arac-ikiye-bolundu",
+        "description": "Washington'da FSD modunda ilerleyen bir Tesla Model X, karşı şeride geçerek kaza yaptı ve ikiye ayrıldı. Soruşturma devam ediyor.",
+        "source": "ShiftDelete",
+        "published": "2026-08-02T13:00:00+00:00"
+      },
+      {
+        "title": "Twenty Years of RISC OS Open",
+        "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+        "description": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 40 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-08-02T12:36:07+00:00"
+      },
+      {
+        "title": "F*: A general-purpose proof-oriented programming language",
+        "link": "https://fstar-lang.org/",
+        "description": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 4 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T12:31:16+00:00"
+      },
+      {
+        "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+        "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+        "description": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-02T12:01:00+00:00"
+      },
       {
         "title": "iPhone 17 Pro Max’de GTA 5 Çalıştırdılar: Performans Nasıl?",
         "link": "https://shiftdelete.net/iphone-17-pro-maxde-gta-5-calistirdilar-performans-nasil",
@@ -10,18 +52,32 @@
         "published": "2026-08-02T12:00:00+00:00"
       },
       {
+        "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+        "link": "https://meshdiff.com/",
+        "description": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 80 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-08-02T11:34:41+00:00"
+      },
+      {
         "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
         "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-        "description": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes Comments URL: https://news.ycombinator.com/item?id=49143414 Points: 8 # Comments: 0",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes Comments URL: https://news.ycombinator.com/item?id=49143414 Points: 170 # Comments: 147",
         "source": "HackerNews",
         "published": "2026-08-02T11:24:20+00:00"
       },
       {
-        "title": "Generative AI floods and dilutes the market for books",
-        "link": "https://arxiv.org/abs/2607.20349",
-        "description": "Article URL: https://arxiv.org/abs/2607.20349 Comments URL: https://news.ycombinator.com/item?id=49143289 Points: 15 # Comments: 4",
+        "title": "Show HN: Fuse – statically typed functional programming language",
+        "link": "https://fuselang.org",
+        "description": "Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code....",
         "source": "HackerNews",
-        "published": "2026-08-02T11:06:07+00:00"
+        "published": "2026-08-02T11:23:56+00:00"
+      },
+      {
+        "title": "I made a Promise-aware debounce and throttle library for TypeScript",
+        "link": "https://github.com/nyvexis1/temporize",
+        "description": "Article URL: https://github.com/nyvexis1/temporize Comments URL: https://news.ycombinator.com/item?id=49143304 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-02T11:07:56+00:00"
       },
       {
         "title": "OpenAI’dan Yeni Model: Astra Yapay Zeka Modelleri Geliyor",
@@ -31,18 +87,18 @@
         "published": "2026-08-02T11:00:00+00:00"
       },
       {
-        "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
-        "link": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
-        "description": "Article URL: https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html Comments URL: https://news.ycombinator.com/item?id=49143053 Points: 27 # Comments: 31",
+        "title": "US Treasury undertakes historic intervention in yen market",
+        "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+        "description": "Article URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8 Comments URL: https://news.ycombinator.com/item?id=49143188 Points: 58 # Comments: 30",
         "source": "HackerNews",
-        "published": "2026-08-02T10:25:25+00:00"
+        "published": "2026-08-02T10:46:28+00:00"
       },
       {
-        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "link": "https://publicdomainreview.org/essay/ars-notoria/",
-        "description": "Article URL: https://publicdomainreview.org/essay/ars-notoria/ Comments URL: https://news.ycombinator.com/item?id=49143001 Points: 27 # Comments: 3",
+        "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+        "link": "https://github.com/kamalfarahani/katharos",
+        "description": "Article URL: https://github.com/kamalfarahani/katharos Comments URL: https://news.ycombinator.com/item?id=49143179 Points: 11 # Comments: 1",
         "source": "HackerNews",
-        "published": "2026-08-02T10:18:24+00:00"
+        "published": "2026-08-02T10:45:11+00:00"
       },
       {
         "title": "Microsoft Piyasa Değerini Bir Günde 450 Milyar Dolar Artırdı",
@@ -52,18 +108,11 @@
         "published": "2026-08-02T10:00:00+00:00"
       },
       {
-        "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-        "link": "https://github.com/syncular/syncular",
-        "description": "Article URL: https://github.com/syncular/syncular Comments URL: https://news.ycombinator.com/item?id=49142794 Points: 22 # Comments: 9",
-        "source": "HackerNews",
-        "published": "2026-08-02T09:48:08+00:00"
-      },
-      {
-        "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-        "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-        "description": "Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management. Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently...",
-        "source": "HackerNews",
-        "published": "2026-08-02T09:06:33+00:00"
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were...",
+        "source": "The Verge",
+        "published": "2026-08-02T09:25:24-04:00"
       },
       {
         "title": "Mercedes GLC 400 4Matic alınır mı? Tüm artıları ve eksileri",
@@ -87,34 +136,6 @@
         "published": "2026-08-02T08:00:00+00:00"
       },
       {
-        "title": "Cyberscript",
-        "link": "https://cyberscript.dev",
-        "description": "Article URL: https://cyberscript.dev Comments URL: https://news.ycombinator.com/item?id=49142130 Points: 15 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-08-02T07:58:30+00:00"
-      },
-      {
-        "title": "Mathematics Without Mathematicians",
-        "link": "https://borretti.me/article/mathematics-without-mathematicians",
-        "description": "Article URL: https://borretti.me/article/mathematics-without-mathematicians Comments URL: https://news.ycombinator.com/item?id=49142083 Points: 20 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-08-02T07:47:26+00:00"
-      },
-      {
-        "title": "IBM i (OS/400) the Database Operating System",
-        "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-        "description": "Article URL: https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/ Comments URL: https://news.ycombinator.com/item?id=49141937 Points: 16 # Comments: 9",
-        "source": "HackerNews",
-        "published": "2026-08-02T07:17:49+00:00"
-      },
-      {
-        "title": "I don't recommend Tailwind CSS",
-        "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-        "description": "Article URL: https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/ Comments URL: https://news.ycombinator.com/item?id=49141891 Points: 108 # Comments: 111",
-        "source": "HackerNews",
-        "published": "2026-08-02T07:09:38+00:00"
-      },
-      {
         "title": "Microsoft Word’de Güvenlik Açığı: Copilot Tehlikede",
         "link": "https://shiftdelete.net/microsoft-wordde-guvenlik-acigi-copilot-tehlikede",
         "description": "Microsoft Word belgelerine gizlenen komutlar Copilot'ı tehdit ediyor. İşte Copilot'ın dosyaları sessizce değiştirmesine yol açan güvenlik açığı.",
@@ -127,13 +148,6 @@
         "description": "Microsoft, bileşen krizi nedeniyle Avrupa'da Xbox Series S ve X konsollarının fiyatlarını 200 Euro'ya varan oranlarda artırdı.",
         "source": "ShiftDelete",
         "published": "2026-08-02T06:00:00+00:00"
-      },
-      {
-        "title": "2027’de Geliyor: İşte iPhone Air 2’in Beş Yeni Özelliği",
-        "link": "https://shiftdelete.net/2027de-geliyor-iste-iphone-air-2in-bes-yeni-ozelligi",
-        "description": "Apple'ın 2027 başında tanıtması beklenen iPhone Air 2 modeli hakkındaki ilk detaylar ve beş yeni özellik sızdırıldı.",
-        "source": "ShiftDelete",
-        "published": "2026-08-02T05:00:00+00:00"
       },
       {
         "title": "Inside the London hacker house taking a stand against founder burnout",
@@ -155,13 +169,6 @@
         "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
         "source": "TechCrunch",
         "published": "2026-08-01T19:45:45+00:00"
-      },
-      {
-        "title": "Google Earth’ün Yapay Zeka Özelliği Güvenlik Nedeniyle Kaldırıldı",
-        "link": "https://shiftdelete.net/google-earthun-yapay-zeka-ozelligi-guvenlik-nedeniyle-kaldirildi",
-        "description": "Google, sahte uydu görüntüleri üretilmesine neden olan yapay zeka özelliği Nano Banana 2'yi Google Earth'ten geçici olarak kaldırdı.",
-        "source": "ShiftDelete",
-        "published": "2026-08-01T19:00:00+00:00"
       },
       {
         "title": "Should you still buy your next smartphone — or subscribe to it instead?",
@@ -213,13 +220,6 @@
         "published": "2026-08-01T15:05:00+00:00"
       },
       {
-        "title": "Is this Billboard Hot 100 hit AI slop?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-        "description": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were...",
-        "source": "The Verge",
-        "published": "2026-08-01T14:18:49-04:00"
-      },
-      {
         "title": "Apps that help you break free from doomscrolling and get active",
         "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
         "description": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
@@ -248,6 +248,13 @@
         "published": "2026-08-01T11:23:35-04:00"
       },
       {
+        "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+        "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+        "description": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little...",
+        "source": "The Verge",
+        "published": "2026-08-01T02:07:38-04:00"
+      },
+      {
         "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
         "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
         "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -269,13 +276,6 @@
         "published": "2026-07-31T17:44:33+03:00"
       },
       {
-        "title": "The Mermaid Mask is a perfect vacation murder mystery",
-        "link": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
-        "description": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body...",
-        "source": "The Verge",
-        "published": "2026-07-31T17:42:05-04:00"
-      },
-      {
         "title": "İkinci El Tesla'yı Sıfır Fiyatının Üzerine Koyan Satıcıya Ticaret Bakanlığı 325 Bin TL Ceza Kesti",
         "link": "\n                    https://www.webtekno.com/ikinci-el-tesla-sifir-fiyatinin-uzerine-koyan-saticiya-325-bin-tl-ceza-h221479.html\n                    ",
         "description": "Ticaret Bakanlığı, ikinci el Tesla Model Y aracını üretici firmanın güncel sıfır liste fiyatının üzerinde bir bedelle ilana koyan satıcıya, bir vatandaşın ihbarı üzerine 325 bin TL idari para cezası kesti.",
@@ -288,6 +288,13 @@
         "description": "Samsung’un yaz sonuna doğru tanıtmaya hazırlandığı yeni FE modeli Galaxy S26 FE'nin tüm kamera detayları ortaya çıktı.",
         "source": "Webtekno",
         "published": "2026-07-31T17:17:49+03:00"
+      },
+      {
+        "title": "Is paying artists enough to convince them to embrace AI?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+        "description": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI...",
+        "source": "The Verge",
+        "published": "2026-07-31T17:16:29-04:00"
       },
       {
         "title": "Samsung Galaxy Z Fold 8 Ön Siparişleri Galaxy S26 Serisini Yakaladı",
@@ -332,13 +339,6 @@
         "published": "2026-07-31T15:58:49+03:00"
       },
       {
-        "title": "The OG reading app just got a big update",
-        "link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
-        "description": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading...",
-        "source": "The Verge",
-        "published": "2026-07-31T14:47:21-04:00"
-      },
-      {
         "title": "The Verge’s 2026 back-to-school shopping guide",
         "link": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
         "description": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight...",
@@ -354,6 +354,20 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+        "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+        "description": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about...",
+        "source": "The Guardian",
+        "published": "2026-08-02T13:11:56+00:00"
+      },
+      {
+        "title": "Continued drought could cause shortage of some foods, farmers' union head says",
+        "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+        "description": "NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.",
+        "source": "BBC News",
+        "published": "2026-08-02T12:41:28+00:00"
+      },
       {
         "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
         "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
@@ -381,6 +395,13 @@
         "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
         "source": "BBC News",
         "published": "2026-08-02T10:11:26+00:00"
+      },
+      {
+        "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+        "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+        "description": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: \"Leave NOW! This may be your only notice.\"",
+        "source": "NPR",
+        "published": "2026-08-02T09:35:43-04:00"
       },
       {
         "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
@@ -439,11 +460,11 @@
         "published": "2026-08-01T23:56:19+00:00"
       },
       {
-        "title": "Love Island has a problem, say fans - 'there hasn't been much love'",
-        "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
-        "description": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
+        "title": "Peak District's rebrand deal brings in cash but also criticism",
+        "link": "https://www.bbc.co.uk/news/articles/c235gykvjkjo?at_medium=RSS&at_campaign=rss",
+        "description": "After the Peak District signed a brand deal with Skoda, could other national parks follow suit?",
         "source": "BBC News",
-        "published": "2026-08-01T23:46:48+00:00"
+        "published": "2026-08-01T23:52:58+00:00"
       },
       {
         "title": "Spider-Man fans hail Brand New Day as Holland's best yet",
@@ -474,13 +495,6 @@
         "published": "2026-08-01T22:31:13+00:00"
       },
       {
-        "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-        "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-        "source": "BBC News",
-        "published": "2026-08-01T22:23:20+00:00"
-      },
-      {
         "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
         "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
         "description": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000...",
@@ -509,13 +523,6 @@
         "published": "2026-08-01T16:27:32-04:00"
       },
       {
-        "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-        "description": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
-        "source": "NPR",
-        "published": "2026-08-01T14:33:27-04:00"
-      },
-      {
         "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
         "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
         "description": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory...",
@@ -535,13 +542,6 @@
         "description": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the...",
         "source": "The Guardian",
         "published": "2026-07-31T11:38:46+00:00"
-      },
-      {
-        "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-        "link": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-        "description": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic Republic of...",
-        "source": "The Guardian",
-        "published": "2026-07-31T08:00:08+00:00"
       },
       {
         "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
@@ -567,6 +567,69 @@
     ],
     "turkiye": [
       {
+        "title": "Kızılcık Şerbeti'ne veda eden Feyza Civelek Instagram hesabını kapattı",
+        "link": "https://www.sozcu.com.tr/kizilcik-serbeti-ne-veda-eden-feyza-civelek-instagram-hesabini-kapatti-p341763",
+        "description": "Kızılcık Şerbeti'ne veda eden Feyza Civelek Instagram hesabını kapattı",
+        "source": "Sözcü",
+        "published": "2026-08-02T16:25:39+03:00"
+      },
+      {
+        "title": "Bakan Memişoğlu: Anne sütü, hayata atılan en sağlıklı adım",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-memisoglu-anne-sutu-hayata-atilan-en-saglikli-adim-1735668",
+        "description": "Sağlık Bakanı Kemal Memişoğlu, 334 Emzirme Polikliniğinde ve Aile Sağlığı Merkezlerinde sundukları emzirme danışmanlığı hizmetiyle sadece 2025 yılında 300 bini aşkın vatandaşa emzirme eğitimi verdiklerini belirtti.",
+        "source": "NTV",
+        "published": "2026-08-02T16:16:15+03:00"
+      },
+      {
+        "title": "İstanbul'da bu gece bazı yollar trafiğe kapatılacak: 3-5 Ağustos kapalı yollar ve alternatif güzergahlar",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bu-gece-bazi-yollar-trafige-kapatilacak-3-5-agustos-kapali-yollar-ve-alternatif-guzergahlar-1735665",
+        "description": "15 Temmuz Şehitler Köprüsü’nde gerçekleştirilecek ‘Asırlık Gece’ belgeseli çekimleri nedeniyle 3-5 Ağustos tarihleri arasında gece saatlerinde bazı yollar trafiğe kapatılacak. Düzenleme kapsamında kapatılacak olan yollar ve sürücülerin...",
+        "source": "NTV",
+        "published": "2026-08-02T16:05:57+03:00"
+      },
+      {
+        "title": "Milyonlarca sürücüyü ilgilendiriyor! Kazadan sonra bunu yapmak zorunda değilsiniz!",
+        "link": "https://www.sozcu.com.tr/milyonlarca-surucuyu-ilgilendiriyor-kazadan-sonra-bunu-yapmak-zorunda-degilsiniz-p341762",
+        "description": "Milyonlarca sürücüyü ilgilendiriyor! Kazadan sonra bunu yapmak zorunda değilsiniz!",
+        "source": "Sözcü",
+        "published": "2026-08-02T16:03:42+03:00"
+      },
+      {
+        "title": "Salah için Trabzonspor başkanından son dakika açıklaması",
+        "link": "https://www.sozcu.com.tr/salah-icin-trabzonspor-baskanindan-son-dakika-aciklamasi-p341761",
+        "description": "Salah için Trabzonspor başkanından son dakika açıklaması",
+        "source": "Sözcü",
+        "published": "2026-08-02T15:46:24+03:00"
+      },
+      {
+        "title": "Çerçeve yasa için kritik hafta. Düzenlemede af anlamına gelebilecek hükümler olmayacak",
+        "link": "https://www.ntv.com.tr/turkiye/cerceve-yasa-icin-kritik-hafta-duzenlemede-af-anlamina-gelebilecek-hukumler-olmayacak-1735642",
+        "description": "Terörsüz Türkiye süreci için hazırlanan yasal düzenlemede kritik haftaya giriliyor. Çerçeve yasanın yeni haftada Meclis'e sunulması bekleniyor.",
+        "source": "NTV",
+        "published": "2026-08-02T15:42:20+03:00"
+      },
+      {
+        "title": "Alya'nın ilk aşkı geliyor: Uzak Şehir'e katılan yeni oyuncu belli oldu",
+        "link": "https://www.sozcu.com.tr/alya-nin-ilk-aski-geliyor-uzak-sehir-e-katilan-yeni-oyuncu-belli-oldu-p341760",
+        "description": "Alya'nın ilk aşkı geliyor: Uzak Şehir'e katılan yeni oyuncu belli oldu",
+        "source": "Sözcü",
+        "published": "2026-08-02T15:37:42+03:00"
+      },
+      {
+        "title": "Etimesgut Belediye Başkanı Beşikçioğlu'nun ifadesi ortaya çıktı. \"Behzat Ç.\" iddiasına yanıt verdi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-etimesgut-belediye-baskani-besikcioglunun-ifadesi-ortaya-cikti-behzat-c-iddiasina-yanit-verdi-1735640",
+        "description": "Etimesgut Belediyesine yönelik \"ihaleye fesat karıştırma\", \"irtikap\" ve \"suç işlemek amacıyla örgüt kurma\" suçlamaları kapsamında düzenlenen operasyonda gözaltına alınan Belediye Başkanı Erdal Beşikçioğlu'nun ifadesi ortaya çıktı.",
+        "source": "NTV",
+        "published": "2026-08-02T15:19:42+03:00"
+      },
+      {
+        "title": "16 ilde 44 orman yangınına soruşturma başlatıldı. Bakan Gürlek açıkladı",
+        "link": "https://www.ntv.com.tr/turkiye/16-ilde-44-orman-yanginina-sorusturma-baslatildi-bakan-gurlek-acikladi-1735650",
+        "description": "Adalet Bakanı Gürlek, 1 Haziran'dan itibaren 16 ilde çıkan 44 orman yangınıyla ilgili yürütülen soruşturma kapsamında tespit edilen 29 şüpheliden 6'sının tutuklandığını bildirdi.",
+        "source": "NTV",
+        "published": "2026-08-02T15:12:20+03:00"
+      },
+      {
         "title": "Bakan Güler'den KKTC mesajı: \"Askeri hazırlık durumumuz titizlikle güncellenmektedir\"",
         "link": "https://www.ntv.com.tr/turkiye/bakan-gulerden-kktc-mesaji-askeri-hazirlik-durumumuz-titizlikle-guncellenmektedir-1735656",
         "description": "Milli Savunma Bakanı Yaşar Güler; Kıbrıs adasındaki gelişmelere ilişkin, Türk Silahlı Kuvvetleri'nin (TSK) askeri hazırlık durumunun güncellendiğini açıkladı.",
@@ -581,32 +644,11 @@
         "published": "2026-08-02T15:03:37+03:00"
       },
       {
-        "title": "Şarkıcı Zara yeniden öğrenci oldu: Okuduğu bölümü herkes parmakla gösteriyor",
-        "link": "https://www.sozcu.com.tr/sarkici-zara-yeniden-ogrenci-oldu-okudugu-bolumu-herkes-parmakla-gosteriyor-p341744",
-        "description": "Şarkıcı Zara yeniden öğrenci oldu: Okuduğu bölümü herkes parmakla gösteriyor",
-        "source": "Sözcü",
-        "published": "2026-08-02T15:02:51+03:00"
-      },
-      {
-        "title": "Etimesgut Belediye Başkanı Beşikçioğlu'nun ifadesi ortaya çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-etimesgut-belediye-baskani-besikcioglunun-ifadesi-ortaya-cikti-1735640",
-        "description": "Etimesgut Belediyesine yönelik \"ihaleye fesat karıştırma\", \"irtikap\" ve \"suç işlemek amacıyla örgüt kurma\" suçlamaları kapsamında düzenlenen operasyonda gözaltına alınan Belediye Başkanı Erdal Beşikçioğlu'nun ifadesi ortaya çıktı.",
-        "source": "NTV",
-        "published": "2026-08-02T15:02:12+03:00"
-      },
-      {
         "title": "Dursun Özbek için zor gece! Taraftardan transfer protestosu",
         "link": "https://www.sozcu.com.tr/galatasaray-da-tepki-ihtimali-taraftardan-transfer-protestosu-p341754",
         "description": "Dursun Özbek için zor gece! Taraftardan transfer protestosu",
         "source": "Sözcü",
         "published": "2026-08-02T14:56:48+03:00"
-      },
-      {
-        "title": "Çerçeve yasa için kritik hafta. Düzenlemede af anlamına gelebilecek hükümler olmayacak",
-        "link": "https://www.ntv.com.tr/turkiye/cerceve-yasa-icin-kritik-hafta-duzenlemede-af-anlamina-gelebilecek-hukumler-olmayacak-1735642",
-        "description": "Terörsüz Türkiye süreci için hazırlanan yasal düzenlemede kritik haftaya giriliyor. Çerçeve yasanın yeni haftada Meclis'e sunulması bekleniyor.",
-        "source": "NTV",
-        "published": "2026-08-02T14:39:33+03:00"
       },
       {
         "title": "Taşlı saldırıdan kurtulmak için traktörü grubun üzerine sürdü",
@@ -630,13 +672,6 @@
         "published": "2026-08-02T14:30:20+03:00"
       },
       {
-        "title": "16 ilde 44 orman yangınına soruşturma başlatıldı. Bakan Gürlek açıkladı",
-        "link": "https://www.ntv.com.tr/turkiye/16-ilde-44-orman-yanginina-sorusturma-baslatildi-bakan-gurlek-acikladi-1735650",
-        "description": "Adalet Bakanı Gürlek, 1 Haziran'dan itibaren 16 ilde çıkan 44 orman yangınıyla ilgili yürütülen soruşturma kapsamında tespit edilen 29 şüpheliden 6'sının tutuklandığını bildirdi.",
-        "source": "NTV",
-        "published": "2026-08-02T14:27:51+03:00"
-      },
-      {
         "title": "Saraya en yakın yazar üç isim verip ekledi: Cem Küçük zincirin son halkası",
         "link": "https://www.sozcu.com.tr/saraya-en-yakin-yazar-uc-isim-verip-ekledi-cem-kucuk-zincirin-son-halkasi-p341752",
         "description": "Saraya en yakın yazar üç isim verip ekledi: Cem Küçük zincirin son halkası",
@@ -658,18 +693,11 @@
         "published": "2026-08-02T14:11:44+03:00"
       },
       {
-        "title": "Ümit Dikbayır 'Nimet Abla'ya rakip çıktı",
-        "link": "https://www.sozcu.com.tr/umit-dikbayir-nimet-abla-ya-rakip-cikti-p341741",
-        "description": "Ümit Dikbayır 'Nimet Abla'ya rakip çıktı",
-        "source": "Sözcü",
-        "published": "2026-08-02T13:48:57+03:00"
-      },
-      {
-        "title": "Fed ve ABD verileri piyasalardaki oynaklığı artırdı",
-        "link": "https://www.sozcu.com.tr/fed-ve-abd-verileri-piyasalardaki-oynakligi-artirdi-p341742",
-        "description": "Fed ve ABD verileri piyasalardaki oynaklığı artırdı",
-        "source": "Sözcü",
-        "published": "2026-08-02T13:48:40+03:00"
+        "title": "Bakan Yumaklı: Beş günde 314 yangın çıktı, tamamı kontrol altında",
+        "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye'nin farklı noktalarında orman yangınları ile mücadele devam ederken Tarım ve Orman Bakanı Yumaklı 29 Temmuz'dan bu yana 192'si orman dışı yerlerde olmak üzere 314 yangına müdahale ettiklerini ve bu yangınların tamamını kontrol altına...",
+        "source": "BBC Turkish",
+        "published": "2026-08-02T13:31:52+00:00"
       },
       {
         "title": "Ekmek parası için binlerce kilometre yol geldiler. 7 Ağustos için bekliyorlar",
@@ -679,32 +707,11 @@
         "published": "2026-08-02T12:55:37+03:00"
       },
       {
-        "title": "Bunu yapana adada konaklama ve yemek bedava: Eylül'de başvurular başlıyor",
-        "link": "https://www.sozcu.com.tr/bunu-yapana-adada-konaklama-ve-yemek-bedava-eylul-de-basvurular-basliyor-p341734",
-        "description": "Bunu yapana adada konaklama ve yemek bedava: Eylül'de başvurular başlıyor",
-        "source": "Sözcü",
-        "published": "2026-08-02T12:54:54+03:00"
-      },
-      {
         "title": "18 yaş altına müebbet hapis geliyor, çocuk suçluya ceza artıyor. Yeni düzenleme için gözler Meclis'te",
         "link": "https://www.ntv.com.tr/turkiye/galeri-18-yas-altina-muebbet-hapis-geliyor-cocuk-sucluya-ceza-artiyor-yeni-duzenleme-icin-gozler-mecliste-1735633",
         "description": "TBMM Genel Kurulu'nda, suça sürüklenen çocuklara ilişkin düzenlemeleri içeren kanun teklifinin görüşmelerine başlanacak, bir uluslararası anlaşma ele alınacak.",
         "source": "NTV",
         "published": "2026-08-02T12:40:44+03:00"
-      },
-      {
-        "title": "Kahreden an: Yangın şokunun etkisiyle hareket bile edemiyor",
-        "link": "https://www.ntv.com.tr/turkiye/video-kahreden-an-yangin-sokunun-etkisiyle-hareket-bile-edemiyor-1735632",
-        "description": "Balıkesir'in Susurluk ilçesinde çıkan yangında alevler bazı ahırlara da sıçradı, çok sayıda hayvan telef oldu. NTV ekibinden Baran Bila ile kameraman Cüneyt Ali Horozal, yanan bölgede yaptıkları inceleme sırasında hala hayatta olan hayvanlara...",
-        "source": "NTV",
-        "published": "2026-08-02T12:36:04+03:00"
-      },
-      {
-        "title": "MHP Genel Başkanı Devlet Bahçeli: Çerçeve yasaya destek verilmeli",
-        "link": "https://www.ntv.com.tr/turkiye/mhp-genel-baskani-devlet-bahceli-cerceve-yasaya-destek-verilmeli-1735629",
-        "description": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, terörsüz Türkiye süreci kapsamında hayata geçirilecek yasal düzenlemeye tam destek verilmesi çağrısında bulundu.",
-        "source": "NTV",
-        "published": "2026-08-02T12:24:28+03:00"
       },
       {
         "title": "İspanya'nın göçmen krizi: Siyasi fırtına ve sosyal medyanın körükleyici etkisi",
@@ -768,13 +775,6 @@
         "description": "İstanbul Anadolu Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında gözaltına alınan Üsküdar Belediye Başkanı Sinem Dedetaş'ın da aralarında bulunduğu dört kişi tutuklandı. İçişleri Bakanlığı, Sinem Dedetaş'ın Üsküdar Belediye Başkanlığı...",
         "source": "BBC Turkish",
         "published": "2026-08-01T14:21:18+00:00"
-      },
-      {
-        "title": "FIFA, UEFA'nın boykot resti sonrası Dünya Kupası 'yatırım planlarını' geri çekti",
-        "link": "https://www.bbc.com/turkce/articles/c3w046g8106o?at_medium=RSS&at_campaign=rss",
-        "description": "Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino, Dünya Kupası dahil uluslararası turnuvalardaki hisselerin özel yatırımcılara satılmasını öngören ve \"futbolun satılması\" eleştirilerine hedef olan planı, yaşanan krizin...",
-        "source": "BBC Turkish",
-        "published": "2026-08-01T08:10:32+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8685
   },
   "weather": {
-    "condition": "Açık",
-    "temp": "+60°F",
+    "condition": "Güneşli",
+    "temp": "+59°F",
     "wind": "↑2mph",
-    "humidity": "81%"
+    "humidity": "91%"
   }
 }
