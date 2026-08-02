@@ -1,27 +1,55 @@
 {
-  "updated_at": "2026-08-02T19:42:55.166392+00:00",
+  "updated_at": "2026-08-02T20:54:58.710283+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Sam Altman and AI’s decel debate",
+        "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+        "source": "TechCrunch",
+        "published": "2026-08-02T20:54:22+00:00"
+      },
+      {
+        "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "link": "https://frogs.vaguespac.es/",
+        "description": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 22 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-08-02T19:42:08+00:00"
+      },
+      {
+        "title": "EU rules on AI models become enforceable. What's going to change?",
+        "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+        "description": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 30 # Comments: 24",
+        "source": "HackerNews",
+        "published": "2026-08-02T19:40:19+00:00"
+      },
+      {
+        "title": "German carmakers flood jobs market with managers after wielding axe",
+        "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
+        "description": "Article URL: https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597 Comments URL: https://news.ycombinator.com/item?id=49147478 Points: 25 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-08-02T19:24:18+00:00"
+      },
+      {
+        "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
+        "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+        "description": "Article URL: https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/ Comments URL: https://news.ycombinator.com/item?id=49147450 Points: 35 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-08-02T19:20:50+00:00"
+      },
+      {
+        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+        "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+        "description": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2 Comments URL: https://news.ycombinator.com/item?id=49147435 Points: 51 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-08-02T19:19:24+00:00"
+      },
       {
         "title": "Oppo Find X10 Ultra’nın Kamerası ve Fiyatı Sızdırıldı",
         "link": "https://shiftdelete.net/oppo-find-x10-ultranin-kamerasi-ve-fiyati-sizdirildi",
         "description": "Oppo Find X10 Ultra hakkında yeni sızıntılar ortaya çıktı. 200MP kamera ve yüksek fiyat etiketiyle dikkat çeken modelin detayları haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-08-02T19:00:00+00:00"
-      },
-      {
-        "title": "SwiftUI After 7 Years: A Story of Mediocrity",
-        "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-        "description": "Article URL: https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/ Comments URL: https://news.ycombinator.com/item?id=49147263 Points: 20 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-08-02T18:59:05+00:00"
-      },
-      {
-        "title": "Microsoft raises Xbox prices by up to 43%",
-        "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-        "description": "Article URL: https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros Comments URL: https://news.ycombinator.com/item?id=49147209 Points: 44 # Comments: 25",
-        "source": "HackerNews",
-        "published": "2026-08-02T18:52:22+00:00"
       },
       {
         "title": "Kamerasız Yeni AirPods Pro Modeli 2026’da Gelebilir",
@@ -33,7 +61,7 @@
       {
         "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
         "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-        "description": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/ Comments URL: https://news.ycombinator.com/item?id=49146605 Points: 17 # Comments: 11",
+        "description": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/ Comments URL: https://news.ycombinator.com/item?id=49146605 Points: 25 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-08-02T17:45:51+00:00"
       },
@@ -52,13 +80,6 @@
         "published": "2026-08-02T17:05:07+00:00"
       },
       {
-        "title": "Pushes to arch AUR are suspendended right now.",
-        "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-        "description": "Article URL: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/ Comments URL: https://news.ycombinator.com/item?id=49146238 Points: 56 # Comments: 38",
-        "source": "HackerNews",
-        "published": "2026-08-02T17:03:02+00:00"
-      },
-      {
         "title": "Güneş Enerjisinde Rekor Üretim: Türkiye Yatırımda Hız Kesmiyor",
         "link": "https://shiftdelete.net/gunes-enerjisinde-rekor-uretim-turkiye-yatirimda-hiz-kesmiyor",
         "description": "Türkiye, 2026'nın ilk yarısında 2,1 GW güneş enerjisi kapasitesi ekleyerek toplam kurulu gücünü 26,9 GW seviyesine yükseltti.",
@@ -68,14 +89,14 @@
       {
         "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
         "link": "https://github.com/wie-project/kakehashi",
-        "description": "Article URL: https://github.com/wie-project/kakehashi Comments URL: https://news.ycombinator.com/item?id=49145937 Points: 87 # Comments: 26",
+        "description": "Article URL: https://github.com/wie-project/kakehashi Comments URL: https://news.ycombinator.com/item?id=49145937 Points: 112 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-08-02T16:26:40+00:00"
       },
       {
         "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
         "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-        "description": "Article URL: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/ Comments URL: https://news.ycombinator.com/item?id=49145883 Points: 50 # Comments: 7",
+        "description": "Article URL: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/ Comments URL: https://news.ycombinator.com/item?id=49145883 Points: 60 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-02T16:19:17+00:00"
       },
@@ -96,7 +117,7 @@
       {
         "title": "How the words we teach English language learners changed",
         "link": "https://pudding.cool/2026/07/essential-words/",
-        "description": "Article URL: https://pudding.cool/2026/07/essential-words/ Comments URL: https://news.ycombinator.com/item?id=49145590 Points: 145 # Comments: 81",
+        "description": "Article URL: https://pudding.cool/2026/07/essential-words/ Comments URL: https://news.ycombinator.com/item?id=49145590 Points: 166 # Comments: 94",
         "source": "HackerNews",
         "published": "2026-08-02T15:41:08+00:00"
       },
@@ -134,20 +155,6 @@
         "description": "Washington'da FSD modunda ilerleyen bir Tesla Model X, karşı şeride geçerek kaza yaptı ve ikiye ayrıldı. Soruşturma devam ediyor.",
         "source": "ShiftDelete",
         "published": "2026-08-02T13:00:00+00:00"
-      },
-      {
-        "title": "Twenty Years of RISC OS Open",
-        "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-        "description": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 120 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-08-02T12:36:07+00:00"
-      },
-      {
-        "title": "F*: A general-purpose proof-oriented programming language",
-        "link": "https://fstar-lang.org/",
-        "description": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 110 # Comments: 37",
-        "source": "HackerNews",
-        "published": "2026-08-02T12:31:16+00:00"
       },
       {
         "title": "Xbox prices are increasing by up to €200 or £170",
@@ -239,13 +246,6 @@
         "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
         "source": "TechCrunch",
         "published": "2026-08-01T15:58:17+00:00"
-      },
-      {
-        "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-        "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-        "description": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
-        "source": "TechCrunch",
-        "published": "2026-08-01T15:05:00+00:00"
       },
       {
         "title": "Spider-Man: Brand New Day leak racks up millions of views",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+        "source": "BBC News",
+        "published": "2026-08-02T20:36:37+00:00"
+      },
+      {
         "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
         "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
         "description": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
@@ -395,13 +402,6 @@
         "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
         "source": "BBC News",
         "published": "2026-08-02T15:48:00+00:00"
-      },
-      {
-        "title": "Emma Finucane wins four gold medals in Commonwealth Games first",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo?at_medium=RSS&at_campaign=rss",
-        "description": "Welsh star Emma Finucane creates history by becoming the first sprint cyclist to win four track gold medals at the same Commonwealth Games.",
-        "source": "BBC News",
-        "published": "2026-08-02T15:27:52+00:00"
       },
       {
         "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
@@ -567,11 +567,60 @@
     ],
     "turkiye": [
       {
+        "title": "Burhaniye Belediye Başkanı Ali Kemal Deveciler CHP'den istifa etti",
+        "link": "https://www.sozcu.com.tr/burhaniye-ali-kemal-deveciler-chp-den-istifa-etti-p341823",
+        "description": "Burhaniye Belediye Başkanı Ali Kemal Deveciler CHP'den istifa etti",
+        "source": "Sözcü",
+        "published": "2026-08-02T23:51:12+03:00"
+      },
+      {
+        "title": "Dev türbinlere görünmez koruma geliyor: Deprem olunca ilk onlar devreye girecek",
+        "link": "https://www.sozcu.com.tr/dev-turbinlere-gorunmez-koruma-geliyor-deprem-olunca-ilk-onlar-devreye-girecek-p341822",
+        "description": "Dev türbinlere görünmez koruma geliyor: Deprem olunca ilk onlar devreye girecek",
+        "source": "Sözcü",
+        "published": "2026-08-02T23:33:15+03:00"
+      },
+      {
+        "title": "Milletvekili Sera Kadıgil hakkında Cumhurbaşkanı'na hakaret ve tehdit soruşturması",
+        "link": "https://www.ntv.com.tr/turkiye/milletvekili-sera-kadigil-hakkinda-cumhurbaskanina-hakaret-ve-tehdit-sorusturmasi-1735694",
+        "description": "Ankara Cumhuriyet Başsavcılığı, Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Saliha Sera Kadıgil hakkında Cumhurbaşkanına yönelik ifadeleri nedeniyle re'sen soruşturma başlatıldığını açıkladı.",
+        "source": "NTV",
+        "published": "2026-08-02T23:28:35+03:00"
+      },
+      {
+        "title": "Gazeteci Ertuğrul Özkök ile TİP vekili Sera Kadıgil hakkında soruşturma başlatıldı",
+        "link": "https://www.sozcu.com.tr/ertugrul-ozkok-ve-sera-kadigil-sorusturma-haberleri-pes-pese-geldi-p341812",
+        "description": "Gazeteci Ertuğrul Özkök ile TİP vekili Sera Kadıgil hakkında soruşturma başlatıldı",
+        "source": "Sözcü",
+        "published": "2026-08-02T23:06:01+03:00"
+      },
+      {
+        "title": "İmamoğlu'ndan AKP'ye geçen belediye başkanlarına tepki",
+        "link": "https://www.sozcu.com.tr/ekrem-imamoglu-x-aciklama-2-agustos-2026-p341819",
+        "description": "İmamoğlu'ndan AKP'ye geçen belediye başkanlarına tepki",
+        "source": "Sözcü",
+        "published": "2026-08-02T22:59:03+03:00"
+      },
+      {
+        "title": "Gol düellosunda kazanan çıkmadı",
+        "link": "https://www.sozcu.com.tr/gol-duellosunda-kazanan-cikmadi-p341818",
+        "description": "Gol düellosunda kazanan çıkmadı",
+        "source": "Sözcü",
+        "published": "2026-08-02T22:58:17+03:00"
+      },
+      {
+        "title": "Bu 5 ilacı sakın torpido gözünde bırakmayın",
+        "link": "https://www.sozcu.com.tr/bu-5-ilaci-sakin-torpido-gozunde-birakmayin-p341816",
+        "description": "Bu 5 ilacı sakın torpido gözünde bırakmayın",
+        "source": "Sözcü",
+        "published": "2026-08-02T22:45:44+03:00"
+      },
+      {
         "title": "Selman Öğüt, Sinem Dedetaş'ı hedef aldı; müteahhitlerin sözcülüğüne soyundu",
         "link": "https://www.sozcu.com.tr/selman-ogut-sinem-dedetas-p341814",
         "description": "Selman Öğüt, Sinem Dedetaş'ı hedef aldı; müteahhitlerin sözcülüğüne soyundu",
         "source": "Sözcü",
-        "published": "2026-08-02T22:40:24+03:00"
+        "published": "2026-08-02T22:42:41+03:00"
       },
       {
         "title": "\"Laf atma\" kavgasında araya giren kişi öldü. Güvenlik kamerası görüntüleri ortaya çıktı",
@@ -593,13 +642,6 @@
         "description": "Bayrampaşa’da Enis Emre C. (38), eşine laf attığını iddia ettiği Raşit Ö. (44) ile tartışmaya başladı. Tartışmanın kısa sürede kavgaya dönüşmesi üzerine Enis Emre C. silahla etrafa rastgele ateş etti. Silahtan çıkan kurşunlardan biri, tarafları...",
         "source": "NTV",
         "published": "2026-08-02T22:32:37+03:00"
-      },
-      {
-        "title": "Gazeteci Ertuğrul Özkök ile TİP vekili Sera Kadıgil hakkında soruşturma başlatıldı",
-        "link": "https://www.sozcu.com.tr/ertugrul-ozkok-ve-sera-kadigil-sorusturma-haberleri-pes-pese-geldi-p341812",
-        "description": "Gazeteci Ertuğrul Özkök ile TİP vekili Sera Kadıgil hakkında soruşturma başlatıldı",
-        "source": "Sözcü",
-        "published": "2026-08-02T22:18:15+03:00"
       },
       {
         "title": "Fatih Tekke’den Salah açıklaması",
@@ -637,20 +679,6 @@
         "published": "2026-08-02T21:39:24+03:00"
       },
       {
-        "title": "Reaktörleri soğutacak su kalmadı: Ülkenin enerji kaynağı 44 yıl sonra ilk kez kapandı",
-        "link": "https://www.sozcu.com.tr/reaktorleri-sogutacak-su-kalmadi-ulkenin-enerji-kaynagi-44-yil-sonra-ilk-kez-kapandi-p341804",
-        "description": "Reaktörleri soğutacak su kalmadı: Ülkenin enerji kaynağı 44 yıl sonra ilk kez kapandı",
-        "source": "Sözcü",
-        "published": "2026-08-02T21:25:50+03:00"
-      },
-      {
-        "title": "Galatasaray taraftarından yönetime tepki! ‘Dursun Özbek transfer nerede’",
-        "link": "https://www.sozcu.com.tr/galatasaray-taraftarindan-yonetime-tepki-dursun-ozbek-transfer-nerede-p341803",
-        "description": "Galatasaray taraftarından yönetime tepki! ‘Dursun Özbek transfer nerede’",
-        "source": "Sözcü",
-        "published": "2026-08-02T21:11:52+03:00"
-      },
-      {
         "title": "Yasağa rağmen inat etti. Jandarma dakikalarca ikna etmeye çalıştı",
         "link": "https://www.ntv.com.tr/turkiye/yasaga-ragmen-inat-etti-jandarma-dakikalarca-ikna-etmeye-calisti-1735687",
         "description": "Tekirdağ'ın Süleymanpaşa ilçesinde alkollü olduğu iddia edilen bir kişi, denize girme yasağına rağmen gece denize girmeye çalıştı. Jandarma ekiplerinin uzun süren ikna çabası sonucu vatandaş kıyıdan uzaklaştırıldı.",
@@ -665,20 +693,6 @@
         "published": "2026-08-02T20:46:21+03:00"
       },
       {
-        "title": "Daha tarladan çıkmadan tükendi: Üretimi 10 ay sürüyor, talebi her yıl artıyor",
-        "link": "https://www.sozcu.com.tr/daha-tarladan-cikmadan-tukendi-uretimi-10-ay-suruyor-talebi-her-yil-artiyor-p341799",
-        "description": "Daha tarladan çıkmadan tükendi: Üretimi 10 ay sürüyor, talebi her yıl artıyor",
-        "source": "Sözcü",
-        "published": "2026-08-02T20:40:21+03:00"
-      },
-      {
-        "title": "Dağları basamak basamak oyup gökyüzüne uzanan tarlalar yaptılar",
-        "link": "https://www.sozcu.com.tr/daglari-basamak-basamak-oyup-gokyuzune-uzanan-tarlalar-yaptilar-p341797",
-        "description": "Dağları basamak basamak oyup gökyüzüne uzanan tarlalar yaptılar",
-        "source": "Sözcü",
-        "published": "2026-08-02T20:24:37+03:00"
-      },
-      {
         "title": "Formulaz renkli görüntülere sahne oldu. Tahta arabalarla yarıştılar",
         "link": "https://www.ntv.com.tr/turkiye/galeri-formulaz-renkli-goruntulere-sahne-oldu-tahta-arabalarla-yaristilar-1735683",
         "description": "Rize'nin Ardeşen ilçesinde \"16. Geleneksel Red Bull Formulaz Tahta Araba Yarışları\" gerçekleştirildi. 80 yarışmacının mücadelesi renkli görüntülere sahne oldu.",
@@ -686,25 +700,11 @@
         "published": "2026-08-02T20:18:37+03:00"
       },
       {
-        "title": "Fenerbahçe’de Sturm Graz hazırlıkları",
-        "link": "https://www.sozcu.com.tr/fenerbahce-de-sturm-graz-hazirliklari-p341796",
-        "description": "Fenerbahçe’de Sturm Graz hazırlıkları",
-        "source": "Sözcü",
-        "published": "2026-08-02T20:13:24+03:00"
-      },
-      {
         "title": "TBMM Dilekçe Komisyonu'na ilginç talepler. \"İstanbul kışlık, Ankara yazlık başkent olsun\"",
         "link": "https://www.ntv.com.tr/turkiye/tbmm-dilekce-komisyonuna-ilginc-talepler-istanbul-kislik-ankara-yazlik-baskent-olsun-1735676",
         "description": "Türkiye Büyük Millet Meclisi dilekçe Komisyonu'na geçtiğimiz ay bin 610 başvuru geldi. Yapılan başvurularda \"seçimlerde vatandaşlara yaşadıkları ilin milletvekili sayısı kadar oy hakkı verilmesi, İstanbul'un kışlık, Ankara'nın yazlık başkent...",
         "source": "NTV",
         "published": "2026-08-02T18:25:28+03:00"
-      },
-      {
-        "title": "DEM Parti heyeti İmralı'ya gitti",
-        "link": "https://www.ntv.com.tr/turkiye/dem-parti-heyeti-imraliya-gitti-1735675",
-        "description": "DEM Parti İmralı Heyeti, terör örgütü PKK elebaşı Abdullah Öcalan ile İmralı Adası'nda görüştü.",
-        "source": "NTV",
-        "published": "2026-08-02T17:58:46+03:00"
       },
       {
         "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 44 kişi hakkında tutuklama talebi",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8685
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+89°F",
-    "wind": "↑11mph",
-    "humidity": "62%"
+    "condition": "Patchy rain nearby",
+    "temp": "+75°F",
+    "wind": "↑6mph",
+    "humidity": "90%"
   }
 }
