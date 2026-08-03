@@ -1,13 +1,41 @@
 {
-  "updated_at": "2026-08-02T22:57:08.284424+00:00",
+  "updated_at": "2026-08-03T00:02:07.412907+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+        "link": "https://github.com/pg83/shitty",
+        "description": "Article URL: https://github.com/pg83/shitty Comments URL: https://news.ycombinator.com/item?id=49149326 Points: 20 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T23:05:41+00:00"
+      },
+      {
+        "title": "AI poster wins Ohio State Fair contest",
+        "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+        "description": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 62 # Comments: 29",
+        "source": "HackerNews",
+        "published": "2026-08-02T22:43:47+00:00"
+      },
+      {
+        "title": "The Computational Theory of Mind (2015)",
+        "link": "https://plato.stanford.edu/entries/computational-mind/",
+        "description": "Article URL: https://plato.stanford.edu/entries/computational-mind/ Comments URL: https://news.ycombinator.com/item?id=49149125 Points: 6 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T22:35:35+00:00"
+      },
+      {
         "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
         "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-        "description": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/ Comments URL: https://news.ycombinator.com/item?id=49148987 Points: 15 # Comments: 0",
+        "description": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/ Comments URL: https://news.ycombinator.com/item?id=49148987 Points: 46 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-08-02T22:16:34+00:00"
+      },
+      {
+        "title": "Show HN: Mu – Tools for Agents",
+        "link": "https://github.com/micro/mu",
+        "description": "Article URL: https://github.com/micro/mu Comments URL: https://news.ycombinator.com/item?id=49148899 Points: 7 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-02T22:06:34+00:00"
       },
       {
         "title": "The global memory shortage hits the MacBook Air",
@@ -26,7 +54,7 @@
       {
         "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
         "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-        "description": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 75 # Comments: 29",
+        "description": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 105 # Comments: 60",
         "source": "HackerNews",
         "published": "2026-08-02T20:44:24+00:00"
       },
@@ -40,51 +68,23 @@
       {
         "title": "Sharing an X11 Server Across Hosts with FamilyWild",
         "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-        "description": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 21 # Comments: 5",
+        "description": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 27 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-02T20:26:47+00:00"
       },
       {
-        "title": "Let the machines in",
-        "link": "https://blog.semenzin.com/let-the-machines-in/",
-        "description": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 20 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-08-02T20:17:16+00:00"
-      },
-      {
-        "title": "Adding Go's Defer to the TypeScript Compiler",
-        "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-        "description": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 13 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-08-02T20:12:39+00:00"
-      },
-      {
-        "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-        "link": "https://github.com/paoloanzn/microcodex",
-        "description": "Article URL: https://github.com/paoloanzn/microcodex Comments URL: https://news.ycombinator.com/item?id=49147842 Points: 11 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-02T20:11:35+00:00"
-      },
-      {
         "title": "TinyNES Review – A Super Niche NES Console",
         "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-        "description": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Comments URL: https://news.ycombinator.com/item?id=49147760 Points: 15 # Comments: 0",
+        "description": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/ Comments URL: https://news.ycombinator.com/item?id=49147760 Points: 22 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-02T20:01:37+00:00"
       },
       {
         "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
         "link": "https://frogs.vaguespac.es/",
-        "description": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 73 # Comments: 41",
+        "description": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 83 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-08-02T19:42:08+00:00"
-      },
-      {
-        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-        "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-        "description": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2 Comments URL: https://news.ycombinator.com/item?id=49147435 Points: 128 # Comments: 57",
-        "source": "HackerNews",
-        "published": "2026-08-02T19:19:24+00:00"
       },
       {
         "title": "Oppo Find X10 Ultra’nın Kamerası ve Fiyatı Sızdırıldı",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+        "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+        "source": "BBC News",
+        "published": "2026-08-02T23:15:14+00:00"
+      },
+      {
         "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
         "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
         "description": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
@@ -369,18 +376,18 @@
         "published": "2026-08-02T21:18:26+00:00"
       },
       {
-        "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
-        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-        "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour, her representative says.",
-        "source": "BBC News",
-        "published": "2026-08-02T21:02:29+00:00"
-      },
-      {
         "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
         "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
         "source": "BBC News",
         "published": "2026-08-02T20:36:37+00:00"
+      },
+      {
+        "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+        "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+        "description": "A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists.",
+        "source": "NPR",
+        "published": "2026-08-02T19:38:05-04:00"
       },
       {
         "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
@@ -516,13 +523,6 @@
         "published": "2026-08-01T18:32:44-04:00"
       },
       {
-        "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-        "description": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth.",
-        "source": "NPR",
-        "published": "2026-08-01T18:23:39-04:00"
-      },
-      {
         "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
         "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
         "description": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory...",
@@ -571,7 +571,28 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-03-agustos-2026-1735698",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 03 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-03T01:30:00+03:00"
+        "published": "2026-08-03T03:00:00+03:00"
+      },
+      {
+        "title": "Bursa'da feci kaza. Anne ile kızı öldü, 6 yaralı",
+        "link": "https://www.ntv.com.tr/turkiye/bursada-feci-kaza-anne-ile-kizi-oldu-6-yarali-1735705",
+        "description": "İznik'te iki otomobilin çarpıştığı kazada 2 kişi hayatını kaybetti, 6 kişi de yaralandı.",
+        "source": "NTV",
+        "published": "2026-08-03T02:54:26+03:00"
+      },
+      {
+        "title": "Vücudun gençlik kaynağı",
+        "link": "https://www.sozcu.com.tr/vucudun-genclik-kaynagi-p341833",
+        "description": "Vücudun gençlik kaynağı",
+        "source": "Sözcü",
+        "published": "2026-08-03T02:30:04+03:00"
+      },
+      {
+        "title": "Abdullah Kavukcu’dan Barış Alper Yılmaz açıklaması",
+        "link": "https://www.sozcu.com.tr/abdullah-kavukcu-dan-baris-alper-yilmaz-aciklamasi-p341839",
+        "description": "Abdullah Kavukcu’dan Barış Alper Yılmaz açıklaması",
+        "source": "Sözcü",
+        "published": "2026-08-03T02:04:25+03:00"
       },
       {
         "title": "Trump duyurdu: Hürmüz Boğazı için anlaşma sağlandı",
@@ -593,13 +614,6 @@
         "description": "İnşaat kazısında tesadüfen keşfedildi: Toprağın iki metre altında yıllardır gizli kalmış",
         "source": "Sözcü",
         "published": "2026-08-03T01:06:55+03:00"
-      },
-      {
-        "title": "Acı haberler peş peşe geldi: İki çift feci şekilde can verdi",
-        "link": "https://www.sozcu.com.tr/traktorun-altinda-kalan-cift-hayatini-kaybetti-p341820",
-        "description": "Acı haberler peş peşe geldi: İki çift feci şekilde can verdi",
-        "source": "Sözcü",
-        "published": "2026-08-03T00:57:17+03:00"
       },
       {
         "title": "Okan Buruk: İyi bir kadro kuracağız",
@@ -651,11 +665,11 @@
         "published": "2026-08-02T23:51:12+03:00"
       },
       {
-        "title": "Dev türbinlere görünmez koruma geliyor: Deprem olunca ilk onlar devreye girecek",
-        "link": "https://www.sozcu.com.tr/dev-turbinlere-gorunmez-koruma-geliyor-deprem-olunca-ilk-onlar-devreye-girecek-p341822",
-        "description": "Dev türbinlere görünmez koruma geliyor: Deprem olunca ilk onlar devreye girecek",
-        "source": "Sözcü",
-        "published": "2026-08-02T23:33:15+03:00"
+        "title": "İspanya'nın Afrika'daki toprağında yaşadığı göç krizi örgütlü müydü?",
+        "link": "https://www.bbc.com/turkce/articles/c5y05e5jzddo?at_medium=RSS&at_campaign=rss",
+        "description": "31 Temmuz'da yüzerek İspanya'nın Afrika'daki Ceuta (Sebte) kentine gelen on binlerce göçmenin büyük bölümü Fas topraklarına geri götürüldü. On binlerce göçmenin Ceuta'ya geçmesinden sonra yaşananlarsa Avrupa'da göç konusunda yaşanan bölünmeyi gözler...",
+        "source": "BBC Turkish",
+        "published": "2026-08-02T23:46:40+00:00"
       },
       {
         "title": "Milletvekili Sera Kadıgil hakkında Cumhurbaşkanı'na hakaret ve tehdit soruşturması",
@@ -663,6 +677,13 @@
         "description": "Ankara Cumhuriyet Başsavcılığı, Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Saliha Sera Kadıgil hakkında Cumhurbaşkanına yönelik ifadeleri nedeniyle re'sen soruşturma başlatıldığını açıkladı.",
         "source": "NTV",
         "published": "2026-08-02T23:28:35+03:00"
+      },
+      {
+        "title": "Trump İran ile yeni müzakerelerin başlayacağını duyurdu",
+        "link": "https://www.bbc.com/turkce/articles/cn8n2zx45v7o?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın yeniden açılması ve İran'ın nükleer programını içeren yeni müzakerelerin Pazartesi günü başlayacağını söyledi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-02T23:07:14+00:00"
       },
       {
         "title": "\"Laf atma\" kavgasında araya giren kişi öldü. Güvenlik kamerası görüntüleri ortaya çıktı",
@@ -707,13 +728,6 @@
         "published": "2026-08-02T21:47:46+03:00"
       },
       {
-        "title": "Yasağa rağmen inat etti. Jandarma dakikalarca ikna etmeye çalıştı",
-        "link": "https://www.ntv.com.tr/turkiye/yasaga-ragmen-inat-etti-jandarma-dakikalarca-ikna-etmeye-calisti-1735687",
-        "description": "Tekirdağ'ın Süleymanpaşa ilçesinde alkollü olduğu iddia edilen bir kişi, denize girme yasağına rağmen gece denize girmeye çalıştı. Jandarma ekiplerinin uzun süren ikna çabası sonucu vatandaş kıyıdan uzaklaştırıldı.",
-        "source": "NTV",
-        "published": "2026-08-02T21:10:24+03:00"
-      },
-      {
         "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 44 kişi hakkında tutuklama talebi",
         "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
         "description": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan Etimesgut Belediye Başkanı Erdal Beşikçioğlu'nun da yer aldığı 55 kişiden 44'ünün tutuklanması talep edildi.",
@@ -735,13 +749,6 @@
         "published": "2026-08-02T13:31:52+00:00"
       },
       {
-        "title": "İspanya'nın göçmen krizi: Siyasi fırtına ve sosyal medyanın körükleyici etkisi",
-        "link": "https://www.bbc.com/turkce/articles/c5y05e5jzddo?at_medium=RSS&at_campaign=rss",
-        "description": "On binlerce göçmenin Ceuta'ya geçmesinden sonra yaşananlar Avrupa'da göç konusunda yaşanan bölünmeyi gözler önüne seriyor.",
-        "source": "BBC Turkish",
-        "published": "2026-08-02T11:56:41+00:00"
-      },
-      {
         "title": "Gülistan Doku soruşturması: Tutuklu sayısı 28'e yükseldi",
         "link": "https://www.bbc.com/turkce/articles/cy8mez9g777o?at_medium=RSS&at_campaign=rss",
         "description": "Gülistan Doku soruşturmasıyla bağlantılı olarak gözaltına alınan polislerden üçü daha tutuklandı. Böylece soruşturmada tutuklu sayısı 28'e yükseldi.",
@@ -754,13 +761,6 @@
         "description": "Uzmanlara göre herpes tanısının psikolojik etkileri fiziksel belirtilerinden daha ciddi olabilir.",
         "source": "BBC Turkish",
         "published": "2026-08-02T08:15:04+00:00"
-      },
-      {
-        "title": "Trump, hızla bir anlaşma yapılması şartıyla İran'a saldırıları durdurduğunu söyledi",
-        "link": "https://www.bbc.com/turkce/articles/cn8n2zx45v7o?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump bir \"anlaşma çerçevesi\" üzerinde uzlaşıldığını, bunun Hürmüz Boğazı'nın yeniden açılmasını ve İran'ın nükleer tehdidinin sona ermesini içereceğini söyledi.",
-        "source": "BBC Turkish",
-        "published": "2026-08-02T08:11:36+00:00"
       },
       {
         "title": "Suudi Arabistan'da idam sırasını bekleyen umutsuz mahkumlar BBC'yi arıyor",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+87°F",
-    "wind": "↙8mph",
-    "humidity": "55%"
+    "temp": "+116°F",
+    "wind": "→11mph",
+    "humidity": "14%"
   }
 }
