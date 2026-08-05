@@ -1,13 +1,83 @@
 {
-  "updated_at": "2026-08-04T23:02:48.341544+00:00",
+  "updated_at": "2026-08-05T00:54:01.762508+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+        "link": "https://arxiv.org/abs/2603.04221",
+        "description": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-05T00:10:37+00:00"
+      },
+      {
+        "title": "Bugtraq Is Back",
+        "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+        "description": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 4 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-05T00:05:49+00:00"
+      },
+      {
+        "title": "Flowise Is Shutting Down",
+        "link": "https://flowiseai.com/sunset",
+        "description": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 4 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-05T00:02:40+00:00"
+      },
+      {
+        "title": "Eight Myths on Software Engineering and GenAI",
+        "link": "https://queue.acm.org/detail.cfm?id=3807963",
+        "description": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 16 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-04T23:50:52+00:00"
+      },
+      {
+        "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+        "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+        "description": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 21 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-04T23:31:46+00:00"
+      },
+      {
+        "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+        "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+        "description": "Article URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/ Comments URL: https://news.ycombinator.com/item?id=49176644 Points: 26 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-08-04T23:22:37+00:00"
+      },
+      {
+        "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+        "link": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+        "description": "Article URL: https://808bits.com/articles/fips-140-3-not-a-security-guarantee/ Comments URL: https://news.ycombinator.com/item?id=49176634 Points: 16 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-08-04T23:21:33+00:00"
+      },
+      {
+        "title": "libexpat now funded by the City of Munich for up to 6 months",
+        "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+        "description": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 80 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-08-04T23:18:12+00:00"
+      },
+      {
+        "title": "Show HN: SIMD Viterbi Decoder in Rust",
+        "link": "https://github.com/brian-armstrong/fec",
+        "description": "I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional...",
+        "source": "HackerNews",
+        "published": "2026-08-04T22:37:05+00:00"
+      },
       {
         "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
         "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
         "description": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
         "source": "TechCrunch",
         "published": "2026-08-04T22:30:58+00:00"
+      },
+      {
+        "title": "We finally learned to center a div, then browsers added sidebars",
+        "link": "https://seg6.space/posts/center-div/",
+        "description": "Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 41 # Comments: 28",
+        "source": "HackerNews",
+        "published": "2026-08-04T22:24:00+00:00"
       },
       {
         "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
@@ -24,46 +94,11 @@
         "published": "2026-08-04T22:18:30+00:00"
       },
       {
-        "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-        "link": "https://techascent.com/blog/just-ducking-around.html",
-        "description": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 8 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-04T22:09:43+00:00"
-      },
-      {
-        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-        "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-        "description": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 50 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-08-04T22:01:41+00:00"
-      },
-      {
-        "title": "Third-party cyber evaluations involving OpenAI models",
-        "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-        "description": "Article URL: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/ Comments URL: https://news.ycombinator.com/item?id=49175248 Points: 24 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-04T21:14:19+00:00"
-      },
-      {
-        "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-        "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-        "description": "Article URL: https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/ Comments URL: https://news.ycombinator.com/item?id=49175192 Points: 163 # Comments: 31",
-        "source": "HackerNews",
-        "published": "2026-08-04T21:09:39+00:00"
-      },
-      {
         "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
         "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
         "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
         "source": "TechCrunch",
         "published": "2026-08-04T21:07:26+00:00"
-      },
-      {
-        "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-        "link": "https://twitter.com/i/status/2084739205071343837",
-        "description": "Article URL: https://twitter.com/i/status/2084739205071343837 Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 27 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-08-04T20:48:17+00:00"
       },
       {
         "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
@@ -78,13 +113,6 @@
         "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
         "source": "TechCrunch",
         "published": "2026-08-04T20:26:53+00:00"
-      },
-      {
-        "title": "Oxide Computer raises $445M (SEC Form D)",
-        "link": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-        "description": "Article URL: https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml Comments URL: https://news.ycombinator.com/item?id=49174407 Points: 134 # Comments: 49",
-        "source": "HackerNews",
-        "published": "2026-08-04T20:13:40+00:00"
       },
       {
         "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
@@ -108,13 +136,6 @@
         "published": "2026-08-04T19:48:40+00:00"
       },
       {
-        "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
-        "link": "https://deepgrove.ai/maple-preview",
-        "description": "Article URL: https://deepgrove.ai/maple-preview Comments URL: https://news.ycombinator.com/item?id=49173984 Points: 9 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-08-04T19:44:55+00:00"
-      },
-      {
         "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
         "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
         "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
@@ -129,39 +150,25 @@
         "published": "2026-08-04T19:28:49+00:00"
       },
       {
+        "title": "Don’t screw this up, Marvel",
+        "link": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+        "description": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film...",
+        "source": "The Verge",
+        "published": "2026-08-04T19:20:56-04:00"
+      },
+      {
+        "title": "AMD’s data center business is booming while gaming takes a backseat",
+        "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the...",
+        "source": "The Verge",
+        "published": "2026-08-04T19:03:39-04:00"
+      },
+      {
         "title": "WhatsApp’ta Küresel Kaos: Milyonlarca Hesap Neden Kapatıldı?",
         "link": "https://shiftdelete.net/whatsappta-kuresel-kaos-milyonlarca-hesap-neden-kapatildi",
         "description": "WhatsApp'ta yaşanan küresel kaos milyonlarca hesabı kısıtladı. Meta, güvenlik gerekçesiyle yaptığı incelemelerin detaylarını açıkladı. İşte hesap kapatılma nedenleri.",
         "source": "ShiftDelete",
         "published": "2026-08-04T19:00:38+00:00"
-      },
-      {
-        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-        "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-        "description": "Article URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/ Comments URL: https://news.ycombinator.com/item?id=49173165 Points: 672 # Comments: 42",
-        "source": "HackerNews",
-        "published": "2026-08-04T18:51:38+00:00"
-      },
-      {
-        "title": "AMD’s datacenter business is booming while gaming takes a backseat",
-        "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-        "description": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the...",
-        "source": "The Verge",
-        "published": "2026-08-04T18:37:53-04:00"
-      },
-      {
-        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-        "link": "https://edotenv.com/",
-        "description": "We are Rui and Michael and we’re building EdotEnv ( https://edotenv.com ): self-improving RL environments from Quant Trading workflows. With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks...",
-        "source": "HackerNews",
-        "published": "2026-08-04T18:36:02+00:00"
-      },
-      {
-        "title": "Waymo in Dallas",
-        "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-        "description": "Article URL: https://waymo.com/blog/shorts/dallas-open-to-all/ Comments URL: https://news.ycombinator.com/item?id=49172836 Points: 203 # Comments: 237",
-        "source": "HackerNews",
-        "published": "2026-08-04T18:29:41+00:00"
       },
       {
         "title": "League of Legends Organized Play Sistemi Değişiyor",
@@ -344,16 +351,51 @@
         "description": "Apple, iOS 27 güncellemesi ile Fotoğraflar uygulamasına sadece kendi çektiğiniz fotoğrafları görebileceğiniz Captured by Me özelliğini ekliyor.",
         "source": "ShiftDelete",
         "published": "2026-08-04T12:30:00+00:00"
-      },
-      {
-        "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
-        "link": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
-        "description": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and will come...",
-        "source": "The Verge",
-        "published": "2026-08-04T12:07:02-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+        "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+        "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+        "source": "BBC News",
+        "published": "2026-08-05T00:19:04+00:00"
+      },
+      {
+        "title": "New guidance on single-sex spaces comes into force",
+        "link": "https://www.bbc.co.uk/news/articles/c9983lv4dlno?at_medium=RSS&at_campaign=rss",
+        "description": "The code covers spaces open to the public, such as toilets and changing rooms in England, Wales and Scotland.",
+        "source": "BBC News",
+        "published": "2026-08-04T23:47:26+00:00"
+      },
+      {
+        "title": "Closing down streets so children can play",
+        "link": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro?at_medium=RSS&at_campaign=rss",
+        "description": "In Leeds, streets are being temporarily closed to traffic so kids have more space to safely play - an initiative proving beneficial to both children and adults.",
+        "source": "BBC News",
+        "published": "2026-08-04T23:43:00+00:00"
+      },
+      {
+        "title": "Temperatures to drop briefly ahead of next UK heatwave",
+        "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+        "description": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+        "source": "BBC News",
+        "published": "2026-08-04T23:14:49+00:00"
+      },
+      {
+        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+        "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+        "description": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+        "source": "BBC News",
+        "published": "2026-08-04T22:09:50+00:00"
+      },
+      {
+        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+        "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+        "description": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+        "source": "BBC News",
+        "published": "2026-08-04T21:55:17+00:00"
+      },
       {
         "title": "Major search under way for boy, 13, missing at sea",
         "link": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo?at_medium=RSS&at_campaign=rss",
@@ -362,32 +404,18 @@
         "published": "2026-08-04T20:52:43+00:00"
       },
       {
+        "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
+        "description": "The Los Angeles County Sheriff's Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket.",
+        "source": "NPR",
+        "published": "2026-08-04T20:30:48-04:00"
+      },
+      {
         "title": "Infantino calls executive meeting as criticism mounts",
         "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
         "description": "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations.",
         "source": "BBC News",
         "published": "2026-08-04T20:13:03+00:00"
-      },
-      {
-        "title": "More than 170 migrants rescued after boat catches fire in Channel",
-        "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-        "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-        "source": "BBC News",
-        "published": "2026-08-04T19:45:58+00:00"
-      },
-      {
-        "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
-        "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
-        "source": "BBC News",
-        "published": "2026-08-04T19:31:26+00:00"
-      },
-      {
-        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-        "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-        "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-        "source": "BBC News",
-        "published": "2026-08-04T19:00:43+00:00"
       },
       {
         "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
@@ -418,20 +446,6 @@
         "published": "2026-08-04T17:26:06+00:00"
       },
       {
-        "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
-        "link": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss",
-        "description": "The 56-year-old, who shot to prominence in 1991 musical comedy film The Commitments, died in a motorcycle crash last week.",
-        "source": "BBC News",
-        "published": "2026-08-04T17:01:19+00:00"
-      },
-      {
-        "title": "Athletes go 'missing' after Commonwealth Games ends",
-        "link": "https://www.bbc.co.uk/news/articles/c4gxj5xl0pxo?at_medium=RSS&at_campaign=rss",
-        "description": "Police Scotland said it had received reports of various athletes \"unaccounted for\" in the aftermath of the Games, which concluded on Sunday.",
-        "source": "BBC News",
-        "published": "2026-08-04T16:37:27+00:00"
-      },
-      {
         "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
         "description": "Oregon has been having an extremely active fire season. Some of the areas burning are critical to ranchers whose livelihoods depend on cattle.",
@@ -451,13 +465,6 @@
         "description": "The committee said it was reviewing allegations that Miller \"may have engaged in domestic violence.\" Miller has denied the allegations, which have swirled around his bid for a third term in Congress.",
         "source": "NPR",
         "published": "2026-08-04T15:40:02-04:00"
-      },
-      {
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-        "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-        "source": "BBC News",
-        "published": "2026-08-04T15:07:52+00:00"
       },
       {
         "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
@@ -500,13 +507,6 @@
         "description": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire.",
         "source": "NPR",
         "published": "2026-08-04T07:29:23-04:00"
-      },
-      {
-        "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
-        "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
-        "description": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country.",
-        "source": "NPR",
-        "published": "2026-08-04T07:05:10-04:00"
       },
       {
         "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
@@ -571,14 +571,21 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-agustos-2026-1735979",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-05T02:00:00+03:00"
+        "published": "2026-08-05T03:30:00+03:00"
       },
       {
-        "title": "Yüksek Askeri Şura kararları Resmi Gazete'de",
-        "link": "https://www.ntv.com.tr/turkiye/yuksek-askeri-sura-kararlari-resmi-gazetede-1735980",
-        "description": "Yüksek Askeri Şura (YAŞ) kararları, Resmi Gazete'de yayımlandı.",
+        "title": "Bakan Bayraktar: 8 milyon evin doğal gaz ihtiyacı Sakarya Gaz Sahamızdan sağlanacak",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-bayraktar-8-milyon-evin-dogal-gaz-ihtiyaci-sakarya-gaz-sahamizdan-saglanacak-1735981",
+        "description": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"Bugün 4 milyon hanenin doğal gaz ihtiyacı, evin doğal gaz ihtiyacı şu anda Sakarya Gaz Sahasından geliyor. Şimdi hedefimiz ikinci fazda bu senenin sonunda bu rakamı 8 milyona çıkarmak\" dedi.",
         "source": "NTV",
-        "published": "2026-08-05T01:55:23+03:00"
+        "published": "2026-08-05T02:20:06+03:00"
+      },
+      {
+        "title": "Yüksek Askeri Şura (YAŞ) kararları Resmi Gazete'de",
+        "link": "https://www.ntv.com.tr/turkiye/yuksek-askeri-sura-kararlari-resmi-gazetede-1735980",
+        "description": "Yüksek Askeri Şura (YAŞ) kararları, Resmi Gazete'de yayımlandı. 30 Ağustos'tan geçerli olmak üzere 19 general, 6 amiral ve 69 albay bir üst rütbeye terfi edildi.",
+        "source": "NTV",
+        "published": "2026-08-05T02:05:35+03:00"
       },
       {
         "title": "127 bin metreküp kumu bataklığa döktüler",
@@ -728,13 +735,6 @@
         "published": "2026-08-04T16:13:22+03:00"
       },
       {
-        "title": "Rafet Dalkıran kimdir? Yeni Hava Kuvvetleri Komutanı Rafet Dalkıran'ın hayatı",
-        "link": "https://www.ntv.com.tr/turkiye/rafet-dalkiran-kimdir-yeni-hava-kuvvetleri-komutani-rafet-dalkiranin-hayati-1735953",
-        "description": "Türkiye gündemini yakından takip eden birçok kişi Rafet Dalkıran hakkındaki bilgileri araştırmaya başladı. Yüksek Askeri Şura (YAŞ) kararlarıyla, Hava Kuvvetleri Komutanlığı'na Rafet Dalkıran atandı. Peki, Rafet Dalkıran kimdir, kaç yaşında ve...",
-        "source": "NTV",
-        "published": "2026-08-04T15:47:52+03:00"
-      },
-      {
         "title": "YAŞ kararları açıklandı: Türk Hava Kuvvetleri'de ilk kadın general",
         "link": "https://www.bbc.com/turkce/articles/cr493dqdzw0o?at_medium=RSS&at_campaign=rss",
         "description": "YAŞ'ta alınan kararlarla görev süresi dolan Hava Kuvvetleri Komutanı Orgeneral Ziya Cemal Kadıoğlu'nun yerine Orgeneral Rafet Dalkıran atandı. Deniz Kuvvetleri Komutanı Oramiral Ercüment Tatlıoğlu'nun görev süresi ise bir yıl uzatıldı.",
@@ -780,13 +780,13 @@
   },
   "exchange_rates": {
     "usd_try": 47.5491,
-    "eur_try": 54.7481,
+    "eur_try": 54.8314,
     "eur_usd": 0.8687
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+109°F",
-    "wind": "→9mph",
-    "humidity": "24%"
+    "temp": "+77°F",
+    "wind": "←4mph",
+    "humidity": "86%"
   }
 }
