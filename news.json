@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-07T22:34:19.416710+00:00",
+  "updated_at": "2026-08-07T23:33:08.350264+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+        "source": "TechCrunch",
+        "published": "2026-08-07T22:48:24+00:00"
+      },
       {
         "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
         "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -26,7 +33,7 @@
       {
         "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
         "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-        "description": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070 Comments URL: https://news.ycombinator.com/item?id=49216362 Points: 40 #...",
+        "description": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070 Comments URL: https://news.ycombinator.com/item?id=49216362 Points: 72 #...",
         "source": "HackerNews",
         "published": "2026-08-07T21:19:57+00:00"
       },
@@ -52,6 +59,13 @@
         "published": "2026-08-07T20:30:00+00:00"
       },
       {
+        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+        "description": "Article URL: https://twitter.com/un1c0rnioz/status/2084686552299634805 Comments URL: https://news.ycombinator.com/item?id=49215786 Points: 21 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-08-07T20:25:04+00:00"
+      },
+      {
         "title": "Pixel Telefonlara Yapay Zeka Destekli Saat Tasarımları Geliyor",
         "link": "https://shiftdelete.net/pixel-telefonlara-yapay-zeka-destekli-saat-tasarimlari-geliyor",
         "description": "Google, Pixel telefonlar için yapay zeka ile kişiselleştirilebilir kilit ekranı saatleri üzerinde çalışıyor. İşte yeni özelliğe dair ilk detaylar.",
@@ -75,21 +89,21 @@
       {
         "title": "App Store Rejection of the Week: Dark Hours",
         "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-        "description": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours Comments URL: https://news.ycombinator.com/item?id=49214863 Points: 204 # Comments: 98",
+        "description": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours Comments URL: https://news.ycombinator.com/item?id=49214863 Points: 241 # Comments: 129",
         "source": "HackerNews",
         "published": "2026-08-07T18:59:08+00:00"
       },
       {
         "title": "Psychological Warfare in Reverse Engineering (2015)",
         "link": "https://github.com/xoreaxeaxeax/repsych",
-        "description": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 33 # Comments: 2",
+        "description": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 38 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-08-07T18:51:45+00:00"
       },
       {
         "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
         "link": "https://ancientlibrary.net/",
-        "description": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 95 # Comments: 30",
+        "description": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 119 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-08-07T18:51:14+00:00"
       },
@@ -101,13 +115,6 @@
         "published": "2026-08-07T18:25:17+03:00"
       },
       {
-        "title": "Databricks drove down AI coding spend 70%",
-        "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-        "description": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 135 # Comments: 125",
-        "source": "HackerNews",
-        "published": "2026-08-07T18:25:17+00:00"
-      },
-      {
         "title": "The gaming site sponsored by Walmart lays off its editorial staff",
         "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
         "description": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about...",
@@ -117,21 +124,21 @@
       {
         "title": "Assembly Hall of Shame",
         "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "description": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 181 # Comments: 41",
+        "description": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 214 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-08-07T18:01:30+00:00"
       },
       {
         "title": "DeepSeek V4 Flash 0731",
         "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "description": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 339 # Comments: 208",
+        "description": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 378 # Comments: 233",
         "source": "HackerNews",
         "published": "2026-08-07T17:56:20+00:00"
       },
       {
         "title": "Oracle bans AI-generated code from OpenJDK",
         "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "description": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 319 # Comments: 226",
+        "description": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 346 # Comments: 237",
         "source": "HackerNews",
         "published": "2026-08-07T17:36:30+00:00"
       },
@@ -187,7 +194,7 @@
       {
         "title": "Responding to the next frontier of critical cyber capabilities",
         "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "description": "Article URL: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49213029 Points: 131 # Comments: 146",
+        "description": "Article URL: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49213029 Points: 140 # Comments: 157",
         "source": "HackerNews",
         "published": "2026-08-07T16:39:36+00:00"
       },
@@ -222,7 +229,7 @@
       {
         "title": "An all-sky map of half a million supermassive black holes",
         "link": "https://www.sdss.org/black-hole-mapper-release-20/",
-        "description": "Article URL: https://www.sdss.org/black-hole-mapper-release-20/ Comments URL: https://news.ycombinator.com/item?id=49211921 Points: 120 # Comments: 32",
+        "description": "Article URL: https://www.sdss.org/black-hole-mapper-release-20/ Comments URL: https://news.ycombinator.com/item?id=49211921 Points: 129 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-08-07T15:24:53+00:00"
       },
@@ -281,13 +288,6 @@
         "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
         "source": "TechCrunch",
         "published": "2026-08-07T14:28:31+00:00"
-      },
-      {
-        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
-        "source": "TechCrunch",
-        "published": "2026-08-07T14:22:49+00:00"
       },
       {
         "title": "The only instant cameras worth your money",
@@ -355,18 +355,25 @@
     ],
     "dunya": [
       {
+        "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+        "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+        "source": "BBC News",
+        "published": "2026-08-07T22:50:58+00:00"
+      },
+      {
+        "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+        "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+        "description": "No arrests were made at the time and the investigation was closed.",
+        "source": "BBC News",
+        "published": "2026-08-07T22:42:43+00:00"
+      },
+      {
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "description": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
         "source": "BBC News",
         "published": "2026-08-07T22:13:55+00:00"
-      },
-      {
-        "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-        "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-        "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
-        "source": "BBC News",
-        "published": "2026-08-07T22:07:00+00:00"
       },
       {
         "title": "Spain to introduce temporary border checks on visitors from Italy",
@@ -395,13 +402,6 @@
         "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
         "source": "BBC News",
         "published": "2026-08-07T21:10:48+00:00"
-      },
-      {
-        "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
-        "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-        "description": "No arrests were made at the time and the investigation was closed.",
-        "source": "BBC News",
-        "published": "2026-08-07T20:58:58+00:00"
       },
       {
         "title": "US police officer accused of killing three people in Mexico arrested at border",
@@ -567,11 +567,25 @@
     ],
     "turkiye": [
       {
+        "title": "2038’de Dünya Türkiye’de buluşmalı",
+        "link": "https://www.sozcu.com.tr/2038-de-dunya-turkiye-de-bulusmali-p343391",
+        "description": "2038’de Dünya Türkiye’de buluşmalı",
+        "source": "Sözcü",
+        "published": "2026-08-08T02:30:34+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 08 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-08-agustos-2026-1736397",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-08T01:30:00+03:00"
+        "published": "2026-08-08T02:30:00+03:00"
+      },
+      {
+        "title": "Denize düşen amatör balıkçı boğuldu",
+        "link": "https://www.ntv.com.tr/turkiye/denize-dusen-amator-balikci-boguldu-1736401",
+        "description": "İstanbul'da balık tutarken çıktığı kayalıkta dengesini kaybederek denize düşen 74 yaşındaki Ahmet D. yaşamını yitirdi.",
+        "source": "NTV",
+        "published": "2026-08-08T02:05:49+03:00"
       },
       {
         "title": "Transfer yasağı kalktı Kayserispor şov yaptı! Tam 15 imza birden",
@@ -600,13 +614,6 @@
         "description": "Adalet Bakanı Akın Gürlek, Terörsüz Türkiye Sürecine ilişkin açıklamalarda bulundu. Iğdır'da konuşan Bakan Gürlek, provokasyonlara rağmen sağduyulu davranan bölge halkına teşekkür etti. Adalet Bakanı Gürlek, faili meçhul cinayetlerle ilgili olarak...",
         "source": "NTV",
         "published": "2026-08-08T00:28:40+03:00"
-      },
-      {
-        "title": "2038’de Dünya Türkiye’de buluşmalı",
-        "link": "https://www.sozcu.com.tr/2038-de-dunya-turkiye-de-bulusmali-p343391",
-        "description": "2038’de Dünya Türkiye’de buluşmalı",
-        "source": "Sözcü",
-        "published": "2026-08-08T00:10:17+03:00"
       },
       {
         "title": "Mekke Ortak Savunma Anlaşması dünya basınında. \"Üç bölgesel güç işbirliğini pekiştirdi\"",
@@ -707,13 +714,6 @@
         "published": "2026-08-07T19:42:21+00:00"
       },
       {
-        "title": "Dışişleri Sözcüsü Keçeli'den Yunanistan açıklaması. \"Ülkemiz açısından herhangi bir hukuki sonuç doğurmayacaktır\"",
-        "link": "https://www.ntv.com.tr/turkiye/disisleri-sozcusu-keceliden-yunanistan-aciklamasi-ulkemiz-acisindan-herhangi-bir-hukuki-sonuc-dogurmayacaktir-1736385",
-        "description": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Yunanistan tarafından ilan edilen Turizm Özel Mekansal Çerçevesi'nin, aidiyeti uluslararası antlaşmalarla Yunanistan’a devredilmemiş coğrafi formasyonlar dahil, iki ülke arasındaki birbiriyle bağlantılı Ege...",
-        "source": "NTV",
-        "published": "2026-08-07T19:27:30+03:00"
-      },
-      {
         "title": "Erdoğan: 'Savunma anlaşması hiçbir ülkeyi hedef almıyor'",
         "link": "https://www.bbc.com/turkce/articles/c62vn5wzz59o?at_medium=RSS&at_campaign=rss",
         "description": "Türkiye, Suudi Arabistan ve Pakistan 7 Ağustos Cuma günü Mekke'de ortak savunma anlaşması imzaladı.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+92°F",
-    "wind": "↑11mph",
-    "humidity": "51%"
+    "temp": "+84°F",
+    "wind": "↘6mph",
+    "humidity": "44%"
   }
 }
