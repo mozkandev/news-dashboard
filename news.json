@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-07T00:23:36.850115+00:00",
+  "updated_at": "2026-08-07T03:27:54.143075+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-        "link": "https://zenodo.org/records/21359923",
-        "description": "Author here. Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique (arXiv:2501.07231) argues...",
+        "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+        "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+        "description": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7 Comments URL: https://news.ycombinator.com/item?id=49204352 Points: 87 # Comments: 48",
         "source": "HackerNews",
-        "published": "2026-08-06T22:50:09+00:00"
+        "published": "2026-08-07T00:06:28+00:00"
       },
       {
         "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -26,21 +26,14 @@
       {
         "title": "Welcoming the Nepalese Government to Have I Been Pwned",
         "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-        "description": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 55 # Comments: 13",
+        "description": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 103 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-08-06T21:52:16+00:00"
       },
       {
-        "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-        "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
-        "description": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core. Comments URL:...",
-        "source": "HackerNews",
-        "published": "2026-08-06T21:49:07+00:00"
-      },
-      {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "link": "https://www.aleksagordic.com/blog/vllm",
-        "description": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 42 # Comments: 3",
+        "description": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 75 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-06T21:30:21+00:00"
       },
@@ -59,9 +52,9 @@
         "published": "2026-08-06T21:20:00+00:00"
       },
       {
-        "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+        "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
         "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-        "description": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm Comments URL: https://news.ycombinator.com/item?id=49202716 Points: 37 # Comments: 2",
+        "description": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm Comments URL: https://news.ycombinator.com/item?id=49202716 Points: 66 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-08-06T21:18:32+00:00"
       },
@@ -82,14 +75,14 @@
       {
         "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-        "description": "https://ir.amd.com/news-events/press-releases/detail/1296/am... https://chatjimmy.ai/ Comments URL: https://news.ycombinator.com/item?id=49201970 Points: 304 # Comments: 241",
+        "description": "https://ir.amd.com/news-events/press-releases/detail/1296/am... https://chatjimmy.ai/ Comments URL: https://news.ycombinator.com/item?id=49201970 Points: 434 # Comments: 336",
         "source": "HackerNews",
         "published": "2026-08-06T20:23:11+00:00"
       },
       {
         "title": "Quake – 30th Anniversary Update",
         "link": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-        "description": "Article URL: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update Comments URL: https://news.ycombinator.com/item?id=49201930 Points: 192 # Comments: 91",
+        "description": "Article URL: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update Comments URL: https://news.ycombinator.com/item?id=49201930 Points: 230 # Comments: 113",
         "source": "HackerNews",
         "published": "2026-08-06T20:21:19+00:00"
       },
@@ -110,14 +103,14 @@
       {
         "title": "Herdr is joining Y Combinator. The runtime stays open",
         "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-        "description": "Article URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/ Comments URL: https://news.ycombinator.com/item?id=49201003 Points: 127 # Comments: 84",
+        "description": "Article URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/ Comments URL: https://news.ycombinator.com/item?id=49201003 Points: 161 # Comments: 110",
         "source": "HackerNews",
         "published": "2026-08-06T19:14:21+00:00"
       },
       {
         "title": "Can you reverse engineer an ASIC?",
         "link": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-        "description": "Article URL: https://blog.janestreet.com/can-you-reverse-engineer-an-asic/ Comments URL: https://news.ycombinator.com/item?id=49200933 Points: 53 # Comments: 30",
+        "description": "Article URL: https://blog.janestreet.com/can-you-reverse-engineer-an-asic/ Comments URL: https://news.ycombinator.com/item?id=49200933 Points: 69 # Comments: 46",
         "source": "HackerNews",
         "published": "2026-08-06T19:07:33+00:00"
       },
@@ -131,7 +124,7 @@
       {
         "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
         "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
-        "description": "Article URL: https://artificialanalysis.ai/?intelligence=agentic-index Comments URL: https://news.ycombinator.com/item?id=49200652 Points: 406 # Comments: 263",
+        "description": "Article URL: https://artificialanalysis.ai/?intelligence=agentic-index Comments URL: https://news.ycombinator.com/item?id=49200652 Points: 454 # Comments: 289",
         "source": "HackerNews",
         "published": "2026-08-06T18:44:49+00:00"
       },
@@ -141,6 +134,13 @@
         "description": "Akıllı telefon dünyasında katlanabilir modellerin rekabeti her geçen gün daha da kızışıyor. Özellikle ince tasarımı ve üst düzey donanımıyla dikkat çeken Honor’un yeni nesil katlanabilir amiral gemisi Honor Magic V6, nihayet Türkiye pazarına giriş...",
         "source": "ShiftDelete",
         "published": "2026-08-06T18:31:24+00:00"
+      },
+      {
+        "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+        "link": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+        "description": "Article URL: https://mastodon.gamedev.place/@rygorous/117047697255584965 Comments URL: https://news.ycombinator.com/item?id=49200439 Points: 94 # Comments: 179",
+        "source": "HackerNews",
+        "published": "2026-08-06T18:26:08+00:00"
       },
       {
         "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+        "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+        "source": "BBC News",
+        "published": "2026-08-07T01:57:02+00:00"
+      },
+      {
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "source": "BBC News",
+        "published": "2026-08-07T00:54:03+00:00"
+      },
+      {
         "title": "Arrests in Norfolk town as disorder continues for third night",
         "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
         "description": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
@@ -362,11 +376,11 @@
         "published": "2026-08-07T00:15:52+00:00"
       },
       {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-        "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "title": "Village sees 50 days without rain during summer heatwave",
+        "link": "https://www.bbc.co.uk/weather/articles/c99872dyym1o?at_medium=RSS&at_campaign=rss",
+        "description": "Wisley in Surrey has recorded no rain for 50 consecutive days - with little rain on the horizon as Matt Taylor from BBC Weather explains.",
         "source": "BBC News",
-        "published": "2026-08-07T00:06:17+00:00"
+        "published": "2026-08-06T23:06:41+00:00"
       },
       {
         "title": "Thousands of rail passengers hit by power failure disruption",
@@ -374,13 +388,6 @@
         "description": "An outage in Manchester caused delays and cancellations, with services expected to be affected throughout the evening.",
         "source": "BBC News",
         "published": "2026-08-06T22:35:54+00:00"
-      },
-      {
-        "title": "Met Police boss admits mistake over Cambridge professor plagiarism row",
-        "link": "https://www.bbc.co.uk/news/articles/c0rd9y99grzo?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Mark Rowley says his force \"dropped the ball\" after it investigated a reporter looking into claims about Jason Arday.",
-        "source": "BBC News",
-        "published": "2026-08-06T21:37:04+00:00"
       },
       {
         "title": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
@@ -411,13 +418,6 @@
         "published": "2026-08-06T18:01:52+00:00"
       },
       {
-        "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-        "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-        "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-        "source": "BBC News",
-        "published": "2026-08-06T17:38:51+00:00"
-      },
-      {
         "title": "Boxer charged with killing aid worker in Greece after his wife gave police 'key' details",
         "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
         "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
@@ -432,18 +432,25 @@
         "published": "2026-08-06T16:58:56-04:00"
       },
       {
+        "title": "A look at West Virginia after last year's massive ICE operation",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
+        "description": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country Roads.",
+        "source": "NPR",
+        "published": "2026-08-06T16:40:52-04:00"
+      },
+      {
+        "title": "EasyJet agrees to £5.7bn takeover by US firm",
+        "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+        "description": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+        "source": "BBC News",
+        "published": "2026-08-06T16:35:32+00:00"
+      },
+      {
         "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
         "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
         "description": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials fear, as...",
         "source": "The Guardian",
         "published": "2026-08-06T16:18:46+00:00"
-      },
-      {
-        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-        "source": "BBC News",
-        "published": "2026-08-06T16:11:30+00:00"
       },
       {
         "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
@@ -523,13 +530,6 @@
         "published": "2026-08-06T09:13:28-04:00"
       },
       {
-        "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
-        "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
-        "description": "Abdul El-Sayed has won Michigan's Democratic Senate primary and will face Republican Congressman Mike Rogers in the midterms. And, today, Dr. Anthony Fauci faces a contempt of Congress vote.",
-        "source": "NPR",
-        "published": "2026-08-06T07:30:59-04:00"
-      },
-      {
         "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
         "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
         "description": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindia, the zoo’s 20-year-old pygmy hippo, started...",
@@ -567,6 +567,62 @@
     ],
     "turkiye": [
       {
+        "title": "MHP’de imza atmayan vekilden çok çarpıcı paylaşım: Bir canım var",
+        "link": "https://www.sozcu.com.tr/mhp-de-imza-atmayan-vekilden-cok-carpici-paylasim-bir-canim-var-p343099",
+        "description": "MHP’de imza atmayan vekilden çok çarpıcı paylaşım: Bir canım var",
+        "source": "Sözcü",
+        "published": "2026-08-07T06:22:59+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-agustos-2026-1736260",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-07T06:00:00+03:00"
+      },
+      {
+        "title": "Özdağ'dan sert tepki: Öcalan’ın statüsü bebek katilidir",
+        "link": "https://www.sozcu.com.tr/ozdag-dan-sert-tepki-ocalan-in-statusu-bebek-katilidir-p343095",
+        "description": "Özdağ'dan sert tepki: Öcalan’ın statüsü bebek katilidir",
+        "source": "Sözcü",
+        "published": "2026-08-07T05:30:13+03:00"
+      },
+      {
+        "title": "Para yetmedi 14 bin tesis krize terk edildi",
+        "link": "https://www.sozcu.com.tr/para-yetmedi-14-bin-tesis-krize-terk-edildi-p343094",
+        "description": "Para yetmedi 14 bin tesis krize terk edildi",
+        "source": "Sözcü",
+        "published": "2026-08-07T05:30:13+03:00"
+      },
+      {
+        "title": "Emeklinin maaşının yüzde 10’u kesilebilir",
+        "link": "https://www.sozcu.com.tr/emeklinin-maasinin-yuzde-10-u-kesilebilir-p343093",
+        "description": "Emeklinin maaşının yüzde 10’u kesilebilir",
+        "source": "Sözcü",
+        "published": "2026-08-07T05:30:13+03:00"
+      },
+      {
+        "title": "12.5 milyon emekli açık kıskacında",
+        "link": "https://www.sozcu.com.tr/12-5-milyon-emekli-acik-kiskacinda-p343092",
+        "description": "12.5 milyon emekli açık kıskacında",
+        "source": "Sözcü",
+        "published": "2026-08-07T05:30:13+03:00"
+      },
+      {
+        "title": "Yerli devler işçi çıkarıyor",
+        "link": "https://www.sozcu.com.tr/yerli-devler-isci-cikariyor-p343091",
+        "description": "Yerli devler işçi çıkarıyor",
+        "source": "Sözcü",
+        "published": "2026-08-07T05:30:13+03:00"
+      },
+      {
+        "title": "Yeni aldığı motosikletle ilk gezisi sonu oldu",
+        "link": "https://www.ntv.com.tr/turkiye/yeni-aldigi-motosikletle-ilk-gezisi-sonu-oldu-1736266",
+        "description": "Çerkezköy'de yeni satın aldığı motosikletle gezintiye çıkan 22 yaşındaki genç, park halindeki araca çarptığı kazada hayatını kaybetti.",
+        "source": "NTV",
+        "published": "2026-08-07T04:44:17+03:00"
+      },
+      {
         "title": "Polis Meslek Yüksekokulları 3 bin 250 öğrenci alacak! İşte aranan şartlar",
         "link": "https://www.sozcu.com.tr/polis-meslek-yuksekokullari-3-bin-250-ogrenci-alacak-iste-aranan-sartlar-p343096",
         "description": "Polis Meslek Yüksekokulları 3 bin 250 öğrenci alacak! İşte aranan şartlar",
@@ -574,11 +630,18 @@
         "published": "2026-08-07T03:21:09+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-agustos-2026-1736260",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-07T03:00:00+03:00"
+        "title": "Meta'ya çocuk güvenliği davasında yarım milyar dolar ceza",
+        "link": "https://www.bbc.com/turkce/articles/c9v4xnl10vno?at_medium=RSS&at_campaign=rss",
+        "description": "New Mexico eyaletinde bir yargıç, Instagram, Facebook ve WhatsApp'ın ana şirketi olan şirketin çocuklara verdiği zararlar nedeniyle 567 milyon dolar daha tazminat ödemesine karar verdi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-07T03:09:14+00:00"
+      },
+      {
+        "title": "Bilimde 'dönüm noktası': Yapay zeka ile sıfırdan virüs üretildi",
+        "link": "https://www.bbc.com/turkce/articles/cz97vxwn4dyo?at_medium=RSS&at_campaign=rss",
+        "description": "ABD'de bir grup araştırmacı, yapay zeka ile tamamen işlevsel ve laboratuvarda çoğalabilen yepyeni virüsler tasarladıklarını duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-08-07T02:25:02+00:00"
       },
       {
         "title": "Italiano'dan itiraf: Çok acı çektik",
@@ -595,13 +658,6 @@
         "published": "2026-08-07T01:19:18+03:00"
       },
       {
-        "title": "Avrupa Ligi'nde ilk maçlar tamamlandı: Gözler rövanşlara çevrildi",
-        "link": "https://www.sozcu.com.tr/avrupa-kupalarinda-ilk-maclar-tamamlandi-gozler-rovanslara-cevrildi-p343083",
-        "description": "Avrupa Ligi'nde ilk maçlar tamamlandı: Gözler rövanşlara çevrildi",
-        "source": "Sözcü",
-        "published": "2026-08-07T01:06:53+03:00"
-      },
-      {
         "title": "Demiryolunun geçeceği bataklıkta binlerce yıllık hazine bulundu",
         "link": "https://www.sozcu.com.tr/demiryolunun-gececegi-bataklikta-binlerce-yillik-hazine-bulundu-p343085",
         "description": "Demiryolunun geçeceği bataklıkta binlerce yıllık hazine bulundu",
@@ -609,32 +665,18 @@
         "published": "2026-08-07T01:04:59+03:00"
       },
       {
-        "title": "Geleceği tartışma konusuydu! Real Madrid'den Vinicius Junior kararı",
-        "link": "https://www.sozcu.com.tr/real-madridden-vinicius-junior-karari-yeni-sozlesme-resmen-aciklandi-p343082",
-        "description": "Geleceği tartışma konusuydu! Real Madrid'den Vinicius Junior kararı",
-        "source": "Sözcü",
-        "published": "2026-08-07T01:02:20+03:00"
+        "title": "Türkiye Gazze Barış Anlaşması'nın yeni aşamasında nasıl bir diplomasi izliyor?",
+        "link": "https://www.bbc.com/turkce/articles/c74g12d9z2yo?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye, diğer arabulucular Katar ve Mısır ile birlikte İsrail’in Gazze’de giderek artan saldırılarına dikkat çekiyor ve bu tırmanmanın 30 Temmuz’da açıklanan barış planı yol haritasını sabote etmek amaçlı olduğunu kaydediyor. Ağustos ayında bir...",
+        "source": "BBC Turkish",
+        "published": "2026-08-07T00:57:02+00:00"
       },
       {
-        "title": "Hafriyat kamyonuna çarpan otomobil hurdaya döndü",
-        "link": "https://www.sozcu.com.tr/hafriyat-kamyonuna-carpan-otomobil-hurdaya-dondu-p343078",
-        "description": "Hafriyat kamyonuna çarpan otomobil hurdaya döndü",
-        "source": "Sözcü",
-        "published": "2026-08-07T00:51:25+03:00"
-      },
-      {
-        "title": "İnşaat sektöründe yeni dönem: Harç kullanmıyor, blokları tek tek diziyor",
-        "link": "https://www.sozcu.com.tr/insaat-sektorunde-yeni-donem-harc-kullanmiyor-bloklari-tek-tek-diziyor-p343076",
-        "description": "İnşaat sektöründe yeni dönem: Harç kullanmıyor, blokları tek tek diziyor",
-        "source": "Sözcü",
-        "published": "2026-08-07T00:29:54+03:00"
-      },
-      {
-        "title": "Trump’tan yeni İran açıklaması: Kısa süre içinde…",
-        "link": "https://www.sozcu.com.tr/trump-tan-yeni-iran-aciklamasi-kisa-sure-icinde-p343069",
-        "description": "Trump’tan yeni İran açıklaması: Kısa süre içinde…",
-        "source": "Sözcü",
-        "published": "2026-08-07T00:12:23+03:00"
+        "title": "AFP ve Reuters haber ajansları: Türkiye, Suudi Arabistan ve Pakistan bugün üçlü savunma anlaşması imzalıyor",
+        "link": "https://www.bbc.com/turkce/articles/c62vn5wzz59o?at_medium=RSS&at_campaign=rss",
+        "description": "Uluslararası haber ajanslarına konuşan farklı kaynaklar, Suudi Arabistan, Türkiye ve Pakistan'ın Cuma günü üçlü bir ortak savunma anlaşması imzalayacağını kaydediyor.",
+        "source": "BBC Turkish",
+        "published": "2026-08-07T00:31:34+00:00"
       },
       {
         "title": "Sokak hayvanları düzenlemesinin ikinci yılı: Sahada neler yaşandı, taraflar ne diyor?",
@@ -644,14 +686,7 @@
         "published": "2026-08-06T23:59:36+00:00"
       },
       {
-        "title": "Komşuda Batı Nil Virüsü alarmı: Sivrisineklerden yayılıyor, vaka sayısı hızla artıyor",
-        "link": "https://www.sozcu.com.tr/komsuda-bati-nil-virusu-alarmi-sivrisineklerden-yayiliyor-vaka-sayisi-hizla-artiyor-p343066",
-        "description": "Komşuda Batı Nil Virüsü alarmı: Sivrisineklerden yayılıyor, vaka sayısı hızla artıyor",
-        "source": "Sözcü",
-        "published": "2026-08-06T23:46:07+03:00"
-      },
-      {
-        "title": "Trump, füze kıtlığı iddialarını reddetti, bilgi sızdıranların 'avlandığını' söyledi",
+        "title": "İran savaşı altıncı ayında: Trump, füze kıtlığı iddialarını reddetti",
         "link": "https://www.bbc.com/turkce/articles/cx2vwxl258jo?at_medium=RSS&at_campaign=rss",
         "description": "ABD Başkanı Donald Trump, ülkesinin mühimmat sıkıntısı çektiği yönündeki iddiaları yalanladı. Bilgi sızdırdığından şüphelenilenler için \"uzun hapis cezaları\" sözü verdi.",
         "source": "BBC Turkish",
@@ -707,13 +742,6 @@
         "published": "2026-08-06T15:40:44+03:00"
       },
       {
-        "title": "UEFA: FIFA Başkanı Infantino'nun özrü 'hiçbir şeyi değiştirmiyor'",
-        "link": "https://www.bbc.com/turkce/articles/cj0317qv332o?at_medium=RSS&at_campaign=rss",
-        "description": "UEFA, FIFA Başkanı Gianni Infantino'nun Dünya Kupası dahil turnuvaların özel yatırımcılara açılması planları sırasında hatalar yaptığını kabul etmesi ve özür dilemesinin \"hiç bir şeyi değiştirmediğini\" açıkladı.",
-        "source": "BBC Turkish",
-        "published": "2026-08-06T15:35:57+00:00"
-      },
-      {
         "title": "TÜGVA'dan çocuklar için meydan şenlikleri",
         "link": "https://www.ntv.com.tr/turkiye/tugvadan-cocuklar-icin-meydan-senlikleri-1736229",
         "description": "Türkiye Gençlik Vakfının (TÜGVA) İstanbul'un 39 ilçesinde eş zamanlı yürüttüğü yaz okulu programları, çocuk ve gençleri eğitim, spor, kültür ve sosyal etkinliklerde bir araya getirdi.",
@@ -726,13 +754,6 @@
         "description": "Çanakkale'de böcek ilacından zehirlendiği iddia edilen dokuz yaşındaki Yusuf Talha Çanlı yaşamını yitirdi, annesi ise yoğun bakımda. Olayla ilgili olarak ilaçlamanın yapıldığı dairenin sahibi ve bir firma yetkilisi gözaltına alındı.",
         "source": "NTV",
         "published": "2026-08-06T15:13:02+03:00"
-      },
-      {
-        "title": "Ertuğrul Özkök ifade verdi. \"Aklımın ucundan bile geçmez\"",
-        "link": "https://www.ntv.com.tr/turkiye/ertugrul-ozkok-ifade-verdi-aklimin-ucundan-bile-gecmez-1736212",
-        "description": "Ertuğrul Özkök, \"Cumhurbaşkanına hakaret\" suçlamasıyla başlatılan soruşturma kapsamında savcılığa ifade verdi. Özkök, \"Cumhurbaşkanına hakaret, asla aklımın ucundan dahi geçmeyecek bir şey.\" dedi.",
-        "source": "NTV",
-        "published": "2026-08-06T15:08:18+03:00"
       },
       {
         "title": "Adıyaman'da orman yangını. Ekipler müdahale ediyor",
@@ -754,39 +775,18 @@
         "description": "Üsküdar Belediye Başkanı Sinem Dedetaş'ın gözaltına alınmasının ardından yapılan meclis oylamasında başkan vekilliğine CHP'nin adayı Sibel Tan Çetinkaya seçildi. AKP, oylamayı \"irade gasbı\" olarak niteledi ve hukuki itirazda bulunacağını açıkladı.",
         "source": "BBC Turkish",
         "published": "2026-08-06T13:21:33+00:00"
-      },
-      {
-        "title": "Erdoğan - Bahçeli görüşmesi sona erdi, açıklama yapılmadı",
-        "link": "https://www.bbc.com/turkce/articles/cm2g0pene1eo?at_medium=RSS&at_campaign=rss",
-        "description": "Cumhurbaşkanı Erdoğan ve MHP lideri Bahçeli, çözüm süreci kapsamında TBMM Başkanlığı'na sunulan çerçeve yasa sonrası ilk kez görüştü. 45 dakika süren görüşmeden sonra açıklama yapılmadı.",
-        "source": "BBC Turkish",
-        "published": "2026-08-06T13:12:48+00:00"
-      },
-      {
-        "title": "Avrupa'da kuraklık nedeniyle ortaya çıkan bombalar, gemiler ve mamut kalıntıları",
-        "link": "https://www.bbc.com/turkce/articles/c2elpv8wve8o?at_medium=RSS&at_campaign=rss",
-        "description": "Avrupa genelinde yaşanan aşırı sıcaklar ve kuraklıklar, Nazi savaş gemilerinden tarih öncesi döneme ait mamut kemiklerine ve hatta unutulmuş manastırlara kadar tarihi kalıntıları gün yüzüne çıkardı. 19 ülkeden geçen Tuna Nehri havzasının suları son...",
-        "source": "BBC Turkish",
-        "published": "2026-08-06T10:40:12+00:00"
-      },
-      {
-        "title": "Çerçeve yasa teklifi Meclis'te: Kimleri kapsıyor, hangi koşullar aranacak?",
-        "link": "https://www.bbc.com/turkce/articles/cdrvng02zn7o?at_medium=RSS&at_campaign=rss",
-        "description": "İktidarın \"Terörsüz Türkiye\", DEM Parti'nin ise \"Barış ve Demokratik Toplum\" olarak adlandırdığı yeni çözüm sürecinin hukuki altyapısını oluşturmak amacıyla hazırlanan 12 maddelik \"Millî Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair...",
-        "source": "BBC Turkish",
-        "published": "2026-08-06T07:36:52+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.5931,
-    "eur_try": 54.9819,
-    "eur_usd": 0.8657
+    "usd_try": 47.6472,
+    "eur_try": 54.9388,
+    "eur_usd": 0.8673
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+70°F",
-    "wind": "↑4mph",
-    "humidity": "88%"
+    "temp": "+68°F",
+    "wind": "↘4mph",
+    "humidity": "65%"
   }
 }
