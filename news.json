@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-08-08T19:29:30.716803+00:00",
+  "updated_at": "2026-08-08T19:56:23.042061+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "description": "NextSlide says its team members are now working on ChatGPT.",
+        "source": "TechCrunch",
+        "published": "2026-08-08T19:41:13+00:00"
+      },
+      {
         "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
         "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-        "description": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 133 # Comments: 55",
+        "description": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 166 # Comments: 77",
         "source": "HackerNews",
         "published": "2026-08-08T18:09:31+00:00"
       },
@@ -19,14 +26,14 @@
       {
         "title": "TinySol, a tiny solitaire game for DOS",
         "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
-        "description": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 7 # Comments: 3",
+        "description": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 13 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-08T17:42:40+00:00"
       },
       {
         "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
         "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-        "description": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 49 # Comments: 13",
+        "description": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 59 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-08-08T17:27:52+00:00"
       },
@@ -40,7 +47,7 @@
       {
         "title": "LinkedIn Feed Blocker",
         "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
-        "description": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 81 # Comments: 47",
+        "description": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 86 # Comments: 49",
         "source": "HackerNews",
         "published": "2026-08-08T16:49:07+00:00"
       },
@@ -54,21 +61,21 @@
       {
         "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
         "link": "https://toonk.io/index.html",
-        "description": "Article URL: https://toonk.io/index.html Comments URL: https://news.ycombinator.com/item?id=49223105 Points: 11 # Comments: 6",
+        "description": "Article URL: https://toonk.io/index.html Comments URL: https://news.ycombinator.com/item?id=49223105 Points: 12 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-08-08T16:07:00+00:00"
       },
       {
         "title": "Fastmail offers EU data region",
         "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-        "description": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 149 # Comments: 74",
+        "description": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 161 # Comments: 80",
         "source": "HackerNews",
         "published": "2026-08-08T16:04:51+00:00"
       },
       {
         "title": "Can Intel finally beat ARM on performance per Watt?",
         "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-        "description": "Article URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/ Comments URL: https://news.ycombinator.com/item?id=49223079 Points: 49 # Comments: 15",
+        "description": "Article URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/ Comments URL: https://news.ycombinator.com/item?id=49223079 Points: 59 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-08-08T16:04:36+00:00"
       },
@@ -103,7 +110,7 @@
       {
         "title": "\"Code was never the hard part\" is an insult to all programmers",
         "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "description": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 180 # Comments: 127",
+        "description": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 212 # Comments: 143",
         "source": "HackerNews",
         "published": "2026-08-08T14:32:33+00:00"
       },
@@ -117,7 +124,7 @@
       {
         "title": "Gentoo bugzilla closed due AI bot scraper overload",
         "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "description": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 116 # Comments: 81",
+        "description": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 117 # Comments: 84",
         "source": "HackerNews",
         "published": "2026-08-08T13:55:42+00:00"
       },
@@ -138,7 +145,7 @@
       {
         "title": "Triton: DirectX 11 Driver for QEMU",
         "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-        "description": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 87 # Comments: 13",
+        "description": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 87 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-08-08T13:33:06+00:00"
       },
@@ -227,67 +234,11 @@
         "published": "2026-08-07T21:00:08+00:00"
       },
       {
-        "title": "KGM Fiyat Listesi - Ağustos 2026",
-        "link": "\n                    https://www.webtekno.com/agustos-2026-kgm-fiyat-listesi-h221764.html\n                    ",
-        "description": "KGM SsangYong Torres EVX, Musso EV, Torres, Actyon, Musso Grand ve Korando modellerinin Ağustos 2026 fiyatları Webtekno’da!",
-        "source": "Webtekno",
-        "published": "2026-08-07T18:25:17+03:00"
-      },
-      {
         "title": "The gaming site sponsored by Walmart lays off its editorial staff",
         "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
         "description": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about...",
         "source": "The Verge",
         "published": "2026-08-07T18:05:08-04:00"
-      },
-      {
-        "title": "Türkiye'deki En Pahalı Telefonlar: 190 Bin TL'ye Telefon?",
-        "link": "\n                    https://www.webtekno.com/en-pahali-telefonlar-2026-h221968.html\n                    ",
-        "description": "Türkiye’de satışa sunulan en pahalı akıllı telefonlar arasında katlanabilir modeller ve amiral gemileri öne çıkıyor. Listenin zirvesinde 2 TB depolamalı iPhone 17 Pro Max 188.999 TL ile yer alırken, Samsung Galaxy Z Fold8 Ultra 187.999 TL fiyatıyla...",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:16:18+03:00"
-      },
-      {
-        "title": "Samsung Galaxy S25 FE Alınır mı? Detaylı İnceleme",
-        "link": "\n                    https://www.webtekno.com/samsung-galaxy-s25-fe-alinir-mi-h221980.html\n                    ",
-        "description": "Samsung Galaxy S25 FE alınır mı? Ekran, kamera, performans, pil, fiyat ve ikinci el piyasasını Ağustos 2026 verileriyle inceliyoruz.",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:16:01+03:00"
-      },
-      {
-        "title": "Türkiye'deki En Pahalı Otomobiller - 2026",
-        "link": "\n                    https://www.webtekno.com/en-pahali-otomobiller-agustos-2026-h221959.html\n                    ",
-        "description": "Türkiye’de satışa çıkarılan en pahalı otomobillerin fiyatları 100 milyon TL sınırını aşmış durumda. Satıştaki modeller arasında Ferrari 849 Testarossa 122 milyon TL ile zirvede yer aldı.",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:15:30+03:00"
-      },
-      {
-        "title": "5.000 TL'den Ucuz En İyi Kulak İçi Kulaklıklar: ANC ve Ses Kalitesiyle Öne Çıkan 10 Model",
-        "link": "\n                    https://www.webtekno.com/5-000-tl-ucuz-en-iyi-kulak-ici-kulakliklar-h221974.html\n                    ",
-        "description": "5.000 TL bütçeyle aktif gürültü engelleme, yüksek çözünürlüklü kablosuz ses, güçlü mikrofonlar ve uzun pil ömrü sunan oldukça iddialı kulaklıklara ulaşmak mümkün. Soundcore Liberty 5, REDMI Buds 8 Pro ve Huawei FreeBuds 7i; teknik özellikleri ve...",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:03:37+03:00"
-      },
-      {
-        "title": "Samsung Galaxy S26 FE’nin Resmî Basın Görselleri Sızdırıldı!",
-        "link": "\n                    https://www.webtekno.com/samsung-galaxy-s26-fe-basin-gorselleri-h221987.html\n                    ",
-        "description": "Çok beklenen Samsung Galaxy S26 FE modelinin resmî basın görselleri sızdırıldı.",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:02:30+03:00"
-      },
-      {
-        "title": "iPhone 14 Pro Max Alınır mı? İşte Özellikleri",
-        "link": "\n                    https://www.webtekno.com/iphone-14-pro-max-alinir-mi-h221926.html\n                    ",
-        "description": "Apple’ın 2022 yılında piyasaya sürdüğü iPhone 14 Pro Max, aradan geçen zamana rağmen büyük ekranı, 120 Hz yenileme hızı ve üçlü kamera sistemiyle dikkat çekmeye devam ediyor.",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:01:52+03:00"
-      },
-      {
-        "title": "20-30 Bin TL Aralığında Alabileceğiniz Kamerası En İyi Telefonlar",
-        "link": "\n                    https://www.webtekno.com/20-30-bin-tl-araliginda-alabileceginiz-kamerasi-en-iyi-telefonlar-h221923.html\n                    ",
-        "description": "20-30 bin TL bandında kamera performansını önceliklendiren kullanıcılar için öne çıkan telefonları sıraladık. Gönderilen model havuzunda Samsung Galaxy A57 5G en dengeli fotoğraf-video paketini sunarken, REDMI Note 15 Pro 5G ana kamera ayrıntısı,...",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:01:41+03:00"
       },
       {
         "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -311,20 +262,6 @@
         "published": "2026-08-07T16:01:51-04:00"
       },
       {
-        "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-        "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-        "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-        "source": "TechCrunch",
-        "published": "2026-08-07T15:52:33+00:00"
-      },
-      {
-        "title": "Farklı Kategorilerden Kitap Tavsiyeleri",
-        "link": "\n                    https://www.webtekno.com/yeni-cikanlardan-fantastik-edebiyata-farkli-kategorilerden-kitap-tavsiyeleri-h221983.html\n                    ",
-        "description": "Bu hafta Amazon'da öne çıkan ve okurların ilgisini çeken kitapları farklı kategoriler altında bir araya getirdik.",
-        "source": "Webtekno",
-        "published": "2026-08-07T15:16:50+03:00"
-      },
-      {
         "title": "Watching Roku’s AI channel is like eating from a trough",
         "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
         "description": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced...",
@@ -339,13 +276,6 @@
         "published": "2026-08-07T14:40:34-04:00"
       },
       {
-        "title": "En Ucuz Hatchback Otomobiller - Ağustos 2026",
-        "link": "\n                    https://www.webtekno.com/agustos-2026-en-ucuz-hatchback-otomobiller-h221902.html\n                    ",
-        "description": "Türkiye’de satılan en ucuz hatchback otomobiller Ağustos 2026 itibarıyla belli oldu. Dacia Sandero 1.299.000 TL’lik başlangıç fiyatıyla listenin ilk sırasında yer aldı.",
-        "source": "Webtekno",
-        "published": "2026-08-07T14:34:36+03:00"
-      },
-      {
         "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
         "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
         "description": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on...",
@@ -354,6 +284,13 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+        "source": "BBC News",
+        "published": "2026-08-08T19:18:57+00:00"
+      },
       {
         "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
         "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
@@ -374,13 +311,6 @@
         "description": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
         "source": "BBC News",
         "published": "2026-08-08T15:59:37+00:00"
-      },
-      {
-        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-        "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-        "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-        "source": "BBC News",
-        "published": "2026-08-08T15:56:39+00:00"
       },
       {
         "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
@@ -567,11 +497,25 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika... Suça sürüklenen çocuk yasası TBMM'de kabul edildi",
+        "link": "https://www.sozcu.com.tr/son-dakika-suca-suruklenen-cocuk-yasasi-tbmm-de-kabul-edildi-p343600",
+        "description": "Son dakika... Suça sürüklenen çocuk yasası TBMM'de kabul edildi",
+        "source": "Sözcü",
+        "published": "2026-08-08T22:55:02+03:00"
+      },
+      {
+        "title": "Şarkıcı Cansever hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/sarkici-cansever-hayatini-kaybetti-p343601",
+        "description": "Şarkıcı Cansever hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-08-08T22:49:00+03:00"
+      },
+      {
         "title": "Suça sürüklenen çocuk yasası TBMM'de kabul edildi",
         "link": "https://www.ntv.com.tr/turkiye/galeri-suca-suruklenen-cocuk-yasasi-tbmmde-kabul-edildi-1736528",
         "description": "TBMM Genel Kurulu'nda, suça sürüklenen çocuklara ilişkin düzenlemeleri içeren Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edildi.",
         "source": "NTV",
-        "published": "2026-08-08T22:25:08+03:00"
+        "published": "2026-08-08T22:48:46+03:00"
       },
       {
         "title": "Cami hoparlöründen yükselen ses köylüleri şaşkına çevirdi",
@@ -628,20 +572,6 @@
         "description": "Okan Buruk'u çılgına çeviren karar! Kırmızı kartla oyundan atıldı",
         "source": "Sözcü",
         "published": "2026-08-08T21:19:34+03:00"
-      },
-      {
-        "title": "Plakasındaki ibare pahalıya patladı: O ifade de kurtaramadı",
-        "link": "https://www.sozcu.com.tr/plakasindaki-ibare-pahaliya-patladi-o-ifade-de-kurtaramadi-p343582",
-        "description": "Plakasındaki ibare pahalıya patladı: O ifade de kurtaramadı",
-        "source": "Sözcü",
-        "published": "2026-08-08T21:14:03+03:00"
-      },
-      {
-        "title": "RTÜK'ten ATV'ye ceza: Turkuvaz Medya'dan tepki",
-        "link": "https://www.sozcu.com.tr/rtuk-ten-atv-ye-ceza-turkuvaz-medya-dan-tepki-p343581",
-        "description": "RTÜK'ten ATV'ye ceza: Turkuvaz Medya'dan tepki",
-        "source": "Sözcü",
-        "published": "2026-08-08T21:13:37+03:00"
       },
       {
         "title": "18 kişinin öldüğü kazada baş şüpheliydi! 8 yıl sonra yakalandı",
@@ -785,8 +715,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+69°F",
-    "wind": "↘3mph",
-    "humidity": "75%"
+    "temp": "+83°F",
+    "wind": "↖10mph",
+    "humidity": "61%"
   }
 }
