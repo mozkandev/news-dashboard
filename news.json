@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-10T05:26:08.234101+00:00",
+  "updated_at": "2026-08-10T06:51:41.555423+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "OpenAI, Yeni Büyük Yapay Zekâ Modeli Astra'yı Erteledi: İşte Nedeni",
+        "link": "\n                    https://www.webtekno.com/openai-astra-erteledi-h222004.html\n                    ",
+        "description": "OpenAI, çok beklenen yeni büyük yapay zekâ modeli Astra'yı erteleme kararı aldı.",
+        "source": "Webtekno",
+        "published": "2026-08-10T08:40:50+03:00"
+      },
       {
         "title": "Avrupa Birliği, Starlink Benzeri Uydu İnterneti Hizmeti Planlarını Açıkladı",
         "link": "\n                    https://www.webtekno.com/avrupa-birligi-starlink-benzeri-uydu-interneti-iris2-h222001.html\n                    ",
@@ -31,6 +38,27 @@
         "published": "2026-08-10T06:39:40+03:00"
       },
       {
+        "title": "Hisense’den Çılgın Telefon: Hem Modüler Hem E-ink Ekranlı",
+        "link": "https://shiftdelete.net/hisenseden-cilgin-telefon-hem-moduler-hem-e-ink-ekranli",
+        "description": "Hisense A10 e-ink telefon, manyetik olarak takılabilen renkli LCD ekranı ve teknik özellikleriyle dikkat çekiyor. İşte cihaz hakkında tüm detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-08-10T06:30:00+00:00"
+      },
+      {
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "link": "https://www.docker.com/products/docker-sandboxes/",
+        "description": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 45 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-08-10T06:02:38+00:00"
+      },
+      {
+        "title": "Tekirdağ Sahillerinde Teknolojik Cankurtaran Dönemi",
+        "link": "https://shiftdelete.net/tekirdag-sahillerinde-teknolojik-cankurtaran-donemi",
+        "description": "Tekirdağ sahillerinde boğulma vakalarına karşı insansız cankurtaran araçları kullanılmaya başlandı. Müdahale süresi 20 saniyeye düşüyor.",
+        "source": "ShiftDelete",
+        "published": "2026-08-10T05:30:00+00:00"
+      },
+      {
         "title": "Windows 11’de RAM Canavarı Uygulama: Çözüm Ne?",
         "link": "https://shiftdelete.net/windows-11de-ram-canavari-uygulama-cozum-ne",
         "description": "Windows 11 Hava Durumu uygulaması, yüksek RAM tüketimi ve içerisinde yer alan reklamlarla kullanıcıların eleştirilerine hedef oluyor.",
@@ -38,18 +66,18 @@
         "published": "2026-08-10T05:00:00+00:00"
       },
       {
+        "title": "The Philippines' big offshoring industry is growing despite AI",
+        "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+        "description": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 14 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-08-10T04:35:24+00:00"
+      },
+      {
         "title": "iPhone 17 Tarih Yazıyor: 15 Yıllık Rekor Kırıldı",
         "link": "https://shiftdelete.net/iphone-17-tarih-yaziyor-15-yillik-rekor-kirildi",
         "description": "Apple'ın iPhone 17 modeli, 15 yıldır kırılamayan en uzun süre güncel kalan iPhone rekorunu kırmaya hazırlanıyor. İşte detaylar.",
         "source": "ShiftDelete",
         "published": "2026-08-10T04:30:00+00:00"
-      },
-      {
-        "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-        "link": "https://www.nber.org/papers/w35560",
-        "description": "Article URL: https://www.nber.org/papers/w35560 Comments URL: https://news.ycombinator.com/item?id=49239095 Points: 29 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-08-10T04:06:10+00:00"
       },
       {
         "title": "Seramik Apple Watch Geri Dönüyor: Ne Kadar Olacak?",
@@ -61,7 +89,7 @@
       {
         "title": "Auto mode is now the default in Claude Code",
         "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "description": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 55 # Comments: 13",
+        "description": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 140 # Comments: 113",
         "source": "HackerNews",
         "published": "2026-08-10T03:50:00+00:00"
       },
@@ -75,51 +103,44 @@
       {
         "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
         "link": "https://github.com/shinyquagsire23/Klepton",
-        "description": "Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 18 # Comments: 0",
+        "description": "Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 34 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-10T03:12:48+00:00"
       },
       {
         "title": "Turn satellite imagery into a paper globe you fold yourself",
         "link": "https://foldingglobes.com/",
-        "description": "Article URL: https://foldingglobes.com/ Comments URL: https://news.ycombinator.com/item?id=49238735 Points: 22 # Comments: 4",
+        "description": "Article URL: https://foldingglobes.com/ Comments URL: https://news.ycombinator.com/item?id=49238735 Points: 32 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-08-10T02:57:38+00:00"
       },
       {
         "title": "What Happened to HackerOne?",
         "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-        "description": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/ Comments URL: https://news.ycombinator.com/item?id=49238561 Points: 124 # Comments: 38",
+        "description": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/ Comments URL: https://news.ycombinator.com/item?id=49238561 Points: 159 # Comments: 53",
         "source": "HackerNews",
         "published": "2026-08-10T02:23:17+00:00"
       },
       {
         "title": "How We Pushed CDC into Postgres",
         "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-        "description": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/item?id=49238050 Points: 59 # Comments: 6",
+        "description": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/item?id=49238050 Points: 76 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-08-10T01:01:34+00:00"
       },
       {
         "title": "Japanese court overturns Red RAW video patent",
         "link": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-        "description": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/ Comments URL: https://news.ycombinator.com/item?id=49237873 Points: 76 # Comments: 11",
+        "description": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/ Comments URL: https://news.ycombinator.com/item?id=49237873 Points: 88 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-08-10T00:36:24+00:00"
       },
       {
         "title": "The Ambition Project",
         "link": "https://www.betonit.ai/p/the-ambition-project",
-        "description": "Article URL: https://www.betonit.ai/p/the-ambition-project Comments URL: https://news.ycombinator.com/item?id=49237407 Points: 23 # Comments: 1",
+        "description": "Article URL: https://www.betonit.ai/p/the-ambition-project Comments URL: https://news.ycombinator.com/item?id=49237407 Points: 32 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-09T23:36:05+00:00"
-      },
-      {
-        "title": "Tuxedo No. 2 – Cocktail recipes",
-        "link": "https://tuxedono2.com",
-        "description": "Article URL: https://tuxedono2.com Comments URL: https://news.ycombinator.com/item?id=49235697 Points: 73 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-08-09T20:48:46+00:00"
       },
       {
         "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -192,13 +213,6 @@
         "published": "2026-08-09T15:00:00+00:00"
       },
       {
-        "title": "Netflix 4K Yayınları Artık Chrome’da: İşte Gereksinimler",
-        "link": "https://shiftdelete.net/netflix-4k-yayinlari-artik-chromeda-iste-gereksinimler",
-        "description": "Netflix, Chrome tarayıcısı üzerinden 4K yayın desteğini başlattı. İşte Ultra HD içerikleri izlemek için gereken donanım ve yazılım şartları.",
-        "source": "ShiftDelete",
-        "published": "2026-08-09T15:00:00+00:00"
-      },
-      {
         "title": "The AI safety test is becoming a safety risk",
         "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
         "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
@@ -210,13 +224,6 @@
         "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
         "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
         "source": "TechCrunch",
-        "published": "2026-08-09T14:00:00+00:00"
-      },
-      {
-        "title": "Google One’a Büyük Zam Geldi: İşte Yeni Fiyatlar",
-        "link": "https://shiftdelete.net/google-onea-buyuk-zam-geldi-iste-yeni-fiyatlar",
-        "description": "Google One abonelik ücretlerine yüzde 70 civarında zam geliyor. Türkiye'de geçerli olacak yeni fiyat listesi ve detaylar haberimizde.",
-        "source": "ShiftDelete",
         "published": "2026-08-09T14:00:00+00:00"
       },
       {
@@ -325,13 +332,6 @@
         "published": "2026-08-07T17:03:37+03:00"
       },
       {
-        "title": "Samsung Galaxy S26 FE’nin Resmî Basın Görselleri Sızdırıldı!",
-        "link": "\n                    https://www.webtekno.com/samsung-galaxy-s26-fe-basin-gorselleri-h221987.html\n                    ",
-        "description": "Çok beklenen Samsung Galaxy S26 FE modelinin resmî basın görselleri sızdırıldı.",
-        "source": "Webtekno",
-        "published": "2026-08-07T17:02:30+03:00"
-      },
-      {
         "title": "AI detectors are creating a new era of distrust",
         "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
         "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The...",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "China evacuates one million from homes as massive storm arrives",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+        "source": "BBC News",
+        "published": "2026-08-10T06:15:13+00:00"
+      },
+      {
         "title": "Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say",
         "link": "https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&at_campaign=rss",
         "description": "The party says the government's plans to modernise the NHS risk another major hospital scandal.",
@@ -369,16 +376,9 @@
         "published": "2026-08-10T05:00:07+00:00"
       },
       {
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-        "source": "BBC News",
-        "published": "2026-08-10T03:15:21+00:00"
-      },
-      {
-        "title": "Ocasio-Cortez freezing her eggs and says she hasn't ruled out presidential run",
+        "title": "Alexandria Ocasio-Cortez says she's freezing her eggs",
         "link": "https://www.bbc.co.uk/news/articles/cewrzrekwv5o?at_medium=RSS&at_campaign=rss",
-        "description": "The popular Democratic congresswoman also said \"anything was possible\" when asked about a possible Senate bid.",
+        "description": "The Democratic congresswoman says she wants to \"normalise\" conversations about the process.",
         "source": "BBC News",
         "published": "2026-08-10T01:59:23+00:00"
       },
@@ -418,11 +418,11 @@
         "published": "2026-08-09T23:01:39+00:00"
       },
       {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
+        "link": "https://www.bbc.co.uk/news/articles/czrjkm68xlno?at_medium=RSS&at_campaign=rss",
+        "description": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise.",
         "source": "BBC News",
-        "published": "2026-08-09T21:25:04+00:00"
+        "published": "2026-08-09T22:29:18+00:00"
       },
       {
         "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
@@ -567,11 +567,102 @@
     ],
     "turkiye": [
       {
-        "title": "Milyarlarca ton toprağın yerini değiştirdiler: Denizler birbirine bağlanıyor",
-        "link": "https://www.sozcu.com.tr/milyarlarca-ton-topragin-yerini-degistirdiler-okyanuslari-birbirine-baglayacaklar-p343898",
-        "description": "Milyarlarca ton toprağın yerini değiştirdiler: Denizler birbirine bağlanıyor",
+        "title": "Oyunculuğu bıraktı, eski mesleğine döndü: Çocuklar Duymasın'ın Şükrü'sünün şimdi ne iş yaptığı ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/oyunculugu-birakti-eski-meslegine-dondu-cocuklar-duymasin-in-sukru-sunun-simdi-ne-is-yaptigi-ortaya-p343941",
+        "description": "Oyunculuğu bıraktı, eski mesleğine döndü: Çocuklar Duymasın'ın Şükrü'sünün şimdi ne iş yaptığı ortaya çıktı",
         "source": "Sözcü",
-        "published": "2026-08-10T08:24:46+03:00"
+        "published": "2026-08-10T09:45:02+03:00"
+      },
+      {
+        "title": "En çok satan model Bursa'da 'Made in Türkiye' etiketiyle üretilecek",
+        "link": "https://www.sozcu.com.tr/en-cok-satan-model-bursa-da-made-in-turkiye-etiketiyle-uretilecek-p343939",
+        "description": "En çok satan model Bursa'da 'Made in Türkiye' etiketiyle üretilecek",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:32:11+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-agustos-2026-1736659",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-10T09:30:00+03:00"
+      },
+      {
+        "title": "Altın borcu olanlara kötü haber: Gram altında 10 bin TL senaryosu",
+        "link": "https://www.sozcu.com.tr/altin-borcu-olanlara-kotu-haber-gram-altinda-10-bin-tl-senaryosu-p343930",
+        "description": "Altın borcu olanlara kötü haber: Gram altında 10 bin TL senaryosu",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:29:51+03:00"
+      },
+      {
+        "title": "Apartmanın beton duvarından sızıyor: Yaşayanlar tek tek radyasyon kurbanı oluyor",
+        "link": "https://www.sozcu.com.tr/apartmanin-beton-duvarindan-siziyor-yasayanlar-tek-tek-radyasyon-kurbani-oluyor-p343934",
+        "description": "Apartmanın beton duvarından sızıyor: Yaşayanlar tek tek radyasyon kurbanı oluyor",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:28:14+03:00"
+      },
+      {
+        "title": "Müge Anlı'da günlerce konuşulmuştu: Nazmiye Tutaner yıllar sonra evlendi",
+        "link": "https://www.sozcu.com.tr/muge-anli-da-gunlerce-konusulmustu-nazmiye-tutaner-yillar-sonra-evlendi-p343933",
+        "description": "Müge Anlı'da günlerce konuşulmuştu: Nazmiye Tutaner yıllar sonra evlendi",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:25:59+03:00"
+      },
+      {
+        "title": "Arda Güler astronomik teklifi kabul etti! Fenerbahçe çuvalla para kazanacak",
+        "link": "https://www.sozcu.com.tr/arda-gulere-surpriz-teklif-fenerbahce-cuvalla-para-kazanacak-p343927",
+        "description": "Arda Güler astronomik teklifi kabul etti! Fenerbahçe çuvalla para kazanacak",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:24:33+03:00"
+      },
+      {
+        "title": "Otel ve restoranlarda yeni dönem: Tamamen yasaklanıyor",
+        "link": "https://www.sozcu.com.tr/otel-ve-restoranlarda-yeni-donem-tamamen-yasaklaniyor-p343929",
+        "description": "Otel ve restoranlarda yeni dönem: Tamamen yasaklanıyor",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:17:03+03:00"
+      },
+      {
+        "title": "Galatasaray'ın şansızlığı... Transfer etmek istediği isim sahayı böyle terk etti",
+        "link": "https://www.sozcu.com.tr/galatasaray-in-sansizligi-transfer-etmek-istedigi-isim-sahayi-boyle-terk-etti-p343926",
+        "description": "Galatasaray'ın şansızlığı... Transfer etmek istediği isim sahayı böyle terk etti",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:09:34+03:00"
+      },
+      {
+        "title": "Fenerbahçe'de beklenmedik Amrabat gelişmesi",
+        "link": "https://www.sozcu.com.tr/fenerbahcede-beklenmedik-amrabat-gelismesi-p343925",
+        "description": "Fenerbahçe'de beklenmedik Amrabat gelişmesi",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:09:18+03:00"
+      },
+      {
+        "title": "30 il için Meteoroloji'den uyarı geldi. Gök gürültülü sağanak, aşırı sıcak ve nem bunaltacak (Bu hafta hava nasıl olacak?)",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-30-il-icin-dugmeye-basildi-gok-gurultulu-saganak-asiri-sicak-ve-nem-bunaltacak-bu-hafta-hava-nasil-olacak-1736675",
+        "description": "Yurt genelinde yeni haftada aşırı sıcaklıklarla birlikte yüksek nem de etkili olmaya devam edecek. 30 kentte ise gök gürültülü sağanak yağış bekleniyor.",
+        "source": "NTV",
+        "published": "2026-08-10T09:07:21+03:00"
+      },
+      {
+        "title": "Otomatik vitesli araçlarda S harfini kimse bilmiyor: Bakın ne işe yarıyor",
+        "link": "https://www.sozcu.com.tr/otomatik-vitesli-araclarda-s-harfini-kimse-bilmiyor-bakin-ne-ise-yariyor-p343924",
+        "description": "Otomatik vitesli araçlarda S harfini kimse bilmiyor: Bakın ne işe yarıyor",
+        "source": "Sözcü",
+        "published": "2026-08-10T09:06:55+03:00"
+      },
+      {
+        "title": "15 Temmuz Şehitler Köprüsü'ne Mekke Anlaşması'na özel ışıklandırma",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusune-mekke-anlasmasina-ozel-isiklandirma-1736655",
+        "description": "İstanbul'un simge yapıları dün gece saatlerinde Mekke Ortak Savunma Anlaşması kapsamında üç ülkenin bayrak renkleriyle aydınlatıldı.",
+        "source": "NTV",
+        "published": "2026-08-10T08:48:23+03:00"
+      },
+      {
+        "title": "Denizde can pazarı: Dalgalara kapılan 2 kişi kurtarıldı, 14 yaşındaki çocuk boğuldu",
+        "link": "https://www.ntv.com.tr/turkiye/video-denizde-can-pazari-dalgalara-kapilan-2-kisi-kurtarildi-14-yasindaki-cocuk-boguldu-1736681",
+        "description": "Hatay'ın Samandağ ilçesinde ‘denize girmeyin' uyarısına aldırış etmeyen 3 kişinin dalgalara kapılarak verdikleri mücadele kameraya yansıdı. Şahıslardan 2'si ekipler tarafından kurtarılırken, denizde kaybolan 14 yaşındaki çocuğun cansız bedeni...",
+        "source": "NTV",
+        "published": "2026-08-10T08:30:43+03:00"
       },
       {
         "title": "Resmi Gazete'de bugün (10 Ağustos 2026 Resmi Gazete kararları)",
@@ -581,88 +672,11 @@
         "published": "2026-08-10T08:23:43+03:00"
       },
       {
-        "title": "Cansever'in vasiyeti ortaya çıktı: 1979 kilometrelik yola çıkacaklar",
-        "link": "https://www.sozcu.com.tr/cansever-in-vasiyeti-ortaya-cikti-bugun-yola-cikacaklar-p343891",
-        "description": "Cansever'in vasiyeti ortaya çıktı: 1979 kilometrelik yola çıkacaklar",
-        "source": "Sözcü",
-        "published": "2026-08-10T08:19:20+03:00"
-      },
-      {
-        "title": "30 il için düğmeye basıldı. Gök gürültülü sağanak, aşırı sıcak ve nem bunaltacak (Bu hafta hava nasıl olacak?)",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-30-il-icin-dugmeye-basildi-gok-gurultulu-saganak-asiri-sicak-ve-nem-bunaltacak-bu-hafta-hava-nasil-olacak-1736675",
-        "description": "Yurt genelinde yeni haftada aşırı sıcaklıklarla birlikte yüksek nem de etkili olmaya devam edecek. 30 kentte ise gök gürültülü sağanak yağış bekleniyor.",
-        "source": "NTV",
-        "published": "2026-08-10T08:17:53+03:00"
-      },
-      {
-        "title": "İstanbul’da 3+1 daire fiyatına İspanya’da koca köyü satın aldılar",
-        "link": "https://www.sozcu.com.tr/istanbul-da-3-1-daire-fiyatina-ispanya-da-koca-koy-satin-aldilar-p343895",
-        "description": "İstanbul’da 3+1 daire fiyatına İspanya’da koca köyü satın aldılar",
-        "source": "Sözcü",
-        "published": "2026-08-10T08:16:22+03:00"
-      },
-      {
-        "title": "Gökçe Bahadır'dan hamilelik sonrası ilk sahne: Bodrum konserinde karnı dikkat çekti",
-        "link": "https://www.sozcu.com.tr/gokce-bahadir-dan-hamilelik-sonrasi-ilk-sahne-bodrum-konserinde-karni-dikkat-cekti-p343894",
-        "description": "Gökçe Bahadır'dan hamilelik sonrası ilk sahne: Bodrum konserinde karnı dikkat çekti",
-        "source": "Sözcü",
-        "published": "2026-08-10T08:15:40+03:00"
-      },
-      {
-        "title": "Hürmüz Boğazı gerilimi petrol fiyatlarını yükseltti",
-        "link": "https://www.sozcu.com.tr/hurmuz-bogazi-gerilimi-petrol-fiyatlarini-yukseltti-p343893",
-        "description": "Hürmüz Boğazı gerilimi petrol fiyatlarını yükseltti",
-        "source": "Sözcü",
-        "published": "2026-08-10T08:12:50+03:00"
-      },
-      {
-        "title": "AYM’den evlenen kadınların nüfus kaydının taşınmasına ilişkin karar",
-        "link": "https://www.sozcu.com.tr/aym-den-evlenen-kadinlarin-nufus-kaydinin-tasinmasina-iliskin-karar-p343892",
-        "description": "AYM’den evlenen kadınların nüfus kaydının taşınmasına ilişkin karar",
-        "source": "Sözcü",
-        "published": "2026-08-10T08:11:08+03:00"
-      },
-      {
-        "title": "Ankara'nın adımı ABD kongresinin kayıtlarında ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/ankara-nin-adimi-abd-kongresinin-kayitlarinda-ortaya-cikti-p343887",
-        "description": "Ankara'nın adımı ABD kongresinin kayıtlarında ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-08-10T08:05:36+03:00"
-      },
-      {
-        "title": "Mekke imzası henüz kurumadan kriz çıktı",
-        "link": "https://www.sozcu.com.tr/mekke-imzasi-henuz-kurumadan-kriz-cikti-p343889",
-        "description": "Mekke imzası henüz kurumadan kriz çıktı",
-        "source": "Sözcü",
-        "published": "2026-08-10T08:03:19+03:00"
-      },
-      {
         "title": "Meclis'te kritik pazartesi. Terörsüz Türkiye teklifi Genel Kurul'da",
         "link": "https://www.ntv.com.tr/turkiye/galeri-mecliste-kritik-pazartesi-terorsuz-turkiye-teklifi-genel-kurulda-1736672",
         "description": "Terörsüz Türkiye süreci için hazırlanan ve Meclis Adalet Komisyonu'nda 17.5 saat süren mesainin ardından kabul edilen Çerçeve Yasa teklifi, bugün Genel Kurul gündemine geliyor.",
         "source": "NTV",
         "published": "2026-08-10T08:02:20+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-agustos-2026-1736659",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-10T08:00:00+03:00"
-      },
-      {
-        "title": "Turistlere kabus! Baba ve çocukları ölümden döndü",
-        "link": "https://www.sozcu.com.tr/turistlere-kabus-baba-ve-cocuklari-olumden-dondu-p343888",
-        "description": "Turistlere kabus! Baba ve çocukları ölümden döndü",
-        "source": "Sözcü",
-        "published": "2026-08-10T07:57:30+03:00"
-      },
-      {
-        "title": "Dev market zincirinden tartışma yaratan karar! Sosyal medya ikiye bölündü",
-        "link": "https://www.sozcu.com.tr/dev-market-zincirinden-tartisma-yaratan-karar-sosyal-medya-ikiye-bolundu-p343886",
-        "description": "Dev market zincirinden tartışma yaratan karar! Sosyal medya ikiye bölündü",
-        "source": "Sözcü",
-        "published": "2026-08-10T07:49:25+03:00"
       },
       {
         "title": "Avrupa Atletizm Şampiyonası bugün İngiltere'de başlıyor: Türkiye'den rekor katılım",
@@ -721,13 +735,6 @@
         "published": "2026-08-10T00:30:55+00:00"
       },
       {
-        "title": "15 Temmuz Şehitler Köprüsü'ne Mekke Anlaşması'na özel ışıklandırma",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusune-mekke-anlasmasina-ozel-isiklandirma-1736655",
-        "description": "İstanbul'un simge yapılarından 15 Temmuz Şehitler Köprüsü Mekke Ortak Savunma Anlaşması kapsamında ülke bayraklarının renkleriyle aydınlatıldı.",
-        "source": "NTV",
-        "published": "2026-08-10T00:17:10+03:00"
-      },
-      {
         "title": "Mansur Yavaş'tan 'çerçeve yasa' açıklaması: 'Demokratikleşme tek bir mesele üzerinden konuşulamaz'",
         "link": "https://www.bbc.com/turkce/articles/cwylxpkr49zo?at_medium=RSS&at_campaign=rss",
         "description": "TBMM Başkanlığı'na sunulan yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi ile ilgili siyasi partilerden açıklamalar gelmeye devam ediyor.",
@@ -740,13 +747,6 @@
         "description": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Terörsüz Türkiye sürecine dair \"Bu süreç bir bölünme süreci değil, tam tersine yaraları sarma, kardeşliği güçlendirme sürecidir.\" dedi.",
         "source": "NTV",
         "published": "2026-08-09T22:45:48+03:00"
-      },
-      {
-        "title": "Kastamonu'da at yarışında çarpışan iki at telef oldu",
-        "link": "https://www.ntv.com.tr/turkiye/video-kastamonuda-at-yarisinda-carpisan-iki-at-telef-oldu-1736653",
-        "description": "Kastamonu’nun Taşköprü ilçesinde düzenlenen at yarışında çarpışan iki at telef oldu.",
-        "source": "NTV",
-        "published": "2026-08-09T21:31:32+03:00"
       },
       {
         "title": "Sicilya kıyılarında şarap ve zeytinyağı küpleriyle dolu 2.000 yıllık gemi batığı bulundu",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8655
   },
   "weather": {
-    "condition": "Dust haze",
-    "temp": "+100°F",
-    "wind": "↗11mph",
-    "humidity": "19%"
+    "condition": "Açık",
+    "temp": "+76°F",
+    "wind": "→4mph",
+    "humidity": "64%"
   }
 }
