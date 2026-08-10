@@ -1,18 +1,53 @@
 {
-  "updated_at": "2026-08-10T21:12:12.600096+00:00",
+  "updated_at": "2026-08-10T22:06:53.855808+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "How Claude marks AI-generated content",
+        "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+        "description": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 14 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-08-10T21:36:56+00:00"
+      },
+      {
+        "title": "We cut a 40-day financial integration down to 5 days using Google Anti",
+        "link": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
+        "description": "Article URL: https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313 Comments URL: https://news.ycombinator.com/item?id=49249986 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-10T21:27:02+00:00"
+      },
+      {
+        "title": "Amazon backs power plant that may become top source of US climate pollution",
+        "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/ Comments URL: https://news.ycombinator.com/item?id=49249971 Points: 30 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-08-10T21:26:16+00:00"
+      },
+      {
+        "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+        "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+        "description": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+        "source": "TechCrunch",
+        "published": "2026-08-10T21:20:04+00:00"
+      },
+      {
         "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
         "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-        "description": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+        "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
         "source": "TechCrunch",
         "published": "2026-08-10T20:53:02+00:00"
       },
       {
+        "title": "Stop Killing Games: It's time to sue Sony, join us",
+        "link": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+        "description": "Article URL: https://www.massaschadeconsument.nl/collectieve-acties/playstation/ Comments URL: https://news.ycombinator.com/item?id=49249481 Points: 32 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-08-10T20:47:13+00:00"
+      },
+      {
         "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
         "link": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-        "description": "Article URL: https://linuxstans.com/illinois-hb5511-operating-system-age-verification/ Comments URL: https://news.ycombinator.com/item?id=49249150 Points: 57 # Comments: 36",
+        "description": "Article URL: https://linuxstans.com/illinois-hb5511-operating-system-age-verification/ Comments URL: https://news.ycombinator.com/item?id=49249150 Points: 189 # Comments: 207",
         "source": "HackerNews",
         "published": "2026-08-10T20:20:06+00:00"
       },
@@ -54,16 +89,9 @@
       {
         "title": "Rust SIMD on the GPU",
         "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-        "description": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 57 # Comments: 29",
+        "description": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 76 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-08-10T18:12:49+00:00"
-      },
-      {
-        "title": "Security Vulnerability in Pioneer Rekordbox",
-        "link": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
-        "description": "Article URL: https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/ Comments URL: https://news.ycombinator.com/item?id=49247461 Points: 12 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-08-10T18:11:52+00:00"
       },
       {
         "title": "Samsung Now Brief'e Çok Kullanacağınız Bir Özellik Geliyor: Yaklaşan Faturaları Hatırlatacak!",
@@ -173,7 +201,7 @@
       {
         "title": "Exploiting System Management Mode with a very long interrupt",
         "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-        "description": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii Comments URL: https://news.ycombinator.com/item?id=49245491 Points: 94 # Comments: 30",
+        "description": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii Comments URL: https://news.ycombinator.com/item?id=49245491 Points: 103 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-08-10T16:03:14+00:00"
       },
@@ -185,25 +213,11 @@
         "published": "2026-08-10T16:00:28+00:00"
       },
       {
-        "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-        "link": "https://github.com/AntigmaLabs/ante",
-        "description": "Article URL: https://github.com/AntigmaLabs/ante Comments URL: https://news.ycombinator.com/item?id=49245437 Points: 107 # Comments: 68",
-        "source": "HackerNews",
-        "published": "2026-08-10T15:59:23+00:00"
-      },
-      {
         "title": "Back to the Future of Handwriting Recognition (2016)",
         "link": "https://jackschaedler.github.io/handwriting-recognition/",
-        "description": "Article URL: https://jackschaedler.github.io/handwriting-recognition/ Comments URL: https://news.ycombinator.com/item?id=49245421 Points: 26 # Comments: 7",
+        "description": "Article URL: https://jackschaedler.github.io/handwriting-recognition/ Comments URL: https://news.ycombinator.com/item?id=49245421 Points: 31 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-10T15:58:32+00:00"
-      },
-      {
-        "title": "The Tragedy of the Cognitive Commons",
-        "link": "https://arxiv.org/abs/2607.29380",
-        "description": "Article URL: https://arxiv.org/abs/2607.29380 Comments URL: https://news.ycombinator.com/item?id=49245359 Points: 69 # Comments: 47",
-        "source": "HackerNews",
-        "published": "2026-08-10T15:55:15+00:00"
       },
       {
         "title": "Tek Soruluk Dev Anket: Bugün Satın Alacak Olsanız Elektrikli mi Yoksa Benzinli Otomobil mi Satın Alırdınız?",
@@ -218,13 +232,6 @@
         "description": "Epic Games Store'da belli aralıklarla düzenlenen ve birçok oyunu uygun fiyatlara alabileceğiniz 'Epic İndirimleri' başladı.",
         "source": "Webtekno",
         "published": "2026-08-10T15:55:05+03:00"
-      },
-      {
-        "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
-        "link": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-        "description": "Article URL: https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR Comments URL: https://news.ycombinator.com/item?id=49245318 Points: 50 # Comments: 17",
-        "source": "HackerNews",
-        "published": "2026-08-10T15:53:01+00:00"
       },
       {
         "title": "NVIDIA ve AMD’nin Pazar Payı Düşecek",
@@ -281,13 +288,6 @@
         "description": "Google Pixel 11 Pro XL, Tensor G6 işlemcisi ile Geekbench testlerinde görüntülendi. Yeni nesil işlemcinin performans detayları ve teknik özellikleri haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-08-10T14:30:29+00:00"
-      },
-      {
-        "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-        "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-        "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
-        "source": "TechCrunch",
-        "published": "2026-08-10T14:20:19+00:00"
       },
       {
         "title": "AMD Uygun Fiyatlı Ryzen 7 449 ve Ryzen 5 439’u Duyurdu",
@@ -355,11 +355,39 @@
     ],
     "dunya": [
       {
+        "title": "No evidence of data breach after Chinese-made component found in Navy drones, MoD says",
+        "link": "https://www.bbc.co.uk/news/articles/c4gwl3n7ne7o?at_medium=RSS&at_campaign=rss",
+        "description": "The Royal Navy's new sea drones were found to include a Chinese-made component which sent communication to a Chinese IP address.",
+        "source": "BBC News",
+        "published": "2026-08-10T21:50:37+00:00"
+      },
+      {
+        "title": "GB's Hunt wins European 100m gold",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
+        "description": "Great Britain's Amy Hunt claims her first senior international title by powering to 100m gold at the European Athletics Championships in Birmingham.",
+        "source": "BBC News",
+        "published": "2026-08-10T21:47:29+00:00"
+      },
+      {
+        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+        "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+        "source": "BBC News",
+        "published": "2026-08-10T21:33:51+00:00"
+      },
+      {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+        "source": "BBC News",
+        "published": "2026-08-10T21:33:25+00:00"
+      },
+      {
         "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
         "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
         "description": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He...",
         "source": "The Guardian",
-        "published": "2026-08-10T20:52:18+00:00"
+        "published": "2026-08-10T21:27:13+00:00"
       },
       {
         "title": "New Forest firefighting to continue overnight as cars abandoned",
@@ -369,32 +397,11 @@
         "published": "2026-08-10T20:24:05+00:00"
       },
       {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-        "source": "BBC News",
-        "published": "2026-08-10T20:16:34+00:00"
-      },
-      {
-        "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-        "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-        "source": "BBC News",
-        "published": "2026-08-10T18:19:41+00:00"
-      },
-      {
         "title": "Scores dead after powerful earthquake strikes western Colombia",
         "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
         "description": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 100 people have died after a powerful earthquake struck western Colombia,...",
         "source": "The Guardian",
         "published": "2026-08-10T18:11:06+00:00"
-      },
-      {
-        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-        "description": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-        "source": "BBC News",
-        "published": "2026-08-10T17:50:29+00:00"
       },
       {
         "title": "More than two-thirds of England now in drought",
@@ -430,13 +437,6 @@
         "description": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
         "source": "NPR",
         "published": "2026-08-10T16:25:02-04:00"
-      },
-      {
-        "title": "From Dubai to a Dublin court - how alleged cartel boss Daniel Kinahan returned to Ireland",
-        "link": "https://www.bbc.co.uk/news/articles/cvgv0xe1nr8o?at_medium=RSS&at_campaign=rss",
-        "description": "Law enforcement agencies in Ireland and the US believe he is a leading figure in the Kinahan Organised Crime Group.",
-        "source": "BBC News",
-        "published": "2026-08-10T15:43:59+00:00"
       },
       {
         "title": "New weight-loss pill approved for use in UK",
@@ -567,25 +567,39 @@
     ],
     "turkiye": [
       {
-        "title": "'Çerçeve yasa' Meclis'te kabul edildi! Bahçeli'den 'hayırlı olsun' yorumu geldi...",
-        "link": "https://www.sozcu.com.tr/cerceve-yasa-siyasi-aciklama-p344186",
-        "description": "'Çerçeve yasa' Meclis'te kabul edildi! Bahçeli'den 'hayırlı olsun' yorumu geldi...",
-        "source": "Sözcü",
-        "published": "2026-08-11T00:04:12+03:00"
-      },
-      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-agustos-2026-1736783",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-11T00:00:00+03:00"
+        "published": "2026-08-11T01:00:00+03:00"
       },
       {
         "title": "Terörsüz Türkiye yasası TBMM'de kabul edildi. Siyasilerden birlik mesajı",
         "link": "https://www.ntv.com.tr/turkiye/terorsuz-turkiye-yasasi-tbmmde-kabul-edildi-siyasilerden-birlik-mesaji-1736782",
         "description": "Terörsüz Türkiye yasasının TBMM'de kabul edilmesinin ardından hükümet üyelerinden ve siyasilerden birlik mesajı geldi.",
         "source": "NTV",
-        "published": "2026-08-10T23:57:04+03:00"
+        "published": "2026-08-11T00:40:25+03:00"
+      },
+      {
+        "title": "Bataklığı dev bir arıtma tesisine çevirdiler: Yılda 42 milyar litre suyu temizliyor",
+        "link": "https://www.sozcu.com.tr/batakligi-dev-bir-aritma-tesisine-cevirdiler-yilda-42-milyar-litre-suyu-temizliyor-p344196",
+        "description": "Bataklığı dev bir arıtma tesisine çevirdiler: Yılda 42 milyar litre suyu temizliyor",
+        "source": "Sözcü",
+        "published": "2026-08-11T00:25:51+03:00"
+      },
+      {
+        "title": "Tuğba Danışmaz Avrupa Atletizm Şampiyonası'nda finale yükseldi",
+        "link": "https://www.sozcu.com.tr/tugba-danismaz-avrupa-atletizm-sampiyonasi-nda-finale-yukseldi-p344195",
+        "description": "Tuğba Danışmaz Avrupa Atletizm Şampiyonası'nda finale yükseldi",
+        "source": "Sözcü",
+        "published": "2026-08-11T00:17:16+03:00"
+      },
+      {
+        "title": "'Çerçeve yasa' Meclis'te kabul edildi! Bahçeli'den 'hayırlı olsun' yorumu geldi...",
+        "link": "https://www.sozcu.com.tr/cerceve-yasa-siyasi-aciklama-p344186",
+        "description": "'Çerçeve yasa' Meclis'te kabul edildi! Bahçeli'den 'hayırlı olsun' yorumu geldi...",
+        "source": "Sözcü",
+        "published": "2026-08-11T00:17:16+03:00"
       },
       {
         "title": "Son Dakika: Meclis 'Çerçeve Yasa'yı onayladı",
@@ -656,20 +670,6 @@
         "description": "Son dakika Iğdır deprem haberleri.. Iğdır'da deprem mi oldu? Az önce deprem Iğdır'da nerede oldu? Iğdır Kandilli ve AFAD son depremler.. 10 Ağustos 2026 Iğdır deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Iğdır'da? Iğdır son...",
         "source": "NTV",
         "published": "2026-08-10T22:30:00+03:00"
-      },
-      {
-        "title": "Üç lider yan yana görüntülendi! Yeni ittifakın ilk fotoğrafı mı?",
-        "link": "https://www.sozcu.com.tr/uc-lider-yan-yana-goruntulendi-yeni-ittifakin-ilk-fotografi-mi-p344176",
-        "description": "Üç lider yan yana görüntülendi! Yeni ittifakın ilk fotoğrafı mı?",
-        "source": "Sözcü",
-        "published": "2026-08-10T22:28:10+03:00"
-      },
-      {
-        "title": "Fenerbahçe, Sturm Graz maçının hazırlıklarını tamamladı",
-        "link": "https://www.sozcu.com.tr/fenerbahce-sturm-graz-macinin-hazirliklarini-tamamladi-p344175",
-        "description": "Fenerbahçe, Sturm Graz maçının hazırlıklarını tamamladı",
-        "source": "Sözcü",
-        "published": "2026-08-10T22:22:54+03:00"
       },
       {
         "title": "'Hayır' oyu kullandığını açıklayan Yeni Parti milletvekilleri kimler?",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+88°F",
-    "wind": "→4mph",
-    "humidity": "42%"
+    "temp": "+75°F",
+    "wind": "↗8mph",
+    "humidity": "91%"
   }
 }
