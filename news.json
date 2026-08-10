@@ -1,41 +1,55 @@
 {
-  "updated_at": "2026-08-09T23:30:34.781892+00:00",
+  "updated_at": "2026-08-10T01:46:08.851467+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "How We Pushed CDC into Postgres",
+        "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+        "description": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/item?id=49238050 Points: 12 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-10T01:01:34+00:00"
+      },
+      {
+        "title": "Japanese court overturns Red RAW video patent",
+        "link": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+        "description": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/ Comments URL: https://news.ycombinator.com/item?id=49237873 Points: 13 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-10T00:36:24+00:00"
+      },
+      {
         "title": "To Recruit Teachers, School Districts Are Building Homes",
         "link": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
-        "description": "Article URL: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html Comments URL: https://news.ycombinator.com/item?id=49236541 Points: 12 # Comments: 2",
+        "description": "Article URL: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html Comments URL: https://news.ycombinator.com/item?id=49236541 Points: 36 # Comments: 27",
         "source": "HackerNews",
         "published": "2026-08-09T22:00:36+00:00"
       },
       {
+        "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+        "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+        "description": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 41 # Comments: 27",
+        "source": "HackerNews",
+        "published": "2026-08-09T21:52:23+00:00"
+      },
+      {
         "title": "Georgia police officers fired after Flock camera misuse",
         "link": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
-        "description": "Article URL: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/ Comments URL: https://news.ycombinator.com/item?id=49236033 Points: 38 # Comments: 5",
+        "description": "Article URL: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/ Comments URL: https://news.ycombinator.com/item?id=49236033 Points: 93 # Comments: 61",
         "source": "HackerNews",
         "published": "2026-08-09T21:20:24+00:00"
       },
       {
         "title": "Tuxedo No. 2 – Cocktail recipes",
         "link": "https://tuxedono2.com",
-        "description": "Article URL: https://tuxedono2.com Comments URL: https://news.ycombinator.com/item?id=49235697 Points: 23 # Comments: 5",
+        "description": "Article URL: https://tuxedono2.com Comments URL: https://news.ycombinator.com/item?id=49235697 Points: 45 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-08-09T20:48:46+00:00"
       },
       {
         "title": "New Zealand lost its music media, and what we're building to replace it",
         "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-        "description": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media Comments URL: https://news.ycombinator.com/item?id=49235641 Points: 44 # Comments: 20",
+        "description": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media Comments URL: https://news.ycombinator.com/item?id=49235641 Points: 73 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-08-09T20:42:29+00:00"
-      },
-      {
-        "title": "The climate benefits of retiring an operational combustion engine vehicle",
-        "link": "https://www.science.org/doi/10.1126/science.adv5441",
-        "description": "Article URL: https://www.science.org/doi/10.1126/science.adv5441 Comments URL: https://news.ycombinator.com/item?id=49235572 Points: 15 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-08-09T20:35:48+00:00"
       },
       {
         "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -45,25 +59,11 @@
         "published": "2026-08-09T20:35:17+00:00"
       },
       {
-        "title": "Archival Resource Key (ARK) Alliance",
-        "link": "https://arks.org/",
-        "description": "Article URL: https://arks.org/ Comments URL: https://news.ycombinator.com/item?id=49235486 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-09T20:28:54+00:00"
-      },
-      {
         "title": "The Hacker's Renaissance",
         "link": "https://phrack.org/issues/72/19#article",
-        "description": "Article URL: https://phrack.org/issues/72/19#article Comments URL: https://news.ycombinator.com/item?id=49235378 Points: 67 # Comments: 49",
+        "description": "Article URL: https://phrack.org/issues/72/19#article Comments URL: https://news.ycombinator.com/item?id=49235378 Points: 95 # Comments: 67",
         "source": "HackerNews",
         "published": "2026-08-09T20:18:44+00:00"
-      },
-      {
-        "title": "The main way I've seen people turn ideologically crazy (2025)",
-        "link": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
-        "description": "Article URL: https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn Comments URL: https://news.ycombinator.com/item?id=49235349 Points: 77 # Comments: 52",
-        "source": "HackerNews",
-        "published": "2026-08-09T20:15:52+00:00"
       },
       {
         "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
@@ -82,7 +82,7 @@
       {
         "title": "The tragedy of the commons, AI edition",
         "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-        "description": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 55 # Comments: 23",
+        "description": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 74 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-08-09T19:43:52+00:00"
       },
@@ -355,6 +355,34 @@
     ],
     "dunya": [
       {
+        "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
+        "link": "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o?at_medium=RSS&at_campaign=rss",
+        "description": "While Monday won't be quite as hot as the weekend, temperatures will ramp up ahead of the fifth widespread heatwave of the year.",
+        "source": "BBC News",
+        "published": "2026-08-10T01:36:10+00:00"
+      },
+      {
+        "title": "How much parents could save from September's new school uniform rules",
+        "link": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss",
+        "description": "Parents should not have to buy more than three branded items, plus a tie for secondary schools.",
+        "source": "BBC News",
+        "published": "2026-08-10T00:44:11+00:00"
+      },
+      {
+        "title": "You could be missing out on £150 off your energy bill - here's how to check",
+        "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+        "description": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+        "source": "BBC News",
+        "published": "2026-08-09T23:47:30+00:00"
+      },
+      {
+        "title": "Evidence that South African special forces murdered top detective shared with BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+        "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+        "source": "BBC News",
+        "published": "2026-08-09T23:05:29+00:00"
+      },
+      {
         "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
         "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
         "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
@@ -390,13 +418,6 @@
         "published": "2026-08-09T20:58:18+00:00"
       },
       {
-        "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-        "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-        "description": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
-        "source": "BBC News",
-        "published": "2026-08-09T19:40:09+00:00"
-      },
-      {
         "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
         "link": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
         "description": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented...",
@@ -418,6 +439,13 @@
         "published": "2026-08-09T18:00:52-04:00"
       },
       {
+        "title": "Nearly 30 years after Tupac's death, the trial over his murder will finally begin",
+        "link": "https://www.npr.org/2026/08/09/nx-s1-5924034/nearly-30-years-after-tupacs-death-the-trial-over-his-murder-will-finally-begin",
+        "description": "In 2023, police charged Duane Davis, also known as \"Keefe D,\" with organizing Tupac Shakur's murder in 1996. Author Ben Westhoff discusses Davis' trial that begins Monday.",
+        "source": "NPR",
+        "published": "2026-08-09T17:27:16-04:00"
+      },
+      {
         "title": "Harry Potter fans force diversion of UK-Ireland power link to avoid 'Dobby's grave'",
         "link": "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&at_campaign=rss",
         "description": "Potter fans complained after a project manager suggested cables would go under the grave in a BBC interview.",
@@ -425,25 +453,11 @@
         "published": "2026-08-09T16:45:23+00:00"
       },
       {
-        "title": "Drones spotted over German base days after Leipzig bomb incident",
-        "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-        "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-        "source": "BBC News",
-        "published": "2026-08-09T16:18:10+00:00"
-      },
-      {
         "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
         "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
         "description": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
         "source": "NPR",
         "published": "2026-08-09T14:21:45-04:00"
-      },
-      {
-        "title": "Ancient Roman shipwreck discovered off Sicily coast",
-        "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-        "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-        "source": "BBC News",
-        "published": "2026-08-09T12:27:26+00:00"
       },
       {
         "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
@@ -481,13 +495,6 @@
         "published": "2026-08-09T05:44:02-04:00"
       },
       {
-        "title": "Banksy works cost public almost £150,000",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC reveals taxpayers have funded thousands of pounds worth of cleaning operations and security for the artworks.",
-        "source": "BBC News",
-        "published": "2026-08-08T23:52:43+00:00"
-      },
-      {
         "title": "Solar eclipse to occur next week. Here is what to know",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
         "description": "It will be visible in parts of the U.S. on Wednesday.",
@@ -500,13 +507,6 @@
         "description": "Matt Rutherford is sailing 10,000 nautical miles, through ice floes and gales, to try and accomplish a world first. He spoke with NPR from the cabin of his boat.",
         "source": "NPR",
         "published": "2026-08-08T17:30:56-04:00"
-      },
-      {
-        "title": "Tanker sailors still face danger in the Strait of Hormuz",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-        "description": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
-        "source": "NPR",
-        "published": "2026-08-08T17:19:54-04:00"
       },
       {
         "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
@@ -567,6 +567,55 @@
     ],
     "turkiye": [
       {
+        "title": "Apo’yu, Meclis’in üzerine kayyum olarak atadılar!",
+        "link": "https://www.sozcu.com.tr/apo-yu-meclis-in-uzerine-kayyum-olarak-atadilar-p343866",
+        "description": "Apo’yu, Meclis’in üzerine kayyum olarak atadılar!",
+        "source": "Sözcü",
+        "published": "2026-08-10T04:30:18+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-agustos-2026-1736659",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-10T04:30:00+03:00"
+      },
+      {
+        "title": "Telefondaki tartışma kanlı bitti. 77 yaşındaki adam iki genci katletti",
+        "link": "https://www.ntv.com.tr/turkiye/telefondaki-tartisma-kanli-bitti-77-yasindaki-adam-iki-genci-katletti-1736665",
+        "description": "Afyonkarahisar'da 77 yaşındaki S.Y., oğluyla telefonda tartıştıktan sonra evlerinin önüne giden iki genci silahla vurarak öldürdü.",
+        "source": "NTV",
+        "published": "2026-08-10T04:03:58+03:00"
+      },
+      {
+        "title": "Birleşen emekli iktidara talip",
+        "link": "https://www.sozcu.com.tr/birlesen-emekli-iktidara-talip-p343865",
+        "description": "Birleşen emekli iktidara talip",
+        "source": "Sözcü",
+        "published": "2026-08-10T04:00:17+03:00"
+      },
+      {
+        "title": "TMSF kayyumla holdinge dönüştü",
+        "link": "https://www.sozcu.com.tr/tmsf-kayyumla-holdinge-donustu-p343864",
+        "description": "TMSF kayyumla holdinge dönüştü",
+        "source": "Sözcü",
+        "published": "2026-08-10T03:30:17+03:00"
+      },
+      {
+        "title": "Madenci Anıtkabir’de",
+        "link": "https://www.sozcu.com.tr/madenci-anitkabir-de-p343862",
+        "description": "Madenci Anıtkabir’de",
+        "source": "Sözcü",
+        "published": "2026-08-10T03:00:16+03:00"
+      },
+      {
+        "title": "'Muhalefete darbe için kullanılabilir'",
+        "link": "https://www.sozcu.com.tr/muhalefete-darbe-icin-kullanilabilir-p343861",
+        "description": "'Muhalefete darbe için kullanılabilir'",
+        "source": "Sözcü",
+        "published": "2026-08-10T02:30:15+03:00"
+      },
+      {
         "title": "Oteldeki havuz bakımı 15 kişiyi hastanelik etti",
         "link": "https://www.ntv.com.tr/turkiye/oteldeki-havuz-bakimi-15-kisiyi-hastanelik-etti-1736663",
         "description": "Bodrum'da bir otelde havuz bakımı sırasında sızan gazın zehirlediği 15 kişi hastaneye kaldırıldı.",
@@ -581,11 +630,11 @@
         "published": "2026-08-10T02:00:43+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-agustos-2026-1736659",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-10T02:00:00+03:00"
+        "title": "Manisa Kula'daki yangın 300'den fazla personelin müdahalesiyle kontrol altına alındı",
+        "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye'nin farklı noktalarında orman yangınları ile mücadele devam ederken Manisa Valiliği, Kula'daki yangına 300'den fazla personel ve 16 hava aracıyla müdahale edildiğini duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-08-10T01:19:03+00:00"
       },
       {
         "title": "Zincirlenerek gömülen 79 kişinin gizemi çözüldü",
@@ -602,6 +651,13 @@
         "published": "2026-08-10T00:49:16+03:00"
       },
       {
+        "title": "Gazi ve şehit yakınlarının haklarına yönelik yasa TBMM'de kabul edildi",
+        "link": "https://www.bbc.com/turkce/articles/cdx7rlzrxqko?at_medium=RSS&at_campaign=rss",
+        "description": "AKP ve MHP'nin, çözüm sürecine dair çerçeve yasa ile eşzamanlı olarak TBMM'ye sunduğu, şehit yakınları ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi Meclis'te kabul edilerek yasalaştı.",
+        "source": "BBC Turkish",
+        "published": "2026-08-10T00:30:55+00:00"
+      },
+      {
         "title": "17 bin tonluk uranyum yatağı için harekete geçtiler: 47 noktada sondaj yapılacak",
         "link": "https://www.sozcu.com.tr/17-bin-tonluk-uranyum-yatagi-icin-harekete-gectiler-47-noktada-sondaj-yapilacak-p343857",
         "description": "17 bin tonluk uranyum yatağı için harekete geçtiler: 47 noktada sondaj yapılacak",
@@ -609,18 +665,18 @@
         "published": "2026-08-10T00:25:03+03:00"
       },
       {
-        "title": "Şehit yakınları ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi yasalaştı",
-        "link": "https://www.sozcu.com.tr/sehit-yakinlari-ve-gazilerin-haklarina-yonelik-duzenlemeleri-iceren-kanun-teklifi-yasalasti-p343850",
-        "description": "Şehit yakınları ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi yasalaştı",
-        "source": "Sözcü",
-        "published": "2026-08-10T00:21:59+03:00"
-      },
-      {
         "title": "15 Temmuz Şehitler Köprüsü'ne Mekke Anlaşması'na özel ışıklandırma",
         "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusune-mekke-anlasmasina-ozel-isiklandirma-1736655",
         "description": "İstanbul'un simge yapılarından 15 Temmuz Şehitler Köprüsü Mekke Ortak Savunma Anlaşması kapsamında ülke bayraklarının renkleriyle aydınlatıldı.",
         "source": "NTV",
         "published": "2026-08-10T00:17:10+03:00"
+      },
+      {
+        "title": "Mansur Yavaş'tan 'çerçeve yasa' açıklaması: 'Demokratikleşme tek bir mesele üzerinden konuşulamaz'",
+        "link": "https://www.bbc.com/turkce/articles/cwylxpkr49zo?at_medium=RSS&at_campaign=rss",
+        "description": "TBMM Başkanlığı'na sunulan yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi ile ilgili siyasi partilerden açıklamalar gelmeye devam ediyor.",
+        "source": "BBC Turkish",
+        "published": "2026-08-10T00:12:36+00:00"
       },
       {
         "title": "NBA'de rekorların adamı hayatını kaybetti",
@@ -635,34 +691,6 @@
         "description": "Kayserispor 'Seferi' ile kazandı",
         "source": "Sözcü",
         "published": "2026-08-09T23:50:01+03:00"
-      },
-      {
-        "title": "Bursaspor sezona galibiyetle 'merhaba' dedi",
-        "link": "https://www.sozcu.com.tr/bursaspor-sezona-galibiyetle-merhaba-dedi-p343851",
-        "description": "Bursaspor sezona galibiyetle 'merhaba' dedi",
-        "source": "Sözcü",
-        "published": "2026-08-09T23:46:00+03:00"
-      },
-      {
-        "title": "Sarp kayalıklarda asılı duran tabutların gizemi çözüldü",
-        "link": "https://www.sozcu.com.tr/sarp-kayaliklarda-asili-duran-tabutlarin-gizemi-cozuldu-p343844",
-        "description": "Sarp kayalıklarda asılı duran tabutların gizemi çözüldü",
-        "source": "Sözcü",
-        "published": "2026-08-09T23:35:26+03:00"
-      },
-      {
-        "title": "UltraAslan lideri Sebahattin Şirin rahatsızlandı",
-        "link": "https://www.sozcu.com.tr/ultraaslan-lideri-sebahattin-sirin-vatan-emniyette-p343843",
-        "description": "UltraAslan lideri Sebahattin Şirin rahatsızlandı",
-        "source": "Sözcü",
-        "published": "2026-08-09T23:28:54+03:00"
-      },
-      {
-        "title": "PSG 33'lük sol beki kadrosuna kattı",
-        "link": "https://www.sozcu.com.tr/psg-33-luk-sol-beki-kadrosuna-katti-p343841",
-        "description": "PSG 33'lük sol beki kadrosuna kattı",
-        "source": "Sözcü",
-        "published": "2026-08-09T22:51:50+03:00"
       },
       {
         "title": "Kemal Kılıçdaroğlu'ndan Terörsüz Türkiye'ye destek mesajı",
@@ -700,13 +728,6 @@
         "published": "2026-08-09T20:38:07+03:00"
       },
       {
-        "title": "Güney Koreli fenomene Taksim'de sözlü taciz. Canlı yayına yansıdı",
-        "link": "https://www.ntv.com.tr/turkiye/video-guney-koreli-fenomene-taksimde-sozlu-taciz-canli-yayina-yansidi-1736648",
-        "description": "Güney Koreli sosyal medya fenomeni, İstanbul Taksim'de yanına yaklaşan bir kişinin sözlü tacizine uğradı. Sosyal medyadan canlı yayın yapan kadına ısrarla arkadaşlık teklif eden şüpheli, fenomenin kamerasına yansıdı.",
-        "source": "NTV",
-        "published": "2026-08-09T20:18:08+03:00"
-      },
-      {
         "title": "Sicilya kıyılarında şarap ve zeytinyağı küpleriyle dolu 2.000 yıllık gemi batığı bulundu",
         "link": "https://www.bbc.com/turkce/articles/cgjezwgg0xpo?at_medium=RSS&at_campaign=rss",
         "description": "İtalyan dalgıçlar, Sicilya açıklarında 2.000 yıldan daha eski olduğuna inanılan antik bir Roma gemi batığı keşfetti. Geminin, şarap ve zeytinyağı gibi malların taşınmasında kullanılan yüzlerce iyi korunmuş küple dolu olduğu belirtildi.",
@@ -735,25 +756,11 @@
         "published": "2026-08-09T08:27:25+00:00"
       },
       {
-        "title": "Parmak arası terlikler ayak sağlığına zararlı mı?",
-        "link": "https://www.bbc.com/turkce/articles/cvgj7g9v82no?at_medium=RSS&at_campaign=rss",
-        "description": "Parmak arası terlikler destek eksikliği ve ayak sağlığına zarar verebilmesi nedeniyle kötü bir üne sahip. Peki, şık ve konforlu alternatifler yok mu? Uzmanların bazı önerileri var.",
-        "source": "BBC Turkish",
-        "published": "2026-08-09T07:26:37+00:00"
-      },
-      {
         "title": "Matematikte iyiler ve caza meraklılar: Köpekbalıkları hakkında dokuz sıra dışı bilgi",
         "link": "https://www.bbc.com/turkce/articles/c3d3nleegv0o?at_medium=RSS&at_campaign=rss",
         "description": "İnsanların, bu seçkin okyanus yırtıcılarıyla sanıldığından daha fazla ortak noktası var. Biraz Miles Davis'e ne dersiniz?",
         "source": "BBC Turkish",
         "published": "2026-08-09T07:23:41+00:00"
-      },
-      {
-        "title": "Bir balerin, tartışmalı bir şirketle nasıl dünyanın en genç milyarderi oldu?",
-        "link": "https://www.bbc.com/turkce/articles/cx2jpejz25do?at_medium=RSS&at_campaign=rss",
-        "description": "Tahmin piyasası platformu Kalshi'nin kurucu ortaklarından biri olan isim, baleyi bıraktı ve hem yasayı hem de kendi servetini değiştiren bir fikir geliştirdi.",
-        "source": "BBC Turkish",
-        "published": "2026-08-09T07:21:28+00:00"
       },
       {
         "title": "Aramco'nun sıradışı kâr artışı: Suudi Arabistan İran savaşından fayda mı sağlıyor?",
@@ -768,25 +775,18 @@
         "description": "ABD'nin 1945'te atom bombası fırlatmayı planladığı Kokura şehri iki kez bu büyük tehditten kurtuldu. Peki tam olarak ne oldu?",
         "source": "BBC Turkish",
         "published": "2026-08-09T07:18:18+00:00"
-      },
-      {
-        "title": "BBC bir telefon defteriyle Esad'ın istihbarat şefine nasıl ulaştı?",
-        "link": "https://www.bbc.com/turkce/articles/cpvw7e109mjo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC, bir zamanlar Suriye'nin en korkulan adamlarından biri olan \"Örümcek\"i nasıl buldu?",
-        "source": "BBC Turkish",
-        "published": "2026-08-08T10:27:15+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.7168,
-    "eur_try": 55.1236,
-    "eur_usd": 0.8659
+    "usd_try": 47.7058,
+    "eur_try": 55.1252,
+    "eur_usd": 0.8655
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+79°F",
-    "wind": "↓6mph",
-    "humidity": "52%"
+    "temp": "+84°F",
+    "wind": "←4mph",
+    "humidity": "79%"
   }
 }
