@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T22:06:53.855808+00:00",
+  "updated_at": "2026-08-10T23:06:01.166469+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "How Claude marks AI-generated content",
-        "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-        "description": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 14 # Comments: 5",
+        "title": "Google Search Is Dying. What Comes Next Is Worse",
+        "link": "https://thewalrus.ca/google-search-is-dying/",
+        "description": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 10 # Comments: 2",
         "source": "HackerNews",
-        "published": "2026-08-10T21:36:56+00:00"
+        "published": "2026-08-10T22:36:30+00:00"
       },
       {
-        "title": "We cut a 40-day financial integration down to 5 days using Google Anti",
-        "link": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
-        "description": "Article URL: https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313 Comments URL: https://news.ycombinator.com/item?id=49249986 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-10T21:27:02+00:00"
+        "title": "Now Rippling is counter suing tiny startup Runlayer",
+        "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+        "description": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller and buyer-beware market warning.",
+        "source": "TechCrunch",
+        "published": "2026-08-10T22:26:54+00:00"
       },
       {
         "title": "Amazon backs power plant that may become top source of US climate pollution",
         "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/ Comments URL: https://news.ycombinator.com/item?id=49249971 Points: 30 # Comments: 16",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/ Comments URL: https://news.ycombinator.com/item?id=49249971 Points: 87 # Comments: 49",
         "source": "HackerNews",
         "published": "2026-08-10T21:26:16+00:00"
       },
@@ -38,16 +38,23 @@
         "published": "2026-08-10T20:53:02+00:00"
       },
       {
+        "title": "Confessions of a Long-Distance Sailor",
+        "link": "https://arachnoid.com/lutusp/sailbook.html",
+        "description": "Article URL: https://arachnoid.com/lutusp/sailbook.html Comments URL: https://news.ycombinator.com/item?id=49249555 Points: 21 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-10T20:52:55+00:00"
+      },
+      {
         "title": "Stop Killing Games: It's time to sue Sony, join us",
         "link": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
-        "description": "Article URL: https://www.massaschadeconsument.nl/collectieve-acties/playstation/ Comments URL: https://news.ycombinator.com/item?id=49249481 Points: 32 # Comments: 8",
+        "description": "Article URL: https://www.massaschadeconsument.nl/collectieve-acties/playstation/ Comments URL: https://news.ycombinator.com/item?id=49249481 Points: 74 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-08-10T20:47:13+00:00"
       },
       {
         "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
         "link": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-        "description": "Article URL: https://linuxstans.com/illinois-hb5511-operating-system-age-verification/ Comments URL: https://news.ycombinator.com/item?id=49249150 Points: 189 # Comments: 207",
+        "description": "Article URL: https://linuxstans.com/illinois-hb5511-operating-system-age-verification/ Comments URL: https://news.ycombinator.com/item?id=49249150 Points: 242 # Comments: 297",
         "source": "HackerNews",
         "published": "2026-08-10T20:20:06+00:00"
       },
@@ -64,6 +71,13 @@
         "description": "Apple, iOS 27 beta 5 güncellemesini yayınladı. Yeni sürümdeki Siri geliştirmeleri, arayüz değişiklikleri ve dikkat edilmesi gerekenler haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-08-10T18:57:32+00:00"
+      },
+      {
+        "title": "Mark Zuckerberg doesn’t understand how to live",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+        "description": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what...",
+        "source": "The Verge",
+        "published": "2026-08-10T18:47:01-04:00"
       },
       {
         "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
@@ -89,9 +103,16 @@
       {
         "title": "Rust SIMD on the GPU",
         "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-        "description": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 76 # Comments: 37",
+        "description": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 97 # Comments: 49",
         "source": "HackerNews",
         "published": "2026-08-10T18:12:49+00:00"
+      },
+      {
+        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+        "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on...",
+        "source": "The Verge",
+        "published": "2026-08-10T18:10:06-04:00"
       },
       {
         "title": "Samsung Now Brief'e Çok Kullanacağınız Bir Özellik Geliyor: Yaklaşan Faturaları Hatırlatacak!",
@@ -141,6 +162,13 @@
         "description": "Hey HN, Henry from Cactus here! We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here,...",
         "source": "HackerNews",
         "published": "2026-08-10T17:22:07+00:00"
+      },
+      {
+        "title": "Anker’s travel charger works in almost any country and is down to $20",
+        "link": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+        "description": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel...",
+        "source": "The Verge",
+        "published": "2026-08-10T17:18:15-04:00"
       },
       {
         "title": "İddia: The Witcher'in Final Sezonu 2027'ye Ertelenmiş Olabilir",
@@ -201,7 +229,7 @@
       {
         "title": "Exploiting System Management Mode with a very long interrupt",
         "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-        "description": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii Comments URL: https://news.ycombinator.com/item?id=49245491 Points: 103 # Comments: 33",
+        "description": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii Comments URL: https://news.ycombinator.com/item?id=49245491 Points: 108 # Comments: 34",
         "source": "HackerNews",
         "published": "2026-08-10T16:03:14+00:00"
       },
@@ -215,7 +243,7 @@
       {
         "title": "Back to the Future of Handwriting Recognition (2016)",
         "link": "https://jackschaedler.github.io/handwriting-recognition/",
-        "description": "Article URL: https://jackschaedler.github.io/handwriting-recognition/ Comments URL: https://news.ycombinator.com/item?id=49245421 Points: 31 # Comments: 8",
+        "description": "Article URL: https://jackschaedler.github.io/handwriting-recognition/ Comments URL: https://news.ycombinator.com/item?id=49245421 Points: 32 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-10T15:58:32+00:00"
       },
@@ -269,13 +297,6 @@
         "published": "2026-08-10T15:14:27-04:00"
       },
       {
-        "title": "Archer buys former rival Wisk Aero",
-        "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
-        "description": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.",
-        "source": "TechCrunch",
-        "published": "2026-08-10T15:09:39+00:00"
-      },
-      {
         "title": "Huawei’den Sürpriz Okula Dönüş İndirimi",
         "link": "https://shiftdelete.net/huaweiden-okula-donus-surpriz-indirimi",
         "description": "Yeni eğitim-öğretim yılının yaklaşmasıyla birlikte teknoloji dünyasında okula dönüş hareketliliği tüm hızıyla başlıyor. HUAWEI, öğrencilerin, öğretmenlerin ve dijital dünyada verimliliğini artırmak isteyen kullanıcıların bütçesine doğrudan katkı...",
@@ -318,32 +339,11 @@
         "published": "2026-08-10T12:27:33-04:00"
       },
       {
-        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-        "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-        "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on...",
-        "source": "The Verge",
-        "published": "2026-08-10T11:40:12-04:00"
-      },
-      {
         "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
         "link": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
         "description": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at...",
         "source": "The Verge",
         "published": "2026-08-10T10:27:23-04:00"
-      },
-      {
-        "title": "Boeing is selling its air taxi startups to Archer Aviation",
-        "link": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-        "description": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk Aero, which...",
-        "source": "The Verge",
-        "published": "2026-08-10T10:00:17-04:00"
-      },
-      {
-        "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-        "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-        "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have...",
-        "source": "The Verge",
-        "published": "2026-08-10T09:04:13-04:00"
       },
       {
         "title": "Apple will stream Friday Night Baseball live in Vision Pro",
@@ -355,18 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+        "source": "BBC News",
+        "published": "2026-08-10T23:03:52+00:00"
+      },
+      {
+        "title": "GB's Amy Hunt wins European 100m gold",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
+        "description": "Britain's Amy Hunt has her \"coming of age\" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.",
+        "source": "BBC News",
+        "published": "2026-08-10T22:51:36+00:00"
+      },
+      {
+        "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
+        "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+        "description": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He...",
+        "source": "The Guardian",
+        "published": "2026-08-10T22:45:30+00:00"
+      },
+      {
         "title": "No evidence of data breach after Chinese-made component found in Navy drones, MoD says",
         "link": "https://www.bbc.co.uk/news/articles/c4gwl3n7ne7o?at_medium=RSS&at_campaign=rss",
         "description": "The Royal Navy's new sea drones were found to include a Chinese-made component which sent communication to a Chinese IP address.",
         "source": "BBC News",
         "published": "2026-08-10T21:50:37+00:00"
-      },
-      {
-        "title": "GB's Hunt wins European 100m gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
-        "description": "Great Britain's Amy Hunt claims her first senior international title by powering to 100m gold at the European Athletics Championships in Birmingham.",
-        "source": "BBC News",
-        "published": "2026-08-10T21:47:29+00:00"
       },
       {
         "title": "Councils to get more powers to stop vape and betting shops, PM announces",
@@ -376,18 +390,18 @@
         "published": "2026-08-10T21:33:51+00:00"
       },
       {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+        "title": "At least 111 killed in Colombia's largest earthquake in years",
+        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "description": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
         "source": "BBC News",
-        "published": "2026-08-10T21:33:25+00:00"
+        "published": "2026-08-10T21:24:29+00:00"
       },
       {
-        "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
-        "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-        "description": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He...",
-        "source": "The Guardian",
-        "published": "2026-08-10T21:27:13+00:00"
+        "title": "Canada flight cancelled after child refuses to wear seat belt",
+        "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+        "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+        "source": "BBC News",
+        "published": "2026-08-10T21:06:27+00:00"
       },
       {
         "title": "New Forest firefighting to continue overnight as cars abandoned",
@@ -418,13 +432,6 @@
         "published": "2026-08-10T16:52:47+00:00"
       },
       {
-        "title": "Treasury contributed to woman's death, inquest hears",
-        "link": "https://www.bbc.co.uk/news/articles/cgje066zd63o?at_medium=RSS&at_campaign=rss",
-        "description": "The inquest hears the Treasury did not apply written disciplinary policy before Chloe Moffat died.",
-        "source": "BBC News",
-        "published": "2026-08-10T16:50:50+00:00"
-      },
-      {
         "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
         "description": "The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been \"Orwellian\" and \"Kafkaesque.\" And it's not over yet: His lawyers are fighting to close the case permanently.",
@@ -437,13 +444,6 @@
         "description": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
         "source": "NPR",
         "published": "2026-08-10T16:25:02-04:00"
-      },
-      {
-        "title": "New weight-loss pill approved for use in UK",
-        "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-        "description": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
-        "source": "BBC News",
-        "published": "2026-08-10T15:25:07+00:00"
       },
       {
         "title": "Record 230 people cross Channel in one small boat",
@@ -502,7 +502,7 @@
         "published": "2026-08-10T07:42:58-04:00"
       },
       {
-        "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+        "title": "People with disabilities say Medicaid income limits can stifle career advancement",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
         "description": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they'd like to work more, but risk losing their Medicaid coverage if they earn too much.",
         "source": "NPR",
@@ -571,14 +571,28 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-agustos-2026-1736783",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-11T01:00:00+03:00"
+        "published": "2026-08-11T02:00:00+03:00"
+      },
+      {
+        "title": "'Çerçeve yasa' oylamasına 31 vekil 'katılmadı': İşte dikkat çeken isimler...",
+        "link": "https://www.sozcu.com.tr/cerceve-yasa-oylamasinda-kimler-yoktu-p344201",
+        "description": "'Çerçeve yasa' oylamasına 31 vekil 'katılmadı': İşte dikkat çeken isimler...",
+        "source": "Sözcü",
+        "published": "2026-08-11T01:24:13+03:00"
       },
       {
         "title": "Terörsüz Türkiye yasası TBMM'de kabul edildi. Siyasilerden birlik mesajı",
         "link": "https://www.ntv.com.tr/turkiye/terorsuz-turkiye-yasasi-tbmmde-kabul-edildi-siyasilerden-birlik-mesaji-1736782",
         "description": "Terörsüz Türkiye yasasının TBMM'de kabul edilmesinin ardından hükümet üyelerinden ve siyasilerden birlik mesajı geldi.",
         "source": "NTV",
-        "published": "2026-08-11T00:40:25+03:00"
+        "published": "2026-08-11T01:19:13+03:00"
+      },
+      {
+        "title": "Dağın içini oyup 13 katlı şehir inşa etmişler: İçinde tam 6 bin oda var",
+        "link": "https://www.sozcu.com.tr/dagin-icini-oyup-13-katli-sehir-insa-etmisler-icinde-tam-6-bin-oda-var-p344200",
+        "description": "Dağın içini oyup 13 katlı şehir inşa etmişler: İçinde tam 6 bin oda var",
+        "source": "Sözcü",
+        "published": "2026-08-11T01:07:24+03:00"
       },
       {
         "title": "Bataklığı dev bir arıtma tesisine çevirdiler: Yılda 42 milyar litre suyu temizliyor",
@@ -600,13 +614,6 @@
         "description": "'Çerçeve yasa' Meclis'te kabul edildi! Bahçeli'den 'hayırlı olsun' yorumu geldi...",
         "source": "Sözcü",
         "published": "2026-08-11T00:17:16+03:00"
-      },
-      {
-        "title": "Son Dakika: Meclis 'Çerçeve Yasa'yı onayladı",
-        "link": "https://www.sozcu.com.tr/meclis-cerceve-yasa-yi-9-saatte-onayladi-kabul-edildi-p344177",
-        "description": "Son Dakika: Meclis 'Çerçeve Yasa'yı onayladı",
-        "source": "Sözcü",
-        "published": "2026-08-10T23:54:59+03:00"
       },
       {
         "title": "Pendikspor ve Batman Petrolspor puanları paylaştı",
@@ -656,13 +663,6 @@
         "description": "Dev barajda su seviyesi dibe vurdu: Elektrik üretimi yüzde 70 azalabilir",
         "source": "Sözcü",
         "published": "2026-08-10T22:56:31+03:00"
-      },
-      {
-        "title": "Acun Ilıcalı aradığı kaleciyi Türkiye’de buldu! Hull City’ye sudan ucuz transfer",
-        "link": "https://www.sozcu.com.tr/acun-ilicali-aradigi-kaleciyi-turkiye-de-buldu-hull-city-e-sudan-ucuz-transfer-p344178",
-        "description": "Acun Ilıcalı aradığı kaleciyi Türkiye’de buldu! Hull City’ye sudan ucuz transfer",
-        "source": "Sözcü",
-        "published": "2026-08-10T22:42:21+03:00"
       },
       {
         "title": "Son dakika Iğdır'da deprem mi oldu? Az önce deprem Iğdır'da nerede oldu? Iğdır deprem Kandilli ve AFAD son depremler listesi 10 Ağustos 2026",
@@ -786,7 +786,7 @@
   "weather": {
     "condition": "Güneşli",
     "temp": "+75°F",
-    "wind": "↗8mph",
-    "humidity": "91%"
+    "wind": "↓3mph",
+    "humidity": "56%"
   }
 }
