@@ -1,9 +1,30 @@
 {
-  "updated_at": "2026-08-13T19:34:41.529974+00:00",
+  "updated_at": "2026-08-13T20:41:29.297737+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+        "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+        "source": "TechCrunch",
+        "published": "2026-08-13T20:14:39+00:00"
+      },
+      {
+        "title": "How Gödel's Proof Works",
+        "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+        "description": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 14 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-13T19:44:46+00:00"
+      },
+      {
+        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+        "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+        "description": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 17 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-13T19:25:38+00:00"
+      },
+      {
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
         "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
         "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
         "source": "TechCrunch",
@@ -12,37 +33,37 @@
       {
         "title": "IBM partners with OpenAI to bolster enterprise AI push",
         "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-        "description": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+        "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
         "source": "TechCrunch",
         "published": "2026-08-13T19:19:49+00:00"
       },
       {
-        "title": "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
-        "link": "https://pixydesignapp.com/",
-        "description": "Article URL: https://pixydesignapp.com/ Comments URL: https://news.ycombinator.com/item?id=49290629 Points: 4 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-13T19:15:10+00:00"
-      },
-      {
-        "title": "Understanding Is the New Bottleneck",
+        "title": "Understanding is the new bottleneck",
         "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-        "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 7 # Comments: 1",
+        "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 40 # Comments: 23",
         "source": "HackerNews",
         "published": "2026-08-13T18:47:19+00:00"
       },
       {
         "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
         "link": "https://github.com/systemd/systemd/issues/40262",
-        "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 7 # Comments: 1",
+        "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 57 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-08-13T18:41:01+00:00"
       },
       {
-        "title": "What Is Kimi K3? A Complete Developer Guide for 2026",
-        "link": "https://www.firecrawl.dev/blog/kimi-k3",
-        "description": "Article URL: https://www.firecrawl.dev/blog/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=49290202 Points: 4 # Comments: 0",
+        "title": "HN: Xenon, open source dashboard for a second screen, tablet or phone",
+        "link": "https://xenon-app.com/",
+        "description": "Article URL: https://xenon-app.com/ Comments URL: https://news.ycombinator.com/item?id=49290180 Points: 7 # Comments: 0",
         "source": "HackerNews",
-        "published": "2026-08-13T18:39:52+00:00"
+        "published": "2026-08-13T18:38:29+00:00"
+      },
+      {
+        "title": "AI Is Threatening Natural Resources for Billions",
+        "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+        "description": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 33 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-08-13T18:28:20+00:00"
       },
       {
         "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -54,7 +75,7 @@
       {
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 140 # Comments: 35",
+        "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 229 # Comments: 80",
         "source": "HackerNews",
         "published": "2026-08-13T18:10:02+00:00"
       },
@@ -66,25 +87,25 @@
         "published": "2026-08-13T18:00:24+00:00"
       },
       {
+        "title": "How Compaction Works in Pi",
+        "link": "https://earendil.com/posts/compaction-in-pi/",
+        "description": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 13 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-13T17:57:50+00:00"
+      },
+      {
+        "title": "Solid 2.0 RC: The Big",
+        "link": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
+        "description": "Article URL: https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal Comments URL: https://news.ycombinator.com/item?id=49289585 Points: 36 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-08-13T17:53:19+00:00"
+      },
+      {
         "title": "Where did the old web go? We followed 657,607 links to find out",
         "link": "https://0.mk/blog/link-rot",
-        "description": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 45 # Comments: 19",
+        "description": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 76 # Comments: 35",
         "source": "HackerNews",
         "published": "2026-08-13T17:49:18+00:00"
-      },
-      {
-        "title": "Choose Boring Technology (2015)",
-        "link": "https://mcfunley.com/choose-boring-technology",
-        "description": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 105 # Comments: 54",
-        "source": "HackerNews",
-        "published": "2026-08-13T17:48:13+00:00"
-      },
-      {
-        "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-        "link": "https://donkeybas.com/",
-        "description": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 70 # Comments: 26",
-        "source": "HackerNews",
-        "published": "2026-08-13T17:45:50+00:00"
       },
       {
         "title": "Beşiktaş-Hradec Kralove Maçı Hangi Kanaldan Yayınlanacak?",
@@ -99,20 +120,6 @@
         "description": "4000 yıllık Antik Yunan yüzüklerini inceleyen bilim insanları, Minos ve Miken soylularının göktaşı demirinden takılar taktığını ortaya çıkardı.",
         "source": "Webtekno",
         "published": "2026-08-13T17:27:32+03:00"
-      },
-      {
-        "title": "Gemini 3.7 Flash",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "description": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas... Comments URL: https://news.ycombinator.com/item?id=49289112 Points: 314 # Comments: 207",
-        "source": "HackerNews",
-        "published": "2026-08-13T17:23:22+00:00"
-      },
-      {
-        "title": "JDK 27 G1/Parallel/Serial GC Changes",
-        "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-        "description": "Article URL: https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html Comments URL: https://news.ycombinator.com/item?id=49289101 Points: 20 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-08-13T17:22:39+00:00"
       },
       {
         "title": "Lenovo'nun MacBook Neo'ya Rakip Ürünü Sızdı: İşte Tasarımı ve Renk Seçenekleri!",
@@ -169,6 +176,13 @@
         "description": "Apple’ın önümüzdeki ay tanıtacağı ilk katlanabilir telefonu iPhone Ultra, alışılagelmiş simetrik ön kamera yerleşimini bozarak selfie kameralarını ekranların köşelerine gizleyebilir.",
         "source": "Webtekno",
         "published": "2026-08-13T16:17:01+03:00"
+      },
+      {
+        "title": "This school-friendly laptop from HP is $300 off",
+        "link": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+        "description": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost down to...",
+        "source": "The Verge",
+        "published": "2026-08-13T16:07:53-04:00"
       },
       {
         "title": "Xiaomi HyperOS 4 Beta Takvimini Açıkladı: İşte İlk Alacak Cihazlar!",
@@ -234,6 +248,13 @@
         "published": "2026-08-13T15:30:00+00:00"
       },
       {
+        "title": "OpenAI is losing its second executive this week",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+        "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to...",
+        "source": "The Verge",
+        "published": "2026-08-13T15:28:39-04:00"
+      },
+      {
         "title": "Çocuk Güvenliğinde Yeni Dönem: HUAWEI WATCH KIDS X1",
         "link": "https://shiftdelete.net/cocuk-guvenliginde-yeni-donem-huawei-watch-kids-x1",
         "description": "Günümüzde ebeveynlerin en büyük endişelerinden biri çocuklarının dışarıda geçirdiği vakitlerde güvende olup olmadığını bilmek. Diğer yandan çocuklar ve gençler ise sıkıcı güvenlik ekipmanları yerine kendi tarzlarını yansıtan, eğlenceli ve teknolojik...",
@@ -253,13 +274,6 @@
         "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
         "source": "TechCrunch",
         "published": "2026-08-13T15:08:00+00:00"
-      },
-      {
-        "title": "Who really needs a cocktail robot?",
-        "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-        "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
-        "source": "TechCrunch",
-        "published": "2026-08-13T15:00:00+00:00"
       },
       {
         "title": "You can now just point at a mess and this robot vacuum will suck it up",
@@ -332,20 +346,6 @@
         "published": "2026-08-13T12:10:06-04:00"
       },
       {
-        "title": "I looked inside an AI generated movie, and the best parts were all human",
-        "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-        "description": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a...",
-        "source": "The Verge",
-        "published": "2026-08-13T11:41:56-04:00"
-      },
-      {
-        "title": "This is Instagram’s new logo",
-        "link": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
-        "description": "Instagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that...",
-        "source": "The Verge",
-        "published": "2026-08-13T11:38:20-04:00"
-      },
-      {
         "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
         "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
         "description": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for...",
@@ -354,6 +354,20 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Watch: Houses engulfed in flames across Stourbridge",
+        "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+        "description": "Multiple fires burned across the West Midlands and destroyed homes there.",
+        "source": "BBC News",
+        "published": "2026-08-13T20:26:25+00:00"
+      },
+      {
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "source": "BBC News",
+        "published": "2026-08-13T20:12:17+00:00"
+      },
       {
         "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
         "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
@@ -376,13 +390,6 @@
         "published": "2026-08-13T18:28:17+00:00"
       },
       {
-        "title": "Aerial footage shows derailed train",
-        "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
-        "description": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
-        "source": "BBC News",
-        "published": "2026-08-13T17:09:23+00:00"
-      },
-      {
         "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
         "link": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
         "description": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
@@ -402,13 +409,6 @@
         "description": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious.",
         "source": "BBC News",
         "published": "2026-08-13T16:47:42+00:00"
-      },
-      {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "source": "BBC News",
-        "published": "2026-08-13T16:20:41+00:00"
       },
       {
         "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
@@ -444,13 +444,6 @@
         "description": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
         "source": "NPR",
         "published": "2026-08-13T12:40:26-04:00"
-      },
-      {
-        "title": "Voting under way in Clacton by-election",
-        "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
-        "description": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
-        "source": "BBC News",
-        "published": "2026-08-13T12:07:20+00:00"
       },
       {
         "title": "The key signs you may have damaged your eyes by looking at the eclipse",
@@ -502,9 +495,9 @@
         "published": "2026-08-13T05:58:40-04:00"
       },
       {
-        "title": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-        "description": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.",
+        "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+        "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism.",
         "source": "NPR",
         "published": "2026-08-13T05:00:00-04:00"
       },
@@ -563,15 +556,57 @@
         "description": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota...",
         "source": "The Guardian",
         "published": "2026-08-11T05:32:08+00:00"
+      },
+      {
+        "title": "How to get a good night's sleep during hot weather",
+        "link": "https://www.bbc.co.uk/news/articles/cpw7gp2ky70o?at_medium=RSS&at_campaign=rss",
+        "description": "Simple tips to help you get a good night's sleep when temperatures rise.",
+        "source": "BBC News",
+        "published": "2026-06-25T14:48:15+00:00"
       }
     ],
     "turkiye": [
       {
-        "title": "Abdulhamit Gül: Yasanın toplumsal mutabakatla çözülmesini istedik",
+        "title": "60 yıl önce terk edilen demiryolu 52 kilometrelik yeşil koridora dönüştü",
+        "link": "https://www.sozcu.com.tr/60-yil-once-terk-edilen-demiryolu-52-kilometrelik-yesil-koridora-donustu-p347162",
+        "description": "60 yıl önce terk edilen demiryolu 52 kilometrelik yeşil koridora dönüştü",
+        "source": "Sözcü",
+        "published": "2026-08-13T23:38:09+03:00"
+      },
+      {
+        "title": "Vincenzo Italiano: ‘Vlahovic diğer oyuncuları yukarı çekecek...'",
+        "link": "https://www.sozcu.com.tr/vincenzo-italiano-vlahovic-diger-oyunculari-yukari-cekecek-p347160",
+        "description": "Vincenzo Italiano: ‘Vlahovic diğer oyuncuları yukarı çekecek...'",
+        "source": "Sözcü",
+        "published": "2026-08-13T23:34:16+03:00"
+      },
+      {
+        "title": "İran’dan Trump’a yalanlama: Hürmüz’de gerilim devam ediyor",
+        "link": "https://www.sozcu.com.tr/iran-dan-trump-a-yalanlama-hurmuz-de-gerilim-devam-ediyor-p347155",
+        "description": "İran’dan Trump’a yalanlama: Hürmüz’de gerilim devam ediyor",
+        "source": "Sözcü",
+        "published": "2026-08-13T23:10:07+03:00"
+      },
+      {
+        "title": "Maçı yarım bırakan Djalo'nun durumu belli oldu",
+        "link": "https://www.sozcu.com.tr/maci-yarim-birakan-djalo-nun-durumu-belli-oldu-p347154",
+        "description": "Maçı yarım bırakan Djalo'nun durumu belli oldu",
+        "source": "Sözcü",
+        "published": "2026-08-13T23:06:19+03:00"
+      },
+      {
+        "title": "Abdulhamit Gül: Yasanın anayasaya aykırı hiçbir yönü yok",
         "link": "https://www.ntv.com.tr/turkiye/abdulhamit-gul-yasanin-toplumsal-mutabakatla-cozulmesini-istedik-1737239",
-        "description": "AK Parti Grup Başkanvekili Abdulhamit Gül, NTV Ankara Temsilcisi Ahmet Ergen'in sorularını yanıtlıyor.",
+        "description": "AK Parti Grup Başkanvekili Abdulhamit Gül, Terörsüz Türkiye süreç yasasının anayasaya aykırı olmadığını söyledi. Gül, 467 oyla kabul edilmesinin çok değerli olduğunu ve ihtiyaç olması halinde yeni kanunlar yapılabileceğini belirtti.",
         "source": "NTV",
-        "published": "2026-08-13T22:33:25+03:00"
+        "published": "2026-08-13T23:02:41+03:00"
+      },
+      {
+        "title": "Gece tatbikatında ikiye bölünüp batmıştı: 118 yıl sonra bulundu",
+        "link": "https://www.sozcu.com.tr/gece-tatbikatinda-ikiye-bolunup-batmisti-118-yil-sonra-bulundu-p347153",
+        "description": "Gece tatbikatında ikiye bölünüp batmıştı: 118 yıl sonra bulundu",
+        "source": "Sözcü",
+        "published": "2026-08-13T22:48:32+03:00"
       },
       {
         "title": "Ankara'daki uçak değişikliği krizi: İsrail istihbaratı ABD'yi karıştırdı",
@@ -614,41 +649,6 @@
         "description": "Rojin Kabaiş'in ailesini tehdit eden 2 kişinin tutuklandığı operasyonun ardından baba Nizamettin Kabaiş'e silah fotoğraflı tehdit mesajı gönderildi.",
         "source": "NTV",
         "published": "2026-08-13T21:49:19+03:00"
-      },
-      {
-        "title": "Boks maçında aldığı darbelerle felç kalmıştı! 33 yaşında hayatını kaybetti",
-        "link": "https://www.sozcu.com.tr/boks-macinda-aldigi-darbelerle-felc-kalmisti-33-yasinda-hayatini-kaybetti-p347142",
-        "description": "Boks maçında aldığı darbelerle felç kalmıştı! 33 yaşında hayatını kaybetti",
-        "source": "Sözcü",
-        "published": "2026-08-13T21:45:17+03:00"
-      },
-      {
-        "title": "Yeni Parti'nin İstanbul'daki ilk üyesi İmamoğlu oldu",
-        "link": "https://www.sozcu.com.tr/yeni-parti-nin-istanbul-daki-ilk-uyesi-ekrem-imamoglu-oldu-p347141",
-        "description": "Yeni Parti'nin İstanbul'daki ilk üyesi İmamoğlu oldu",
-        "source": "Sözcü",
-        "published": "2026-08-13T21:45:11+03:00"
-      },
-      {
-        "title": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
-        "link": "https://www.sozcu.com.tr/zeynep-sonmez-cincinnati-open-da-ikinci-tura-yukseldi-p347139",
-        "description": "Zeynep Sönmez, Cincinnati Open'da ikinci tura yükseldi",
-        "source": "Sözcü",
-        "published": "2026-08-13T21:37:01+03:00"
-      },
-      {
-        "title": "Evcil hayvanlarla konuşurken ses tonumuzun değişmesinin sebebi buymuş",
-        "link": "https://www.sozcu.com.tr/evcil-hayvanlarla-konusurken-ses-tonumuzun-degismesinin-sebebi-buymus-p347138",
-        "description": "Evcil hayvanlarla konuşurken ses tonumuzun değişmesinin sebebi buymuş",
-        "source": "Sözcü",
-        "published": "2026-08-13T21:27:41+03:00"
-      },
-      {
-        "title": "Beşiktaş'ın yeni golcüsü Dolmabahçe'de",
-        "link": "https://www.sozcu.com.tr/besiktas-in-yeni-golcusu-dolmabahce-de-p347137",
-        "description": "Beşiktaş'ın yeni golcüsü Dolmabahçe'de",
-        "source": "Sözcü",
-        "published": "2026-08-13T21:19:33+03:00"
       },
       {
         "title": "CHP'li milletvekilini tacizle suçlayıp dövdüler. Soruşturma başlatıldı",
