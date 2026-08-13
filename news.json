@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-13T21:43:51.001756+00:00",
+  "updated_at": "2026-08-13T22:40:34.731093+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+        "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+        "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+        "source": "TechCrunch",
+        "published": "2026-08-13T22:12:40+00:00"
+      },
+      {
+        "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+        "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+        "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its...",
+        "source": "TechCrunch",
+        "published": "2026-08-13T22:02:04+00:00"
+      },
+      {
+        "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+        "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+        "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+        "source": "TechCrunch",
+        "published": "2026-08-13T21:50:11+00:00"
+      },
       {
         "title": "Writer introduces new AI model and upgraded harness to contain token costs",
         "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -19,21 +40,21 @@
       {
         "title": "NP-Overrated",
         "link": "https://gruhn.me/blog/2026-08-13/",
-        "description": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 54 # Comments: 19",
+        "description": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 83 # Comments: 34",
         "source": "HackerNews",
         "published": "2026-08-13T20:14:17+00:00"
       },
       {
         "title": "How Gödel's Proof Works (2020)",
         "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-        "description": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 36 # Comments: 20",
+        "description": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 48 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-08-13T19:44:46+00:00"
       },
       {
         "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
         "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-        "description": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 31 # Comments: 13",
+        "description": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 43 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-08-13T19:25:38+00:00"
       },
@@ -54,16 +75,23 @@
       {
         "title": "Understanding is the new bottleneck",
         "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-        "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 74 # Comments: 46",
+        "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 112 # Comments: 66",
         "source": "HackerNews",
         "published": "2026-08-13T18:47:19+00:00"
       },
       {
         "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
         "link": "https://github.com/systemd/systemd/issues/40262",
-        "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 87 # Comments: 43",
+        "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 115 # Comments: 59",
         "source": "HackerNews",
         "published": "2026-08-13T18:41:01+00:00"
+      },
+      {
+        "title": "I finally found a robot lawnmower I’d trust with my yard",
+        "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+        "description": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’...",
+        "source": "The Verge",
+        "published": "2026-08-13T18:34:25-04:00"
       },
       {
         "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -75,7 +103,7 @@
       {
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 286 # Comments: 114",
+        "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 336 # Comments: 132",
         "source": "HackerNews",
         "published": "2026-08-13T18:10:02+00:00"
       },
@@ -89,28 +117,49 @@
       {
         "title": "How Compaction Works in Pi",
         "link": "https://earendil.com/posts/compaction-in-pi/",
-        "description": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 45 # Comments: 6",
+        "description": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 64 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-08-13T17:57:50+00:00"
       },
       {
+        "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+        "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+        "description": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app...",
+        "source": "The Verge",
+        "published": "2026-08-13T17:54:46-04:00"
+      },
+      {
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "description": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as...",
+        "source": "The Verge",
+        "published": "2026-08-13T17:53:09-04:00"
+      },
+      {
         "title": "Where did the old web go? We followed 657,607 links to find out",
         "link": "https://0.mk/blog/link-rot",
-        "description": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 93 # Comments: 60",
+        "description": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 100 # Comments: 68",
         "source": "HackerNews",
         "published": "2026-08-13T17:49:18+00:00"
       },
       {
         "title": "Choose Boring Technology (2015)",
         "link": "https://mcfunley.com/choose-boring-technology",
-        "description": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 169 # Comments: 87",
+        "description": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 196 # Comments: 104",
         "source": "HackerNews",
         "published": "2026-08-13T17:48:13+00:00"
       },
       {
+        "title": "The fight over Flock and other ALPRs",
+        "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+        "description": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and...",
+        "source": "The Verge",
+        "published": "2026-08-13T17:46:21-04:00"
+      },
+      {
         "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
         "link": "https://donkeybas.com/",
-        "description": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 137 # Comments: 56",
+        "description": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 157 # Comments: 64",
         "source": "HackerNews",
         "published": "2026-08-13T17:45:50+00:00"
       },
@@ -120,13 +169,6 @@
         "description": "Beşiktaş-Hradec Kralove maçı hangi kanalda yayınlanacak? UEFA Avrupa Ligi 3. eleme turunda oynanacak Beşiktaş-Hradec Kralove maçına ilişkin yayın bilgilerine haberimizden ulaşabilirsiniz.",
         "source": "Webtekno",
         "published": "2026-08-13T17:43:45+03:00"
-      },
-      {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "description": "Microsoft Copilot will no longer show its emotive yellow blob Mico when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as...",
-        "source": "The Verge",
-        "published": "2026-08-13T17:42:38-04:00"
       },
       {
         "title": "4000 Yıl Önce Yaşamış Antik Zenginlerin Taktığı Yüzüklerde \"Dünya Dışı Metallere\" Rastlandı",
@@ -213,25 +255,11 @@
         "published": "2026-08-13T16:00:17+03:00"
       },
       {
-        "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-        "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-        "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-        "source": "TechCrunch",
-        "published": "2026-08-13T16:00:00+00:00"
-      },
-      {
         "title": "Anthropic’in Yeni Claude Filigranları Kullanıcıları İkiye Böldü",
         "link": "https://shiftdelete.net/anthropicin-yeni-claude-filigranlari-kullanicilari-ikiye-boldu",
         "description": "Anthropic, AB yasaları gereği Claude çıktılarına filigran eklemeye başladı. Kullanıcılar arasında şeffaflık ve etik üzerine tartışmalar sürüyor.",
         "source": "ShiftDelete",
         "published": "2026-08-13T16:00:00+00:00"
-      },
-      {
-        "title": "Instagram introduces a redesigned wordmark",
-        "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-        "description": "The social media giant says it was time for a sharper and more modern look after a decade.",
-        "source": "TechCrunch",
-        "published": "2026-08-13T15:46:02+00:00"
       },
       {
         "title": "vivo S50t Vitality Edition Tanıtıldı: İşte Özellikleri",
@@ -246,13 +274,6 @@
         "description": "Çocukların güvenliği ile gençlerin tarz beklentilerini tek bir noktada buluşturan HUAWEI WATCH KIDS X1 ile tanışın! Ebeveynlerin en büyük endişelerinden biri olan dışarıdaki güvenlik konusuna yenilikçi bir çözüm getiren bu akıllı saat, sıkıcı...",
         "source": "ShiftDelete",
         "published": "2026-08-13T15:34:26+00:00"
-      },
-      {
-        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-        "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-        "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-        "source": "TechCrunch",
-        "published": "2026-08-13T15:30:52+00:00"
       },
       {
         "title": "Apple, Siri İçin Haber Yayıncılarıyla Görüşüyor: Peki Tam Olarak Ne Sunmayı Planlıyor?",
@@ -304,25 +325,11 @@
         "published": "2026-08-13T14:30:27+00:00"
       },
       {
-        "title": "I finally found a robot lawnmower I’d trust with my yard",
-        "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-        "description": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’...",
-        "source": "The Verge",
-        "published": "2026-08-13T14:30:24-04:00"
-      },
-      {
         "title": "iPhone 18 Modeli Beklenenden Daha Yüksek RAM ile Gelecek",
         "link": "https://shiftdelete.net/iphone-18-modeli-beklenenden-daha-yuksek-ram-ile-gelecek",
         "description": "Apple'ın iPhone 18 modeli, 12GB RAM yükseltmesi ve A20 çip desteğiyle 2027 başında geliyor. Yeni nesil donanım özelliklerini ve beklentileri inceleyin.",
         "source": "ShiftDelete",
         "published": "2026-08-13T14:00:26+00:00"
-      },
-      {
-        "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
-        "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
-        "description": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with...",
-        "source": "The Verge",
-        "published": "2026-08-13T13:23:54-04:00"
       },
       {
         "title": "RTÜK LGBT Propagandası Yüzünden Dijital Platformlara Üst Sınırdan Ceza Verdi",
@@ -344,16 +351,23 @@
         "description": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will...",
         "source": "The Verge",
         "published": "2026-08-13T12:38:15-04:00"
-      },
-      {
-        "title": "Meta adds AI screening to detect WhatsApp scams",
-        "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
-        "description": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature,...",
-        "source": "The Verge",
-        "published": "2026-08-13T12:10:06-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "source": "BBC News",
+        "published": "2026-08-13T21:43:47+00:00"
+      },
+      {
+        "title": "Hunt surges to 200m glory to win second European gold",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
+        "description": "Britain's Amy Hunt charges to 200m glory to secure her second gold medal of the European Championships as Dina Asher-Smith claims bronze.",
+        "source": "BBC News",
+        "published": "2026-08-13T21:39:06+00:00"
+      },
       {
         "title": "Two seriously hurt as passenger train derails in East Sussex",
         "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
@@ -411,13 +425,6 @@
         "published": "2026-08-13T16:49:28+00:00"
       },
       {
-        "title": "Honeytrap thieves jailed for killing men they had drugged",
-        "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
-        "description": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious.",
-        "source": "BBC News",
-        "published": "2026-08-13T16:47:42+00:00"
-      },
-      {
         "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
         "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
         "description": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of...",
@@ -451,13 +458,6 @@
         "description": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
         "source": "NPR",
         "published": "2026-08-13T12:40:26-04:00"
-      },
-      {
-        "title": "The key signs you may have damaged your eyes by looking at the eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-        "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
-        "source": "BBC News",
-        "published": "2026-08-13T11:57:28+00:00"
       },
       {
         "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
@@ -571,7 +571,21 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-agustos-2026-1737243",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-14T00:30:00+03:00"
+        "published": "2026-08-14T01:30:00+03:00"
+      },
+      {
+        "title": "Nedeni renginde saklı: Tarlaları kırmızı ağlarla kaplamaya başladılar",
+        "link": "https://www.sozcu.com.tr/nedeni-renginde-sakli-tarlalari-kirmizi-aglarla-kaplamaya-basladilar-p347179",
+        "description": "Nedeni renginde saklı: Tarlaları kırmızı ağlarla kaplamaya başladılar",
+        "source": "Sözcü",
+        "published": "2026-08-14T01:01:41+03:00"
+      },
+      {
+        "title": "Rojin'in babasına silahlı tehdit mesajı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-rojinin-babasina-silahli-tehdit-mesaji-1737237",
+        "description": "Rojin Kabaiş'in ailesini tehdit eden 2 kişinin tutuklandığı operasyonun ardından baba Nizamettin Kabaiş'e silah fotoğraflı tehdit mesajı gönderildi.",
+        "source": "NTV",
+        "published": "2026-08-14T00:45:19+03:00"
       },
       {
         "title": "Nehir suları çekilince tesadüfen bulundu: Yüzyıllardır su altında kalmış",
@@ -656,20 +670,6 @@
         "description": "Oyuncu Eftal Gülbudak hayatını kaybetti",
         "source": "Sözcü",
         "published": "2026-08-13T22:20:18+03:00"
-      },
-      {
-        "title": "Trabzonspor'un Avrupa'daki rakibi belli oldu",
-        "link": "https://www.sozcu.com.tr/trabzonspor-un-avrupa-daki-rakibi-belli-oldu-p347147",
-        "description": "Trabzonspor'un Avrupa'daki rakibi belli oldu",
-        "source": "Sözcü",
-        "published": "2026-08-13T22:13:20+03:00"
-      },
-      {
-        "title": "Rojin'in babasına silahlı tehdit mesajı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-rojinin-babasina-silahli-tehdit-mesaji-1737237",
-        "description": "Rojin Kabaiş'in ailesini tehdit eden 2 kişinin tutuklandığı operasyonun ardından baba Nizamettin Kabaiş'e silah fotoğraflı tehdit mesajı gönderildi.",
-        "source": "NTV",
-        "published": "2026-08-13T21:49:19+03:00"
       },
       {
         "title": "Çerçeve yasa sonrası Erdoğan ile İmralı heyeti arasında ilk görüşme: 'Bundan sonraki adımlar değerlendirildi'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.867
   },
   "weather": {
-    "condition": "Bulutlu",
-    "temp": "+83°F",
-    "wind": "↓5mph",
-    "humidity": "79%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+94°F",
+    "wind": "→6mph",
+    "humidity": "41%"
   }
 }
