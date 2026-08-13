@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-13T20:41:29.297737+00:00",
+  "updated_at": "2026-08-13T21:43:51.001756+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "source": "TechCrunch",
+        "published": "2026-08-13T21:13:24+00:00"
+      },
       {
         "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
         "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
@@ -10,16 +17,23 @@
         "published": "2026-08-13T20:14:39+00:00"
       },
       {
-        "title": "How Gödel's Proof Works",
+        "title": "NP-Overrated",
+        "link": "https://gruhn.me/blog/2026-08-13/",
+        "description": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 54 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-08-13T20:14:17+00:00"
+      },
+      {
+        "title": "How Gödel's Proof Works (2020)",
         "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-        "description": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 14 # Comments: 4",
+        "description": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 36 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-08-13T19:44:46+00:00"
       },
       {
         "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
         "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-        "description": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 17 # Comments: 4",
+        "description": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 31 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-13T19:25:38+00:00"
       },
@@ -40,30 +54,16 @@
       {
         "title": "Understanding is the new bottleneck",
         "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-        "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 40 # Comments: 23",
+        "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 74 # Comments: 46",
         "source": "HackerNews",
         "published": "2026-08-13T18:47:19+00:00"
       },
       {
         "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
         "link": "https://github.com/systemd/systemd/issues/40262",
-        "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 57 # Comments: 12",
+        "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 87 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-08-13T18:41:01+00:00"
-      },
-      {
-        "title": "HN: Xenon, open source dashboard for a second screen, tablet or phone",
-        "link": "https://xenon-app.com/",
-        "description": "Article URL: https://xenon-app.com/ Comments URL: https://news.ycombinator.com/item?id=49290180 Points: 7 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-13T18:38:29+00:00"
-      },
-      {
-        "title": "AI Is Threatening Natural Resources for Billions",
-        "link": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-        "description": "Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 33 # Comments: 14",
-        "source": "HackerNews",
-        "published": "2026-08-13T18:28:20+00:00"
       },
       {
         "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -75,7 +75,7 @@
       {
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 229 # Comments: 80",
+        "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 286 # Comments: 114",
         "source": "HackerNews",
         "published": "2026-08-13T18:10:02+00:00"
       },
@@ -89,23 +89,30 @@
       {
         "title": "How Compaction Works in Pi",
         "link": "https://earendil.com/posts/compaction-in-pi/",
-        "description": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 13 # Comments: 0",
+        "description": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 45 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-08-13T17:57:50+00:00"
       },
       {
-        "title": "Solid 2.0 RC: The Big",
-        "link": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
-        "description": "Article URL: https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal Comments URL: https://news.ycombinator.com/item?id=49289585 Points: 36 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-08-13T17:53:19+00:00"
-      },
-      {
         "title": "Where did the old web go? We followed 657,607 links to find out",
         "link": "https://0.mk/blog/link-rot",
-        "description": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 76 # Comments: 35",
+        "description": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 93 # Comments: 60",
         "source": "HackerNews",
         "published": "2026-08-13T17:49:18+00:00"
+      },
+      {
+        "title": "Choose Boring Technology (2015)",
+        "link": "https://mcfunley.com/choose-boring-technology",
+        "description": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 169 # Comments: 87",
+        "source": "HackerNews",
+        "published": "2026-08-13T17:48:13+00:00"
+      },
+      {
+        "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+        "link": "https://donkeybas.com/",
+        "description": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 137 # Comments: 56",
+        "source": "HackerNews",
+        "published": "2026-08-13T17:45:50+00:00"
       },
       {
         "title": "Beşiktaş-Hradec Kralove Maçı Hangi Kanaldan Yayınlanacak?",
@@ -113,6 +120,13 @@
         "description": "Beşiktaş-Hradec Kralove maçı hangi kanalda yayınlanacak? UEFA Avrupa Ligi 3. eleme turunda oynanacak Beşiktaş-Hradec Kralove maçına ilişkin yayın bilgilerine haberimizden ulaşabilirsiniz.",
         "source": "Webtekno",
         "published": "2026-08-13T17:43:45+03:00"
+      },
+      {
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "description": "Microsoft Copilot will no longer show its emotive yellow blob Mico when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as...",
+        "source": "The Verge",
+        "published": "2026-08-13T17:42:38-04:00"
       },
       {
         "title": "4000 Yıl Önce Yaşamış Antik Zenginlerin Taktığı Yüzüklerde \"Dünya Dışı Metallere\" Rastlandı",
@@ -129,9 +143,16 @@
         "published": "2026-08-13T17:16:37+03:00"
       },
       {
+        "title": "Netflix is closing two game studios",
+        "link": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+        "description": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree...",
+        "source": "The Verge",
+        "published": "2026-08-13T17:11:44-04:00"
+      },
+      {
         "title": "OpenAI hires new CRO as executive shake-up continues",
         "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-        "description": "Dali Rajic will take over as OpenAI's top salesperson.",
+        "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
         "source": "TechCrunch",
         "published": "2026-08-13T17:07:13+00:00"
       },
@@ -269,13 +290,6 @@
         "published": "2026-08-13T15:13:27-04:00"
       },
       {
-        "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-        "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-        "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-        "source": "TechCrunch",
-        "published": "2026-08-13T15:08:00+00:00"
-      },
-      {
         "title": "You can now just point at a mess and this robot vacuum will suck it up",
         "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
         "description": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at...",
@@ -295,13 +309,6 @@
         "description": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’...",
         "source": "The Verge",
         "published": "2026-08-13T14:30:24-04:00"
-      },
-      {
-        "title": "Suno is trying to look more like a real music production tool",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-        "description": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says...",
-        "source": "The Verge",
-        "published": "2026-08-13T14:17:51-04:00"
       },
       {
         "title": "iPhone 18 Modeli Beklenenden Daha Yüksek RAM ile Gelecek",
@@ -344,20 +351,27 @@
         "description": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature,...",
         "source": "The Verge",
         "published": "2026-08-13T12:10:06-04:00"
-      },
-      {
-        "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
-        "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
-        "description": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for...",
-        "source": "The Verge",
-        "published": "2026-08-13T09:56:50-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Watch: Houses engulfed in flames across Stourbridge",
+        "title": "Two seriously hurt as passenger train derails in East Sussex",
+        "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+        "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
+        "source": "BBC News",
+        "published": "2026-08-13T21:36:39+00:00"
+      },
+      {
+        "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+        "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
+        "source": "BBC News",
+        "published": "2026-08-13T20:37:14+00:00"
+      },
+      {
+        "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
         "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
-        "description": "Multiple fires burned across the West Midlands and destroyed homes there.",
+        "description": "Multiple fires burned across the West Midlands and destroyed homes.",
         "source": "BBC News",
         "published": "2026-08-13T20:26:25+00:00"
       },
@@ -388,13 +402,6 @@
         "description": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
         "source": "BBC News",
         "published": "2026-08-13T18:28:17+00:00"
-      },
-      {
-        "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
-        "description": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
-        "source": "BBC News",
-        "published": "2026-08-13T17:07:42+00:00"
       },
       {
         "title": "Five key takeaways from results day 2026",
@@ -495,9 +502,9 @@
         "published": "2026-08-13T05:58:40-04:00"
       },
       {
-        "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-        "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism.",
+        "title": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+        "description": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.",
         "source": "NPR",
         "published": "2026-08-13T05:00:00-04:00"
       },
@@ -556,16 +563,44 @@
         "description": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota...",
         "source": "The Guardian",
         "published": "2026-08-11T05:32:08+00:00"
-      },
-      {
-        "title": "How to get a good night's sleep during hot weather",
-        "link": "https://www.bbc.co.uk/news/articles/cpw7gp2ky70o?at_medium=RSS&at_campaign=rss",
-        "description": "Simple tips to help you get a good night's sleep when temperatures rise.",
-        "source": "BBC News",
-        "published": "2026-06-25T14:48:15+00:00"
       }
     ],
     "turkiye": [
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-agustos-2026-1737243",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-14T00:30:00+03:00"
+      },
+      {
+        "title": "Nehir suları çekilince tesadüfen bulundu: Yüzyıllardır su altında kalmış",
+        "link": "https://www.sozcu.com.tr/nehir-sulari-cekilince-tesadufen-bulundu-yuzyillardir-su-altinda-kalmis-p347172",
+        "description": "Nehir suları çekilince tesadüfen bulundu: Yüzyıllardır su altında kalmış",
+        "source": "Sözcü",
+        "published": "2026-08-14T00:24:00+03:00"
+      },
+      {
+        "title": "Antalya'da orman yangını. Yangın tüplerini eşekle taşıdılar",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-antalyada-orman-yangini-yangin-tuplerini-esekle-tasidilar-1737244",
+        "description": "Antalya'nın Kemer ilçesine bağlı Ulupınar Mahallesi'nde çıkan orman yangınına müdahale sürüyor.",
+        "source": "NTV",
+        "published": "2026-08-14T00:17:20+03:00"
+      },
+      {
+        "title": "ABD'den Orta Doğu'da yeni hamle: Yeni görev gücünün adı belli oldu",
+        "link": "https://www.sozcu.com.tr/abd-den-orta-dogu-da-yeni-hamle-yeni-gorev-gucunun-adi-belli-oldu-p347166",
+        "description": "ABD'den Orta Doğu'da yeni hamle: Yeni görev gücünün adı belli oldu",
+        "source": "Sözcü",
+        "published": "2026-08-13T23:50:50+03:00"
+      },
+      {
+        "title": "MHP'den \"Terörsüz Türkiye\" türküsü",
+        "link": "https://www.ntv.com.tr/turkiye/video-mhpden-terorsuz-turkiye-turkusu-1737242",
+        "description": "MHP süreç yasasının kabulünden sonra Terörsüz Türkiye türküsü hazırladı. \"Kardeşlikten yüce, büyük servet yok\" mesajı veren türkü sosyal medya hesaplarından paylaşıldı.",
+        "source": "NTV",
+        "published": "2026-08-13T23:46:32+03:00"
+      },
       {
         "title": "60 yıl önce terk edilen demiryolu 52 kilometrelik yeşil koridora dönüştü",
         "link": "https://www.sozcu.com.tr/60-yil-once-terk-edilen-demiryolu-52-kilometrelik-yesil-koridora-donustu-p347162",
@@ -630,25 +665,25 @@
         "published": "2026-08-13T22:13:20+03:00"
       },
       {
-        "title": "Avrupa ülkesinde sıcaklık rekoru: Olağanüstü bir yazın son örneği",
-        "link": "https://www.sozcu.com.tr/avrupa-ulkesinde-sicaklik-rekoru-olaganustu-bir-yazin-son-ornegi-p347144",
-        "description": "Avrupa ülkesinde sıcaklık rekoru: Olağanüstü bir yazın son örneği",
-        "source": "Sözcü",
-        "published": "2026-08-13T22:00:27+03:00"
-      },
-      {
-        "title": "Lukaku Fenerbahçe ile siftah yaptı",
-        "link": "https://www.sozcu.com.tr/lukaku-fenerbahce-ile-siftah-yapti-p347143",
-        "description": "Lukaku Fenerbahçe ile siftah yaptı",
-        "source": "Sözcü",
-        "published": "2026-08-13T21:55:36+03:00"
-      },
-      {
         "title": "Rojin'in babasına silahlı tehdit mesajı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-rojinin-babasina-silahli-tehdit-mesaji-1737237",
         "description": "Rojin Kabaiş'in ailesini tehdit eden 2 kişinin tutuklandığı operasyonun ardından baba Nizamettin Kabaiş'e silah fotoğraflı tehdit mesajı gönderildi.",
         "source": "NTV",
         "published": "2026-08-13T21:49:19+03:00"
+      },
+      {
+        "title": "Çerçeve yasa sonrası Erdoğan ile İmralı heyeti arasında ilk görüşme: 'Bundan sonraki adımlar değerlendirildi'",
+        "link": "https://www.bbc.com/turkce/articles/c75g9yg34llo?at_medium=RSS&at_campaign=rss",
+        "description": "DEM Parti İmralı heyeti üyeleri Pervin Buldan ve Mithat Sancar, bugün Cumhurbaşkanı Recep Tayyip Erdoğan ile Beştepe'de biraraya geldi. Görüşmenin ardından bir açıklama yapan DEM Parti, \"bundan sonra yapılacakların\" görüşüldüğünü duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-08-13T21:43:12+00:00"
+      },
+      {
+        "title": "Beşiktaş Avrupa Ligi'nde play-off'a yükseldi: Rakip Kauno Zalgiris",
+        "link": "https://www.bbc.com/turkce/articles/cly899d2l8vo?at_medium=RSS&at_campaign=rss",
+        "description": "Beşiktaş, UEFA Avrupa Ligi üçüncü ön eleme turunda Çek Cumhuriyeti ekibi Hradec Kralove'yi eleyerek play-off'ya yükseldi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-13T21:27:44+00:00"
       },
       {
         "title": "CHP'li milletvekilini tacizle suçlayıp dövdüler. Soruşturma başlatıldı",
@@ -686,39 +721,11 @@
         "published": "2026-08-13T17:29:14+03:00"
       },
       {
-        "title": "HBO Max, Amazon Prime, Disney+ ve Netflix'e ceza",
-        "link": "https://www.ntv.com.tr/turkiye/hbo-max-amazon-prime-disney-ve-netflixe-ceza-1737219",
-        "description": "Radyo ve Televizyon Üst Kurulu, dört dijital platforma üst sınırdan ceza verdi.",
-        "source": "NTV",
-        "published": "2026-08-13T16:11:36+03:00"
-      },
-      {
-        "title": "Korkunç kaza anı: Motosiklet sürücüsü metrelerce havaya fırladı",
-        "link": "https://www.ntv.com.tr/turkiye/video-korkunc-kaza-ani-motosiklet-surucusu-metrelerce-havaya-firladi-1737215",
-        "description": "Adıyaman'da, motosiklet ile otomobilin çarpıştığı kazada motosiklet sürücüsü metrelerce havaya fırladı.",
-        "source": "NTV",
-        "published": "2026-08-13T15:52:21+03:00"
-      },
-      {
         "title": "Balıkesir Edremit'te yerleşim yerlerini tehdit eden yangın kontrol altına alındı",
         "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
         "description": "Orman Genel Müdürlüğü, Balıkesir'in Edremit ilçesinde yerleşim yerlerini tehdit eden yangının kontrol altına alındığını duyurdu.",
         "source": "BBC Turkish",
         "published": "2026-08-13T15:40:30+00:00"
-      },
-      {
-        "title": "Çerçeve yasa sonrası Erdoğan ile İmralı heyeti arasında ilk görüşme",
-        "link": "https://www.bbc.com/turkce/articles/c75g9yg34llo?at_medium=RSS&at_campaign=rss",
-        "description": "DEM Parti İmralı heyeti üyeleri Pervin Buldan ve Mithat Sancar, bugün Cumhurbaşkanı Recep Tayyip Erdoğan ile Beştepe'de biraraya geldi.",
-        "source": "BBC Turkish",
-        "published": "2026-08-13T15:38:42+00:00"
-      },
-      {
-        "title": "Dehşet anları: Eski sevgili binayı kundaklayıp camları kırdı",
-        "link": "https://www.ntv.com.tr/turkiye/video-dehset-anlari-eski-sevgili-binayi-kundaklayip-camlari-kirdi-1737211",
-        "description": "Esenyurt’ta eski sevgili mahallelinin korkulu rüyası oldu. Gece saatlerinde scooter ile gelen adam camları kırarak binanın kapısını ateşe verirken, aile korkudan evi terk etti.",
-        "source": "NTV",
-        "published": "2026-08-13T15:26:02+03:00"
       },
       {
         "title": "Motorinde ÖTV sıfırlandı, pompaya ne kadar yansıyacak?",
@@ -768,13 +775,6 @@
         "description": "Ankara Cumhuriyet Başsavcılığı, örgüt kurma ve örgüte üye olma gibi suçlamalarla aralarında Alihan Kuriş'in de bulunduğu 30 şüphelinin gözaltına alındığını duyurdu.",
         "source": "BBC Turkish",
         "published": "2026-08-13T06:22:17+00:00"
-      },
-      {
-        "title": "Bülent Arınç'ın gözünden AKP'nin 25 yılı: 'Sistemi düzeltin, ehliyete, liyakate, istişareye önem verin'",
-        "link": "https://www.bbc.com/turkce/articles/cre42v0vppzo?at_medium=RSS&at_campaign=rss",
-        "description": "Adalet ve Kalkınma Partisi'nin kurucularından, eski Başbakan Yardımcısı Bülent Arınç BBC Türkçe'nin sorularını yanıtladı. Arınç, kurucusu olduğu partiyi savunurken \"kuruluş ilkelerine dönme\" çağrısı yaptı.",
-        "source": "BBC Turkish",
-        "published": "2026-08-13T03:03:24+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.867
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+91°F",
-    "wind": "↘3mph",
-    "humidity": "42%"
+    "condition": "Bulutlu",
+    "temp": "+83°F",
+    "wind": "↓5mph",
+    "humidity": "79%"
   }
 }
