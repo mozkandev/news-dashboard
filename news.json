@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:58:05.761093+00:00",
+  "updated_at": "2026-08-13T17:03:24.844605+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -31,11 +31,25 @@
         "published": "2026-08-13T17:00:54+03:00"
       },
       {
+        "title": "Ryzen Kullanıcıları Dikkat: Kritik Açık için Güncelleme Yayınlandı",
+        "link": "https://shiftdelete.net/ryzen-kullanicilari-dikkat-kritik-acik-icin-guncelleme-yayinlandi",
+        "description": "AMD Ryzen işlemcilerde keşfedilen iki kritik TPM güvenlik açığı için anakart üreticileri BIOS güncellemelerini yayınladı. Detaylar haberimizde.",
+        "source": "ShiftDelete",
+        "published": "2026-08-13T17:00:00+00:00"
+      },
+      {
         "title": "İstediği Zaman 'Hulk Gibi Dönüşen' Mikrop Türü Keşfedildi",
         "link": "\n                    https://www.webtekno.com/istedigi-zaman-hulk-gibi-donusen-mikrop-turu-kesfedildi-h222430.html\n                    ",
         "description": "Curaçao'da keşfedilen tek hücreli mikrop E. gigatrox, devasa bir yamyama dönüşüp eski boyutuna dönebilme yeteneğiyle bilim insanlarını şaşırtmayı başardı.",
         "source": "Webtekno",
         "published": "2026-08-13T16:44:40+03:00"
+      },
+      {
+        "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+        "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+        "description": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+        "source": "TechCrunch",
+        "published": "2026-08-13T16:37:53+00:00"
       },
       {
         "title": "Almanya Yepyeni Bir Krizin Eşiğinde: Kuruyan Nehirler Ekonomik Tehdit Oluşturmaya Başladı!",
@@ -57,6 +71,20 @@
         "description": "Xiaomi, merakla beklenen HyperOS 4 beta programını resmen duyurarak test sürecine girecek cihaz listesini ve dağıtım takvimini paylaştı.",
         "source": "Webtekno",
         "published": "2026-08-13T16:00:17+03:00"
+      },
+      {
+        "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+        "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+        "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+        "source": "TechCrunch",
+        "published": "2026-08-13T16:00:00+00:00"
+      },
+      {
+        "title": "Anthropic’in Yeni Claude Filigranları Kullanıcıları İkiye Böldü",
+        "link": "https://shiftdelete.net/anthropicin-yeni-claude-filigranlari-kullanicilari-ikiye-boldu",
+        "description": "Anthropic, AB yasaları gereği Claude çıktılarına filigran eklemeye başladı. Kullanıcılar arasında şeffaflık ve etik üzerine tartışmalar sürüyor.",
+        "source": "ShiftDelete",
+        "published": "2026-08-13T16:00:00+00:00"
       },
       {
         "title": "Instagram introduces a redesigned wordmark",
@@ -117,7 +145,7 @@
       {
         "title": "Text AI watermarks will always be trivial to remove",
         "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-        "description": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 11 # Comments: 6",
+        "description": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 42 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-08-13T15:07:10+00:00"
       },
@@ -129,18 +157,11 @@
         "published": "2026-08-13T15:00:00+00:00"
       },
       {
-        "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
+        "title": "I requested a copy of my data from McDonald’s loyalty program",
         "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-        "description": "Article URL: https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/ Comments URL: https://news.ycombinator.com/item?id=49286662 Points: 42 # Comments: 21",
+        "description": "Article URL: https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/ Comments URL: https://news.ycombinator.com/item?id=49286662 Points: 93 # Comments: 96",
         "source": "HackerNews",
         "published": "2026-08-13T14:37:51+00:00"
-      },
-      {
-        "title": "Flock Safety changes system defaults in response to criticisms",
-        "link": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
-        "description": "Article URL: https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency Comments URL: https://news.ycombinator.com/item?id=49286654 Points: 8 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-13T14:37:29+00:00"
       },
       {
         "title": "Apple in talks to pay publishers to provide Siri with current news: report",
@@ -157,37 +178,37 @@
         "published": "2026-08-13T14:30:27+00:00"
       },
       {
-        "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+        "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
         "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-        "description": "Article URL: https://oxide.computer/blog/kubernetes-on-oxide Comments URL: https://news.ycombinator.com/item?id=49286485 Points: 31 # Comments: 2",
+        "description": "Article URL: https://oxide.computer/blog/kubernetes-on-oxide Comments URL: https://news.ycombinator.com/item?id=49286485 Points: 69 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-08-13T14:26:41+00:00"
       },
       {
-        "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+        "title": "Graduate student proves a quantum uncertainty principle for fractals",
         "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-        "description": "Article URL: https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/ Comments URL: https://news.ycombinator.com/item?id=49286424 Points: 9 # Comments: 0",
+        "description": "Article URL: https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/ Comments URL: https://news.ycombinator.com/item?id=49286424 Points: 24 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-08-13T14:22:54+00:00"
       },
       {
         "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
         "link": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-        "description": "Article URL: https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood Comments URL: https://news.ycombinator.com/item?id=49286357 Points: 18 # Comments: 5",
+        "description": "Article URL: https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood Comments URL: https://news.ycombinator.com/item?id=49286357 Points: 39 # Comments: 21",
         "source": "HackerNews",
         "published": "2026-08-13T14:18:34+00:00"
       },
       {
         "title": "Spaghettifying DRAM",
         "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "description": "Article URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts Comments URL: https://news.ycombinator.com/item?id=49286341 Points: 124 # Comments: 29",
+        "description": "Article URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts Comments URL: https://news.ycombinator.com/item?id=49286341 Points: 216 # Comments: 58",
         "source": "HackerNews",
         "published": "2026-08-13T14:17:13+00:00"
       },
       {
-        "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+        "title": "Heart aerospace completes first flight of largest electric aircraft",
         "link": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-        "description": "Article URL: https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft Comments URL: https://news.ycombinator.com/item?id=49286270 Points: 59 # Comments: 40",
+        "description": "Article URL: https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft Comments URL: https://news.ycombinator.com/item?id=49286270 Points: 96 # Comments: 81",
         "source": "HackerNews",
         "published": "2026-08-13T14:11:51+00:00"
       },
@@ -199,13 +220,6 @@
         "published": "2026-08-13T14:09:05+00:00"
       },
       {
-        "title": "Build a Stratum 1 PTP Grandmaster on a Budget",
-        "link": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
-        "description": "Article URL: https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/ Comments URL: https://news.ycombinator.com/item?id=49286211 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-13T14:08:44+00:00"
-      },
-      {
         "title": "iPhone 18 Modeli Beklenenden Daha Yüksek RAM ile Gelecek",
         "link": "https://shiftdelete.net/iphone-18-modeli-beklenenden-daha-yuksek-ram-ile-gelecek",
         "description": "Apple'ın iPhone 18 modeli, 12GB RAM yükseltmesi ve A20 çip desteğiyle 2027 başında geliyor. Yeni nesil donanım özelliklerini ve beklentileri inceleyin.",
@@ -215,9 +229,23 @@
       {
         "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
         "link": "https://github.com/fellowgeek/mcp-memory",
-        "description": "Article URL: https://github.com/fellowgeek/mcp-memory Comments URL: https://news.ycombinator.com/item?id=49286073 Points: 27 # Comments: 11",
+        "description": "Article URL: https://github.com/fellowgeek/mcp-memory Comments URL: https://news.ycombinator.com/item?id=49286073 Points: 40 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-08-13T13:57:47+00:00"
+      },
+      {
+        "title": "Time to Move On: Querying Without Nulls and Bags",
+        "link": "https://arxiv.org/abs/2608.10863",
+        "description": "Article URL: https://arxiv.org/abs/2608.10863 Comments URL: https://news.ycombinator.com/item?id=49286030 Points: 37 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-08-13T13:54:56+00:00"
+      },
+      {
+        "title": "Gloomberb",
+        "link": "https://gloom.sh/",
+        "description": "Article URL: https://gloom.sh/ Comments URL: https://news.ycombinator.com/item?id=49285982 Points: 235 # Comments: 107",
+        "source": "HackerNews",
+        "published": "2026-08-13T13:52:32+00:00"
       },
       {
         "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
@@ -241,6 +269,13 @@
         "published": "2026-08-13T13:00:01+00:00"
       },
       {
+        "title": "2K launches new studio to build its ‘next blockbuster sports franchise’",
+        "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+        "description": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will...",
+        "source": "The Verge",
+        "published": "2026-08-13T12:38:15-04:00"
+      },
+      {
         "title": "Vivo X300 FE Artık Daha Uygun Fiyata Satılacak",
         "link": "https://shiftdelete.net/vivo-x300-fe-artik-daha-uygun-fiyata-satilacak",
         "description": "Vivo, 8 GB RAM ve 256 GB depolama sunan en uygun fiyatlı X300 FE modelini tanıttı. Cihazın teknik özellikleri ve Hindistan pazarı detayları haberimizde.",
@@ -248,11 +283,18 @@
         "published": "2026-08-13T12:30:12+00:00"
       },
       {
-        "title": "Honor Magic 9 Serisi Yeni Kamera Teknolojileriyle Geliyor",
-        "link": "https://shiftdelete.net/honor-magic-9-serisi-yeni-kamera-teknolojileriyle-geliyor",
-        "description": "Honor Magic 9 serisi eylül ayında tanıtılıyor. ARRI iş birliği, 200 MP çift kamera ve Snapdragon 8 Elite Gen 6 Pro işlemcisiyle gelen yeni detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-08-13T12:00:10+00:00"
+        "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+        "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+        "description": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with...",
+        "source": "The Verge",
+        "published": "2026-08-13T12:23:18-04:00"
+      },
+      {
+        "title": "Meta adds AI screening to detect WhatsApp scams",
+        "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+        "description": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature,...",
+        "source": "The Verge",
+        "published": "2026-08-13T12:10:06-04:00"
       },
       {
         "title": "I looked inside an AI generated movie, and the best parts were all human",
@@ -262,32 +304,18 @@
         "published": "2026-08-13T11:41:56-04:00"
       },
       {
+        "title": "Suno is trying to look more like a real music production tool",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+        "description": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says...",
+        "source": "The Verge",
+        "published": "2026-08-13T11:41:26-04:00"
+      },
+      {
         "title": "This is Instagram’s new logo",
         "link": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
         "description": "Instagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that...",
         "source": "The Verge",
         "published": "2026-08-13T11:38:20-04:00"
-      },
-      {
-        "title": "eFootball için Dev Güncelleme – FC 27 Rakibi mi Olacak?",
-        "link": "https://shiftdelete.net/efootball-icin-dev-guncelleme-fc-27-rakibi-mi-olacak",
-        "description": "KONAMI, popüler futbol oyunu eFootball için konsol, PC ve mobil platformları kapsayan büyük bir güncelleme duyurdu. Yeni sezonun kapılarını aralayan bu güncelleme; rekabetçi modlardan gelişmiş taktiksel seçeneklere, yenilenen mekaniklerden zengin...",
-        "source": "ShiftDelete",
-        "published": "2026-08-13T11:36:38+00:00"
-      },
-      {
-        "title": "Flock CEO: ‘We got this one wrong’",
-        "link": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
-        "description": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says...",
-        "source": "The Verge",
-        "published": "2026-08-13T11:24:55-04:00"
-      },
-      {
-        "title": "Wearables are getting a taste of much-needed minimalism",
-        "link": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
-        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During my summer vacation, I went...",
-        "source": "The Verge",
-        "published": "2026-08-13T10:13:34-04:00"
       },
       {
         "title": "Does Google even want to win at AI?",
@@ -297,6 +325,13 @@
         "published": "2026-08-13T10:10:46-04:00"
       },
       {
+        "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+        "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+        "description": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for...",
+        "source": "The Verge",
+        "published": "2026-08-13T09:56:50-04:00"
+      },
+      {
         "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
         "link": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
         "description": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats...",
@@ -304,46 +339,11 @@
         "published": "2026-08-13T09:49:06-04:00"
       },
       {
-        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-        "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-        "description": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new...",
-        "source": "The Verge",
-        "published": "2026-08-13T09:42:58-04:00"
-      },
-      {
-        "title": "Samsung’s $1,900 Z Fold 8 is still vulnerable to pocket lint",
-        "link": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
-        "description": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress rating - meaning it isn't...",
-        "source": "The Verge",
-        "published": "2026-08-13T06:21:25-04:00"
-      },
-      {
         "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
         "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
         "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
         "source": "TechCrunch",
         "published": "2026-08-12T22:26:37+00:00"
-      },
-      {
-        "title": "AI nuclear power firm Fermi finally has a new CEO",
-        "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-        "description": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-        "source": "TechCrunch",
-        "published": "2026-08-12T22:24:00+00:00"
-      },
-      {
-        "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-        "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-        "description": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
-        "source": "TechCrunch",
-        "published": "2026-08-12T20:53:41+00:00"
-      },
-      {
-        "title": "Nintendo’s next Fire Emblem has a bold new structure",
-        "link": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
-        "description": "Nintendo's first Fire Emblem game for the Switch 2 is structured in an ambitious way. Unlike the well-loved Three Houses, a strategy game that tasked you with pledging allegiance to a specific faction and seeing their story all the way to the end,...",
-        "source": "The Verge",
-        "published": "2026-08-11T19:09:09-04:00"
       },
       {
         "title": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
@@ -355,18 +355,39 @@
     ],
     "dunya": [
       {
+        "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+        "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+        "source": "BBC News",
+        "published": "2026-08-13T16:53:28+00:00"
+      },
+      {
+        "title": "Five key takeaways from results day 2026",
+        "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+        "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+        "source": "BBC News",
+        "published": "2026-08-13T16:49:28+00:00"
+      },
+      {
         "title": "Honeytrap thieves jailed for killing men they had drugged",
         "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
         "description": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious.",
         "source": "BBC News",
-        "published": "2026-08-13T15:54:15+00:00"
+        "published": "2026-08-13T16:47:42+00:00"
+      },
+      {
+        "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+        "description": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
+        "source": "BBC News",
+        "published": "2026-08-13T16:45:06+00:00"
       },
       {
         "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
         "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
         "source": "BBC News",
-        "published": "2026-08-13T15:40:31+00:00"
+        "published": "2026-08-13T16:20:41+00:00"
       },
       {
         "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
@@ -374,20 +395,6 @@
         "description": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of...",
         "source": "The Guardian",
         "published": "2026-08-13T15:17:13+00:00"
-      },
-      {
-        "title": "UK defends seizing shadow fleet tanker after Putin threat",
-        "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-        "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-        "source": "BBC News",
-        "published": "2026-08-13T15:05:12+00:00"
-      },
-      {
-        "title": "Five key takeaways from results day 2026",
-        "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
-        "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
-        "source": "BBC News",
-        "published": "2026-08-13T15:03:34+00:00"
       },
       {
         "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
@@ -418,6 +425,13 @@
         "published": "2026-08-13T13:38:30+00:00"
       },
       {
+        "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+        "description": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
+        "source": "NPR",
+        "published": "2026-08-13T12:40:26-04:00"
+      },
+      {
         "title": "Voting under way in Clacton by-election",
         "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
         "description": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
@@ -430,13 +444,6 @@
         "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
         "source": "BBC News",
         "published": "2026-08-13T11:57:28+00:00"
-      },
-      {
-        "title": "Busiest ever period for England's A&Es as extreme heat hits",
-        "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 2.4 million visits in each of last three months, as unions warn of inhumane conditions.",
-        "source": "BBC News",
-        "published": "2026-08-13T11:56:32+00:00"
       },
       {
         "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
@@ -502,13 +509,6 @@
         "published": "2026-08-13T04:44:44-04:00"
       },
       {
-        "title": "Author discusses the common myths and stereotypes about domestic violence",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5922413/author-discusses-the-common-myths-and-stereotypes-about-domestic-violence",
-        "description": "Allegations of domestic violence against Congressman Max Miller, which he denies, have raised persistent stereotypes about abuse. NPR's Michel Martin talks to author Leslie Morgan Steiner.",
-        "source": "NPR",
-        "published": "2026-08-13T04:43:17-04:00"
-      },
-      {
         "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
         "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
         "description": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections. Hakainde...",
@@ -567,18 +567,67 @@
     ],
     "turkiye": [
       {
-        "title": "160 bin evin bataryasını birleştirip dev santral kuracaklar",
-        "link": "https://www.sozcu.com.tr/160-bin-evin-bataryasini-birlestirip-dev-santral-kuracaklar-p347114",
-        "description": "160 bin evin bataryasını birleştirip dev santral kuracaklar",
+        "title": "Fenerbahçe Fred'te anlaşmaya vardı: 2 milyon euroya imza",
+        "link": "https://www.sozcu.com.tr/fenerbahce-fredte-anlasmaya-vardi-2-milyon-euroya-imza-p347122",
+        "description": "Fenerbahçe Fred'te anlaşmaya vardı: 2 milyon euroya imza",
         "source": "Sözcü",
-        "published": "2026-08-13T18:43:57+03:00"
+        "published": "2026-08-13T19:45:45+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: TBMM'de kabul edilen kanun tarihi bir adımdır",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-tbmmde-kabul-edilen-kanun-tarihi-bir-adimdir-1737231",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, TBMM'de kabul edilen Terörsüz Türkiye yasası için \"Tarihi bir adım\" dedi.",
+        "source": "NTV",
+        "published": "2026-08-13T19:43:19+03:00"
+      },
+      {
+        "title": "Mehmet Mustafa Gürban, İYİ Parti'den istifa etti",
+        "link": "https://www.sozcu.com.tr/mehmet-mustafa-gurban-istifa-etti-p347119",
+        "description": "Mehmet Mustafa Gürban, İYİ Parti'den istifa etti",
+        "source": "Sözcü",
+        "published": "2026-08-13T19:39:50+03:00"
+      },
+      {
+        "title": "Fırınların vazgeçilmezinde Salmonella çıktı: Ürünler raflardan toplatılıyor",
+        "link": "https://www.sozcu.com.tr/firinlarin-vazgecilmezinde-salmonella-cikti-urunler-raflardan-toplatiliyor-p347121",
+        "description": "Fırınların vazgeçilmezinde Salmonella çıktı: Ürünler raflardan toplatılıyor",
+        "source": "Sözcü",
+        "published": "2026-08-13T19:33:02+03:00"
+      },
+      {
+        "title": "Irak’ta geri sayım başladı: Tarih resmen açıklandı",
+        "link": "https://www.sozcu.com.tr/irak-ta-geri-sayim-basladi-tarih-resmen-aciklandi-p347120",
+        "description": "Irak’ta geri sayım başladı: Tarih resmen açıklandı",
+        "source": "Sözcü",
+        "published": "2026-08-13T19:24:29+03:00"
+      },
+      {
+        "title": "Kırmızı ışıkta kanlı pusu: Ölü ve yaralılar var",
+        "link": "https://www.sozcu.com.tr/kirmizi-isikta-kanli-pusu-olu-ve-yaralilar-var-p347116",
+        "description": "Kırmızı ışıkta kanlı pusu: Ölü ve yaralılar var",
+        "source": "Sözcü",
+        "published": "2026-08-13T19:20:45+03:00"
+      },
+      {
+        "title": "Bakteri dolu nehri tarıma kazandırmanın yolunu buldular",
+        "link": "https://www.sozcu.com.tr/bakteri-dolu-nehri-tarima-kazandirmanin-yolunu-buldular-p347117",
+        "description": "Bakteri dolu nehri tarıma kazandırmanın yolunu buldular",
+        "source": "Sözcü",
+        "published": "2026-08-13T19:12:40+03:00"
       },
       {
         "title": "İddia: Kabinede 3 isim her an gidebilir",
         "link": "https://www.sozcu.com.tr/kabine-degisikligi-iddiasi-p347109",
         "description": "İddia: Kabinede 3 isim her an gidebilir",
         "source": "Sözcü",
-        "published": "2026-08-13T18:30:11+03:00"
+        "published": "2026-08-13T19:03:51+03:00"
+      },
+      {
+        "title": "160 bin evin bataryasını birleştirip dev santral kuracaklar",
+        "link": "https://www.sozcu.com.tr/160-bin-evin-bataryasini-birlestirip-dev-santral-kuracaklar-p347114",
+        "description": "160 bin evin bataryasını birleştirip dev santral kuracaklar",
+        "source": "Sözcü",
+        "published": "2026-08-13T18:43:57+03:00"
       },
       {
         "title": "Vlahovic 3 yıllık imzayı attı! Alacağı maaş belli oldu",
@@ -602,20 +651,6 @@
         "published": "2026-08-13T18:16:43+03:00"
       },
       {
-        "title": "Beşiktaş'ta Vlahovic'in forma numarası belli oldu",
-        "link": "https://www.sozcu.com.tr/besiktasta-vlahovicin-forma-numarasi-belli-oldu-p347105",
-        "description": "Beşiktaş'ta Vlahovic'in forma numarası belli oldu",
-        "source": "Sözcü",
-        "published": "2026-08-13T18:09:43+03:00"
-      },
-      {
-        "title": "Selin Hürmeriç, Budapeşte'de dünya gençler 5'incisi oldu",
-        "link": "https://www.sozcu.com.tr/selin-hurmeric-budapestede-dunya-gencler-5incisi-oldu-p347106",
-        "description": "Selin Hürmeriç, Budapeşte'de dünya gençler 5'incisi oldu",
-        "source": "Sözcü",
-        "published": "2026-08-13T18:09:17+03:00"
-      },
-      {
         "title": "İstanbul'da E-5'te kaza. İki şerit kapandı, trafik duruyor",
         "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-e-5te-kaza-iki-serit-kapandi-trafik-duruyor-1737224",
         "description": "İstanbul Küçükçekmece'de hafif ticari araç bariyere çarparak kaza yaptı. Kaza sonrası karayolunda iki şerit trafiğe kapandı.",
@@ -630,39 +665,11 @@
         "published": "2026-08-13T17:59:30+03:00"
       },
       {
-        "title": "Çaykur Rizespor, Umut Erdem'i renklerine bağladı",
-        "link": "https://www.sozcu.com.tr/caykur-rizespor-umut-erdem-i-renklerine-bagladi-p347101",
-        "description": "Çaykur Rizespor, Umut Erdem'i renklerine bağladı",
-        "source": "Sözcü",
-        "published": "2026-08-13T17:57:28+03:00"
-      },
-      {
-        "title": "Tarlaları suyla doldurma kararı aldılar",
-        "link": "https://www.sozcu.com.tr/tarlalari-suyla-doldurma-karari-aldilar-p347100",
-        "description": "Tarlaları suyla doldurma kararı aldılar",
-        "source": "Sözcü",
-        "published": "2026-08-13T17:48:49+03:00"
-      },
-      {
-        "title": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
-        "link": "https://www.sozcu.com.tr/bursa-ve-istanbul-arasinda-deniz-ulasimi-aksadi-seferler-iptal-edildi-p347099",
-        "description": "Bursa ve İstanbul arasında deniz ulaşımı aksadı: Seferler iptal edildi",
-        "source": "Sözcü",
-        "published": "2026-08-13T17:45:19+03:00"
-      },
-      {
         "title": "Bakan Gürlek: Dini bir görüşe karşı operasyon yok, mali yapılanmaya yönelik bir operasyon",
         "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-dini-bir-goruse-karsi-operasyon-yok-mali-yapilanmaya-yonelik-bir-operasyon-1737203",
         "description": "Adalet Bakanı Akın Gürlek, Alihan Kuriş suç örgütüne yönelik yapılan operasyonla ilgili, \"Kesinlikle dini bir görüşe, dini bir cemaate karşı bir operasyon yok. Mali yapılanmaya yönelik bir operasyon.\" dedi.",
         "source": "NTV",
         "published": "2026-08-13T17:42:50+03:00"
-      },
-      {
-        "title": "Yıllardır boş duran evlere taşınana 4 milyon 600 bin TL verecekler",
-        "link": "https://www.sozcu.com.tr/yillardir-bos-duran-evlere-tasinana-4-milyon-600-bin-tl-verecekler-p347098",
-        "description": "Yıllardır boş duran evlere taşınana 4 milyon 600 bin TL verecekler",
-        "source": "Sözcü",
-        "published": "2026-08-13T17:39:29+03:00"
       },
       {
         "title": "İDO ve BUDO'dan sefer iptalleri",
@@ -712,13 +719,6 @@
         "description": "AK Parti'nin 25'inci yıl mitingi yarın Ankara'da gerçekleşecek. Büyük katılımla gerçekleşmesi beklenen mitinge 100 bin kişi davet edildi.",
         "source": "NTV",
         "published": "2026-08-13T14:49:32+03:00"
-      },
-      {
-        "title": "20 yıl sonra memleket ziyareti felaketle bitti",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-20-yil-sonra-memleket-ziyareti-felaketle-bitti-1737198",
-        "description": "Memleketlerine yaptırdıkları yeni evi görmek için Giresun'a giden anne ile iki kızı, akıntıya kapılarak yaşamını yitirdi.",
-        "source": "NTV",
-        "published": "2026-08-13T14:33:03+03:00"
       },
       {
         "title": "Motorinde ÖTV sıfırlandı, pompaya ne kadar yansıyacak?",
