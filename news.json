@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-08-14T18:53:02.141520+00:00",
+  "updated_at": "2026-08-14T19:47:24.102079+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+        "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+        "description": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+        "source": "TechCrunch",
+        "published": "2026-08-14T19:33:00+00:00"
+      },
+      {
+        "title": "Z.ai Security Disclosure",
+        "link": "https://cvd.z.ai",
+        "description": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 8 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-14T19:22:00+00:00"
+      },
+      {
+        "title": "How Claude's text watermarking works",
+        "link": "https://www.anthropic.com/news/claude-text-watermark",
+        "description": "Article URL: https://www.anthropic.com/news/claude-text-watermark Comments URL: https://news.ycombinator.com/item?id=49303350 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-14T19:15:51+00:00"
+      },
+      {
+        "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+        "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+        "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+        "source": "TechCrunch",
+        "published": "2026-08-14T19:04:32+00:00"
+      },
+      {
+        "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+        "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+        "description": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+        "source": "TechCrunch",
+        "published": "2026-08-14T18:58:15+00:00"
+      },
+      {
+        "title": "Show HN: Mole – Deep research agent for your terminal",
+        "link": "https://github.com/lajosdeme/mole",
+        "description": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident. And if you want to run some research task on local data - you have no idea where your data...",
+        "source": "HackerNews",
+        "published": "2026-08-14T18:52:48+00:00"
+      },
       {
         "title": "Turkcell'den 2026'nın İkinci Çeyreğinde Tarihi Rekor: Mobil Abone Sayısı İlk Kez 40 Milyonu Aştı!",
         "link": "\n                    https://www.webtekno.com/turkcell-mobil-abone-sayisi-40-milyonu-asti-h222502.html\n                    ",
@@ -61,21 +103,14 @@
       {
         "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
         "link": "https://arxiv.org/abs/2608.12700",
-        "description": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 8 # Comments: 0",
+        "description": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 14 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-14T16:57:14+00:00"
       },
       {
-        "title": "Discrete Fourier Transform by Hand",
-        "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
-        "description": "Article URL: https://www.byhand.ai/p/28-discrete-fourier-transform Comments URL: https://news.ycombinator.com/item?id=49301342 Points: 15 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:52:46+00:00"
-      },
-      {
         "title": "Count Binface receives over a quarter of votes in Clacton by-election",
         "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-        "description": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo Comments URL: https://news.ycombinator.com/item?id=49301260 Points: 193 # Comments: 104",
+        "description": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo Comments URL: https://news.ycombinator.com/item?id=49301260 Points: 321 # Comments: 224",
         "source": "HackerNews",
         "published": "2026-08-14T16:45:49+00:00"
       },
@@ -103,7 +138,7 @@
       {
         "title": "Maximizing the value of your Claude Code sessions",
         "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "description": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 48 # Comments: 23",
+        "description": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 79 # Comments: 46",
         "source": "HackerNews",
         "published": "2026-08-14T16:15:21+00:00"
       },
@@ -117,7 +152,7 @@
       {
         "title": "RustDesk now supports true unattended remote access on Wayland",
         "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-        "description": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 91 # Comments: 33",
+        "description": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 123 # Comments: 50",
         "source": "HackerNews",
         "published": "2026-08-14T16:12:52+00:00"
       },
@@ -131,16 +166,9 @@
       {
         "title": "France's top court blocks social media ban for under-15s",
         "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-        "description": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49300671 Points: 126 # Comments: 64",
+        "description": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49300671 Points: 147 # Comments: 89",
         "source": "HackerNews",
         "published": "2026-08-14T16:06:49+00:00"
-      },
-      {
-        "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-        "link": "https://rayforcedb.com/",
-        "description": "Article URL: https://rayforcedb.com/ Comments URL: https://news.ycombinator.com/item?id=49300615 Points: 24 # Comments: 14",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:02:20+00:00"
       },
       {
         "title": "Micron Genel Amaçlı DRAM HBM’ye Odaklanabilir",
@@ -152,7 +180,7 @@
       {
         "title": "AI by Hand",
         "link": "https://www.byhand.ai/",
-        "description": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 63 # Comments: 4",
+        "description": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 87 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-08-14T15:58:59+00:00"
       },
@@ -171,11 +199,18 @@
         "published": "2026-08-14T15:43:28+00:00"
       },
       {
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "description": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 87 # Comments: 63",
-        "source": "HackerNews",
-        "published": "2026-08-14T15:43:10+00:00"
+        "title": "A RAMageddon guide to back-to-school laptop shopping",
+        "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+        "description": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others...",
+        "source": "The Verge",
+        "published": "2026-08-14T15:37:04-04:00"
+      },
+      {
+        "title": "Samsung has new Galaxy headphones in the works",
+        "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+        "description": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they...",
+        "source": "The Verge",
+        "published": "2026-08-14T15:18:45-04:00"
       },
       {
         "title": "Xiaomi HyperOS 4 Sızıntısında Gizemli Katlanabilir Telefon Ortaya Çıktı",
@@ -197,13 +232,6 @@
         "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
         "source": "TechCrunch",
         "published": "2026-08-14T14:50:11+00:00"
-      },
-      {
-        "title": "A RAMageddon guide to back-to-school laptop shopping",
-        "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-        "description": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others...",
-        "source": "The Verge",
-        "published": "2026-08-14T14:32:47-04:00"
       },
       {
         "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
@@ -318,48 +346,48 @@
         "published": "2026-08-14T10:50:25-04:00"
       },
       {
-        "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-        "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-        "description": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-        "source": "TechCrunch",
-        "published": "2026-08-14T10:44:30+00:00"
-      },
-      {
         "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
         "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
         "description": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most...",
         "source": "The Verge",
         "published": "2026-08-14T10:31:05-04:00"
-      },
-      {
-        "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-        "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-        "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-        "source": "TechCrunch",
-        "published": "2026-08-13T22:12:40+00:00"
-      },
-      {
-        "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-        "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-        "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its...",
-        "source": "TechCrunch",
-        "published": "2026-08-13T22:02:04+00:00"
-      },
-      {
-        "title": "Hoto’s new cordless soldering iron heats up in three seconds",
-        "link": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
-        "description": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200...",
-        "source": "The Verge",
-        "published": "2026-08-13T15:07:28-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
+        "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+        "description": "He was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, officials said.",
+        "source": "BBC News",
+        "published": "2026-08-14T19:45:11+00:00"
+      },
       {
         "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
         "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
         "description": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
         "source": "BBC News",
-        "published": "2026-08-14T18:40:14+00:00"
+        "published": "2026-08-14T19:43:03+00:00"
+      },
+      {
+        "title": "Derailed Essex to London train leads to travel chaos",
+        "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
+        "description": "It has happened less than 24 hours after a train came off the tracks in East Sussex.",
+        "source": "BBC News",
+        "published": "2026-08-14T19:20:48+00:00"
+      },
+      {
+        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+        "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+        "source": "BBC News",
+        "published": "2026-08-14T19:20:43+00:00"
+      },
+      {
+        "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+        "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+        "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+        "source": "BBC News",
+        "published": "2026-08-14T19:17:16+00:00"
       },
       {
         "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
@@ -367,13 +395,6 @@
         "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
         "source": "BBC News",
         "published": "2026-08-14T18:25:38+00:00"
-      },
-      {
-        "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-        "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-        "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-        "source": "BBC News",
-        "published": "2026-08-14T17:42:00+00:00"
       },
       {
         "title": "Stephen Bear jailed over sex offender breaches",
@@ -397,16 +418,9 @@
         "published": "2026-08-14T16:21:39+00:00"
       },
       {
-        "title": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
-        "link": "https://www.bbc.co.uk/news/articles/cqjx1wdkn81o?at_medium=RSS&at_campaign=rss",
-        "description": "Emily Eavis says the festival has booked its headliners, but the Queen of Pop is \"definitely not\" among them.",
-        "source": "BBC News",
-        "published": "2026-08-14T16:01:11+00:00"
-      },
-      {
         "title": "Bezos-backed consortium buys a third of Liverpool FC",
         "link": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
-        "description": "Liverpool's owners agree to sell around a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
+        "description": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
         "source": "BBC News",
         "published": "2026-08-14T16:00:16+00:00"
       },
@@ -439,13 +453,6 @@
         "published": "2026-08-14T14:04:49+00:00"
       },
       {
-        "title": "Prisoners charged over attack on Sara Sharif's father",
-        "link": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
-        "description": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
-        "source": "BBC News",
-        "published": "2026-08-14T13:21:56+00:00"
-      },
-      {
         "title": "As speed cameras spread to more states, so does the backlash from drivers",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
         "description": "Millions of drivers across the country are encountering speed cameras for the first time, or will soon. Some don't like it, but advocates say there's clear evidence that cameras make roads safer.",
@@ -465,13 +472,6 @@
         "description": "Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial.",
         "source": "NPR",
         "published": "2026-08-14T12:05:24-04:00"
-      },
-      {
-        "title": "'Glam helps mentality' says sprinter Amy Hunt, but can it give you that winning edge?",
-        "link": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo?at_medium=RSS&at_campaign=rss",
-        "description": "Sprinter Amy Hunt has been showing off her nails at the European Athletics Championships in Birmingham.",
-        "source": "BBC News",
-        "published": "2026-08-14T11:49:09+00:00"
       },
       {
         "title": "We learned 5 important things about the economy this week",
@@ -567,11 +567,46 @@
     ],
     "turkiye": [
       {
-        "title": "Son dakika…3 vekil AKP'ye geçti: Rozetlerini Erdoğan taktı",
-        "link": "https://www.sozcu.com.tr/son-dakika-3-vekil-akp-ye-gecti-rozetlerini-erdogan-takti-p349464",
-        "description": "Son dakika…3 vekil AKP'ye geçti: Rozetlerini Erdoğan taktı",
+        "title": "AK Parti’nin 25. yılı. Ankara semalarında dron gösterisi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-ak-partinin-25-yili-ankara-semalarinda-dron-gosterisi-1737378",
+        "description": "AK Parti'nin kuruluşunun 25. yıl dönümü, Ankara'daki Başkent Millet Bahçesi'nde düzenlenen programla kutlandı. Programda dron gösterisi de yapıldı.",
+        "source": "NTV",
+        "published": "2026-08-14T22:39:16+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: Çeyrek asrı devirmenin gururunu yaşıyoruz",
+        "link": "https://www.ntv.com.tr/turkiye/ak-parti-25-yasini-kutluyor-cumhurbaskani-erdogan-ceyrek-asri-devirmenin-gururunu-yasiyoruz-1737363",
+        "description": "AK Parti'nin 25'inci kuruluş yıl dönümü etkinliğinde konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, \"Kimse bizden yorulma beklemesin, daha yeni başlıyoruz.\" dedi.",
+        "source": "NTV",
+        "published": "2026-08-14T22:38:12+03:00"
+      },
+      {
+        "title": "Süleymancılar'ın Ümraniye'deki merkezine polis baskını",
+        "link": "https://www.sozcu.com.tr/suleymancilar-merkezine-polis-baskini-p349463",
+        "description": "Süleymancılar'ın Ümraniye'deki merkezine polis baskını",
         "source": "Sözcü",
-        "published": "2026-08-14T21:52:51+03:00"
+        "published": "2026-08-14T22:33:32+03:00"
+      },
+      {
+        "title": "3 milletvekili ve 7 belediye başkanı AKP’ye geçti: Rozetlerini Erdoğan taktı",
+        "link": "https://www.sozcu.com.tr/son-dakika-3-vekil-akp-ye-gecti-rozetlerini-erdogan-takti-p349464",
+        "description": "3 milletvekili ve 7 belediye başkanı AKP’ye geçti: Rozetlerini Erdoğan taktı",
+        "source": "Sözcü",
+        "published": "2026-08-14T22:30:47+03:00"
+      },
+      {
+        "title": "AK Parti'nin 25. yıl kutlamalarında dron gösterisi yapıldı",
+        "link": "https://www.ntv.com.tr/turkiye/video-ak-partinin-25-yil-kutlamalarinda-dron-gosterisi-yapildi-1737379",
+        "description": "\"AK Parti 25. Kuruluş Yıl Dönümü Programı\", Başkent Millet Bahçesi'nde düzenlendi. Programda, müzik ve videolar eşliğinde dron gösterisi gerçekleştirildi.",
+        "source": "NTV",
+        "published": "2026-08-14T22:27:36+03:00"
+      },
+      {
+        "title": "Üç milletvekili daha AK Parti'ye katıldı. İşte Meclis'teki yeni sandalye dağılımı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-uc-milletvekili-daha-ak-partiye-katildi-iste-meclisteki-yeni-sandalye-dagilimi-1737375",
+        "description": "Mustafa Bilici, Mehmet Mustafa Gürban ve Ömer Karakaş, AK Parti'ye katıldı. Meclis'teki sandalye dağılımı bir kez daha değişti.",
+        "source": "NTV",
+        "published": "2026-08-14T22:07:04+03:00"
       },
       {
         "title": "AK Parti 25. yıl vizyon belgesini açıkladı",
@@ -581,32 +616,11 @@
         "published": "2026-08-14T21:50:37+03:00"
       },
       {
-        "title": "Süleymancılar'ın Ümraniye'deki merkezine polis baskını",
-        "link": "https://www.sozcu.com.tr/suleymancilar-merkezine-polis-baskini-p349463",
-        "description": "Süleymancılar'ın Ümraniye'deki merkezine polis baskını",
-        "source": "Sözcü",
-        "published": "2026-08-14T21:42:19+03:00"
-      },
-      {
-        "title": "Üç milletvekili daha AK Parti'ye katıldı. İşte Meclis'teki yeni sandalye dağılımı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-uc-milletvekili-daha-ak-partiye-katildi-iste-meclisteki-yeni-sandalye-dagilimi-1737375",
-        "description": "Mustafa Bilici, Mehmet Mustafa Gürban ve Ömer Karakaş, AK Parti'ye katıldı. Meclis'teki sandalye dağılımı bir kez daha değişti.",
-        "source": "NTV",
-        "published": "2026-08-14T21:41:54+03:00"
-      },
-      {
         "title": "'Öcalan'a özgürlük' diyen ultrAslan liderine Galatasaray tribünlerinden cevap",
         "link": "https://www.sozcu.com.tr/ocalan-a-ozgurluk-diyen-ultraslan-liderine-galatasaray-tribunlerinden-cevap-p349465",
         "description": "'Öcalan'a özgürlük' diyen ultrAslan liderine Galatasaray tribünlerinden cevap",
         "source": "Sözcü",
         "published": "2026-08-14T21:39:28+03:00"
-      },
-      {
-        "title": "AK Parti 25. yaşını kutluyor. Cumhurbaşkanı Erdoğan: Çeyrek asrı devirmenin gururunu yaşıyoruz",
-        "link": "https://www.ntv.com.tr/turkiye/ak-parti-25-yasini-kutluyor-cumhurbaskani-erdogan-ceyrek-asri-devirmenin-gururunu-yasiyoruz-1737363",
-        "description": "AK Parti'nin 25'inci kuruluş yıl dönümü etkinliğinde konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, çeyrek asrı devirmenin gururunu yaşadıklarını söylerken, \"Kimse bizden yorulma beklemesin, daha yeni başlıyoruz.\" dedi.",
-        "source": "NTV",
-        "published": "2026-08-14T21:36:34+03:00"
       },
       {
         "title": "Cenaze yemeği sonrası dehşet: Kalabalığın üzerine pompalı tüfekle ateş açtı",
@@ -686,13 +700,6 @@
         "published": "2026-08-14T17:36:57+03:00"
       },
       {
-        "title": "Dünyanın öbür ucuna kaçtı kurtulamadı. Serkan Kurtuluş Türkiye'ye iade edildi",
-        "link": "https://www.ntv.com.tr/turkiye/dunyanin-obur-ucuna-kacti-kurtulamadi-serkan-kurtulus-turkiyeye-iade-edildi-1737337",
-        "description": "Krmızı bültenle aranan suç örgütü lideri Serkan Kurtuluş, bugün Arjantin'den Türkiye'ye iade edildi.",
-        "source": "NTV",
-        "published": "2026-08-14T16:45:34+03:00"
-      },
-      {
         "title": "Gaziantep'te ilçeyi ayağa kaldıran cinsel istismar iddiası. Yüzlerce kişi karakolun önünde toplandı",
         "link": "https://www.ntv.com.tr/turkiye/gaziantepte-ilceyi-ayaga-kaldiran-cinsel-istismar-iddiasi-yuzlerce-kisi-karakolun-onunde-toplandi-1737354",
         "description": "Gaziantep'te işitme ve konuşma engelli genç kadına cinsel istismarda bulunduğu ileri sürülen dört şüpheli gözaltına alındı.",
@@ -712,13 +719,6 @@
         "description": "Emine Erdoğan, AK Parti'nin 25. yıl dönümüne ilişkin yaptığı paylaşımda \"Nice ilkin öncüsü olan AK Parti’nin, yarın da ülkemize yeni ufuklar açacağına yürekten inanıyorum.\" dedi.",
         "source": "NTV",
         "published": "2026-08-14T14:33:34+03:00"
-      },
-      {
-        "title": "Mansur Yavaş'tan parti değiştireceği iddiasına yanıt",
-        "link": "https://www.ntv.com.tr/turkiye/mansur-yavastan-parti-degistirecegi-iddiasina-yanit-1737340",
-        "description": "CHP'li Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, parti değiştireceği iddialarını yalanladı.",
-        "source": "NTV",
-        "published": "2026-08-14T14:25:51+03:00"
       },
       {
         "title": "Afgan kadınlar Taliban yönetimindeki beş yılı BBC'ye anlattı",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+84°F",
-    "wind": "↙3mph",
-    "humidity": "59%"
+    "temp": "+102°F",
+    "wind": "↑6mph",
+    "humidity": "31%"
   }
 }
