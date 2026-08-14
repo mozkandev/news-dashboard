@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:47:24.102079+00:00",
+  "updated_at": "2026-08-14T20:30:26.342461+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -10,21 +10,7 @@
         "published": "2026-08-14T19:33:00+00:00"
       },
       {
-        "title": "Z.ai Security Disclosure",
-        "link": "https://cvd.z.ai",
-        "description": "Article URL: https://cvd.z.ai Comments URL: https://news.ycombinator.com/item?id=49303433 Points: 8 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-14T19:22:00+00:00"
-      },
-      {
-        "title": "How Claude's text watermarking works",
-        "link": "https://www.anthropic.com/news/claude-text-watermark",
-        "description": "Article URL: https://www.anthropic.com/news/claude-text-watermark Comments URL: https://news.ycombinator.com/item?id=49303350 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-14T19:15:51+00:00"
-      },
-      {
-        "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+        "title": "What we know about the alleged Iranian hacks on US water utilities",
         "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
         "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
         "source": "TechCrunch",
@@ -36,13 +22,6 @@
         "description": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
         "source": "TechCrunch",
         "published": "2026-08-14T18:58:15+00:00"
-      },
-      {
-        "title": "Show HN: Mole – Deep research agent for your terminal",
-        "link": "https://github.com/lajosdeme/mole",
-        "description": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident. And if you want to run some research task on local data - you have no idea where your data...",
-        "source": "HackerNews",
-        "published": "2026-08-14T18:52:48+00:00"
       },
       {
         "title": "Turkcell'den 2026'nın İkinci Çeyreğinde Tarihi Rekor: Mobil Abone Sayısı İlk Kez 40 Milyonu Aştı!",
@@ -101,27 +80,6 @@
         "published": "2026-08-14T17:10:02+03:00"
       },
       {
-        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "link": "https://arxiv.org/abs/2608.12700",
-        "description": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 14 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:57:14+00:00"
-      },
-      {
-        "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-        "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-        "description": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo Comments URL: https://news.ycombinator.com/item?id=49301260 Points: 321 # Comments: 224",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:45:49+00:00"
-      },
-      {
-        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-        "link": "https://luacad.ad-si.com",
-        "description": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a desktop app, including a preview area and a text editor. I've always been a big fan of OpenSCAD,...",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:43:22+00:00"
-      },
-      {
         "title": "TUSAŞ’tan Kritik Uçuş: ANKA-3 ve Süper Şimşek Birlikte Havalandı",
         "link": "https://shiftdelete.net/tusastan-kritik-ucus-anka-3-ve-super-simsek-birlikte-havalandi",
         "description": "TUSAŞ tarafından geliştirilen insansız savaş uçağı ANKA-3, kanat altlarında taşıdığı iki adet Süper Şimşek taktik İHA ile başarılı bir uçuş gerçekleştirdi. TUSAŞ'ın resmi kanallarından paylaşılan görüntüler, Türk savunma sanayisinin geldiği noktayı...",
@@ -136,25 +94,11 @@
         "published": "2026-08-14T16:21:04+00:00"
       },
       {
-        "title": "Maximizing the value of your Claude Code sessions",
-        "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "description": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 79 # Comments: 46",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:15:21+00:00"
-      },
-      {
         "title": "Google will now allow users to remove visible watermark from its AI generations",
         "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
         "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
         "source": "TechCrunch",
         "published": "2026-08-14T16:13:40+00:00"
-      },
-      {
-        "title": "RustDesk now supports true unattended remote access on Wayland",
-        "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-        "description": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 123 # Comments: 50",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:12:52+00:00"
       },
       {
         "title": "Hyundai’nin Sanayi Düşmanı En Sağlam Motorları",
@@ -164,25 +108,11 @@
         "published": "2026-08-14T16:11:51+03:00"
       },
       {
-        "title": "France's top court blocks social media ban for under-15s",
-        "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-        "description": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49300671 Points: 147 # Comments: 89",
-        "source": "HackerNews",
-        "published": "2026-08-14T16:06:49+00:00"
-      },
-      {
         "title": "Micron Genel Amaçlı DRAM HBM’ye Odaklanabilir",
         "link": "https://shiftdelete.net/micron-genel-amacli-dram-hbmye-odaklanabilir",
         "description": "Micron için genel amaçlı DRAM, HBM'ye kıyasla neden daha kârlı? 2027 yılı tahminleri ve bellek pazarındaki son gelişmeleri haberimizde inceledik.",
         "source": "ShiftDelete",
         "published": "2026-08-14T16:00:40+00:00"
-      },
-      {
-        "title": "AI by Hand",
-        "link": "https://www.byhand.ai/",
-        "description": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 87 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-08-14T15:58:59+00:00"
       },
       {
         "title": "Süper Lig Maçlarını Bekleyenler Dikkat: beIN SPORTS'tan Frekans Güncelleme Uyarısı Geldi!",
@@ -355,11 +285,18 @@
     ],
     "dunya": [
       {
-        "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
+        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
         "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-        "description": "He was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, officials said.",
+        "description": "Emergency services said a man was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon.",
         "source": "BBC News",
-        "published": "2026-08-14T19:45:11+00:00"
+        "published": "2026-08-14T20:26:07+00:00"
+      },
+      {
+        "title": "Derailed Essex to London train leads to travel chaos",
+        "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene.",
+        "source": "BBC News",
+        "published": "2026-08-14T19:57:50+00:00"
       },
       {
         "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
@@ -367,13 +304,6 @@
         "description": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
         "source": "BBC News",
         "published": "2026-08-14T19:43:03+00:00"
-      },
-      {
-        "title": "Derailed Essex to London train leads to travel chaos",
-        "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-        "description": "It has happened less than 24 hours after a train came off the tracks in East Sussex.",
-        "source": "BBC News",
-        "published": "2026-08-14T19:20:48+00:00"
       },
       {
         "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
@@ -567,6 +497,62 @@
     ],
     "turkiye": [
       {
+        "title": "Trump gözünü 'Hürmüz'e dikti: Amerikan toprağı ilan edeceğim",
+        "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklamasi-14-agustos-2026-p349473",
+        "description": "Trump gözünü 'Hürmüz'e dikti: Amerikan toprağı ilan edeceğim",
+        "source": "Sözcü",
+        "published": "2026-08-14T23:23:34+03:00"
+      },
+      {
+        "title": "2 dakikada 2 gol Galatasaray'ı şoka soktu: Yönetime tepkiler çığ gibi",
+        "link": "https://www.sozcu.com.tr/2-dakikada-2-gol-galatasaray-i-soka-soktu-yonetime-tepkiler-cig-gibi-p349471",
+        "description": "2 dakikada 2 gol Galatasaray'ı şoka soktu: Yönetime tepkiler çığ gibi",
+        "source": "Sözcü",
+        "published": "2026-08-14T23:19:06+03:00"
+      },
+      {
+        "title": "'Taciz' iddiasıyla darbedilen CHP'li vekilden 'dokunulmazlık' çıkışı",
+        "link": "https://www.sozcu.com.tr/ahmet-baran-yazgan-yeci-aciklama-14-agustos-2026-p349472",
+        "description": "'Taciz' iddiasıyla darbedilen CHP'li vekilden 'dokunulmazlık' çıkışı",
+        "source": "Sözcü",
+        "published": "2026-08-14T23:08:47+03:00"
+      },
+      {
+        "title": "İYİ Partili Ömer Karakaş, AKP’ye katıldı; Öcalan paylaşımını kaldırdı",
+        "link": "https://www.sozcu.com.tr/omer-karakas-bebek-katili-paylasimini-kaldirdi-p349470",
+        "description": "İYİ Partili Ömer Karakaş, AKP’ye katıldı; Öcalan paylaşımını kaldırdı",
+        "source": "Sözcü",
+        "published": "2026-08-14T22:58:34+03:00"
+      },
+      {
+        "title": "3 milletvekili ve 7 belediye başkanı AKP’ye geçti: Rozetlerini Erdoğan taktı",
+        "link": "https://www.sozcu.com.tr/son-dakika-3-vekil-akp-ye-gecti-rozetlerini-erdogan-takti-p349464",
+        "description": "3 milletvekili ve 7 belediye başkanı AKP’ye geçti: Rozetlerini Erdoğan taktı",
+        "source": "Sözcü",
+        "published": "2026-08-14T22:51:02+03:00"
+      },
+      {
+        "title": "Edremit’teki orman yangına ilişkin 1 tutuklama",
+        "link": "https://www.ntv.com.tr/turkiye/edremitteki-orman-yangina-iliskin-1-tutuklama-1737380",
+        "description": "Balıkesir'in Edremit ilçesinde çıkan orman yangınına ilişkin soruşturmada, jandarma tarafından gözaltına alınan bir kişi tutuklandı.",
+        "source": "NTV",
+        "published": "2026-08-14T22:48:33+03:00"
+      },
+      {
+        "title": "İngiltere’de peş peşe tren kazaları",
+        "link": "https://www.sozcu.com.tr/ingiltere-de-pes-pese-tren-kazalari-p349467",
+        "description": "İngiltere’de peş peşe tren kazaları",
+        "source": "Sözcü",
+        "published": "2026-08-14T22:48:19+03:00"
+      },
+      {
+        "title": "'Öcalan'a özgürlük' diyen ultrAslan liderine Galatasaray tribünlerinden cevap",
+        "link": "https://www.sozcu.com.tr/ocalan-a-ozgurluk-diyen-ultraslan-liderine-galatasaray-tribunlerinden-cevap-p349465",
+        "description": "'Öcalan'a özgürlük' diyen ultrAslan liderine Galatasaray tribünlerinden cevap",
+        "source": "Sözcü",
+        "published": "2026-08-14T22:46:48+03:00"
+      },
+      {
         "title": "AK Parti’nin 25. yılı. Ankara semalarında dron gösterisi",
         "link": "https://www.ntv.com.tr/turkiye/galeri-ak-partinin-25-yili-ankara-semalarinda-dron-gosterisi-1737378",
         "description": "AK Parti'nin kuruluşunun 25. yıl dönümü, Ankara'daki Başkent Millet Bahçesi'nde düzenlenen programla kutlandı. Programda dron gösterisi de yapıldı.",
@@ -586,13 +572,6 @@
         "description": "Süleymancılar'ın Ümraniye'deki merkezine polis baskını",
         "source": "Sözcü",
         "published": "2026-08-14T22:33:32+03:00"
-      },
-      {
-        "title": "3 milletvekili ve 7 belediye başkanı AKP’ye geçti: Rozetlerini Erdoğan taktı",
-        "link": "https://www.sozcu.com.tr/son-dakika-3-vekil-akp-ye-gecti-rozetlerini-erdogan-takti-p349464",
-        "description": "3 milletvekili ve 7 belediye başkanı AKP’ye geçti: Rozetlerini Erdoğan taktı",
-        "source": "Sözcü",
-        "published": "2026-08-14T22:30:47+03:00"
       },
       {
         "title": "AK Parti'nin 25. yıl kutlamalarında dron gösterisi yapıldı",
@@ -616,13 +595,6 @@
         "published": "2026-08-14T21:50:37+03:00"
       },
       {
-        "title": "'Öcalan'a özgürlük' diyen ultrAslan liderine Galatasaray tribünlerinden cevap",
-        "link": "https://www.sozcu.com.tr/ocalan-a-ozgurluk-diyen-ultraslan-liderine-galatasaray-tribunlerinden-cevap-p349465",
-        "description": "'Öcalan'a özgürlük' diyen ultrAslan liderine Galatasaray tribünlerinden cevap",
-        "source": "Sözcü",
-        "published": "2026-08-14T21:39:28+03:00"
-      },
-      {
         "title": "Cenaze yemeği sonrası dehşet: Kalabalığın üzerine pompalı tüfekle ateş açtı",
         "link": "https://www.sozcu.com.tr/cenaze-yemegi-sonrasi-dehset-kalabaligin-uzerine-pompali-tufekle-ates-acti-p349461",
         "description": "Cenaze yemeği sonrası dehşet: Kalabalığın üzerine pompalı tüfekle ateş açtı",
@@ -637,25 +609,11 @@
         "published": "2026-08-14T20:53:35+03:00"
       },
       {
-        "title": "Galatasaray’a yıldız isminden şok haber! 2 ay sahalardan uzak kalacak",
-        "link": "https://www.sozcu.com.tr/galatasaray-a-yildiz-isminden-sok-haber-2-ay-sahalardan-uzak-kalacak-p349456",
-        "description": "Galatasaray’a yıldız isminden şok haber! 2 ay sahalardan uzak kalacak",
-        "source": "Sözcü",
-        "published": "2026-08-14T20:43:42+03:00"
-      },
-      {
-        "title": "Bakan Tekin son noktayı koydu: Milyonlarca öğrenci merakla bekliyordu",
-        "link": "https://www.sozcu.com.tr/bakan-tekin-son-noktayi-koydu-milyonlarca-ogrenci-merakla-bekliyordu-p349454",
-        "description": "Bakan Tekin son noktayı koydu: Milyonlarca öğrenci merakla bekliyordu",
-        "source": "Sözcü",
-        "published": "2026-08-14T20:42:49+03:00"
-      },
-      {
-        "title": "Rizespor Diakite'yi resmen duyurdu",
-        "link": "https://www.sozcu.com.tr/rizespor-diakite-yi-resmen-duyurdu-p349452",
-        "description": "Rizespor Diakite'yi resmen duyurdu",
-        "source": "Sözcü",
-        "published": "2026-08-14T20:25:26+03:00"
+        "title": "AKP'nin 25. kuruluş yıldönümünde Erdoğan: 'Bu partiyi millet kurdu'",
+        "link": "https://www.bbc.com/turkce/articles/crrv8q7elnlo?at_medium=RSS&at_campaign=rss",
+        "description": "Adalet ve Kalkınma Partisi'nin 25. kuruluş yıldönümü Cumhurbaşkanı ve partinin genel başkanı Recep Tayyip Erdoğan'ın katılımıyla Ankara Millet Bahçesi'ndeki miting ile kutlanıyor. Kalabalığın toplandığı etkinlik alanında Erdoğan konuşma yapıyor.",
+        "source": "BBC Turkish",
+        "published": "2026-08-14T20:27:52+00:00"
       },
       {
         "title": "Tacizle suçlanan CHP'li Yazgan: ''İçeceğime ilaç katıldı''",
@@ -665,32 +623,11 @@
         "published": "2026-08-14T20:14:46+03:00"
       },
       {
-        "title": "Yaşlı çiftin evinde dehşet: Yatalak eşini bıçaklayarak öldürdü",
-        "link": "https://www.sozcu.com.tr/yasli-ciftin-evinde-dehset-yatalak-esini-bicaklayarak-oldurdu-p349451",
-        "description": "Yaşlı çiftin evinde dehşet: Yatalak eşini bıçaklayarak öldürdü",
-        "source": "Sözcü",
-        "published": "2026-08-14T20:05:15+03:00"
-      },
-      {
-        "title": "Dusan Vlahovic imza töreninde taraftarı coşturdu",
-        "link": "https://www.sozcu.com.tr/dusan-vlahovic-imza-toreninde-taraftari-costurdu-p349450",
-        "description": "Dusan Vlahovic imza töreninde taraftarı coşturdu",
-        "source": "Sözcü",
-        "published": "2026-08-14T19:57:25+03:00"
-      },
-      {
         "title": "AKP'ye katılan milletvekilleri ve belediye başkanlarına rozetleri takıldı",
         "link": "https://www.bbc.com/turkce/articles/cvg7ew6nnxdo?at_medium=RSS&at_campaign=rss",
         "description": "Muhalif parti üyesi dört milletvekili ve üç belediye başkanı AKP'ye katıldı. Cumhurbaşkanı Erdoğan, yeni üyelere partinin 25. yıl dönümünde düzenlenen törende parti rozetlerini taktı.",
         "source": "BBC Turkish",
         "published": "2026-08-14T18:47:51+00:00"
-      },
-      {
-        "title": "AKP'nin 25. kuruluş yıldönümünde Erdoğan: 'Bu partiyi millet kurdu'",
-        "link": "https://www.bbc.com/turkce/articles/crrv8q7elnlo?at_medium=RSS&at_campaign=rss",
-        "description": "Adalet ve Kalkınma Partisi'nin 25. kuruluş yıldönümü Cumhurbaşkanı ve partinin genel başkanı Recep Tayyip Erdoğan'ın katılımıyla Ankara Millet Bahçesi'ndeki miting ile kutlanıyor. Kalabalığın toplandığı etkinlik alanında Erdoğan konuşma yapıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-08-14T18:34:53+00:00"
       },
       {
         "title": "Batı Afrika'da iklim krizi etkisi. \"Yaklaşık 32 milyon kişi yerinden olabilir\"",
@@ -712,13 +649,6 @@
         "description": "Milli Eğitim Bakanı Yusuf Tekin, sınav sisteminde değişiklik olmayacağını söyledi.",
         "source": "NTV",
         "published": "2026-08-14T15:26:10+03:00"
-      },
-      {
-        "title": "Emine Erdoğan'dan AK Parti'nin 25. yılına özel paylaşım",
-        "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-ak-partinin-25-yilina-ozel-paylasim-1737342",
-        "description": "Emine Erdoğan, AK Parti'nin 25. yıl dönümüne ilişkin yaptığı paylaşımda \"Nice ilkin öncüsü olan AK Parti’nin, yarın da ülkemize yeni ufuklar açacağına yürekten inanıyorum.\" dedi.",
-        "source": "NTV",
-        "published": "2026-08-14T14:33:34+03:00"
       },
       {
         "title": "Afgan kadınlar Taliban yönetimindeki beş yılı BBC'ye anlattı",
@@ -785,8 +715,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+102°F",
-    "wind": "↑6mph",
-    "humidity": "31%"
+    "temp": "+83°F",
+    "wind": "↑5mph",
+    "humidity": "27%"
   }
 }
