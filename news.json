@@ -1,18 +1,25 @@
 {
-  "updated_at": "2026-08-15T14:21:17.913556+00:00",
+  "updated_at": "2026-08-15T14:48:09.994333+00:00",
   "categories": {
     "teknoloji": [
       {
         "title": "Secondhand book sales are booming. Is it because of AI?",
         "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-        "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 4 # Comments: 0",
+        "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 11 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-15T14:08:55+00:00"
       },
       {
+        "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+        "link": "https://hypnagogic-quasicrystals.github.io/",
+        "description": "Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution. Not all combinations look equally good. For example the \"Spectrum\" color palette IMO makes sense only for...",
+        "source": "HackerNews",
+        "published": "2026-08-15T13:48:43+00:00"
+      },
+      {
         "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
         "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-        "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 4 # Comments: 1",
+        "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 7 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-08-15T13:43:46+00:00"
       },
@@ -26,14 +33,14 @@
       {
         "title": "Brazilian election filter in X For You timeline",
         "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-        "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 25 # Comments: 19",
+        "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 27 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-08-15T13:18:27+00:00"
       },
       {
         "title": "388 years ago, Galileo worked out why human giants can't exist",
         "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
-        "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 13 # Comments: 9",
+        "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 15 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-08-15T13:15:48+00:00"
       },
@@ -47,42 +54,35 @@
       {
         "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
         "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-        "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 15 # Comments: 3",
+        "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 17 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-15T13:09:28+00:00"
       },
       {
         "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
         "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-        "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 17 # Comments: 13",
+        "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 21 # Comments: 23",
         "source": "HackerNews",
         "published": "2026-08-15T12:56:56+00:00"
       },
       {
-        "title": "Strait of Hormuz Live Traffic Tracking",
-        "link": "https://hormuz.now/",
-        "description": "Article URL: https://hormuz.now/ Comments URL: https://news.ycombinator.com/item?id=49310170 Points: 24 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-08-15T12:54:43+00:00"
-      },
-      {
         "title": "Xorshift Generators",
         "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-        "description": "Article URL: https://www.alanzucconi.com/2026/08/15/xorshift-generators/ Comments URL: https://news.ycombinator.com/item?id=49310128 Points: 3 # Comments: 0",
+        "description": "Article URL: https://www.alanzucconi.com/2026/08/15/xorshift-generators/ Comments URL: https://news.ycombinator.com/item?id=49310128 Points: 4 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-15T12:47:52+00:00"
       },
       {
         "title": "The Problem",
         "link": "https://intelligence.org/the-problem/",
-        "description": "Article URL: https://intelligence.org/the-problem/ Comments URL: https://news.ycombinator.com/item?id=49309963 Points: 3 # Comments: 0",
+        "description": "Article URL: https://intelligence.org/the-problem/ Comments URL: https://news.ycombinator.com/item?id=49309963 Points: 7 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-15T12:14:17+00:00"
       },
       {
         "title": "T3X/0 a Minimal Procedural Language",
         "link": "https://t3x.org/t3x/0/index.html",
-        "description": "Article URL: https://t3x.org/t3x/0/index.html Comments URL: https://news.ycombinator.com/item?id=49309923 Points: 3 # Comments: 0",
+        "description": "Article URL: https://t3x.org/t3x/0/index.html Comments URL: https://news.ycombinator.com/item?id=49309923 Points: 4 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-15T12:06:24+00:00"
       },
@@ -355,11 +355,11 @@
     ],
     "dunya": [
       {
-        "title": "Bonnie Tyler fans line the streets as coffin taken to her Swansea home",
+        "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
         "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
         "description": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
         "source": "BBC News",
-        "published": "2026-08-15T14:06:19+00:00"
+        "published": "2026-08-15T14:40:47+00:00"
       },
       {
         "title": "Jason Arday death 'tragedy on so many levels' says PM",
@@ -390,6 +390,13 @@
         "published": "2026-08-15T11:53:19+00:00"
       },
       {
+        "title": "Sellers puzzled by unusual bulk orders suspect books being destroyed to train AI",
+        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+        "description": "Independent booksellers have seen scores of their novels being shipped to far-off warehouses.",
+        "source": "BBC News",
+        "published": "2026-08-15T11:25:32+00:00"
+      },
+      {
         "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
         "description": "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system.",
@@ -402,13 +409,6 @@
         "description": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
         "source": "NPR",
         "published": "2026-08-15T05:04:00-04:00"
-      },
-      {
-        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-        "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-        "description": "From glaciers shrinking to an exposed shipwreck, satellites capture the impact of extreme heat and drought.",
-        "source": "BBC News",
-        "published": "2026-08-15T05:01:13+00:00"
       },
       {
         "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
@@ -567,6 +567,20 @@
     ],
     "turkiye": [
       {
+        "title": "Beşiktaş'a Brezilyalı sağ kanat! Transferde rota İtalya",
+        "link": "https://www.sozcu.com.tr/besiktasin-napolideki-hedefi-david-neres-p349662",
+        "description": "Beşiktaş'a Brezilyalı sağ kanat! Transferde rota İtalya",
+        "source": "Sözcü",
+        "published": "2026-08-15T17:31:25+03:00"
+      },
+      {
+        "title": "ABD’de üniversite kampüsünde silahlı saldırı",
+        "link": "https://www.sozcu.com.tr/abd-de-universite-kampusunde-silahli-saldiri-p349659",
+        "description": "ABD’de üniversite kampüsünde silahlı saldırı",
+        "source": "Sözcü",
+        "published": "2026-08-15T17:21:46+03:00"
+      },
+      {
         "title": "Ünlü teknik direktörün iki karısı otelde birbirine girdi! Kavgaya dayanamadı hastaneye kaldırıldı",
         "link": "https://www.sozcu.com.tr/unlu-teknik-direktorun-iki-karisi-otelde-birbirine-girdi-kavgaya-dayanamadi-hastaneye-kaldirildi-p349658",
         "description": "Ünlü teknik direktörün iki karısı otelde birbirine girdi! Kavgaya dayanamadı hastaneye kaldırıldı",
@@ -637,13 +651,6 @@
         "published": "2026-08-15T16:12:19+03:00"
       },
       {
-        "title": "Galatasaray'da 'istifa' tepkisi yönetimi harekete geçirdi, transfer imzaya kaldı",
-        "link": "https://www.sozcu.com.tr/istifa-tepkisi-yonetimi-harekete-gecirdi-transfer-imzaya-kaldi-p349638",
-        "description": "Galatasaray'da 'istifa' tepkisi yönetimi harekete geçirdi, transfer imzaya kaldı",
-        "source": "Sözcü",
-        "published": "2026-08-15T16:08:50+03:00"
-      },
-      {
         "title": "Hasat sonrası çiftçilere bir daha ekmeyin uyarısı yapıldı",
         "link": "https://www.sozcu.com.tr/hasat-sonrasi-ciftcilere-bir-daha-ekmeyin-uyarisi-yapildi-p349645",
         "description": "Hasat sonrası çiftçilere bir daha ekmeyin uyarısı yapıldı",
@@ -658,18 +665,18 @@
         "published": "2026-08-15T16:05:37+03:00"
       },
       {
-        "title": "İnsan kalbi ağırlığındaki dev elmas iki yıl sonra satıldı",
-        "link": "https://www.sozcu.com.tr/insan-kalbi-agirligindaki-dev-elmas-iki-yil-sonra-satildi-p349640",
-        "description": "İnsan kalbi ağırlığındaki dev elmas iki yıl sonra satıldı",
-        "source": "Sözcü",
-        "published": "2026-08-15T15:52:04+03:00"
-      },
-      {
         "title": "Manisa'da dolum tesisinde patlama. 2 ölü",
         "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-dolum-tesisinde-patlama-ekipler-olay-yerinde-1737450",
         "description": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Kazada 2 kişi ağır yaralanırken 2 kişi de hayatını kaybetti.",
         "source": "NTV",
         "published": "2026-08-15T15:45:04+03:00"
+      },
+      {
+        "title": "Endonezya'daki 7,7 büyüklüğündeki depremde en az 47 kişi hayatını kaybetti",
+        "link": "https://www.bbc.com/turkce/articles/cd9w512yvwqo?at_medium=RSS&at_campaign=rss",
+        "description": "Endonezya'da Cumartesi sabahı meydana gelen 7,7 büyüklüğündeki depremde en az 47 kişi hayatını kaybetti",
+        "source": "BBC Turkish",
+        "published": "2026-08-15T14:24:21+00:00"
       },
       {
         "title": "14 yıllık cinayetteki sır DNA ile çözüldü. Cani koca parçalara ayırıp yol kenarına atmış",
@@ -735,13 +742,6 @@
         "published": "2026-08-15T10:05:51+00:00"
       },
       {
-        "title": "Endonezya'daki 7,7 büyüklüğündeki depremde en az 38 kişi hayatını kaybetti",
-        "link": "https://www.bbc.com/turkce/articles/cd9w512yvwqo?at_medium=RSS&at_campaign=rss",
-        "description": "Endonezya'da Cumartesi sabahı meydana gelen 7,7 büyüklüğündeki depremde en az 38 kişi hayatını kaybetti",
-        "source": "BBC Turkish",
-        "published": "2026-08-15T09:14:40+00:00"
-      },
-      {
         "title": "Akşam yemeği vakti neden önemli, en doğru saat ne?",
         "link": "https://www.bbc.com/turkce/articles/c0m721lm3pwo?at_medium=RSS&at_campaign=rss",
         "description": "Önemli olan sadece ne yediğiniz değil. Vücut saatiniz de besinleri nasıl metabolize ettiğinizde önemli bir rol oynuyor.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8646
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+59°F",
-    "wind": "↘2mph",
-    "humidity": "94%"
+    "condition": "Puslu",
+    "temp": "+76°F",
+    "wind": "↑7mph",
+    "humidity": "96%"
   }
 }
