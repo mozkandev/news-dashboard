@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-08-15T14:48:09.994333+00:00",
+  "updated_at": "2026-08-15T15:19:16.890582+00:00",
   "categories": {
     "teknoloji": [
       {
         "title": "Secondhand book sales are booming. Is it because of AI?",
         "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-        "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 11 # Comments: 1",
+        "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 20 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-08-15T14:08:55+00:00"
+      },
+      {
+        "title": "Cloudflare's AI Psychosis",
+        "link": "https://opensauce.it/cloudflare-ai-psychosis/",
+        "description": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 62 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-08-15T14:08:40+00:00"
+      },
+      {
+        "title": "Writergate: Zig I/O Interface Overhaul",
+        "link": "https://alexrios.me/blog/writergate/",
+        "description": "Article URL: https://alexrios.me/blog/writergate/ Comments URL: https://news.ycombinator.com/item?id=49310623 Points: 13 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-15T13:59:47+00:00"
       },
       {
         "title": "Show HN: Quasicrystals Animation Playground with WebXR",
@@ -19,7 +33,7 @@
       {
         "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
         "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-        "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 7 # Comments: 2",
+        "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 13 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-15T13:43:46+00:00"
       },
@@ -31,16 +45,23 @@
         "published": "2026-08-15T13:30:40+00:00"
       },
       {
+        "title": "Could a computer scientist build a brain?",
+        "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+        "description": "Article URL: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/ Comments URL: https://news.ycombinator.com/item?id=49310362 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-15T13:26:28+00:00"
+      },
+      {
         "title": "Brazilian election filter in X For You timeline",
         "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-        "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 27 # Comments: 22",
+        "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 32 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-08-15T13:18:27+00:00"
       },
       {
         "title": "388 years ago, Galileo worked out why human giants can't exist",
         "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
-        "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 15 # Comments: 9",
+        "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 17 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-08-15T13:15:48+00:00"
       },
@@ -54,37 +75,16 @@
       {
         "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
         "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-        "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 17 # Comments: 3",
+        "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 22 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-15T13:09:28+00:00"
       },
       {
         "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
         "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-        "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 21 # Comments: 23",
+        "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 26 # Comments: 30",
         "source": "HackerNews",
         "published": "2026-08-15T12:56:56+00:00"
-      },
-      {
-        "title": "Xorshift Generators",
-        "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-        "description": "Article URL: https://www.alanzucconi.com/2026/08/15/xorshift-generators/ Comments URL: https://news.ycombinator.com/item?id=49310128 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-15T12:47:52+00:00"
-      },
-      {
-        "title": "The Problem",
-        "link": "https://intelligence.org/the-problem/",
-        "description": "Article URL: https://intelligence.org/the-problem/ Comments URL: https://news.ycombinator.com/item?id=49309963 Points: 7 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-15T12:14:17+00:00"
-      },
-      {
-        "title": "T3X/0 a Minimal Procedural Language",
-        "link": "https://t3x.org/t3x/0/index.html",
-        "description": "Article URL: https://t3x.org/t3x/0/index.html Comments URL: https://news.ycombinator.com/item?id=49309923 Points: 4 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-15T12:06:24+00:00"
       },
       {
         "title": "Türk Savunma Sanayisinin Çeyrek Asırlık Devrimi: 100 Milyar Dolarlık Ekosistem",
@@ -101,11 +101,18 @@
         "published": "2026-08-15T11:00:00+00:00"
       },
       {
+        "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+        "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+        "description": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker,...",
+        "source": "The Verge",
+        "published": "2026-08-15T10:58:27-04:00"
+      },
+      {
         "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
         "link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
         "description": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of...",
         "source": "The Verge",
-        "published": "2026-08-15T10:20:33-04:00"
+        "published": "2026-08-15T10:58:04-04:00"
       },
       {
         "title": "I finally found a magnetic phone grip I never want to remove",
@@ -318,13 +325,6 @@
         "published": "2026-08-14T15:43:28+00:00"
       },
       {
-        "title": "A RAMageddon guide to back-to-school laptop shopping",
-        "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-        "description": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others...",
-        "source": "The Verge",
-        "published": "2026-08-14T15:37:04-04:00"
-      },
-      {
         "title": "Samsung has new Galaxy headphones in the works",
         "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
         "description": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they...",
@@ -339,11 +339,11 @@
         "published": "2026-08-14T14:54:48+00:00"
       },
       {
-        "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
-        "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
-        "description": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle....",
+        "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+        "link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+        "description": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding...",
         "source": "The Verge",
-        "published": "2026-08-14T11:42:28-04:00"
+        "published": "2026-08-14T13:01:42-04:00"
       },
       {
         "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
@@ -359,7 +359,7 @@
         "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
         "description": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
         "source": "BBC News",
-        "published": "2026-08-15T14:40:47+00:00"
+        "published": "2026-08-15T14:57:44+00:00"
       },
       {
         "title": "Jason Arday death 'tragedy on so many levels' says PM",
@@ -518,7 +518,7 @@
       {
         "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
         "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-        "description": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
+        "description": "Saturday marks the 5th anniversary of the current Taliban rule in Afghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
         "source": "NPR",
         "published": "2026-08-14T10:41:22-04:00"
       },
@@ -566,6 +566,34 @@
       }
     ],
     "turkiye": [
+      {
+        "title": "Bakü'de yakalanan suç örgütü şüphelisi Türkiye'ye getirildi",
+        "link": "https://www.ntv.com.tr/turkiye/bakude-yakalanan-suc-orgutu-suphelisi-turkiyeye-getirildi-1737503",
+        "description": "İçişleri Bakanı Mustafa Çiftçi, Türkiye ve Azerbaycan polisinin ortak çalışması sonucu yeni nesil suç örgütleriyle bağlantılı olduğu belirtilen bir şüphelinin Bakü'de yakalandığını bildirdi.",
+        "source": "NTV",
+        "published": "2026-08-15T18:15:46+03:00"
+      },
+      {
+        "title": "Yandaş yazardan bomba iddia: 3 CHP’li belediye başkanı daha AKP’ye geçiyor",
+        "link": "https://www.sozcu.com.tr/yandas-yazardan-bomba-iddia-3-chp-li-belediye-baskani-daha-akp-ye-geciyor-p349665",
+        "description": "Yandaş yazardan bomba iddia: 3 CHP’li belediye başkanı daha AKP’ye geçiyor",
+        "source": "Sözcü",
+        "published": "2026-08-15T18:07:20+03:00"
+      },
+      {
+        "title": "İYİ Partili başkan 20 kişiyle damadının evini bastı",
+        "link": "https://www.sozcu.com.tr/mardin-kiziltepe-ilce-baskani-damadiyla-gerilimi-p349663",
+        "description": "İYİ Partili başkan 20 kişiyle damadının evini bastı",
+        "source": "Sözcü",
+        "published": "2026-08-15T17:49:19+03:00"
+      },
+      {
+        "title": "Vlahovic'in hedefi şampiyonluk",
+        "link": "https://www.sozcu.com.tr/vlahovic-in-hedefi-sampiyonluk-p349664",
+        "description": "Vlahovic'in hedefi şampiyonluk",
+        "source": "Sözcü",
+        "published": "2026-08-15T17:47:24+03:00"
+      },
       {
         "title": "Beşiktaş'a Brezilyalı sağ kanat! Transferde rota İtalya",
         "link": "https://www.sozcu.com.tr/besiktasin-napolideki-hedefi-david-neres-p349662",
@@ -644,32 +672,11 @@
         "published": "2026-08-15T16:13:46+03:00"
       },
       {
-        "title": "Operasyonların ardından Süleymancılar Ankara'ya akın etti",
-        "link": "https://www.sozcu.com.tr/operasyonlarin-ardindan-suleymancilar-ankara-ya-akin-etti-p349643",
-        "description": "Operasyonların ardından Süleymancılar Ankara'ya akın etti",
-        "source": "Sözcü",
-        "published": "2026-08-15T16:12:19+03:00"
-      },
-      {
-        "title": "Hasat sonrası çiftçilere bir daha ekmeyin uyarısı yapıldı",
-        "link": "https://www.sozcu.com.tr/hasat-sonrasi-ciftcilere-bir-daha-ekmeyin-uyarisi-yapildi-p349645",
-        "description": "Hasat sonrası çiftçilere bir daha ekmeyin uyarısı yapıldı",
-        "source": "Sözcü",
-        "published": "2026-08-15T16:07:21+03:00"
-      },
-      {
-        "title": "Çevre iller bile sıraya girdi: Altın yumurtlayan hasatta siparişlere yetişemiyor",
-        "link": "https://www.sozcu.com.tr/cevre-iller-bile-siraya-girdi-altin-yumurtlayan-hasatta-siparislere-yetisemiyor-p349644",
-        "description": "Çevre iller bile sıraya girdi: Altın yumurtlayan hasatta siparişlere yetişemiyor",
-        "source": "Sözcü",
-        "published": "2026-08-15T16:05:37+03:00"
-      },
-      {
-        "title": "Manisa'da dolum tesisinde patlama. 2 ölü",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-dolum-tesisinde-patlama-ekipler-olay-yerinde-1737450",
-        "description": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Kazada 2 kişi ağır yaralanırken 2 kişi de hayatını kaybetti.",
-        "source": "NTV",
-        "published": "2026-08-15T15:45:04+03:00"
+        "title": "İkinci el kitap satışları patlama yaşıyor: Bunun nedeni yapay zekâ mı?",
+        "link": "https://www.bbc.com/turkce/articles/ckg44v98gwzo?at_medium=RSS&at_campaign=rss",
+        "description": "Yapay zekâ şirketlerinin modellerini eğitmek için büyük miktarlarda kitap satın aldığı şüphesi, ikinci el kitap satışlarını artırırken eserlerin tarandıktan sonra imha edilmesi etik ve hukuki tartışmalara yol açıyor",
+        "source": "BBC Turkish",
+        "published": "2026-08-15T14:51:06+00:00"
       },
       {
         "title": "Endonezya'daki 7,7 büyüklüğündeki depremde en az 47 kişi hayatını kaybetti",
@@ -768,13 +775,6 @@
         "description": "Abdullah Gül, Adalet ve Kalkınma Partisi'nin önde gelen kurucularından... Türkiye'de başbakanlık, başbakanlık yardımcılığı, dışişleri bakanlığı ve cumhurbaşkanlığı yaptı. Gül, İstanbul'daki çalışma ofisinde BBC Türkçe'nin partinin kuruluşuyla ilgili...",
         "source": "BBC Turkish",
         "published": "2026-08-14T20:21:10+00:00"
-      },
-      {
-        "title": "AKP'ye katılan milletvekilleri ve belediye başkanlarına rozetleri takıldı",
-        "link": "https://www.bbc.com/turkce/articles/cvg7ew6nnxdo?at_medium=RSS&at_campaign=rss",
-        "description": "Muhalif parti üyesi dört milletvekili ve üç belediye başkanı AKP'ye katıldı. Cumhurbaşkanı Erdoğan, yeni üyelere partinin 25. yıl dönümünde düzenlenen törende parti rozetlerini taktı.",
-        "source": "BBC Turkish",
-        "published": "2026-08-14T18:47:51+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8646
   },
   "weather": {
-    "condition": "Puslu",
-    "temp": "+76°F",
-    "wind": "↑7mph",
-    "humidity": "96%"
+    "condition": "Güneşli",
+    "temp": "+73°F",
+    "wind": "↘11mph",
+    "humidity": "38%"
   }
 }
