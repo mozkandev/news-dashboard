@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T10:21:47.240843+00:00",
+  "updated_at": "2026-08-15T10:47:57.725806+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -8,6 +8,13 @@
         "description": "Aurora ve Kodiak, Kaliforniya'da otonom kamyon testlerine başladı. Eyaletteki yeni düzenlemeler ve devam eden hukuki süreçler hakkında detaylar.",
         "source": "ShiftDelete",
         "published": "2026-08-15T10:00:00+00:00"
+      },
+      {
+        "title": "Debian has begun voting on the future of AI/LLM contributions",
+        "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+        "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 10 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-15T09:20:07+00:00"
       },
       {
         "title": "ChatGPT Artık Google Drive Dosyalarını Doğrudan Düzenleyebiliyor",
@@ -26,14 +33,14 @@
       {
         "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
         "link": "https://uecker.codeberg.page/2026-07-14.html",
-        "description": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 4 # Comments: 0",
+        "description": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 11 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-15T07:59:42+00:00"
       },
       {
         "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
         "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 22 # Comments: 14",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 28 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-08-15T07:31:46+00:00"
       },
@@ -68,35 +75,35 @@
       {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "link": "https://chenxiachan.github.io/thoughtdag/",
-        "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 33 # Comments: 10",
+        "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 38 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-08-15T04:42:07+00:00"
       },
       {
         "title": "The other Sean Byrne doesn't exist",
         "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 155 # Comments: 79",
+        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 169 # Comments: 92",
         "source": "HackerNews",
         "published": "2026-08-15T04:18:44+00:00"
       },
       {
         "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
         "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "description": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 196 # Comments: 47",
+        "description": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 197 # Comments: 48",
         "source": "HackerNews",
         "published": "2026-08-15T01:14:05+00:00"
       },
       {
         "title": "The Ploopy A+ Trackball Is Here",
         "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-        "description": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 104 # Comments: 49",
+        "description": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 107 # Comments: 54",
         "source": "HackerNews",
         "published": "2026-08-15T00:55:31+00:00"
       },
       {
         "title": "Simplifying and Refactoring Introductory Calculus (2018)",
         "link": "https://arxiv.org/abs/1811.03459",
-        "description": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 89 # Comments: 41",
+        "description": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 94 # Comments: 47",
         "source": "HackerNews",
         "published": "2026-08-15T00:15:23+00:00"
       },
@@ -110,16 +117,9 @@
       {
         "title": "eigendrum",
         "link": "https://eigendrum.com/#p=circle",
-        "description": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 160 # Comments: 39",
+        "description": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 164 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-08-14T22:15:12+00:00"
-      },
-      {
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "description": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 345 # Comments: 155",
-        "source": "HackerNews",
-        "published": "2026-08-14T20:52:44+00:00"
       },
       {
         "title": "Self-driving trucks are officially testing on California highways",
@@ -567,6 +567,27 @@
     ],
     "turkiye": [
       {
+        "title": "Torreira krizi: Galatasaray yönetimi harekete geçti",
+        "link": "https://www.sozcu.com.tr/torreira-krizi-ayrilik-talebi-galatasarayi-harekete-gecirdi-p349614",
+        "description": "Torreira krizi: Galatasaray yönetimi harekete geçti",
+        "source": "Sözcü",
+        "published": "2026-08-15T13:41:17+03:00"
+      },
+      {
+        "title": "Ülkesi yanarken Macron jetski üzerinde keyif yaptı: Tepkiler çığ oldu",
+        "link": "https://www.sozcu.com.tr/macron-ulkesi-yanarken-jetski-uzerinde-keyif-yapti-p349610",
+        "description": "Ülkesi yanarken Macron jetski üzerinde keyif yaptı: Tepkiler çığ oldu",
+        "source": "Sözcü",
+        "published": "2026-08-15T13:26:18+03:00"
+      },
+      {
+        "title": "Devlet milyonlarca vatandaşına karşılıksız para dağıtacak",
+        "link": "https://www.sozcu.com.tr/devlet-milyonlarca-vatandasina-karsiliksiz-para-dagitacak-p349611",
+        "description": "Devlet milyonlarca vatandaşına karşılıksız para dağıtacak",
+        "source": "Sözcü",
+        "published": "2026-08-15T13:21:47+03:00"
+      },
+      {
         "title": "İstanbul'da ünlü mekandan çıkıp taksi ücreti için şoföre saldırdılar",
         "link": "https://www.sozcu.com.tr/istanbul-da-unlu-mekandan-cikip-taksi-ucreti-icin-sofore-saldirdilar-p349602",
         "description": "İstanbul'da ünlü mekandan çıkıp taksi ücreti için şoföre saldırdılar",
@@ -609,13 +630,6 @@
         "published": "2026-08-15T12:52:16+03:00"
       },
       {
-        "title": "Meyvelerin üzerindeki etiket 8 ile başlıyorsa hemen geri bırakın",
-        "link": "https://www.sozcu.com.tr/meyvelerin-uzerindeki-etiket-8-ile-basliyorsa-hemen-geri-birakin-p349594",
-        "description": "Meyvelerin üzerindeki etiket 8 ile başlıyorsa hemen geri bırakın",
-        "source": "Sözcü",
-        "published": "2026-08-15T12:46:34+03:00"
-      },
-      {
         "title": "Araç sahiplerini ilgilendiriyor: Trafik sigortasında ödemeler yapıldı",
         "link": "https://www.sozcu.com.tr/tazminat-rekoru-145-milyar-lira-odendi-magdur-sayisi-sadece-yuzde-7-artti-p349601",
         "description": "Araç sahiplerini ilgilendiriyor: Trafik sigortasında ödemeler yapıldı",
@@ -630,25 +644,11 @@
         "published": "2026-08-15T12:36:38+03:00"
       },
       {
-        "title": "Andrea Mazzon: 'Büyük hayaller kurmalıyız'",
-        "link": "https://www.sozcu.com.tr/andrea-mazzon-buyuk-hayaller-kurmaliyiz-p349598",
-        "description": "Andrea Mazzon: 'Büyük hayaller kurmalıyız'",
-        "source": "Sözcü",
-        "published": "2026-08-15T12:33:37+03:00"
-      },
-      {
         "title": "Tarihin en büyük petrol kaybı: Hürmüz krizi dünyayı vurdu",
         "link": "https://www.sozcu.com.tr/tarihin-en-buyuk-petrol-kaybi-hurmuz-krizi-dunyayi-vurdu-p349599",
         "description": "Tarihin en büyük petrol kaybı: Hürmüz krizi dünyayı vurdu",
         "source": "Sözcü",
         "published": "2026-08-15T12:32:39+03:00"
-      },
-      {
-        "title": "Gençlerbirliği - Fenerbahçe maçına İskoç VAR hakemi",
-        "link": "https://www.sozcu.com.tr/genclerbirligi-fenerbahce-macina-iskoc-var-hakemi-p349595",
-        "description": "Gençlerbirliği - Fenerbahçe maçına İskoç VAR hakemi",
-        "source": "Sözcü",
-        "published": "2026-08-15T12:14:55+03:00"
       },
       {
         "title": "YÖK Başkanı açıkladı. Üniversite affından 500 bin öğrenci yararlanabilir",
@@ -684,6 +684,13 @@
         "description": "Mersin Limanı’na gelen konteynerin soğutucu motorunda 3 kilo 490 gram kokain ele geçirildi. Mezitli’deki operasyonda ise 122 kilo 300 gram esrar bulundu.",
         "source": "NTV",
         "published": "2026-08-15T10:56:04+03:00"
+      },
+      {
+        "title": "AKP'nin 25. kuruluş yıldönümünde Erdoğan: 'Daha nice yıllar Türkiye'ye hizmet mücadelesi içinde olacağım'",
+        "link": "https://www.bbc.com/turkce/articles/crrv8q7elnlo?at_medium=RSS&at_campaign=rss",
+        "description": "Adalet ve Kalkınma Partisi'nin 25. kuruluş yıldönümü Cumhurbaşkanı ve partinin genel başkanı Recep Tayyip Erdoğan'ın katılımıyla Ankara Millet Bahçesi'ndeki miting ile kutlanıyor. Kalabalığın toplandığı etkinlik alanında Erdoğan konuşma yaptı",
+        "source": "BBC Turkish",
+        "published": "2026-08-15T10:25:26+00:00"
       },
       {
         "title": "Gaziantep'i ayağa kaldıran cinsel istismar iddiası. 5 kişi tutuklandı",
@@ -740,13 +747,6 @@
         "description": "Güney Kore'ye gidenler, uygun fiyatlar, hızlı sonuçlar ve İngilizce dil desteği sebebiyle seyahat programlarına giderek artan bir şekilde kapsamlı sağlık kontrollerini ekliyor.",
         "source": "BBC Turkish",
         "published": "2026-08-15T07:06:54+00:00"
-      },
-      {
-        "title": "AKP'nin 25. kuruluş yıldönümünde Erdoğan: 'Bu partiyi millet kurdu'",
-        "link": "https://www.bbc.com/turkce/articles/crrv8q7elnlo?at_medium=RSS&at_campaign=rss",
-        "description": "Adalet ve Kalkınma Partisi'nin 25. kuruluş yıldönümü Cumhurbaşkanı ve partinin genel başkanı Recep Tayyip Erdoğan'ın katılımıyla Ankara Millet Bahçesi'ndeki miting ile kutlanıyor. Kalabalığın toplandığı etkinlik alanında Erdoğan konuşma yapıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-08-14T20:27:52+00:00"
       },
       {
         "title": "Abdullah Gül anlatıyor: Adalet ve Kalkınma Partisi nasıl kuruldu?",
