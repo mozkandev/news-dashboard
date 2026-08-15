@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-15T09:50:52.079800+00:00",
+  "updated_at": "2026-08-15T10:21:47.240843+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Sürücüsüz Kamyonlar Yollarda: Testler Başladı",
+        "link": "https://shiftdelete.net/surucusuz-kamyonlar-yollarda-testler-basladi",
+        "description": "Aurora ve Kodiak, Kaliforniya'da otonom kamyon testlerine başladı. Eyaletteki yeni düzenlemeler ve devam eden hukuki süreçler hakkında detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-08-15T10:00:00+00:00"
+      },
       {
         "title": "ChatGPT Artık Google Drive Dosyalarını Doğrudan Düzenleyebiliyor",
         "link": "https://shiftdelete.net/chatgpt-artik-google-drive-dosyalarini-dogrudan-duzenleyebiliyor",
@@ -17,9 +24,16 @@
         "published": "2026-08-15T08:00:00+00:00"
       },
       {
+        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+        "link": "https://uecker.codeberg.page/2026-07-14.html",
+        "description": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-15T07:59:42+00:00"
+      },
+      {
         "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
         "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 19 # Comments: 8",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 22 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-08-15T07:31:46+00:00"
       },
@@ -38,6 +52,13 @@
         "published": "2026-08-15T06:00:00+00:00"
       },
       {
+        "title": "Ask HN: How do you keep up with HN these days?",
+        "link": "https://news.ycombinator.com/item?id=49308059",
+        "description": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more. Comments URL:...",
+        "source": "HackerNews",
+        "published": "2026-08-15T05:59:12+00:00"
+      },
+      {
         "title": "Hyundai’nin İlk Yerli Elektrikli Modeli IONIQ 3 Banttan İndi",
         "link": "https://shiftdelete.net/hyundainin-ilk-yerli-elektrikli-modeli-ioniq-3-banttan-indi",
         "description": "Hyundai, İzmit fabrikasında tamamen elektrikli IONIQ 3 modelinin seri üretimine başladı. Türkiye'nin elektrikli araç üretimindeki yeni dönemi inceleyin.",
@@ -47,42 +68,35 @@
       {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "link": "https://chenxiachan.github.io/thoughtdag/",
-        "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 28 # Comments: 4",
+        "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 33 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-08-15T04:42:07+00:00"
       },
       {
         "title": "The other Sean Byrne doesn't exist",
         "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 140 # Comments: 69",
+        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 155 # Comments: 79",
         "source": "HackerNews",
         "published": "2026-08-15T04:18:44+00:00"
       },
       {
-        "title": "Show HN: Deltix – AI Driven Testing",
-        "link": "https://app.deltix.ai",
-        "description": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 31 # Comments: 9",
-        "source": "HackerNews",
-        "published": "2026-08-15T02:42:14+00:00"
-      },
-      {
         "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
         "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "description": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 194 # Comments: 45",
+        "description": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 196 # Comments: 47",
         "source": "HackerNews",
         "published": "2026-08-15T01:14:05+00:00"
       },
       {
         "title": "The Ploopy A+ Trackball Is Here",
         "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-        "description": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 103 # Comments: 49",
+        "description": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 104 # Comments: 49",
         "source": "HackerNews",
         "published": "2026-08-15T00:55:31+00:00"
       },
       {
         "title": "Simplifying and Refactoring Introductory Calculus (2018)",
         "link": "https://arxiv.org/abs/1811.03459",
-        "description": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 88 # Comments: 39",
+        "description": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 89 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-08-15T00:15:23+00:00"
       },
@@ -96,14 +110,14 @@
       {
         "title": "eigendrum",
         "link": "https://eigendrum.com/#p=circle",
-        "description": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 156 # Comments: 38",
+        "description": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 160 # Comments: 39",
         "source": "HackerNews",
         "published": "2026-08-14T22:15:12+00:00"
       },
       {
         "title": "Going Dark, and the era of law enforcement hacking",
         "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "description": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 340 # Comments: 149",
+        "description": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 345 # Comments: 155",
         "source": "HackerNews",
         "published": "2026-08-14T20:52:44+00:00"
       },
@@ -127,13 +141,6 @@
         "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
         "source": "TechCrunch",
         "published": "2026-08-14T19:04:32+00:00"
-      },
-      {
-        "title": "Firefox is now the last major browser that still supports uBlock Origin",
-        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-        "description": "Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html Comments URL: https://news.ycombinator.com/item?id=49303202 Points: 1011 # Comments: 382",
-        "source": "HackerNews",
-        "published": "2026-08-14T19:03:20+00:00"
       },
       {
         "title": "Read-it-later app Pocket shut down — here are the best alternatives",
@@ -304,13 +311,6 @@
         "published": "2026-08-14T13:35:22-04:00"
       },
       {
-        "title": "Türkiye’nin İlk Yerli Uçaklarından Nuri Demirağ’ın Mirası Nu.D-36 Tekrar Havalandı",
-        "link": "https://shiftdelete.net/turkiyenin-ilk-yerli-ucaklarindan-nuri-demiragin-mirasi-nu-d-36-tekrar-havalandi",
-        "description": "Nuri Demirağ tarafından 1936’da üretilen Nu.D-36 eğitim uçağının replikası, 90 yıl aradan sonra gökyüzüyle buluştu. 8 aylık çalışmayla sıfırdan inşa edilen efsanevi uçak, Eskişehir’deki ilk test uçuşunu başarıyla tamamladı.",
-        "source": "ShiftDelete",
-        "published": "2026-08-14T13:30:38+00:00"
-      },
-      {
         "title": "CMF’s clip earbuds hit the balance between cheap and good",
         "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
         "description": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is great because...",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+        "description": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+        "source": "BBC News",
+        "published": "2026-08-15T10:14:59+00:00"
+      },
+      {
         "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -369,11 +376,11 @@
         "published": "2026-08-15T08:52:13+00:00"
       },
       {
-        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
-        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-        "description": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
-        "source": "BBC News",
-        "published": "2026-08-15T07:53:48+00:00"
+        "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+        "description": "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system.",
+        "source": "NPR",
+        "published": "2026-08-15T06:10:00-04:00"
       },
       {
         "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
@@ -516,13 +523,6 @@
         "published": "2026-08-14T10:41:22-04:00"
       },
       {
-        "title": "U.S. missionary who was kidnapped in Niger is released",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-        "description": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-        "source": "NPR",
-        "published": "2026-08-14T08:11:50-04:00"
-      },
-      {
         "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
         "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
         "description": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of...",
@@ -567,18 +567,53 @@
     ],
     "turkiye": [
       {
+        "title": "İstanbul'da ünlü mekandan çıkıp taksi ücreti için şoföre saldırdılar",
+        "link": "https://www.sozcu.com.tr/istanbul-da-unlu-mekandan-cikip-taksi-ucreti-icin-sofore-saldirdilar-p349602",
+        "description": "İstanbul'da ünlü mekandan çıkıp taksi ücreti için şoföre saldırdılar",
+        "source": "Sözcü",
+        "published": "2026-08-15T13:14:49+03:00"
+      },
+      {
+        "title": "Şehrin ortasına 1 kilometrelik gökdelen dikiyorlar: Dünyada eşi benzeri yok",
+        "link": "https://www.sozcu.com.tr/sehrin-ortasina-1-kilometrelik-gokdelen-dikiyorlar-dunyada-esi-benzeri-yok-p349606",
+        "description": "Şehrin ortasına 1 kilometrelik gökdelen dikiyorlar: Dünyada eşi benzeri yok",
+        "source": "Sözcü",
+        "published": "2026-08-15T13:01:30+03:00"
+      },
+      {
+        "title": "Çölün ortasında 60 derece sıcaklığa tek başına direniyor",
+        "link": "https://www.sozcu.com.tr/colun-ortasinda-60-derece-sicakliga-tek-basina-direniyor-p349605",
+        "description": "Çölün ortasında 60 derece sıcaklığa tek başına direniyor",
+        "source": "Sözcü",
+        "published": "2026-08-15T12:56:55+03:00"
+      },
+      {
+        "title": "Güllü soruşturmasında yeni ses kayıtları: “Çıplak videoları var, yayınlar mısın?”",
+        "link": "https://www.sozcu.com.tr/gullu-sorusturmasinda-yeni-ses-kayitlari-ciplak-videolari-var-yayinlar-misin-p349604",
+        "description": "Güllü soruşturmasında yeni ses kayıtları: “Çıplak videoları var, yayınlar mısın?”",
+        "source": "Sözcü",
+        "published": "2026-08-15T12:56:35+03:00"
+      },
+      {
+        "title": "Manisa'da dolum tesisinde patlama. 2 ölü",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-dolum-tesisinde-patlama-ekipler-olay-yerinde-1737450",
+        "description": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Kazada 2 kişi ağır yaralanırken 2 kişi de hayatını kaybetti.",
+        "source": "NTV",
+        "published": "2026-08-15T12:56:34+03:00"
+      },
+      {
+        "title": "Dünyanın en sabırlı sürücüleri listesinde Türkiye’nin sıralaması şaşırttı",
+        "link": "https://www.sozcu.com.tr/dunyanin-en-sabirli-suruculeri-listesinde-turkiye-nin-siralamasi-sasirtti-p349603",
+        "description": "Dünyanın en sabırlı sürücüleri listesinde Türkiye’nin sıralaması şaşırttı",
+        "source": "Sözcü",
+        "published": "2026-08-15T12:52:16+03:00"
+      },
+      {
         "title": "Meyvelerin üzerindeki etiket 8 ile başlıyorsa hemen geri bırakın",
         "link": "https://www.sozcu.com.tr/meyvelerin-uzerindeki-etiket-8-ile-basliyorsa-hemen-geri-birakin-p349594",
         "description": "Meyvelerin üzerindeki etiket 8 ile başlıyorsa hemen geri bırakın",
         "source": "Sözcü",
         "published": "2026-08-15T12:46:34+03:00"
-      },
-      {
-        "title": "İstanbul'da ünlü mekandan çıkıp taksi ücreti için şoföre saldırdılar",
-        "link": "https://www.sozcu.com.tr/istanbul-da-unlu-mekandan-cikip-taksi-ucreti-icin-sofore-saldirdilar-p349602",
-        "description": "İstanbul'da ünlü mekandan çıkıp taksi ücreti için şoföre saldırdılar",
-        "source": "Sözcü",
-        "published": "2026-08-15T12:44:48+03:00"
       },
       {
         "title": "Araç sahiplerini ilgilendiriyor: Trafik sigortasında ödemeler yapıldı",
@@ -609,13 +644,6 @@
         "published": "2026-08-15T12:32:39+03:00"
       },
       {
-        "title": "Manisa'da dolum tesisinde patlama",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-dolum-tesisinde-patlama-ekipler-olay-yerinde-1737450",
-        "description": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Ekiplerin müdahalesiyle yangın söndürüldü.",
-        "source": "NTV",
-        "published": "2026-08-15T12:25:19+03:00"
-      },
-      {
         "title": "Gençlerbirliği - Fenerbahçe maçına İskoç VAR hakemi",
         "link": "https://www.sozcu.com.tr/genclerbirligi-fenerbahce-macina-iskoc-var-hakemi-p349595",
         "description": "Gençlerbirliği - Fenerbahçe maçına İskoç VAR hakemi",
@@ -623,39 +651,11 @@
         "published": "2026-08-15T12:14:55+03:00"
       },
       {
-        "title": "16 bin ayna aynı anda göreve başlayacak",
-        "link": "https://www.sozcu.com.tr/dunyanin-catisinda-16-bin-ayna-ayni-anda-goreve-baslayacak-p349589",
-        "description": "16 bin ayna aynı anda göreve başlayacak",
-        "source": "Sözcü",
-        "published": "2026-08-15T12:05:28+03:00"
-      },
-      {
         "title": "YÖK Başkanı açıkladı. Üniversite affından 500 bin öğrenci yararlanabilir",
         "link": "https://www.ntv.com.tr/turkiye/yok-baskani-acikladi-universite-affindan-500-bin-ogrenci-yararlanabilir-1737460",
         "description": "YÖK Başkanı, 9 Ağustos'ta Resmi Gazete'de yayımlanan öğrenci affı için son başvuru tarihinin 9 Aralık 2026 olduğunu, önceki aflardan yararlananların da başvurabileceğini bildirdi.",
         "source": "NTV",
         "published": "2026-08-15T11:59:48+03:00"
-      },
-      {
-        "title": "İran savaşı Türk turizimini vurdu: Otelciler kan ağlıyor",
-        "link": "https://www.sozcu.com.tr/iran-savasi-turk-turizimini-vurdu-otelciler-kan-agliyor-p349593",
-        "description": "İran savaşı Türk turizimini vurdu: Otelciler kan ağlıyor",
-        "source": "Sözcü",
-        "published": "2026-08-15T11:57:54+03:00"
-      },
-      {
-        "title": "Ümit Dikbayır'a Meral Akşener şoku",
-        "link": "https://www.sozcu.com.tr/umit-dikbayir-a-meral-aksener-soku-p349590",
-        "description": "Ümit Dikbayır'a Meral Akşener şoku",
-        "source": "Sözcü",
-        "published": "2026-08-15T11:57:06+03:00"
-      },
-      {
-        "title": "Türkiye'de dağın altına dev tünel inşa ediliyor: İki şehir arasındaki ulaşım çilesini bitirecek",
-        "link": "https://www.sozcu.com.tr/turkiye-de-dagin-altina-dev-tunel-insa-ediliyor-iki-sehir-arasindaki-ulasim-cilesi-bitiyor-p349592",
-        "description": "Türkiye'de dağın altına dev tünel inşa ediliyor: İki şehir arasındaki ulaşım çilesini bitirecek",
-        "source": "Sözcü",
-        "published": "2026-08-15T11:53:45+03:00"
       },
       {
         "title": "Yaren Leylek gidecek. Adem amcayı şimdiden hasret sardı",
@@ -691,6 +691,13 @@
         "description": "Gaziantep'te işitme ve konuşma engelli genç kadına cinsel istismarda bulunduğu ileri sürülen 5 kişi tutuklandı.",
         "source": "NTV",
         "published": "2026-08-15T10:23:35+03:00"
+      },
+      {
+        "title": "Ayşe Böhürler ile AKP'nin 25 yılı: 'Kendimizle yüzleşen bir partiyiz, esneme kabiliyetimiz var'",
+        "link": "https://www.bbc.com/turkce/articles/crk5v8yj3e5o?at_medium=RSS&at_campaign=rss",
+        "description": "Adalet ve Kalkınma Partisi'nin kurucularından, hali hazırda Kayseri milletvekili olan Ayşe Böhürler, BBC Türkçe'nin sorularını yanıtladı. Böhürler, seçmen kitlesindeki değişimi gördüklerini söylüyor, AK Parti'nin \"esneme kabiliyeti\" olduğunu...",
+        "source": "BBC Turkish",
+        "published": "2026-08-15T10:05:51+00:00"
       },
       {
         "title": "“Altyapı değişecek” bahanesiyle 116 milyon liralık dolandırıcılık",
@@ -756,13 +763,6 @@
         "published": "2026-08-14T18:47:51+00:00"
       },
       {
-        "title": "Afgan kadınlar Taliban yönetimindeki beş yılı BBC'ye anlattı",
-        "link": "https://www.bbc.com/turkce/articles/ce8lk4z28nko?at_medium=RSS&at_campaign=rss",
-        "description": "Taliban'ın Afganistan Cumhuriyeti'ni devirip ülkede iktidarı ele geçirmesinin üzerinden beş yıl geçti. BBC, Taliban rejiminin beşinci yılında ülkede hakları giderek kısıtlanan kadınlarla konuştu.",
-        "source": "BBC Turkish",
-        "published": "2026-08-14T14:23:12+00:00"
-      },
-      {
         "title": "Beklentiler, tereddütler ve eleştiriler: 'Çerçeve yasa' Diyarbakır'da nasıl karşılandı?",
         "link": "https://www.bbc.com/turkce/articles/c79gyqqz1pwo?at_medium=RSS&at_campaign=rss",
         "description": "TBMM\"de 10 Ağustos'ta 467 oyla kabul edilen \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi\", Diyarbakır'da hem beklentileri hem de eleştirileri beraberinde getirdi.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8646
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+74°F",
-    "wind": "←6mph",
-    "humidity": "94%"
+    "condition": "Puslu",
+    "temp": "+60°F",
+    "wind": "↘3mph",
+    "humidity": "95%"
   }
 }
