@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-15T13:54:14.170525+00:00",
+  "updated_at": "2026-08-15T14:21:17.913556+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-15T14:08:55+00:00"
+      },
+      {
+        "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+        "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 4 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-15T13:43:46+00:00"
+      },
       {
         "title": "Türkiye ve Bangladeş’ten Asya’ya Ortak İHA Fabrikası",
         "link": "https://shiftdelete.net/turkiye-ve-bangladesten-asyaya-ortak-iha-fabrikasi",
@@ -12,14 +26,14 @@
       {
         "title": "Brazilian election filter in X For You timeline",
         "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-        "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 14 # Comments: 5",
+        "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 25 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-08-15T13:18:27+00:00"
       },
       {
         "title": "388 years ago, Galileo worked out why human giants can't exist",
         "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
-        "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 8 # Comments: 3",
+        "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 13 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-08-15T13:15:48+00:00"
       },
@@ -33,23 +47,44 @@
       {
         "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
         "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-        "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 11 # Comments: 0",
+        "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 15 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-15T13:09:28+00:00"
       },
       {
         "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
         "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-        "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 9 # Comments: 2",
+        "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 17 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-15T12:56:56+00:00"
       },
       {
         "title": "Strait of Hormuz Live Traffic Tracking",
         "link": "https://hormuz.now/",
-        "description": "Article URL: https://hormuz.now/ Comments URL: https://news.ycombinator.com/item?id=49310170 Points: 11 # Comments: 10",
+        "description": "Article URL: https://hormuz.now/ Comments URL: https://news.ycombinator.com/item?id=49310170 Points: 24 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-08-15T12:54:43+00:00"
+      },
+      {
+        "title": "Xorshift Generators",
+        "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+        "description": "Article URL: https://www.alanzucconi.com/2026/08/15/xorshift-generators/ Comments URL: https://news.ycombinator.com/item?id=49310128 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-15T12:47:52+00:00"
+      },
+      {
+        "title": "The Problem",
+        "link": "https://intelligence.org/the-problem/",
+        "description": "Article URL: https://intelligence.org/the-problem/ Comments URL: https://news.ycombinator.com/item?id=49309963 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-15T12:14:17+00:00"
+      },
+      {
+        "title": "T3X/0 a Minimal Procedural Language",
+        "link": "https://t3x.org/t3x/0/index.html",
+        "description": "Article URL: https://t3x.org/t3x/0/index.html Comments URL: https://news.ycombinator.com/item?id=49309923 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-15T12:06:24+00:00"
       },
       {
         "title": "Türk Savunma Sanayisinin Çeyrek Asırlık Devrimi: 100 Milyar Dolarlık Ekosistem",
@@ -59,13 +94,6 @@
         "published": "2026-08-15T11:30:46+00:00"
       },
       {
-        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "link": "https://sankalp.bearblog.dev/autoresearch/",
-        "description": "Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 99 # Comments: 32",
-        "source": "HackerNews",
-        "published": "2026-08-15T11:00:02+00:00"
-      },
-      {
         "title": "ChatGPT Bilgisayar Geçmişinizi Hatırlayabilecek: Computer History Nedir?",
         "link": "https://shiftdelete.net/chatgpt-bilgisayar-gecmisinizi-hatirlayabilecek-computer-history-nedir",
         "description": "OpenAI, ChatGPT için bilgisayar üzerindeki etkinlikleri kaydeden Computer History özelliğini duyurdu. İşte yeni özelliğin detayları ve kısıtlamaları.",
@@ -73,11 +101,25 @@
         "published": "2026-08-15T11:00:00+00:00"
       },
       {
-        "title": "Working with AI Feels More Like Leadership Than Coding",
-        "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "description": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 19 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-08-15T10:39:41+00:00"
+        "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+        "link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+        "description": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of...",
+        "source": "The Verge",
+        "published": "2026-08-15T10:20:33-04:00"
+      },
+      {
+        "title": "I finally found a magnetic phone grip I never want to remove",
+        "link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+        "description": "I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire instead. But...",
+        "source": "The Verge",
+        "published": "2026-08-15T10:16:30-04:00"
+      },
+      {
+        "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
+        "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
+        "description": "With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming,...",
+        "source": "The Verge",
+        "published": "2026-08-15T10:03:14-04:00"
       },
       {
         "title": "Sürücüsüz Kamyonlar Yollarda: Testler Başladı",
@@ -101,13 +143,6 @@
         "published": "2026-08-15T08:00:00+00:00"
       },
       {
-        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-        "link": "https://uecker.codeberg.page/2026-07-14.html",
-        "description": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 42 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-08-15T07:59:42+00:00"
-      },
-      {
         "title": "Snapdragon 8 Gen 6 Pro AnTuTu Test Sonuçları Sızdı",
         "link": "https://shiftdelete.net/snapdragon-8-gen-6-pro-antutu-test-sonuclari-sizdi",
         "description": "Qualcomm'un yeni amiral gemisi Snapdragon 8 Gen 6 Pro, AnTuTu 11 testinde ortaya çıktı. İşte yeni işlemci hakkında öne çıkan detaylar.",
@@ -127,20 +162,6 @@
         "description": "Hyundai, İzmit fabrikasında tamamen elektrikli IONIQ 3 modelinin seri üretimine başladı. Türkiye'nin elektrikli araç üretimindeki yeni dönemi inceleyin.",
         "source": "ShiftDelete",
         "published": "2026-08-15T05:00:00+00:00"
-      },
-      {
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "link": "https://chenxiachan.github.io/thoughtdag/",
-        "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 71 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-08-15T04:42:07+00:00"
-      },
-      {
-        "title": "The other Sean Byrne doesn't exist",
-        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 263 # Comments: 128",
-        "source": "HackerNews",
-        "published": "2026-08-15T04:18:44+00:00"
       },
       {
         "title": "Talks to sell PayPal to Stripe and Advent are heating up",
@@ -318,27 +339,6 @@
         "published": "2026-08-14T14:54:48+00:00"
       },
       {
-        "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
-        "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
-        "description": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith...",
-        "source": "The Verge",
-        "published": "2026-08-14T13:52:11-04:00"
-      },
-      {
-        "title": "Google’s best new camera feature is only for the Pixel 11 series",
-        "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-        "description": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\"...",
-        "source": "The Verge",
-        "published": "2026-08-14T13:35:22-04:00"
-      },
-      {
-        "title": "Mark Zuckerberg has an Instagzam",
-        "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-        "description": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And...",
-        "source": "The Verge",
-        "published": "2026-08-14T12:54:16-04:00"
-      },
-      {
         "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
         "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
         "description": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle....",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "Bonnie Tyler fans line the streets as coffin taken to her Swansea home",
+        "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+        "description": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
+        "source": "BBC News",
+        "published": "2026-08-15T14:06:19+00:00"
+      },
+      {
+        "title": "Jason Arday death 'tragedy on so many levels' says PM",
+        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+        "source": "BBC News",
+        "published": "2026-08-15T13:56:30+00:00"
+      },
+      {
         "title": "Analysis: Arday's death will send shockwaves through a divided academia",
         "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
         "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
@@ -369,25 +383,11 @@
         "published": "2026-08-15T13:35:57+00:00"
       },
       {
-        "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-        "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-        "description": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-        "source": "BBC News",
-        "published": "2026-08-15T13:35:26+00:00"
-      },
-      {
         "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
         "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
         "description": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
         "source": "BBC News",
         "published": "2026-08-15T11:53:19+00:00"
-      },
-      {
-        "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\".",
-        "source": "BBC News",
-        "published": "2026-08-15T11:06:39+00:00"
       },
       {
         "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
@@ -567,6 +567,13 @@
     ],
     "turkiye": [
       {
+        "title": "Ünlü teknik direktörün iki karısı otelde birbirine girdi! Kavgaya dayanamadı hastaneye kaldırıldı",
+        "link": "https://www.sozcu.com.tr/unlu-teknik-direktorun-iki-karisi-otelde-birbirine-girdi-kavgaya-dayanamadi-hastaneye-kaldirildi-p349658",
+        "description": "Ünlü teknik direktörün iki karısı otelde birbirine girdi! Kavgaya dayanamadı hastaneye kaldırıldı",
+        "source": "Sözcü",
+        "published": "2026-08-15T17:06:51+03:00"
+      },
+      {
         "title": "Hafta sonu planı olanlar dikkat! İstanbul'da yarın bu yollar kapalı",
         "link": "https://www.ntv.com.tr/turkiye/hafta-sonu-plani-olanlar-dikkat-istanbulda-yarin-bu-yollar-kapali-1737493",
         "description": "İstanbul'da yarın düzenlenecek triatlon şampiyonası nedeniyle bazı yollar trafiğe kapatılacak.",
@@ -663,13 +670,6 @@
         "description": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Kazada 2 kişi ağır yaralanırken 2 kişi de hayatını kaybetti.",
         "source": "NTV",
         "published": "2026-08-15T15:45:04+03:00"
-      },
-      {
-        "title": "Avrupa'da Beşiktaş ve Trabzonspor maçlarını yönetecek hakemler belli oldu",
-        "link": "https://www.sozcu.com.tr/avrupa-da-besiktas-ve-trabzonspor-maclarini-yonetecek-hakemler-belli-oldu-p349636",
-        "description": "Avrupa'da Beşiktaş ve Trabzonspor maçlarını yönetecek hakemler belli oldu",
-        "source": "Sözcü",
-        "published": "2026-08-15T15:41:10+03:00"
       },
       {
         "title": "14 yıllık cinayetteki sır DNA ile çözüldü. Cani koca parçalara ayırıp yol kenarına atmış",
