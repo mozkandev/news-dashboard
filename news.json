@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T14:21:51.718367+00:00",
+  "updated_at": "2026-08-16T14:48:47.342319+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -8,6 +8,13 @@
         "description": "SpaceX, yapay zeka kodlama girişimi Cursor'ı 60 milyar dolara satın aldı. Şirketler artık SpaceXAI çatısı altında Grok modellerini geliştiriyor.",
         "source": "ShiftDelete",
         "published": "2026-08-16T14:00:00+00:00"
+      },
+      {
+        "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "description": "Article URL: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html Comments URL: https://news.ycombinator.com/item?id=49320144 Points: 7 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-16T13:58:17+00:00"
       },
       {
         "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
@@ -26,30 +33,30 @@
       {
         "title": "Firefox for iOS now has a native adblocker",
         "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-        "description": "Article URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios Comments URL: https://news.ycombinator.com/item?id=49319633 Points: 37 # Comments: 12",
+        "description": "Article URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios Comments URL: https://news.ycombinator.com/item?id=49319633 Points: 84 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-08-16T12:58:10+00:00"
       },
       {
-        "title": "US oil reserves are so low, the caverns holding them could be damaged",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html",
-        "description": "Article URL: https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html Comments URL: https://news.ycombinator.com/item?id=49319566 Points: 30 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-08-16T12:49:56+00:00"
-      },
-      {
         "title": "Claude: System Prompts",
         "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "description": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 81 # Comments: 33",
+        "description": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 117 # Comments: 56",
         "source": "HackerNews",
         "published": "2026-08-16T12:48:21+00:00"
       },
       {
         "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
         "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-        "description": "Article URL: https://scholar.google.com/scholar?q=%22kidney+disappointment%22 Comments URL: https://news.ycombinator.com/item?id=49319389 Points: 70 # Comments: 30",
+        "description": "Article URL: https://scholar.google.com/scholar?q=%22kidney+disappointment%22 Comments URL: https://news.ycombinator.com/item?id=49319389 Points: 95 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-08-16T12:22:20+00:00"
+      },
+      {
+        "title": "A True Telnet BBS on a Casio Calculator",
+        "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+        "description": "Article URL: https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/ Comments URL: https://news.ycombinator.com/item?id=49319349 Points: 8 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-16T12:16:21+00:00"
       },
       {
         "title": "Google Gemini İçin Beklenen Özelliği Getirdi! Filigran Artık Kaldırılabilecek",
@@ -71,13 +78,6 @@
         "description": "Türkiye’de elektrikli otomobillerin sayısı hızla artarken, farklı şehirlerden gelen yangın haberleri de dikkat çekmeye başladı. Son olarak Manisa’nın Akhisar ilçesinde park halindeki bir elektrikli otomobilin alevlere teslim olması, elektrikli araç...",
         "source": "ShiftDelete",
         "published": "2026-08-16T11:00:47+00:00"
-      },
-      {
-        "title": "AI Coding Without the Vibes",
-        "link": "https://peterbloem.nl/blog/craft-coding",
-        "description": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 7 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-08-16T10:31:36+00:00"
       },
       {
         "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
@@ -110,7 +110,7 @@
       {
         "title": "Show HN: Grafana agent observability for Hermes Agent",
         "link": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-        "description": "Article URL: https://github.com/alexander-akhmetov/grafana-agento11y-hermes Comments URL: https://news.ycombinator.com/item?id=49318128 Points: 13 # Comments: 0",
+        "description": "Article URL: https://github.com/alexander-akhmetov/grafana-agento11y-hermes Comments URL: https://news.ycombinator.com/item?id=49318128 Points: 16 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-16T08:40:50+00:00"
       },
@@ -124,7 +124,7 @@
       {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "link": "https://littlelearner-ll.github.io/",
-        "description": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 193 # Comments: 157",
+        "description": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 204 # Comments: 172",
         "source": "HackerNews",
         "published": "2026-08-16T07:37:53+00:00"
       },
@@ -152,7 +152,7 @@
       {
         "title": "Falstad Math and Physics Simulations",
         "link": "https://www.falstad.com/mathphysics.html",
-        "description": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 38 # Comments: 9",
+        "description": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 42 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-08-16T04:19:32+00:00"
       },
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Calls for public inquiry into Jason Arday 'witchhunt'",
+        "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
+        "description": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
+        "source": "BBC News",
+        "published": "2026-08-16T14:22:52+00:00"
+      },
+      {
         "title": "People who fled Stourbridge fires start to return home",
         "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
         "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
@@ -423,13 +430,6 @@
         "description": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
         "source": "BBC News",
         "published": "2026-08-16T02:01:42+00:00"
-      },
-      {
-        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-        "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-        "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
-        "source": "BBC News",
-        "published": "2026-08-16T00:39:22+00:00"
       },
       {
         "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -567,6 +567,13 @@
     ],
     "turkiye": [
       {
+        "title": "2001’de başladılar 2640’ta bitirecekler: Bu konser tam 639 yıl sürecek",
+        "link": "https://www.sozcu.com.tr/2001-de-basladilar-2640-ta-bitirecekler-bu-konser-tam-639-yil-surecek-p349889",
+        "description": "2001’de başladılar 2640’ta bitirecekler: Bu konser tam 639 yıl sürecek",
+        "source": "Sözcü",
+        "published": "2026-08-16T17:33:39+03:00"
+      },
+      {
         "title": "Göllere 33 milyon balık bıraktıklarına pişman oldular",
         "link": "https://www.sozcu.com.tr/gollere-33-milyon-balik-biraktiklarina-pisman-oldular-p349885",
         "description": "Göllere 33 milyon balık bıraktıklarına pişman oldular",
@@ -642,13 +649,6 @@
         "description": "Tutuklanan Alihan Kuriş'in lideri olduğu grup tarafından Almanya'nın Köln kentinde inşası devam eden 70 milyon euro'luk genel merkez görüntülendi.",
         "source": "NTV",
         "published": "2026-08-16T14:58:36+03:00"
-      },
-      {
-        "title": "Nakşibendi tarikatının önde gelen ismi otomobiliyle kamyonun altında kaldı",
-        "link": "https://www.sozcu.com.tr/naksibendi-tarikatinin-onde-gelen-ismi-otomobiliyle-kamyonun-altinda-kaldi-p349867",
-        "description": "Nakşibendi tarikatının önde gelen ismi otomobiliyle kamyonun altında kaldı",
-        "source": "Sözcü",
-        "published": "2026-08-16T14:52:55+03:00"
       },
       {
         "title": "1.800 kilometrelik tren hattı ülkenin kaderini değiştirecek",
