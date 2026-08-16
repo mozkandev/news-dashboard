@@ -1,18 +1,32 @@
 {
-  "updated_at": "2026-08-16T21:49:24.282356+00:00",
+  "updated_at": "2026-08-16T22:19:45.776249+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "description": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 7 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-16T21:53:43+00:00"
+      },
+      {
+        "title": "Claude Seems Down",
+        "link": "https://news.ycombinator.com/item?id=49324078",
+        "description": "Throwing \"Authentication service was unavailable.\", no updates on their status page, but there are on downdetector Comments URL: https://news.ycombinator.com/item?id=49324078 Points: 17 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-08-16T21:52:59+00:00"
+      },
+      {
         "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
         "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-        "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 5 # Comments: 0",
+        "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 21 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-08-16T21:07:10+00:00"
       },
       {
         "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
         "link": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
-        "description": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/ Comments URL: https://news.ycombinator.com/item?id=49323620 Points: 8 # Comments: 2",
+        "description": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/ Comments URL: https://news.ycombinator.com/item?id=49323620 Points: 20 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-16T21:00:25+00:00"
       },
@@ -26,7 +40,7 @@
       {
         "title": "The Case Against Formal Verification, 50 Years Later",
         "link": "https://ivan-gavran.github.io/0-social-processes-paper",
-        "description": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 29 # Comments: 20",
+        "description": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 46 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-08-16T20:38:58+00:00"
       },
@@ -40,9 +54,16 @@
       {
         "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
         "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 36 # Comments: 24",
+        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 61 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-08-16T20:31:16+00:00"
+      },
+      {
+        "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+        "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+        "description": "Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener Comments URL: https://news.ycombinator.com/item?id=49323256 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-16T20:16:30+00:00"
       },
       {
         "title": "Windows 11 Üzerindeki Ubuntu Kullanımı Rekor Seviyeye Ulaşıyor",
@@ -54,7 +75,7 @@
       {
         "title": "Models Are Getting Dumber on Purpose",
         "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "description": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 167 # Comments: 106",
+        "description": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 184 # Comments: 117",
         "source": "HackerNews",
         "published": "2026-08-16T19:04:26+00:00"
       },
@@ -68,14 +89,14 @@
       {
         "title": "Protobuf has LSP support. You're welcome",
         "link": "https://buf.build/blog/protobuf-lsp",
-        "description": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 64 # Comments: 34",
+        "description": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 72 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-08-16T18:48:27+00:00"
       },
       {
         "title": "MathCode, Mathematical Coding Agent",
         "link": "https://math-ai-org.github.io/mathcode/",
-        "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 35 # Comments: 11",
+        "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 39 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-16T18:17:10+00:00"
       },
@@ -87,25 +108,11 @@
         "published": "2026-08-16T18:00:00+00:00"
       },
       {
-        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-        "link": "https://news.ycombinator.com/item?id=49322107",
-        "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the...",
-        "source": "HackerNews",
-        "published": "2026-08-16T17:49:46+00:00"
-      },
-      {
         "title": "OpenAI reportedly disbanded its preparedness team",
         "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
         "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility...",
         "source": "The Verge",
         "published": "2026-08-16T17:32:56-04:00"
-      },
-      {
-        "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-        "link": "https://rvembedded.com/blog_post/12/",
-        "description": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 241 # Comments: 126",
-        "source": "HackerNews",
-        "published": "2026-08-16T17:01:07+00:00"
       },
       {
         "title": "Yapay Zeka Bir Çalışanı İşten Çıkardı: İlginç Deney Şaşırttı",
@@ -127,13 +134,6 @@
         "description": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open...",
         "source": "The Verge",
         "published": "2026-08-16T16:31:37-04:00"
-      },
-      {
-        "title": "NIH is ending a key grant for budding clinical researchers",
-        "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-        "description": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 116 # Comments: 60",
-        "source": "HackerNews",
-        "published": "2026-08-16T16:14:55+00:00"
       },
       {
         "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
@@ -567,18 +567,39 @@
     ],
     "turkiye": [
       {
-        "title": "Trump'tan üçlü savunma anlaşması yorumu: Cesur ve önemli bir adım",
-        "link": "https://www.sozcu.com.tr/donald-trump-tan-mekke-anlasmasi-aciklamasi-p349954",
-        "description": "Trump'tan üçlü savunma anlaşması yorumu: Cesur ve önemli bir adım",
+        "title": "PSG'ye Süper Kupa'da soğuk duş! Lens'ten büyük sürpriz",
+        "link": "https://www.sozcu.com.tr/psg-ye-super-kupa-da-soguk-dus-lens-ten-buyuk-surpriz-p349965",
+        "description": "PSG'ye Süper Kupa'da soğuk duş! Lens'ten büyük sürpriz",
         "source": "Sözcü",
-        "published": "2026-08-17T00:40:40+03:00"
+        "published": "2026-08-17T01:15:23+03:00"
+      },
+      {
+        "title": "Italiano'dan özeleştiri! 'Hızlıca çözmemiz gerekiyor'",
+        "link": "https://www.sozcu.com.tr/italiano-dan-ozelestiri-hizlica-cozmemiz-gerekiyor-p349964",
+        "description": "Italiano'dan özeleştiri! 'Hızlıca çözmemiz gerekiyor'",
+        "source": "Sözcü",
+        "published": "2026-08-17T01:12:20+03:00"
+      },
+      {
+        "title": "Dalgalar mavi ışık saçmaya başladı",
+        "link": "https://www.sozcu.com.tr/dalgalar-mavi-isik-sacmaya-basladi-p349961",
+        "description": "Dalgalar mavi ışık saçmaya başladı",
+        "source": "Sözcü",
+        "published": "2026-08-17T01:07:31+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-agustos-2026-1737642",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-17T00:30:00+03:00"
+        "published": "2026-08-17T01:00:00+03:00"
+      },
+      {
+        "title": "Trump'tan üçlü savunma anlaşması yorumu: Cesur ve önemli bir adım",
+        "link": "https://www.sozcu.com.tr/donald-trump-tan-mekke-anlasmasi-aciklamasi-p349954",
+        "description": "Trump'tan üçlü savunma anlaşması yorumu: Cesur ve önemli bir adım",
+        "source": "Sözcü",
+        "published": "2026-08-17T00:40:40+03:00"
       },
       {
         "title": "Flört uygulamasından tanışıp yemeğe çıktı, gelen hesabı görünce şoke oldu",
@@ -616,32 +637,11 @@
         "published": "2026-08-16T23:29:46+03:00"
       },
       {
-        "title": "Transferde kriz çıktı! Ederson Fenerbahçe'de kalıyor",
-        "link": "https://www.sozcu.com.tr/juventustan-edersona-surpriz-hamle-rotayi-degistirdi-p349941",
-        "description": "Transferde kriz çıktı! Ederson Fenerbahçe'de kalıyor",
-        "source": "Sözcü",
-        "published": "2026-08-16T23:01:24+03:00"
-      },
-      {
         "title": "Sağanak 5 ili vurdu: Evler su altında, yollar göle döndü",
         "link": "https://www.sozcu.com.tr/bircok-ilde-saganak-16-agustos-2026-p349942",
         "description": "Sağanak 5 ili vurdu: Evler su altında, yollar göle döndü",
         "source": "Sözcü",
         "published": "2026-08-16T22:54:42+03:00"
-      },
-      {
-        "title": "34 bin dönümlük alandaki ağaçları tek tek kesecekler",
-        "link": "https://www.sozcu.com.tr/34-bin-donumluk-alandaki-agaclari-tek-tek-kesecekler-p349938",
-        "description": "34 bin dönümlük alandaki ağaçları tek tek kesecekler",
-        "source": "Sözcü",
-        "published": "2026-08-16T22:42:20+03:00"
-      },
-      {
-        "title": "Arda asist yaptı Real Madrid rahat kazandı",
-        "link": "https://www.sozcu.com.tr/real-madrid-schalke-04u-30-maglup-etti-arda-gulerden-asist-p349935",
-        "description": "Arda asist yaptı Real Madrid rahat kazandı",
-        "source": "Sözcü",
-        "published": "2026-08-16T22:16:58+03:00"
       },
       {
         "title": "Türk savaş uçakları, Romanya'daki NATO Entegre Hava ve Füze Savunması faaliyetine katıldı",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8647
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+85°F",
-    "wind": "↓8mph",
-    "humidity": "63%"
+    "condition": "Güneşli",
+    "temp": "+103°F",
+    "wind": "→7mph",
+    "humidity": "18%"
   }
 }
