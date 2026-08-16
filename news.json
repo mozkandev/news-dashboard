@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T19:24:42.246161+00:00",
+  "updated_at": "2026-08-16T19:43:55.954130+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -10,9 +10,16 @@
         "published": "2026-08-16T19:00:00+00:00"
       },
       {
+        "title": "Protobuf has LSP support. You're welcome",
+        "link": "https://buf.build/blog/protobuf-lsp",
+        "description": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 6 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-16T18:48:27+00:00"
+      },
+      {
         "title": "MathCode, Mathematical Coding Agent",
         "link": "https://math-ai-org.github.io/mathcode/",
-        "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 10 # Comments: 1",
+        "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 12 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-16T18:17:10+00:00"
       },
@@ -33,7 +40,7 @@
       {
         "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
         "link": "https://rvembedded.com/blog_post/12/",
-        "description": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 134 # Comments: 45",
+        "description": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 146 # Comments: 66",
         "source": "HackerNews",
         "published": "2026-08-16T17:01:07+00:00"
       },
@@ -54,7 +61,7 @@
       {
         "title": "NIH is ending a key grant for budding clinical researchers",
         "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-        "description": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 70 # Comments: 25",
+        "description": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 77 # Comments: 30",
         "source": "HackerNews",
         "published": "2026-08-16T16:14:55+00:00"
       },
@@ -75,7 +82,7 @@
       {
         "title": "The weekend is 100 years old",
         "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-        "description": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 106 # Comments: 68",
+        "description": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 111 # Comments: 67",
         "source": "HackerNews",
         "published": "2026-08-16T15:30:15+00:00"
       },
@@ -103,14 +110,14 @@
       {
         "title": "GPS and the Lost Art of Getting Lost",
         "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-        "description": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 47 # Comments: 38",
+        "description": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 49 # Comments: 44",
         "source": "HackerNews",
         "published": "2026-08-16T14:53:14+00:00"
       },
       {
         "title": "The AI Credit Resale Economy",
         "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 162 # Comments: 63",
+        "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 164 # Comments: 63",
         "source": "HackerNews",
         "published": "2026-08-16T14:44:55+00:00"
       },
@@ -134,13 +141,6 @@
         "description": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-16T13:30:27+00:00"
-      },
-      {
-        "title": "Show HN: A public AI whose memory is shared across all users",
-        "link": "https://wildstatic.com/",
-        "description": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 58 # Comments: 36",
-        "source": "HackerNews",
-        "published": "2026-08-16T13:21:45+00:00"
       },
       {
         "title": "Claude İçerikleri Gizlice İşaretlenecek! Anthropic Sistemin Nasıl Çalıştığını Açıkladı",
@@ -567,6 +567,13 @@
     ],
     "turkiye": [
       {
+        "title": "34 bin dönümlük alandaki ağaçları tek tek kesecekler",
+        "link": "https://www.sozcu.com.tr/34-bin-donumluk-alandaki-agaclari-tek-tek-kesecekler-p349938",
+        "description": "34 bin dönümlük alandaki ağaçları tek tek kesecekler",
+        "source": "Sözcü",
+        "published": "2026-08-16T22:42:20+03:00"
+      },
+      {
         "title": "Arda asist yaptı Real Madrid rahat kazandı",
         "link": "https://www.sozcu.com.tr/real-madrid-schalke-04u-30-maglup-etti-arda-gulerden-asist-p349935",
         "description": "Arda asist yaptı Real Madrid rahat kazandı",
@@ -642,13 +649,6 @@
         "description": "Başakşehir'den 3 puanlı başlangıç",
         "source": "Sözcü",
         "published": "2026-08-16T20:56:36+03:00"
-      },
-      {
-        "title": "ABD askerini yakalayana 30 bin dolar ödül verecekler: Kadınlara iki katı ödenecek",
-        "link": "https://www.sozcu.com.tr/abd-askerini-yakalayana-30-bin-dolar-odul-verecekler-kadinlara-iki-kati-odenecek-p349917",
-        "description": "ABD askerini yakalayana 30 bin dolar ödül verecekler: Kadınlara iki katı ödenecek",
-        "source": "Sözcü",
-        "published": "2026-08-16T20:38:11+03:00"
       },
       {
         "title": "Gülistan Doku soruşturmasında yeni ayrıntılar. \"Karanlık bir ilişki ağı kurmuş\"",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8647
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+78°F",
-    "wind": "→2mph",
-    "humidity": "43%"
+    "condition": "Patchy rain nearby",
+    "temp": "+82°F",
+    "wind": "↓5mph",
+    "humidity": "69%"
   }
 }
