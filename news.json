@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T15:24:02.926207+00:00",
+  "updated_at": "2026-08-17T15:49:44.733750+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -43,6 +43,20 @@
         "description": "Giderek artan RAM ve depolama krizi yüzünden Asya pazarına hâkim olan pek çok telefon üreticisi \"Ultra\" model telefonların üretimini durduracak gibi görünüyor.",
         "source": "Webtekno",
         "published": "2026-08-17T16:42:51+03:00"
+      },
+      {
+        "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+        "link": "https://news.ycombinator.com/item?id=49332751",
+        "description": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://youtu.be/no2LY2gRh-c...",
+        "source": "HackerNews",
+        "published": "2026-08-17T15:36:18+00:00"
+      },
+      {
+        "title": "Ask HN: GitHub employees what's going on? Why?",
+        "link": "https://news.ycombinator.com/item?id=49332495",
+        "description": "Pretty self explanatory. Could you folks shed some light on why these issues keep happening? I’ve noticed most posts and replies are just people coming to their own conclusions based on whatever published data. I think it would be helpful to get...",
+        "source": "HackerNews",
+        "published": "2026-08-17T15:19:31+00:00"
       },
       {
         "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -101,30 +115,37 @@
         "published": "2026-08-17T14:30:34+00:00"
       },
       {
-        "title": "Human Interface Guidelines from various platforms",
-        "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-        "description": "Article URL: https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/ Comments URL: https://news.ycombinator.com/item?id=49331621 Points: 6 # Comments: 0",
+        "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+        "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+        "description": "Article URL: https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu Comments URL: https://news.ycombinator.com/item?id=49331607 Points: 16 # Comments: 4",
         "source": "HackerNews",
-        "published": "2026-08-17T14:29:56+00:00"
+        "published": "2026-08-17T14:29:18+00:00"
       },
       {
         "title": "Show HN: Eve Software Factory",
         "link": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
-        "description": "Build a software factory in minutes with this free OSS template Comments URL: https://news.ycombinator.com/item?id=49331599 Points: 3 # Comments: 0",
+        "description": "Build a software factory in minutes with this free OSS template Comments URL: https://news.ycombinator.com/item?id=49331599 Points: 6 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-08-17T14:28:49+00:00"
       },
       {
+        "title": "The only known trebuchet casualty in history",
+        "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+        "description": "Article URL: https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/ Comments URL: https://news.ycombinator.com/item?id=49331555 Points: 18 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-17T14:26:19+00:00"
+      },
+      {
         "title": "How to put 170 atoms in an atom",
         "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-        "description": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/ Comments URL: https://news.ycombinator.com/item?id=49331474 Points: 12 # Comments: 0",
+        "description": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/ Comments URL: https://news.ycombinator.com/item?id=49331474 Points: 30 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-17T14:21:25+00:00"
       },
       {
         "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
         "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "description": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 34 # Comments: 12",
+        "description": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 60 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-08-17T14:18:38+00:00"
       },
@@ -136,32 +157,25 @@
         "published": "2026-08-17T14:15:05+03:00"
       },
       {
+        "title": "Show HN: Learn Flags Quiz",
+        "link": "https://flagquizzes.com/",
+        "description": "Article URL: https://flagquizzes.com/ Comments URL: https://news.ycombinator.com/item?id=49331288 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-17T14:11:17+00:00"
+      },
+      {
         "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
         "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-        "description": "Article URL: https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html Comments URL: https://news.ycombinator.com/item?id=49331222 Points: 84 # Comments: 22",
+        "description": "Article URL: https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html Comments URL: https://news.ycombinator.com/item?id=49331222 Points: 119 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-08-17T14:07:59+00:00"
       },
       {
         "title": "How to disable or avoid intrusive AI",
         "link": "https://www.librarian.net/notoai/",
-        "description": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 24 # Comments: 8",
+        "description": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 44 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-08-17T14:07:56+00:00"
-      },
-      {
-        "title": "Ask HN: Alternatives to GitHub",
-        "link": "https://news.ycombinator.com/item?id=49331033",
-        "description": "Github has been down consistently over the last few months - does it make sense to switch to alternatives? Comments URL: https://news.ycombinator.com/item?id=49331033 Points: 102 # Comments: 63",
-        "source": "HackerNews",
-        "published": "2026-08-17T13:59:17+00:00"
-      },
-      {
-        "title": "How to ship a database every day",
-        "link": "https://turbopuffer.com/blog/control-plane",
-        "description": "Article URL: https://turbopuffer.com/blog/control-plane Comments URL: https://news.ycombinator.com/item?id=49330978 Points: 6 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-17T13:56:38+00:00"
       },
       {
         "title": "Gamescom Nasıl Oldu da Dünyanın En Büyük Oyun Fuarı Hâline Geldi?",
@@ -169,20 +183,6 @@
         "description": "Bugün dünyanın en büyük oyun fuarı olan Gamescom, bugünlere nasıl geldi? Geçmişteki büyük oyun fuarlarına ne oldu?",
         "source": "Webtekno",
         "published": "2026-08-17T13:48:54+03:00"
-      },
-      {
-        "title": "A Preview of DuckDB v2.0",
-        "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-        "description": "Article URL: https://duckdb.org/2026/08/17/duckdb-20-highlights Comments URL: https://news.ycombinator.com/item?id=49330781 Points: 87 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-08-17T13:46:27+00:00"
-      },
-      {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-        "description": "Article URL: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/ Comments URL: https://news.ycombinator.com/item?id=49330742 Points: 61 # Comments: 57",
-        "source": "HackerNews",
-        "published": "2026-08-17T13:44:23+00:00"
       },
       {
         "title": "WhatsApp Sohbet Listesine Medya Önizlemeleri Getiriyor",
@@ -255,6 +255,13 @@
         "published": "2026-08-17T11:30:39+00:00"
       },
       {
+        "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
+        "link": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
+        "description": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps...",
+        "source": "The Verge",
+        "published": "2026-08-17T11:25:55-04:00"
+      },
+      {
         "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
         "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
         "description": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music...",
@@ -302,13 +309,6 @@
         "description": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the...",
         "source": "The Verge",
         "published": "2026-08-17T07:40:52-04:00"
-      },
-      {
-        "title": "Amazon is trying to crush class action suits before they get started",
-        "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-        "description": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed...",
-        "source": "The Verge",
-        "published": "2026-08-17T05:39:17-04:00"
       },
       {
         "title": "OpenAI reportedly disbanded its preparedness team",
@@ -567,18 +567,46 @@
     ],
     "turkiye": [
       {
-        "title": "Galatasaray, Bruno Fernandes için gözünü kararttı! Teklif ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/galatasaray-bruno-fernandes-icin-gozunu-karartti-teklif-ortaya-cikti-p350234",
-        "description": "Galatasaray, Bruno Fernandes için gözünü kararttı! Teklif ortaya çıktı",
+        "title": "Dört suç örgütüne darbe. 818 şüphelinin mal varlığına el konuldu",
+        "link": "https://www.ntv.com.tr/turkiye/yeni-nesil-4-suc-orgutune-mali-tedbir-karari-1737755",
+        "description": "Adalet Bakanı Akın Gürlek, 4 suç örgütünden 818 şüphelinin banka ve kripto hesaplarına el konulduğunu açıkladı.",
+        "source": "NTV",
+        "published": "2026-08-17T18:47:21+03:00"
+      },
+      {
+        "title": "Dev otomobil firması 955 bin aracı geri çağırdı",
+        "link": "https://www.sozcu.com.tr/dev-otomobil-firmasi-955-bin-araci-geri-cagirdi-p350241",
+        "description": "Dev otomobil firması 955 bin aracı geri çağırdı",
         "source": "Sözcü",
-        "published": "2026-08-17T18:14:40+03:00"
+        "published": "2026-08-17T18:43:30+03:00"
+      },
+      {
+        "title": "Fenomenin dalışı kabusa döndü: 2 metrelik köpek balığı saldırdı",
+        "link": "https://www.sozcu.com.tr/brezilyali-fenomene-kopekbaligi-saldirisi-p350240",
+        "description": "Fenomenin dalışı kabusa döndü: 2 metrelik köpek balığı saldırdı",
+        "source": "Sözcü",
+        "published": "2026-08-17T18:40:33+03:00"
       },
       {
         "title": "Sadettin Saran'ın ilk hamlesiydi! Aziz Yıldırım gönderiyor",
         "link": "https://www.sozcu.com.tr/fenerbahcede-anthony-musaba-ayriligi-norwich-cityye-kiralaniyor-p350235",
         "description": "Sadettin Saran'ın ilk hamlesiydi! Aziz Yıldırım gönderiyor",
         "source": "Sözcü",
-        "published": "2026-08-17T18:13:23+03:00"
+        "published": "2026-08-17T18:31:37+03:00"
+      },
+      {
+        "title": "AKP'li Leyla Şahin Usta trafik kazası geçirdi, hastaneye kaldırıldı",
+        "link": "https://www.sozcu.com.tr/akpli-leyla-sahin-usta-trafik-kazasi-gecirdi-hastaneye-kaldirildi-p350237",
+        "description": "AKP'li Leyla Şahin Usta trafik kazası geçirdi, hastaneye kaldırıldı",
+        "source": "Sözcü",
+        "published": "2026-08-17T18:21:55+03:00"
+      },
+      {
+        "title": "Galatasaray, Bruno Fernandes için gözünü kararttı! Teklif ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/galatasaray-bruno-fernandes-icin-gozunu-karartti-teklif-ortaya-cikti-p350234",
+        "description": "Galatasaray, Bruno Fernandes için gözünü kararttı! Teklif ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-08-17T18:14:40+03:00"
       },
       {
         "title": "1,8 trilyon parça çöp dev bir alanı kapladı: Ağırlığı 100 bin tonu buluyor",
@@ -616,13 +644,6 @@
         "published": "2026-08-17T17:50:45+03:00"
       },
       {
-        "title": "Boşanma sürecindeki eşini darbeden polis memuru o ifadeler sonrası tahliye edildi",
-        "link": "https://www.sozcu.com.tr/bosanma-davasi-acan-esini-darbeden-polis-memuru-tahliye-edildi-p350225",
-        "description": "Boşanma sürecindeki eşini darbeden polis memuru o ifadeler sonrası tahliye edildi",
-        "source": "Sözcü",
-        "published": "2026-08-17T17:44:23+03:00"
-      },
-      {
         "title": "Çocuğu tribünden kurtaran polis anlattı. Fenerbahçeli miniğin sorusu yürek parçaladı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-cocugu-tribunden-kurtaran-polis-anlatti-fenerbahceli-minigin-sorusu-yurek-parcaladi-1737735",
         "description": "Gençlerbirliği - Fenerbahçe maçında bir holiganın tepkisiyle karşılaşan küçük çocuğu güvenli bir alana götüren Komiser Yardımcısı Uğur Yurduseven, o an yaşadıklarını anlattı.",
@@ -635,20 +656,6 @@
         "description": "Nehre 50 bin tondan fazla çakıl döktüler",
         "source": "Sözcü",
         "published": "2026-08-17T17:29:27+03:00"
-      },
-      {
-        "title": "Sakın işyerinde bu kelimeyi kullanmayın: Meğer istifa sayılıyormuş",
-        "link": "https://www.sozcu.com.tr/sakin-isyerinde-bu-kelimeyi-kullanmayin-meger-istifa-sayiliyormus-p350226",
-        "description": "Sakın işyerinde bu kelimeyi kullanmayın: Meğer istifa sayılıyormuş",
-        "source": "Sözcü",
-        "published": "2026-08-17T17:23:57+03:00"
-      },
-      {
-        "title": "Yunan basını: Türkiye Ege Denizi'ni ikiye bölmeye hazırlanıyor",
-        "link": "https://www.sozcu.com.tr/yunan-basini-turkiye-ege-denizi-ni-ikiye-bolmeye-hazirlaniyor-p350223",
-        "description": "Yunan basını: Türkiye Ege Denizi'ni ikiye bölmeye hazırlanıyor",
-        "source": "Sözcü",
-        "published": "2026-08-17T17:17:02+03:00"
       },
       {
         "title": "Afrika ve Basra sıcakları geliyor. AKOM gün vererek uyardı, 36 dereceye çıkacak",
@@ -677,6 +684,13 @@
         "description": "İstanbul Büyükşehir Belediye Başkanı'yken tutuklanıp görevden alınan Ekrem İmamoğlu dahil 414 kişinin yargılandığı İBB davası bugün devam etti.",
         "source": "NTV",
         "published": "2026-08-17T16:42:15+03:00"
+      },
+      {
+        "title": "Trump İran konusunda 'engel çıkarırsa' Umman'ı bombalamakla tehdit etti",
+        "link": "https://www.bbc.com/turkce/articles/cdx7740dv4ro?at_medium=RSS&at_campaign=rss",
+        "description": "İran, ABD-İran savaşının başlangıcındaki bir askeri operasyon sırasında iki savaş uçağının Katar hava savunma sistemleri tarafından vurulmasının ardından esir alındığını söylediği üç pilotun serbest bırakılmasını istedi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-17T15:38:06+00:00"
       },
       {
         "title": "Kayseri'de korkunç olay: Çektiği video ile cinayeti böyle itiraf etti",
@@ -712,13 +726,6 @@
         "description": "Hakkındaki yolsuzluk soruşturması nedeniyle tutuklanan Menderes Belediye Başkanı İlkay Çiçek'in görevden uzaklaştırılmasının ardından yapılan belediye başkan vekili seçimini AKP'nin adayı Asuman Şen kazandı.",
         "source": "BBC Turkish",
         "published": "2026-08-17T12:57:14+00:00"
-      },
-      {
-        "title": "Robot garson, müşterilerin ilgi odağı oldu: Zam isteyip izin peşinde koşuyor",
-        "link": "https://www.ntv.com.tr/turkiye/video-robot-garson-musterilerin-ilgi-odagi-oldu-zam-isteyip-izin-pesinde-kosuyor-1737716",
-        "description": "Ankara’da bir restoranda görev yapan Fiko isimli robot garson, müşterilerin ilgi odağı oldu. Maaşı ve haftada bir gün izin hakkı bulunan robot, patronundan zam talep etmesiyle de dikkat çekiyor.",
-        "source": "NTV",
-        "published": "2026-08-17T12:51:15+03:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan'dan 17 Ağustos paylaşımı",
@@ -768,13 +775,6 @@
         "description": "Avrupa Birliği'nin (AB) vize muafiyeti uyguladığı ülkeler arasında yer almak isteyen Türkiye, kalan son altı kriteri karşılamak için geçtiğimiz günlerde bakanlıklar arasında çalışma başlattı. Brüksel'den Güven Özalp'in haberi",
         "source": "BBC Turkish",
         "published": "2026-08-17T03:10:25+00:00"
-      },
-      {
-        "title": "17 Ağustos Depremi: 1999 ve sonrasında neler yaşandı, kaç kişi hayatını kaybetti?",
-        "link": "https://www.bbc.com/turkce/articles/cvg4d4jlvgpo?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye'nin yakın tarihinin en büyük felaketi olarak gösterilen 17 Ağustos Depremi'nin üzerinden 25 yıl geçti. 1999 yılında 16 Ağustos'u 17 Ağustos'a bağlayan gece meydana gelen 7,4 büyüklüğündeki yer sarsıntısı, Türkiye tarihinin en büyük ikinci...",
-        "source": "BBC Turkish",
-        "published": "2026-08-17T03:08:52+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8642
   },
   "weather": {
-    "condition": "Yer yer hafif yağmurlu",
-    "temp": "+82°F",
-    "wind": "↑21mph",
-    "humidity": "73%"
+    "condition": "Güneşli",
+    "temp": "+86°F",
+    "wind": "→30mph",
+    "humidity": "30%"
   }
 }
