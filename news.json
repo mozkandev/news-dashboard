@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T16:26:18.875804+00:00",
+  "updated_at": "2026-08-17T16:56:05.378545+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -45,6 +45,13 @@
         "published": "2026-08-17T16:42:51+03:00"
       },
       {
+        "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+        "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+        "source": "TechCrunch",
+        "published": "2026-08-17T16:38:44+00:00"
+      },
+      {
         "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
         "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
         "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
@@ -59,15 +66,15 @@
         "published": "2026-08-17T16:00:00+00:00"
       },
       {
-        "title": "Universal Health Coverage Could Save $1T and 114,000 Lives a Year, Yale Study",
+        "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
         "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-        "description": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/ Comments URL: https://news.ycombinator.com/item?id=49332981 Points: 87 # Comments: 53",
+        "description": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/ Comments URL: https://news.ycombinator.com/item?id=49332981 Points: 194 # Comments: 239",
         "source": "HackerNews",
         "published": "2026-08-17T15:49:57+00:00"
       },
       {
         "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-        "link": "https://news.ycombinator.com/item?id=49332751",
+        "link": "https://speko.ai/",
         "description": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://youtu.be/no2LY2gRh-c...",
         "source": "HackerNews",
         "published": "2026-08-17T15:36:18+00:00"
@@ -129,16 +136,16 @@
         "published": "2026-08-17T14:30:34+00:00"
       },
       {
-        "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
-        "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
-        "description": "Article URL: https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu Comments URL: https://news.ycombinator.com/item?id=49331607 Points: 27 # Comments: 16",
+        "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+        "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+        "description": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/ Comments URL: https://news.ycombinator.com/item?id=49331625 Points: 25 # Comments: 25",
         "source": "HackerNews",
-        "published": "2026-08-17T14:29:18+00:00"
+        "published": "2026-08-17T14:30:09+00:00"
       },
       {
         "title": "The only known trebuchet casualty in history",
         "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-        "description": "Article URL: https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/ Comments URL: https://news.ycombinator.com/item?id=49331555 Points: 25 # Comments: 5",
+        "description": "Article URL: https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/ Comments URL: https://news.ycombinator.com/item?id=49331555 Points: 30 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-17T14:26:19+00:00"
       },
@@ -152,14 +159,14 @@
       {
         "title": "How to put 170 atoms in an atom",
         "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-        "description": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/ Comments URL: https://news.ycombinator.com/item?id=49331474 Points: 38 # Comments: 4",
+        "description": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/ Comments URL: https://news.ycombinator.com/item?id=49331474 Points: 42 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-08-17T14:21:25+00:00"
       },
       {
-        "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "description": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 84 # Comments: 35",
+        "description": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 110 # Comments: 46",
         "source": "HackerNews",
         "published": "2026-08-17T14:18:38+00:00"
       },
@@ -173,21 +180,21 @@
       {
         "title": "Show HN: Learn Flags Quiz",
         "link": "https://flagquizzes.com/",
-        "description": "Article URL: https://flagquizzes.com/ Comments URL: https://news.ycombinator.com/item?id=49331288 Points: 11 # Comments: 1",
+        "description": "Article URL: https://flagquizzes.com/ Comments URL: https://news.ycombinator.com/item?id=49331288 Points: 15 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-08-17T14:11:17+00:00"
       },
       {
         "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
         "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-        "description": "Article URL: https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html Comments URL: https://news.ycombinator.com/item?id=49331222 Points: 157 # Comments: 53",
+        "description": "Article URL: https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html Comments URL: https://news.ycombinator.com/item?id=49331222 Points: 167 # Comments: 57",
         "source": "HackerNews",
         "published": "2026-08-17T14:07:59+00:00"
       },
       {
         "title": "How to disable or avoid intrusive AI",
         "link": "https://www.librarian.net/notoai/",
-        "description": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 60 # Comments: 15",
+        "description": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 81 # Comments: 25",
         "source": "HackerNews",
         "published": "2026-08-17T14:07:56+00:00"
       },
@@ -248,11 +255,39 @@
         "published": "2026-08-17T12:45:45+00:00"
       },
       {
+        "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
+        "link": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
+        "description": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld...",
+        "source": "The Verge",
+        "published": "2026-08-17T12:40:32-04:00"
+      },
+      {
+        "title": "Sonos finally added Live Activities controls for your iPhone lock screen",
+        "link": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+        "description": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lock screen. The added functionality is a \"much requested, anticipated, and needed...",
+        "source": "The Verge",
+        "published": "2026-08-17T12:38:35-04:00"
+      },
+      {
         "title": "Intel, Panther Lake ile Uygun Fiyatlı El Konsollarını Hedefliyor",
         "link": "https://shiftdelete.net/intel-panther-lake-ile-uygun-fiyatli-el-konsollarini-hedefliyor",
         "description": "Intel, giriş seviyesi oyun el konsolları için 4+0+4+4 yapılandırmalı yeni Panther Lake işlemcisi geliştiriyor. Uygun fiyatlı cihazlar için oyun pazarı değişiyor.",
         "source": "ShiftDelete",
         "published": "2026-08-17T12:30:46+00:00"
+      },
+      {
+        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+        "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+        "description": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag...",
+        "source": "The Verge",
+        "published": "2026-08-17T12:28:40-04:00"
+      },
+      {
+        "title": "Trump’s dumb border wall",
+        "link": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
+        "description": "About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"grandmother\" tree, as some...",
+        "source": "The Verge",
+        "published": "2026-08-17T12:17:10-04:00"
       },
       {
         "title": "LG ve Nvidia 2027’de İnsansı Robot Tanıtacak",
@@ -290,13 +325,6 @@
         "published": "2026-08-17T09:35:41-04:00"
       },
       {
-        "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
-        "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-        "description": "\"Breakups are… tough.\" It's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open...",
-        "source": "The Verge",
-        "published": "2026-08-17T09:21:34-04:00"
-      },
-      {
         "title": "How to take better photos of your pets",
         "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
         "description": "Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos taken a lot. Between their Instagram account, my...",
@@ -304,25 +332,11 @@
         "published": "2026-08-17T08:27:14-04:00"
       },
       {
-        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-        "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-        "description": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag...",
-        "source": "The Verge",
-        "published": "2026-08-17T07:50:21-04:00"
-      },
-      {
         "title": "Anthropic explains how Claude’s invisible text watermarks will work",
         "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
         "description": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the...",
         "source": "The Verge",
         "published": "2026-08-17T07:40:52-04:00"
-      },
-      {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility...",
-        "source": "The Verge",
-        "published": "2026-08-17T05:21:20-04:00"
       },
       {
         "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -337,29 +351,29 @@
         "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
         "source": "TechCrunch",
         "published": "2026-08-16T20:32:01+00:00"
-      },
-      {
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-        "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-        "source": "TechCrunch",
-        "published": "2026-08-16T16:53:51+00:00"
-      },
-      {
-        "title": "I’m hooked on Peak Design’s new City bags",
-        "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
-        "description": "It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags levitated...",
-        "source": "The Verge",
-        "published": "2026-08-14T08:01:52-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Labour MP suspended as party launches investigation into Covid loans",
-        "link": "https://www.bbc.co.uk/news/articles/c5y34gm7rp0o?at_medium=RSS&at_campaign=rss",
-        "description": "Alaba has said he took out two taxpayer-funded loans during the pandemic but insisted he had not tried to avoid paying the money back.",
+        "title": "Boy, seven, among four injured after crash in Ireland that killed five teenagers",
+        "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+        "description": "A car in which the five teenagers were travelling in was going the wrong way down a motorway in County Kildare.",
         "source": "BBC News",
-        "published": "2026-08-17T16:08:10+00:00"
+        "published": "2026-08-17T16:47:45+00:00"
+      },
+      {
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "description": "The US and Oman have been working separately to reopen the Strait of Hormuz, one of the world's busiest oil shipping routes.",
+        "source": "BBC News",
+        "published": "2026-08-17T16:26:34+00:00"
+      },
+      {
+        "title": "Princess Eugenie announces name of baby daughter",
+        "link": "https://www.bbc.co.uk/news/articles/cn4nkww841xo?at_medium=RSS&at_campaign=rss",
+        "description": "The couple's third child was born earlier this month at a hospital in Lisbon, Portugal, weighing 6lb 9oz.",
+        "source": "BBC News",
+        "published": "2026-08-17T16:12:38+00:00"
       },
       {
         "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
@@ -369,18 +383,11 @@
         "published": "2026-08-17T16:02:58+00:00"
       },
       {
-        "title": "Boy, seven, among four injured after crash in Ireland that killed five teenagers",
-        "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-        "description": "A car in which the five teenagers were travelling in was going the wrong way down a motorway in County Kildare.",
+        "title": "Reform proposes ban on most benefits for foreign nationals in UK",
+        "link": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
+        "description": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights.",
         "source": "BBC News",
-        "published": "2026-08-17T15:07:50+00:00"
-      },
-      {
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "description": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran.",
-        "source": "BBC News",
-        "published": "2026-08-17T14:59:02+00:00"
+        "published": "2026-08-17T15:15:26+00:00"
       },
       {
         "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
@@ -409,13 +416,6 @@
         "description": "Jason Arday, the former University of Cambridge professor at the centre of a plagiarism row, was found dead last week.",
         "source": "BBC News",
         "published": "2026-08-17T13:50:15+00:00"
-      },
-      {
-        "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-        "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-        "description": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-        "source": "BBC News",
-        "published": "2026-08-17T12:43:09+00:00"
       },
       {
         "title": "DHS defends investigating agency critics and giving them warning notices",
@@ -460,23 +460,9 @@
         "published": "2026-08-17T05:00:00-04:00"
       },
       {
-        "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-        "description": "There's a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those steps.",
-        "source": "NPR",
-        "published": "2026-08-17T05:00:00-04:00"
-      },
-      {
         "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
         "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
-        "source": "NPR",
-        "published": "2026-08-17T05:00:00-04:00"
-      },
-      {
-        "title": "Elon Musk's Starbase wants to expand in south Texas",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
-        "description": "Landowners and activists worry about impact to the environment around SpaceX's complex.",
         "source": "NPR",
         "published": "2026-08-17T05:00:00-04:00"
       },
@@ -491,6 +477,20 @@
         "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
         "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans.",
+        "source": "NPR",
+        "published": "2026-08-17T05:00:00-04:00"
+      },
+      {
+        "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+        "description": "There's a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those steps.",
+        "source": "NPR",
+        "published": "2026-08-17T05:00:00-04:00"
+      },
+      {
+        "title": "Elon Musk's Starbase wants to expand in south Texas",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+        "description": "Landowners and activists worry about impact to the environment around SpaceX's complex.",
         "source": "NPR",
         "published": "2026-08-17T05:00:00-04:00"
       },
@@ -567,11 +567,39 @@
     ],
     "turkiye": [
       {
+        "title": "TikTok videosunda tesadüfen keşfedildi: 2 bin litre su pompalayıp çıkardılar",
+        "link": "https://www.sozcu.com.tr/tiktok-videosunda-tesadufen-kesfedildi-2-bin-litre-su-pompalayip-cikardilar-p350254",
+        "description": "TikTok videosunda tesadüfen keşfedildi: 2 bin litre su pompalayıp çıkardılar",
+        "source": "Sözcü",
+        "published": "2026-08-17T19:54:50+03:00"
+      },
+      {
+        "title": "Fenerbahçeli futbolcuya teklif yağıyor",
+        "link": "https://www.sozcu.com.tr/fenerbahceli-futbolcuya-teklif-yagiyor-p350250",
+        "description": "Fenerbahçeli futbolcuya teklif yağıyor",
+        "source": "Sözcü",
+        "published": "2026-08-17T19:46:58+03:00"
+      },
+      {
         "title": "Emekli Amiral Türker Ertürk tutuklandı",
         "link": "https://www.sozcu.com.tr/emekli-amiral-turker-erturk-hakkinda-karar-p350244",
         "description": "Emekli Amiral Türker Ertürk tutuklandı",
         "source": "Sözcü",
-        "published": "2026-08-17T19:19:32+03:00"
+        "published": "2026-08-17T19:45:20+03:00"
+      },
+      {
+        "title": "Batshuayi'nin yeni takımı belli oldu",
+        "link": "https://www.sozcu.com.tr/batshuaynin-yeni-takimi-belli-oldu-p350248",
+        "description": "Batshuayi'nin yeni takımı belli oldu",
+        "source": "Sözcü",
+        "published": "2026-08-17T19:29:03+03:00"
+      },
+      {
+        "title": "Amed Sportif Faaliyetler, Galatasaray’ın genç yıldızını aldı",
+        "link": "https://www.sozcu.com.tr/amed-sportif-faaliyetler-galatasaray-in-genc-yildizini-aldi-p350247",
+        "description": "Amed Sportif Faaliyetler, Galatasaray’ın genç yıldızını aldı",
+        "source": "Sözcü",
+        "published": "2026-08-17T19:22:20+03:00"
       },
       {
         "title": "Fenerbahçe, Lyon maçına hazır",
@@ -616,34 +644,6 @@
         "published": "2026-08-17T18:40:33+03:00"
       },
       {
-        "title": "Sadettin Saran'ın ilk hamlesiydi! Aziz Yıldırım gönderiyor",
-        "link": "https://www.sozcu.com.tr/fenerbahcede-anthony-musaba-ayriligi-norwich-cityye-kiralaniyor-p350235",
-        "description": "Sadettin Saran'ın ilk hamlesiydi! Aziz Yıldırım gönderiyor",
-        "source": "Sözcü",
-        "published": "2026-08-17T18:31:37+03:00"
-      },
-      {
-        "title": "AKP'li Leyla Şahin Usta trafik kazası geçirdi, hastaneye kaldırıldı",
-        "link": "https://www.sozcu.com.tr/akpli-leyla-sahin-usta-trafik-kazasi-gecirdi-hastaneye-kaldirildi-p350237",
-        "description": "AKP'li Leyla Şahin Usta trafik kazası geçirdi, hastaneye kaldırıldı",
-        "source": "Sözcü",
-        "published": "2026-08-17T18:21:55+03:00"
-      },
-      {
-        "title": "Galatasaray, Bruno Fernandes için gözünü kararttı! Teklif ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/galatasaray-bruno-fernandes-icin-gozunu-karartti-teklif-ortaya-cikti-p350234",
-        "description": "Galatasaray, Bruno Fernandes için gözünü kararttı! Teklif ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-08-17T18:14:40+03:00"
-      },
-      {
-        "title": "1,8 trilyon parça çöp dev bir alanı kapladı: Ağırlığı 100 bin tonu buluyor",
-        "link": "https://www.sozcu.com.tr/1-8-trilyon-parca-cop-dev-bir-alani-kapladi-agirligi-100-bin-tonu-buluyor-p350236",
-        "description": "1,8 trilyon parça çöp dev bir alanı kapladı: Ağırlığı 100 bin tonu buluyor",
-        "source": "Sözcü",
-        "published": "2026-08-17T18:11:43+03:00"
-      },
-      {
         "title": "Çanakkale Ezine'de orman yangını",
         "link": "https://www.ntv.com.tr/turkiye/galeri-canakkale-ezinede-orman-yangini-ekipler-mudahale-ediyor-1737743",
         "description": "Çanakkale'nin Ezine ilçesinde otluk alanda çıkan yangın ormana sıçradı. Havadan ve karadan müdahale ile yangın kontrol altına alındı.",
@@ -684,6 +684,13 @@
         "description": "İstanbul Büyükşehir Belediye Başkanı'yken tutuklanıp görevden alınan Ekrem İmamoğlu dahil 414 kişinin yargılandığı İBB davası bugün devam etti.",
         "source": "NTV",
         "published": "2026-08-17T16:42:15+03:00"
+      },
+      {
+        "title": "Özel'den İBB davası açıklaması: 'İmamoğlu'na savunma yapacağı gün söylenmedi'",
+        "link": "https://www.bbc.com/turkce/articles/c5yvvv1z4yko?at_medium=RSS&at_campaign=rss",
+        "description": "Yeni Parti lideri Özgür Özel, görevden alınan İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu'nun savunmasının ne zaman alınacağının açıklanmamasına tepki gösterdi. Özel, \"Gerçekten burada artık göstermelik bir yargılama bile yapılmıyor\"...",
+        "source": "BBC Turkish",
+        "published": "2026-08-17T16:27:29+00:00"
       },
       {
         "title": "Trump'ın özel temsilcisi Kushner Netanyahu ile Gazze planını görüştü",
@@ -756,13 +763,6 @@
         "published": "2026-08-17T10:35:35+00:00"
       },
       {
-        "title": "İBB davası 40 gün aradan sonra yeniden başladı",
-        "link": "https://www.bbc.com/turkce/articles/c5yvvv1z4yko?at_medium=RSS&at_campaign=rss",
-        "description": "İstanbul 33. Ağır Ceza Mahkemesi'nde görülen İstanbul Büyükşehir Belediyesi (İBB) davasına 40 günlük aranın ardından bugün devam edilecek. Dava, Silivri'deki Marmara Kapalı Ceza İnfaz Kurumu'nun karşısında bulunan yeni duruşma salonunda görülüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-08-17T10:02:38+00:00"
-      },
-      {
         "title": "Heroes dizisinin yıldızı Hayden Panettiere 36 yaşında öldü",
         "link": "https://www.bbc.com/turkce/articles/cx2rzyd0pn9o?at_medium=RSS&at_campaign=rss",
         "description": "Heroes ve Nashville dizilerindeki rolleriyle tanınan ABD'li oyuncu Hayden Panettiere, 36 yaşında hayatını kaybetti.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+60°F",
-    "wind": "↓2mph",
-    "humidity": "90%"
+    "temp": "+71°F",
+    "wind": "↙10mph",
+    "humidity": "70%"
   }
 }
