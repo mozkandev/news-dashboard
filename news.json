@@ -1,32 +1,53 @@
 {
-  "updated_at": "2026-08-17T01:13:46.842285+00:00",
+  "updated_at": "2026-08-17T02:41:09.559119+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+        "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+        "description": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64 Comments URL: https://news.ycombinator.com/item?id=49325714 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-17T01:45:36+00:00"
+      },
+      {
+        "title": "Rhombus 1.1 is now available",
+        "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+        "description": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html Comments URL: https://news.ycombinator.com/item?id=49325384 Points: 20 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-08-17T00:48:21+00:00"
+      },
+      {
         "title": "The Life and Death of Direct File [pdf]",
         "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-        "description": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf Comments URL: https://news.ycombinator.com/item?id=49325185 Points: 24 # Comments: 1",
+        "description": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf Comments URL: https://news.ycombinator.com/item?id=49325185 Points: 71 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-08-17T00:17:57+00:00"
       },
       {
         "title": "The federal keyword lists that canceled billions in research funding",
         "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-        "description": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ Comments URL: https://news.ycombinator.com/item?id=49325159 Points: 7 # Comments: 0",
+        "description": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ Comments URL: https://news.ycombinator.com/item?id=49325159 Points: 72 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-08-17T00:14:10+00:00"
       },
       {
-        "title": "Webmaster a Manifesto for Everyone",
-        "link": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
-        "description": "Article URL: https://brennan.day/webmaster-a-manifesto-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49325092 Points: 9 # Comments: 2",
+        "title": "Reticulum – Decentralized Mesh Network",
+        "link": "https://reticulum.network/",
+        "description": "Article URL: https://reticulum.network/ Comments URL: https://news.ycombinator.com/item?id=49325061 Points: 19 # Comments: 4",
         "source": "HackerNews",
-        "published": "2026-08-17T00:04:14+00:00"
+        "published": "2026-08-16T23:59:10+00:00"
+      },
+      {
+        "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+        "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+        "description": "Article URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/ Comments URL: https://news.ycombinator.com/item?id=49324985 Points: 72 # Comments: 29",
+        "source": "HackerNews",
+        "published": "2026-08-16T23:45:09+00:00"
       },
       {
         "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
         "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-        "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 92 # Comments: 23",
+        "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 112 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-08-16T21:07:10+00:00"
       },
@@ -38,13 +59,6 @@
         "published": "2026-08-16T20:57:04+00:00"
       },
       {
-        "title": "The Case Against Formal Verification, 50 Years Later",
-        "link": "https://ivan-gavran.github.io/0-social-processes-paper",
-        "description": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 78 # Comments: 70",
-        "source": "HackerNews",
-        "published": "2026-08-16T20:38:58+00:00"
-      },
-      {
         "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
         "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
         "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
@@ -54,7 +68,7 @@
       {
         "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
         "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 178 # Comments: 129",
+        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 209 # Comments: 147",
         "source": "HackerNews",
         "published": "2026-08-16T20:31:16+00:00"
       },
@@ -66,6 +80,13 @@
         "published": "2026-08-16T20:16:30+00:00"
       },
       {
+        "title": "Red queen hypothesis – a new way forward for self-improving AI",
+        "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+        "description": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 12 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-16T20:01:13+00:00"
+      },
+      {
         "title": "Windows 11 Üzerindeki Ubuntu Kullanımı Rekor Seviyeye Ulaşıyor",
         "link": "https://shiftdelete.net/windows-11-uzerindeki-ubuntu-kullanimi-rekor-seviyeye-ulasiyor",
         "description": "Canonical, WSL üzerinden kullanılan Ubuntu sayısının masaüstü kurulumlarını geçeceğini öngörüyor. İşte Windows 11 üzerinde artan Linux kullanımı.",
@@ -73,32 +94,11 @@
         "published": "2026-08-16T20:00:00+00:00"
       },
       {
-        "title": "Models Are Getting Dumber on Purpose",
-        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "description": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 258 # Comments: 146",
-        "source": "HackerNews",
-        "published": "2026-08-16T19:04:26+00:00"
-      },
-      {
         "title": "Galaxy S26 Kullancının Cebinde Patladı: Samsung’dan Açıklama Bekleniyor",
         "link": "https://shiftdelete.net/galaxy-s26-kullancinin-cebinde-patladi-samsungdan-aciklama-bekleniyor",
         "description": "Hindistan'da bir kullanıcının cebinde Samsung Galaxy marka telefonun patladığı iddia edildi. Cihazın modeli ve patlama nedeni araştırılıyor.",
         "source": "ShiftDelete",
         "published": "2026-08-16T19:00:00+00:00"
-      },
-      {
-        "title": "Protobuf has LSP support. You're welcome",
-        "link": "https://buf.build/blog/protobuf-lsp",
-        "description": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 104 # Comments: 77",
-        "source": "HackerNews",
-        "published": "2026-08-16T18:48:27+00:00"
-      },
-      {
-        "title": "MathCode, Mathematical Coding Agent",
-        "link": "https://math-ai-org.github.io/mathcode/",
-        "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 54 # Comments: 17",
-        "source": "HackerNews",
-        "published": "2026-08-16T18:17:10+00:00"
       },
       {
         "title": "Huawei’nin Yeni Geniş Ekranlı Akıllı Telefonu Eylül Ayında Geliyor",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+        "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+        "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+        "source": "BBC News",
+        "published": "2026-08-17T02:08:56+00:00"
+      },
+      {
         "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
         "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
         "description": "At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreak The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country’s history with at least 2,325 people...",
@@ -451,13 +458,6 @@
         "description": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point.",
         "source": "NPR",
         "published": "2026-08-16T14:58:25-04:00"
-      },
-      {
-        "title": "Murder inquiry after man bitten by dog dies",
-        "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
-        "description": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
-        "source": "BBC News",
-        "published": "2026-08-16T12:36:11+00:00"
       },
       {
         "title": "A good – and bad – week for Italy's art police and museum security",
@@ -567,6 +567,76 @@
     ],
     "turkiye": [
       {
+        "title": "'Vatan sağ olsun demenin bedelini bize ödetmeyin'",
+        "link": "https://www.sozcu.com.tr/vatan-sag-olsun-demenin-bedelini-bize-odetmeyin-p349971",
+        "description": "'Vatan sağ olsun demenin bedelini bize ödetmeyin'",
+        "source": "Sözcü",
+        "published": "2026-08-17T05:30:33+03:00"
+      },
+      {
+        "title": "Milletin ömrünü tükettiniz",
+        "link": "https://www.sozcu.com.tr/milletin-omrunu-tukettiniz-p349970",
+        "description": "Milletin ömrünü tükettiniz",
+        "source": "Sözcü",
+        "published": "2026-08-17T05:30:33+03:00"
+      },
+      {
+        "title": "Diyanet TÜİK’i dinlemedi yüzde 50 zam yaptı",
+        "link": "https://www.sozcu.com.tr/diyanet-tuik-i-dinlemedi-yuzde-50-zam-yapti-p349969",
+        "description": "Diyanet TÜİK’i dinlemedi yüzde 50 zam yaptı",
+        "source": "Sözcü",
+        "published": "2026-08-17T05:30:33+03:00"
+      },
+      {
+        "title": "Sanayi küçülüyor, devlet buyuyor",
+        "link": "https://www.sozcu.com.tr/sanayi-kuculuyor-devlet-buyuyor-p349968",
+        "description": "Sanayi küçülüyor, devlet buyuyor",
+        "source": "Sözcü",
+        "published": "2026-08-17T05:30:33+03:00"
+      },
+      {
+        "title": "Avukatları savunma talebinde bulunacak",
+        "link": "https://www.sozcu.com.tr/avukatlari-savunma-talebinde-bulunacak-p349967",
+        "description": "Avukatları savunma talebinde bulunacak",
+        "source": "Sözcü",
+        "published": "2026-08-17T05:30:33+03:00"
+      },
+      {
+        "title": "Şirketinde Arap sermayesi çıkınca kayyum jet hızıyla kalktı",
+        "link": "https://www.sozcu.com.tr/sirketinde-arap-sermayesi-cikinca-kayyum-jet-hiziyla-kalkti-p349960",
+        "description": "Şirketinde Arap sermayesi çıkınca kayyum jet hızıyla kalktı",
+        "source": "Sözcü",
+        "published": "2026-08-17T05:30:33+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-agustos-2026-1737642",
+        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-17T05:30:00+03:00"
+      },
+      {
+        "title": "Sultangazi’de inşaatta toprak kayması. Çatlak oluşan sokak kapatıldı",
+        "link": "https://www.ntv.com.tr/turkiye/sultangazide-insaatta-toprak-kaymasi-catlak-olusan-sokak-kapatildi-1737652",
+        "description": "Sultangazi‘de bir inşaatın temelinde meydana gelen toprak kayması nedeniyle etrafındaki yolda çatlaklar oluştu. Zabıta ekipleri, önlem amaçlı sokağı trafiğe kapattı.",
+        "source": "NTV",
+        "published": "2026-08-17T05:10:49+03:00"
+      },
+      {
+        "title": "TBMM Başkanı Kurtulmuş, Marmara Depremi’nde hayatını kaybedenleri andı",
+        "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmus-marmara-depreminde-hayatini-kaybedenleri-andi-1737651",
+        "description": "TBMM Başkanı Numan Kurtulmuş, 17 Ağustos 1999 Marmara Depremi'nin 27'nci yıl dönümünde felakette yaşamını yitirenleri andı.",
+        "source": "NTV",
+        "published": "2026-08-17T04:26:54+03:00"
+      },
+      {
+        "title": "Depremde çocukları ve eşi öldü, engelli kaldı. Azmiyle \"Yaşayan insan hazinesi\" oldu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-depremde-cocuklari-ve-esi-oldu-engelli-kaldi-azmiyle-yasayan-insan-hazinesi-oldu-1737650",
+        "description": "Gölcük depreminde, eşini, 2 çocuğunu ve bir kolu ile bir bacağını kaybeden Asime Koşal, hayata örgüyle tutundu, örgü ürünleri üretmekle kalmadı, kurslar verdi.",
+        "source": "NTV",
+        "published": "2026-08-17T04:20:49+03:00"
+      },
+      {
         "title": "17 Ağustos depreminin 27. yılı: Saat 03.02’de hayat durdu",
         "link": "https://www.ntv.com.tr/turkiye/galeri-17-agustos-depreminin-27-yili-hayatini-kaybedenler-aniliyor-1737645",
         "description": "17 Ağustos büyük Marmara depreminin 27. yıldönümünde, depremin etkilediği yerlerde anma törenleri düzenlendi.",
@@ -579,13 +649,6 @@
         "description": "Deprem sonrasında hukuki süreç için delillerin toplanması ve doğru analiz edilmesi oldukça önemli. Peki karot örnekleri nasıl toplanıyor ve nasıl inceleniyor?",
         "source": "NTV",
         "published": "2026-08-17T04:01:51+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-agustos-2026-1737642",
-        "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-17T04:00:00+03:00"
       },
       {
         "title": "Çürük binalar nasıl tespit ediliyor? NTV ekibi karot test laboratuvarına girdi",
@@ -637,48 +700,6 @@
         "published": "2026-08-17T01:07:31+03:00"
       },
       {
-        "title": "Trump'tan üçlü savunma anlaşması yorumu: Cesur ve önemli bir adım",
-        "link": "https://www.sozcu.com.tr/donald-trump-tan-mekke-anlasmasi-aciklamasi-p349954",
-        "description": "Trump'tan üçlü savunma anlaşması yorumu: Cesur ve önemli bir adım",
-        "source": "Sözcü",
-        "published": "2026-08-17T00:40:40+03:00"
-      },
-      {
-        "title": "Flört uygulamasından tanışıp yemeğe çıktı, gelen hesabı görünce şoke oldu",
-        "link": "https://www.sozcu.com.tr/flort-uygulamasiyla-tanisip-yemege-cikan-adamin-hesabi-gorunce-soke-oldu-p349952",
-        "description": "Flört uygulamasından tanışıp yemeğe çıktı, gelen hesabı görünce şoke oldu",
-        "source": "Sözcü",
-        "published": "2026-08-17T00:28:22+03:00"
-      },
-      {
-        "title": "Yüzyıllık hata tersine dönüyor: Kurutulan bataklık yeniden suya kavuşacak",
-        "link": "https://www.sozcu.com.tr/yuzyillik-hata-tersine-donuyor-kurutulan-bataklik-yeniden-suya-kavusacak-p349953",
-        "description": "Yüzyıllık hata tersine dönüyor: Kurutulan bataklık yeniden suya kavuşacak",
-        "source": "Sözcü",
-        "published": "2026-08-17T00:21:23+03:00"
-      },
-      {
-        "title": "Kazı sırasında zeminin altında bulundu: Üzerindeki yazılar çözülemiyor",
-        "link": "https://www.sozcu.com.tr/kazi-sirasinda-zeminin-altinda-bulundu-uzerindeki-yazilar-cozulemiyor-p349946",
-        "description": "Kazı sırasında zeminin altında bulundu: Üzerindeki yazılar çözülemiyor",
-        "source": "Sözcü",
-        "published": "2026-08-16T23:37:16+03:00"
-      },
-      {
-        "title": "Yenilerin maçında kazanan Amedspor oldu! 3 gol iptal edildi",
-        "link": "https://www.sozcu.com.tr/yenilerin-macinda-kazanan-amedspor-oldu-3-gol-iptal-edildi-p349945",
-        "description": "Yenilerin maçında kazanan Amedspor oldu! 3 gol iptal edildi",
-        "source": "Sözcü",
-        "published": "2026-08-16T23:30:10+03:00"
-      },
-      {
-        "title": "Netanyahu'dan Erdoğan'lı seçim afişi",
-        "link": "https://www.sozcu.com.tr/israil-secim-oncesi-afisler-dikkat-cekti-p349944",
-        "description": "Netanyahu'dan Erdoğan'lı seçim afişi",
-        "source": "Sözcü",
-        "published": "2026-08-16T23:29:46+03:00"
-      },
-      {
         "title": "Türk savaş uçakları, Romanya'daki NATO Entegre Hava ve Füze Savunması faaliyetine katıldı",
         "link": "https://www.ntv.com.tr/turkiye/turk-savas-ucaklari-romanyadaki-nato-entegre-hava-ve-fuze-savunmasi-faaliyetine-katildi-1737630",
         "description": "Milli Savunma Bakanlığı, Türk Hava Kuvvetlerine ait uçakların Romanya hava sahasında icra edilen NATO Entegre Hava ve Füze Savunması faaliyetine katıldığını bildirdi.",
@@ -691,27 +712,6 @@
         "description": "Cumhurbaşkanı Erdoğan, El Cezire kanalında yayımlanan röportajında, Mekke güvenlik paktından Suriye'ye ve Avrupa Birliği üyeliğine Türkiye'nin dış politikasına dair önemli konularda açıklamalarda bulundu.",
         "source": "BBC Turkish",
         "published": "2026-08-16T21:13:07+00:00"
-      },
-      {
-        "title": "Türkiye dahil 8 ülkeden İsrail'e tepki",
-        "link": "https://www.ntv.com.tr/turkiye/turkiye-dahil-8-ulkeden-israile-tepki-1737628",
-        "description": "Türkiye dahil 8 ülke, İsrail’in ABD Başkanı Donald Trump'ın Gazze Planına ilişkin yol haritasını uygulamayı reddetmesinini kınadı.",
-        "source": "NTV",
-        "published": "2026-08-16T21:03:26+03:00"
-      },
-      {
-        "title": "Gülistan Doku soruşturmasında yeni ayrıntılar. \"Karanlık bir ilişki ağı kurmuş\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-gulistan-doku-sorusturmasinda-yeni-ayrintilar-karanlik-iliski-agi-1737625",
-        "description": "Gülistan Doku soruşturmasında tutuklanan eski Vali Tuncay Sonel ile ilgili hazırlanan sevk yazısında yeni ayrıntılar ortaya çıktı. Yazıda, olayın organize bir yapı içerisinde işlendiği belirtildi.",
-        "source": "NTV",
-        "published": "2026-08-16T20:03:14+03:00"
-      },
-      {
-        "title": "Cerrahpaşa Tıp Fakültesi Prof. Dr. Murat Dilmener Hastanesi'nde yangın",
-        "link": "https://www.ntv.com.tr/turkiye/cerrahpasa-tip-fakultesi-prof-dr-murat-dilmener-hastanesinde-yangin-1737613",
-        "description": "Cerrahpaşa Tıp Fakültesi Prof. Dr. Murat Dilmener Hastanesi'nin bahçesinde çıkan yangın söndürüldü.",
-        "source": "NTV",
-        "published": "2026-08-16T19:52:32+03:00"
       },
       {
         "title": "Mükemmel köpekbalığı fotoğrafını çekmeye çalışırken ısırılan internet fenomenleri",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8642
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+76°F",
-    "wind": "↙3mph",
-    "humidity": "78%"
+    "condition": "Güneşli",
+    "temp": "+79°F",
+    "wind": "↘5mph",
+    "humidity": "37%"
   }
 }
