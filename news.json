@@ -1,25 +1,32 @@
 {
-  "updated_at": "2026-08-16T23:44:18.537062+00:00",
+  "updated_at": "2026-08-17T01:13:46.842285+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "description": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 92 # Comments: 74",
+        "title": "The Life and Death of Direct File [pdf]",
+        "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+        "description": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf Comments URL: https://news.ycombinator.com/item?id=49325185 Points: 24 # Comments: 1",
         "source": "HackerNews",
-        "published": "2026-08-16T21:53:43+00:00"
+        "published": "2026-08-17T00:17:57+00:00"
       },
       {
-        "title": "Stop Turning every purchase into a tip request",
-        "link": "https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request",
-        "description": "Article URL: https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request Comments URL: https://news.ycombinator.com/item?id=49323874 Points: 41 # Comments: 36",
+        "title": "The federal keyword lists that canceled billions in research funding",
+        "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+        "description": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ Comments URL: https://news.ycombinator.com/item?id=49325159 Points: 7 # Comments: 0",
         "source": "HackerNews",
-        "published": "2026-08-16T21:28:59+00:00"
+        "published": "2026-08-17T00:14:10+00:00"
+      },
+      {
+        "title": "Webmaster a Manifesto for Everyone",
+        "link": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
+        "description": "Article URL: https://brennan.day/webmaster-a-manifesto-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49325092 Points: 9 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-17T00:04:14+00:00"
       },
       {
         "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
         "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-        "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 63 # Comments: 7",
+        "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 92 # Comments: 23",
         "source": "HackerNews",
         "published": "2026-08-16T21:07:10+00:00"
       },
@@ -33,7 +40,7 @@
       {
         "title": "The Case Against Formal Verification, 50 Years Later",
         "link": "https://ivan-gavran.github.io/0-social-processes-paper",
-        "description": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 69 # Comments: 60",
+        "description": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 78 # Comments: 70",
         "source": "HackerNews",
         "published": "2026-08-16T20:38:58+00:00"
       },
@@ -47,7 +54,7 @@
       {
         "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
         "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 113 # Comments: 83",
+        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 178 # Comments: 129",
         "source": "HackerNews",
         "published": "2026-08-16T20:31:16+00:00"
       },
@@ -68,7 +75,7 @@
       {
         "title": "Models Are Getting Dumber on Purpose",
         "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "description": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 221 # Comments: 132",
+        "description": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 258 # Comments: 146",
         "source": "HackerNews",
         "published": "2026-08-16T19:04:26+00:00"
       },
@@ -82,14 +89,14 @@
       {
         "title": "Protobuf has LSP support. You're welcome",
         "link": "https://buf.build/blog/protobuf-lsp",
-        "description": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 94 # Comments: 65",
+        "description": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 104 # Comments: 77",
         "source": "HackerNews",
         "published": "2026-08-16T18:48:27+00:00"
       },
       {
         "title": "MathCode, Mathematical Coding Agent",
         "link": "https://math-ai-org.github.io/mathcode/",
-        "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 49 # Comments: 14",
+        "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 54 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-08-16T18:17:10+00:00"
       },
@@ -99,13 +106,6 @@
         "description": "Huawei'nin geniş ekranlı yeni akıllı telefonu eylül ayında tanıtılabilir. İşte cihazın beklenen teknik özellikleri ve Oppo'nun benzer çalışmaları.",
         "source": "ShiftDelete",
         "published": "2026-08-16T18:00:00+00:00"
-      },
-      {
-        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-        "link": "https://news.ycombinator.com/item?id=49322107",
-        "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the...",
-        "source": "HackerNews",
-        "published": "2026-08-16T17:49:46+00:00"
       },
       {
         "title": "OpenAI reportedly disbanded its preparedness team",
@@ -355,18 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
+        "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "description": "At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreak The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country’s history with at least 2,325 people...",
+        "source": "The Guardian",
+        "published": "2026-08-17T00:09:57+00:00"
+      },
+      {
         "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
         "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
         "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "source": "BBC News",
-        "published": "2026-08-16T23:28:14+00:00"
+        "published": "2026-08-17T00:06:05+00:00"
       },
       {
-        "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
-        "link": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
-        "description": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights.",
+        "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+        "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
         "source": "BBC News",
-        "published": "2026-08-16T21:41:32+00:00"
+        "published": "2026-08-16T23:21:37+00:00"
+      },
+      {
+        "title": "History for Hunt and Asher-Smith in golden finish for GB",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss",
+        "description": "Amy Hunt and Dina Asher-Smith make history and Georgia Hunter Bell claims a commanding 1500m gold as Great Britain maintain their bid to top the final medal table at the European Championships.",
+        "source": "BBC News",
+        "published": "2026-08-16T20:14:46+00:00"
       },
       {
         "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
@@ -381,13 +395,6 @@
         "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
         "source": "BBC News",
         "published": "2026-08-16T19:58:14+00:00"
-      },
-      {
-        "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-        "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-        "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-        "source": "BBC News",
-        "published": "2026-08-16T19:50:36+00:00"
       },
       {
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -551,13 +558,6 @@
         "published": "2026-08-13T15:17:13+00:00"
       },
       {
-        "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
-        "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-        "description": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims...",
-        "source": "The Guardian",
-        "published": "2026-08-13T14:21:52+00:00"
-      },
-      {
         "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
         "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
         "description": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students in 2014, a...",
@@ -567,25 +567,46 @@
     ],
     "turkiye": [
       {
-        "title": "Mağlubiyetlerin telafisi var, ya insanlığın?",
-        "link": "https://www.sozcu.com.tr/maglubiyetlerin-telafisi-var-ya-insanligin-p349966",
-        "description": "Mağlubiyetlerin telafisi var, ya insanlığın?",
-        "source": "Sözcü",
-        "published": "2026-08-17T02:43:30+03:00"
+        "title": "17 Ağustos depreminin 27. yılı: Saat 03.02’de hayat durdu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-17-agustos-depreminin-27-yili-hayatini-kaybedenler-aniliyor-1737645",
+        "description": "17 Ağustos büyük Marmara depreminin 27. yıldönümünde, depremin etkilediği yerlerde anma törenleri düzenlendi.",
+        "source": "NTV",
+        "published": "2026-08-17T04:02:16+03:00"
+      },
+      {
+        "title": "Karot örnekleri böyle test ediliyor",
+        "link": "https://www.ntv.com.tr/turkiye/video-karot-ornekleri-boyle-test-ediliyor-1737648",
+        "description": "Deprem sonrasında hukuki süreç için delillerin toplanması ve doğru analiz edilmesi oldukça önemli. Peki karot örnekleri nasıl toplanıyor ve nasıl inceleniyor?",
+        "source": "NTV",
+        "published": "2026-08-17T04:01:51+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-agustos-2026-1737642",
         "description": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-17T02:30:00+03:00"
+        "published": "2026-08-17T04:00:00+03:00"
       },
       {
-        "title": "17 Ağustos depreminin 27. yılı: Hayatını kaybedenler anılıyor",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-17-agustos-depreminin-27-yili-hayatini-kaybedenler-aniliyor-1737645",
-        "description": "Bugün, 17 Ağustos büyük Marmara depreminin yıldönümü. 27 yıl önce yaşanan büyük felaketin yıldönümünde depremin etkilediği yerlerde anma törenleri düzenleniyor.",
+        "title": "Çürük binalar nasıl tespit ediliyor? NTV ekibi karot test laboratuvarına girdi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-curuk-binalar-nasil-tespit-ediliyor-ntv-ekibi-karot-test-laboratuvarina-girdi-1737649",
+        "description": "Deprem sonrasında hukuki süreç için delillerin toplanması ve doğru analiz edilmesi oldukça önemli. Peki karot örnekleri nasıl toplanıyor ve nasıl inceleniyor?",
         "source": "NTV",
-        "published": "2026-08-17T02:11:59+03:00"
+        "published": "2026-08-17T03:45:05+03:00"
+      },
+      {
+        "title": "Marmara Depremi'nde 17 can kurtardı",
+        "link": "https://www.ntv.com.tr/turkiye/video-marmara-depreminde-17-can-kurtardi-1737647",
+        "description": "17 Ağustos depreminde vatandaşlar da çalışmalara destek verdi. Onlardan biri olan Bedri Şendoğan, o gece 17 kişiyi enkazdan sağ çıkarmayı başardı. 71 yaşında olan Şendoğan halen o geceyi unutamıyor.",
+        "source": "NTV",
+        "published": "2026-08-17T03:19:02+03:00"
+      },
+      {
+        "title": "Mağlubiyetlerin telafisi var, ya insanlığın?",
+        "link": "https://www.sozcu.com.tr/maglubiyetlerin-telafisi-var-ya-insanligin-p349966",
+        "description": "Mağlubiyetlerin telafisi var, ya insanlığın?",
+        "source": "Sözcü",
+        "published": "2026-08-17T02:49:38+03:00"
       },
       {
         "title": "Marmara depreminde yolları kesişen çift, bugün afetzedelerin yardımına koşuyor",
@@ -693,13 +714,6 @@
         "published": "2026-08-16T19:52:32+03:00"
       },
       {
-        "title": "Kuzey Marmara Otoyolu’nda kaza: 1’i çocuk 3 can kaybı var",
-        "link": "https://www.ntv.com.tr/turkiye/kuzey-marmara-otoyolunda-kaza-1i-cocuk-3-olu-1737599",
-        "description": "Kuzey Marmara Otoyolu Uskumruköy mevkiinde kaza meydana geldi. İki aracın karıştığı kazada 1'i çocuk 3 kişi hayatını kaybetti. Yaşanan kazada 5 kişi de yaralandı.",
-        "source": "NTV",
-        "published": "2026-08-16T16:34:08+03:00"
-      },
-      {
         "title": "Mükemmel köpekbalığı fotoğrafını çekmeye çalışırken ısırılan internet fenomenleri",
         "link": "https://www.bbc.com/turkce/articles/c9355exgv5go?at_medium=RSS&at_campaign=rss",
         "description": "Tayane Dalazen, Brezilya'da köpekbalığı dalışı gezisindeyken saldırıya uğradı.",
@@ -712,20 +726,6 @@
         "description": "Ankara Cumhuriyet Başsavcılığı tarafından çıkar amaçlı suç örgüt kurma ve örgüte üye olma gibi suçlamalarla gözaltına alınan 38 kişiden 32'si tutuklandı. Tutuklananlar arasında Süleymancılar olarak bilinen cemaatin liderliğini yapan Alihan Kuriş de...",
         "source": "BBC Turkish",
         "published": "2026-08-16T15:11:17+00:00"
-      },
-      {
-        "title": "Alihan Kuriş soruşturması. Örgütün Köln'de dev tesis inşası görüntülendi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-alihan-kuris-sorusturmasi-orgutun-kolnde-dev-tesis-insasi-goruntulendi-1737601",
-        "description": "Tutuklanan Alihan Kuriş'in lideri olduğu grup tarafından Almanya'nın Köln kentinde inşası devam eden 70 milyon euro'luk genel merkez görüntülendi.",
-        "source": "NTV",
-        "published": "2026-08-16T14:58:36+03:00"
-      },
-      {
-        "title": "NTV ekibi deprem batığına daldı: Değirmendere sahili denize sürüklendi",
-        "link": "https://www.ntv.com.tr/turkiye/video-ntv-ekibi-deprem-batigina-daldi-degirmendere-sahili-denize-suruklendi-1737590",
-        "description": "17 Ağustos Gölcük depreminde sahilin bir kısmı deniz heyelanıyla sulara gömülmüştü. Depremin 27’nci yılında batık şehre dalan Ali Ablay, sular altında kalan yapıların son durumunu görüntüledi",
-        "source": "NTV",
-        "published": "2026-08-16T13:38:00+03:00"
       },
       {
         "title": "ABD ve Türkiye'nin Ukrayna'ya silah transferi planı neden tartışılıyor, Moskova ne diyor?",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.888,
-    "eur_try": 55.4152,
-    "eur_usd": 0.8647
+    "usd_try": 47.8845,
+    "eur_try": 55.4013,
+    "eur_usd": 0.8642
   },
   "weather": {
     "condition": "Patchy rain nearby",
-    "temp": "+81°F",
-    "wind": "↓8mph",
-    "humidity": "77%"
+    "temp": "+76°F",
+    "wind": "↙3mph",
+    "humidity": "78%"
   }
 }
