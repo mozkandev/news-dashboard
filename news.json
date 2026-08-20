@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:34:18.204868+00:00",
+  "updated_at": "2026-08-20T17:28:01.714396+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -10,11 +10,46 @@
         "published": "2026-08-20T17:40:58+03:00"
       },
       {
+        "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
+        "source": "TechCrunch",
+        "published": "2026-08-20T17:27:47+00:00"
+      },
+      {
+        "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+        "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+        "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+        "source": "TechCrunch",
+        "published": "2026-08-20T17:18:58+00:00"
+      },
+      {
         "title": "Kameralı AirPods'u Bekleyenlere Üzücü Haber: Bu Yıl Gelmeyecek!",
         "link": "\n                    https://www.webtekno.com/kamerali-airpods-bu-yil-gelmeyecek-h222731.html\n                    ",
         "description": "Apple’ın sızdırılan kameralı ve yapay zekâ destekli AirPods modeli, sanıldığı gibi yakın bir tarihte piyasaya sürülmeyecek.",
         "source": "Webtekno",
         "published": "2026-08-20T17:12:00+03:00"
+      },
+      {
+        "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+        "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+        "description": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+        "source": "TechCrunch",
+        "published": "2026-08-20T17:04:53+00:00"
+      },
+      {
+        "title": "Sixtyfour (YC P25) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+        "description": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern Comments URL: https://news.ycombinator.com/item?id=49377248 Points: 0 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-20T17:01:05+00:00"
+      },
+      {
+        "title": "Ramp launches its own AI model router, called Router",
+        "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+        "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+        "source": "TechCrunch",
+        "published": "2026-08-20T16:46:00+00:00"
       },
       {
         "title": "Kan Alma İşlemleri Yakında Robotlara Emanet Edilecek: Peki Ne Kadar Güvenilir?",
@@ -75,7 +110,7 @@
       {
         "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
         "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-        "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
+        "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
         "source": "TechCrunch",
         "published": "2026-08-20T16:00:00+00:00"
       },
@@ -89,14 +124,21 @@
       {
         "title": "How to compromise your system with a job interview",
         "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-        "description": "Article URL: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview Comments URL: https://news.ycombinator.com/item?id=49376332 Points: 16 # Comments: 3",
+        "description": "Article URL: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview Comments URL: https://news.ycombinator.com/item?id=49376332 Points: 35 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-08-20T15:50:57+00:00"
       },
       {
+        "title": "Linux 7.2 Released",
+        "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+        "description": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 20 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-20T15:46:18+00:00"
+      },
+      {
         "title": "Generic Methods in Go 1.27",
         "link": "https://dominik.info/blog/go-generic-methods",
-        "description": "Article URL: https://dominik.info/blog/go-generic-methods Comments URL: https://news.ycombinator.com/item?id=49376211 Points: 8 # Comments: 1",
+        "description": "Article URL: https://dominik.info/blog/go-generic-methods Comments URL: https://news.ycombinator.com/item?id=49376211 Points: 23 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-08-20T15:41:48+00:00"
       },
@@ -124,14 +166,14 @@
       {
         "title": "Clean up Claude 5's token vomit with a separate LLM",
         "link": "https://github.com/zachahn/vomit",
-        "description": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 34 # Comments: 21",
+        "description": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 73 # Comments: 61",
         "source": "HackerNews",
         "published": "2026-08-20T15:26:02+00:00"
       },
       {
         "title": "Anti-AI fonts are useless and harmful",
         "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-        "description": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 12 # Comments: 5",
+        "description": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 39 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-08-20T15:06:53+00:00"
       },
@@ -194,23 +236,9 @@
       {
         "title": "An elliptic curve of rank ≥ 30",
         "link": "https://elliptic-rank.icarm.cloud/curve/273",
-        "description": "Article URL: https://elliptic-rank.icarm.cloud/curve/273 Comments URL: https://news.ycombinator.com/item?id=49374873 Points: 30 # Comments: 10",
+        "description": "Article URL: https://elliptic-rank.icarm.cloud/curve/273 Comments URL: https://news.ycombinator.com/item?id=49374873 Points: 49 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-20T14:14:39+00:00"
-      },
-      {
-        "title": "Bun 1.4",
-        "link": "https://bun.com/blog/bun-v1.4",
-        "description": "Article URL: https://bun.com/blog/bun-v1.4 Comments URL: https://news.ycombinator.com/item?id=49374797 Points: 129 # Comments: 59",
-        "source": "HackerNews",
-        "published": "2026-08-20T14:10:12+00:00"
-      },
-      {
-        "title": "Hacking with Claude on a $27 Smart Watch",
-        "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-        "description": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 41 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-08-20T14:08:09+00:00"
       },
       {
         "title": "YKS 2026 Şampiyonlarının Tercihi Değişmedi: Zirve Yeniden İstanbul Medipol’ün Oldu",
@@ -225,13 +253,6 @@
         "description": "Tesla, ağır ticari taşımacılıkta devrim yaratmayı hedefleyen tamamen elektrikli tırı Semi için rotayı Avrupa’ya çevirdi. Şirket, X platformu üzerinden yaptığı resmi paylaşımla Semi’nin Eylül ayında Almanya’nın Hannover kentinde düzenlenecek ticari...",
         "source": "ShiftDelete",
         "published": "2026-08-20T13:46:22+00:00"
-      },
-      {
-        "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
-        "link": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
-        "description": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
-        "source": "TechCrunch",
-        "published": "2026-08-20T13:45:00+00:00"
       },
       {
         "title": "TEKNOFEST Mavi Vatan Başladı: İnsansız Deniz Araçları ve TB3 Sahneye Çıkıyor",
@@ -260,27 +281,6 @@
         "description": "Maliyeti daha yüksek olmasına rağmen Renault, sürüş güvenliğini ve kullanım kolaylığını artırmak için fiziksel düğmelerden vazgeçmeyeceğini söylüyor.",
         "source": "Webtekno",
         "published": "2026-08-20T13:06:00+03:00"
-      },
-      {
-        "title": "AI data giant Alation confirms cyberattack",
-        "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
-        "description": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
-        "source": "TechCrunch",
-        "published": "2026-08-20T13:01:24+00:00"
-      },
-      {
-        "title": "For a16z, AI gives foreign founders an advantage",
-        "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
-        "description": "a16z’s Borderless Founder network initiative supports immigrant and international founders. \"Having one foot in your home country, and one foot in Silicon Valley\" is an advantage, the firm believes.",
-        "source": "TechCrunch",
-        "published": "2026-08-20T13:00:00+00:00"
-      },
-      {
-        "title": "US says hackers are targeting vulnerable water systems with the help of AI",
-        "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
-        "description": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
-        "source": "TechCrunch",
-        "published": "2026-08-20T12:43:19+00:00"
       },
       {
         "title": "This app makes the Pixel 11’s HiLight feature actually useful",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+        "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+        "description": "The brothers have had a fractured relationship for a number of years.",
+        "source": "BBC News",
+        "published": "2026-08-20T16:54:51+00:00"
+      },
+      {
+        "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+        "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+        "description": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor.",
+        "source": "BBC News",
+        "published": "2026-08-20T16:40:51+00:00"
+      },
+      {
         "title": "Man charged over Manchester synagogue attack",
         "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
         "description": "Police say the man is accused of failing to disclose information regarding terrorist activity.",
@@ -374,13 +388,6 @@
         "description": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive...",
         "source": "The Guardian",
         "published": "2026-08-20T15:42:39+00:00"
-      },
-      {
-        "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
-        "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
-        "description": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
-        "source": "BBC News",
-        "published": "2026-08-20T14:58:40+00:00"
       },
       {
         "title": "Five key takeaways from GCSE results day 2026",
@@ -404,6 +411,20 @@
         "published": "2026-08-20T13:53:40+00:00"
       },
       {
+        "title": "Three things to know about the $40 trillion federal debt",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+        "description": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
+        "source": "NPR",
+        "published": "2026-08-20T12:50:41-04:00"
+      },
+      {
+        "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+        "description": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.",
+        "source": "NPR",
+        "published": "2026-08-20T12:49:11-04:00"
+      },
+      {
         "title": "John Swinney defends £45,000 business-class flights to World Cup",
         "link": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
         "description": "The Scottish government spent almost £100,000 on official visits to the United States in June.",
@@ -416,13 +437,6 @@
         "description": "Sunday's course takes high-speed cars right past the National Gallery of Art and three Smithsonian museums. Art experts worry about the works inside, but organizers say they don't expect damage.",
         "source": "NPR",
         "published": "2026-08-20T11:18:21-04:00"
-      },
-      {
-        "title": "Why are Harry and Meghan returning to the UK?",
-        "link": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
-        "source": "BBC News",
-        "published": "2026-08-20T10:16:31+00:00"
       },
       {
         "title": "Belgian car salesman becomes prince after royal parentage confirmed",
@@ -453,20 +467,6 @@
         "published": "2026-08-20T05:24:45-04:00"
       },
       {
-        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-        "description": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
-        "source": "NPR",
-        "published": "2026-08-20T05:00:00-04:00"
-      },
-      {
-        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-        "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
-        "source": "NPR",
-        "published": "2026-08-20T05:00:00-04:00"
-      },
-      {
         "title": "They grew up with disability rights. Now, they're fighting to keep them",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
         "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
@@ -488,18 +488,18 @@
         "published": "2026-08-20T05:00:00-04:00"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
-        "description": "Gulf countries react to protracted Iran war, U.S. debt tops $40 trillion, U.S. oil companies sign first deals with Venezuela.",
+        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+        "description": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
         "source": "NPR",
-        "published": "2026-08-20T04:52:29-04:00"
+        "published": "2026-08-20T05:00:00-04:00"
       },
       {
-        "title": "Tech billionaires push back against proposed wealth tax in California",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-        "description": "Tech billionaires in California are fighting a proposed one-time wealth tax. A Google co-founder is leading the charge against the tax, which would generate revenue for health-care services.",
+        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+        "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
         "source": "NPR",
-        "published": "2026-08-20T04:45:47-04:00"
+        "published": "2026-08-20T05:00:00-04:00"
       },
       {
         "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -567,6 +567,41 @@
     ],
     "turkiye": [
       {
+        "title": "Salah hayranı minik taraftar tribünlerdi coşturdu",
+        "link": "https://www.sozcu.com.tr/salah-hayrani-minik-taraftar-trabzonda-cosku-yaratti-p351229",
+        "description": "Salah hayranı minik taraftar tribünlerdi coşturdu",
+        "source": "Sözcü",
+        "published": "2026-08-20T20:22:54+03:00"
+      },
+      {
+        "title": "Çiğli Belediye Başkanı'nın makam aracına silahlı saldırı. Saldırgan böyle yakalandı",
+        "link": "https://www.ntv.com.tr/yerel-haberler/galeri-cigli-belediye-baskaninin-makam-aracina-silahli-saldiri-saldirgan-boyle-yakalandi-1738200",
+        "description": "İzmir'de Çiğli Belediye Başkanı Onur Emrah Yıldız'ın park halindeki makam aracına silahlı saldırı düzenlendi. Şüpheli güvenlik görevlilerince yakalandı.",
+        "source": "NTV",
+        "published": "2026-08-20T20:18:07+03:00"
+      },
+      {
+        "title": "Gelenek diye kayda aldılar: Düğün sonrası görüntüler tepki çekti",
+        "link": "https://www.sozcu.com.tr/gelenek-diye-kayda-aldilar-dugun-sonrasi-goruntuler-tepki-cekti-p351228",
+        "description": "Gelenek diye kayda aldılar: Düğün sonrası görüntüler tepki çekti",
+        "source": "Sözcü",
+        "published": "2026-08-20T20:06:00+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan dev teknoloji hamlesini duyurdu. 550 doktora öğrencisi eğitilecek",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-dev-teknoloji-hamlesini-duyurdu-550-doktora-ogrencisi-egitilecek-1738198",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Stratejik Teknoloji İnsan Kaynağı Programı'nı açıkladı.",
+        "source": "NTV",
+        "published": "2026-08-20T19:48:37+03:00"
+      },
+      {
+        "title": "Uğuldayan kumların arasında 144 renkli göl saklanıyor",
+        "link": "https://www.sozcu.com.tr/uguldayan-kumlarin-arasinda-144-renkli-gol-saklaniyor-p351227",
+        "description": "Uğuldayan kumların arasında 144 renkli göl saklanıyor",
+        "source": "Sözcü",
+        "published": "2026-08-20T19:46:47+03:00"
+      },
+      {
         "title": "ABD uçak gemisi Orta Doğu’da",
         "link": "https://www.sozcu.com.tr/abd-ucak-gemisi-orta-dogu-da-p351222",
         "description": "ABD uçak gemisi Orta Doğu’da",
@@ -602,13 +637,6 @@
         "published": "2026-08-20T18:41:24+03:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan dev teknoloji hamlesini duyurdu. 550 doktora öğrencisi eğitilecek",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-dev-teknoloji-hamlesini-duyurdu-550-doktora-ogrencisi-egitilecek-1738198",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Stratejik Teknoloji İnsan Kaynağı Programı'nı açıkladı.",
-        "source": "NTV",
-        "published": "2026-08-20T18:30:49+03:00"
-      },
-      {
         "title": "Devrilip alev alan TIR’da hayatını kaybetmişti: Kazadan 1 saat önce dinlediği şarkı acıyı ikiye katladı",
         "link": "https://www.sozcu.com.tr/devrilip-alev-alan-tir-da-hayatini-kaybetmisti-kazadan-1-saat-once-dinledigi-sarki-aciyi-ikiye-p351216",
         "description": "Devrilip alev alan TIR’da hayatını kaybetmişti: Kazadan 1 saat önce dinlediği şarkı acıyı ikiye katladı",
@@ -623,25 +651,11 @@
         "published": "2026-08-20T18:19:10+03:00"
       },
       {
-        "title": "2 bin yıllık altın levhanın izi Gaziantep'e uzandı",
-        "link": "https://www.sozcu.com.tr/2-bin-yillik-altin-levhanin-izi-gaziantep-e-uzandi-p351214",
-        "description": "2 bin yıllık altın levhanın izi Gaziantep'e uzandı",
-        "source": "Sözcü",
-        "published": "2026-08-20T18:05:24+03:00"
-      },
-      {
-        "title": "80 yıllık market zinciri 12 mağazasını birden kapattı",
-        "link": "https://www.sozcu.com.tr/80-yillik-market-zinciri-12-magazasini-birden-kapatti-p351212",
-        "description": "80 yıllık market zinciri 12 mağazasını birden kapattı",
-        "source": "Sözcü",
-        "published": "2026-08-20T17:43:47+03:00"
-      },
-      {
-        "title": "Türkiye Kupası’nda 1. tur kuraları 27 Ağustos’ta çekilecek",
-        "link": "https://www.sozcu.com.tr/turkiye-kupasi-nda-1-tur-kuralari-27-agustos-ta-yapilacak-p351211",
-        "description": "Türkiye Kupası’nda 1. tur kuraları 27 Ağustos’ta çekilecek",
-        "source": "Sözcü",
-        "published": "2026-08-20T17:40:37+03:00"
+        "title": "İBB davasında ikinci celse: Duruşmalarda neler yaşandı?",
+        "link": "https://www.bbc.com/turkce/articles/cwyr0ee0k00o?at_medium=RSS&at_campaign=rss",
+        "description": "Görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun yargılandığı davanın 17 Ağustos'ta başlayan ikinci celsesi sürüyor. Savunmalardan öne çıkanları aktarıyoruz.",
+        "source": "BBC Turkish",
+        "published": "2026-08-20T17:12:30+00:00"
       },
       {
         "title": "Bilim Kurulu üyelerinden \"Büyük deprem mi geliyor?\" sorusuna yanıt",
@@ -714,13 +728,6 @@
         "published": "2026-08-20T13:56:52+03:00"
       },
       {
-        "title": "YİMER, 15 binden fazla kişinin kurtarılmasını sağladı",
-        "link": "https://www.ntv.com.tr/turkiye/yimer-15-binden-fazla-kisinin-kurtarilmasini-sagladi-1738151",
-        "description": "Göç İdaresi Başkanı Muhammet Selami Yazıcı, Yabancılar İletişim Merkezi'nin (YİMER 157) 11 yılda 27 milyon 713 bin çağrıyı karşıladığını söyledi.",
-        "source": "NTV",
-        "published": "2026-08-20T13:12:54+03:00"
-      },
-      {
         "title": "Pervin Buldan: 'Öcalan silahsızlanma ve siyasallaşma kurulunda yer alacak'",
         "link": "https://www.bbc.com/turkce/articles/c5y0n1dg4zqo?at_medium=RSS&at_campaign=rss",
         "description": "DEM Parti İmralı heyeti üyesi ve Van Milletvekili Pervin Buldan, PKK lideri Abdullah Öcalan'ın \"Silahsızlanma ve Siyasallaşma\" adıyla kurulması planlanan alt kurulda yer alacağını söyledi.",
@@ -763,13 +770,6 @@
         "published": "2026-08-20T10:10:09+00:00"
       },
       {
-        "title": "Fobiler: Bize muhtemelen zarar vermeyecek şeylerden neden bu kadar korkuyoruz?",
-        "link": "https://www.bbc.com/turkce/articles/cr59yljlr1no?at_medium=RSS&at_campaign=rss",
-        "description": "Birçoğumuz ciddi bir risk oluşturmayan şeylerden korkarız. Bilim insanları korkunun doğuştan geldiğini düşünmüyorlar. Peki bu fobiler nereden geliyor?",
-        "source": "BBC Turkish",
-        "published": "2026-08-20T06:00:30+00:00"
-      },
-      {
         "title": "Trump'tan, İran ile iş yapan ülkelere 'ekonomik' tehdit",
         "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
         "description": "ABD Başkan Donald Trump, İran'a yardım eden veya İran'la iş yapan ülkeleri ABD'nin \"çok ağır ekonomik sonuçlar\" ile karşı karşıya bırakacağını söyledi.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8584
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+78°F",
-    "wind": "↙6mph",
-    "humidity": "59%"
+    "condition": "Orta kuvvette yağmur",
+    "temp": "+89°F",
+    "wind": "→6mph",
+    "humidity": "63%"
   }
 }
