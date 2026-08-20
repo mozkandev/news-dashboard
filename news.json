@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-19T23:46:58.030384+00:00",
+  "updated_at": "2026-08-20T01:11:35.443796+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+        "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+        "description": "Article URL: https://fetzu.ch/blog/20260819_claudevsdrobo/ Comments URL: https://news.ycombinator.com/item?id=49368911 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-20T00:18:16+00:00"
+      },
+      {
+        "title": "Universality of Gradient Descent Neural Network Training",
+        "link": "https://arxiv.org/abs/2007.13664",
+        "description": "Article URL: https://arxiv.org/abs/2007.13664 Comments URL: https://news.ycombinator.com/item?id=49368828 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-20T00:05:12+00:00"
+      },
+      {
+        "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+        "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+        "description": "Article URL: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724 Comments URL: https://news.ycombinator.com/item?id=49368625 Points: 82 # Comments: 31",
+        "source": "HackerNews",
+        "published": "2026-08-19T23:38:22+00:00"
+      },
       {
         "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
         "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
@@ -22,13 +43,6 @@
         "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
         "source": "TechCrunch",
         "published": "2026-08-19T22:10:46+00:00"
-      },
-      {
-        "title": "Collaborative Human Agent Protocol (CHAP)",
-        "link": "https://github.com/BrightbeamAI/chap",
-        "description": "Article URL: https://github.com/BrightbeamAI/chap Comments URL: https://news.ycombinator.com/item?id=49367836 Points: 14 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-19T22:09:16+00:00"
       },
       {
         "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
@@ -61,28 +75,28 @@
       {
         "title": "Feature Request: Support AGENTS.md",
         "link": "https://github.com/anthropics/claude-code/issues/6235",
-        "description": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 80 # Comments: 40",
+        "description": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 126 # Comments: 72",
         "source": "HackerNews",
         "published": "2026-08-19T21:19:50+00:00"
       },
       {
         "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
         "link": "https://os8088.com/spotlight/",
-        "description": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 26 # Comments: 9",
+        "description": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 38 # Comments: 25",
         "source": "HackerNews",
         "published": "2026-08-19T21:11:31+00:00"
       },
       {
         "title": "DFlash 2: Keep Drafting Parallel",
         "link": "https://inco.ai/blog/dflash2/",
-        "description": "Article URL: https://inco.ai/blog/dflash2/ Comments URL: https://news.ycombinator.com/item?id=49366792 Points: 56 # Comments: 6",
+        "description": "Article URL: https://inco.ai/blog/dflash2/ Comments URL: https://news.ycombinator.com/item?id=49366792 Points: 70 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-19T20:28:43+00:00"
       },
       {
         "title": "Pressed Penny Machine Map",
         "link": "https://pennypresses.net/home/map.php",
-        "description": "Article URL: https://pennypresses.net/home/map.php Comments URL: https://news.ycombinator.com/item?id=49366597 Points: 33 # Comments: 30",
+        "description": "Article URL: https://pennypresses.net/home/map.php Comments URL: https://news.ycombinator.com/item?id=49366597 Points: 41 # Comments: 35",
         "source": "HackerNews",
         "published": "2026-08-19T20:13:47+00:00"
       },
@@ -103,7 +117,7 @@
       {
         "title": "Xwayland 26.1.0 rc1",
         "link": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-        "description": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html Comments URL: https://news.ycombinator.com/item?id=49366474 Points: 40 # Comments: 17",
+        "description": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html Comments URL: https://news.ycombinator.com/item?id=49366474 Points: 52 # Comments: 35",
         "source": "HackerNews",
         "published": "2026-08-19T20:03:03+00:00"
       },
@@ -113,6 +127,13 @@
         "description": "Have we tried turning off society and turning it back on again?",
         "source": "TechCrunch",
         "published": "2026-08-19T20:01:02+00:00"
+      },
+      {
+        "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+        "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+        "description": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone...",
+        "source": "The Verge",
+        "published": "2026-08-19T19:52:12-04:00"
       },
       {
         "title": "Passat Paketleri Nelerdir? (Paket Sıralaması)",
@@ -131,7 +152,7 @@
       {
         "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
         "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-        "description": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/ Comments URL: https://news.ycombinator.com/item?id=49365841 Points: 107 # Comments: 31",
+        "description": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/ Comments URL: https://news.ycombinator.com/item?id=49365841 Points: 126 # Comments: 34",
         "source": "HackerNews",
         "published": "2026-08-19T19:06:16+00:00"
       },
@@ -143,32 +164,11 @@
         "published": "2026-08-19T19:00:00+00:00"
       },
       {
-        "title": "Does giving a camera wings dodge the FCC’s drone ban?",
-        "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-        "description": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone...",
-        "source": "The Verge",
-        "published": "2026-08-19T18:36:50-04:00"
-      },
-      {
         "title": "Unsloth Dynamic 3.0 GGUFs",
         "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-        "description": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs Comments URL: https://news.ycombinator.com/item?id=49365443 Points: 162 # Comments: 54",
+        "description": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs Comments URL: https://news.ycombinator.com/item?id=49365443 Points: 181 # Comments: 65",
         "source": "HackerNews",
         "published": "2026-08-19T18:36:45+00:00"
-      },
-      {
-        "title": "Rules of good social skills (2025)",
-        "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
-        "description": "https://web.archive.org/web/20260515105039/https://liamrosen... Comments URL: https://news.ycombinator.com/item?id=49365419 Points: 75 # Comments: 35",
-        "source": "HackerNews",
-        "published": "2026-08-19T18:34:45+00:00"
-      },
-      {
-        "title": "Go 1.27",
-        "link": "https://go.dev/blog/go1.27",
-        "description": "Article URL: https://go.dev/blog/go1.27 Comments URL: https://news.ycombinator.com/item?id=49365405 Points: 392 # Comments: 89",
-        "source": "HackerNews",
-        "published": "2026-08-19T18:33:49+00:00"
       },
       {
         "title": "Vine Videoları Divine ile Yeniden İzlenebiliyor",
@@ -355,18 +355,46 @@
     ],
     "dunya": [
       {
+        "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
+        "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+        "source": "BBC News",
+        "published": "2026-08-20T00:53:20+00:00"
+      },
+      {
+        "title": "Weekly type 2 diabetes jab could replace daily injections",
+        "link": "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of thousands of people with type 2 diabetes could get access to a new weekly insulin jab to replace daily injections.",
+        "source": "BBC News",
+        "published": "2026-08-20T00:39:40+00:00"
+      },
+      {
+        "title": "Vapes could lead to health harms in children, doctors warn",
+        "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
+        "description": "A Royal College of Paediatrics and Child Health has published a report with concerns vaping is a gateway to smoking",
+        "source": "BBC News",
+        "published": "2026-08-20T00:35:22+00:00"
+      },
+      {
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "description": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR)...",
+        "source": "The Guardian",
+        "published": "2026-08-20T00:14:17+00:00"
+      },
+      {
+        "title": "Downpours to continue for UK with risk of flash flooding",
+        "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+        "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
+        "source": "BBC News",
+        "published": "2026-08-19T23:56:33+00:00"
+      },
+      {
         "title": "Prince Harry and Meghan moving back to UK",
         "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
         "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
         "source": "BBC News",
-        "published": "2026-08-19T21:59:03+00:00"
-      },
-      {
-        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-        "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-        "source": "BBC News",
-        "published": "2026-08-19T21:32:15+00:00"
+        "published": "2026-08-19T23:52:07+00:00"
       },
       {
         "title": "People smuggler exposed by BBC investigation arrested and charged",
@@ -374,13 +402,6 @@
         "description": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
         "source": "BBC News",
         "published": "2026-08-19T20:54:51+00:00"
-      },
-      {
-        "title": "Male prisons in England and Wales have fewer than 1,800 spaces",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1v9elzvdo?at_medium=RSS&at_campaign=rss",
-        "description": "Male prisons have less than 1,800 spaces available in England and Wales, the lowest level since March",
-        "source": "BBC News",
-        "published": "2026-08-19T20:45:55+00:00"
       },
       {
         "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -425,11 +446,11 @@
         "published": "2026-08-19T17:20:15-04:00"
       },
       {
-        "title": "Salmonella outbreak: What we know so far",
-        "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs.",
+        "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
+        "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
+        "description": "Some pupils in England will be able to see their grades on their phones from 11:00 BST on Thursday.",
         "source": "BBC News",
-        "published": "2026-08-19T16:43:56+00:00"
+        "published": "2026-08-19T17:09:34+00:00"
       },
       {
         "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
@@ -453,25 +474,11 @@
         "published": "2026-08-19T15:33:32+00:00"
       },
       {
-        "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-        "description": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
-        "source": "BBC News",
-        "published": "2026-08-19T15:01:57+00:00"
-      },
-      {
         "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
         "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
         "description": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back Europe live – latest updates The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to...",
         "source": "The Guardian",
         "published": "2026-08-19T14:33:24+00:00"
-      },
-      {
-        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-        "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
-        "source": "BBC News",
-        "published": "2026-08-19T14:06:42+00:00"
       },
       {
         "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
@@ -551,13 +558,6 @@
         "published": "2026-08-15T19:39:07+00:00"
       },
       {
-        "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
-        "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-        "description": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security...",
-        "source": "The Guardian",
-        "published": "2026-08-15T18:08:21+00:00"
-      },
-      {
         "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
         "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
         "description": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the...",
@@ -567,11 +567,18 @@
     ],
     "turkiye": [
       {
+        "title": "Trump: İran'a karşı tarihin en ağır ekonomik operasyonunu başlatıyoruz",
+        "link": "https://www.sozcu.com.tr/trump-irana-karsi-tarihin-en-agir-ekonomik-operasyonunu-baslatiyoruz-p350955",
+        "description": "Trump: İran'a karşı tarihin en ağır ekonomik operasyonunu başlatıyoruz",
+        "source": "Sözcü",
+        "published": "2026-08-20T04:04:45+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-agustos-2026-1738066",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-20T02:30:00+03:00"
+        "published": "2026-08-20T04:00:00+03:00"
       },
       {
         "title": "İstanbul Adalar'da peş peşe depremler",
@@ -579,13 +586,6 @@
         "description": "Marmara Denizi’nde en büyüğü 3.2 olmak üzere peş peşe depremler meydana geldi.",
         "source": "NTV",
         "published": "2026-08-20T01:33:25+03:00"
-      },
-      {
-        "title": "Zeytinburnu açıklarındaki gemiden yardım çağrısı",
-        "link": "https://www.sozcu.com.tr/zeytinburnu-aciklarindaki-gemiden-yardim-cagrisi-p350948",
-        "description": "Zeytinburnu açıklarındaki gemiden yardım çağrısı",
-        "source": "Sözcü",
-        "published": "2026-08-20T01:06:46+03:00"
       },
       {
         "title": "Altın madeninden geriye çorak arazi kalmıştı: Dronlarla binlercesini bıraktılar",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 47.9256,
-    "eur_try": 55.4769,
-    "eur_usd": 0.8639
+    "usd_try": 47.9807,
+    "eur_try": 55.9524,
+    "eur_usd": 0.8584
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+83°F",
-    "wind": "↗2mph",
-    "humidity": "40%"
+    "temp": "+81°F",
+    "wind": "↓6mph",
+    "humidity": "54%"
   }
 }
