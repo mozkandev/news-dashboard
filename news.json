@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-08-20T21:33:17.919555+00:00",
+  "updated_at": "2026-08-20T22:26:26.592781+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+        "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "source": "TechCrunch",
+        "published": "2026-08-20T22:09:51+00:00"
+      },
+      {
+        "title": "Scientists Release Biggest 2D Map of the Universe",
+        "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "description": "Article URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/ Comments URL: https://news.ycombinator.com/item?id=49380671 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-20T21:42:51+00:00"
+      },
+      {
+        "title": "Citizen Devs: Everyone is an engineer now",
+        "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+        "description": "Article URL: https://www.massdriver.cloud/blogs/the-citizen-developer Comments URL: https://news.ycombinator.com/item?id=49380491 Points: 13 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-20T21:25:48+00:00"
+      },
+      {
+        "title": "Code as an Artifact",
+        "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+        "description": "Article URL: https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/ Comments URL: https://news.ycombinator.com/item?id=49380482 Points: 8 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-20T21:24:57+00:00"
+      },
       {
         "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
         "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
@@ -10,16 +38,16 @@
         "published": "2026-08-20T21:08:34+00:00"
       },
       {
-        "title": "Ok, can we actually cool data centers with our pee?",
+        "title": "OK, can we actually cool data centers with our pee?",
         "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-        "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+        "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
         "source": "TechCrunch",
         "published": "2026-08-20T20:53:13+00:00"
       },
       {
         "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
         "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-        "description": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ Comments URL: https://news.ycombinator.com/item?id=49379550 Points: 181 # Comments: 21",
+        "description": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ Comments URL: https://news.ycombinator.com/item?id=49379550 Points: 369 # Comments: 58",
         "source": "HackerNews",
         "published": "2026-08-20T20:07:26+00:00"
       },
@@ -38,13 +66,6 @@
         "published": "2026-08-20T19:55:40+00:00"
       },
       {
-        "title": "Stop eating Lady Gaga's Oreos",
-        "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
-        "description": "Article URL: https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos Comments URL: https://news.ycombinator.com/item?id=49379253 Points: 143 # Comments: 79",
-        "source": "HackerNews",
-        "published": "2026-08-20T19:46:06+00:00"
-      },
-      {
         "title": "Bayraktar KALKAN DİHA Envantere Alındı",
         "link": "https://shiftdelete.net/bayraktar-kalkan-diha-envantere-alindi",
         "description": "BAYKAR tarafından geliştirilen Bayraktar KALKAN DİHA için envantere giriş töreni, TEKNOFEST Mavi Vatan’ın açılış programının ardından TCG Oruçreis üzerinde gerçekleştirildi. Törene Milli Savunma Bakanı Yaşar Güler, Savunma Sanayii Başkanı Haluk...",
@@ -52,30 +73,23 @@
         "published": "2026-08-20T19:30:35+00:00"
       },
       {
-        "title": "GitHub, autoscaling, and the component substitution fallacy",
-        "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-        "description": "Article URL: https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/ Comments URL: https://news.ycombinator.com/item?id=49379026 Points: 15 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-20T19:28:18+00:00"
-      },
-      {
         "title": "The August 17 outage, and the work ahead",
         "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-        "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 91 # Comments: 105",
+        "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 153 # Comments: 168",
         "source": "HackerNews",
         "published": "2026-08-20T19:22:24+00:00"
       },
       {
         "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
         "link": "https://tidalcycles.org/",
-        "description": "Article URL: https://tidalcycles.org/ Comments URL: https://news.ycombinator.com/item?id=49378950 Points: 26 # Comments: 5",
+        "description": "Article URL: https://tidalcycles.org/ Comments URL: https://news.ycombinator.com/item?id=49378950 Points: 33 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-08-20T19:21:45+00:00"
       },
       {
         "title": "SpacetimeDB: A Short Technical Review",
         "link": "https://strn.cat/posts/spacetime/",
-        "description": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 25 # Comments: 6",
+        "description": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 36 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-20T19:19:53+00:00"
       },
@@ -110,14 +124,14 @@
       {
         "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
         "link": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-        "description": "Article URL: https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/ Comments URL: https://news.ycombinator.com/item?id=49378630 Points: 249 # Comments: 100",
+        "description": "Article URL: https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/ Comments URL: https://news.ycombinator.com/item?id=49378630 Points: 267 # Comments: 102",
         "source": "HackerNews",
         "published": "2026-08-20T18:54:32+00:00"
       },
       {
         "title": "Why aren't smart people happier? (2022)",
         "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-        "description": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 39 # Comments: 51",
+        "description": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 47 # Comments: 66",
         "source": "HackerNews",
         "published": "2026-08-20T18:38:47+00:00"
       },
@@ -136,11 +150,11 @@
         "published": "2026-08-20T18:20:35+00:00"
       },
       {
-        "title": "Consumer Rights Wiki",
-        "link": "https://consumerrights.wiki/w/Main_Page",
-        "description": "Article URL: https://consumerrights.wiki/w/Main_Page Comments URL: https://news.ycombinator.com/item?id=49378243 Points: 95 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-20T18:19:51+00:00"
+        "title": "Google Discover is getting an AI chatbot-tuned feed",
+        "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+        "description": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for...",
+        "source": "The Verge",
+        "published": "2026-08-20T17:50:22-04:00"
       },
       {
         "title": "BMW, 27 Binden Fazla Aracı Geri Çağırdı: İşte Sebebi!",
@@ -162,13 +176,6 @@
         "description": "Türkiye, katmanlı hava savunma mimarisi ÇELİKKUBBE’yi deniz platformlarına taşımaya hazırlanıyor. ASELSAN Genel Müdürü Ahmet Akyol, TEKNOFEST Mavi Vatan kapsamında yaptığı açıklamada, TF-2000 Hava Savunma Harbi Muhribi’nin bu mimarinin denizdeki...",
         "source": "ShiftDelete",
         "published": "2026-08-20T17:30:27+00:00"
-      },
-      {
-        "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
-        "source": "TechCrunch",
-        "published": "2026-08-20T17:27:47+00:00"
       },
       {
         "title": "Kameralı AirPods'u Bekleyenlere Üzücü Haber: Bu Yıl Gelmeyecek!",
@@ -344,16 +351,16 @@
         "description": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best...",
         "source": "The Verge",
         "published": "2026-08-20T11:08:38-04:00"
-      },
-      {
-        "title": "Amazon’s drone deliveries are landing in pools and ponds",
-        "link": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
-        "description": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon delivery drone hovering over a...",
-        "source": "The Verge",
-        "published": "2026-08-20T10:59:21-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "French becoming more effective in stopping small boat crossings, UK says",
+        "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
+        "source": "BBC News",
+        "published": "2026-08-20T22:23:24+00:00"
+      },
       {
         "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
         "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
@@ -397,13 +404,6 @@
         "published": "2026-08-20T16:54:51+00:00"
       },
       {
-        "title": "Man charged over Manchester synagogue attack",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
-        "description": "Police say the man is accused of failing to disclose information regarding terrorist activity.",
-        "source": "BBC News",
-        "published": "2026-08-20T16:17:27+00:00"
-      },
-      {
         "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
         "link": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
         "description": "The 62-year-old said that his \"world was turned upside down\" when a brain tumour was discovered.",
@@ -432,7 +432,7 @@
         "published": "2026-08-20T14:28:32+00:00"
       },
       {
-        "title": "Three things to know about the $40 trillion federal debt",
+        "title": "3 things to know about the $40 trillion federal debt",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
         "description": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
         "source": "NPR",
@@ -567,11 +567,32 @@
     ],
     "turkiye": [
       {
+        "title": "Paraşütle uçaktan atılan 76 kunduz bölgenin kaderini değiştirdi",
+        "link": "https://www.sozcu.com.tr/parasutle-ucaktan-atilan-76-kunduz-bolgenin-kaderini-degistirdi-p351274",
+        "description": "Paraşütle uçaktan atılan 76 kunduz bölgenin kaderini değiştirdi",
+        "source": "Sözcü",
+        "published": "2026-08-21T01:00:46+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-agustos-2026-1738210",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-21T00:30:00+03:00"
+        "published": "2026-08-21T01:00:00+03:00"
+      },
+      {
+        "title": "Yalçın Koşukavak’ın kadın gazetecilere yönelik sözleri şehri karıştırdı! ‘Bilsem kısırımı da altını mı da alırdım, gün yapardık’",
+        "link": "https://www.sozcu.com.tr/yalcin-kosukavak-in-kadin-gazetecilere-yonelik-sozleri-mugla-yi-karistirdi-bilsem-kisirimi-da-altini-p351273",
+        "description": "Yalçın Koşukavak’ın kadın gazetecilere yönelik sözleri şehri karıştırdı! ‘Bilsem kısırımı da altını mı da alırdım, gün y...",
+        "source": "Sözcü",
+        "published": "2026-08-21T00:56:51+03:00"
+      },
+      {
+        "title": "Arif Ahmet Denizolgun’un naaşı yeniden defnedildi. Hazırlanacak rapor bekleniyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-arif-ahmet-denizolgunun-naasi-yeniden-defnedildi-hazirlanacak-rapor-bekleniyor-1738207",
+        "description": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un fethi kabir işlemi tamamlandı. Mezardan çıkarılan örnekler yeniden kabrine konulurken, yapılacak incelemenin ardından hazırlanacak rapor bekleniyor.",
+        "source": "NTV",
+        "published": "2026-08-21T00:33:33+03:00"
       },
       {
         "title": "Güvende olmak için set yaptılar, kendi evlerini sular altında bıraktılar",
@@ -623,32 +644,11 @@
         "published": "2026-08-20T22:54:05+03:00"
       },
       {
-        "title": "Arif Ahmet Denizolgun’un naaşı yeniden defnedildi. Hazırlanacak rapor bekleniyor",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-arif-ahmet-denizolgunun-naasi-yeniden-defnedildi-hazirlanacak-rapor-bekleniyor-1738207",
-        "description": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un fethi kabir işlemi tamamlandı. Mezardan çıkarılan örnekler yeniden kabrine konulurken, yapılacak incelemenin ardından hazırlanacak rapor bekleniyor.",
-        "source": "NTV",
-        "published": "2026-08-20T22:53:31+03:00"
-      },
-      {
         "title": "Italiano'nun hırsı dikkat çekti: Daha iyi olmalıyız, bu yetmez",
         "link": "https://www.sozcu.com.tr/italiano-nun-hirsi-dikkat-cekti-daha-iyi-olmaliyiz-bu-yetmez-p351255",
         "description": "Italiano'nun hırsı dikkat çekti: Daha iyi olmalıyız, bu yetmez",
         "source": "Sözcü",
         "published": "2026-08-20T22:50:30+03:00"
-      },
-      {
-        "title": "NATO'dan İran'a sert uyarı: Gerekeni yaparız",
-        "link": "https://www.sozcu.com.tr/natodan-irana-sert-uyari-gerekeni-yapariz-p351253",
-        "description": "NATO'dan İran'a sert uyarı: Gerekeni yaparız",
-        "source": "Sözcü",
-        "published": "2026-08-20T22:48:13+03:00"
-      },
-      {
-        "title": "Temel kazısı sırasında tesadüfen bulundu: İşçiler hemen polisi çağırdı",
-        "link": "https://www.sozcu.com.tr/temel-kazisi-sirasinda-tesadufen-bulundu-isciler-hemen-polisi-cagirdi-p351254",
-        "description": "Temel kazısı sırasında tesadüfen bulundu: İşçiler hemen polisi çağırdı",
-        "source": "Sözcü",
-        "published": "2026-08-20T22:46:15+03:00"
       },
       {
         "title": "Çiğli Belediye Başkanı'nın makam aracına silahlı saldırı. Saldırgan böyle yakalandı",
@@ -658,18 +658,25 @@
         "published": "2026-08-20T22:19:43+03:00"
       },
       {
+        "title": "İngiltere, Fransa, Almanya, İtalya ve Kanada'dan İsrail'in Batı Şeria'daki yerleşim projesine kınama",
+        "link": "https://www.bbc.com/turkce/articles/ceqe4x22en5o?at_medium=RSS&at_campaign=rss",
+        "description": "Avrupa ülkeleri ve Kanada, İsrail'in işgal altındaki Batı Şeria'nın stratejik açıdan hayati önem taşıyan bir bölgesinde yerleşim yerlerini genişletme planları konusunda baskıyı artırıyor.",
+        "source": "BBC Turkish",
+        "published": "2026-08-20T21:57:49+00:00"
+      },
+      {
+        "title": "MSB: Ebu Zuhur Hava Üssü'nde Türk askeri yoktu",
+        "link": "https://www.bbc.com/turkce/articles/ce97lel228do?at_medium=RSS&at_campaign=rss",
+        "description": "Milli Savunma Bakanlığı (MSB), İsrail'in saldırı düzenlediği Suriye'deki Ebu Zuhur Hava Üssü'nde Türk askeri varlığı bulunmadığını açıkladı. MSB'nin haftalık basın toplantısındaki değerlendirmede İsrail'e \"pervasız saldırılarına son vermesi\" çağrısı...",
+        "source": "BBC Turkish",
+        "published": "2026-08-20T21:56:50+00:00"
+      },
+      {
         "title": "Cumhurbaşkanı Erdoğan dev teknoloji hamlesini duyurdu. 550 doktora öğrencisi eğitilecek",
         "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-dev-teknoloji-hamlesini-duyurdu-550-doktora-ogrencisi-egitilecek-1738198",
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Stratejik Teknoloji İnsan Kaynağı Programı'nı açıkladı.",
         "source": "NTV",
         "published": "2026-08-20T19:48:37+03:00"
-      },
-      {
-        "title": "İngiltere, Fransa, Almanya, İtalya ve Kanada'dan İsrail'in Batı Şeria'daki yerleşim projesine kınama",
-        "link": "https://www.bbc.com/turkce/articles/ceqe4x22en5o?at_medium=RSS&at_campaign=rss",
-        "description": "Avrupa ülkeleri ve Kanada, İsrail'in işgal altındaki Batı Şeria'nın stratejik açıdan hayati önem taşıyan bir bölgesinde yerleşim yerlerini genişletme planları konusunda baskıyı artırıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-08-20T19:31:26+00:00"
       },
       {
         "title": "İsrail medyası Ebu Zuhur Hava Üssü saldırısını nasıl yorumladı?",
@@ -749,13 +756,6 @@
         "published": "2026-08-20T13:00:05+00:00"
       },
       {
-        "title": "MSB: Ebu Zuhur Hava Üssü'nde Türk askeri yoktu",
-        "link": "https://www.bbc.com/turkce/articles/ce97lel228do?at_medium=RSS&at_campaign=rss",
-        "description": "Milli Savunma Bakanlığı (MSB), İsrail'in saldırı düzenlediği Suriye'deki Ebu Zuhur Hava Üssü'nde Türk askeri varlığı bulunmadığını açıkladı. MSB'nin haftalık basın toplantısındaki değerlendirmede İsrail'e \"pervasız saldırılarına son vermesi\" çağrısı...",
-        "source": "BBC Turkish",
-        "published": "2026-08-20T12:44:42+00:00"
-      },
-      {
         "title": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye'nin ilk maçı yarın",
         "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
         "description": "Avrupa Kadınlar Voleybol Şampiyonası yarın başlıyor. Son şampiyon Türkiye'nin ilk maçı Cuma günü İstanbul'da Letonya karşısına çıkacak.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+98°F",
-    "wind": "↑5mph",
-    "humidity": "34%"
+    "temp": "+85°F",
+    "wind": "↑7mph",
+    "humidity": "54%"
   }
 }
