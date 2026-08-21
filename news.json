@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-08-21T17:57:45.898405+00:00",
+  "updated_at": "2026-08-21T18:46:05.959297+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Google Messages’da Grup Sohbetleri Güncelleniyor",
+        "link": "https://shiftdelete.net/google-messagesda-grup-sohbetleri-guncelleniyor",
+        "description": "Google Messages, grup sohbetlerine bağlantı ve QR kod ile katılım imkanı sunan yeni özelliğini beta sürümünde test etmeye başladı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-21T18:30:00+00:00"
+      },
+      {
+        "title": "Tesla’s solar roof is dead — here’s what went wrong",
+        "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+        "description": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+        "source": "TechCrunch",
+        "published": "2026-08-21T18:09:53+00:00"
+      },
       {
         "title": "FC 27 Süper Lig Reytingleri Açıklandı",
         "link": "\n                    https://www.webtekno.com/fc-27-super-lig-reytingleri-aciklandi-h222808.html\n                    ",
         "description": "EA, FC 27'de Süper Lig'in en yüksek reytingine sahip 27 oyuncusunu açıkladı.",
         "source": "Webtekno",
         "published": "2026-08-21T18:00:05+03:00"
+      },
+      {
+        "title": "Tesla Dahil 11 Üretici 4 Milyon Aracı Geri Çağırıyor: Sorun Kapı Kolları",
+        "link": "https://shiftdelete.net/tesla-dahil-11-uretici-4-milyon-araci-geri-cagiriyor-sorun-kapi-kollari",
+        "description": "Çin'de Tesla dahil 11 üretici, gizli kapı kolları nedeniyle 4,3 milyon aracı geri çağırıyor. İşte güvenlik riski oluşturan bu durumun detayları.",
+        "source": "ShiftDelete",
+        "published": "2026-08-21T18:00:00+00:00"
       },
       {
         "title": "Waymo hands over documents in NHTSA’s child collision probe",
@@ -19,7 +40,7 @@
       {
         "title": "Rebuilding our Electron meeting-recording engine in Swift",
         "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-        "description": "Article URL: https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift Comments URL: https://news.ycombinator.com/item?id=49391389 Points: 4 # Comments: 0",
+        "description": "Article URL: https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift Comments URL: https://news.ycombinator.com/item?id=49391389 Points: 22 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-21T17:33:26+00:00"
       },
@@ -29,6 +50,20 @@
         "description": "Cyberleek'in GTA 6'ya yönelik bir dizi video sızdırmasının ardından pek çok GTA 6 indirme sitesi boy göstermeye başladı.",
         "source": "Webtekno",
         "published": "2026-08-21T17:32:10+03:00"
+      },
+      {
+        "title": "When the shortage is the strategy",
+        "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
+        "description": "Article URL: https://nooneshappy.com/article/when-the-shortage-is-the-strategy/ Comments URL: https://news.ycombinator.com/item?id=49391358 Points: 26 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-08-21T17:31:15+00:00"
+      },
+      {
+        "title": "Galactic Compass 2: now with new augmented reality mode",
+        "link": "https://interconnected.org/home/2026/08/21/galactic",
+        "description": "Show HN: Galactic Compass – an app that points to the galactic center - https://news.ycombinator.com/item?id=39389858 - Feb 2024 (60 comments) Comments URL: https://news.ycombinator.com/item?id=49391348 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-21T17:30:38+00:00"
       },
       {
         "title": "DLSS 4.5 Geliyor: İşte NVIDIA’nın Yeni Sürücüsünün Detayları",
@@ -73,16 +108,16 @@
         "published": "2026-08-21T16:53:39+00:00"
       },
       {
-        "title": "Another Better Lower Bound for N=17 Square Packing",
+        "title": "Another better lower bound for n=17 square packing",
         "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-        "description": "Article URL: http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html Comments URL: https://news.ycombinator.com/item?id=49390775 Points: 6 # Comments: 0",
+        "description": "Article URL: http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html Comments URL: https://news.ycombinator.com/item?id=49390775 Points: 12 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-21T16:50:15+00:00"
       },
       {
         "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
         "link": "https://github.com/proliferate-ai/proliferate",
-        "description": "Hi HN- I'm Pablo, the founder of Proliferate! Proliferate ( https://github.com/proliferate-ai/proliferate ) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one...",
+        "description": "Hi HN- I'm Pablo, the founder of Proliferate (YC S25)! Proliferate ( https://github.com/proliferate-ai/proliferate ) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in...",
         "source": "HackerNews",
         "published": "2026-08-21T16:47:15+00:00"
       },
@@ -108,23 +143,23 @@
         "published": "2026-08-21T16:29:52+03:00"
       },
       {
-        "title": "A self hosted AI software factory",
+        "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
         "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "description": "Article URL: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/ Comments URL: https://news.ycombinator.com/item?id=49390463 Points: 15 # Comments: 5",
+        "description": "Article URL: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/ Comments URL: https://news.ycombinator.com/item?id=49390463 Points: 26 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-08-21T16:27:52+00:00"
       },
       {
         "title": "Kobo can run apps now",
         "link": "https://bandarlabs.github.io/Cobalt/",
-        "description": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 48 # Comments: 11",
+        "description": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 111 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-08-21T16:25:25+00:00"
       },
       {
         "title": "What happens when a GPU reads memory",
         "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-        "description": "Article URL: https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory Comments URL: https://news.ycombinator.com/item?id=49390308 Points: 18 # Comments: 1",
+        "description": "Article URL: https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory Comments URL: https://news.ycombinator.com/item?id=49390308 Points: 37 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-08-21T16:16:42+00:00"
       },
@@ -136,11 +171,11 @@
         "published": "2026-08-21T16:15:03+03:00"
       },
       {
-        "title": "Omacom Foundation Launches with $8M",
-        "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-        "description": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/ Comments URL: https://news.ycombinator.com/item?id=49390132 Points: 110 # Comments: 85",
+        "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
+        "link": "https://github.com/aravpanwar/decayfmt",
+        "description": "Article URL: https://github.com/aravpanwar/decayfmt Comments URL: https://news.ycombinator.com/item?id=49390206 Points: 16 # Comments: 4",
         "source": "HackerNews",
-        "published": "2026-08-21T16:03:47+00:00"
+        "published": "2026-08-21T16:09:50+00:00"
       },
       {
         "title": "MIT Silikona Meydan Okudu: Bakterilerden \"Canlı Devre Kartı\" Üretildi!",
@@ -171,25 +206,11 @@
         "published": "2026-08-21T16:01:25+03:00"
       },
       {
-        "title": "I Just Want to Search",
-        "link": "https://www.0xsid.com/blog/just-want-to-search",
-        "description": "Article URL: https://www.0xsid.com/blog/just-want-to-search Comments URL: https://news.ycombinator.com/item?id=49390099 Points: 64 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-08-21T16:00:54+00:00"
-      },
-      {
         "title": "Çin’den YouTube’a Yerli Rakip: Dünyaya Açılıyor",
         "link": "https://shiftdelete.net/cinden-youtubea-yerli-rakip-dunyaya-aciliyor",
         "description": "Çin'in popüler video platformu Bilibili, kimlik doğrulama zorunluluğunu kaldırarak ve yeni uygulamasıyla küresel pazara açılıyor.",
         "source": "ShiftDelete",
         "published": "2026-08-21T16:00:00+00:00"
-      },
-      {
-        "title": "New York’s office market is home to the most tech workers: CBRE report",
-        "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-        "description": "Article URL: https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html Comments URL: https://news.ycombinator.com/item?id=49389722 Points: 11 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-08-21T15:36:16+00:00"
       },
       {
         "title": "BMW iX3 Rekor Kırdı: Tek Şarjla Sınırları Zorladı",
@@ -227,6 +248,13 @@
         "published": "2026-08-21T14:30:00+00:00"
       },
       {
+        "title": "Pixel 11 gets in on the digicam trend",
+        "link": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
+        "description": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years. That might be...",
+        "source": "The Verge",
+        "published": "2026-08-21T14:24:41-04:00"
+      },
+      {
         "title": "iPhone 11 5G Destekliyor mu?",
         "link": "https://shiftdelete.net/iphone-11-5g-destekliyor-mu",
         "description": "iPhone 11 5G destekliyor mu? sorusu, eski iPhone cihazlarını satın alacak olan kullanıcılar için merak konusudur. 2019 yılında piyasaya sürülen iPhone 11, dönemin güçlü özelliklerine sahip olsa da yeni nesil 5G bağlantı teknolojisini desteklemiyor....",
@@ -238,13 +266,6 @@
         "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
         "description": "There's about to be a big fight to secure access to space.",
         "source": "TechCrunch",
-        "published": "2026-08-21T14:00:00+00:00"
-      },
-      {
-        "title": "Uzay Araçları Tehlikede: NASA’da Dev Güvenlik Açığı",
-        "link": "https://shiftdelete.net/uzay-araclari-tehlikede-nasada-dev-guvenlik-acigi",
-        "description": "NASA'nın uzay araçlarını yönettiği AIT-GUI yazılımında şifresiz erişime izin veren kritik bir güvenlik açığı tespit edildi. Detaylar haberimizde.",
-        "source": "ShiftDelete",
         "published": "2026-08-21T14:00:00+00:00"
       },
       {
@@ -269,13 +290,6 @@
         "published": "2026-08-21T13:35:06-04:00"
       },
       {
-        "title": "Akıllı telefon Satışları Dibi Gördü: İşte Araştırmanın Detayları",
-        "link": "https://shiftdelete.net/akilli-telefon-satislari-dibi-gordu-iste-arastirmanin-detaylari",
-        "description": "Avrupa akıllı telefon pazarı, ikinci çeyrekte yüzde 10 düşüşle son üç yılın en düşük sevkiyat hacmine geriledi. İşte pazarın güncel durumu.",
-        "source": "ShiftDelete",
-        "published": "2026-08-21T13:30:00+00:00"
-      },
-      {
         "title": "Senator asks US government watchdog to review how feds use hacking tools",
         "link": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
         "description": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
@@ -297,11 +311,11 @@
         "published": "2026-08-21T12:52:56-04:00"
       },
       {
-        "title": "Pixel 11 gets in on the digicam trend",
-        "link": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
-        "description": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years. That might be...",
+        "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
+        "link": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+        "description": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for...",
         "source": "The Verge",
-        "published": "2026-08-21T12:27:05-04:00"
+        "published": "2026-08-21T11:29:55-04:00"
       },
       {
         "title": "Why does it seem like food recalls are out of control this year?",
@@ -332,20 +346,6 @@
         "published": "2026-08-21T09:13:24-04:00"
       },
       {
-        "title": "Patreon is changing its algorithm to help smaller creators get discovered",
-        "link": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
-        "description": "Patreon has announced a number of new and overhauled features that are designed to \"build a better network - and a better internet,\" according to CEO Jack Conte. The Patreon roadmap includes discovery algorithm updates, platform and security...",
-        "source": "The Verge",
-        "published": "2026-08-21T07:08:09-04:00"
-      },
-      {
-        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-        "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-        "description": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
-        "source": "TechCrunch",
-        "published": "2026-08-21T00:23:36+00:00"
-      },
-      {
         "title": "My cats hate each other, but this automatic feeder is helping",
         "link": "https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies",
         "description": "Over the course of nearly a decade, my husband and I have dutifully carried out a four-times-daily ritual of feeding a pair of lovely cat siblings who hate each other. This was mostly manageable for years, but in 2024, disaster struck for my small...",
@@ -359,7 +359,28 @@
         "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
         "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
         "source": "BBC News",
-        "published": "2026-08-21T17:49:43+00:00"
+        "published": "2026-08-21T18:29:31+00:00"
+      },
+      {
+        "title": "Russian double-tap drone strike kills 14 in Ukrainian mall, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "description": "Another 121 people, including 22 children, were injured when the shopping centre was hit, according to the regional head.",
+        "source": "BBC News",
+        "published": "2026-08-21T18:23:11+00:00"
+      },
+      {
+        "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+        "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+        "description": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+        "source": "BBC News",
+        "published": "2026-08-21T18:09:38+00:00"
+      },
+      {
+        "title": "Murder investigation after wildfire uncovers body in park",
+        "link": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
+        "description": "A post-mortem examination revealed the remains belonged to a woman aged between 25 and 45.",
+        "source": "BBC News",
+        "published": "2026-08-21T17:46:04+00:00"
       },
       {
         "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
@@ -383,13 +404,6 @@
         "published": "2026-08-21T16:26:53+00:00"
       },
       {
-        "title": "Men admit trying to tunnel into jewellery shop",
-        "link": "https://www.bbc.co.uk/news/articles/cn4nk1v74yzo?at_medium=RSS&at_campaign=rss",
-        "description": "Three men who tried to break into a Tooting jewellers plead guilty to conspiring to commit burglary.",
-        "source": "BBC News",
-        "published": "2026-08-21T16:19:29+00:00"
-      },
-      {
         "title": "Watch: How 'strongest' El Niño could affect weather around the world",
         "link": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
         "description": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
@@ -397,25 +411,11 @@
         "published": "2026-08-21T15:33:28+00:00"
       },
       {
-        "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
-        "source": "BBC News",
-        "published": "2026-08-21T15:26:05+00:00"
-      },
-      {
         "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
         "link": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
         "description": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a...",
         "source": "The Guardian",
         "published": "2026-08-21T15:22:48+00:00"
-      },
-      {
-        "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-        "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-        "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-        "source": "BBC News",
-        "published": "2026-08-21T13:07:00+00:00"
       },
       {
         "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
@@ -567,18 +567,46 @@
     ],
     "turkiye": [
       {
+        "title": "Fenomen Ceyda Yakova'nın öldüğü kaza kask kamerasında",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-fenomen-ceyda-yakovanin-oldugu-kaza-kask-kamerasinda-1738334",
+        "description": "Fenomen Ceyda Yakova'nın hayatını kaybettiği kaza kask kamerasına yansıdı.",
+        "source": "NTV",
+        "published": "2026-08-21T21:42:54+03:00"
+      },
+      {
+        "title": "Erdoğan ile CHP'li başkan arasında dikkat çeken diyalog",
+        "link": "https://www.sozcu.com.tr/erdogan-ile-chp-li-baskan-arasinda-dikkat-ceken-diyalog-p351557",
+        "description": "Erdoğan ile CHP'li başkan arasında dikkat çeken diyalog",
+        "source": "Sözcü",
+        "published": "2026-08-21T21:37:43+03:00"
+      },
+      {
+        "title": "Shakhtar Donetsk Şampiyonlar Ligi kararını verdi",
+        "link": "https://www.sozcu.com.tr/shakhtar-donetsk-sampiyonlar-ligi-kararini-verdi-p351560",
+        "description": "Shakhtar Donetsk Şampiyonlar Ligi kararını verdi",
+        "source": "Sözcü",
+        "published": "2026-08-21T21:31:51+03:00"
+      },
+      {
+        "title": "Yoldan geçen tüm araçlar mora boyanmıştı: 2 firmaya rekor ceza",
+        "link": "https://www.sozcu.com.tr/yoldan-gecen-tum-araclar-mora-boyanmisti-2-firmaya-rekor-ceza-p351558",
+        "description": "Yoldan geçen tüm araçlar mora boyanmıştı: 2 firmaya rekor ceza",
+        "source": "Sözcü",
+        "published": "2026-08-21T21:17:15+03:00"
+      },
+      {
+        "title": "Milli yıldız takımının 11 gol attığı maçta devleşti: Galatasaray'ın 1 numaralı hedefiydi",
+        "link": "https://www.sozcu.com.tr/milli-yildiz-takiminin-11-gol-attigi-macta-devlesti-galatasaray-in-1-numarali-hedefiydi-p351559",
+        "description": "Milli yıldız takımının 11 gol attığı maçta devleşti: Galatasaray'ın 1 numaralı hedefiydi",
+        "source": "Sözcü",
+        "published": "2026-08-21T21:14:33+03:00"
+      },
+      {
         "title": "AK Parti Sözcüsü Çelik'ten İsrail'e tepki: Soykırım ve katliam Netanyahu'nun kimlik kartı olmuştur",
         "link": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-celikten-israile-tepki-soykirim-ve-katliam-netanyahunun-kimlik-karti-olmustur-1738326",
         "description": "AK Parti Sözcüsü Ömer Çelik, İsrail Başbakanlık Ofisi'nin Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik açıklamasına tepki gösterdi.",
         "source": "NTV",
         "published": "2026-08-21T20:45:01+03:00"
-      },
-      {
-        "title": "Ankara'da maden ocağında göçük: 1 işçi öldü, 12 işçi yaralandı",
-        "link": "https://www.sozcu.com.tr/ankara-maden-ocagi-gocuk-21-agustos-2026-p351548",
-        "description": "Ankara'da maden ocağında göçük: 1 işçi öldü, 12 işçi yaralandı",
-        "source": "Sözcü",
-        "published": "2026-08-21T20:44:57+03:00"
       },
       {
         "title": "Aboubakar Türkiye'ye dönüyor",
@@ -630,32 +658,11 @@
         "published": "2026-08-21T20:02:55+03:00"
       },
       {
-        "title": "Satılık mezarlık manzaralı daireler: Görenleri şaşkına çeviren manzara",
-        "link": "https://www.sozcu.com.tr/satilik-mezarlik-manzarali-daireler-gorenleri-saskina-ceviren-manzara-p351550",
-        "description": "Satılık mezarlık manzaralı daireler: Görenleri şaşkına çeviren manzara",
-        "source": "Sözcü",
-        "published": "2026-08-21T19:20:36+03:00"
-      },
-      {
         "title": "İsrail'in E1 planına ortak kınama: ''İki devletli çözümü tehdit ediyor''",
         "link": "https://www.ntv.com.tr/turkiye/israilin-e1-planina-ortak-kinama-iki-devletli-cozumu-tehdit-ediyor-1738327",
         "description": "Türkiye ve 7 ülke, İsrail’in işgal altındaki Filistin topraklarındaki yasa dışı yerleşim faaliyetlerini ve E1 planını kınayarak, uluslararası topluma acil önlem ve yaptırım çağrısı yaptı.",
         "source": "NTV",
         "published": "2026-08-21T19:13:37+03:00"
-      },
-      {
-        "title": "Dünya 1 numarası ABD Açık'tan çekildi",
-        "link": "https://www.sozcu.com.tr/dunya-1-numarasi-abd-acik-tan-cekildi-p351549",
-        "description": "Dünya 1 numarası ABD Açık'tan çekildi",
-        "source": "Sözcü",
-        "published": "2026-08-21T19:10:23+03:00"
-      },
-      {
-        "title": "Maçı yarıda bırakan Trossard'ın son durumu belli oldu",
-        "link": "https://www.sozcu.com.tr/maci-yarida-birakan-trossard-in-son-durumu-belli-oldu-p351546",
-        "description": "Maçı yarıda bırakan Trossard'ın son durumu belli oldu",
-        "source": "Sözcü",
-        "published": "2026-08-21T18:33:13+03:00"
       },
       {
         "title": "Türkiye dahil 11 ülkeden İsrail’in Suriye saldırılarına ortak kınama",
@@ -721,13 +728,6 @@
         "published": "2026-08-21T13:45:28+03:00"
       },
       {
-        "title": "300 milyon liralık para trafiği soruşturmasında 19 şüpheli adliyede",
-        "link": "https://www.ntv.com.tr/turkiye/300-milyon-liralik-para-trafigi-sorusturmasinda-19-supheli-adliyede-1738290",
-        "description": "39 şüphelinin gözaltına alındığı soruşturmada yaklaşık 300 milyon liralık para trafiği ortaya çıkarıldı. Paraların kripto platformlarına aktarıldığı belirlendi.",
-        "source": "NTV",
-        "published": "2026-08-21T13:26:27+03:00"
-      },
-      {
         "title": "Lindsay Clancy davasının gündeme taşıdığı doğum sonrası psikoz nedir?",
         "link": "https://www.bbc.com/turkce/articles/c8xn0r8lx8qo?at_medium=RSS&at_campaign=rss",
         "description": "Doğum sonrası psikozda hastalar mani, depresyon veya ikisinin bir karışımını yaşayabiliyor.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.856
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+62°F",
-    "wind": "↓5mph",
-    "humidity": "93%"
+    "condition": "Güneşli",
+    "temp": "+75°F",
+    "wind": "←4mph",
+    "humidity": "65%"
   }
 }
