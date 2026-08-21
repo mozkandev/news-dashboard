@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-08-21T22:51:06.700944+00:00",
+  "updated_at": "2026-08-21T23:22:43.285262+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "source": "TechCrunch",
+        "published": "2026-08-21T23:07:25+00:00"
+      },
       {
         "title": "Nvidia partners with data center developer Cloverleaf",
         "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
         "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
         "source": "TechCrunch",
         "published": "2026-08-21T22:37:38+00:00"
+      },
+      {
+        "title": "Three important steps in my maturation process",
+        "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+        "description": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 3 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-21T22:29:00+00:00"
+      },
+      {
+        "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
+        "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+        "description": "Article URL: https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e Comments URL: https://news.ycombinator.com/item?id=49394373 Points: 22 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-21T22:15:46+00:00"
       },
       {
         "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
@@ -19,7 +40,7 @@
       {
         "title": "Remotely Unlocking Electric Scooters",
         "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-        "description": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 7 # Comments: 0",
+        "description": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 14 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-08-21T21:32:07+00:00"
       },
@@ -80,13 +101,6 @@
         "published": "2026-08-21T19:57:46+00:00"
       },
       {
-        "title": "Quick impressions: A week of using Codex more than Claude",
-        "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "description": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 63 # Comments: 70",
-        "source": "HackerNews",
-        "published": "2026-08-21T19:51:48+00:00"
-      },
-      {
         "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
         "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
         "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -117,21 +131,14 @@
       {
         "title": "Tumble Forth – from assembly to OS with C compiler",
         "link": "https://tumbleforth.hardcoded.net/",
-        "description": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 33 # Comments: 3",
+        "description": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 43 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-08-21T18:59:52+00:00"
       },
       {
-        "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-        "description": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 39 # Comments: 39",
-        "source": "HackerNews",
-        "published": "2026-08-21T18:48:28+00:00"
-      },
-      {
         "title": "Scientists release biggest 2D map of the universe",
         "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-        "description": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 105 # Comments: 30",
+        "description": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 119 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-08-21T18:36:34+00:00"
       },
@@ -141,20 +148,6 @@
         "description": "Google Messages, grup sohbetlerine bağlantı ve QR kod ile katılım imkanı sunan yeni özelliğini beta sürümünde test etmeye başladı.",
         "source": "ShiftDelete",
         "published": "2026-08-21T18:30:00+00:00"
-      },
-      {
-        "title": "HoverAir’s transforming modular drone has already been halted in the US",
-        "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-        "description": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after...",
-        "source": "The Verge",
-        "published": "2026-08-21T18:14:11-04:00"
-      },
-      {
-        "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-        "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-        "description": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected...",
-        "source": "The Verge",
-        "published": "2026-08-21T18:13:34-04:00"
       },
       {
         "title": "Tesla’s solar roof is dead — here’s what went wrong",
@@ -241,13 +234,6 @@
         "published": "2026-08-21T17:00:00+00:00"
       },
       {
-        "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-        "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
-        "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department...",
-        "source": "TechCrunch",
-        "published": "2026-08-21T16:53:39+00:00"
-      },
-      {
         "title": "GTA 6'dan Araç Sürüşünü Ele Alan Yeni Oynanış Videosu Sızdırıldı [Video]",
         "link": "\n                    https://www.webtekno.com/gta-6-arac-surusu-yeni-oynanis-videosu-sizdirildi-h222799.html\n                    ",
         "description": "Cyberleek, GTA 6'ya yönelik oynanış sızıntılarına devam ediyor.",
@@ -264,21 +250,21 @@
       {
         "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
         "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "description": "Article URL: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/ Comments URL: https://news.ycombinator.com/item?id=49390463 Points: 67 # Comments: 46",
+        "description": "Article URL: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/ Comments URL: https://news.ycombinator.com/item?id=49390463 Points: 72 # Comments: 48",
         "source": "HackerNews",
         "published": "2026-08-21T16:27:52+00:00"
       },
       {
         "title": "Kobo can run apps now",
         "link": "https://bandarlabs.github.io/Cobalt/",
-        "description": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 349 # Comments: 121",
+        "description": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 371 # Comments: 127",
         "source": "HackerNews",
         "published": "2026-08-21T16:25:25+00:00"
       },
       {
         "title": "What happens when a GPU reads memory",
         "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-        "description": "Article URL: https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory Comments URL: https://news.ycombinator.com/item?id=49390308 Points: 84 # Comments: 15",
+        "description": "Article URL: https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory Comments URL: https://news.ycombinator.com/item?id=49390308 Points: 89 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-08-21T16:16:42+00:00"
       },
@@ -318,6 +304,13 @@
         "published": "2026-08-21T15:44:55-04:00"
       },
       {
+        "title": "Major YouTube creators are facing backlash for accepting AI money",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+        "description": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's...",
+        "source": "The Verge",
+        "published": "2026-08-21T15:16:43-04:00"
+      },
+      {
         "title": "Pixel 11 gets in on the digicam trend",
         "link": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
         "description": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years. That might be...",
@@ -351,9 +344,23 @@
         "description": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold. They’re good...",
         "source": "The Verge",
         "published": "2026-08-21T10:35:22-04:00"
+      },
+      {
+        "title": "Blue Eye Samurai’s second season will hit Netflix in January",
+        "link": "https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal",
+        "description": "Good news for Blue Eye Samurai fans: Netflix has shared the first trailer and release timeline for the second season of the animated series, and confirmed the series' return for a third and final season. The second season's new teaser ends with the...",
+        "source": "The Verge",
+        "published": "2026-08-21T09:24:55-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "More students planning to live at home for university over 'insane' living costs",
+        "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+        "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+        "source": "BBC News",
+        "published": "2026-08-21T23:01:58+00:00"
+      },
       {
         "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
         "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
@@ -409,13 +416,6 @@
         "description": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
         "source": "BBC News",
         "published": "2026-08-21T17:18:41+00:00"
-      },
-      {
-        "title": "Watch: UK marks first national day for victims and survivors of terrorism",
-        "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
-        "description": "Survivors of terror attacks gathered today at the first annual National day for Victims and Survivors of terrorism.",
-        "source": "BBC News",
-        "published": "2026-08-21T16:33:04+00:00"
       },
       {
         "title": "Watch: How 'strongest' El Niño could affect weather around the world",
@@ -567,11 +567,25 @@
     ],
     "turkiye": [
       {
+        "title": "Yabancı uyruklu kadın evinde ölü bulundu",
+        "link": "https://www.ntv.com.tr/turkiye/yabanci-uyruklu-kadin-evinde-olu-bulundu-1738350",
+        "description": "Kayseri'de yakınlarının haber alamadığı 61 yaşındaki yabancı uyruklu kadın, evinde ölü bulundu.",
+        "source": "NTV",
+        "published": "2026-08-22T02:01:24+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-agustos-2026-1738346",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-22T01:30:00+03:00"
+        "published": "2026-08-22T02:00:00+03:00"
+      },
+      {
+        "title": "5 ilde suç örgütüne operasyon. 36 şüpheli tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/5-ilde-suc-orgutune-operasyon-36-supheli-tutuklandi-1738349",
+        "description": "Suç gelirinin kripto varlık platformlarına aktardıkları belirlenen şüphelilere yönelik düzenlenen operasyonda gözaltına alınan 39 şüpheliden 36'sı tutuklandı.",
+        "source": "NTV",
+        "published": "2026-08-22T01:55:38+03:00"
       },
       {
         "title": "Muhittin Böcek'in başdanışmanı tahliye edildi",
@@ -700,25 +714,11 @@
         "published": "2026-08-21T17:53:57+03:00"
       },
       {
-        "title": "Furkan Vakfı soruşturması: Gözaltı sayısı 62'ye yükseldi, kaçırılan hard disklere el konuldu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-furkan-vakfi-sorusturmasi-gozalti-sayisi-62ye-yukseldi-1738307",
-        "description": "\"Kuytulcular\" olarak bilinen yapılanmaya yönelik soruşturmada gözaltı sayısı 62'ye yükseldi. Öte yandan önceden kaçırıldığı tespit edilen bazı bilgisayar ve hard disklere de el konuldu.",
-        "source": "NTV",
-        "published": "2026-08-21T17:37:16+03:00"
-      },
-      {
         "title": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye 3-0 Letonya",
         "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
         "description": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye İstanbul'daki ilk maçını Letonya karşısında set vermeden kazandı.",
         "source": "BBC Turkish",
         "published": "2026-08-21T17:33:46+00:00"
-      },
-      {
-        "title": "Türkiye'den Netanyahu için kırmızı bülten talebi",
-        "link": "https://www.ntv.com.tr/turkiye/turkiyeden-netanyahu-icin-kirmizi-bulten-talebi-1738306",
-        "description": "Adalet Bakanı Akın Gürlek, Küresel Sumud Filosu'na saldırıdaki sorumluluğundan dolayı Netanyahu ve Afek Moskovitch için kırmızı bülten talep edildiğini açıkladı.",
-        "source": "NTV",
-        "published": "2026-08-21T16:59:00+03:00"
       },
       {
         "title": "İdris Naim Şahin'den Kuriş açıklaması: 'Kiraladığım araç benden izinsiz kullanılmış'",
