@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-22T22:48:11.788085+00:00",
+  "updated_at": "2026-08-22T23:19:50.462274+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
-        "link": "https://bactra.org/reviews/wolfram/",
-        "description": "Article URL: https://bactra.org/reviews/wolfram/ Comments URL: https://news.ycombinator.com/item?id=49404282 Points: 7 # Comments: 1",
+        "title": "NanoGPT Speedrun Frontier",
+        "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "description": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 4 # Comments: 0",
         "source": "HackerNews",
-        "published": "2026-08-22T22:00:28+00:00"
+        "published": "2026-08-22T22:14:27+00:00"
       },
       {
         "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -33,21 +33,21 @@
       {
         "title": "English ↔ Claudish Translator",
         "link": "https://programasweights.com/claudish",
-        "description": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 26 # Comments: 20",
+        "description": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 36 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-08-22T19:19:15+00:00"
       },
       {
-        "title": "NetBSD and My Life (2005)",
+        "title": "NetBSD and my life (2005)",
         "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "description": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 68 # Comments: 19",
+        "description": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 80 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-08-22T19:07:46+00:00"
       },
       {
         "title": "hdiutil is deprecated in macOS 27 Golden Gate",
         "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-        "description": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 140 # Comments: 45",
+        "description": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 147 # Comments: 54",
         "source": "HackerNews",
         "published": "2026-08-22T19:04:41+00:00"
       },
@@ -66,23 +66,30 @@
         "published": "2026-08-22T19:00:00+00:00"
       },
       {
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "link": "https://www.soverybright.com/",
+        "description": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them. I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro....",
+        "source": "HackerNews",
+        "published": "2026-08-22T18:43:03+00:00"
+      },
+      {
         "title": "Why your local LLM feels dumber than it is",
         "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "description": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 104 # Comments: 28",
+        "description": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 127 # Comments: 36",
         "source": "HackerNews",
         "published": "2026-08-22T18:14:16+00:00"
       },
       {
         "title": "Thinking in Python by Bruce Eckel",
         "link": "https://thinkinginpython.com/",
-        "description": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 12 # Comments: 1",
+        "description": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 23 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-08-22T18:10:49+00:00"
       },
       {
         "title": "Scrap",
         "link": "https://twitter.com/moxie/status/2091218652133732491",
-        "description": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 195 # Comments: 81",
+        "description": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 232 # Comments: 93",
         "source": "HackerNews",
         "published": "2026-08-22T18:08:56+00:00"
       },
@@ -99,13 +106,6 @@
         "description": "YouGov tarafından yapılan yeni araştırmaya göre yapay zeka kullanıcı memnuniyeti konusunda Claude zirvede yer alıyor. Detaylar haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-08-22T17:19:11+00:00"
-      },
-      {
-        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-        "link": "https://twitter.com/argofowl/status/2091150597374537729",
-        "description": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 145 # Comments: 136",
-        "source": "HackerNews",
-        "published": "2026-08-22T16:58:49+00:00"
       },
       {
         "title": "OpenAI says California should strengthen its AI safety bill",
@@ -152,14 +152,14 @@
       {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "link": "https://quantumi.sh/public/labs.html",
-        "description": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 272 # Comments: 89",
+        "description": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 279 # Comments: 90",
         "source": "HackerNews",
         "published": "2026-08-22T14:54:07+00:00"
       },
       {
         "title": "A Friendly Introduction to Racket",
         "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "description": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 168 # Comments: 71",
+        "description": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 175 # Comments: 80",
         "source": "HackerNews",
         "published": "2026-08-22T14:08:19+00:00"
       },
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "How a new era of heatwaves could shake up the school calendar",
+        "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+        "description": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+        "source": "BBC News",
+        "published": "2026-08-22T23:16:43+00:00"
+      },
+      {
+        "title": "Struggling households need more help with bills, energy industry says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+        "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+        "source": "BBC News",
+        "published": "2026-08-22T23:00:03+00:00"
+      },
+      {
         "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
         "link": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss",
         "description": "The Office star was appearing at convention in London, less than two weeks after announcing her condition.",
@@ -376,18 +390,25 @@
         "published": "2026-08-22T20:10:00+00:00"
       },
       {
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-        "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-        "source": "BBC News",
-        "published": "2026-08-22T20:02:46+00:00"
-      },
-      {
         "title": "Two police officers among seven killed in wrong-way car crash",
         "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
         "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
         "source": "BBC News",
         "published": "2026-08-22T19:28:14+00:00"
+      },
+      {
+        "title": "The hotel booking mix-up that could free mushroom murderer",
+        "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+        "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+        "source": "BBC News",
+        "published": "2026-08-22T19:03:03+00:00"
+      },
+      {
+        "title": "US military newspaper editor voices censorship fears after being fired",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+        "description": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+        "source": "BBC News",
+        "published": "2026-08-22T16:57:19+00:00"
       },
       {
         "title": "Trump administration's 75-country visa ban was illegal, judge rules",
@@ -399,7 +420,7 @@
       {
         "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
         "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-        "description": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as...",
+        "description": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them...",
         "source": "The Guardian",
         "published": "2026-08-22T14:04:57+00:00"
       },
@@ -437,27 +458,6 @@
         "description": "They will not be working royals when they come back. So what could they be doing instead?",
         "source": "BBC News",
         "published": "2026-08-22T00:03:10+00:00"
-      },
-      {
-        "title": "How this 1960s ex-council house is managing to stay cool without air con",
-        "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-        "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-        "source": "BBC News",
-        "published": "2026-08-21T23:56:48+00:00"
-      },
-      {
-        "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
-        "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
-        "description": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
-        "source": "BBC News",
-        "published": "2026-08-21T23:13:00+00:00"
-      },
-      {
-        "title": "More students planning to live at home for university over 'insane' living costs",
-        "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-        "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
-        "source": "BBC News",
-        "published": "2026-08-21T23:01:58+00:00"
       },
       {
         "title": "A battle over 'Italian brainrot' could shape who owns AI art",
@@ -567,18 +567,18 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-agustos-2026-1738472",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-23T02:00:00+03:00"
+      },
+      {
         "title": "Alparslan Kuytul soruşturması. 44 isim için tutuklama talep edildi",
         "link": "https://www.ntv.com.tr/turkiye/galeri-alparslan-kuytul-sorusturmasi-44-isim-icin-tutuklama-talep-edildi-1738444",
         "description": "Alparslan Kuytul Suç Örgütü'ne yönelik soruşturmada, örgütün üst yönetiminde bulunan bazı isimlerin FETÖ bağlantısı tespit edildi. Soruşturmada 44 kişi için tutuklama istendi.",
         "source": "NTV",
         "published": "2026-08-23T01:36:59+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-agustos-2026-1738472",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-23T01:30:00+03:00"
       },
       {
         "title": "İstanbul'da pazar planı yapanlar dikkat! Bazı yollar trafiğe kapanacak",
@@ -784,9 +784,9 @@
     "eur_usd": 0.856
   },
   "weather": {
-    "condition": null,
-    "temp": null,
-    "wind": null,
-    "humidity": null
+    "condition": "Patchy rain nearby",
+    "temp": "+80°F",
+    "wind": "↗7mph",
+    "humidity": "49%"
   }
 }
