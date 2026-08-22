@@ -1,11 +1,39 @@
 {
-  "updated_at": "2026-08-22T19:00:03.891082+00:00",
+  "updated_at": "2026-08-22T19:29:20.007595+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "NetBSD and My Life (2005)",
+        "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+        "description": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-22T19:07:46+00:00"
+      },
+      {
+        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+        "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+        "description": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 25 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-22T19:04:41+00:00"
+      },
+      {
+        "title": "Apple’ın Çinli Çip Üreticileriyle Görüşmeleri Sürüyor",
+        "link": "https://shiftdelete.net/apple-cinli-cip-ureticileri-is-birligi",
+        "description": "Apple, Çinli çip üreticileri CXMT ve YMTC ile çalışmak için ABD yönetiminden onay bekliyor. İşte sürecin detayları ve yaşanan gelişmeler.",
+        "source": "ShiftDelete",
+        "published": "2026-08-22T19:00:30+00:00"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "source": "TechCrunch",
+        "published": "2026-08-22T19:00:00+00:00"
+      },
+      {
         "title": "Scrap",
         "link": "https://twitter.com/moxie/status/2091218652133732491",
-        "description": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 7 # Comments: 0",
+        "description": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 49 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-08-22T18:08:56+00:00"
       },
@@ -26,14 +54,14 @@
       {
         "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
         "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
-        "description": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 51 # Comments: 30",
+        "description": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 58 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-08-22T17:09:27+00:00"
       },
       {
         "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
         "link": "https://twitter.com/argofowl/status/2091150597374537729",
-        "description": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 59 # Comments: 57",
+        "description": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 70 # Comments: 75",
         "source": "HackerNews",
         "published": "2026-08-22T16:58:49+00:00"
       },
@@ -50,13 +78,6 @@
         "description": "Türkiye’nin savunma ve teknoloji gündemini ekrana taşıdığımız 2T Teknoloji & Savunma’nın 13. bölümünde bu kez stüdyodan değil, doğrudan sahadan sesleniyoruz. Tolga Özbek ve Tolga Küçükyılmaz’ın hazırladığı 2T Teknoloji & Savunma’nın 13. bölümünde...",
         "source": "ShiftDelete",
         "published": "2026-08-22T16:28:45+00:00"
-      },
-      {
-        "title": "Learning about \"The Unix Time-Sharing System\"",
-        "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
-        "description": "Article URL: https://playtechnique.io/long/the-unix-time-sharing-system.html Comments URL: https://news.ycombinator.com/item?id=49401122 Points: 15 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-22T16:11:16+00:00"
       },
       {
         "title": "Xiaomi’nin Yeni Projesi Ayakkabıları Otomatik Yıkayacak",
@@ -89,14 +110,14 @@
       {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "link": "https://quantumi.sh/public/labs.html",
-        "description": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 162 # Comments: 62",
+        "description": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 192 # Comments: 64",
         "source": "HackerNews",
         "published": "2026-08-22T14:54:07+00:00"
       },
       {
         "title": "A Friendly Introduction to Racket",
         "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "description": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 84 # Comments: 25",
+        "description": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 91 # Comments: 30",
         "source": "HackerNews",
         "published": "2026-08-22T14:08:19+00:00"
       },
@@ -124,14 +145,14 @@
       {
         "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
         "link": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-        "description": "Article URL: https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record Comments URL: https://news.ycombinator.com/item?id=49399642 Points: 21 # Comments: 9",
+        "description": "Article URL: https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record Comments URL: https://news.ycombinator.com/item?id=49399642 Points: 45 # Comments: 44",
         "source": "HackerNews",
         "published": "2026-08-22T13:39:07+00:00"
       },
       {
         "title": "New MCP Roadmap",
         "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "description": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 137 # Comments: 106",
+        "description": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 141 # Comments: 109",
         "source": "HackerNews",
         "published": "2026-08-22T13:31:34+00:00"
       },
@@ -164,25 +185,11 @@
         "published": "2026-08-22T11:00:03+00:00"
       },
       {
-        "title": "Grok Neden Anlamsız Cümleler Kuruyor?",
-        "link": "https://shiftdelete.net/grok-nesil-hatasi-chatbot-anlamsiz-yanitlar",
-        "description": "Grok Lite kullanıcıları, chatbotun anlamsız yanıtlar vermesine neden olan bir nesil hatası ile karşılaştı. İşte yaşanan sorunun detayları.",
-        "source": "ShiftDelete",
-        "published": "2026-08-22T10:00:41+00:00"
-      },
-      {
         "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
         "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-        "description": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 92 # Comments: 46",
+        "description": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 95 # Comments: 47",
         "source": "HackerNews",
         "published": "2026-08-22T09:49:57+00:00"
-      },
-      {
-        "title": "Munder Difflin – Agent harness to run an office of your clones",
-        "link": "https://munderdiffl.in/",
-        "description": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 214 # Comments: 85",
-        "source": "HackerNews",
-        "published": "2026-08-22T09:49:14+00:00"
       },
       {
         "title": "Yüksek Kilometrelerde Bile Sorun Çıkarmayan Dizel Motorlar",
@@ -232,13 +239,6 @@
         "description": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
         "source": "TechCrunch",
         "published": "2026-08-21T22:10:01+00:00"
-      },
-      {
-        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-        "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-        "description": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-        "source": "TechCrunch",
-        "published": "2026-08-21T20:58:07+00:00"
       },
       {
         "title": "HoverAir’s transforming modular drone has already been halted in the US",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Two police officers among seven killed in wrong-way car crash",
+        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+        "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+        "source": "BBC News",
+        "published": "2026-08-22T19:28:14+00:00"
+      },
+      {
         "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
@@ -430,13 +437,6 @@
         "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
         "source": "BBC News",
         "published": "2026-08-21T23:56:48+00:00"
-      },
-      {
-        "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-        "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
-        "source": "BBC News",
-        "published": "2026-08-21T23:41:33+00:00"
       },
       {
         "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
@@ -567,6 +567,34 @@
     ],
     "turkiye": [
       {
+        "title": "Süper Lig'e bir dünya yıldızı daha: Sessiz sedasız anlaşıldı",
+        "link": "https://www.sozcu.com.tr/super-lig-e-bir-dunya-yildizi-daha-sessiz-sedasiz-anlasildi-p351789",
+        "description": "Süper Lig'e bir dünya yıldızı daha: Sessiz sedasız anlaşıldı",
+        "source": "Sözcü",
+        "published": "2026-08-22T22:25:26+03:00"
+      },
+      {
+        "title": "Alparslan Kuytul soruşturmasında FETÖ tespiti: Dokuz isim belirlendi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-alparslan-kuytul-sorusturmasinda-feto-tespiti-dokuz-isim-belirlendi-1738444",
+        "description": "Alparslan Kuytul Suç Örgütü'ne yönelik soruşturmada, örgütün üst yönetiminde bulunan bazı isimlerin Fetullahçı Terör Örgütü'yle (FETÖ) bağlantısı tespit edildi.",
+        "source": "NTV",
+        "published": "2026-08-22T22:24:20+03:00"
+      },
+      {
+        "title": "Yeditepe mezuniyetinde açtığı pankartla gündem olan Mustafa Malo tutuklandı",
+        "link": "https://www.sozcu.com.tr/mustafa-malo-tutuklandi-mi-p351788",
+        "description": "Yeditepe mezuniyetinde açtığı pankartla gündem olan Mustafa Malo tutuklandı",
+        "source": "Sözcü",
+        "published": "2026-08-22T22:15:08+03:00"
+      },
+      {
+        "title": "Metruk binada şüpheli ölüm",
+        "link": "https://www.sozcu.com.tr/metruk-binada-supheli-olum-p351787",
+        "description": "Metruk binada şüpheli ölüm",
+        "source": "Sözcü",
+        "published": "2026-08-22T22:07:52+03:00"
+      },
+      {
         "title": "Suriye’de güvenlik güçlerini taşıyan otobüse bombalı saldırı",
         "link": "https://www.sozcu.com.tr/suriye-de-guvenlik-guclerini-tasiyan-otobuse-bombali-saldiri-p351784",
         "description": "Suriye’de güvenlik güçlerini taşıyan otobüse bombalı saldırı",
@@ -623,27 +651,6 @@
         "published": "2026-08-22T20:13:14+03:00"
       },
       {
-        "title": "Deprem konutlarında ücret isyanı: 3 aydır maaş alamıyorlar",
-        "link": "https://www.sozcu.com.tr/deprem-konutlarinda-ucret-isyani-3-aydir-maas-alamiyorlar-p351775",
-        "description": "Deprem konutlarında ücret isyanı: 3 aydır maaş alamıyorlar",
-        "source": "Sözcü",
-        "published": "2026-08-22T20:05:02+03:00"
-      },
-      {
-        "title": "Rekor transfer bavulunu topladı: Beşiktaş'ta sürpriz ayrılık",
-        "link": "https://www.sozcu.com.tr/rekor-transfer-bavulunu-topladi-besiktas-ta-surpriz-ayrilik-p351774",
-        "description": "Rekor transfer bavulunu topladı: Beşiktaş'ta sürpriz ayrılık",
-        "source": "Sözcü",
-        "published": "2026-08-22T20:04:05+03:00"
-      },
-      {
-        "title": "16 saatlik çekimden dönen set ekibi kaza yaptı: Kameraman hayatını kaybetti",
-        "link": "https://www.sozcu.com.tr/16-saatlik-cekimden-donen-set-ekibi-kaza-yapti-kameraman-hayatini-kaybetti-p351772",
-        "description": "16 saatlik çekimden dönen set ekibi kaza yaptı: Kameraman hayatını kaybetti",
-        "source": "Sözcü",
-        "published": "2026-08-22T19:38:49+03:00"
-      },
-      {
         "title": "İstanbul'da pazar planı yapanlar dikkat! Üç ilçede yollar trafiğe kapanacak",
         "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-pazar-plani-yapanlar-dikkat-uc-ilcede-yollar-trafige-kapanacak-1738451",
         "description": "İstanbul'da yarın gerçekleşecek bisiklet turu nedeniyle üç ilçede bazı yollar trafiğe kapatılacak.",
@@ -677,13 +684,6 @@
         "description": "Afyonkarahisar'da tırdan yola dökülen boya, günlerce süren yıkamayla çıkmayınca 5 kilometrelik yol iş makineleriyle kazındı. Olay nedeniyle iki firmaya 20,9 milyon lira ceza kesildi.",
         "source": "NTV",
         "published": "2026-08-22T16:16:56+03:00"
-      },
-      {
-        "title": "Alparslan Kuytul soruşturmasında FETÖ tespiti: Dokuz isim belirlendi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-alparslan-kuytul-sorusturmasinda-feto-tespiti-dokuz-isim-belirlendi-1738444",
-        "description": "Alparslan Kuytul Suç Örgütü'ne yönelik soruşturmada, örgütün üst yönetiminde bulunan bazı isimlerin Fetullahçı Terör Örgütü'yle (FETÖ) bağlantısı tespit edildi.",
-        "source": "NTV",
-        "published": "2026-08-22T16:16:13+03:00"
       },
       {
         "title": "Furkan Vakfı: Alparslan Kuytul dahil 56 kişi adliyeye sevk edildi",
