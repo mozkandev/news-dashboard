@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-22T03:40:48.255716+00:00",
+  "updated_at": "2026-08-22T04:31:39.490739+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+        "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+        "description": "Article URL: https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs Comments URL: https://news.ycombinator.com/item?id=49396086 Points: 14 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-08-22T02:37:30+00:00"
+      },
       {
         "title": "Michael Polansky is training an AI model on skin that’s still alive",
         "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
@@ -12,7 +19,7 @@
       {
         "title": "There's no reason for software to be slow anymore",
         "link": "https://danluu.com/perf-opt/",
-        "description": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 102 # Comments: 107",
+        "description": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 163 # Comments: 137",
         "source": "HackerNews",
         "published": "2026-08-22T01:06:17+00:00"
       },
@@ -26,14 +33,14 @@
       {
         "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
         "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 28 # Comments: 8",
+        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 36 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-22T01:02:09+00:00"
       },
       {
         "title": "HN: The Good Parts (2016)",
         "link": "https://danluu.com/hn-comments/",
-        "description": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 23 # Comments: 6",
+        "description": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 29 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-21T23:53:03+00:00"
       },
@@ -61,7 +68,7 @@
       {
         "title": "Three important steps in my maturation process",
         "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-        "description": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 80 # Comments: 19",
+        "description": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 90 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-08-21T22:29:00+00:00"
       },
@@ -131,7 +138,7 @@
       {
         "title": "Rust Glancer: Rust LSP using 100x less RAM",
         "link": "https://rust-glancer.github.io/blog/hello-world/",
-        "description": "https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 59 # Comments: 23",
+        "description": "https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 76 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-08-21T19:51:54+00:00"
       },
@@ -166,14 +173,14 @@
       {
         "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
         "link": "https://tumbleforth.hardcoded.net/",
-        "description": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 63 # Comments: 8",
+        "description": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 66 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-21T18:59:52+00:00"
       },
       {
         "title": "Scientists release biggest 2D map of the universe",
         "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-        "description": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 159 # Comments: 50",
+        "description": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 164 # Comments: 52",
         "source": "HackerNews",
         "published": "2026-08-21T18:36:34+00:00"
       },
@@ -218,13 +225,6 @@
         "description": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on...",
         "source": "The Verge",
         "published": "2026-08-21T17:54:07-04:00"
-      },
-      {
-        "title": "OTel isn't going well (and I made a spreadsheet about it)",
-        "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-        "description": "Article URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/ Comments URL: https://news.ycombinator.com/item?id=49391553 Points: 44 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-08-21T17:45:41+00:00"
       },
       {
         "title": "GTA 6 Sızıntısı Sonrası \"GTA 6 İndir\" Siteleri Boy Göstermeye Başladı: Hiçbir Site ve Dosyaya Güvenmeyin!",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+        "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+        "source": "BBC News",
+        "published": "2026-08-22T04:27:21+00:00"
+      },
+      {
         "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
@@ -367,13 +374,6 @@
         "description": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
         "source": "BBC News",
         "published": "2026-08-22T02:53:22+00:00"
-      },
-      {
-        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-        "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-        "source": "BBC News",
-        "published": "2026-08-22T00:40:47+00:00"
       },
       {
         "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
@@ -474,20 +474,6 @@
         "published": "2026-08-21T05:01:00-04:00"
       },
       {
-        "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-        "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-        "description": "Experts warn that President Trump's transactional approach to an alliance will erode political trust.",
-        "source": "NPR",
-        "published": "2026-08-21T05:00:00-04:00"
-      },
-      {
-        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
-        "source": "NPR",
-        "published": "2026-08-21T05:00:00-04:00"
-      },
-      {
         "title": "Federal government thins the herds of wild horses in Colorado",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
         "description": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
@@ -498,6 +484,20 @@
         "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
         "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technology.",
+        "source": "NPR",
+        "published": "2026-08-21T05:00:00-04:00"
+      },
+      {
+        "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+        "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+        "description": "Experts warn that President Trump's transactional approach to an alliance will erode political trust.",
+        "source": "NPR",
+        "published": "2026-08-21T05:00:00-04:00"
+      },
+      {
+        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
         "source": "NPR",
         "published": "2026-08-21T05:00:00-04:00"
       },
@@ -567,11 +567,32 @@
     ],
     "turkiye": [
       {
+        "title": "Merkez Bankası'ndan yastık altı altın kararı",
+        "link": "https://www.sozcu.com.tr/merkez-bankasi-ndan-yastik-alti-altin-karari-p351606",
+        "description": "Merkez Bankası'ndan yastık altı altın kararı",
+        "source": "Sözcü",
+        "published": "2026-08-22T07:30:17+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-agustos-2026-1738346",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-22T06:30:00+03:00"
+        "published": "2026-08-22T07:30:00+03:00"
+      },
+      {
+        "title": "19. yüzyıldan kalma şato rekor paraya satıldı",
+        "link": "https://www.sozcu.com.tr/19-yuzyildan-kalma-sato-rekor-paraya-satildi-p351605",
+        "description": "19. yüzyıldan kalma şato rekor paraya satıldı",
+        "source": "Sözcü",
+        "published": "2026-08-22T07:25:54+03:00"
+      },
+      {
+        "title": "Portekiz'de Sırp futbol yıldızına şok! Tonlarca kokainle yakalandı",
+        "link": "https://www.sozcu.com.tr/portekiz-de-sirp-futbol-yildizina-sok-tonlarca-kokainle-yakalandi-p351604",
+        "description": "Portekiz'de Sırp futbol yıldızına şok! Tonlarca kokainle yakalandı",
+        "source": "Sözcü",
+        "published": "2026-08-22T07:21:46+03:00"
       },
       {
         "title": "Kayseri’de \"huzur\" uygulaması. 75 aranan şahıs yakalandı",
@@ -609,20 +630,6 @@
         "published": "2026-08-22T05:30:07+03:00"
       },
       {
-        "title": "Netanyahu’ya kırmızı bülten",
-        "link": "https://www.sozcu.com.tr/netanyahu-ya-kirmizi-bulten-p351596",
-        "description": "Netanyahu’ya kırmızı bülten",
-        "source": "Sözcü",
-        "published": "2026-08-22T05:30:07+03:00"
-      },
-      {
-        "title": "Bu ok kime saplanacak?",
-        "link": "https://www.sozcu.com.tr/bu-ok-kime-saplanacak-p351595",
-        "description": "Bu ok kime saplanacak?",
-        "source": "Sözcü",
-        "published": "2026-08-22T05:30:07+03:00"
-      },
-      {
         "title": "İşte APO’nun kurulu",
         "link": "https://www.sozcu.com.tr/iste-apo-nun-kurulu-p351594",
         "description": "İşte APO’nun kurulu",
@@ -630,9 +637,9 @@
         "published": "2026-08-22T05:30:07+03:00"
       },
       {
-        "title": "26.8 bin şirket, 71.1 bin iş yeri kapandı",
-        "link": "https://www.sozcu.com.tr/26-8-bin-sirket-71-1-bin-is-yeri-kapandi-p351591",
-        "description": "26.8 bin şirket, 71.1 bin iş yeri kapandı",
+        "title": "İtibara cennet, halka cehennem",
+        "link": "https://www.sozcu.com.tr/itibara-cennet-halka-cehennem-p351590",
+        "description": "İtibara cennet, halka cehennem",
         "source": "Sözcü",
         "published": "2026-08-22T05:30:07+03:00"
       },
@@ -642,13 +649,6 @@
         "description": "Yırtık ayakkabı hakkını alacak",
         "source": "Sözcü",
         "published": "2026-08-22T05:25:06+03:00"
-      },
-      {
-        "title": "Resmi Gazete'de yayımlandı: 11 ilde acele kamulaştırma kararı",
-        "link": "https://www.sozcu.com.tr/resmi-gazetede-yayimlandi-11-ilde-acele-kamulastirma-karari-p351603",
-        "description": "Resmi Gazete'de yayımlandı: 11 ilde acele kamulaştırma kararı",
-        "source": "Sözcü",
-        "published": "2026-08-22T04:42:01+03:00"
       },
       {
         "title": "Yabancı uyruklu kadın evinde ölü bulundu",
@@ -784,9 +784,9 @@
     "eur_usd": 0.856
   },
   "weather": {
-    "condition": "Açık",
+    "condition": "Kapalı",
     "temp": "+74°F",
-    "wind": "↗6mph",
-    "humidity": "33%"
+    "wind": "↗9mph",
+    "humidity": "81%"
   }
 }
