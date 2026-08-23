@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:27:22.995975+00:00",
+  "updated_at": "2026-08-23T19:46:45.242674+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -8,6 +8,13 @@
         "description": "Ferrari direksiyonlarında birçok tuş bulunuyor. Bu tuşlar, marş düğmesinden Manettino’ya kadar birçok işlevin direksiyon üzerinde toplanmasının ise çok önemli bir sebebi var.",
         "source": "Webtekno",
         "published": "2026-08-23T20:20:15+03:00"
+      },
+      {
+        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+        "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+        "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+        "source": "TechCrunch",
+        "published": "2026-08-23T19:30:00+00:00"
       },
       {
         "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
@@ -227,13 +234,6 @@
         "published": "2026-08-22T16:30:34+00:00"
       },
       {
-        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-        "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-        "source": "TechCrunch",
-        "published": "2026-08-22T16:00:00+00:00"
-      },
-      {
         "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
         "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
         "description": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with...",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+        "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+        "description": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a...",
+        "source": "The Guardian",
+        "published": "2026-08-23T19:32:59+00:00"
+      },
+      {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
@@ -437,13 +444,6 @@
         "description": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive.",
         "source": "NPR",
         "published": "2026-08-23T12:15:30-04:00"
-      },
-      {
-        "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-        "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-        "description": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a...",
-        "source": "The Guardian",
-        "published": "2026-08-23T11:00:16+00:00"
       },
       {
         "title": "Becerra, running for governor of California, faces a health insurance problem",
@@ -567,6 +567,13 @@
     ],
     "turkiye": [
       {
+        "title": "Altın ve paraların ardından bu kez tapular ortaya çıktı: MASAK'ın açıkladığı rakamlar dudak uçuklattı",
+        "link": "https://www.sozcu.com.tr/alihan-kuris-sorusturmasinda-4-kiside-1818-tapu-islemi-tespit-edildi-p352021",
+        "description": "Altın ve paraların ardından bu kez tapular ortaya çıktı: MASAK'ın açıkladığı rakamlar dudak uçuklattı",
+        "source": "Sözcü",
+        "published": "2026-08-23T22:34:24+03:00"
+      },
+      {
         "title": "Ankara alevler içinde",
         "link": "https://www.sozcu.com.tr/ankara-mamakta-agaclik-alanda-cikan-yangina-mudahale-suruyor-p352012",
         "description": "Ankara alevler içinde",
@@ -635,13 +642,6 @@
         "description": "Ülkenin en kirli nehrini bu yöntemle kurtaracaklar",
         "source": "Sözcü",
         "published": "2026-08-23T20:18:23+03:00"
-      },
-      {
-        "title": "İran Meclisi'nden dünya ekonomisini ilgilendiren Hürmüz Boğazı kararı",
-        "link": "https://www.sozcu.com.tr/iran-meclisinden-tum-dunya-ekonomisini-ilgilendiren-hurmuz-bogazi-karari-p352001",
-        "description": "İran Meclisi'nden dünya ekonomisini ilgilendiren Hürmüz Boğazı kararı",
-        "source": "Sözcü",
-        "published": "2026-08-23T20:18:22+03:00"
       },
       {
         "title": "İki şehir birbirine köprüyle bağlanacak",
@@ -784,9 +784,9 @@
     "eur_usd": 0.856
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+109°F",
-    "wind": "↑4mph",
-    "humidity": "19%"
+    "condition": "Güneşli",
+    "temp": "+76°F",
+    "wind": "↓12mph",
+    "humidity": "56%"
   }
 }
