@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:20:11.916611+00:00",
+  "updated_at": "2026-08-23T23:45:29.882555+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -567,18 +567,25 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-agustos-2026-1738613",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-24T02:30:00+03:00"
+      },
+      {
+        "title": "Mehmet Uçum'dan süreç yasası mesajı. \"Devlet şarta bağlı yeniden başlama imkanı verdi\"",
+        "link": "https://www.ntv.com.tr/turkiye/mehmet-ucumdan-surec-yasasi-mesaji-devlet-sarta-bagli-yeniden-baslama-imkani-verdi-1738618",
+        "description": "Cumhurbaşkanı Başdanışmanı ve Cumhurbaşkanlığı Hukuk Politikaları Kurulu Başkanvekili Mehmet Uçum, Terörsüz Türkiye sürecine dair önemli mesajlar verdi.",
+        "source": "NTV",
+        "published": "2026-08-24T02:27:54+03:00"
+      },
+      {
         "title": "Ankara'da ağaçlık alanda yangın. Bir kişi gözaltına alındı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-ankarada-agaclik-alanda-yangin-bir-kisi-gozaltina-alindi-1738617",
         "description": "Ankara'nın Mamak ilçesinde ağaçlık alanda yangın çıktı. Ankara Valiliği, yangına neden olduğu belirlenen bir kişinin gözaltına alındığını açıkladı.",
         "source": "NTV",
         "published": "2026-08-24T02:10:55+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-agustos-2026-1738613",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-24T02:00:00+03:00"
       },
       {
         "title": "Diyarbakır'da plaza yangını. 3'ü itfaiye eri 5 kişi dumandan etkilendi",
@@ -721,13 +728,6 @@
         "published": "2026-08-23T15:58:38+03:00"
       },
       {
-        "title": "Milas açıklarında lastik botta 40 düzensiz göçmen yakalandı",
-        "link": "https://www.ntv.com.tr/turkiye/milas-aciklarinda-lastik-botta-40-duzensiz-gocmen-yakalandi-1738584",
-        "description": "Muğla'nın Milas ilçesi açıklarında Sahil Güvenlik ekiplerince durdurulan lastik bottaki 3'ü çocuk 40 düzensiz göçmen yakalandı.",
-        "source": "NTV",
-        "published": "2026-08-23T15:48:30+03:00"
-      },
-      {
         "title": "Türkiye'nin milli uçak gemisi projesiyle ilgili neler biliniyor?",
         "link": "https://www.bbc.com/turkce/articles/cr595p3ydeno?at_medium=RSS&at_campaign=rss",
         "description": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin geliştirdiği milli uçak gemisini 2027 sonunda denize indirmek için çalıştıklarını söyledi. Peki projeyle ilgili neler biliniyor?",
@@ -784,9 +784,9 @@
     "eur_usd": 0.856
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+78°F",
-    "wind": "↘11mph",
-    "humidity": "40%"
+    "condition": null,
+    "temp": null,
+    "wind": null,
+    "humidity": null
   }
 }
