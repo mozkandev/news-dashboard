@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:21:53.256697+00:00",
+  "updated_at": "2026-08-23T20:48:51.428610+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -355,11 +355,18 @@
     ],
     "dunya": [
       {
-        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "title": "Trump waves green flag to start IndyCar race through Washington streets",
         "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
         "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
         "source": "BBC News",
         "published": "2026-08-23T20:19:36+00:00"
+      },
+      {
+        "title": "'Pain of losing him is beyond words': Families of two police officers killed in crash pay tribute",
+        "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
+        "description": "Tom Clough and Matthew Blades died along with five others when a car crashed into their vehicle.",
+        "source": "BBC News",
+        "published": "2026-08-23T20:12:42+00:00"
       },
       {
         "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
@@ -458,13 +465,6 @@
         "description": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA.",
         "source": "NPR",
         "published": "2026-08-23T08:48:05-04:00"
-      },
-      {
-        "title": "Scammers increasingly using QR codes to steal money and data",
-        "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-        "description": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
-        "source": "BBC News",
-        "published": "2026-08-23T06:23:54+00:00"
       },
       {
         "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
@@ -567,6 +567,20 @@
     ],
     "turkiye": [
       {
+        "title": "Beşiktaş'tan hakem kararına sert tepki: 'Sezon başladı'",
+        "link": "https://www.sozcu.com.tr/besiktastan-hakem-kararina-sert-tepki-sezon-basladi-p352030",
+        "description": "Beşiktaş'tan hakem kararına sert tepki: 'Sezon başladı'",
+        "source": "Sözcü",
+        "published": "2026-08-23T23:36:10+03:00"
+      },
+      {
+        "title": "Gözle fark edilmiyor, yayılınca felakete dönüşüyor: İstilayı 182 köpek durduracak",
+        "link": "https://www.sozcu.com.tr/gozle-fark-edilmiyor-yayilinca-felakete-donusuyor-istilayi-182-kopek-durduracak-p352031",
+        "description": "Gözle fark edilmiyor, yayılınca felakete dönüşüyor: İstilayı 182 köpek durduracak",
+        "source": "Sözcü",
+        "published": "2026-08-23T23:36:09+03:00"
+      },
+      {
         "title": "Nuri Şahin: Mağlubiyeti hak ettik",
         "link": "https://www.sozcu.com.tr/nuri-sahin-maglubiyeti-hak-ettik-p352028",
         "description": "Nuri Şahin: Mağlubiyeti hak ettik",
@@ -621,20 +635,6 @@
         "description": "Erdoğan’ın ismini çizdiği Dikbayır, Akşener iddiasını doğruladı",
         "source": "Sözcü",
         "published": "2026-08-23T21:56:25+03:00"
-      },
-      {
-        "title": "Filenin Sultanları 2’de 2 yaptı! Ay-yıldızlılar rakip tanımıyor",
-        "link": "https://www.sozcu.com.tr/filenin-sultanlari-2-de-2-yapti-ay-yildizlilar-rakip-tanimiyor-p352010",
-        "description": "Filenin Sultanları 2’de 2 yaptı! Ay-yıldızlılar rakip tanımıyor",
-        "source": "Sözcü",
-        "published": "2026-08-23T21:14:27+03:00"
-      },
-      {
-        "title": "Metrelerce kalınlıktaki buzları nükleer güçle parçalayacaklar: 15 reaktör birden hazırlanıyor",
-        "link": "https://www.sozcu.com.tr/metrelerce-kalinliktaki-buzlari-nukleer-gucle-parcalayacaklar-15-reaktor-birden-hazirlaniyor-p352009",
-        "description": "Metrelerce kalınlıktaki buzları nükleer güçle parçalayacaklar: 15 reaktör birden hazırlanıyor",
-        "source": "Sözcü",
-        "published": "2026-08-23T21:05:50+03:00"
       },
       {
         "title": "Kuriş ailesinin servet haritası: Yalnızca dört isimde bin 818 tapu işlemi",
@@ -784,9 +784,9 @@
     "eur_usd": 0.856
   },
   "weather": {
-    "condition": "Yer yer donan çisenti",
-    "temp": "+66°F",
-    "wind": "↗6mph",
-    "humidity": "83%"
+    "condition": "Güneşli",
+    "temp": "+80°F",
+    "wind": "→12mph",
+    "humidity": "43%"
   }
 }
