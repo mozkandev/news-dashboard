@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-24T19:54:53.775701+00:00",
+  "updated_at": "2026-08-24T20:29:00.847687+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+        "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+        "description": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+        "source": "TechCrunch",
+        "published": "2026-08-24T20:16:34+00:00"
+      },
+      {
+        "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+        "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+        "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+        "source": "TechCrunch",
+        "published": "2026-08-24T19:58:17+00:00"
+      },
+      {
+        "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+        "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+        "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
+        "source": "TechCrunch",
+        "published": "2026-08-24T19:54:50+00:00"
+      },
       {
         "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
@@ -12,28 +33,28 @@
       {
         "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-        "description": "Apply before September 4 to be a part of the Disrupt community by hosting your own Side Event.",
+        "description": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
         "source": "TechCrunch",
         "published": "2026-08-24T19:44:13+00:00"
       },
       {
         "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
         "link": "https://github.com/l3a0/claude-plugins",
-        "description": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 5 # Comments: 0",
+        "description": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 17 # Comments: 2",
         "source": "HackerNews",
         "published": "2026-08-24T19:32:18+00:00"
       },
       {
         "title": "Oceans hit highest temperature on record",
         "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-        "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 17 # Comments: 2",
+        "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 112 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-08-24T19:19:08+00:00"
       },
       {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "description": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 17 # Comments: 5",
+        "description": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 30 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-24T19:03:06+00:00"
       },
@@ -75,16 +96,9 @@
       {
         "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
         "link": "https://textlog.cc/post/2059",
-        "description": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 11 # Comments: 4",
+        "description": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 17 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-24T18:45:43+00:00"
-      },
-      {
-        "title": "Anger, Anxiety and Agency",
-        "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-        "description": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 40 # Comments: 30",
-        "source": "HackerNews",
-        "published": "2026-08-24T18:37:24+00:00"
       },
       {
         "title": "KAAN’ın Silahlı Konfigürasyonu İçin 2027 Hedefi",
@@ -96,21 +110,14 @@
       {
         "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
         "link": "https://github.com/getkern/kern",
-        "description": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 16 # Comments: 0",
+        "description": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 24 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-24T18:24:59+00:00"
       },
       {
-        "title": "Your \"File\" Menu Isn't About Files",
-        "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-        "description": "Article URL: https://adam.farkas.pro/your-file-menu-isnt-about-files/ Comments URL: https://news.ycombinator.com/item?id=49423886 Points: 24 # Comments: 34",
-        "source": "HackerNews",
-        "published": "2026-08-24T18:21:48+00:00"
-      },
-      {
         "title": "What Is a Syslog Server?",
         "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-        "description": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 19 # Comments: 8",
+        "description": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 22 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-08-24T18:15:50+00:00"
       },
@@ -129,6 +136,13 @@
         "published": "2026-08-24T17:53:14+00:00"
       },
       {
+        "title": "Agent Lightning v1.0",
+        "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+        "description": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 9 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-24T17:23:22+00:00"
+      },
+      {
         "title": "Lenovo ThinkBook 16p G6 İnceleme: Core Ultra 9 + RTX 5060 + 3.2K 165 Hz",
         "link": "https://shiftdelete.net/lenovo-thinkbook-16p-g6-inceleme-core-ultra-9-rtx-5060-3-2k-165-hz",
         "description": "İnceleme konuğumuz Lenovo’nun ThinkBook ailesindeki en güçlü modellerden biri. Karşınızda Lenovo ThinkBook 16p G6 IAX. Bu bilgisayarı ilginç yapan şey sadece ThinkBook ailesinin bir üyesi olması değil. Çünkü bu oldukça sade ve profesyonel görünen...",
@@ -138,9 +152,16 @@
       {
         "title": "The entire city of San Francisco as a video game",
         "link": "https://sf.thijs.gg/",
-        "description": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 147 # Comments: 55",
+        "description": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 175 # Comments: 60",
         "source": "HackerNews",
         "published": "2026-08-24T17:05:38+00:00"
+      },
+      {
+        "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+        "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+        "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 51 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-08-24T16:52:01+00:00"
       },
       {
         "title": "The cat-and-mouse game over 3D-printed guns has begun",
@@ -248,13 +269,6 @@
         "published": "2026-08-24T13:47:14+03:00"
       },
       {
-        "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-        "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-        "description": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
-        "source": "TechCrunch",
-        "published": "2026-08-24T13:45:15+00:00"
-      },
-      {
         "title": "ASELSAN’dan Kuantum ve Çip Üretiminde Yeni Yatırım",
         "link": "https://shiftdelete.net/aselsandan-kuantum-ve-cip-uretiminde-yeni-yatirim",
         "description": "ASELSAN, savunma sanayiinin kritik alt teknolojilerinde tasarım, prototipleme ve seri üretim kabiliyetlerini aynı ekosistemde toplamak için yatırımlarını sürdürüyor. ASELSAN Genel Müdürü Ahmet Akyol, TEKNOFEST Mavi Vatan kapsamında yaptığı...",
@@ -337,23 +351,16 @@
         "description": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to...",
         "source": "The Verge",
         "published": "2026-08-24T07:37:53-04:00"
-      },
-      {
-        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-        "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-        "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-        "source": "TechCrunch",
-        "published": "2026-08-23T20:01:36+00:00"
-      },
-      {
-        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-        "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-        "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second-largest penalty issued under Europe’s GDPR.",
-        "source": "TechCrunch",
-        "published": "2026-08-23T19:30:00+00:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Dragon Ball-inspired theme park to be built near Paris",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+        "description": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
+        "source": "BBC News",
+        "published": "2026-08-24T19:57:55+00:00"
+      },
       {
         "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
         "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
@@ -371,7 +378,7 @@
       {
         "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
         "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-        "description": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in trade relations...",
+        "description": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada , the latest deterioration in trade relations...",
         "source": "The Guardian",
         "published": "2026-08-24T18:55:43+00:00"
       },
@@ -388,13 +395,6 @@
         "description": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
         "source": "BBC News",
         "published": "2026-08-24T17:53:40+00:00"
-      },
-      {
-        "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-        "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-        "description": "The fire has burned around 15,000 acres and is completely uncontained, officials say.",
-        "source": "BBC News",
-        "published": "2026-08-24T17:42:33+00:00"
       },
       {
         "title": "Snooker champion Graeme Dott guilty of child sex abuse",
@@ -460,9 +460,9 @@
         "published": "2026-08-24T10:11:34+00:00"
       },
       {
-        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
+        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
         "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-        "description": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+        "description": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
         "source": "NPR",
         "published": "2026-08-24T08:26:00-04:00"
       },
@@ -567,6 +567,27 @@
     ],
     "turkiye": [
       {
+        "title": "Kocaelispor, Amed’i 2 golle geçti",
+        "link": "https://www.sozcu.com.tr/kocaelispor-amed-i-2-golle-gecti-p352357",
+        "description": "Kocaelispor, Amed’i 2 golle geçti",
+        "source": "Sözcü",
+        "published": "2026-08-24T23:25:44+03:00"
+      },
+      {
+        "title": "\"Rıdvan Abi\" lakaplı fenomen tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/ridvan-abi-lakapli-fenomen-tutuklandi-1738746",
+        "description": "İstanbul'da yasa dışı bahis sitesinin reklamı hazırladığı iddiasıyla \"Rıdvan Abi\" olarak bilinen Rıdvan Çelik ve 3 kişi tutuklandı.",
+        "source": "NTV",
+        "published": "2026-08-24T23:18:27+03:00"
+      },
+      {
+        "title": "Bozüyük Belediye Başkanı Bakkalcıoğlu Yeni Parti'ye geçti",
+        "link": "https://www.sozcu.com.tr/mehmet-talat-bakkalcioglu-yeni-parti-ye-gecti-p352353",
+        "description": "Bozüyük Belediye Başkanı Bakkalcıoğlu Yeni Parti'ye geçti",
+        "source": "Sözcü",
+        "published": "2026-08-24T23:01:15+03:00"
+      },
+      {
         "title": "Zehirli alg çevre felaketine yol açtı: 4 tondan fazla balık bir anda öldü",
         "link": "https://www.sozcu.com.tr/zehirli-alg-cevre-felaketine-yol-acti-4-tondan-fazla-balik-bir-anda-oldu-p352351",
         "description": "Zehirli alg çevre felaketine yol açtı: 4 tondan fazla balık bir anda öldü",
@@ -635,20 +656,6 @@
         "description": "Filenin Sultanları 3'te 3 yaptı",
         "source": "Sözcü",
         "published": "2026-08-24T21:00:19+03:00"
-      },
-      {
-        "title": "Netanyahu canlı yayında duyurdu: İran, oğluna suikast düzenledi",
-        "link": "https://www.sozcu.com.tr/netanyahu-iranin-ogullarina-suikast-girisiminde-bulundugunu-iddia-etti-p352339",
-        "description": "Netanyahu canlı yayında duyurdu: İran, oğluna suikast düzenledi",
-        "source": "Sözcü",
-        "published": "2026-08-24T20:53:13+03:00"
-      },
-      {
-        "title": "İngiltere'den Rusya'yı kızdıracak hamle: Artık Ukrayna'da üretilecek",
-        "link": "https://www.sozcu.com.tr/ingiltere-den-rusya-yi-kizdiracak-hamle-artik-ukrayna-da-uretilecek-p352340",
-        "description": "İngiltere'den Rusya'yı kızdıracak hamle: Artık Ukrayna'da üretilecek",
-        "source": "Sözcü",
-        "published": "2026-08-24T20:43:25+03:00"
       },
       {
         "title": "AİHM Kavala kararını açıklayacak",
@@ -747,13 +754,6 @@
         "description": "İstanbul'un çeşitli ilçelerinde yankesicilik yapan örgüte yönelik 35 adrese düzenlenen operasyonlarda 26 şüpheli yakalandı.",
         "source": "NTV",
         "published": "2026-08-24T14:04:02+03:00"
-      },
-      {
-        "title": "Kocaeli'de üç kardeşin sır ölümü. Kahreden olayda iki ihtimal üzerinde duruluyor",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kocaelide-uc-kardesin-sir-olumu-kahreden-olayda-iki-ihtimal-uzerinde-duruluyor-1738703",
-        "description": "Kocaeli'nin Darıca ilçesinde sahilde cansız bedenleri bulunan üç kardeşin ölümüne ilişkin soruşturma çok yönlü sürüyor.",
-        "source": "NTV",
-        "published": "2026-08-24T13:54:34+03:00"
       },
       {
         "title": "İdris Naim Şahin'e ait iki aracın daha 'şüpheli faaliyetlerde' kullanıldığı açıklandı",
