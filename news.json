@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-24T21:00:53.573287+00:00",
+  "updated_at": "2026-08-24T21:53:54.524295+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "description": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "source": "TechCrunch",
+        "published": "2026-08-24T21:24:17+00:00"
+      },
+      {
+        "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+        "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+        "description": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 29 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-08-24T21:03:06+00:00"
+      },
+      {
+        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+        "description": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 10 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-24T21:01:38+00:00"
+      },
       {
         "title": "Zillow and Redfin settle FTC antitrust case",
         "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
@@ -19,7 +40,7 @@
       {
         "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
         "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-        "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+        "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
         "source": "TechCrunch",
         "published": "2026-08-24T19:58:17+00:00"
       },
@@ -45,23 +66,16 @@
         "published": "2026-08-24T19:44:13+00:00"
       },
       {
-        "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-        "link": "https://github.com/l3a0/claude-plugins",
-        "description": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 30 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-08-24T19:32:18+00:00"
-      },
-      {
         "title": "Oceans hit highest temperature on record",
         "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-        "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 171 # Comments: 62",
+        "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 241 # Comments: 111",
         "source": "HackerNews",
         "published": "2026-08-24T19:19:08+00:00"
       },
       {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "description": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 38 # Comments: 14",
+        "description": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 53 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-08-24T19:03:06+00:00"
       },
@@ -103,9 +117,16 @@
       {
         "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
         "link": "https://textlog.cc/post/2059",
-        "description": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 25 # Comments: 8",
+        "description": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 28 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-08-24T18:45:43+00:00"
+      },
+      {
+        "title": "Anger, Anxiety and Agency",
+        "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+        "description": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 59 # Comments: 69",
+        "source": "HackerNews",
+        "published": "2026-08-24T18:37:24+00:00"
       },
       {
         "title": "KAAN’ın Silahlı Konfigürasyonu İçin 2027 Hedefi",
@@ -117,14 +138,14 @@
       {
         "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
         "link": "https://github.com/getkern/kern",
-        "description": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 29 # Comments: 4",
+        "description": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 35 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-08-24T18:24:59+00:00"
       },
       {
         "title": "What Is a Syslog Server?",
         "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-        "description": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 27 # Comments: 14",
+        "description": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 32 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-08-24T18:15:50+00:00"
       },
@@ -155,20 +176,6 @@
         "description": "İnceleme konuğumuz Lenovo’nun ThinkBook ailesindeki en güçlü modellerden biri. Karşınızda Lenovo ThinkBook 16p G6 IAX. Bu bilgisayarı ilginç yapan şey sadece ThinkBook ailesinin bir üyesi olması değil. Çünkü bu oldukça sade ve profesyonel görünen...",
         "source": "ShiftDelete",
         "published": "2026-08-24T17:11:48+00:00"
-      },
-      {
-        "title": "The entire city of San Francisco as a video game",
-        "link": "https://sf.thijs.gg/",
-        "description": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 202 # Comments: 73",
-        "source": "HackerNews",
-        "published": "2026-08-24T17:05:38+00:00"
-      },
-      {
-        "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-        "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-        "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 53 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-08-24T16:52:01+00:00"
       },
       {
         "title": "The cat-and-mouse game over 3D-printed guns has begun",
@@ -232,13 +239,6 @@
         "description": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions,...",
         "source": "The Verge",
         "published": "2026-08-24T14:29:44-04:00"
-      },
-      {
-        "title": "Brake problems in GM EVs draw greater federal scrutiny",
-        "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-        "description": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-        "source": "TechCrunch",
-        "published": "2026-08-24T14:18:47+00:00"
       },
       {
         "title": "POCO F9 Serisi 1 Eylül’de Türkiye’de Satışa Sunuluyor",
@@ -355,18 +355,18 @@
     ],
     "dunya": [
       {
+        "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+        "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+        "description": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+        "source": "BBC News",
+        "published": "2026-08-24T21:20:48+00:00"
+      },
+      {
         "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
         "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
         "description": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs After a pause of more than two months, the US military announced Monday that it once again carried out a strike on a vessel in the eastern...",
         "source": "The Guardian",
         "published": "2026-08-24T20:23:26+00:00"
-      },
-      {
-        "title": "Dragon Ball-inspired theme park to be built near Paris",
-        "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-        "description": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-        "source": "BBC News",
-        "published": "2026-08-24T19:57:55+00:00"
       },
       {
         "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
@@ -567,11 +567,25 @@
     ],
     "turkiye": [
       {
+        "title": "Dev bariyer bir gecede 1400 ton çöpü durdurdu",
+        "link": "https://www.sozcu.com.tr/dev-bariyer-bir-gecede-1400-ton-copu-durdurdu-p352372",
+        "description": "Dev bariyer bir gecede 1400 ton çöpü durdurdu",
+        "source": "Sözcü",
+        "published": "2026-08-25T00:30:34+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-agustos-2026-1738750",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-25T00:00:00+03:00"
+        "published": "2026-08-25T00:30:00+03:00"
+      },
+      {
+        "title": "Süper Lig'de sürpriz lider! Küme düşmekten kıl payı kurtulmuştu",
+        "link": "https://www.sozcu.com.tr/super-lig-de-surpriz-lider-kume-dusmekten-kil-payi-kurtulmustu-p352370",
+        "description": "Süper Lig'de sürpriz lider! Küme düşmekten kıl payı kurtulmuştu",
+        "source": "Sözcü",
+        "published": "2026-08-25T00:24:27+03:00"
       },
       {
         "title": "Toprak kayması nedeniyle 5 katlı bina tahliye edildi",
@@ -656,20 +670,6 @@
         "description": "Yol çalışması sırasında tesadüfen bulundu: Yıllardır toprağın altında saklı kalmış",
         "source": "Sözcü",
         "published": "2026-08-24T21:46:09+03:00"
-      },
-      {
-        "title": "Fenerbahçe, Lyon hazırlıklarına ara vermedi",
-        "link": "https://www.sozcu.com.tr/fenerbahce-lyon-hazirliklarina-ara-vermedi-p352344",
-        "description": "Fenerbahçe, Lyon hazırlıklarına ara vermedi",
-        "source": "Sözcü",
-        "published": "2026-08-24T21:17:46+03:00"
-      },
-      {
-        "title": "Trabzonspor Fabinho'nun mali detaylarını açıkladı",
-        "link": "https://www.sozcu.com.tr/trabzonspor-fabinho-nun-mali-detaylarini-acikladi-p352343",
-        "description": "Trabzonspor Fabinho'nun mali detaylarını açıkladı",
-        "source": "Sözcü",
-        "published": "2026-08-24T21:08:58+03:00"
       },
       {
         "title": "AİHM Kavala kararını açıklayacak",
