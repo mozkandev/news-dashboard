@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-24T20:29:00.847687+00:00",
+  "updated_at": "2026-08-24T21:00:53.573287+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Zillow and Redfin settle FTC antitrust case",
+        "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+        "description": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+        "source": "TechCrunch",
+        "published": "2026-08-24T20:45:33+00:00"
+      },
       {
         "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
         "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
@@ -17,7 +24,7 @@
         "published": "2026-08-24T19:58:17+00:00"
       },
       {
-        "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+        "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
         "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
         "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
         "source": "TechCrunch",
@@ -40,21 +47,21 @@
       {
         "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
         "link": "https://github.com/l3a0/claude-plugins",
-        "description": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 17 # Comments: 2",
+        "description": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 30 # Comments: 5",
         "source": "HackerNews",
         "published": "2026-08-24T19:32:18+00:00"
       },
       {
         "title": "Oceans hit highest temperature on record",
         "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-        "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 112 # Comments: 33",
+        "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 171 # Comments: 62",
         "source": "HackerNews",
         "published": "2026-08-24T19:19:08+00:00"
       },
       {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "description": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 30 # Comments: 8",
+        "description": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 38 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-08-24T19:03:06+00:00"
       },
@@ -96,7 +103,7 @@
       {
         "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
         "link": "https://textlog.cc/post/2059",
-        "description": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 17 # Comments: 8",
+        "description": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 25 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-24T18:45:43+00:00"
       },
@@ -110,23 +117,30 @@
       {
         "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
         "link": "https://github.com/getkern/kern",
-        "description": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 24 # Comments: 1",
+        "description": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 29 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-08-24T18:24:59+00:00"
       },
       {
         "title": "What Is a Syslog Server?",
         "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-        "description": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 22 # Comments: 10",
+        "description": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 27 # Comments: 14",
         "source": "HackerNews",
         "published": "2026-08-24T18:15:50+00:00"
       },
       {
         "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
         "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-        "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+        "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
         "source": "TechCrunch",
         "published": "2026-08-24T18:03:55+00:00"
+      },
+      {
+        "title": "Octopus intelligence may be related to never-before-seen mutation",
+        "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+        "description": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL:...",
+        "source": "HackerNews",
+        "published": "2026-08-24T17:57:13+00:00"
       },
       {
         "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
@@ -134,13 +148,6 @@
         "description": "Article URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4 Comments URL: https://news.ycombinator.com/item?id=49423495 Points: 0 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-24T17:53:14+00:00"
-      },
-      {
-        "title": "Agent Lightning v1.0",
-        "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-        "description": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 9 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-24T17:23:22+00:00"
       },
       {
         "title": "Lenovo ThinkBook 16p G6 İnceleme: Core Ultra 9 + RTX 5060 + 3.2K 165 Hz",
@@ -152,14 +159,14 @@
       {
         "title": "The entire city of San Francisco as a video game",
         "link": "https://sf.thijs.gg/",
-        "description": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 175 # Comments: 60",
+        "description": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 202 # Comments: 73",
         "source": "HackerNews",
         "published": "2026-08-24T17:05:38+00:00"
       },
       {
         "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
         "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-        "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 51 # Comments: 5",
+        "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 53 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-08-24T16:52:01+00:00"
       },
@@ -255,13 +262,6 @@
         "published": "2026-08-24T14:04:13+00:00"
       },
       {
-        "title": "Hugging Face reportedly in talks to be acquired for $13B",
-        "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-        "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-        "source": "TechCrunch",
-        "published": "2026-08-24T13:47:26+00:00"
-      },
-      {
         "title": "FAST İşlem Limitleri Artırıldı: İşte Yeni Tutarlar",
         "link": "\n                    https://www.webtekno.com/fast-islem-limitleri-artirildi-h222865.html\n                    ",
         "description": "Türkiye Cumhuriyet Merkez Bankası (TCMB), FAST işlem limitlerinin artırıldığını duyurdu.",
@@ -355,6 +355,13 @@
     ],
     "dunya": [
       {
+        "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+        "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+        "description": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs After a pause of more than two months, the US military announced Monday that it once again carried out a strike on a vessel in the eastern...",
+        "source": "The Guardian",
+        "published": "2026-08-24T20:23:26+00:00"
+      },
+      {
         "title": "Dragon Ball-inspired theme park to be built near Paris",
         "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
         "description": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
@@ -423,6 +430,13 @@
         "description": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
         "source": "BBC News",
         "published": "2026-08-24T16:55:42+00:00"
+      },
+      {
+        "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+        "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+        "description": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
+        "source": "NPR",
+        "published": "2026-08-24T16:53:45-04:00"
       },
       {
         "title": "World's oceans hit highest temperature on record as El Niño grows",
@@ -544,20 +558,6 @@
         "published": "2026-08-23T17:23:05-04:00"
       },
       {
-        "title": "Learning to live in a post-American world",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-        "description": "In a recent article for Foregin Affairs , Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
-        "source": "NPR",
-        "published": "2026-08-23T17:21:23-04:00"
-      },
-      {
-        "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-        "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-        "description": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them...",
-        "source": "The Guardian",
-        "published": "2026-08-22T14:04:57+00:00"
-      },
-      {
         "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
         "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
         "description": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country...",
@@ -566,6 +566,27 @@
       }
     ],
     "turkiye": [
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-agustos-2026-1738750",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-25T00:00:00+03:00"
+      },
+      {
+        "title": "Toprak kayması nedeniyle 5 katlı bina tahliye edildi",
+        "link": "https://www.ntv.com.tr/turkiye/toprak-kaymasi-nedeniyle-5-katli-bina-tahliye-edildi-1738748",
+        "description": "Tunceli'de bir inşaat için gerçekleştirilen temel kazısı sırasında toprak kaydı. Bitişikteki 5 katlı bina tahliye edildi.",
+        "source": "NTV",
+        "published": "2026-08-24T23:36:06+03:00"
+      },
+      {
+        "title": "Eski eş dehşeti: Sokak ortasında defalarca bıçakladı",
+        "link": "https://www.sozcu.com.tr/eski-es-dehseti-sokak-ortasinda-defalarca-bicakladi-p352356",
+        "description": "Eski eş dehşeti: Sokak ortasında defalarca bıçakladı",
+        "source": "Sözcü",
+        "published": "2026-08-24T23:28:05+03:00"
+      },
       {
         "title": "Kocaelispor, Amed’i 2 golle geçti",
         "link": "https://www.sozcu.com.tr/kocaelispor-amed-i-2-golle-gecti-p352357",
@@ -651,13 +672,6 @@
         "published": "2026-08-24T21:08:58+03:00"
       },
       {
-        "title": "Filenin Sultanları 3'te 3 yaptı",
-        "link": "https://www.sozcu.com.tr/filenin-sultanlari-3-te-3-yapti-p352341",
-        "description": "Filenin Sultanları 3'te 3 yaptı",
-        "source": "Sözcü",
-        "published": "2026-08-24T21:00:19+03:00"
-      },
-      {
         "title": "AİHM Kavala kararını açıklayacak",
         "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
         "description": "Avrupa İnsan Hakları Mahkemesi (AİHM), dokuz yıldır tutuklu olan Osman Kavala'nın ikinci başvurusuna ilişkin kararını salı günü açıklayacak.",
@@ -735,25 +749,11 @@
         "published": "2026-08-24T15:00:45+00:00"
       },
       {
-        "title": "Kuriş soruşturması. İdris Naim Şahin adına tahsisli 2 aracın daha kullanıldığı ortaya çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kuris-sorusturmasi-idris-naim-sahin-adina-tahsisli-2-aracin-daha-kullanildigi-ortaya-cikti-1738706",
-        "description": "Kuriş soruşturmasında Eski İçişleri Bakanı İdris Naim Şahin adına tahsisli iki aracın daha amacı dışında ve suç içerikli faaliyetlerde kullanıldığı tespit edildi.",
-        "source": "NTV",
-        "published": "2026-08-24T14:47:54+03:00"
-      },
-      {
         "title": "GTA 6 sızıntıları yılın en büyük oyunu için ne anlama geliyor?",
         "link": "https://www.bbc.com/turkce/articles/c9v98e7430no?at_medium=RSS&at_campaign=rss",
         "description": "Grand Theft Auto (GTA) 6, neredeyse bir haftadır sızdırılan görüntüleriyle gündemde. Oyunun geliştiricisi Rockstar Games henüz resmi açıklama yapmadı. Rockstar'ın sahibi Take Two Interactive şirketi ise görüntüleri sızdırılan hesapların bilgilerinin...",
         "source": "BBC Turkish",
         "published": "2026-08-24T14:16:01+00:00"
-      },
-      {
-        "title": "İstanbul'da yankesicilik örgütüne operasyon",
-        "link": "https://www.ntv.com.tr/yerel-haberler/istanbul/istanbulda-yankesicilik-orgutune-operasyon-1738704",
-        "description": "İstanbul'un çeşitli ilçelerinde yankesicilik yapan örgüte yönelik 35 adrese düzenlenen operasyonlarda 26 şüpheli yakalandı.",
-        "source": "NTV",
-        "published": "2026-08-24T14:04:02+03:00"
       },
       {
         "title": "İdris Naim Şahin'e ait iki aracın daha 'şüpheli faaliyetlerde' kullanıldığı açıklandı",
