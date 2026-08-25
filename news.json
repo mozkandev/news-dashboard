@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-25T22:26:15.894375+00:00",
+  "updated_at": "2026-08-25T22:55:56.377942+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-        "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-        "description": "Article URL: https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN Comments URL: https://news.ycombinator.com/item?id=49441101 Points: 3 # Comments: 0",
+        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+        "link": "https://github.com/swimmingbrain/texbrain",
+        "description": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay...",
         "source": "HackerNews",
-        "published": "2026-08-25T21:43:37+00:00"
+        "published": "2026-08-25T22:08:50+00:00"
       },
       {
         "title": "Python's pre-declared constants are kinda weird",
         "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 21 # Comments: 1",
+        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 57 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-25T21:39:02+00:00"
       },
@@ -26,7 +26,7 @@
       {
         "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 25 # Comments: 12",
+        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 30 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-08-25T20:49:03+00:00"
       },
@@ -40,14 +40,14 @@
       {
         "title": "C2PA Cameras Do Not Survive Contact with Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 33 # Comments: 8",
+        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 48 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-08-25T19:38:24+00:00"
       },
       {
         "title": "A brief history of federal lift ticket regulation",
         "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-        "description": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 7 # Comments: 0",
+        "description": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 8 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-25T19:25:43+00:00"
       },
@@ -61,7 +61,7 @@
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 161 # Comments: 107",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 183 # Comments: 116",
         "source": "HackerNews",
         "published": "2026-08-25T19:07:01+00:00"
       },
@@ -78,6 +78,13 @@
         "description": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
         "source": "TechCrunch",
         "published": "2026-08-25T18:26:55+00:00"
+      },
+      {
+        "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+        "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+        "description": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case...",
+        "source": "The Verge",
+        "published": "2026-08-25T18:23:04-04:00"
       },
       {
         "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
@@ -124,7 +131,7 @@
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 214 # Comments: 45",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 229 # Comments: 47",
         "source": "HackerNews",
         "published": "2026-08-25T17:55:23+00:00"
       },
@@ -316,13 +323,6 @@
         "description": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker — is...",
         "source": "The Verge",
         "published": "2026-08-25T13:39:20-04:00"
-      },
-      {
-        "title": "GeForce Now is getting support for the Steam Controller",
-        "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-        "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce...",
-        "source": "The Verge",
-        "published": "2026-08-25T13:28:02-04:00"
       },
       {
         "title": "Apple M6 ve M5 Pro Çipli Mac Mini Modellerini Duyurdu",
@@ -567,6 +567,20 @@
     ],
     "turkiye": [
       {
+        "title": "Alihan Kuriş soruşturmasında 37 klasör belge ele geçirildi",
+        "link": "https://www.ntv.com.tr/turkiye/alihan-kuris-sorusturmasinda-37-klasor-belge-ele-gecirildi-1738922",
+        "description": "Alihan Kuriş Suç Örgütü soruşturması kapsamında Antalya’da bir evde yapılan aramada, “bağış” listeleri ve hesap dekontlarının da aralarında bulunduğu 37 klasör belge ele geçirildi.",
+        "source": "NTV",
+        "published": "2026-08-26T01:40:52+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-agustos-2026-1738919",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-26T01:30:00+03:00"
+      },
+      {
         "title": "Adıyaman'da peş peşe depremler",
         "link": "https://www.ntv.com.tr/turkiye/adiyamanda-42-buyuklugunde-deprem-1738914",
         "description": "Adıyaman'da en büyüğü 4,2 olmak üzere art arda sarsıntılar meydana geldi.",
@@ -579,13 +593,6 @@
         "description": "Güneş altında bile ısınmıyor: Giyeni 8 dereceye kadar serinleten kumaş üretildi",
         "source": "Sözcü",
         "published": "2026-08-26T01:01:32+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-agustos-2026-1738919",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-26T01:00:00+03:00"
       },
       {
         "title": "Güllü'nün öldüğü geceden yeni görüntü. Polise panikle defalarca \"Annem iyi mi?\" diye sormuş",
@@ -662,7 +669,7 @@
         "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
         "description": "Avrupa İnsan Hakları Mahkemesi, dokuz yıldır tutuklu olan Osman Kavala'nın ikinci başvurusuna ilişkin kararını açıkladı. Kararda Kavala'nın başvuruda bulunduğu tüm haklarının ihlal edildiği ve en kısa sürede serbest bırakılması gerektiği belirtildi.",
         "source": "BBC Turkish",
-        "published": "2026-08-25T22:22:52+00:00"
+        "published": "2026-08-25T22:30:08+00:00"
       },
       {
         "title": "Adaya 10 geyik bıraktıklarına pişman oldular",
@@ -705,13 +712,6 @@
         "description": "İstanbul'un tarihi okulları arasındaki Kabataş Erkek Lisesi'nde üç YKS birincisine TOGG marka otomobil hediye edildi.",
         "source": "NTV",
         "published": "2026-08-25T21:47:20+03:00"
-      },
-      {
-        "title": "Üsküdar Belediyesi'nde başkan vekilliği seçimine yürütmeyi durdurma kararı",
-        "link": "https://www.ntv.com.tr/turkiye/uskudar-belediyesinde-baskan-vekilligi-secimine-yurutmeyi-durdurma-karari-1738904",
-        "description": "İstanbul 2. İdare Mahkemesi, Üsküdar Belediyesi'ndeki başkan vekilliği seçiminde yürütmeyi durdurma kararı verdi.",
-        "source": "NTV",
-        "published": "2026-08-25T19:58:12+03:00"
       },
       {
         "title": "Güvenlik kaynakları: Sosyal medyadaki İmralı tutanakları gerçek değil",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8572
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+75°F",
-    "wind": "↑8mph",
-    "humidity": "60%"
+    "condition": "Güneşli",
+    "temp": "+86°F",
+    "wind": "↗7mph",
+    "humidity": "40%"
   }
 }
