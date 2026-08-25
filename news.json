@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-25T19:31:17.727593+00:00",
+  "updated_at": "2026-08-25T20:27:35.197067+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Perplexity Portable Computer",
+        "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+        "description": "Article URL: https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai Comments URL: https://news.ycombinator.com/item?id=49439535 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-25T19:41:48+00:00"
+      },
       {
         "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
         "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
@@ -12,7 +19,7 @@
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 16 # Comments: 2",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 44 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-08-25T19:07:01+00:00"
       },
@@ -24,16 +31,9 @@
         "published": "2026-08-25T19:03:47+00:00"
       },
       {
-        "title": "Dolly Parton Has Died",
-        "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
-        "description": "Article URL: https://en.wikipedia.org/wiki/Dolly_Parton Comments URL: https://news.ycombinator.com/item?id=49438661 Points: 31 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-25T18:43:22+00:00"
-      },
-      {
         "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
         "link": "https://pgbot.dev/",
-        "description": "Article URL: https://pgbot.dev/ Comments URL: https://news.ycombinator.com/item?id=49438492 Points: 22 # Comments: 3",
+        "description": "Article URL: https://pgbot.dev/ Comments URL: https://news.ycombinator.com/item?id=49438492 Points: 42 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-08-25T18:30:57+00:00"
       },
@@ -82,7 +82,7 @@
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 83 # Comments: 10",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 126 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-08-25T17:55:23+00:00"
       },
@@ -145,7 +145,7 @@
       {
         "title": "Run OpenBSD on DigitalOcean for $4/month",
         "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 48 # Comments: 18",
+        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 65 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-08-25T17:23:07+00:00"
       },
@@ -159,21 +159,21 @@
       {
         "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
         "link": "https://github.com/leodeim/vpsmon",
-        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 20 # Comments: 8",
+        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 26 # Comments: 9",
         "source": "HackerNews",
         "published": "2026-08-25T17:13:59+00:00"
       },
       {
         "title": "Nitter project received cease and desist",
         "link": "https://github.com/zedeus/nitter/issues/1442",
-        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 259 # Comments: 179",
+        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 312 # Comments: 213",
         "source": "HackerNews",
         "published": "2026-08-25T17:08:21+00:00"
       },
       {
         "title": "Black hole singularity is a surface not a point",
         "link": "https://arxiv.org/abs/2608.21590",
-        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 89 # Comments: 39",
+        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 104 # Comments: 57",
         "source": "HackerNews",
         "published": "2026-08-25T17:02:49+00:00"
       },
@@ -190,6 +190,20 @@
         "description": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
         "source": "TechCrunch",
         "published": "2026-08-25T16:35:00+00:00"
+      },
+      {
+        "title": "The Witcher 3 is getting a remaster",
+        "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+        "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a...",
+        "source": "The Verge",
+        "published": "2026-08-25T16:24:24-04:00"
+      },
+      {
+        "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+        "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+        "description": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already...",
+        "source": "The Verge",
+        "published": "2026-08-25T16:22:28-04:00"
       },
       {
         "title": "Huawei Mate XT 2 Gelecek Ay Tanıtılıyor",
@@ -227,6 +241,20 @@
         "published": "2026-08-25T15:30:00+00:00"
       },
       {
+        "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+        "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+        "description": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build...",
+        "source": "The Verge",
+        "published": "2026-08-25T15:27:55-04:00"
+      },
+      {
+        "title": "Dreame’s dream of a rocket-powered car is dead",
+        "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+        "description": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division called...",
+        "source": "The Verge",
+        "published": "2026-08-25T14:52:53-04:00"
+      },
+      {
         "title": "Yepy'de Uygun Fiyatlı Yenilenmiş Telefon Modelleri",
         "link": "\n                    https://www.webtekno.com/butceni-zorlamadan-teknoloji-yepy-de-uygun-fiyatli-yenilenmis-telefon-modelleri-h222949.html\n                    ",
         "description": "Yepy, sahibinden.com güvencesiyle telefon satmak ve yenilenmiş telefon satın almak isteyen kullanıcıları şeffaf süreçlerle buluşturuyor.",
@@ -239,6 +267,13 @@
         "description": "YouTube küçük resim değiştirme işlemi nasıl yapılır? Bilgisayar ve telefondan video küçük resmi değiştirme adımlarını ve doğru görsel ölçülerini anlatıyoruz.",
         "source": "Webtekno",
         "published": "2026-08-25T14:20:54+03:00"
+      },
+      {
+        "title": "Take a look at Microsoft’s new 25th anniversary Halo accessories",
+        "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
+        "description": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG...",
+        "source": "The Verge",
+        "published": "2026-08-25T14:16:29-04:00"
       },
       {
         "title": "Japon Telefon Markaları Nelerdir?",
@@ -262,11 +297,39 @@
         "published": "2026-08-25T13:58:25+00:00"
       },
       {
+        "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+        "link": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
+        "description": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker — is...",
+        "source": "The Verge",
+        "published": "2026-08-25T13:39:20-04:00"
+      },
+      {
+        "title": "GeForce Now is getting support for the Steam Controller",
+        "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+        "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce...",
+        "source": "The Verge",
+        "published": "2026-08-25T13:28:02-04:00"
+      },
+      {
         "title": "Apple M6 ve M5 Pro Çipli Mac Mini Modellerini Duyurdu",
         "link": "https://shiftdelete.net/apple-m6-ve-m5-pro-cipli-mac-mini-modellerini-duyurdu",
         "description": "Apple, M6 ve M5 Pro çipleriyle güçlendirilmiş yeni Mac mini modellerini duyurdu. Fiyatlar ve 22 Eylül'de başlayacak satış süreci hakkındaki detaylar haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-08-25T13:26:37+00:00"
+      },
+      {
+        "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+        "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+        "description": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows...",
+        "source": "The Verge",
+        "published": "2026-08-25T12:58:53-04:00"
+      },
+      {
+        "title": "Polestar claims it was blindsided by sales ban",
+        "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
+        "description": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August 18th letter...",
+        "source": "The Verge",
+        "published": "2026-08-25T12:14:45-04:00"
       },
       {
         "title": "ChatGPT Plus Aboneleri için 5 Saatlik Codex Sınırı Başladı",
@@ -283,77 +346,35 @@
         "published": "2026-08-25T10:25:52-04:00"
       },
       {
-        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-        "description": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho...",
-        "source": "The Verge",
-        "published": "2026-08-25T10:09:53-04:00"
-      },
-      {
         "title": "Volkswagen Küçülecek: Şirketin Durumu Kritik",
         "link": "https://shiftdelete.net/volkswagen-ceo-oliver-blume-sirketin-durumu-kritik",
         "description": "Volkswagen’in kritik durumu hakkında CEO Oliver Blume’dan önemli açıklamalar geldi. Şirket, maliyetleri düşürmek için büyük çaplı yapılanmaya gidiyor.",
         "source": "ShiftDelete",
         "published": "2026-08-25T10:00:02+00:00"
-      },
-      {
-        "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
-        "link": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
-        "description": "Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024...",
-        "source": "The Verge",
-        "published": "2026-08-25T09:43:03-04:00"
-      },
-      {
-        "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
-        "link": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
-        "description": "Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra. This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra offerings. (The...",
-        "source": "The Verge",
-        "published": "2026-08-25T09:41:19-04:00"
-      },
-      {
-        "title": "Apple’s new M6 chip gets more cores and more AI compute",
-        "link": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-        "description": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will bring...",
-        "source": "The Verge",
-        "published": "2026-08-25T09:39:18-04:00"
-      },
-      {
-        "title": "Where to preorder the updated Mac Mini and Mac Studio",
-        "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
-        "description": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting...",
-        "source": "The Verge",
-        "published": "2026-08-25T09:02:18-04:00"
-      },
-      {
-        "title": "The OLED Xbox Ally X20 officially starts at $1,300",
-        "link": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
-        "description": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In July, we told you that bundle would no longer be necessary, and today...",
-        "source": "The Verge",
-        "published": "2026-08-24T20:50:45-04:00"
-      },
-      {
-        "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
-        "link": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
-        "description": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the myriad ways...",
-        "source": "The Verge",
-        "published": "2026-08-24T15:55:25-04:00"
-      },
-      {
-        "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
-        "link": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
-        "description": "Nintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative my family has been using to connect our Switch to hotel TVs for years, but I’ve come to realize I much prefer having a stand for the...",
-        "source": "The Verge",
-        "published": "2026-08-21T12:36:25-04:00"
-      },
-      {
-        "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
-        "link": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
-        "description": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens can tilt down...",
-        "source": "The Verge",
-        "published": "2026-08-13T15:25:31-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+        "source": "BBC News",
+        "published": "2026-08-25T19:50:57+00:00"
+      },
+      {
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "source": "BBC News",
+        "published": "2026-08-25T19:48:14+00:00"
+      },
+      {
+        "title": "Man dies in crash after police pursuit",
+        "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+        "description": "Two women are also hurt and one remains in hospital in critical condition.",
+        "source": "BBC News",
+        "published": "2026-08-25T19:39:44+00:00"
+      },
       {
         "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
         "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
@@ -364,16 +385,9 @@
       {
         "title": "Dolly Parton: The life of an iconic country singer",
         "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
-        "description": "Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.",
+        "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
         "source": "BBC News",
         "published": "2026-08-25T18:27:22+00:00"
-      },
-      {
-        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-        "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-        "source": "BBC News",
-        "published": "2026-08-25T17:54:03+00:00"
       },
       {
         "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
@@ -395,20 +409,6 @@
         "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
         "source": "BBC News",
         "published": "2026-08-25T17:30:40+00:00"
-      },
-      {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-        "source": "BBC News",
-        "published": "2026-08-25T16:56:20+00:00"
-      },
-      {
-        "title": "Man dies in crash after police pursuit",
-        "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-        "description": "Two women are also hurt and one remains in hospital in critical condition.",
-        "source": "BBC News",
-        "published": "2026-08-25T16:06:56+00:00"
       },
       {
         "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
@@ -446,7 +446,7 @@
         "published": "2026-08-25T12:31:53+00:00"
       },
       {
-        "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+        "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
         "description": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
         "source": "NPR",
@@ -567,6 +567,27 @@
     ],
     "turkiye": [
       {
+        "title": "Başıboş eşek ortalığı birbirine kattı: Aracın içine atlayıp 3 kişiyi yaraladı",
+        "link": "https://www.sozcu.com.tr/basibos-esek-ortaligi-birbirine-katti-aracin-icine-atlayip-3-kisiyi-yaraladi-p352653",
+        "description": "Başıboş eşek ortalığı birbirine kattı: Aracın içine atlayıp 3 kişiyi yaraladı",
+        "source": "Sözcü",
+        "published": "2026-08-25T22:39:26+03:00"
+      },
+      {
+        "title": "Adıyaman'da peş peşe depremler",
+        "link": "https://www.ntv.com.tr/turkiye/adiyamanda-42-buyuklugunde-deprem-1738914",
+        "description": "Adıyaman'da en büyüğü 4,2 olmak üzere art arda sarsıntılar meydan geldi.",
+        "source": "NTV",
+        "published": "2026-08-25T22:35:27+03:00"
+      },
+      {
+        "title": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/dolly-parton-hayatini-kaybetti-p352646",
+        "description": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-08-25T22:33:20+03:00"
+      },
+      {
         "title": "Suriye'de terör örgütü SDG/YPG kendini feshetti",
         "link": "https://www.sozcu.com.tr/ypg-kendini-feshetti-mi-p352643",
         "description": "Suriye'de terör örgütü SDG/YPG kendini feshetti",
@@ -593,13 +614,6 @@
         "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
         "source": "NTV",
         "published": "2026-08-25T22:13:26+03:00"
-      },
-      {
-        "title": "Adıyaman'da 4,2 büyüklüğünde deprem",
-        "link": "https://www.ntv.com.tr/turkiye/adiyamanda-42-buyuklugunde-deprem-1738914",
-        "description": "Adıyaman'da 3 dakika içinde 3,7 ve 4,2 büyüklüğünde iki deprem meydana geldi.",
-        "source": "NTV",
-        "published": "2026-08-25T22:04:22+03:00"
       },
       {
         "title": "Son dakika Adıyaman'da deprem mi oldu? Az önce deprem Adıyaman'da nerede oldu? Adıyaman deprem Kandilli ve AFAD son depremler listesi 25 Ağustos 2026",
@@ -649,20 +663,6 @@
         "description": "Saraydan Yıldızlar SSS Holding'e tepki, bakanlara çağrı",
         "source": "Sözcü",
         "published": "2026-08-25T21:10:44+03:00"
-      },
-      {
-        "title": "Kasımpaşa, Fransız stoperi renklerine bağladı",
-        "link": "https://www.sozcu.com.tr/kasimpasa-fransiz-stoperi-renklerine-bagladi-p352637",
-        "description": "Kasımpaşa, Fransız stoperi renklerine bağladı",
-        "source": "Sözcü",
-        "published": "2026-08-25T20:45:51+03:00"
-      },
-      {
-        "title": "Ciğercide sahneye çıktı: Mehmet Ali Erbil’in son hali gündem oldu",
-        "link": "https://www.sozcu.com.tr/cigercide-sahneye-cikti-mehmet-ali-erbil-in-son-hali-gundem-oldu-p352635",
-        "description": "Ciğercide sahneye çıktı: Mehmet Ali Erbil’in son hali gündem oldu",
-        "source": "Sözcü",
-        "published": "2026-08-25T20:32:38+03:00"
       },
       {
         "title": "Üsküdar Belediyesi'nde başkan vekilliği seçimine yürütmeyi durdurma kararı",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8572
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+78°F",
-    "wind": "←7mph",
-    "humidity": "64%"
+    "condition": "Kapalı",
+    "temp": "+96°F",
+    "wind": "↙8mph",
+    "humidity": "36%"
   }
 }
