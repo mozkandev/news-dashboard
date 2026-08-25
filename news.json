@@ -1,20 +1,48 @@
 {
-  "updated_at": "2026-08-25T18:38:05.384711+00:00",
+  "updated_at": "2026-08-25T19:31:17.727593+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+        "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+        "description": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses,...",
+        "source": "TechCrunch",
+        "published": "2026-08-25T19:22:52+00:00"
+      },
+      {
+        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 16 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-25T19:07:01+00:00"
+      },
+      {
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "description": "The company's new fundraising total now stands at $232 million.",
+        "source": "TechCrunch",
+        "published": "2026-08-25T19:03:47+00:00"
+      },
+      {
+        "title": "Dolly Parton Has Died",
+        "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Dolly_Parton Comments URL: https://news.ycombinator.com/item?id=49438661 Points: 31 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-08-25T18:43:22+00:00"
+      },
+      {
+        "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+        "link": "https://pgbot.dev/",
+        "description": "Article URL: https://pgbot.dev/ Comments URL: https://news.ycombinator.com/item?id=49438492 Points: 22 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-08-25T18:30:57+00:00"
+      },
       {
         "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
         "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
         "description": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
         "source": "TechCrunch",
         "published": "2026-08-25T18:26:55+00:00"
-      },
-      {
-        "title": "A Message from the Family of Dolly Parton",
-        "link": "https://www.instagram.com/reel/DceNXgPJyZ9/",
-        "description": "Article URL: https://www.instagram.com/reel/DceNXgPJyZ9/ Comments URL: https://news.ycombinator.com/item?id=49438407 Points: 7 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-25T18:25:09+00:00"
       },
       {
         "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
@@ -54,7 +82,7 @@
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 19 # Comments: 1",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 83 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-08-25T17:55:23+00:00"
       },
@@ -71,13 +99,6 @@
         "description": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
         "source": "TechCrunch",
         "published": "2026-08-25T17:50:33+00:00"
-      },
-      {
-        "title": "DOJ prosecutes single FOIA dodger while defending systemwide evasion",
-        "link": "https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/",
-        "description": "Article URL: https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/ Comments URL: https://news.ycombinator.com/item?id=49437637 Points: 11 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-25T17:35:23+00:00"
       },
       {
         "title": "Waymo robotaxis are headed to Munich",
@@ -124,7 +145,7 @@
       {
         "title": "Run OpenBSD on DigitalOcean for $4/month",
         "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 18 # Comments: 6",
+        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 48 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-08-25T17:23:07+00:00"
       },
@@ -136,23 +157,23 @@
         "published": "2026-08-25T17:22:21+03:00"
       },
       {
-        "title": "Lightweight system monitor for Linux VPS written in Go",
+        "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
         "link": "https://github.com/leodeim/vpsmon",
-        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 13 # Comments: 7",
+        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 20 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-25T17:13:59+00:00"
       },
       {
         "title": "Nitter project received cease and desist",
         "link": "https://github.com/zedeus/nitter/issues/1442",
-        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 178 # Comments: 110",
+        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 259 # Comments: 179",
         "source": "HackerNews",
         "published": "2026-08-25T17:08:21+00:00"
       },
       {
         "title": "Black hole singularity is a surface not a point",
         "link": "https://arxiv.org/abs/2608.21590",
-        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 42 # Comments: 19",
+        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 89 # Comments: 39",
         "source": "HackerNews",
         "published": "2026-08-25T17:02:49+00:00"
       },
@@ -162,13 +183,6 @@
         "description": "Apple, OLED iPad mini, yeni Mac mini ve AirPods 5 modellerini piyasaya sürmeye hazırlanıyor. Apple'ın yaklaşan etkinlikleri ve yeni cihazlar hakkındaki detaylar.",
         "source": "ShiftDelete",
         "published": "2026-08-25T17:00:43+00:00"
-      },
-      {
-        "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
-        "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-        "description": "Article URL: https://www.judegomila.com/posts/riemann-lambda-0.1787854 Comments URL: https://news.ycombinator.com/item?id=49437165 Points: 22 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-08-25T16:59:31+00:00"
       },
       {
         "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
@@ -213,32 +227,11 @@
         "published": "2026-08-25T15:30:00+00:00"
       },
       {
-        "title": "Gamma acquires Accel-backed design startup Lica",
-        "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-        "description": "Lica co-founders are going to work on Gamma's new research team.",
-        "source": "TechCrunch",
-        "published": "2026-08-25T15:00:00+00:00"
-      },
-      {
         "title": "Yepy'de Uygun Fiyatlı Yenilenmiş Telefon Modelleri",
         "link": "\n                    https://www.webtekno.com/butceni-zorlamadan-teknoloji-yepy-de-uygun-fiyatli-yenilenmis-telefon-modelleri-h222949.html\n                    ",
         "description": "Yepy, sahibinden.com güvencesiyle telefon satmak ve yenilenmiş telefon satın almak isteyen kullanıcıları şeffaf süreçlerle buluşturuyor.",
         "source": "Webtekno",
         "published": "2026-08-25T14:48:39+03:00"
-      },
-      {
-        "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-        "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-        "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-        "source": "TechCrunch",
-        "published": "2026-08-25T14:46:32+00:00"
-      },
-      {
-        "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-        "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-        "description": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already...",
-        "source": "The Verge",
-        "published": "2026-08-25T14:35:24-04:00"
       },
       {
         "title": "YouTube Küçük Resmi Nasıl Değiştirilir? Adım Adım Rehber",
@@ -248,25 +241,11 @@
         "published": "2026-08-25T14:20:54+03:00"
       },
       {
-        "title": "Take a look at Microsoft’s new 25th anniversary Halo accessories",
-        "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
-        "description": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG...",
-        "source": "The Verge",
-        "published": "2026-08-25T14:16:29-04:00"
-      },
-      {
         "title": "Japon Telefon Markaları Nelerdir?",
         "link": "https://shiftdelete.net/japon-telefon-markalari",
         "description": "Teknoloji tarafında dünyanın önde gelen ülkelerinden biri olan Japonya, akıllı telefon sektöründe rakiplerine karşı geniş bir pazar payına sahip olmamasıyla biliniyor. Buna rağmen dikkat çeken telefon markalarına sahip olan Japonya, bu sektörde...",
         "source": "ShiftDelete",
         "published": "2026-08-25T14:05:12+00:00"
-      },
-      {
-        "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-        "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-        "description": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build...",
-        "source": "The Verge",
-        "published": "2026-08-25T14:01:43-04:00"
       },
       {
         "title": "WhatsApp İki Adımlı Doğrulama Kodlarını Güçlü Parolalara Dönüştürüyor",
@@ -283,39 +262,11 @@
         "published": "2026-08-25T13:58:25+00:00"
       },
       {
-        "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-        "link": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
-        "description": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker — is...",
-        "source": "The Verge",
-        "published": "2026-08-25T13:39:20-04:00"
-      },
-      {
-        "title": "GeForce Now is getting support for the Steam Controller",
-        "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-        "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce...",
-        "source": "The Verge",
-        "published": "2026-08-25T13:28:02-04:00"
-      },
-      {
         "title": "Apple M6 ve M5 Pro Çipli Mac Mini Modellerini Duyurdu",
         "link": "https://shiftdelete.net/apple-m6-ve-m5-pro-cipli-mac-mini-modellerini-duyurdu",
         "description": "Apple, M6 ve M5 Pro çipleriyle güçlendirilmiş yeni Mac mini modellerini duyurdu. Fiyatlar ve 22 Eylül'de başlayacak satış süreci hakkındaki detaylar haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-08-25T13:26:37+00:00"
-      },
-      {
-        "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-        "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-        "description": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows...",
-        "source": "The Verge",
-        "published": "2026-08-25T12:58:53-04:00"
-      },
-      {
-        "title": "Polestar claims it was blindsided by sales ban",
-        "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-        "description": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August 18th letter...",
-        "source": "The Verge",
-        "published": "2026-08-25T12:14:45-04:00"
       },
       {
         "title": "ChatGPT Plus Aboneleri için 5 Saatlik Codex Sınırı Başladı",
@@ -346,20 +297,76 @@
         "published": "2026-08-25T10:00:02+00:00"
       },
       {
+        "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+        "link": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+        "description": "Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024...",
+        "source": "The Verge",
+        "published": "2026-08-25T09:43:03-04:00"
+      },
+      {
+        "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+        "link": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+        "description": "Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra. This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra offerings. (The...",
+        "source": "The Verge",
+        "published": "2026-08-25T09:41:19-04:00"
+      },
+      {
+        "title": "Apple’s new M6 chip gets more cores and more AI compute",
+        "link": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+        "description": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will bring...",
+        "source": "The Verge",
+        "published": "2026-08-25T09:39:18-04:00"
+      },
+      {
         "title": "Where to preorder the updated Mac Mini and Mac Studio",
         "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
         "description": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting...",
         "source": "The Verge",
         "published": "2026-08-25T09:02:18-04:00"
+      },
+      {
+        "title": "The OLED Xbox Ally X20 officially starts at $1,300",
+        "link": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
+        "description": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In July, we told you that bundle would no longer be necessary, and today...",
+        "source": "The Verge",
+        "published": "2026-08-24T20:50:45-04:00"
+      },
+      {
+        "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
+        "link": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
+        "description": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the myriad ways...",
+        "source": "The Verge",
+        "published": "2026-08-24T15:55:25-04:00"
+      },
+      {
+        "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
+        "link": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
+        "description": "Nintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative my family has been using to connect our Switch to hotel TVs for years, but I’ve come to realize I much prefer having a stand for the...",
+        "source": "The Verge",
+        "published": "2026-08-21T12:36:25-04:00"
+      },
+      {
+        "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
+        "link": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
+        "description": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens can tilt down...",
+        "source": "The Verge",
+        "published": "2026-08-13T15:25:31-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Dolly Parton: The country legend who sang from the heart",
-        "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-        "description": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+        "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
+        "description": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
         "source": "BBC News",
-        "published": "2026-08-25T18:14:13+00:00"
+        "published": "2026-08-25T19:11:40+00:00"
+      },
+      {
+        "title": "Dolly Parton: The life of an iconic country singer",
+        "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+        "description": "Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.",
+        "source": "BBC News",
+        "published": "2026-08-25T18:27:22+00:00"
       },
       {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -411,16 +418,9 @@
         "published": "2026-08-25T15:04:52+00:00"
       },
       {
-        "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
-        "description": "The former Jeffrey Epstein accomplice loses her latest effort to be released from prison.",
-        "source": "BBC News",
-        "published": "2026-08-25T14:42:17+00:00"
-      },
-      {
         "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
         "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-        "description": "The artist was a star performer in country music, and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.",
+        "description": "The artist was a star performer in country music and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.",
         "source": "NPR",
         "published": "2026-08-25T14:17:32-04:00"
       },
@@ -567,6 +567,69 @@
     ],
     "turkiye": [
       {
+        "title": "Suriye'de terör örgütü SDG/YPG kendini feshetti",
+        "link": "https://www.sozcu.com.tr/ypg-kendini-feshetti-mi-p352643",
+        "description": "Suriye'de terör örgütü SDG/YPG kendini feshetti",
+        "source": "Sözcü",
+        "published": "2026-08-25T22:23:27+03:00"
+      },
+      {
+        "title": "Adaya 10 geyik bıraktıklarına pişman oldular",
+        "link": "https://www.sozcu.com.tr/adaya-10-geyik-biraktiklarina-pisman-oldular-p352651",
+        "description": "Adaya 10 geyik bıraktıklarına pişman oldular",
+        "source": "Sözcü",
+        "published": "2026-08-25T22:18:53+03:00"
+      },
+      {
+        "title": "Adıyaman'da 3 dakika arayla peş peşe iki deprem",
+        "link": "https://www.sozcu.com.tr/adiyaman-deprem-25-agustos-2026-p352647",
+        "description": "Adıyaman'da 3 dakika arayla peş peşe iki deprem",
+        "source": "Sözcü",
+        "published": "2026-08-25T22:18:53+03:00"
+      },
+      {
+        "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1738916",
+        "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
+        "source": "NTV",
+        "published": "2026-08-25T22:13:26+03:00"
+      },
+      {
+        "title": "Adıyaman'da 4,2 büyüklüğünde deprem",
+        "link": "https://www.ntv.com.tr/turkiye/adiyamanda-42-buyuklugunde-deprem-1738914",
+        "description": "Adıyaman'da 3 dakika içinde 3,7 ve 4,2 büyüklüğünde iki deprem meydana geldi.",
+        "source": "NTV",
+        "published": "2026-08-25T22:04:22+03:00"
+      },
+      {
+        "title": "Son dakika Adıyaman'da deprem mi oldu? Az önce deprem Adıyaman'da nerede oldu? Adıyaman deprem Kandilli ve AFAD son depremler listesi 25 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-adiyamanda-deprem-mi-oldu-az-once-deprem-adiyamanda-nerede-oldu-adiyaman-deprem-kandilli-ve-afad-son-depremler-listesi-25-agustos-2026-1738915",
+        "description": "Son dakika Adıyaman deprem haberleri.. Adıyaman'da deprem mi oldu? Az önce deprem Adıyaman'da nerede oldu? Adıyaman Kandilli ve AFAD son depremler.. 25 Ağustos 2026 Adıyaman deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
+        "source": "NTV",
+        "published": "2026-08-25T22:00:00+03:00"
+      },
+      {
+        "title": "Tarihi lisede üç birinciye otomobil hediye edildi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-tarihi-lisede-uc-birinciye-otomobil-hediye-edildi-1738911",
+        "description": "İstanbul'un tarihi okulları arasındaki Kabataş Erkek Lisesi'nde üç YKS birincisine TOGG marka otomobil hediye edildi.",
+        "source": "NTV",
+        "published": "2026-08-25T21:47:20+03:00"
+      },
+      {
+        "title": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
+        "link": "https://www.sozcu.com.tr/turkiye-akdeniz-oyunlari-nda-1000-madalya-zaferini-yasadi-p352645",
+        "description": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
+        "source": "Sözcü",
+        "published": "2026-08-25T21:46:03+03:00"
+      },
+      {
+        "title": "2 bin 500 yıllık kuyunun dibinde bulundu: Yanında iki insan iskeleti de varmış",
+        "link": "https://www.sozcu.com.tr/2-bin-500-yillik-kuyunun-dibinde-bulundu-yaninda-iki-insan-iskeleti-de-varmis-p352644",
+        "description": "2 bin 500 yıllık kuyunun dibinde bulundu: Yanında iki insan iskeleti de varmış",
+        "source": "Sözcü",
+        "published": "2026-08-25T21:41:10+03:00"
+      },
+      {
         "title": "Acun Ilıcalı'nın takımına yenilen dünya devinden yeni transfer",
         "link": "https://www.sozcu.com.tr/acun-ilicali-nin-takimina-yenilen-dunya-devinden-yeni-transfer-p352641",
         "description": "Acun Ilıcalı'nın takımına yenilen dünya devinden yeni transfer",
@@ -602,34 +665,6 @@
         "published": "2026-08-25T20:32:38+03:00"
       },
       {
-        "title": "5 yaşındaki çocuğun kulağından canlı kene çıkarıldı",
-        "link": "https://www.sozcu.com.tr/cocugun-kulagindan-canli-kene-cikarildi-p352634",
-        "description": "5 yaşındaki çocuğun kulağından canlı kene çıkarıldı",
-        "source": "Sözcü",
-        "published": "2026-08-25T20:28:26+03:00"
-      },
-      {
-        "title": "Yeni elektromanyetik silah test edildi: Mermileri ses hızının üzerine çıkarıyor",
-        "link": "https://www.sozcu.com.tr/yeni-elektromanyetik-silah-test-edildi-mermileri-ses-hizinin-uzerine-cikariyor-p352633",
-        "description": "Yeni elektromanyetik silah test edildi: Mermileri ses hızının üzerine çıkarıyor",
-        "source": "Sözcü",
-        "published": "2026-08-25T20:23:36+03:00"
-      },
-      {
-        "title": "Ünlü menajerden Galatasaraylıları çıldırtan sözler",
-        "link": "https://www.sozcu.com.tr/unlu-menajerden-galatasaraylilari-cildirtan-sozler-p352631",
-        "description": "Ünlü menajerden Galatasaraylıları çıldırtan sözler",
-        "source": "Sözcü",
-        "published": "2026-08-25T20:15:41+03:00"
-      },
-      {
-        "title": "Polis müdahalesiyle hastanelik olan İYİ Partili vekilin danışmanı tanıdık çıktı",
-        "link": "https://www.sozcu.com.tr/aytac-cihan-10-kasim-goruntulerindeki-kisi-cikti-p352630",
-        "description": "Polis müdahalesiyle hastanelik olan İYİ Partili vekilin danışmanı tanıdık çıktı",
-        "source": "Sözcü",
-        "published": "2026-08-25T20:07:15+03:00"
-      },
-      {
         "title": "Üsküdar Belediyesi'nde başkan vekilliği seçimine yürütmeyi durdurma kararı",
         "link": "https://www.ntv.com.tr/turkiye/uskudar-belediyesinde-baskan-vekilligi-secimine-yurutmeyi-durdurma-karari-1738904",
         "description": "İstanbul 2. İdare Mahkemesi, Üsküdar Belediyesi'ndeki başkan vekilliği seçiminde yürütmeyi durdurma kararı verdi.",
@@ -637,18 +672,18 @@
         "published": "2026-08-25T19:58:12+03:00"
       },
       {
-        "title": "Anadolu Otoyolu'nda İstanbul yönü trafiğe kapatıldı",
-        "link": "https://www.sozcu.com.tr/anadolu-otoyolunda-istanbul-yonu-trafige-kapatildi-p352629",
-        "description": "Anadolu Otoyolu'nda İstanbul yönü trafiğe kapatıldı",
-        "source": "Sözcü",
-        "published": "2026-08-25T19:57:48+03:00"
-      },
-      {
         "title": "Güvenlik kaynakları: Sosyal medyadaki İmralı tutanakları gerçek değil",
         "link": "https://www.ntv.com.tr/turkiye/guvenlik-kaynaklari-sosyal-medyadaki-imrali-tutanaklari-gercek-degil-1738905",
         "description": "Güvenlik kaynakları, sosyal medyada son dönemde gündeme gelen ve İmralı'da gerçekleştiği iddia edilen görüşme, tutanak, konular ve isimlerin gerçeği yansıtmadığını açıkladı.",
         "source": "NTV",
         "published": "2026-08-25T18:55:53+03:00"
+      },
+      {
+        "title": "Mazlum Abdi, Şam'da SDG'nin feshedildiğini duyurdu",
+        "link": "https://www.bbc.com/turkce/articles/cn0j3l55g13o?at_medium=RSS&at_campaign=rss",
+        "description": "Mazlum Abdi, Suriye Demokratik Güçleri'nin (SDG) \"bağımsız bir askeri güç\" olarak varlığına son verildiğini duyurdu. \"Bugün Suriye Demokratik Güçleri'nin misyonunun sona erdiğini duyuruyor ve bağımsız bir askeri güç olarak feshedildiklerini tüm...",
+        "source": "BBC Turkish",
+        "published": "2026-08-25T18:47:56+00:00"
       },
       {
         "title": "Country müzik efsanesi Dolly Parton 80 yaşında öldü",
@@ -700,25 +735,11 @@
         "published": "2026-08-25T15:33:47+03:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye ile yeni bir dönemin kapısı aralanacak",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-malazgirte-giden-yol-ahlattan-acilmistir-1738869",
-        "description": "Cumhurbaşkanı Erdoğan, terörsüz Türkiye süreci hedefine ulaşıldığında yeni bir dönemin kapısının açılacağını söyleyerek, \"Kimse tereddüt etmesin büyük Türkiye'nin şafağı söktü.\" dedi.",
-        "source": "NTV",
-        "published": "2026-08-25T15:13:27+03:00"
-      },
-      {
         "title": "Aziz İhsan Aktaş kararına tepkiler: 'Örgüt var diye iki yıl zulmedenlerin cezalandırılması lazım'",
         "link": "https://www.bbc.com/turkce/articles/cx2zg8k382go?at_medium=RSS&at_campaign=rss",
         "description": "Çok sayıda kişinin iki yıl önce suç örgütü üyeliği iddiasıyla tutuklandığını hatırlatan Yeni Parti lideri Özel, \"'Örgüt' deyip iki yıl zulmedip (sonunda) 'örgüt yok' diyorsan, başta 'örgüt' diyenin cezalandırılması lazım\" dedi.",
         "source": "BBC Turkish",
         "published": "2026-08-25T15:02:27+00:00"
-      },
-      {
-        "title": "Yangında eşi ölmüştü. Cinayet şüphesiyle gözaltı kararı alındı",
-        "link": "https://www.ntv.com.tr/yerel-haberler/aydin-efeler/yanginda-esi-olmustu-cinayet-suphesiyle-gozalti-karari-alindi-1738878",
-        "description": "Yangın öncesi çığlık sesleri duyulduğu iddia edilirken, evin önünde para ve ziynet eşyalarının bulunduğu çanta ile kilitli mutfak kapısı soruşturmanın seyrini değiştirdi.",
-        "source": "NTV",
-        "published": "2026-08-25T14:55:51+03:00"
       },
       {
         "title": "Öcalan'dan 'İmralı tutanakları' açıklaması: 'Bana karşı bir komplo'",
@@ -728,32 +749,11 @@
         "published": "2026-08-25T14:30:22+00:00"
       },
       {
-        "title": "TEKNOFEST 2026'da İHA'lar gökyüzünde yarışacak",
-        "link": "https://www.ntv.com.tr/turkiye/teknofest-2026da-ihalar-gokyuzunde-yarisacak-1738866",
-        "description": "TEKNOFEST kapsamında düzenlenen Savaşan İHA Yarışması'nın finalinde Türkiye ve Endonezya'dan 42 takım yarışacak. Dereceye girenlere toplam 1,5 milyon lira ödül verilecek.",
-        "source": "NTV",
-        "published": "2026-08-25T14:29:58+03:00"
-      },
-      {
-        "title": "Hakkari ve Samsun’da uyuşturucu operasyonu. 265 kilo skunk ele geçirildi",
-        "link": "https://www.ntv.com.tr/turkiye/hakkari-ve-samsunda-uyusturucu-operasyonu-265-kilo-skunk-ele-gecirildi-1738872",
-        "description": "Jandarmanın Hakkari ve Samsun’da düzenlediği operasyonlarda 265 kilogram skunk ele geçirilirken, gözaltına alınan 4 şüpheliden 3’ü tutuklandı.",
-        "source": "NTV",
-        "published": "2026-08-25T14:16:10+03:00"
-      },
-      {
         "title": "MEB genelgesi: 'Terörsüz Türkiye' süreci okullarda nasıl anlatılacak?",
         "link": "https://www.bbc.com/turkce/articles/c783l3ekzm4o?at_medium=RSS&at_campaign=rss",
         "description": "Millî Eğitim Bakanlığı (MEB), \"Terörsüz Türkiye\" süreciyle bağlantılı olarak okullarda millî birlik, toplumsal bütünleşme ve \"kardeşlik hukuku\" temalı etkinlikler düzenlenmesini istedi.",
         "source": "BBC Turkish",
         "published": "2026-08-25T13:02:07+00:00"
-      },
-      {
-        "title": "ABD'nin yaptırımlarına İran ve Çin'den tepki: 'Çıkarlarımızı korumak için gerekli önlemleri alırız'",
-        "link": "https://www.bbc.com/turkce/articles/clyl8985r2eo?at_medium=RSS&at_campaign=rss",
-        "description": "ABD'nin İran ve Çin'in de aralarında bulunduğu ticaret ortaklarına yönelik ekonomik yaptırımları genişletme planlarını açıklamasının ardından Tahran yaptırımlara hazırlıklı olduklarını açıklarken, Pekin de çıkarlarını koruyacağı uyarısında bulundu.",
-        "source": "BBC Turkish",
-        "published": "2026-08-25T10:40:49+00:00"
       },
       {
         "title": "Ölüm Vadisi: Aracı çamura saplanan turist sıcaktan öldü",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8572
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+80°F",
-    "wind": "↑8mph",
-    "humidity": "62%"
+    "condition": "Güneşli",
+    "temp": "+78°F",
+    "wind": "←7mph",
+    "humidity": "64%"
   }
 }
