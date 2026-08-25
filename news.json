@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-08-25T20:27:35.197067+00:00",
+  "updated_at": "2026-08-25T20:56:36.737528+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+        "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+        "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+        "source": "TechCrunch",
+        "published": "2026-08-25T20:44:12+00:00"
+      },
+      {
         "title": "Perplexity Portable Computer",
         "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-        "description": "Article URL: https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai Comments URL: https://news.ycombinator.com/item?id=49439535 Points: 6 # Comments: 0",
+        "description": "Article URL: https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai Comments URL: https://news.ycombinator.com/item?id=49439535 Points: 12 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-08-25T19:41:48+00:00"
       },
@@ -19,7 +26,7 @@
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 44 # Comments: 20",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 71 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-08-25T19:07:01+00:00"
       },
@@ -29,13 +36,6 @@
         "description": "The company's new fundraising total now stands at $232 million.",
         "source": "TechCrunch",
         "published": "2026-08-25T19:03:47+00:00"
-      },
-      {
-        "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-        "link": "https://pgbot.dev/",
-        "description": "Article URL: https://pgbot.dev/ Comments URL: https://news.ycombinator.com/item?id=49438492 Points: 42 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-08-25T18:30:57+00:00"
       },
       {
         "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
@@ -82,7 +82,7 @@
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 126 # Comments: 16",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 151 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-08-25T17:55:23+00:00"
       },
@@ -145,7 +145,7 @@
       {
         "title": "Run OpenBSD on DigitalOcean for $4/month",
         "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 65 # Comments: 26",
+        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 76 # Comments: 30",
         "source": "HackerNews",
         "published": "2026-08-25T17:23:07+00:00"
       },
@@ -159,21 +159,21 @@
       {
         "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
         "link": "https://github.com/leodeim/vpsmon",
-        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 26 # Comments: 9",
+        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 28 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-08-25T17:13:59+00:00"
       },
       {
         "title": "Nitter project received cease and desist",
         "link": "https://github.com/zedeus/nitter/issues/1442",
-        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 312 # Comments: 213",
+        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 345 # Comments: 233",
         "source": "HackerNews",
         "published": "2026-08-25T17:08:21+00:00"
       },
       {
         "title": "Black hole singularity is a surface not a point",
         "link": "https://arxiv.org/abs/2608.21590",
-        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 104 # Comments: 57",
+        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 122 # Comments: 66",
         "source": "HackerNews",
         "published": "2026-08-25T17:02:49+00:00"
       },
@@ -185,6 +185,20 @@
         "published": "2026-08-25T17:00:43+00:00"
       },
       {
+        "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
+        "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+        "description": "Article URL: https://www.judegomila.com/posts/riemann-lambda-0.1787854 Comments URL: https://news.ycombinator.com/item?id=49437165 Points: 39 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-08-25T16:59:31+00:00"
+      },
+      {
+        "title": "At just $8, you owe it to yourself to grab Inscryption",
+        "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+        "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on...",
+        "source": "The Verge",
+        "published": "2026-08-25T16:38:37-04:00"
+      },
+      {
         "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
         "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
         "description": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
@@ -192,18 +206,18 @@
         "published": "2026-08-25T16:35:00+00:00"
       },
       {
+        "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+        "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+        "description": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also...",
+        "source": "The Verge",
+        "published": "2026-08-25T16:34:22-04:00"
+      },
+      {
         "title": "The Witcher 3 is getting a remaster",
         "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
         "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a...",
         "source": "The Verge",
         "published": "2026-08-25T16:24:24-04:00"
-      },
-      {
-        "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-        "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-        "description": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already...",
-        "source": "The Verge",
-        "published": "2026-08-25T16:22:28-04:00"
       },
       {
         "title": "Huawei Mate XT 2 Gelecek Ay Tanıtılıyor",
@@ -232,13 +246,6 @@
         "description": "Japon otomotiv devi Mazda, Doğan Trend Otomotiv CEO’su Uğur Sakarya'nın açıklamalarına göre Türkiye ye geri dönme ihtimali taşıyor. Peki eğer marka, ülkemize geri dönerse hangi modelleri satabilir?",
         "source": "Webtekno",
         "published": "2026-08-25T15:44:26+03:00"
-      },
-      {
-        "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-        "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-        "description": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
-        "source": "TechCrunch",
-        "published": "2026-08-25T15:30:00+00:00"
       },
       {
         "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
@@ -339,13 +346,6 @@
         "published": "2026-08-25T11:00:46+00:00"
       },
       {
-        "title": "Apple’s ‘new’ polishing cloth is the same except $10 cheaper",
-        "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-        "description": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It...",
-        "source": "The Verge",
-        "published": "2026-08-25T10:25:52-04:00"
-      },
-      {
         "title": "Volkswagen Küçülecek: Şirketin Durumu Kritik",
         "link": "https://shiftdelete.net/volkswagen-ceo-oliver-blume-sirketin-durumu-kritik",
         "description": "Volkswagen’in kritik durumu hakkında CEO Oliver Blume’dan önemli açıklamalar geldi. Şirket, maliyetleri düşürmek için büyük çaplı yapılanmaya gidiyor.",
@@ -354,6 +354,13 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Trump says all mines cleared from Strait of Hormuz",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+        "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+        "source": "BBC News",
+        "published": "2026-08-25T20:48:16+00:00"
+      },
       {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
@@ -395,13 +402,6 @@
         "description": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight ‘A massacre’: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once...",
         "source": "The Guardian",
         "published": "2026-08-25T17:35:16+00:00"
-      },
-      {
-        "title": "Trump says all mines cleared from Strait of Hormuz",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
-        "source": "BBC News",
-        "published": "2026-08-25T17:32:50+00:00"
       },
       {
         "title": "Father's house rammed before son died in A66 crash",
@@ -567,6 +567,34 @@
     ],
     "turkiye": [
       {
+        "title": "Yabancı kuralında yeni karar: 10+4'te kritik değişiklik",
+        "link": "https://www.sozcu.com.tr/yabanci-kuralinda-yeni-karar-10-4-te-kritik-degisiklik-p352663",
+        "description": "Yabancı kuralında yeni karar: 10+4'te kritik değişiklik",
+        "source": "Sözcü",
+        "published": "2026-08-25T23:51:31+03:00"
+      },
+      {
+        "title": "Caniliğe soruşturma. \"Öleceksin\" diyerek defalarca ezdi, gözaltına alındı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-canilige-sorusturma-oleceksin-diyerek-defalarca-ezdi-gozaltina-alindi-1738918",
+        "description": "Sosyal medyada bir kaplumbağanın ezilerek öldürülmesine ilişkin görüntüler tepki çekti. Şahıs gözaltına alındı.",
+        "source": "NTV",
+        "published": "2026-08-25T23:46:43+03:00"
+      },
+      {
+        "title": "Yüzlerce yıl sonra ortaya çıktı: Evlerini bırakıp sırra kadem basmışlar",
+        "link": "https://www.sozcu.com.tr/yuzlerce-yil-sonra-ortaya-cikti-evlerini-birakip-sirra-kadem-basmislar-p352660",
+        "description": "Yüzlerce yıl sonra ortaya çıktı: Evlerini bırakıp sırra kadem basmışlar",
+        "source": "Sözcü",
+        "published": "2026-08-25T23:36:55+03:00"
+      },
+      {
+        "title": "Kimyasal sızıntı ekipleri harekete geçirdi: 2 kişi hastaneye kaldırıldı",
+        "link": "https://www.sozcu.com.tr/kimyasal-sizinti-ekipleri-harekete-gecirdi-2-kisi-hastaneye-kaldirildi-p352656",
+        "description": "Kimyasal sızıntı ekipleri harekete geçirdi: 2 kişi hastaneye kaldırıldı",
+        "source": "Sözcü",
+        "published": "2026-08-25T23:31:27+03:00"
+      },
+      {
         "title": "Başıboş eşek ortalığı birbirine kattı: Aracın içine atlayıp 3 kişiyi yaraladı",
         "link": "https://www.sozcu.com.tr/basibos-esek-ortaligi-birbirine-katti-aracin-icine-atlayip-3-kisiyi-yaraladi-p352653",
         "description": "Başıboş eşek ortalığı birbirine kattı: Aracın içine atlayıp 3 kişiyi yaraladı",
@@ -644,27 +672,6 @@
         "published": "2026-08-25T21:41:10+03:00"
       },
       {
-        "title": "Acun Ilıcalı'nın takımına yenilen dünya devinden yeni transfer",
-        "link": "https://www.sozcu.com.tr/acun-ilicali-nin-takimina-yenilen-dunya-devinden-yeni-transfer-p352641",
-        "description": "Acun Ilıcalı'nın takımına yenilen dünya devinden yeni transfer",
-        "source": "Sözcü",
-        "published": "2026-08-25T21:15:09+03:00"
-      },
-      {
-        "title": "3 bin 900 tonluk yeni savaş gemisi göreve başladı",
-        "link": "https://www.sozcu.com.tr/3-bin-900-tonluk-yeni-savas-gemisi-goreve-basladi-p352640",
-        "description": "3 bin 900 tonluk yeni savaş gemisi göreve başladı",
-        "source": "Sözcü",
-        "published": "2026-08-25T21:11:23+03:00"
-      },
-      {
-        "title": "Saraydan Yıldızlar SSS Holding'e tepki, bakanlara çağrı",
-        "link": "https://www.sozcu.com.tr/saraydan-yildizlar-sss-holdinge-tepki-bakanlara-cagri-p352639",
-        "description": "Saraydan Yıldızlar SSS Holding'e tepki, bakanlara çağrı",
-        "source": "Sözcü",
-        "published": "2026-08-25T21:10:44+03:00"
-      },
-      {
         "title": "Üsküdar Belediyesi'nde başkan vekilliği seçimine yürütmeyi durdurma kararı",
         "link": "https://www.ntv.com.tr/turkiye/uskudar-belediyesinde-baskan-vekilligi-secimine-yurutmeyi-durdurma-karari-1738904",
         "description": "İstanbul 2. İdare Mahkemesi, Üsküdar Belediyesi'ndeki başkan vekilliği seçiminde yürütmeyi durdurma kararı verdi.",
@@ -728,13 +735,6 @@
         "published": "2026-08-25T16:21:11+03:00"
       },
       {
-        "title": "AİHM'den Osman Kavala kararı",
-        "link": "https://www.ntv.com.tr/turkiye/aihmden-osman-kavala-karari-1738887",
-        "description": "Avrupa İnsan Hakları Mahkemesi (AİHM), cezaevinde bulunan Osman Kavala’nın açtığı ikinci davada hak ihlaline hükmetti. Mahkeme, Kavala’nın en kısa sürede serbest bırakılmasını istedi.",
-        "source": "NTV",
-        "published": "2026-08-25T15:33:47+03:00"
-      },
-      {
         "title": "Aziz İhsan Aktaş kararına tepkiler: 'Örgüt var diye iki yıl zulmedenlerin cezalandırılması lazım'",
         "link": "https://www.bbc.com/turkce/articles/cx2zg8k382go?at_medium=RSS&at_campaign=rss",
         "description": "Çok sayıda kişinin iki yıl önce suç örgütü üyeliği iddiasıyla tutuklandığını hatırlatan Yeni Parti lideri Özel, \"'Örgüt' deyip iki yıl zulmedip (sonunda) 'örgüt yok' diyorsan, başta 'örgüt' diyenin cezalandırılması lazım\" dedi.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Kapalı",
-    "temp": "+96°F",
-    "wind": "↙8mph",
-    "humidity": "36%"
+    "temp": "+74°F",
+    "wind": "↓6mph",
+    "humidity": "62%"
   }
 }
