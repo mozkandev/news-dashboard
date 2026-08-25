@@ -1,39 +1,67 @@
 {
-  "updated_at": "2026-08-25T21:31:24.682190+00:00",
+  "updated_at": "2026-08-25T22:26:15.894375+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+        "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+        "description": "Article URL: https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN Comments URL: https://news.ycombinator.com/item?id=49441101 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-25T21:43:37+00:00"
+      },
+      {
+        "title": "Python's pre-declared constants are kinda weird",
+        "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 21 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-25T21:39:02+00:00"
+      },
+      {
+        "title": "XCancel also down, at least for time being",
+        "link": "https://news.ycombinator.com/item?id=49440786",
+        "description": "Message on xcancel website: \"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. The service XCancel is stopped until further notice. We are seeking legal advice and won't share more...",
+        "source": "HackerNews",
+        "published": "2026-08-25T21:18:23+00:00"
+      },
+      {
         "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 3 # Comments: 0",
+        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 25 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-08-25T20:49:03+00:00"
       },
       {
-        "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+        "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
         "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-        "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+        "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
         "source": "TechCrunch",
         "published": "2026-08-25T20:44:12+00:00"
       },
       {
         "title": "C2PA Cameras Do Not Survive Contact with Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 7 # Comments: 1",
+        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 33 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-08-25T19:38:24+00:00"
       },
       {
+        "title": "A brief history of federal lift ticket regulation",
+        "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+        "description": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-25T19:25:43+00:00"
+      },
+      {
         "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
         "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-        "description": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses,...",
+        "description": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
         "source": "TechCrunch",
         "published": "2026-08-25T19:22:52+00:00"
       },
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 111 # Comments: 70",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 161 # Comments: 107",
         "source": "HackerNews",
         "published": "2026-08-25T19:07:01+00:00"
       },
@@ -66,6 +94,13 @@
         "published": "2026-08-25T18:05:56+03:00"
       },
       {
+        "title": "The Witcher 3 is getting a remaster",
+        "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+        "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a...",
+        "source": "The Verge",
+        "published": "2026-08-25T18:05:52-04:00"
+      },
+      {
         "title": "Dolly Parton has died",
         "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
         "description": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL:...",
@@ -89,7 +124,7 @@
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 176 # Comments: 28",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 214 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-08-25T17:55:23+00:00"
       },
@@ -106,6 +141,13 @@
         "description": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
         "source": "TechCrunch",
         "published": "2026-08-25T17:50:33+00:00"
+      },
+      {
+        "title": "Trump is upping the price of Big Tech’s favorite visa",
+        "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+        "description": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum...",
+        "source": "The Verge",
+        "published": "2026-08-25T17:43:53-04:00"
       },
       {
         "title": "Waymo robotaxis are headed to Munich",
@@ -150,39 +192,11 @@
         "published": "2026-08-25T17:23:42+03:00"
       },
       {
-        "title": "Run OpenBSD on DigitalOcean for $4/month",
-        "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 84 # Comments: 32",
-        "source": "HackerNews",
-        "published": "2026-08-25T17:23:07+00:00"
-      },
-      {
         "title": "Apple, M6 ve M5 Ultra İşlemcili Yeni Mac mini ve Mac Studio Modellerini Tanıttı",
         "link": "\n                    https://www.webtekno.com/apple-mac-mini-mac-studio-tanitti-h222973.html\n                    ",
         "description": "Apple, M6 ve M5 Ultra işlemcili yeni Mac mini ve Mac Studio modellerini tanıttı. İşte fiyatlar ve özellikler...",
         "source": "Webtekno",
         "published": "2026-08-25T17:22:21+03:00"
-      },
-      {
-        "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
-        "link": "https://github.com/leodeim/vpsmon",
-        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 31 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-08-25T17:13:59+00:00"
-      },
-      {
-        "title": "Nitter project received cease and desist",
-        "link": "https://github.com/zedeus/nitter/issues/1442",
-        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 375 # Comments: 255",
-        "source": "HackerNews",
-        "published": "2026-08-25T17:08:21+00:00"
-      },
-      {
-        "title": "Black hole singularity is a surface not a point",
-        "link": "https://arxiv.org/abs/2608.21590",
-        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 136 # Comments: 82",
-        "source": "HackerNews",
-        "published": "2026-08-25T17:02:49+00:00"
       },
       {
         "title": "OLED iPad mini Yakında Piyasaya Sürülüyor",
@@ -211,13 +225,6 @@
         "description": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also...",
         "source": "The Verge",
         "published": "2026-08-25T16:34:22-04:00"
-      },
-      {
-        "title": "The Witcher 3 is getting a remaster",
-        "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-        "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a...",
-        "source": "The Verge",
-        "published": "2026-08-25T16:24:24-04:00"
       },
       {
         "title": "Huawei Mate XT 2 Gelecek Ay Tanıtılıyor",
@@ -332,13 +339,6 @@
         "published": "2026-08-25T12:58:53-04:00"
       },
       {
-        "title": "Polestar claims it was blindsided by sales ban",
-        "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-        "description": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August 18th letter...",
-        "source": "The Verge",
-        "published": "2026-08-25T12:14:45-04:00"
-      },
-      {
         "title": "ChatGPT Plus Aboneleri için 5 Saatlik Codex Sınırı Başladı",
         "link": "https://shiftdelete.net/chatgpt-plus-aboneleri-icin-5-saatlik-codex-siniri-basladi",
         "description": "OpenAI, ChatGPT Plus aboneleri için 5 saatlik Codex ve Work kullanım sınırını yeniden aktif etti. İşte yeni düzenlemenin detayları ve Pro plan kullanıcılarını etkileyen kararlar.",
@@ -409,6 +409,13 @@
         "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
         "source": "BBC News",
         "published": "2026-08-25T17:30:40+00:00"
+      },
+      {
+        "title": "South Carolina U.S. senate runoff election will test Trump's endorsement",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+        "description": "The primary runoff in South Carolina between Sen. Darline Graham and Rep. Ralph Norman is another test of President Trump's influence. He's backing Darline, sister of the late Sen. Lindsey Graham.",
+        "source": "NPR",
+        "published": "2026-08-25T16:47:54-04:00"
       },
       {
         "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
@@ -502,13 +509,6 @@
         "published": "2026-08-25T05:00:00-04:00"
       },
       {
-        "title": "Did climate change cause this heat wave? Most likely, and here's why",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-        "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here's what I tell them.",
-        "source": "NPR",
-        "published": "2026-08-25T05:00:00-04:00"
-      },
-      {
         "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
         "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
         "description": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants,...",
@@ -567,11 +567,53 @@
     ],
     "turkiye": [
       {
+        "title": "Adıyaman'da peş peşe depremler",
+        "link": "https://www.ntv.com.tr/turkiye/adiyamanda-42-buyuklugunde-deprem-1738914",
+        "description": "Adıyaman'da en büyüğü 4,2 olmak üzere art arda sarsıntılar meydana geldi.",
+        "source": "NTV",
+        "published": "2026-08-26T01:18:21+03:00"
+      },
+      {
+        "title": "Güneş altında bile ısınmıyor: Giyeni 8 dereceye kadar serinleten kumaş üretildi",
+        "link": "https://www.sozcu.com.tr/gunes-altinda-bile-isinmiyor-giyeni-8-dereceye-kadar-serinleten-kumas-uretildi-p352681",
+        "description": "Güneş altında bile ısınmıyor: Giyeni 8 dereceye kadar serinleten kumaş üretildi",
+        "source": "Sözcü",
+        "published": "2026-08-26T01:01:32+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-agustos-2026-1738919",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-26T00:30:00+03:00"
+        "published": "2026-08-26T01:00:00+03:00"
+      },
+      {
+        "title": "Güllü'nün öldüğü geceden yeni görüntü. Polise panikle defalarca \"Annem iyi mi?\" diye sormuş",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-oldugu-geceden-yeni-goruntu-polise-panikle-defalarca-annem-iyi-mi-diye-sormus-1738921",
+        "description": "Şarkıcı Güllü'nün düştüğü geceye ait yeni görüntüler ortaya çıktı. Güllü'nün tutuklu kızı Tuğyan Ülkem Gülter'in polislere panik halinde defalarca \"Annem iyi mi?” dediği görüldü.",
+        "source": "NTV",
+        "published": "2026-08-26T00:44:07+03:00"
+      },
+      {
+        "title": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/dolly-parton-hayatini-kaybetti-p352646",
+        "description": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-08-26T00:42:36+03:00"
+      },
+      {
+        "title": "Güllü'nün ölüm gecesine ait yeni görüntüler ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/gullu-sorusturmasinda-yeni-goruntuler-p352675",
+        "description": "Güllü'nün ölüm gecesine ait yeni görüntüler ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-08-26T00:36:20+03:00"
+      },
+      {
+        "title": "Güllü'nün öldüğü geceden yeni görüntüler ortaya çıktı",
+        "link": "https://www.ntv.com.tr/turkiye/video-gullunun-oldugu-geceden-yeni-goruntuler-ortaya-cikti-1738920",
+        "description": "Şarkıcı Güllü'nün düştüğü geceye ait yeni görüntüler ortaya çıktı. Tuğyan Ülkem Gülter'in polislere panik halinde \"Annem iyi mi?” dediği görüldü.",
+        "source": "NTV",
+        "published": "2026-08-26T00:33:08+03:00"
       },
       {
         "title": "Sırt çantasına sığan rüzgar türbini üretildi: Telefonu sadece 35 dakikada şarj ediyor",
@@ -616,25 +658,11 @@
         "published": "2026-08-25T23:31:27+03:00"
       },
       {
-        "title": "Başıboş eşek ortalığı birbirine kattı: Aracın içine atlayıp 3 kişiyi yaraladı",
-        "link": "https://www.sozcu.com.tr/basibos-esek-ortaligi-birbirine-katti-aracin-icine-atlayip-3-kisiyi-yaraladi-p352653",
-        "description": "Başıboş eşek ortalığı birbirine kattı: Aracın içine atlayıp 3 kişiyi yaraladı",
-        "source": "Sözcü",
-        "published": "2026-08-25T22:39:26+03:00"
-      },
-      {
-        "title": "Adıyaman'da peş peşe depremler",
-        "link": "https://www.ntv.com.tr/turkiye/adiyamanda-42-buyuklugunde-deprem-1738914",
-        "description": "Adıyaman'da en büyüğü 4,2 olmak üzere art arda sarsıntılar meydan geldi.",
-        "source": "NTV",
-        "published": "2026-08-25T22:35:27+03:00"
-      },
-      {
-        "title": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
-        "link": "https://www.sozcu.com.tr/dolly-parton-hayatini-kaybetti-p352646",
-        "description": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
-        "source": "Sözcü",
-        "published": "2026-08-25T22:33:20+03:00"
+        "title": "AİHM'den Kavala kararı: 'En kısa sürede serbest bırakılmalı'",
+        "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
+        "description": "Avrupa İnsan Hakları Mahkemesi, dokuz yıldır tutuklu olan Osman Kavala'nın ikinci başvurusuna ilişkin kararını açıkladı. Kararda Kavala'nın başvuruda bulunduğu tüm haklarının ihlal edildiği ve en kısa sürede serbest bırakılması gerektiği belirtildi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-25T22:22:52+00:00"
       },
       {
         "title": "Adaya 10 geyik bıraktıklarına pişman oldular",
@@ -658,6 +686,13 @@
         "published": "2026-08-25T22:13:26+03:00"
       },
       {
+        "title": "Mazlum Abdi, Şam'da SDG'nin feshedildiğini duyurdu",
+        "link": "https://www.bbc.com/turkce/articles/cn0j3l55g13o?at_medium=RSS&at_campaign=rss",
+        "description": "Mazlum Abdi, Suriye Demokratik Güçleri'nin (SDG) \"bağımsız bir askeri güç\" olarak varlığına son verildiğini duyurdu. \"Bugün Suriye Demokratik Güçleri'nin misyonunun sona erdiğini duyuruyor ve bağımsız bir askeri güç olarak feshedildiklerini tüm...",
+        "source": "BBC Turkish",
+        "published": "2026-08-25T22:01:40+00:00"
+      },
+      {
         "title": "Son dakika Adıyaman'da deprem mi oldu? Az önce deprem Adıyaman'da nerede oldu? Adıyaman deprem Kandilli ve AFAD son depremler listesi 25 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-adiyamanda-deprem-mi-oldu-az-once-deprem-adiyamanda-nerede-oldu-adiyaman-deprem-kandilli-ve-afad-son-depremler-listesi-25-agustos-2026-1738915",
         "description": "Son dakika Adıyaman deprem haberleri.. Adıyaman'da deprem mi oldu? Az önce deprem Adıyaman'da nerede oldu? Adıyaman Kandilli ve AFAD son depremler.. 25 Ağustos 2026 Adıyaman deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
@@ -670,13 +705,6 @@
         "description": "İstanbul'un tarihi okulları arasındaki Kabataş Erkek Lisesi'nde üç YKS birincisine TOGG marka otomobil hediye edildi.",
         "source": "NTV",
         "published": "2026-08-25T21:47:20+03:00"
-      },
-      {
-        "title": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
-        "link": "https://www.sozcu.com.tr/turkiye-akdeniz-oyunlari-nda-1000-madalya-zaferini-yasadi-p352645",
-        "description": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
-        "source": "Sözcü",
-        "published": "2026-08-25T21:46:03+03:00"
       },
       {
         "title": "Üsküdar Belediyesi'nde başkan vekilliği seçimine yürütmeyi durdurma kararı",
@@ -693,13 +721,6 @@
         "published": "2026-08-25T18:55:53+03:00"
       },
       {
-        "title": "Mazlum Abdi, Şam'da SDG'nin feshedildiğini duyurdu",
-        "link": "https://www.bbc.com/turkce/articles/cn0j3l55g13o?at_medium=RSS&at_campaign=rss",
-        "description": "Mazlum Abdi, Suriye Demokratik Güçleri'nin (SDG) \"bağımsız bir askeri güç\" olarak varlığına son verildiğini duyurdu. \"Bugün Suriye Demokratik Güçleri'nin misyonunun sona erdiğini duyuruyor ve bağımsız bir askeri güç olarak feshedildiklerini tüm...",
-        "source": "BBC Turkish",
-        "published": "2026-08-25T18:47:56+00:00"
-      },
-      {
         "title": "Country müzik efsanesi Dolly Parton 80 yaşında öldü",
         "link": "https://www.bbc.com/turkce/articles/cdx596yvnwgo?at_medium=RSS&at_campaign=rss",
         "description": "Amerikalı country sanatçısı Dolly Parton'ın ailesi, ünlü ismin ölümünü sosyal medya hesapları üzerinden duyurdu.",
@@ -714,25 +735,11 @@
         "published": "2026-08-25T17:23:07+00:00"
       },
       {
-        "title": "Şahan Gökbakar'ın ifadesi ortaya çıktı. Haluk Levent'le kavgasını anlattı, \"Hiçbir zaman güvenmedim\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-sahan-gokbakarin-ifadesi-ortaya-cikti-haluk-leventle-kavgasini-da-hatirlatti-1738900",
-        "description": "Ahbap Derneği'yle ilgili soruşturmada Şahan Gökbakar'ın da ifadesi alındı. Gökbakar, Haluk Levent'le geçmişte ettikleri kavgayı hatırlatırken \"Kendisi bende hiçbir zaman güven uyandırmamıştır.\" dedi.",
-        "source": "NTV",
-        "published": "2026-08-25T17:14:17+03:00"
-      },
-      {
         "title": "Erdoğan'dan İsrail'e: 'Komşularımızın toparlanmasına destek olmaktan vazgeçecek değiliz'",
         "link": "https://www.bbc.com/turkce/articles/cpd0l04y8dno?at_medium=RSS&at_campaign=rss",
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bitlis'te yapılan kabine toplantısı sonrası süreç ve İsrail başlıklarında açıklamalar yaptı. \"Biz elinde masumların kanı olan cinayet şebekeleri rahatsız oluyor diye komşularımızın toparlanmasına destek olmaktan...",
         "source": "BBC Turkish",
         "published": "2026-08-25T16:45:27+00:00"
-      },
-      {
-        "title": "Yazışmalar ortaya çıktı. Hem dolandırmış hem terslemiş",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-yazismalar-ortaya-cikti-hem-dolandirmis-hem-terslemis-1738892",
-        "description": "İnternette uygun fiyatlı ev ilanlarıyla 25 milyon liralık vurgun yapan 13 kişi gözaltına alındı. Ortaya çıkan yazışmalarda şüphelilerden birinin dolandırdığı kişiyi terslediği görüldü.",
-        "source": "NTV",
-        "published": "2026-08-25T16:26:40+03:00"
       },
       {
         "title": "Aziz İhsan Aktaş kararına tepkiler: 'Örgüt var diye iki yıl zulmedenlerin cezalandırılması lazım'",
@@ -763,13 +770,6 @@
         "published": "2026-08-25T10:24:00+00:00"
       },
       {
-        "title": "AİHM'den Kavala kararı: 'En kısa sürede serbest bırakılmalı'",
-        "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
-        "description": "Avrupa İnsan Hakları Mahkemesi, dokuz yıldır tutuklu olan Osman Kavala'nın ikinci başvurusuna ilişkin kararını açıkladı. Kararda Kavala'nın başvuruda bulunduğu tüm haklarının ihlal edildiği ve en kısa sürede serbest bırakılması gerektiği belirtildi.",
-        "source": "BBC Turkish",
-        "published": "2026-08-25T09:02:15+00:00"
-      },
-      {
         "title": "Çin'in sessiz 'makine devrimi': Milyonlarca robot işçi",
         "link": "https://www.bbc.com/turkce/articles/cn4k7dpgjw0o?at_medium=RSS&at_campaign=rss",
         "description": "Çin'de insansı robotların koştuğu, atlayıp zıpladığı oyunlar teknolojik devrimin vitrini olsa da, ülkenin asıl robot devrimi gözler önünde değil, fabrikaların içinde ve sınıflarda yaşanıyor.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8572
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+78°F",
-    "wind": "↘3mph",
-    "humidity": "49%"
+    "condition": "Kapalı",
+    "temp": "+75°F",
+    "wind": "↑8mph",
+    "humidity": "60%"
   }
 }
