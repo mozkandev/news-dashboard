@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-25T20:56:36.737528+00:00",
+  "updated_at": "2026-08-25T21:31:24.682190+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+        "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-25T20:49:03+00:00"
+      },
       {
         "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
         "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
@@ -10,11 +17,11 @@
         "published": "2026-08-25T20:44:12+00:00"
       },
       {
-        "title": "Perplexity Portable Computer",
-        "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-        "description": "Article URL: https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai Comments URL: https://news.ycombinator.com/item?id=49439535 Points: 12 # Comments: 6",
+        "title": "C2PA Cameras Do Not Survive Contact with Reality",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 7 # Comments: 1",
         "source": "HackerNews",
-        "published": "2026-08-25T19:41:48+00:00"
+        "published": "2026-08-25T19:38:24+00:00"
       },
       {
         "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
@@ -26,7 +33,7 @@
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 71 # Comments: 45",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 111 # Comments: 70",
         "source": "HackerNews",
         "published": "2026-08-25T19:07:01+00:00"
       },
@@ -82,7 +89,7 @@
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 151 # Comments: 20",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 176 # Comments: 28",
         "source": "HackerNews",
         "published": "2026-08-25T17:55:23+00:00"
       },
@@ -145,7 +152,7 @@
       {
         "title": "Run OpenBSD on DigitalOcean for $4/month",
         "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 76 # Comments: 30",
+        "description": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 84 # Comments: 32",
         "source": "HackerNews",
         "published": "2026-08-25T17:23:07+00:00"
       },
@@ -159,21 +166,21 @@
       {
         "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
         "link": "https://github.com/leodeim/vpsmon",
-        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 28 # Comments: 11",
+        "description": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 31 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-08-25T17:13:59+00:00"
       },
       {
         "title": "Nitter project received cease and desist",
         "link": "https://github.com/zedeus/nitter/issues/1442",
-        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 345 # Comments: 233",
+        "description": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 375 # Comments: 255",
         "source": "HackerNews",
         "published": "2026-08-25T17:08:21+00:00"
       },
       {
         "title": "Black hole singularity is a surface not a point",
         "link": "https://arxiv.org/abs/2608.21590",
-        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 122 # Comments: 66",
+        "description": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 136 # Comments: 82",
         "source": "HackerNews",
         "published": "2026-08-25T17:02:49+00:00"
       },
@@ -183,13 +190,6 @@
         "description": "Apple, OLED iPad mini, yeni Mac mini ve AirPods 5 modellerini piyasaya sürmeye hazırlanıyor. Apple'ın yaklaşan etkinlikleri ve yeni cihazlar hakkındaki detaylar.",
         "source": "ShiftDelete",
         "published": "2026-08-25T17:00:43+00:00"
-      },
-      {
-        "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
-        "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-        "description": "Article URL: https://www.judegomila.com/posts/riemann-lambda-0.1787854 Comments URL: https://news.ycombinator.com/item?id=49437165 Points: 39 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-08-25T16:59:31+00:00"
       },
       {
         "title": "At just $8, you owe it to yourself to grab Inscryption",
@@ -359,7 +359,7 @@
         "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
         "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
         "source": "BBC News",
-        "published": "2026-08-25T20:48:16+00:00"
+        "published": "2026-08-25T21:23:41+00:00"
       },
       {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -418,6 +418,13 @@
         "published": "2026-08-25T15:04:52+00:00"
       },
       {
+        "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
+        "link": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
+        "description": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail.",
+        "source": "BBC News",
+        "published": "2026-08-25T14:38:57+00:00"
+      },
+      {
         "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
         "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
         "description": "The artist was a star performer in country music and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.",
@@ -430,13 +437,6 @@
         "description": "The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency's communications with states since then indicate that data was preliminary.",
         "source": "NPR",
         "published": "2026-08-25T14:15:23-04:00"
-      },
-      {
-        "title": "Inspectors to assess police after Henry Nowak murder",
-        "link": "https://www.bbc.co.uk/news/articles/cly4w05x4p6o?at_medium=RSS&at_campaign=rss",
-        "description": "Hampshire Police officers initially arrested the student and placed him in handcuffs as he lay dying.",
-        "source": "BBC News",
-        "published": "2026-08-25T14:04:20+00:00"
       },
       {
         "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
@@ -567,6 +567,20 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-agustos-2026-1738919",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-26T00:30:00+03:00"
+      },
+      {
+        "title": "Sırt çantasına sığan rüzgar türbini üretildi: Telefonu sadece 35 dakikada şarj ediyor",
+        "link": "https://www.sozcu.com.tr/sirt-cantasina-sigan-ruzgar-turbini-uretildi-telefonu-sadece-35-dakikada-sarj-ediyor-p352674",
+        "description": "Sırt çantasına sığan rüzgar türbini üretildi: Telefonu sadece 35 dakikada şarj ediyor",
+        "source": "Sözcü",
+        "published": "2026-08-26T00:19:30+03:00"
+      },
+      {
         "title": "Yabancı kuralında yeni karar: 10+4'te kritik değişiklik",
         "link": "https://www.sozcu.com.tr/yabanci-kuralinda-yeni-karar-10-4-te-kritik-degisiklik-p352663",
         "description": "Yabancı kuralında yeni karar: 10+4'te kritik değişiklik",
@@ -579,6 +593,13 @@
         "description": "Sosyal medyada bir kaplumbağanın ezilerek öldürülmesine ilişkin görüntüler tepki çekti. Şahıs gözaltına alındı.",
         "source": "NTV",
         "published": "2026-08-25T23:46:43+03:00"
+      },
+      {
+        "title": "YPG'nin fesih kararı sonrası ABD'den ilk açıklama",
+        "link": "https://www.sozcu.com.tr/sdg-karari-sonrasi-abd-den-ilk-aciklama-p352661",
+        "description": "YPG'nin fesih kararı sonrası ABD'den ilk açıklama",
+        "source": "Sözcü",
+        "published": "2026-08-25T23:39:57+03:00"
       },
       {
         "title": "Yüzlerce yıl sonra ortaya çıktı: Evlerini bırakıp sırra kadem basmışlar",
@@ -614,13 +635,6 @@
         "description": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
         "source": "Sözcü",
         "published": "2026-08-25T22:33:20+03:00"
-      },
-      {
-        "title": "Suriye'de terör örgütü SDG/YPG kendini feshetti",
-        "link": "https://www.sozcu.com.tr/ypg-kendini-feshetti-mi-p352643",
-        "description": "Suriye'de terör örgütü SDG/YPG kendini feshetti",
-        "source": "Sözcü",
-        "published": "2026-08-25T22:23:27+03:00"
       },
       {
         "title": "Adaya 10 geyik bıraktıklarına pişman oldular",
@@ -663,13 +677,6 @@
         "description": "Türkiye, Akdeniz Oyunları'nda 1000. madalya zaferini yaşadı",
         "source": "Sözcü",
         "published": "2026-08-25T21:46:03+03:00"
-      },
-      {
-        "title": "2 bin 500 yıllık kuyunun dibinde bulundu: Yanında iki insan iskeleti de varmış",
-        "link": "https://www.sozcu.com.tr/2-bin-500-yillik-kuyunun-dibinde-bulundu-yaninda-iki-insan-iskeleti-de-varmis-p352644",
-        "description": "2 bin 500 yıllık kuyunun dibinde bulundu: Yanında iki insan iskeleti de varmış",
-        "source": "Sözcü",
-        "published": "2026-08-25T21:41:10+03:00"
       },
       {
         "title": "Üsküdar Belediyesi'nde başkan vekilliği seçimine yürütmeyi durdurma kararı",
@@ -728,13 +735,6 @@
         "published": "2026-08-25T16:26:40+03:00"
       },
       {
-        "title": "Eski eşiyle görüşüyordu. Mahkemeden kötü haber, tazminat ödeyecek",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-eski-esiyle-gorusuyordu-mahkemeden-kotu-haber-tazminat-odeyecek-1738893",
-        "description": "Mahkeme heyeti, çekişmeli geçen boşanma davasında eski eşiyle görüşen kadının tazminat ödemesine hükmetti.",
-        "source": "NTV",
-        "published": "2026-08-25T16:21:11+03:00"
-      },
-      {
         "title": "Aziz İhsan Aktaş kararına tepkiler: 'Örgüt var diye iki yıl zulmedenlerin cezalandırılması lazım'",
         "link": "https://www.bbc.com/turkce/articles/cx2zg8k382go?at_medium=RSS&at_campaign=rss",
         "description": "Çok sayıda kişinin iki yıl önce suç örgütü üyeliği iddiasıyla tutuklandığını hatırlatan Yeni Parti lideri Özel, \"'Örgüt' deyip iki yıl zulmedip (sonunda) 'örgüt yok' diyorsan, başta 'örgüt' diyenin cezalandırılması lazım\" dedi.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8572
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+74°F",
-    "wind": "↓6mph",
-    "humidity": "62%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+78°F",
+    "wind": "↘3mph",
+    "humidity": "49%"
   }
 }
