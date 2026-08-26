@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:16:05.202374+00:00",
+  "updated_at": "2026-08-26T02:46:42.472892+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -8,6 +8,20 @@
         "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
         "source": "TechCrunch",
         "published": "2026-08-26T00:40:59+00:00"
+      },
+      {
+        "title": "The brain may be about to have its Ozempic moment",
+        "link": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+        "description": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49442743 Points: 25 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-08-26T00:40:41+00:00"
+      },
+      {
+        "title": "Queryable Executables",
+        "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+        "description": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 19 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-08-26T00:20:49+00:00"
       },
       {
         "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
@@ -19,7 +33,7 @@
       {
         "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
         "link": "https://github.com/runetes/maiao",
-        "description": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 23 # Comments: 3",
+        "description": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 31 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-08-25T22:40:07+00:00"
       },
@@ -33,21 +47,14 @@
       {
         "title": "Python's pre-declared constants are kinda weird",
         "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 129 # Comments: 95",
+        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 154 # Comments: 140",
         "source": "HackerNews",
         "published": "2026-08-25T21:39:02+00:00"
       },
       {
-        "title": "XCancel also down, at least for time being",
-        "link": "https://news.ycombinator.com/item?id=49440786",
-        "description": "Message on xcancel website: \"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. The service XCancel is stopped until further notice. We are seeking legal advice and won't share more...",
-        "source": "HackerNews",
-        "published": "2026-08-25T21:18:23+00:00"
-      },
-      {
         "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 53 # Comments: 27",
+        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 70 # Comments: 30",
         "source": "HackerNews",
         "published": "2026-08-25T20:49:03+00:00"
       },
@@ -61,14 +68,14 @@
       {
         "title": "C2PA Cameras Do Not Survive Contact with Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 70 # Comments: 32",
+        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 87 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-08-25T19:38:24+00:00"
       },
       {
         "title": "A brief history of federal lift ticket regulation",
         "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-        "description": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 23 # Comments: 0",
+        "description": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 37 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-08-25T19:25:43+00:00"
       },
@@ -82,7 +89,7 @@
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 245 # Comments: 139",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 295 # Comments: 149",
         "source": "HackerNews",
         "published": "2026-08-25T19:07:01+00:00"
       },
@@ -148,13 +155,6 @@
         "description": "Intel, 256 çekirdekli Xeon Diamond Rapids işlemcilerini ve 480 GB bellek destekli Crescent Island GPU'sunu tanıttı. Yeni nesil sunucu teknolojileri hakkında detaylar.",
         "source": "ShiftDelete",
         "published": "2026-08-25T18:00:44+00:00"
-      },
-      {
-        "title": "Firefox 157 will include JPEG XL by default on all platforms",
-        "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 268 # Comments: 69",
-        "source": "HackerNews",
-        "published": "2026-08-25T17:55:23+00:00"
       },
       {
         "title": "35.000 TL Altı En İyi 5 Laptop – Okul ve Oyun İçin Laptop Tavsiyeleri",
@@ -567,11 +567,81 @@
     ],
     "turkiye": [
       {
+        "title": "İşte rant üçüzleri",
+        "link": "https://www.sozcu.com.tr/iste-rant-ucuzleri-p352693",
+        "description": "İşte rant üçüzleri",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "Askıda kalan milyonlar",
+        "link": "https://www.sozcu.com.tr/askida-kalan-milyonlar-p352692",
+        "description": "Askıda kalan milyonlar",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "İmralı’ya ‘SAK’lı statü",
+        "link": "https://www.sozcu.com.tr/imrali-ya-sak-li-statu-p352691",
+        "description": "İmralı’ya ‘SAK’lı statü",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "Suçum babası olmak",
+        "link": "https://www.sozcu.com.tr/sucum-babasi-olmak-p352690",
+        "description": "Suçum babası olmak",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "Zafere ilk adım",
+        "link": "https://www.sozcu.com.tr/zafere-ilk-adim-p352688",
+        "description": "Zafere ilk adım",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "Ya kayyum atayın ya kamulaştırın",
+        "link": "https://www.sozcu.com.tr/ya-kayyum-atayin-ya-kamulastirin-p352687",
+        "description": "Ya kayyum atayın ya kamulaştırın",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "‘İtibardan tasarruf’ yasası",
+        "link": "https://www.sozcu.com.tr/itibardan-tasarruf-yasasi-p352686",
+        "description": "‘İtibardan tasarruf’ yasası",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "Kademeli emeklilik Erdoğan’ın masasında",
+        "link": "https://www.sozcu.com.tr/kademeli-emeklilik-erdogan-in-masasinda-p352685",
+        "description": "Kademeli emeklilik Erdoğan’ın masasında",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "Erdoğan’ın marketi zararda",
+        "link": "https://www.sozcu.com.tr/erdogan-in-marketi-zararda-p352684",
+        "description": "Erdoğan’ın marketi zararda",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
+        "title": "Gaziler terörle mücadeleyi anlatıyor",
+        "link": "https://www.sozcu.com.tr/gaziler-terorle-mucadeleyi-anlatiyor-p352683",
+        "description": "Gaziler terörle mücadeleyi anlatıyor",
+        "source": "Sözcü",
+        "published": "2026-08-26T05:30:06+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Ağustos 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-agustos-2026-1738919",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-26T04:00:00+03:00"
+        "published": "2026-08-26T05:30:00+03:00"
       },
       {
         "title": "Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi",
@@ -579,6 +649,13 @@
         "description": "Afyonkarahisar'ın Şuhut ilçesinde Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi.",
         "source": "NTV",
         "published": "2026-08-26T02:10:21+03:00"
+      },
+      {
+        "title": "2026'nın şu ana kadarki en iyi yaban hayatı fotoğrafları",
+        "link": "https://www.bbc.com/turkce/articles/cvgyrg054w9o?at_medium=RSS&at_campaign=rss",
+        "description": "İngiltere Doğa Tarihi Müzesi tarafından her yıl düzenlenen Yaban Hayatı fotoğraf yarışmasının 'övgüye değer' eserlerini derledik. Yılın Yaban Hayatı Fotoğrafçılarına verilen ödüller tüm dallarda 13 Ekim 2026'da açıklanacak.",
+        "source": "BBC Turkish",
+        "published": "2026-08-26T01:55:03+00:00"
       },
       {
         "title": "Alihan Kuriş soruşturmasında 37 klasör belge ele geçirildi",
@@ -595,32 +672,11 @@
         "published": "2026-08-26T01:18:21+03:00"
       },
       {
-        "title": "Güneş altında bile ısınmıyor: Giyeni 8 dereceye kadar serinleten kumaş üretildi",
-        "link": "https://www.sozcu.com.tr/gunes-altinda-bile-isinmiyor-giyeni-8-dereceye-kadar-serinleten-kumas-uretildi-p352681",
-        "description": "Güneş altında bile ısınmıyor: Giyeni 8 dereceye kadar serinleten kumaş üretildi",
-        "source": "Sözcü",
-        "published": "2026-08-26T01:01:32+03:00"
-      },
-      {
         "title": "Güllü'nün öldüğü geceden yeni görüntü. Polise panikle defalarca \"Annem iyi mi?\" diye sormuş",
         "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-oldugu-geceden-yeni-goruntu-polise-panikle-defalarca-annem-iyi-mi-diye-sormus-1738921",
         "description": "Şarkıcı Güllü'nün düştüğü geceye ait yeni görüntüler ortaya çıktı. Güllü'nün tutuklu kızı Tuğyan Ülkem Gülter'in polislere panik halinde defalarca \"Annem iyi mi?” dediği görüldü.",
         "source": "NTV",
         "published": "2026-08-26T00:44:07+03:00"
-      },
-      {
-        "title": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
-        "link": "https://www.sozcu.com.tr/dolly-parton-hayatini-kaybetti-p352646",
-        "description": "Country müziğinin efsanesi Dolly Parton hayatını kaybetti",
-        "source": "Sözcü",
-        "published": "2026-08-26T00:42:36+03:00"
-      },
-      {
-        "title": "Güllü'nün ölüm gecesine ait yeni görüntüler ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/gullu-sorusturmasinda-yeni-goruntuler-p352675",
-        "description": "Güllü'nün ölüm gecesine ait yeni görüntüler ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-08-26T00:36:20+03:00"
       },
       {
         "title": "Güllü'nün öldüğü geceden yeni görüntüler ortaya çıktı",
@@ -630,20 +686,6 @@
         "published": "2026-08-26T00:33:08+03:00"
       },
       {
-        "title": "Sırt çantasına sığan rüzgar türbini üretildi: Telefonu sadece 35 dakikada şarj ediyor",
-        "link": "https://www.sozcu.com.tr/sirt-cantasina-sigan-ruzgar-turbini-uretildi-telefonu-sadece-35-dakikada-sarj-ediyor-p352674",
-        "description": "Sırt çantasına sığan rüzgar türbini üretildi: Telefonu sadece 35 dakikada şarj ediyor",
-        "source": "Sözcü",
-        "published": "2026-08-26T00:19:30+03:00"
-      },
-      {
-        "title": "Yabancı kuralında yeni karar: 10+4'te kritik değişiklik",
-        "link": "https://www.sozcu.com.tr/yabanci-kuralinda-yeni-karar-10-4-te-kritik-degisiklik-p352663",
-        "description": "Yabancı kuralında yeni karar: 10+4'te kritik değişiklik",
-        "source": "Sözcü",
-        "published": "2026-08-25T23:51:31+03:00"
-      },
-      {
         "title": "Caniliğe soruşturma. \"Öleceksin\" diyerek defalarca ezdi, gözaltına alındı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-canilige-sorusturma-oleceksin-diyerek-defalarca-ezdi-gozaltina-alindi-1738918",
         "description": "Sosyal medyada bir kaplumbağanın ezilerek öldürülmesine ilişkin görüntüler tepki çekti. Şahıs gözaltına alındı.",
@@ -651,46 +693,11 @@
         "published": "2026-08-25T23:46:43+03:00"
       },
       {
-        "title": "YPG'nin fesih kararı sonrası ABD'den ilk açıklama",
-        "link": "https://www.sozcu.com.tr/sdg-karari-sonrasi-abd-den-ilk-aciklama-p352661",
-        "description": "YPG'nin fesih kararı sonrası ABD'den ilk açıklama",
-        "source": "Sözcü",
-        "published": "2026-08-25T23:39:57+03:00"
-      },
-      {
-        "title": "Yüzlerce yıl sonra ortaya çıktı: Evlerini bırakıp sırra kadem basmışlar",
-        "link": "https://www.sozcu.com.tr/yuzlerce-yil-sonra-ortaya-cikti-evlerini-birakip-sirra-kadem-basmislar-p352660",
-        "description": "Yüzlerce yıl sonra ortaya çıktı: Evlerini bırakıp sırra kadem basmışlar",
-        "source": "Sözcü",
-        "published": "2026-08-25T23:36:55+03:00"
-      },
-      {
-        "title": "Kimyasal sızıntı ekipleri harekete geçirdi: 2 kişi hastaneye kaldırıldı",
-        "link": "https://www.sozcu.com.tr/kimyasal-sizinti-ekipleri-harekete-gecirdi-2-kisi-hastaneye-kaldirildi-p352656",
-        "description": "Kimyasal sızıntı ekipleri harekete geçirdi: 2 kişi hastaneye kaldırıldı",
-        "source": "Sözcü",
-        "published": "2026-08-25T23:31:27+03:00"
-      },
-      {
         "title": "AİHM'den Kavala kararı: 'En kısa sürede serbest bırakılmalı'",
         "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
         "description": "Avrupa İnsan Hakları Mahkemesi, dokuz yıldır tutuklu olan Osman Kavala'nın ikinci başvurusuna ilişkin kararını açıkladı. Kararda Kavala'nın başvuruda bulunduğu tüm haklarının ihlal edildiği ve en kısa sürede serbest bırakılması gerektiği belirtildi.",
         "source": "BBC Turkish",
         "published": "2026-08-25T22:30:08+00:00"
-      },
-      {
-        "title": "Adaya 10 geyik bıraktıklarına pişman oldular",
-        "link": "https://www.sozcu.com.tr/adaya-10-geyik-biraktiklarina-pisman-oldular-p352651",
-        "description": "Adaya 10 geyik bıraktıklarına pişman oldular",
-        "source": "Sözcü",
-        "published": "2026-08-25T22:18:53+03:00"
-      },
-      {
-        "title": "Adıyaman'da 3 dakika arayla peş peşe iki deprem",
-        "link": "https://www.sozcu.com.tr/adiyaman-deprem-25-agustos-2026-p352647",
-        "description": "Adıyaman'da 3 dakika arayla peş peşe iki deprem",
-        "source": "Sözcü",
-        "published": "2026-08-25T22:18:53+03:00"
       },
       {
         "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
@@ -763,13 +770,6 @@
         "published": "2026-08-25T13:02:07+00:00"
       },
       {
-        "title": "Ölüm Vadisi: Aracı çamura saplanan turist sıcaktan öldü",
-        "link": "https://www.bbc.com/turkce/articles/crl6r7n8jyeo?at_medium=RSS&at_campaign=rss",
-        "description": "Fransız bir turist, ABD'nin California eyaletindeki Ölüm Vadisi'nde 46,6C sıcaklıkta yol kenarında mahsur kaldıktan sonra hayatını kaybetti.",
-        "source": "BBC Turkish",
-        "published": "2026-08-25T10:24:00+00:00"
-      },
-      {
         "title": "Çin'in sessiz 'makine devrimi': Milyonlarca robot işçi",
         "link": "https://www.bbc.com/turkce/articles/cn4k7dpgjw0o?at_medium=RSS&at_campaign=rss",
         "description": "Çin'de insansı robotların koştuğu, atlayıp zıpladığı oyunlar teknolojik devrimin vitrini olsa da, ülkenin asıl robot devrimi gözler önünde değil, fabrikaların içinde ve sınıflarda yaşanıyor.",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Açık",
-    "temp": "+70°F",
-    "wind": "↙4mph",
-    "humidity": "55%"
+    "temp": "+72°F",
+    "wind": "↑6mph",
+    "humidity": "65%"
   }
 }
