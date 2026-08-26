@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-08-25T23:49:11.972303+00:00",
+  "updated_at": "2026-08-26T01:16:05.202374+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "More Fucked Today Than Yesterday",
-        "link": "https://climatecasino.substack.com/p/more-fucked-today-than-yesterday",
-        "description": "Article URL: https://climatecasino.substack.com/p/more-fucked-today-than-yesterday Comments URL: https://news.ycombinator.com/item?id=49441781 Points: 28 # Comments: 1",
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+        "source": "TechCrunch",
+        "published": "2026-08-26T00:40:59+00:00"
+      },
+      {
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "source": "TechCrunch",
+        "published": "2026-08-26T00:06:20+00:00"
+      },
+      {
+        "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+        "link": "https://github.com/runetes/maiao",
+        "description": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 23 # Comments: 3",
         "source": "HackerNews",
-        "published": "2026-08-25T22:53:11+00:00"
+        "published": "2026-08-25T22:40:07+00:00"
       },
       {
         "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
@@ -19,7 +33,7 @@
       {
         "title": "Python's pre-declared constants are kinda weird",
         "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 87 # Comments: 32",
+        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 129 # Comments: 95",
         "source": "HackerNews",
         "published": "2026-08-25T21:39:02+00:00"
       },
@@ -33,7 +47,7 @@
       {
         "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
         "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 34 # Comments: 21",
+        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 53 # Comments: 27",
         "source": "HackerNews",
         "published": "2026-08-25T20:49:03+00:00"
       },
@@ -47,14 +61,14 @@
       {
         "title": "C2PA Cameras Do Not Survive Contact with Reality",
         "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 57 # Comments: 19",
+        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 70 # Comments: 32",
         "source": "HackerNews",
         "published": "2026-08-25T19:38:24+00:00"
       },
       {
         "title": "A brief history of federal lift ticket regulation",
         "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-        "description": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 14 # Comments: 0",
+        "description": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 23 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-08-25T19:25:43+00:00"
       },
@@ -68,7 +82,7 @@
       {
         "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 208 # Comments: 125",
+        "description": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 245 # Comments: 139",
         "source": "HackerNews",
         "published": "2026-08-25T19:07:01+00:00"
       },
@@ -138,7 +152,7 @@
       {
         "title": "Firefox 157 will include JPEG XL by default on all platforms",
         "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 240 # Comments: 54",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 268 # Comments: 69",
         "source": "HackerNews",
         "published": "2026-08-25T17:55:23+00:00"
       },
@@ -220,13 +234,6 @@
         "published": "2026-08-25T16:38:37-04:00"
       },
       {
-        "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-        "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-        "description": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
-        "source": "TechCrunch",
-        "published": "2026-08-25T16:35:00+00:00"
-      },
-      {
         "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
         "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
         "description": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also...",
@@ -246,13 +253,6 @@
         "description": "YouTube otomatik oynatma kapatma işlemi nasıl yapılır? Telefon, bilgisayar ve televizyonda sıradaki videonun kendiliğinden başlamasını engellemenin yollarını anlatıyoruz.",
         "source": "Webtekno",
         "published": "2026-08-25T15:54:11+03:00"
-      },
-      {
-        "title": "That fake Grand Theft Auto VI demo is actually just malware",
-        "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-        "description": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
-        "source": "TechCrunch",
-        "published": "2026-08-25T15:48:38+00:00"
       },
       {
         "title": "Mazda Türkiye'ye Geri Dönerse Hangi Modelleri Satışa Sunabilir?",
@@ -355,11 +355,39 @@
     ],
     "dunya": [
       {
-        "title": "Trump says all mines cleared from Strait of Hormuz",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+        "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+        "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+        "description": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
         "source": "BBC News",
-        "published": "2026-08-25T21:23:41+00:00"
+        "published": "2026-08-25T23:50:53+00:00"
+      },
+      {
+        "title": "Nicotine vapes best chance to quit smoking, major review finds",
+        "link": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
+        "description": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
+        "source": "BBC News",
+        "published": "2026-08-25T23:40:38+00:00"
+      },
+      {
+        "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
+        "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
+        "description": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
+        "source": "BBC News",
+        "published": "2026-08-25T23:13:34+00:00"
+      },
+      {
+        "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+        "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+        "description": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks",
+        "source": "BBC News",
+        "published": "2026-08-25T23:11:15+00:00"
+      },
+      {
+        "title": "Winter energy prices expected to rise to three-year high",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "description": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+        "source": "BBC News",
+        "published": "2026-08-25T23:07:29+00:00"
       },
       {
         "title": "Wife of US soldier deported after Trump rollback on military family protections",
@@ -390,13 +418,6 @@
         "published": "2026-08-25T19:39:44+00:00"
       },
       {
-        "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-        "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-        "description": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
-        "source": "BBC News",
-        "published": "2026-08-25T19:11:40+00:00"
-      },
-      {
         "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
         "description": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
@@ -425,25 +446,11 @@
         "published": "2026-08-25T17:30:40+00:00"
       },
       {
-        "title": "South Carolina U.S. Senate runoff election will test Trump's endorsement",
+        "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-        "description": "The primary runoff in South Carolina between Sen. Darline Graham and Rep. Ralph Norman is another test of President Trump's influence. He's backing Darline, sister of the late Sen. Lindsey Graham.",
+        "description": "In a major win for President Trump who went all in for the political newcomer, Sen. Darline Graham beat out longtime Congressman Ralph Norman in a special election primary runoff in South Carolina.",
         "source": "NPR",
         "published": "2026-08-25T16:47:54-04:00"
-      },
-      {
-        "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-        "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
-        "source": "BBC News",
-        "published": "2026-08-25T15:04:52+00:00"
-      },
-      {
-        "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
-        "link": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
-        "description": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail.",
-        "source": "BBC News",
-        "published": "2026-08-25T14:38:57+00:00"
       },
       {
         "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
@@ -486,13 +493,6 @@
         "description": "Voters in at least six states will soon decide ballot measures related to voter ID — the largest number of voter ID measures in a single year. The tally includes three prominent swing states.",
         "source": "NPR",
         "published": "2026-08-25T10:40:36-04:00"
-      },
-      {
-        "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
-        "link": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
-        "description": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.",
-        "source": "BBC News",
-        "published": "2026-08-25T10:06:04+00:00"
       },
       {
         "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
@@ -571,7 +571,7 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-agustos-2026-1738919",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-08-26T02:30:01+03:00"
+        "published": "2026-08-26T04:00:00+03:00"
       },
       {
         "title": "Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.0795,
-    "eur_try": 56.0962,
-    "eur_usd": 0.8572
+    "usd_try": 48.1083,
+    "eur_try": 56.1484,
+    "eur_usd": 0.8569
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+84°F",
+    "condition": "Açık",
+    "temp": "+70°F",
     "wind": "↙4mph",
-    "humidity": "33%"
+    "humidity": "55%"
   }
 }
