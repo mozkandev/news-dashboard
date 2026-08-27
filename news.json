@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-26T22:23:28.915834+00:00",
+  "updated_at": "2026-08-27T03:27:01.267486+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Kusama Yayoi Dies at 97",
+        "link": "https://news.jp/i/1465528042000662661",
+        "description": "Article URL: https://news.jp/i/1465528042000662661 Comments URL: https://news.ycombinator.com/item?id=49458709 Points: 33 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-08-27T02:21:18+00:00"
+      },
+      {
+        "title": "Getting video models to learn better, faster",
+        "link": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+        "description": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video Comments URL: https://news.ycombinator.com/item?id=49458502 Points: 10 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-08-27T01:53:34+00:00"
+      },
+      {
+        "title": "Laion Big Video Dataset",
+        "link": "https://projects.laion.ai/bvd/",
+        "description": "Article URL: https://projects.laion.ai/bvd/ Comments URL: https://news.ycombinator.com/item?id=49458478 Points: 9 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-27T01:50:26+00:00"
+      },
+      {
+        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+        "link": "https://github.com/SenteLabsAI/OpenExecutive",
+        "description": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 99 # Comments: 51",
+        "source": "HackerNews",
+        "published": "2026-08-27T01:46:22+00:00"
+      },
+      {
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+        "description": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in... Comments URL: https://news.ycombinator.com/item?id=49458161 Points: 331 # Comments: 142",
+        "source": "HackerNews",
+        "published": "2026-08-27T01:12:55+00:00"
+      },
+      {
+        "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+        "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+        "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+        "source": "TechCrunch",
+        "published": "2026-08-27T00:24:57+00:00"
+      },
+      {
+        "title": "Mechanical Turk shutting down September 30",
+        "link": "https://www.mturk.com/",
+        "description": "Article URL: https://www.mturk.com/ Comments URL: https://news.ycombinator.com/item?id=49457545 Points: 173 # Comments: 60",
+        "source": "HackerNews",
+        "published": "2026-08-26T23:55:44+00:00"
+      },
+      {
+        "title": "Zohran and the Short Link",
+        "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+        "description": "Article URL: https://iamwillwang.com/notes/zohran-and-the-short-link/ Comments URL: https://news.ycombinator.com/item?id=49457512 Points: 116 # Comments: 35",
+        "source": "HackerNews",
+        "published": "2026-08-26T23:50:15+00:00"
+      },
+      {
+        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+        "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+        "source": "TechCrunch",
+        "published": "2026-08-26T23:47:18+00:00"
+      },
       {
         "title": "Ağır Hasar Kayıtlı Araç Alınır mı? Nelere Dikkat Etmek Gerekir?",
         "link": "\n                    https://www.webtekno.com/agir-hasar-kayitli-arac-alinir-mi-alirken-nelere-dikkat-etmeli-h222886.html\n                    ",
@@ -10,60 +73,39 @@
         "published": "2026-08-26T22:51:19+03:00"
       },
       {
-        "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+        "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+        "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+        "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+        "source": "TechCrunch",
+        "published": "2026-08-26T22:47:58+00:00"
+      },
+      {
+        "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+        "link": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+        "description": "Article URL: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html Comments URL: https://news.ycombinator.com/item?id=49456929 Points: 88 # Comments: 36",
+        "source": "HackerNews",
+        "published": "2026-08-26T22:44:03+00:00"
+      },
+      {
+        "title": "Asahi Linux Progress Report: Linux 7.2",
+        "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
+        "description": "Article URL: https://asahilinux.org/2026/08/progress-report-7-2/ Comments URL: https://news.ycombinator.com/item?id=49456851 Points: 102 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-08-26T22:35:02+00:00"
+      },
+      {
+        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
         "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
         "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
         "source": "TechCrunch",
         "published": "2026-08-26T21:37:39+00:00"
       },
       {
-        "title": "What will be left for us to work on",
-        "link": "https://ICML.cc/virtual/2026/invited-talk/67274",
-        "description": "Article URL: https://ICML.cc/virtual/2026/invited-talk/67274 Comments URL: https://news.ycombinator.com/item?id=49455613 Points: 19 # Comments: 13",
+        "title": "Stripe acquires Clerky",
+        "link": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+        "description": "https://twitter.com/darbyw/status/2092718828405096955 Comments URL: https://news.ycombinator.com/item?id=49455956 Points: 84 # Comments: 19",
         "source": "HackerNews",
-        "published": "2026-08-26T20:42:31+00:00"
-      },
-      {
-        "title": "mold: A Parallel Linker",
-        "link": "https://arxiv.org/abs/2608.23228",
-        "description": "Article URL: https://arxiv.org/abs/2608.23228 Comments URL: https://news.ycombinator.com/item?id=49455530 Points: 24 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-26T20:37:02+00:00"
-      },
-      {
-        "title": "Product Development is being Rewritten",
-        "link": "https://revyl.com/blog/product-development-is-being-rewritten/",
-        "description": "Article URL: https://revyl.com/blog/product-development-is-being-rewritten/ Comments URL: https://news.ycombinator.com/item?id=49455483 Points: 18 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-08-26T20:33:55+00:00"
-      },
-      {
-        "title": "IBM Unveils Next Generation Dual-Architecture Processor",
-        "link": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-        "description": "Article URL: https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone Comments URL: https://news.ycombinator.com/item?id=49455471 Points: 38 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-08-26T20:32:29+00:00"
-      },
-      {
-        "title": "Infrastructure as Raclette",
-        "link": "https://lois.postu.la/posts/infrastructure-as-a-raclette",
-        "description": "Article URL: https://lois.postu.la/posts/infrastructure-as-a-raclette Comments URL: https://news.ycombinator.com/item?id=49455450 Points: 14 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-26T20:31:31+00:00"
-      },
-      {
-        "title": "Serve Markdown to AI Agents with Accept Headers",
-        "link": "https://acceptmarkdown.com/",
-        "description": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 56 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-08-26T19:45:59+00:00"
-      },
-      {
-        "title": "GitHub Outage Tracker: Is GitHub Cooked?",
-        "link": "https://isgithubcooked.com/",
-        "description": "Article URL: https://isgithubcooked.com/ Comments URL: https://news.ycombinator.com/item?id=49454728 Points: 89 # Comments: 37",
-        "source": "HackerNews",
-        "published": "2026-08-26T19:43:48+00:00"
+        "published": "2026-08-26T21:09:32+00:00"
       },
       {
         "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
@@ -78,20 +120,6 @@
         "description": "Was Greg Brockman the right executive all along?",
         "source": "TechCrunch",
         "published": "2026-08-26T19:34:04+00:00"
-      },
-      {
-        "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-        "link": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-        "description": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu Comments URL: https://news.ycombinator.com/item?id=49454419 Points: 116 # Comments: 51",
-        "source": "HackerNews",
-        "published": "2026-08-26T19:23:01+00:00"
-      },
-      {
-        "title": "The Hugging Face incident and the road ahead",
-        "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-        "description": "Article URL: https://openai.com/index/hugging-face-incident-and-the-road-ahead/ Comments URL: https://news.ycombinator.com/item?id=49454314 Points: 100 # Comments: 75",
-        "source": "HackerNews",
-        "published": "2026-08-26T19:15:23+00:00"
       },
       {
         "title": "OpenAI releases its official report on the Hugging Face breach",
@@ -120,13 +148,6 @@
         "description": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
         "source": "TechCrunch",
         "published": "2026-08-26T18:23:09+00:00"
-      },
-      {
-        "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-        "link": "https://thetariffcost.com/",
-        "description": "Article URL: https://thetariffcost.com/ Comments URL: https://news.ycombinator.com/item?id=49453161 Points: 137 # Comments: 132",
-        "source": "HackerNews",
-        "published": "2026-08-26T17:54:51+00:00"
       },
       {
         "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
@@ -199,32 +220,11 @@
         "published": "2026-08-26T17:01:05+00:00"
       },
       {
-        "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
-        "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-        "description": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
-        "source": "TechCrunch",
-        "published": "2026-08-26T17:00:00+00:00"
-      },
-      {
-        "title": "Apple is holding its iPhone launch event on September 9",
-        "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-        "description": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
-        "source": "TechCrunch",
-        "published": "2026-08-26T16:53:07+00:00"
-      },
-      {
         "title": "Apple, iPhone 18 Pro ve Katlanabilir iPhone Tanıtımını Duyurdu",
         "link": "https://shiftdelete.net/apple-iphone-18-pro-ve-katlanabilir-iphone-tanitimini-duyurdu",
         "description": "Apple, 9 Eylül'de gerçekleşecek etkinliğinde iPhone 18 Pro serisi ve merakla beklenen ilk katlanabilir iPhone modeli iPhone Ultra'yı tanıtacağını duyurdu.",
         "source": "ShiftDelete",
         "published": "2026-08-26T16:30:14+00:00"
-      },
-      {
-        "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
-        "link": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
-        "description": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
-        "source": "TechCrunch",
-        "published": "2026-08-26T16:03:14+00:00"
       },
       {
         "title": "Xiaomi Araçlara Apple Car Key Desteği Geliyor",
@@ -355,6 +355,48 @@
     ],
     "dunya": [
       {
+        "title": "At least one dead after car crashes into crowd in northern France",
+        "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+        "description": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+        "source": "BBC News",
+        "published": "2026-08-27T02:42:17+00:00"
+      },
+      {
+        "title": "Susan Sarandon leads tributes to Rocky Horror Picture Show co-star Tim Curry",
+        "link": "https://www.bbc.co.uk/news/articles/clyj56zjdxpo?at_medium=RSS&at_campaign=rss",
+        "description": "Stars of stage and screen grieve the cult British actor, who has died aged 80.",
+        "source": "BBC News",
+        "published": "2026-08-27T00:32:27+00:00"
+      },
+      {
+        "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss",
+        "description": "Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.",
+        "source": "BBC News",
+        "published": "2026-08-27T00:12:22+00:00"
+      },
+      {
+        "title": "Scottish Highlands benefiting from 'coolcation' trend",
+        "link": "https://www.bbc.co.uk/news/articles/cd9wp3p4301o?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland and other northern European nations are seeing more tourists as people avoid the heat.",
+        "source": "BBC News",
+        "published": "2026-08-26T23:08:06+00:00"
+      },
+      {
+        "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
+        "link": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
+        "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
+        "source": "BBC News",
+        "published": "2026-08-26T23:07:22+00:00"
+      },
+      {
+        "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+        "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+        "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+        "source": "BBC News",
+        "published": "2026-08-26T23:04:24+00:00"
+      },
+      {
         "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
         "link": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
         "description": "The announcement comes as Burnham holds his first official visit to Wales since becoming prime minster.",
@@ -362,39 +404,11 @@
         "published": "2026-08-26T21:32:52+00:00"
       },
       {
-        "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss",
-        "description": "Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.",
+        "title": "BBC visits hospital in Kathmandu as families wait for news",
+        "link": "https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.",
         "source": "BBC News",
-        "published": "2026-08-26T21:29:01+00:00"
-      },
-      {
-        "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-        "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-        "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
-        "source": "BBC News",
-        "published": "2026-08-26T21:27:23+00:00"
-      },
-      {
-        "title": "Canal killer who dismembered victims dies in jail",
-        "link": "https://www.bbc.co.uk/news/articles/c305l97m5vno?at_medium=RSS&at_campaign=rss",
-        "description": "John Sweeney was serving a whole-life sentence after being convicted in 2011 of the two murders.",
-        "source": "BBC News",
-        "published": "2026-08-26T20:12:44+00:00"
-      },
-      {
-        "title": "Rocky Horror star Tim Curry dies at 80",
-        "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
-        "description": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
-        "source": "BBC News",
-        "published": "2026-08-26T19:53:35+00:00"
-      },
-      {
-        "title": "Moment Peter Kay gatecrashes BBC weather report",
-        "link": "https://www.bbc.co.uk/news/articles/cew91zkyrvro?at_medium=RSS&at_campaign=rss",
-        "description": "The comedian interrupted North West Tonight weather presenter Molly Brewer as she gave her report.",
-        "source": "BBC News",
-        "published": "2026-08-26T19:44:34+00:00"
+        "published": "2026-08-26T21:15:34+00:00"
       },
       {
         "title": "New thunderstorm warnings for parts of UK as rain set to continue",
@@ -404,11 +418,11 @@
         "published": "2026-08-26T19:15:35+00:00"
       },
       {
-        "title": "Prince Harry and Meghan land in UK days after announcing move",
-        "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
-        "description": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
+        "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+        "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+        "description": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
         "source": "BBC News",
-        "published": "2026-08-26T18:44:54+00:00"
+        "published": "2026-08-26T18:22:41+00:00"
       },
       {
         "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
@@ -458,20 +472,6 @@
         "description": "A federal judge in Boston canceled a nationwide ruling that blocked U.S. Postal Service work on President Trump's order to limit mail-in voting for the midterm election. But a new block may come soon.",
         "source": "NPR",
         "published": "2026-08-26T13:15:17-04:00"
-      },
-      {
-        "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
-        "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
-        "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
-        "source": "BBC News",
-        "published": "2026-08-26T12:36:04+00:00"
-      },
-      {
-        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-        "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-        "source": "BBC News",
-        "published": "2026-08-26T11:32:11+00:00"
       },
       {
         "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
@@ -567,6 +567,146 @@
     ],
     "turkiye": [
       {
+        "title": "Kıraathaneye silahlı saldırı. 3 kişi yaralandı",
+        "link": "https://www.ntv.com.tr/turkiye/buyukcekmecede-kiraathaneye-silahli-saldiri-3-kisi-yaralandi-1739080",
+        "description": "Büyükçekmece’de motosikletle gelen kimliği belirsiz kişi ya da kişilerin kıraathaneye düzenlediği silahlı saldırıda 3 kişi yaralandı.",
+        "source": "NTV",
+        "published": "2026-08-27T06:24:58+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-agustos-2026-1739057",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-27T06:00:00+03:00"
+      },
+      {
+        "title": "Züğürt Ağa gerçek oldu",
+        "link": "https://www.sozcu.com.tr/zugurt-aga-gercek-oldu-p352998",
+        "description": "Züğürt Ağa gerçek oldu",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "DEM de silah bıraksın",
+        "link": "https://www.sozcu.com.tr/dem-de-silah-biraksin-p352997",
+        "description": "DEM de silah bıraksın",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "Eski bakan için cinayet dosyası",
+        "link": "https://www.sozcu.com.tr/eski-bakan-icin-cinayet-dosyasi-p352996",
+        "description": "Eski bakan için cinayet dosyası",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "Er gaziler, hayatlarını-hayallerini SÖZCÜ’ye anlattı: Ya oldurun ya öldürün",
+        "link": "https://www.sozcu.com.tr/er-gaziler-hayatlarini-hayallerini-sozcu-ye-anlatti-ya-oldurun-ya-oldurun-p352995",
+        "description": "Er gaziler, hayatlarını-hayallerini SÖZCÜ’ye anlattı: Ya oldurun ya öldürün",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "Saraydan inceleme çağrısı, emniyetten gözaltı",
+        "link": "https://www.sozcu.com.tr/saraydan-inceleme-cagrisi-emniyetten-gozalti-p352994",
+        "description": "Saraydan inceleme çağrısı, emniyetten gözaltı",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "Kağıt üzerinde tasarruf havada karada itibar!",
+        "link": "https://www.sozcu.com.tr/kagit-uzerinde-tasarruf-havada-karada-itibar-p352993",
+        "description": "Kağıt üzerinde tasarruf havada karada itibar!",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "Parası olan yurt dışında harcıyor",
+        "link": "https://www.sozcu.com.tr/parasi-olan-yurt-disinda-harciyor-p352992",
+        "description": "Parası olan yurt dışında harcıyor",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "Borsa İstanbul’da 546 şirketin 231’i zarara uğrattı",
+        "link": "https://www.sozcu.com.tr/borsa-istanbul-da-546-sirketin-231-i-zarara-ugratti-p352991",
+        "description": "Borsa İstanbul’da 546 şirketin 231’i zarara uğrattı",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "İstanbul’da 1 ev Avrupa’da şato",
+        "link": "https://www.sozcu.com.tr/istanbul-da-1-ev-avrupa-da-sato-p352990",
+        "description": "İstanbul’da 1 ev Avrupa’da şato",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:30:11+03:00"
+      },
+      {
+        "title": "İtfaiye arazisine AVM dikecekler",
+        "link": "https://www.sozcu.com.tr/itfaiye-arazisine-avm-dikecekler-p352999",
+        "description": "İtfaiye arazisine AVM dikecekler",
+        "source": "Sözcü",
+        "published": "2026-08-27T05:10:37+03:00"
+      },
+      {
+        "title": "Kocaeli'de 4 katlı bina boşaltıldı. Kolon ve kirişlerinden ses geldi",
+        "link": "https://www.ntv.com.tr/turkiye/kocaelide-4-katli-bina-bosaltildi-kolon-ve-kirislerinden-ses-geldi-1739077",
+        "description": "Kocaeli'nin İzmit ilçesinde kolon ve kirişlerinden ses geldiği bildirilen 4 katlı bina, tedbir amaçlı boşaltıldı.",
+        "source": "NTV",
+        "published": "2026-08-27T05:02:16+03:00"
+      },
+      {
+        "title": "Nişanlı kızın kaçırıldığı iddiasıyla iki aile birbirine girdi: 5 kişi bıçaklandı",
+        "link": "https://www.ntv.com.tr/turkiye/nisanli-kizin-kacirildigi-iddiasiyla-iki-aile-birbirine-girdi-5-kisi-bicaklandi-1739075",
+        "description": "Kocaeli'de nişanlı bir kızın kaçırıldığı iddiasıyla iki aile arasında kovalamaca yaşandı. Çıkan kavgada 5 kişi bıçaklandı, bir kişinin durumu ağır.",
+        "source": "NTV",
+        "published": "2026-08-27T04:07:03+03:00"
+      },
+      {
+        "title": "Nepal-Tibet sınırında sel felaketi: 160'tan fazla ölü, turistler dahil yüzlerce kayıp",
+        "link": "https://www.bbc.com/turkce/articles/c1583l5q711o?at_medium=RSS&at_campaign=rss",
+        "description": "Nepal ve Çin'in Tibet bölgesinde meydana gelen heyelan ve sellerde ölenlerin sayısı en az 160 olarak açıklandı. Aralarında turistlerin de olduğu yüzlerce kişi hâlâ kayıp.",
+        "source": "BBC Turkish",
+        "published": "2026-08-27T03:18:15+00:00"
+      },
+      {
+        "title": "Rusya nükleer silah kullanabilir mi? ABD basınından yeni iddia",
+        "link": "https://www.ntv.com.tr/turkiye/rusya-nukleer-silah-kullanabilir-mi-abd-basinindan-yeni-iddia-1739071",
+        "description": "CIA direktörünün Moskova'ya sürpriz ziyareti sonrası ABD basınından, Kremlin'in Ukrayna'ya karşı \"taktik nükleer silah\" kullanabileceği iddiası geldi.",
+        "source": "NTV",
+        "published": "2026-08-27T03:13:21+03:00"
+      },
+      {
+        "title": "Haluk Levent hakkında yeni karar. 3,7 milyonluk hesabına erişim engeli",
+        "link": "https://www.ntv.com.tr/turkiye/haluk-levent-hakkinda-yeni-karar-37-milyonluk-hesabina-erisim-engeli-1739073",
+        "description": "Ahbap Derneği soruşturması kapsamında tutuklanan sanatçı Haluk Levent’in sosyal medya hesabı hakkında erişim engeli kararı verildi.",
+        "source": "NTV",
+        "published": "2026-08-27T02:30:45+03:00"
+      },
+      {
+        "title": "Beşiktaş Avrupa Ligi için Litvanya'ya çok avantajlı gidiyor",
+        "link": "https://www.bbc.com/turkce/articles/cly899d2l8vo?at_medium=RSS&at_campaign=rss",
+        "description": "Beşiktaş, UEFA Avrupa Ligi'ne kalabilmek için bu akşam Litvanya'da Kauno Zalgiris ile karşılaşacak. Siyah beyazlılar İstanbul'daki ilk maçı 3-0 kazanmıştı.",
+        "source": "BBC Turkish",
+        "published": "2026-08-27T02:30:00+00:00"
+      },
+      {
+        "title": "ABD, pankreas kanserinde 'çığır açıcı bir tedaviyi' onayladı",
+        "link": "https://www.bbc.com/turkce/articles/c2096y1ey0go?at_medium=RSS&at_campaign=rss",
+        "description": "Uzmanlar, daraksonrasib adlı ilacı, en ölümcül kanser türlerinden biri için \"çığır açıcı bir ilaç\" olarak nitelendirdi. Çalışmalarda ilaç, hastaların hayatta kalma süresini ortalama iki katına çıkardı.",
+        "source": "BBC Turkish",
+        "published": "2026-08-27T02:00:36+00:00"
+      },
+      {
+        "title": "Şanlıurfa'da iki yolcu otobüsü çarpıştı, 13 kişi yaralandı",
+        "link": "https://www.ntv.com.tr/turkiye/sanliurfada-iki-yolcu-otobusu-carpisti-13-kisi-yaralandi-1739069",
+        "description": "Şanlıurfa'nın Siverek ilçesinde iki yolcu otobüsünün çarpışması sonucu 13 kişi yaralandı.",
+        "source": "NTV",
+        "published": "2026-08-27T01:39:31+03:00"
+      },
+      {
         "title": "30 Ağustos'ta bazı metro seferleri ücretsiz olacak",
         "link": "https://www.ntv.com.tr/turkiye/30-agustosta-bazi-metro-seferleri-ucretsiz-olacak-1739067",
         "description": "30 Ağustos Zafer Bayramı nedeniyle bazı metro seferleri ücretsiz oldu.",
@@ -574,53 +714,18 @@
         "published": "2026-08-27T01:18:41+03:00"
       },
       {
-        "title": "İsmail Kartal ilk kez böyle konuştu! 'Beni linç etmek...'",
-        "link": "https://www.sozcu.com.tr/ismail-kartaldan-linc-iddialarina-sert-tepki-namuslu-yasiyorum-p352984",
-        "description": "İsmail Kartal ilk kez böyle konuştu! 'Beni linç etmek...'",
-        "source": "Sözcü",
-        "published": "2026-08-27T01:03:50+03:00"
+        "title": "Aralıklı orucun faydaları abartılıyor mu?",
+        "link": "https://www.bbc.com/turkce/articles/cj64274d534o?at_medium=RSS&at_campaign=rss",
+        "description": "Aralıklı orucun işe yarayıp yaramadığını kanıtlamak, diğer tüm yaşam tarzı değişikliklerinde olduğu gibi son derece zor. Ancak yeni teknolojiler, neyin işe yaradığını ve neyin yaramadığını anlamamıza daha iyi yardımcı olabilir.",
+        "source": "BBC Turkish",
+        "published": "2026-08-27T01:13:07+00:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-agustos-2026-1739057",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-08-27T01:00:00+03:00"
-      },
-      {
-        "title": "Bir hastanın şikayetiyle ortaya çıktı: Hesabından milyonlar çıkan doktor tutuklandı",
-        "link": "https://www.sozcu.com.tr/bir-hastanin-sikayetiyle-ortaya-cikti-hesabindan-milyonlar-cikan-doktor-tutuklandi-p352983",
-        "description": "Bir hastanın şikayetiyle ortaya çıktı: Hesabından milyonlar çıkan doktor tutuklandı",
-        "source": "Sözcü",
-        "published": "2026-08-27T00:53:18+03:00"
-      },
-      {
-        "title": "Galatasaray ve Fenerbahçe’nin Şampiyonlar Ligi’ndeki muhtemel rakipleri belli oldu! Nefesler tutuldu, Devler Ligi’nde kura çekimi heyecanı",
-        "link": "https://www.sozcu.com.tr/galatasaray-ve-fenerbahce-nin-sampiyonlar-ligi-nde-muhtemel-rakipleri-nefesler-tutuldu-devler-ligi-p352974",
-        "description": "Galatasaray ve Fenerbahçe’nin Şampiyonlar Ligi’ndeki muhtemel rakipleri belli oldu! Nefesler tutuldu, Devler Ligi’nde ku...",
-        "source": "Sözcü",
-        "published": "2026-08-27T00:51:02+03:00"
-      },
-      {
-        "title": "Milyonluk saatini paylaşan AKP'li başkan 'affını' talep etti",
-        "link": "https://www.sozcu.com.tr/milyonluk-saatini-paylasan-akp-li-baskan-affini-talep-etti-p352972",
-        "description": "Milyonluk saatini paylaşan AKP'li başkan 'affını' talep etti",
-        "source": "Sözcü",
-        "published": "2026-08-27T00:47:10+03:00"
-      },
-      {
-        "title": "Ederson'dan Şampiyonlar Ligi açıklaması",
-        "link": "https://www.sozcu.com.tr/edersondan-sampiyonlar-ligi-aciklamasi-bu-sezonki-ilk-hedefimiz-p352980",
-        "description": "Ederson'dan Şampiyonlar Ligi açıklaması",
-        "source": "Sözcü",
-        "published": "2026-08-27T00:38:58+03:00"
-      },
-      {
-        "title": "Gökyüzünde yeni dönem başlıyor: Benzinle çalışıyor, 150 dakikadan fazla havada kalıyor",
-        "link": "https://www.sozcu.com.tr/gokyuzunde-yeni-donem-basliyor-benzinle-calisiyor-150-dakikadan-fazla-havada-kaliyor-p352976",
-        "description": "Gökyüzünde yeni dönem başlıyor: Benzinle çalışıyor, 150 dakikadan fazla havada kalıyor",
-        "source": "Sözcü",
-        "published": "2026-08-27T00:20:01+03:00"
+        "title": "Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde",
+        "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo?at_medium=RSS&at_campaign=rss",
+        "description": "Fenerbahçe Fransa'da Olimpik Lyon'u 2-1 ile geçti ve 18 yıl sonra UEFA Şampiyonlar Ligi'ne kaldı.",
+        "source": "BBC Turkish",
+        "published": "2026-08-27T00:48:27+00:00"
       },
       {
         "title": "Eşini öldürüp kucağındaki çocuğu kaçırdı",
@@ -630,32 +735,11 @@
         "published": "2026-08-27T00:16:29+03:00"
       },
       {
-        "title": "Maç bitti saha içi karıştı! Lyonlu futbolcular Guendouzi'ye saldırmaya kalktı",
-        "link": "https://www.sozcu.com.tr/fenerbahcelyon-macinda-sahada-gerginlik-oyuncular-karsi-karsiya-geldi-p352975",
-        "description": "Maç bitti saha içi karıştı! Lyonlu futbolcular Guendouzi'ye saldırmaya kalktı",
-        "source": "Sözcü",
-        "published": "2026-08-27T00:14:00+03:00"
-      },
-      {
-        "title": "AKP'li Şamil Tayyar seçim için tarih verdi",
-        "link": "https://www.sozcu.com.tr/samil-tayyar-secim-cikisi-26-agustos-2026-p352973",
-        "description": "AKP'li Şamil Tayyar seçim için tarih verdi",
-        "source": "Sözcü",
-        "published": "2026-08-26T23:53:41+03:00"
-      },
-      {
-        "title": "Vikinglerin ağır yenilgiye uğradığı yer 1100 yıl sonra bulundu: İzler Ragnar’ın oğluna uzanıyor",
-        "link": "https://www.sozcu.com.tr/vikinglerin-agir-yenilgiye-ugradigi-yer-1100-yil-sonra-bulundu-izler-ragnar-in-ogluna-uzaniyor-p352971",
-        "description": "Vikinglerin ağır yenilgiye uğradığı yer 1100 yıl sonra bulundu: İzler Ragnar’ın oğluna uzanıyor",
-        "source": "Sözcü",
-        "published": "2026-08-26T23:41:00+03:00"
-      },
-      {
-        "title": "ABD’nin yeni planı ortaya çıktı: Trump İran'a böyle saldıracak",
-        "link": "https://www.sozcu.com.tr/abd-nin-yeni-plani-ortaya-cikti-trump-iran-a-boyle-saldiracak-p352963",
-        "description": "ABD’nin yeni planı ortaya çıktı: Trump İran'a böyle saldıracak",
-        "source": "Sözcü",
-        "published": "2026-08-26T22:56:22+03:00"
+        "title": "Almanya'da iki havalimanı çalışanı sıtmadan öldü",
+        "link": "https://www.bbc.com/turkce/articles/c2kwd3qw31do?at_medium=RSS&at_campaign=rss",
+        "description": "Alman halk sağlığı yetkililerine göre, sivrisinekler Almanya'nın en işlek havalimanı olan Frankfurt Havalimanı'na uçakla taşındı. Hastalığın çalışanlara tek bir sinekten mi yoksa farklı sineklerden mi bulaştığı tespit edilmeye çalışılıyor.",
+        "source": "BBC Turkish",
+        "published": "2026-08-26T22:24:58+00:00"
       },
       {
         "title": "Kanoyla Türkiye turu. İstanbul'dan yola çıktı, işte 83 günde katettiği mesafe",
@@ -665,67 +749,11 @@
         "published": "2026-08-26T22:20:34+03:00"
       },
       {
-        "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 26 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1739054",
-        "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
-        "source": "NTV",
-        "published": "2026-08-26T21:38:46+03:00"
-      },
-      {
-        "title": "Bakan Fidan: YPG'nin feshi, atmak istediğimiz adımların tamamlayıcısı niteliğinde",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-ypgnin-feshi-atmak-istedigimiz-adimlarin-tamamlayicisi-niteliginde-1739053",
-        "description": "Dışişleri Bakanı Hakan Fidan, terör örgütü YPG'nin feshine ilişkin \"Bizim şu anda atmak istediğimiz adımların tamamlayıcısı niteliğinde\" açıklamasında bulundu.",
-        "source": "NTV",
-        "published": "2026-08-26T21:35:06+03:00"
-      },
-      {
-        "title": "Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde",
-        "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo?at_medium=RSS&at_campaign=rss",
-        "description": "Fenerbahçe Fransa'da Olimpik Lyon'u 2-1 ile geçti ve 18 yıl sonra UEFA Şampiyonlar Ligi'ne kaldı.",
-        "source": "BBC Turkish",
-        "published": "2026-08-26T21:21:16+00:00"
-      },
-      {
-        "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1739049",
-        "description": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
-        "source": "NTV",
-        "published": "2026-08-26T20:09:34+03:00"
-      },
-      {
-        "title": "Rojin Kabaiş soruşturmasında yeni gelişme. Adli Tıp raporu açıklandı, Rojin zehirlenerek mi öldü?",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-rojin-kabais-sorusturmasinda-yeni-gelisme-zehirlenerek-mi-olduruldu-1739035",
-        "description": "Van'da kaybolduktan 18 gün sonra cansız bedeni bulunan üniversite öğrencisi Rojin Kabaiş'in ölümüyle ilgili soruşturma sürüyor. Rojin Kabaiş'in zehirlenerek öldüğüne ilişkin tıbbi delil bulunmadı.",
-        "source": "NTV",
-        "published": "2026-08-26T19:29:53+03:00"
-      },
-      {
-        "title": "Nepal-Tibet sınırında sel felaketi: 150'den fazla ölü, turistler dahil yüzlerce kayıp",
-        "link": "https://www.bbc.com/turkce/articles/c1583l5q711o?at_medium=RSS&at_campaign=rss",
-        "description": "Nepal ve Çin'in Tibet bölgesinde meydana gelen heyelan ve sellerde aralarında turistlerin de olduğu yüzlerce kişi kayboldu. Nepal Dışişleri Bakanı Shishir Khanal, ilk belirlemelere göre sellere, bölgedeki bir depremin tetiklediği bir çığın yol açmış...",
-        "source": "BBC Turkish",
-        "published": "2026-08-26T19:11:31+00:00"
-      },
-      {
-        "title": "TBMM Başkanı Kurtulmuş’tan Terörsüz Türkiye mesajı",
-        "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmustan-terorsuz-turkiye-mesaji-1739045",
-        "description": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecine ilişkin mesajlar verdi. Kurtulmuş, \"Hiçbir yerde silah sesi olmayacak\" dedi.",
-        "source": "NTV",
-        "published": "2026-08-26T18:27:20+03:00"
-      },
-      {
         "title": "Türkiye, Avrupa Kadınlar Voleybol Şampiyonası'nda Almanya'yı da geçti",
         "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
         "description": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye dördüncü maçında karşılaştığı Almanya'yı da 3-1 ile geçti.",
         "source": "BBC Turkish",
         "published": "2026-08-26T18:26:16+00:00"
-      },
-      {
-        "title": "\"Şeytantepe\" belgeseline soruşturma",
-        "link": "https://www.ntv.com.tr/turkiye/seytantepe-belgeseline-sorusturma-1739041",
-        "description": "Narin Güran cinayetini konu alan “Şeytantepe” belgeseli hakkında soruşturma başlatıldı.",
-        "source": "NTV",
-        "published": "2026-08-26T17:56:25+03:00"
       },
       {
         "title": "Mithat Sancar: 'Öcalan'ın süreçte merkezi bir rol üstlenmesi gerekiyor'",
@@ -742,51 +770,23 @@
         "published": "2026-08-26T17:28:50+00:00"
       },
       {
-        "title": "Pakistan'da 14 bebeğin öldüğü yangın: Görgü tanıklarına göre kapı kilitliydi",
-        "link": "https://www.bbc.com/turkce/articles/czxzge1lzkxo?at_medium=RSS&at_campaign=rss",
-        "description": "Pakistan'ın başkenti İslamabad'da bir hastanenin yenidoğan ünitesinde bu sabah 7 civarında başlayan yangında en az 14 bebek hayatını kaybetti.",
-        "source": "BBC Turkish",
-        "published": "2026-08-26T15:47:09+00:00"
-      },
-      {
-        "title": "Fransa'da emsal meslek hastalığı kararı: Hostesin kanserinde 'kozmik radyasyon rol oynadı'",
-        "link": "https://www.bbc.com/turkce/articles/cew914xlznyo?at_medium=RSS&at_campaign=rss",
-        "description": "Eski Air France hostesi Sophie Lainault'un kanseri meslek hastalığı olarak tanındı.",
-        "source": "BBC Turkish",
-        "published": "2026-08-26T15:44:05+00:00"
-      },
-      {
         "title": "Meta, sosyal medya davasındaki 18 milyar dolarlık anlaşmayı kime ödeyecek?",
         "link": "https://www.bbc.com/turkce/articles/c1j14r9jrkyo?at_medium=RSS&at_campaign=rss",
         "description": "Sosyal medya devi Meta, Facebook ve Instagram'ın çocuklarda bağımlılık yaratmasıyla ilgili suçlandığı davada, ABD'nin 50'den fazla eyalet ve bölgesine 18 milyar dolara kadar ödeme yapmayı kabul etti.",
         "source": "BBC Turkish",
         "published": "2026-08-26T15:41:26+00:00"
-      },
-      {
-        "title": "CIA başkanı neden Moskova'yı ziyaret etti, Trump ve Kremlin ne dedi?",
-        "link": "https://www.bbc.com/turkce/articles/c39mldg84xxo?at_medium=RSS&at_campaign=rss",
-        "description": "John Ratcliffe salı günü Moskova'ya nadir görülen ve kamuoyuna önceden duyurulmayan bir ziyaret gerçekleştirdi. Peki neden?",
-        "source": "BBC Turkish",
-        "published": "2026-08-26T15:29:27+00:00"
-      },
-      {
-        "title": "İmamoğlu'nun danışmanı Ertan Yıldız'ın ifadesi: 'Yapıyla ilgili bildiklerimi anlattım'",
-        "link": "https://www.bbc.com/turkce/articles/cwyr0ee0k00o?at_medium=RSS&at_campaign=rss",
-        "description": "Görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun yargılandığı davanın 17 Ağustos'ta başlayan ikinci celsesi sürüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-08-26T14:01:21+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.1083,
-    "eur_try": 56.1484,
-    "eur_usd": 0.8569
+    "usd_try": 48.1525,
+    "eur_try": 56.1427,
+    "eur_usd": 0.8578
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+81°F",
-    "wind": "↗8mph",
-    "humidity": "48%"
+    "condition": "Kapalı",
+    "temp": "+109°F",
+    "wind": "↗14mph",
+    "humidity": "10%"
   }
 }
