@@ -1,13 +1,76 @@
 {
-  "updated_at": "2026-08-29T18:47:44.768178+00:00",
+  "updated_at": "2026-08-29T21:31:09.624255+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Apple’dan Yapay Zeka Odaklı Akıllı Gözlük Geliyor",
+        "link": "https://shiftdelete.net/apple-akilli-gozluk-ozellikleri",
+        "description": "Apple, yapay zeka destekli ilk akıllı gözlük modelini 2027 yılında tanıtmaya hazırlanıyor. İşte cihazın beklenen Apple akıllı gözlük özellikleri.",
+        "source": "ShiftDelete",
+        "published": "2026-08-29T20:00:27+00:00"
+      },
+      {
+        "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+        "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+        "description": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 61 # Comments: 20",
+        "source": "HackerNews",
+        "published": "2026-08-29T19:33:23+00:00"
+      },
+      {
+        "title": "Domain-Driven Agents",
+        "link": "https://coldtake.dev/blog/domain-driven-agents",
+        "description": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 13 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-29T19:28:28+00:00"
+      },
+      {
+        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+        "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+        "description": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-29T19:01:09+00:00"
+      },
+      {
+        "title": "Apple CarPlay’e Siri Gelmeden Yapay Zeka Geldi",
+        "link": "https://shiftdelete.net/apple-carplay-meta-ai-destegi",
+        "description": "Apple CarPlay, Siri AI güncellemesi öncesinde Meta AI desteğine kavuştu. İşte CarPlay üzerinde çalışan yapay zeka chatbot uygulamaları.",
+        "source": "ShiftDelete",
+        "published": "2026-08-29T19:00:25+00:00"
+      },
+      {
+        "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+        "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+        "description": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Points: 173 # Comments: 23",
+        "source": "HackerNews",
+        "published": "2026-08-29T18:44:37+00:00"
+      },
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
         "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
         "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
         "source": "TechCrunch",
         "published": "2026-08-29T18:41:59+00:00"
+      },
+      {
+        "title": "The internet is kind of a predatory cesspit now",
+        "link": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+        "description": "Article URL: https://www.stephendiehl.com/posts/internet_predatory_cesspit/ Comments URL: https://news.ycombinator.com/item?id=49492193 Points: 346 # Comments: 227",
+        "source": "HackerNews",
+        "published": "2026-08-29T18:40:56+00:00"
+      },
+      {
+        "title": "LLMs are making me lose my savviness",
+        "link": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+        "description": "Article URL: https://pgaleone.eu/ai/2026/08/29/losing-savviness/ Comments URL: https://news.ycombinator.com/item?id=49492184 Points: 24 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-08-29T18:38:52+00:00"
+      },
+      {
+        "title": "vLLM v0.28.0",
+        "link": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "description": "Article URL: https://github.com/vllm-project/vllm/releases/tag/v0.28.0 Comments URL: https://news.ycombinator.com/item?id=49492067 Points: 41 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-08-29T18:22:00+00:00"
       },
       {
         "title": "Xiaomi Pad 9 Pro Max’in Teknik Özellikleri Netleşiyor",
@@ -26,7 +89,7 @@
       {
         "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
         "link": "https://tucker.wales/writing/bias-towards-action/",
-        "description": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 8 # Comments: 1",
+        "description": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 60 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-08-29T17:39:18+00:00"
       },
@@ -40,9 +103,16 @@
       {
         "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
         "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "description": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 31 # Comments: 4",
+        "description": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 156 # Comments: 25",
         "source": "HackerNews",
         "published": "2026-08-29T17:19:47+00:00"
+      },
+      {
+        "title": "A better SQL in 11 lines of code",
+        "link": "https://prela-lang.org/tutorial/",
+        "description": "Article URL: https://prela-lang.org/tutorial/ Comments URL: https://news.ycombinator.com/item?id=49491544 Points: 31 # Comments: 32",
+        "source": "HackerNews",
+        "published": "2026-08-29T17:13:45+00:00"
       },
       {
         "title": "Xiaomi Smart Band 11 Geliyor: Dört Farklı Model",
@@ -52,18 +122,11 @@
         "published": "2026-08-29T17:00:28+00:00"
       },
       {
-        "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-        "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-        "description": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest Comments URL: https://news.ycombinator.com/item?id=49491175 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-08-29T16:24:21+00:00"
-      },
-      {
-        "title": "The growing divide between AI hype and software engineering reality",
-        "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-        "description": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 5 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-08-29T16:16:32+00:00"
+        "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+        "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+        "description": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you...",
+        "source": "The Verge",
+        "published": "2026-08-29T16:59:26-04:00"
       },
       {
         "title": "Hollywood celebs are getting into microdrama apps",
@@ -80,32 +143,11 @@
         "published": "2026-08-29T16:00:36+00:00"
       },
       {
-        "title": "Nancy Grace Roman Space Telescope",
-        "link": "https://science.nasa.gov/mission/roman-space-telescope/",
-        "description": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/ Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 64 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-08-29T15:48:02+00:00"
-      },
-      {
-        "title": "Quantifying Colour",
-        "link": "https://ekunazanu.foo/lab/quantifying-colour/",
-        "description": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 27 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-08-29T15:43:53+00:00"
-      },
-      {
-        "title": "Parsing the Infamous Japanese Postal CSV",
-        "link": "https://www.dampfkraft.com/posuto.html",
-        "description": "Article URL: https://www.dampfkraft.com/posuto.html Comments URL: https://news.ycombinator.com/item?id=49490826 Points: 36 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-29T15:42:43+00:00"
-      },
-      {
-        "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-        "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-        "description": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e Comments URL: https://news.ycombinator.com/item?id=49490702 Points: 111 # Comments: 47",
-        "source": "HackerNews",
-        "published": "2026-08-29T15:26:28+00:00"
+        "title": "Alt-right troll Milo Yiannopoulos has been deported",
+        "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+        "description": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but...",
+        "source": "The Verge",
+        "published": "2026-08-29T15:49:59-04:00"
       },
       {
         "title": "Yüzde 25 ÖTV Dilimindeki En Ucuz Elektrikli Otomobiller Ağustos 2026",
@@ -122,25 +164,11 @@
         "published": "2026-08-29T15:00:38+00:00"
       },
       {
-        "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-        "link": "https://uecker.codeberg.page/2026-08-29.html",
-        "description": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 47 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-08-29T14:20:33+00:00"
-      },
-      {
         "title": "Sony Music and Warner Chappell are suing Anthropic",
         "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
         "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus...",
         "source": "The Verge",
         "published": "2026-08-29T14:20:15-04:00"
-      },
-      {
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "link": "https://lwn.net/Articles/1091231/",
-        "description": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 430 # Comments: 349",
-        "source": "HackerNews",
-        "published": "2026-08-29T14:02:10+00:00"
       },
       {
         "title": "Project Helix Birden Fazla Konsoldan Oluşacak",
@@ -183,20 +211,6 @@
         "description": "Gemini Notebook, Eylül ayından itibaren Gemini Notebook kullanım limitlerini hesaplama tabanlı sisteme geçiriyor. İşte yeni sistemin detayları.",
         "source": "ShiftDelete",
         "published": "2026-08-29T12:00:59+00:00"
-      },
-      {
-        "title": "Apple AirPods 5 için Geri Sayım: Yeni Modeller 9 Eylül’de Tanıtılabilir",
-        "link": "https://shiftdelete.net/apple-airpods-5-tanitilabilir",
-        "description": "Apple AirPods 5 modelleri, 9 Eylül etkinliğinde tanıtılabilir. macOS kodlarında ortaya çıkan yeni kulaklıklar hakkında merak edilenler haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-08-29T11:00:23+00:00"
-      },
-      {
-        "title": "Volkswagen ID. California Cruise Tanıtıldı: Elektrikli Kamp Deneyimi",
-        "link": "https://shiftdelete.net/volkswagen-id-california-cruise-tanitildi",
-        "description": "Volkswagen ID. California Cruise, 420 km menzilli ID. Buzz Pro temelinde geliştirildi. 2027 başında satışa çıkacak modelin tüm detayları haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-08-29T10:00:59+00:00"
       },
       {
         "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
@@ -325,20 +339,6 @@
         "published": "2026-08-28T13:03:07-04:00"
       },
       {
-        "title": "Trump’s EPA wants to let data centers hide their air pollution",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-        "description": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal...",
-        "source": "The Verge",
-        "published": "2026-08-28T12:28:40-04:00"
-      },
-      {
-        "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-        "link": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-        "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on...",
-        "source": "The Verge",
-        "published": "2026-08-28T12:22:16-04:00"
-      },
-      {
         "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
         "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
         "description": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted...",
@@ -355,32 +355,46 @@
     ],
     "dunya": [
       {
-        "title": "Cleverly quits shadow cabinet to run for London mayor",
-        "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
-        "description": "The capital is not set to vote on a new mayor until 2028.",
+        "title": "Vessel in distress with five people onboard in Channel",
+        "link": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
+        "description": "A vessel with five people on board is \"in distress\" in the English Channel, the coastguard says.",
         "source": "BBC News",
-        "published": "2026-08-29T16:24:39+00:00"
-      },
-      {
-        "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-        "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
-        "description": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
-        "source": "BBC News",
-        "published": "2026-08-29T15:43:43+00:00"
+        "published": "2026-08-29T20:44:49+00:00"
       },
       {
         "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
         "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
         "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
         "source": "BBC News",
-        "published": "2026-08-29T15:27:56+00:00"
+        "published": "2026-08-29T20:13:16+00:00"
       },
       {
-        "title": "Christian festival 'devastated' as man dies after sign falls",
-        "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-        "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+        "title": "Norway's new king remembers 'my dear father' in first speech",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
         "source": "BBC News",
-        "published": "2026-08-29T14:12:30+00:00"
+        "published": "2026-08-29T19:06:28+00:00"
+      },
+      {
+        "title": "Man dies after train hits van on level crossing",
+        "link": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&at_campaign=rss",
+        "description": "British Transport Police said a man who was in a van died at the scene, in Burscough.",
+        "source": "BBC News",
+        "published": "2026-08-29T18:38:31+00:00"
+      },
+      {
+        "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
+        "description": "The controversial commentator, who criticized feminism and Islam, was an enthusiastic supporter of President Trump's immigration crackdown. ICE says he was an \"illegal alien.\"",
+        "source": "NPR",
+        "published": "2026-08-29T17:09:14-04:00"
+      },
+      {
+        "title": "Cleverly quits shadow cabinet to run for London mayor",
+        "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+        "description": "The capital is not set to vote on a new mayor until 2028.",
+        "source": "BBC News",
+        "published": "2026-08-29T16:24:39+00:00"
       },
       {
         "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
@@ -432,7 +446,7 @@
         "published": "2026-08-29T07:00:00-04:00"
       },
       {
-        "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+        "title": "The U.S. relied on these science advisers. Then the Trump administration cut them",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
         "description": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed.",
         "source": "NPR",
@@ -460,13 +474,6 @@
         "published": "2026-08-29T03:54:11+00:00"
       },
       {
-        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-        "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-        "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-        "source": "BBC News",
-        "published": "2026-08-29T00:32:17+00:00"
-      },
-      {
         "title": "Trump announces new US oil agreement with Venezuela",
         "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
         "description": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn...",
@@ -486,13 +493,6 @@
         "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
         "source": "BBC News",
         "published": "2026-08-28T21:17:54+00:00"
-      },
-      {
-        "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
-        "description": "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York's governor said Park earned a \"second chance through rehabilitation.\"",
-        "source": "NPR",
-        "published": "2026-08-28T20:06:04-04:00"
       },
       {
         "title": "What we know about the 33 British nationals missing in Nepal",
@@ -567,67 +567,116 @@
     ],
     "turkiye": [
       {
-        "title": "Parkta oturan kadının başına yorgun mermi isabet etti",
-        "link": "https://www.sozcu.com.tr/parkta-oturan-kadinin-basina-yorgun-mermi-isabet-etti-p353797",
-        "description": "Parkta oturan kadının başına yorgun mermi isabet etti",
-        "source": "Sözcü",
-        "published": "2026-08-29T21:37:35+03:00"
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 30 Ağustos 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-30-agustos-2026-1739498",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-08-30T00:30:00+03:00"
       },
       {
-        "title": "Kocaelispor geriden gelerek kazandı",
-        "link": "https://www.sozcu.com.tr/kocaelispor-geriden-gelerek-kazandi-p353794",
-        "description": "Kocaelispor geriden gelerek kazandı",
+        "title": "Erman Toroğlu, Galatasaray-Göztepe maçını Sözcü TV'de yorumluyor",
+        "link": "https://www.sozcu.com.tr/erman-toroglu-galatasaray-goztepe-macini-sozcu-tv-de-yorumluyor-p353805",
+        "description": "Erman Toroğlu, Galatasaray-Göztepe maçını Sözcü TV'de yorumluyor",
         "source": "Sözcü",
-        "published": "2026-08-29T21:23:34+03:00"
+        "published": "2026-08-30T00:28:19+03:00"
       },
       {
-        "title": "Ünlü Komedyen Cem Yılmaz hastaneye kaldırıldı",
-        "link": "https://www.sozcu.com.tr/unlu-komedyen-cem-yilmaz-hastaneye-kaldirildi-p353790",
-        "description": "Ünlü Komedyen Cem Yılmaz hastaneye kaldırıldı",
-        "source": "Sözcü",
-        "published": "2026-08-29T21:22:08+03:00"
+        "title": "Ordu'da \"vosvoslar\" ile \"Zafer konvoyu\" düzenlendi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-orduda-vosvoslar-ile-zafer-konvoyu-duzenlendi-1739503",
+        "description": "Ordu'nun Fatsa İlçesinde 30 Ağustos Zafer Bayramı dolayısıyla klasik araçlarla şehir turu gerçekleştirildi.",
+        "source": "NTV",
+        "published": "2026-08-30T00:23:34+03:00"
       },
       {
-        "title": "AKP’li isimden PKK’lı teröristler için kurulan taziye çadırlarına tepki: Ağır siyasi sonuçları olacaktır",
-        "link": "https://www.sozcu.com.tr/akp-li-isimden-pkk-li-teroristler-icin-kurulan-taziye-cadirlarina-tepki-agir-siyasi-sonuclari-p353789",
-        "description": "AKP’li isimden PKK’lı teröristler için kurulan taziye çadırlarına tepki: Ağır siyasi sonuçları olacaktır",
+        "title": "Galatasaray'da galibiyet üçlüsü Leao'dan",
+        "link": "https://www.sozcu.com.tr/leaodan-galatasarayda-galibiyet-cektirdi-italyadan-gelen-yeni-transfer-sahaya-indi-p353810",
+        "description": "Galatasaray'da galibiyet üçlüsü Leao'dan",
         "source": "Sözcü",
-        "published": "2026-08-29T20:45:10+03:00"
+        "published": "2026-08-30T00:21:41+03:00"
       },
       {
-        "title": "Trabzonspor'da Amed hazırlıkları sürüyor",
-        "link": "https://www.sozcu.com.tr/trabzonspor-amed-masi-hazirliklarini-tamamladi-p353788",
-        "description": "Trabzonspor'da Amed hazırlıkları sürüyor",
+        "title": "Hastane deposundaki milyonluk ilaçlar kuş olup uçtu: Sorumludan şoke eden ifade",
+        "link": "https://www.sozcu.com.tr/hastane-deposundaki-milyonluk-ilaclar-kus-olup-uctu-sorumludan-soke-eden-ifade-p353811",
+        "description": "Hastane deposundaki milyonluk ilaçlar kuş olup uçtu: Sorumludan şoke eden ifade",
         "source": "Sözcü",
-        "published": "2026-08-29T20:38:39+03:00"
+        "published": "2026-08-30T00:18:47+03:00"
       },
       {
-        "title": "Ferhat Göçer ile Sinan Akçıl fena kapıştı, Demet Akalın da devreye girdi",
-        "link": "https://www.sozcu.com.tr/ferhat-gocer-ile-sinan-akcil-fena-kapisti-demet-akalin-da-devreye-girdi-p353787",
-        "description": "Ferhat Göçer ile Sinan Akçıl fena kapıştı, Demet Akalın da devreye girdi",
+        "title": "Göztepe'den Galatasaray maçının hakemine tepki",
+        "link": "https://www.sozcu.com.tr/goztepeden-hakem-mehmet-turkene-ayni-komedi-tepkisi-p353808",
+        "description": "Göztepe'den Galatasaray maçının hakemine tepki",
         "source": "Sözcü",
-        "published": "2026-08-29T20:32:02+03:00"
+        "published": "2026-08-30T00:16:09+03:00"
       },
       {
-        "title": "Fenerbahçe ayrılığı duyurdu, sözleşmesi feshedildi",
-        "link": "https://www.sozcu.com.tr/fenerbahce-ayriligi-duyurdu-sozlesmesi-feshedildi-p353786",
-        "description": "Fenerbahçe ayrılığı duyurdu, sözleşmesi feshedildi",
+        "title": "Melih Gökçek hakkında soruşturma başlatıldı",
+        "link": "https://www.sozcu.com.tr/melih-gokcek-hakkinda-sorusturma-baslatildi-p353803",
+        "description": "Melih Gökçek hakkında soruşturma başlatıldı",
         "source": "Sözcü",
-        "published": "2026-08-29T20:12:38+03:00"
+        "published": "2026-08-30T00:04:22+03:00"
       },
       {
-        "title": "Sarıyer’de parkta gizemli ölüm: Çalıların arasında bulundu",
-        "link": "https://www.sozcu.com.tr/sariyer-de-parkta-gizemli-olum-calilarin-arasinda-bulundu-p353785",
-        "description": "Sarıyer’de parkta gizemli ölüm: Çalıların arasında bulundu",
+        "title": "Son dakika...Dışişleri'nden İsrail'e sert tepki",
+        "link": "https://www.sozcu.com.tr/son-dakika-disisleri-nden-israil-e-sert-tepki-p353801",
+        "description": "Son dakika...Dışişleri'nden İsrail'e sert tepki",
         "source": "Sözcü",
-        "published": "2026-08-29T19:55:47+03:00"
+        "published": "2026-08-29T23:38:17+03:00"
       },
       {
-        "title": "Ev kiralayacaklar dikkat: Depozitoda bu detayı atlayan kaybediyor",
-        "link": "https://www.sozcu.com.tr/ev-kiralayacaklar-dikkat-depozitoda-bu-detayi-atlayan-kaybediyor-p353784",
-        "description": "Ev kiralayacaklar dikkat: Depozitoda bu detayı atlayan kaybediyor",
+        "title": "Dışişleri’nden İsrail’e sert tepki: ''Çürümüş zihniyeti yansıtıyor''",
+        "link": "https://www.ntv.com.tr/turkiye/disislerinden-israile-sert-tepki-curumus-zihniyeti-yansitiyor-1739495",
+        "description": "Dışişleri Bakanlığı, İsrail Dışişleri Bakanlığının Cumhurbaşkanı Erdoğan'ı hedef alan açıklamalarına tepki göstererek, “Yalan ve iftiralar, korkak ve çürümüş zihniyeti yansıtıyor.” açıklamasını yaptı.",
+        "source": "NTV",
+        "published": "2026-08-29T23:21:30+03:00"
+      },
+      {
+        "title": "Ambulans şoförü otobüse daldı, şoföre saldırdı: Yolcular zor ayırdı",
+        "link": "https://www.sozcu.com.tr/ambulans-soforu-otobuse-daldi-sofore-saldirdi-yolcular-zor-ayirdi-p353806",
+        "description": "Ambulans şoförü otobüse daldı, şoföre saldırdı: Yolcular zor ayırdı",
         "source": "Sözcü",
-        "published": "2026-08-29T19:28:38+03:00"
+        "published": "2026-08-29T23:21:17+03:00"
+      },
+      {
+        "title": "Melih Gökçek hakkında soruşturma",
+        "link": "https://www.ntv.com.tr/turkiye/melih-gokcek-hakkinda-kayit-disi-para-iddiasina-sorusturma-1739494",
+        "description": "Ankara Cumhuriyet Başsavcılığı, eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek hakkında yurt dışındaki şirketlere kayıt dışı para aktarıldığı iddialarına ilişkin resen soruşturma başlattı.",
+        "source": "NTV",
+        "published": "2026-08-29T23:10:20+03:00"
+      },
+      {
+        "title": "Beşiktaş ve Trabzonspor'un Avrupa fikstürü netleşti",
+        "link": "https://www.sozcu.com.tr/besiktas-ve-trabzonspor-un-avrupa-fiksturu-netlesti-p353804",
+        "description": "Beşiktaş ve Trabzonspor'un Avrupa fikstürü netleşti",
+        "source": "Sözcü",
+        "published": "2026-08-29T23:05:35+03:00"
+      },
+      {
+        "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1739491",
+        "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
+        "source": "NTV",
+        "published": "2026-08-29T22:25:02+03:00"
+      },
+      {
+        "title": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
+        "link": "https://www.sozcu.com.tr/giresun-da-3-gun-denize-girme-yasagi-akintiya-kapilan-iranli-boguldu-p353800",
+        "description": "Giresun’da 3 gün denize girme yasağı: Akıntıya kapılan İranlı boğuldu",
+        "source": "Sözcü",
+        "published": "2026-08-29T22:20:15+03:00"
+      },
+      {
+        "title": "Türkiye ile Somali’den korsanlara ortak operasyon. 10 gün sürdü, gemi kurtarıldı",
+        "link": "https://www.ntv.com.tr/turkiye/turkiye-ile-somaliden-korsanlara-ortak-operasyon-10-gun-surdu-gemi-kurtarildi-1739488",
+        "description": "Türkiye Deniz Kuvvetleri ile Somali silahlı kuvvetlerinin ortak operasyonunda, Somali açıklarında korsanlar tarafından kaçırılan bir gemi kurtarıldı.",
+        "source": "NTV",
+        "published": "2026-08-29T21:57:22+03:00"
+      },
+      {
+        "title": "Galatasaray'da maça saniyeler kala sakatlık şoku",
+        "link": "https://www.sozcu.com.tr/galatasaray-da-maca-saniyeler-kala-sakatlik-soku-p353799",
+        "description": "Galatasaray'da maça saniyeler kala sakatlık şoku",
+        "source": "Sözcü",
+        "published": "2026-08-29T21:48:45+03:00"
       },
       {
         "title": "Cemal Enginyurt’un danışmanı Cem Tekinoğlu gözaltına alındı",
@@ -635,13 +684,6 @@
         "description": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen fuhuş ve para aklama soruşturması kapsamında, İstanbul Milletvekili Cemal Enginyurt’un danışmanı Cem Tekinoğlu gözaltına alındı.",
         "source": "NTV",
         "published": "2026-08-29T19:26:41+03:00"
-      },
-      {
-        "title": "Donald Trump'ın kızının pozları sosyal medyayı salladı",
-        "link": "https://www.sozcu.com.tr/donald-trump-in-kizinin-pozlari-sosyal-medyayi-salladi-p353783",
-        "description": "Donald Trump'ın kızının pozları sosyal medyayı salladı",
-        "source": "Sözcü",
-        "published": "2026-08-29T19:16:13+03:00"
       },
       {
         "title": "Bakan Ersoy'dan 30 Ağustos Zafer Bayramı mesajı",
@@ -672,39 +714,11 @@
         "published": "2026-08-29T16:33:48+03:00"
       },
       {
-        "title": "Denizde sürüklenen konteyner için inceleme başlatıldı",
-        "link": "https://www.ntv.com.tr/yerel-haberler/ordu/denizde-suruklenen-konteyner-icin-inceleme-baslatildi-1739466",
-        "description": "Ordu sahilinde sürüklenen beyaz konteyner vatandaşların dikkatini çekti. İhbar üzerine bölgeye gelen Sahil Güvenlik ekipleri inceleme başlattı.",
-        "source": "NTV",
-        "published": "2026-08-29T16:29:45+03:00"
-      },
-      {
         "title": "Gülistan Doku soruşturması: 'Dalgıç defterindeki kayıtlar adli makamlardan gizlendi'",
         "link": "https://www.bbc.com/turkce/articles/cpq0971yn20o?at_medium=RSS&at_campaign=rss",
         "description": "Adalet Bakanı Akın Gürlek, altı yıldır kayıp olan üniversite öğrencisi Gülistan Doku ile ilgili yürütülen soruşturma kapsamında gerçekleştirilen yeni operasyonda 10 şüphelinin gözaltına alındığını duyurdu.",
         "source": "BBC Turkish",
         "published": "2026-08-29T16:06:06+00:00"
-      },
-      {
-        "title": "Ege Denizi'nde 4,1 büyüklüğünde deprem",
-        "link": "https://www.ntv.com.tr/turkiye/ege-denizinde-41-buyuklugunde-deprem-1739461",
-        "description": "Ege Denizi'nde saat 15.32'de 4,1 büyüklüğünde deprem meydana geldi.",
-        "source": "NTV",
-        "published": "2026-08-29T15:58:20+03:00"
-      },
-      {
-        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 29 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-29-agustos-2026-1739462",
-        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 29 Ağustos 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
-        "source": "NTV",
-        "published": "2026-08-29T15:50:00+03:00"
-      },
-      {
-        "title": "11 ilde siber suçlarla mücadele. 35 şüpheli yakalandı",
-        "link": "https://www.ntv.com.tr/turkiye/11-ilde-siber-suclarla-mucadele-35-supheli-yakalandi-1739454",
-        "description": "İçişleri Bakanlığı, 11 ilde gerçekleştirilen siber suçlulara yönelik operasyonda 35 şüphelinin yakalandığını açıkladı.",
-        "source": "NTV",
-        "published": "2026-08-29T15:26:50+03:00"
       },
       {
         "title": "İzlanda AB üyeliği için sandık başında",
@@ -728,25 +742,11 @@
         "published": "2026-08-29T14:36:30+00:00"
       },
       {
-        "title": "Fethiye'de yeşil alanlar küle döndü",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-fethiyede-yesil-alanlar-kule-dondu-1739445",
-        "description": "Muğla Fethiye'de dün çıkan ve 3,5 saatte kontrol altına alınan orman yangınında yanan alanlar görüntülendi.",
-        "source": "NTV",
-        "published": "2026-08-29T14:19:49+03:00"
-      },
-      {
         "title": "ABD'nin Venezuela ile vardığı 65 milyar varillik petrol anlaşması hakkında neler biliniyor?",
         "link": "https://www.bbc.com/turkce/articles/cwyzdgek2g8o?at_medium=RSS&at_campaign=rss",
         "description": "Donald Trump, Venezuela ile 65 milyar varilden fazla petrol rezervinin ABD kontrolüne geçeceği bir anlaşmaya varıldığını duyurdu. Venezuela'nın geçici devlet başkanı, bu alışılmadık anlaşmanın ülkesinin ekonomisini canlandırmaya yardımcı olacağını...",
         "source": "BBC Turkish",
         "published": "2026-08-29T14:04:27+00:00"
-      },
-      {
-        "title": "289 metrelik Liberya bayraklı kuru yük gemisi için Boğaz trafiğe kapatıldı",
-        "link": "https://www.ntv.com.tr/turkiye/289-metrelik-liberya-bayrakli-kuru-yuk-gemisi-icin-bogaz-trafige-kapatildi-1739441",
-        "description": "İstanbul Boğazı, 289 metre uzunluğundaki Liberya bayraklı “Deyi Endurance” isimli kuru yük gemisinin geçişi nedeniyle çift yönlü transit gemi trafiğine kapatıldı.",
-        "source": "NTV",
-        "published": "2026-08-29T14:01:12+03:00"
       },
       {
         "title": "Küba verimli topraklarına rağmen neden halkını doyuramıyor?",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+109°F",
-    "wind": "↖6mph",
-    "humidity": "30%"
+    "temp": "+88°F",
+    "wind": "←11mph",
+    "humidity": "80%"
   }
 }
