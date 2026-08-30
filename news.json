@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-08-30T14:42:01.677243+00:00",
+  "updated_at": "2026-08-30T18:26:09.292138+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+        "link": "https://openrun.dev/blog/litestream/",
+        "description": "Article URL: https://openrun.dev/blog/litestream/ Comments URL: https://news.ycombinator.com/item?id=49501147 Points: 3 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-30T18:05:06+00:00"
+      },
+      {
+        "title": "Gamescom’da Soygun Şoku: Geliştiricilerin Ekipmanları Çalındı",
+        "link": "https://shiftdelete.net/gamescom-2026-hirsizlik-olayi",
+        "description": "Gamescom 2026 hırsızlık olayı ile sarsıldı. Üç farklı katılımcının standından çalınan dizüstü bilgisayarlar ve oyun sürümleri büyük endişe yarattı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T18:00:30+00:00"
+      },
+      {
+        "title": "Honor 600S 5G Tanıtıldı: 8.100 mAh Batarya ile Geliyor",
+        "link": "https://shiftdelete.net/honor-600s-5g-tanitildi",
+        "description": "Honor 600S 5G, 8.100 mAh bataryası ve IP69K dayanıklılık sertifikasıyla tanıtıldı. İşte Snapdragon 4 Gen 4 işlemcili yeni telefonun özellikleri.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T17:09:06+00:00"
+      },
+      {
+        "title": "Artie (YC S23) Is Hiring Technical AES",
+        "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+        "description": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1 Comments URL: https://news.ycombinator.com/item?id=49500471 Points: 0 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-30T17:01:56+00:00"
+      },
+      {
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+        "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his...",
+        "source": "TechCrunch",
+        "published": "2026-08-30T16:54:25+00:00"
+      },
+      {
+        "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+        "link": "https://komoroske.com/slime-mold/",
+        "description": "Article URL: https://komoroske.com/slime-mold/ Comments URL: https://news.ycombinator.com/item?id=49499891 Points: 37 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-08-30T16:03:17+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+        "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch",
+        "published": "2026-08-30T16:03:00+00:00"
+      },
+      {
+        "title": "Haiku R1/beta6 has been released",
+        "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+        "description": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 104 # Comments: 24",
+        "source": "HackerNews",
+        "published": "2026-08-30T16:01:10+00:00"
+      },
+      {
+        "title": "Oyun Arkadaşı MicroDuck Robot Satış Rekorları Kırıyor",
+        "link": "https://shiftdelete.net/microduck-robotu-satis-rekorlari-kiriyor",
+        "description": "Hugging Face bünyesindeki Pollen Robotics tarafından geliştirilen MicroDuck robotu, satışa çıktığı ilk 24 saatte 2.6 milyar dolarlık satışa ulaştı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T16:00:51+00:00"
+      },
+      {
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "link": "https://0xcc.io/posts/omarchy-root-creds/",
+        "description": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 189 # Comments: 180",
+        "source": "HackerNews",
+        "published": "2026-08-30T15:59:49+00:00"
+      },
+      {
+        "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+        "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+        "description": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement Comments URL: https://news.ycombinator.com/item?id=49499394 Points: 167 # Comments: 55",
+        "source": "HackerNews",
+        "published": "2026-08-30T15:12:40+00:00"
+      },
+      {
+        "title": "Claude Code Kullanıcılarına Müjde: Limitler Artıyor",
+        "link": "https://shiftdelete.net/claude-code-haftalik-kullanim-limitleri-artiriliyor",
+        "description": "Anthropic, Claude Code haftalık kullanım limitlerini Pro ve Team gibi planlar için kalıcı olarak %25 oranında artırıyor. Detaylar haberimizde.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T15:00:45+00:00"
+      },
+      {
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "source": "TechCrunch",
+        "published": "2026-08-30T15:00:00+00:00"
+      },
+      {
+        "title": "Zig: Pointer Stability for ArrayLists",
+        "link": "https://ziglang.org/devlog/2026/#2026-08-27",
+        "description": "Article URL: https://ziglang.org/devlog/2026/#2026-08-27 Comments URL: https://news.ycombinator.com/item?id=49499095 Points: 34 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-08-30T14:41:53+00:00"
+      },
+      {
+        "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+        "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+        "description": "Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/ Comments URL: https://news.ycombinator.com/item?id=49498978 Points: 124 # Comments: 125",
+        "source": "HackerNews",
+        "published": "2026-08-30T14:29:25+00:00"
+      },
+      {
+        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+        "link": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+        "description": "Article URL: https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/ Comments URL: https://news.ycombinator.com/item?id=49498787 Points: 50 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-08-30T14:06:54+00:00"
+      },
       {
         "title": "Valve’ın Verileri Sızdı: Half Life ve Portal’ın Yayınlanmayan Sürümleri Bulundu",
         "link": "https://shiftdelete.net/valve-12-tb-veri-sizintisi",
@@ -33,23 +145,23 @@
       {
         "title": "Claude Session URL appended to commit messages and PR descriptions by default",
         "link": "https://github.com/anthropics/claude-code/issues/66504",
-        "description": "Article URL: https://github.com/anthropics/claude-code/issues/66504 Comments URL: https://news.ycombinator.com/item?id=49498201 Points: 84 # Comments: 95",
+        "description": "Article URL: https://github.com/anthropics/claude-code/issues/66504 Comments URL: https://news.ycombinator.com/item?id=49498201 Points: 122 # Comments: 144",
         "source": "HackerNews",
         "published": "2026-08-30T12:50:54+00:00"
       },
       {
-        "title": "No AI Fridays",
-        "link": "https://noaifridays.com/",
-        "description": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 27 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-08-30T12:31:05+00:00"
+        "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+        "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+        "description": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From...",
+        "source": "The Verge",
+        "published": "2026-08-30T12:36:39-04:00"
       },
       {
-        "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-        "link": "https://github.com/fugue-labs/monty-go",
-        "description": "Article URL: https://github.com/fugue-labs/monty-go Comments URL: https://news.ycombinator.com/item?id=49497928 Points: 24 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-30T12:02:09+00:00"
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+        "description": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on...",
+        "source": "The Verge",
+        "published": "2026-08-30T12:14:46-04:00"
       },
       {
         "title": "Rockstar Games’in Dev Projesi GTA 6’nın Maliyeti Ne Kadar?",
@@ -59,27 +171,6 @@
         "published": "2026-08-30T12:00:28+00:00"
       },
       {
-        "title": "Automating Immersive Reading",
-        "link": "https://smoores.dev/post/automating_immersive_reading/",
-        "description": "Article URL: https://smoores.dev/post/automating_immersive_reading/ Comments URL: https://news.ycombinator.com/item?id=49497854 Points: 27 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-08-30T11:46:23+00:00"
-      },
-      {
-        "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-        "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-        "description": "Article URL: https://www.muppetlabs.com/~breadbox/software/windows.html Comments URL: https://news.ycombinator.com/item?id=49497819 Points: 26 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-08-30T11:41:40+00:00"
-      },
-      {
-        "title": "Hacking IKEA Furniture",
-        "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-        "description": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/ Comments URL: https://news.ycombinator.com/item?id=49497810 Points: 81 # Comments: 28",
-        "source": "HackerNews",
-        "published": "2026-08-30T11:39:43+00:00"
-      },
-      {
         "title": "WhatsApp’ta Dolandırıcılık Dönemi Sona Eriyor: İşte Yeni Özelliğin Detayları",
         "link": "https://shiftdelete.net/whatsapp-dolandiricilik-uyarisi-ozelligi",
         "description": "WhatsApp dolandırıcılık uyarısı özelliği, Android beta kullanıcıları için yayında. Bilinmeyen numaralardan gelen şüpheli mesajları nasıl engeller?",
@@ -87,67 +178,11 @@
         "published": "2026-08-30T11:00:23+00:00"
       },
       {
-        "title": "İlk Seri Üretim HÜRJET Havalandı",
-        "link": "https://shiftdelete.net/ilk-seri-uretim-hurjet-havalandi",
-        "description": "Türkiye’nin ilk milli jet eğitim uçağı HÜRJET projesinde seri üretim açısından önemli bir aşama daha geride bırakıldı. Türk Havacılık ve Uzay Sanayii (TUSAŞ) tarafından üretilen ve Türk Hava Kuvvetleri Komutanlığına teslim edilecek ilk seri üretim...",
-        "source": "ShiftDelete",
-        "published": "2026-08-30T10:30:08+00:00"
-      },
-      {
-        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-        "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-        "description": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 41 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-08-30T10:20:11+00:00"
-      },
-      {
-        "title": "Spark: Sparklines in your shell",
-        "link": "https://git.zx2c4.com/spark/about/",
-        "description": "Article URL: https://git.zx2c4.com/spark/about/ Comments URL: https://news.ycombinator.com/item?id=49497265 Points: 46 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-08-30T10:02:16+00:00"
-      },
-      {
-        "title": "GTA 6 Sızıntılarını Yapan Kişi 250 Bin Dolarlık Kripto Vurgunu Yaptı",
-        "link": "https://shiftdelete.net/gta-6-sizintilarini-yapan-kisi-kripto-vurgunu",
-        "description": "GTA 6 sızıntılarını yapan kişi, Rockstar'ın resmi duyurusundan önce 250 bin dolarlık CYBERLEEK kripto para vurgunu yaparak ortadan kayboldu.",
-        "source": "ShiftDelete",
-        "published": "2026-08-30T10:00:17+00:00"
-      },
-      {
-        "title": "Brits would quite like their private messages to stay private",
-        "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-        "description": "Article URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994 Comments URL: https://news.ycombinator.com/item?id=49497063 Points: 232 # Comments: 159",
-        "source": "HackerNews",
-        "published": "2026-08-30T09:26:08+00:00"
-      },
-      {
-        "title": "Poco X8 ve X8 Power’ın Fiyatları Belli Oldu",
-        "link": "https://shiftdelete.net/poco-x8-ve-x8-power-fiyat-sizintisi",
-        "description": "Poco X8 fiyat sızıntısı ile yeni modellerin maliyetleri ortaya çıktı. Poco X8 ve X8 Power hakkında merak edilen tüm detaylar haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-08-30T09:00:51+00:00"
-      },
-      {
         "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
         "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
         "description": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per...",
         "source": "The Verge",
         "published": "2026-08-30T09:00:30-04:00"
-      },
-      {
-        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-        "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-        "description": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 116 # Comments: 47",
-        "source": "HackerNews",
-        "published": "2026-08-30T08:51:39+00:00"
-      },
-      {
-        "title": "GTA 6 Netflix’te Rekor Kırdı: Rakamlar Akıl Almıyor",
-        "link": "https://shiftdelete.net/gta-6-netflix-tanitimi-rekor-kirdi",
-        "description": "GTA 6 Netflix tanıtımı, platformda büyük bir ilgiyle karşılandı. Sensor Tower verilerine göre web trafiği %125 arttı. Detaylar haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-08-30T08:00:15+00:00"
       },
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -218,27 +253,6 @@
         "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
         "source": "TechCrunch",
         "published": "2026-08-28T23:24:27+00:00"
-      },
-      {
-        "title": "Is the best way to watch a movie on a pair of sunglasses?",
-        "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-        "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
-        "source": "TechCrunch",
-        "published": "2026-08-28T22:42:48+00:00"
-      },
-      {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-        "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-        "source": "TechCrunch",
-        "published": "2026-08-28T20:24:11+00:00"
-      },
-      {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-        "source": "TechCrunch",
-        "published": "2026-08-28T19:30:38+00:00"
       },
       {
         "title": "Tek Örnek Ferrari 599 GTB Shooting Brake Açık Artırmaya Çıkıyor: Fiyat 650 Bin Euroya Kadar Çıkabilir!",
@@ -318,13 +332,6 @@
         "published": "2026-08-28T15:21:40-04:00"
       },
       {
-        "title": "Musicians-turned-detectives are hunting for AI grifters",
-        "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-        "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of...",
-        "source": "The Verge",
-        "published": "2026-08-28T15:10:32-04:00"
-      },
-      {
         "title": "Samsung, Yeni Oyuncu Monitörlerini Tanıtttı: 1100 Hz'lik Monitör Var!",
         "link": "\n                    https://www.webtekno.com/samsung-yeni-oyuncu-monitorleri-tanitti-h223189.html\n                    ",
         "description": "Samsung, yepyeni Odyssey oyuncu monitörlerini tanıttı.",
@@ -339,13 +346,6 @@
         "published": "2026-08-28T13:20:08-04:00"
       },
       {
-        "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-        "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-        "description": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted...",
-        "source": "The Verge",
-        "published": "2026-08-28T11:26:51-04:00"
-      },
-      {
         "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
         "link": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
         "description": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of...",
@@ -354,6 +354,69 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+        "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+        "description": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+        "source": "BBC News",
+        "published": "2026-08-30T16:48:13+00:00"
+      },
+      {
+        "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
+        "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+        "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+        "source": "BBC News",
+        "published": "2026-08-30T16:48:02+00:00"
+      },
+      {
+        "title": "Woman injured in fatal police pursuit crash dies",
+        "link": "https://www.bbc.co.uk/news/articles/c62jzxn1klgo?at_medium=RSS&at_campaign=rss",
+        "description": "She had been driving a car which was involved in a collision with an Audi being chased by police.",
+        "source": "BBC News",
+        "published": "2026-08-30T16:46:11+00:00"
+      },
+      {
+        "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+        "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+        "source": "BBC News",
+        "published": "2026-08-30T16:30:05+00:00"
+      },
+      {
+        "title": "British woman killed in stabbing at German railway station",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+        "source": "BBC News",
+        "published": "2026-08-30T16:11:46+00:00"
+      },
+      {
+        "title": "Iceland votes against restarting EU membership talks",
+        "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+        "source": "BBC News",
+        "published": "2026-08-30T16:11:44+00:00"
+      },
+      {
+        "title": "\"A giant leap forward\": Nasa launches powerful new space telescope to explore mysteries of the Universe",
+        "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+        "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+        "source": "BBC News",
+        "published": "2026-08-30T15:28:08+00:00"
+      },
+      {
+        "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+        "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+        "description": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump,...",
+        "source": "The Guardian",
+        "published": "2026-08-30T15:08:33+00:00"
+      },
+      {
+        "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+        "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+        "description": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the...",
+        "source": "The Guardian",
+        "published": "2026-08-30T14:55:55+00:00"
+      },
       {
         "title": "Police release one of two men arrested over fatal house fire",
         "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
@@ -367,13 +430,6 @@
         "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
         "source": "BBC News",
         "published": "2026-08-30T11:46:07+00:00"
-      },
-      {
-        "title": "British woman killed in stabbing at German railway station",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-        "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-        "source": "BBC News",
-        "published": "2026-08-30T11:34:48+00:00"
       },
       {
         "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
@@ -397,13 +453,6 @@
         "published": "2026-08-30T08:45:00-04:00"
       },
       {
-        "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
-        "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
-        "source": "BBC News",
-        "published": "2026-08-30T07:58:31+00:00"
-      },
-      {
         "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
         "link": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
         "description": "While social media is rife with AI celebrity deepfakes, videos featuring late night TV hosts like Jimmy Kimmel and Jon Stewart are are easier to create than other kinds of deepfakes and potentially more disruptive.",
@@ -411,18 +460,11 @@
         "published": "2026-08-30T07:00:00-04:00"
       },
       {
-        "title": "NASA has successfully launched its newest space telescope",
+        "title": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
         "link": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
         "description": "The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.",
         "source": "NPR",
         "published": "2026-08-30T06:30:00-04:00"
-      },
-      {
-        "title": "We all share a 15-acre Georgian mansion for the price of a two-bed house",
-        "link": "https://www.bbc.co.uk/news/articles/cg7mglglvmgo?at_medium=RSS&at_campaign=rss",
-        "description": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house.",
-        "source": "BBC News",
-        "published": "2026-08-30T06:04:28+00:00"
       },
       {
         "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
@@ -467,18 +509,11 @@
         "published": "2026-08-30T04:32:13-04:00"
       },
       {
-        "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
+        "title": "We tested how AI chatbots would handle foreign propaganda. They did surprisingly well",
         "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
         "description": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
         "source": "NPR",
         "published": "2026-08-30T03:00:00-04:00"
-      },
-      {
-        "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
-        "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
-        "description": "Footage of the flash floods have become almost impossible to find on China’s heavily censored internet.",
-        "source": "BBC News",
-        "published": "2026-08-29T17:42:41+00:00"
       },
       {
         "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
@@ -488,32 +523,11 @@
         "published": "2026-08-29T10:00:24+00:00"
       },
       {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-        "source": "BBC News",
-        "published": "2026-08-29T03:54:11+00:00"
-      },
-      {
         "title": "Trump announces new US oil agreement with Venezuela",
         "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
         "description": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn...",
         "source": "The Guardian",
         "published": "2026-08-28T23:34:36+00:00"
-      },
-      {
-        "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-        "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-        "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
-        "source": "BBC News",
-        "published": "2026-08-28T21:17:54+00:00"
-      },
-      {
-        "title": "What we know about the 33 British nationals missing in Nepal",
-        "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-        "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
-        "source": "BBC News",
-        "published": "2026-08-28T19:21:57+00:00"
       },
       {
         "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
@@ -523,25 +537,11 @@
         "published": "2026-08-28T17:41:37+00:00"
       },
       {
-        "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
-        "link": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
-        "description": "Remnants from tropical storm could cause heavy rainfall on Leeward Islands and affect Virgin Islands, Puerto Rico and Hispaniola Remnants of Tropical Storm Dolly, which has been downgraded to an “open tropical wave”, were moving still across the...",
-        "source": "The Guardian",
-        "published": "2026-08-28T15:23:18+00:00"
-      },
-      {
         "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
         "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
         "description": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a...",
         "source": "The Guardian",
         "published": "2026-08-28T14:46:25+00:00"
-      },
-      {
-        "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-        "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-        "description": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian...",
-        "source": "The Guardian",
-        "published": "2026-08-28T11:00:56+00:00"
       },
       {
         "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
@@ -567,53 +567,116 @@
     ],
     "turkiye": [
       {
-        "title": "Fatih'te bir aileyi yok eden dehşet: 2 ölü 1 intihar",
-        "link": "https://www.sozcu.com.tr/fatih-te-bir-aileyi-yok-eden-dehset-2-olu-1-intihar-p353966",
-        "description": "Fatih'te bir aileyi yok eden dehşet: 2 ölü 1 intihar",
+        "title": "83 yıl sonra denizin dibinde bulundu",
+        "link": "https://www.sozcu.com.tr/83-yil-sonra-denizin-dibinde-bulundu-p354004",
+        "description": "83 yıl sonra denizin dibinde bulundu",
         "source": "Sözcü",
-        "published": "2026-08-30T17:38:33+03:00"
+        "published": "2026-08-30T21:24:33+03:00"
       },
       {
-        "title": "Girne yolcu gemisinde son durum: Girne'de ne oldu, gemi neden battı? Girne yolcu gemisinde ölü var mı?",
-        "link": "https://www.ntv.com.tr/turkiye/girne-aciklarinda-feribot-faciasi-7-kisiyi-yasamini-yitirdi-23-kisi-araniyor-237-yolcu-kurtarildi-1739590",
-        "description": "Girne'de yolcu gemisinin alabora olmasıyla ilgili gündemden son dakika haberleri ve yeni gelişmeler gelmeye devam ediyor. Girne'den Taşucu'na gitmek üzere hareket eden ve içinde 200'den fazla kişinin bulunduğu katamaran tipi Türk yolcu gemisi,...",
+        "title": "84 kişiyi hastanelik eden düğün",
+        "link": "https://www.sozcu.com.tr/84-kisiyi-hastanelik-eden-dugun-p354003",
+        "description": "84 kişiyi hastanelik eden düğün",
+        "source": "Sözcü",
+        "published": "2026-08-30T21:17:05+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan, KKTC Cumhurbaşkanı Erhürman ile telefonda görüştü",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kktc-cumhurbaskani-erhurman-ile-telefonda-gorustu-1739624",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, KKTC Cumhurbaşkanı Tufan Erhürman ve Başbakanı Ünal Üstel ile telefonda görüştü.",
         "source": "NTV",
-        "published": "2026-08-30T17:36:15+03:00"
+        "published": "2026-08-30T21:10:50+03:00"
       },
       {
-        "title": "Göztepe'nin öfkesi dinmedi, peş peşe paylaşımlar",
-        "link": "https://www.sozcu.com.tr/goztepe-nin-ofkesi-dinmedi-pes-pese-paylasimlar-p353968",
-        "description": "Göztepe'nin öfkesi dinmedi, peş peşe paylaşımlar",
+        "title": "Eyüpspor 90+4'te havalara uçtu",
+        "link": "https://www.sozcu.com.tr/eyupspor-90-4-te-havalara-uctu-p354002",
+        "description": "Eyüpspor 90+4'te havalara uçtu",
         "source": "Sözcü",
-        "published": "2026-08-30T17:30:52+03:00"
+        "published": "2026-08-30T21:10:21+03:00"
       },
       {
-        "title": "Dev savaş gemisinde sona gelindi: Denizin ortasında hava üssü gibi çalışacak",
-        "link": "https://www.sozcu.com.tr/dev-savas-gemisinde-sona-gelindi-denizin-ortasinda-hava-ussu-gibi-calisacak-p353967",
-        "description": "Dev savaş gemisinde sona gelindi: Denizin ortasında hava üssü gibi çalışacak",
+        "title": "ABD'nin alıkoyduğu Maduro’dan aylar sonra iki yeni fotoğraf",
+        "link": "https://www.sozcu.com.tr/abd-nin-alikoydugu-maduro-dan-aylar-sonra-iki-yeni-fotograf-p354001",
+        "description": "ABD'nin alıkoyduğu Maduro’dan aylar sonra iki yeni fotoğraf",
         "source": "Sözcü",
-        "published": "2026-08-30T17:30:20+03:00"
+        "published": "2026-08-30T21:05:14+03:00"
       },
       {
-        "title": "Savaş çıkınca servetini toprağa gömmüştü: 15 bin sikke yıllar sonra bulundu",
-        "link": "https://www.sozcu.com.tr/savas-cikinca-binlerce-sikkeyi-topraga-gommustu-tek-bir-tanesi-3-milyon-dolara-satildi-p353961",
-        "description": "Savaş çıkınca servetini toprağa gömmüştü: 15 bin sikke yıllar sonra bulundu",
+        "title": "Belediye Başkanı duyurdu: Salah'ın adı oturduğu caddeye verilecek",
+        "link": "https://www.sozcu.com.tr/belediye-baskani-duyurdu-salah-in-adi-oturdugu-caddeye-verilecek-p354000",
+        "description": "Belediye Başkanı duyurdu: Salah'ın adı oturduğu caddeye verilecek",
         "source": "Sözcü",
-        "published": "2026-08-30T17:18:48+03:00"
+        "published": "2026-08-30T20:52:09+03:00"
       },
       {
-        "title": "THY’de büyük skandal: Pilotun alkollü olduğu kalkışa 5 dakika kala fark edildi",
-        "link": "https://www.sozcu.com.tr/thy-de-buyuk-skandal-pilotun-alkollu-oldugu-kalkisa-5-dakika-kala-fark-edildi-p353959",
-        "description": "THY’de büyük skandal: Pilotun alkollü olduğu kalkışa 5 dakika kala fark edildi",
+        "title": "Arda Güler 4 dakikada Mourinho'yu şoke etti",
+        "link": "https://www.sozcu.com.tr/arda-guler-4-dakikada-mourinho-yu-soke-etti-p353995",
+        "description": "Arda Güler 4 dakikada Mourinho'yu şoke etti",
         "source": "Sözcü",
-        "published": "2026-08-30T17:16:37+03:00"
+        "published": "2026-08-30T20:45:21+03:00"
       },
       {
-        "title": "Toprak Razgatlıoğlu bitime 3 tur kala motorundan düştü",
-        "link": "https://www.sozcu.com.tr/toprak-razgatlioglu-bitime-3-tur-kala-motorundan-dustu-p353960",
-        "description": "Toprak Razgatlıoğlu bitime 3 tur kala motorundan düştü",
+        "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1739623",
+        "description": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+        "source": "NTV",
+        "published": "2026-08-30T20:42:53+03:00"
+      },
+      {
+        "title": "Türk marketlerinde satılıyordu: 4 litrelik yağlarda kanserojen madde tespit edildi",
+        "link": "https://www.sozcu.com.tr/turk-marketlerinde-satiliyordu-4-litrelik-yaglarda-kanserojen-madde-tespit-edildi-p353999",
+        "description": "Türk marketlerinde satılıyordu: 4 litrelik yağlarda kanserojen madde tespit edildi",
         "source": "Sözcü",
-        "published": "2026-08-30T17:15:06+03:00"
+        "published": "2026-08-30T20:42:08+03:00"
+      },
+      {
+        "title": "Bir devrin futbol efsanesi artık bastonla bile zor yürüyor",
+        "link": "https://www.sozcu.com.tr/bir-devrin-futbol-efsanesi-artik-bastonla-bile-zor-yuruyor-p353998",
+        "description": "Bir devrin futbol efsanesi artık bastonla bile zor yürüyor",
+        "source": "Sözcü",
+        "published": "2026-08-30T20:41:33+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: KKTC ile işbirliği içindeyiz",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kktc-ile-isbirligi-icindeyiz-1739616",
+        "description": "Cumhurbaşkanı Erdoğan, Kıbrıs'taki feribot faciasına dair ''Kayıplara ulaşmaya yönelik çalışmalar aralıksız devam ediyor. Çalışmalardan olumlu haber almayı ümit ediyoruz.\" dedi.",
+        "source": "NTV",
+        "published": "2026-08-30T20:39:30+03:00"
+      },
+      {
+        "title": "Beşiktaş'tan Hadziahmetovic kararı, resmen açıklandı",
+        "link": "https://www.sozcu.com.tr/besiktas-tan-hadziahmetovic-karari-resmen-aciklandi-p353996",
+        "description": "Beşiktaş'tan Hadziahmetovic kararı, resmen açıklandı",
+        "source": "Sözcü",
+        "published": "2026-08-30T20:36:12+03:00"
+      },
+      {
+        "title": "Güzellik merkezindeki gizli kamera skandalında 1 zanlı daha tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/guzellik-merkezinde-izinsiz-goruntu-kaydi-iddiasina-iliskin-1-zanli-daha-tutuklandi-1739619",
+        "description": "Bakırköy'deki bir güzellik merkezinde müşterilere ait görüntülerin gizlice kaydedilerek ücret karşılığında izletildiği iddiasına ilişkin soruşturma kapsamında 1 şüpheli daha tutuklandı.",
+        "source": "NTV",
+        "published": "2026-08-30T20:11:36+03:00"
+      },
+      {
+        "title": "Diş çürümesi tarihe karışabilir: Yeni jel sürülür sürülmez dişi onarmaya başlıyor",
+        "link": "https://www.sozcu.com.tr/dis-curumesi-tarihe-karisabilir-yeni-jel-surulur-surulmez-disi-onarmaya-basliyor-p353992",
+        "description": "Diş çürümesi tarihe karışabilir: Yeni jel sürülür sürülmez dişi onarmaya başlıyor",
+        "source": "Sözcü",
+        "published": "2026-08-30T20:06:25+03:00"
+      },
+      {
+        "title": "Batman'da spor salonunda çıkan yangında 2 kişi öldü, 10 kişi yaralandı",
+        "link": "https://www.ntv.com.tr/turkiye/batmanda-spor-salonunda-cikan-yanginda-2-kisi-oldu-10-kisi-yaralandi-1739618",
+        "description": "Batman'da spor salonunda çıkan yangında 2 kişi hayatını kaybetti, 1'i ağır, 10 kişi yaralandı.",
+        "source": "NTV",
+        "published": "2026-08-30T19:24:56+03:00"
+      },
+      {
+        "title": "Girne açıklarında yolcu feribotu battı: En az 8 yolcu öldü, 19 kayıp var",
+        "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
+        "description": "Kıbrıs'ın kuzeyinde Girne açıklarında bir yolcu feribotu, limandan ayrıldıktan kısa bir süre sonra alabora oldu. Feribotta 259 yolcu ve sekiz mürettebat bulunuyordu. Kaptan ve yedi mürettebat gözaltına alındı.",
+        "source": "BBC Turkish",
+        "published": "2026-08-30T18:17:16+00:00"
       },
       {
         "title": "Sarıkamış’a yağan dolu yolları beyaza bürüdü",
@@ -630,13 +693,6 @@
         "published": "2026-08-30T16:58:16+03:00"
       },
       {
-        "title": "30 Ağustos töreninde ön koltuk krizi! Belediye başkanı ile protokol müdürü birbirine girdi",
-        "link": "https://www.sozcu.com.tr/30-agustos-toreninde-on-koltuk-krizi-belediye-baskani-ile-protokol-muduru-birbirine-girdi-p353954",
-        "description": "30 Ağustos töreninde ön koltuk krizi! Belediye başkanı ile protokol müdürü birbirine girdi",
-        "source": "Sözcü",
-        "published": "2026-08-30T16:57:13+03:00"
-      },
-      {
         "title": "Kıbrıs'ta batan yolcu feribotundan kurtarıldı, yaşananları anlattı. \"Gemi su alıyor diye söyledik\"",
         "link": "https://www.ntv.com.tr/turkiye/galeri-kibrista-batan-yolcu-feribotundan-kurtarildi-yasananlari-anlatti-gemi-su-aliyor-diye-soyledik-1739609",
         "description": "Kuzey Kıbrıs Türk Cumhuriyeti'nin Girne kenti açıklarında batan yolcu feribotundan kurtulanlar, yaşananları anlattı.",
@@ -644,25 +700,11 @@
         "published": "2026-08-30T16:51:11+03:00"
       },
       {
-        "title": "Trabzonspor'un kafilesi açıklandı! Fabinho ilk kez kadroda",
-        "link": "https://www.sozcu.com.tr/trabzonspor-un-kafilesi-aciklandi-fabinho-ilk-kez-kadroda-p353956",
-        "description": "Trabzonspor'un kafilesi açıklandı! Fabinho ilk kez kadroda",
-        "source": "Sözcü",
-        "published": "2026-08-30T16:45:50+03:00"
-      },
-      {
-        "title": "Tümgeneralin Anıtkabir'de İstiklal Marşı'nı gür sesle okuması tüyleri diken diken etti",
-        "link": "https://www.sozcu.com.tr/tumgeneralin-anitkabir-de-istiklal-marsi-ni-gur-sesle-okumasi-tuyleri-diken-diken-etti-p353955",
-        "description": "Tümgeneralin Anıtkabir'de İstiklal Marşı'nı gür sesle okuması tüyleri diken diken etti",
-        "source": "Sözcü",
-        "published": "2026-08-30T16:43:54+03:00"
-      },
-      {
-        "title": "Fenerbahçe istiyordu! Acun Ilıcalı transferi bitiriyor",
-        "link": "https://www.sozcu.com.tr/fenerbahce-istiyordu-acun-ilicali-transferi-bitiriyor-p353950",
-        "description": "Fenerbahçe istiyordu! Acun Ilıcalı transferi bitiriyor",
-        "source": "Sözcü",
-        "published": "2026-08-30T15:56:45+03:00"
+        "title": "İzlandalılar AB üyeliği planını reddetti",
+        "link": "https://www.bbc.com/turkce/articles/cy7zd1vnjedo?at_medium=RSS&at_campaign=rss",
+        "description": "İzlandalılar, Avrupa Birliği ile üyelik müzakerelerinin yeniden başlatılması için yapılan referandumda \"Hayır\" dedi. Hükümetin Brüksel ile üyelik müzakereleri başlatma planı yüzde 5,5'ten fazla bir farkla reddedildi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-30T16:23:05+00:00"
       },
       {
         "title": "Girne açıklarında katamaran tipi Türk yolcu gemisi alabora oldu. İşte ilk görüntüler",
@@ -679,46 +721,25 @@
         "published": "2026-08-30T15:44:08+03:00"
       },
       {
-        "title": "Kazdağı Milli Parkı'ndaki orman yangını kontrol altında",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kazdagi-milli-parkindaki-orman-yangini-kontrol-altinda-1739586",
-        "description": "Balıkesir'in Edremit ilçesinde zeytinlikte çıkan ve Kazdağı Milli Parkı'ndaki ormana sıçrayan yangın bir saatte kontrol altına alınarak söndürüldü.",
-        "source": "NTV",
-        "published": "2026-08-30T14:13:22+03:00"
-      },
-      {
-        "title": "Mekke İşbirliği Anlaşması kapsamında kurulan komitenin ilk toplantısı yarın İstanbul'da yapılacak",
-        "link": "https://www.ntv.com.tr/turkiye/mekke-isbirligi-anlasmasi-kapsaminda-kurulan-komitenin-ilk-toplantisi-yarin-istanbulda-yapilacak-1739584",
-        "description": "Mekke İşbirliği anlaşması kapsamında kurulan komitenin ilk toplantısı yarın İstanbul'da düzenlenecek.",
-        "source": "NTV",
-        "published": "2026-08-30T13:12:15+03:00"
-      },
-      {
-        "title": "Girne açıklarında bir yolcu gemisi alabora oldu: '7 kişi hayatını kaybetti, 23 kişi aranıyor'",
-        "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
-        "description": "Kıbrıs'ın kuzeyinde Girne açıklarında bir yolcu gemisi, limandan ayrıldıktan kısa bir süre sonra henüz belirlenemeyen bir sebepten dolayı alabora oldu. Gemide 259 yolcu ve 8 mürettebat bulunuyordu.",
+        "title": "Nepal'de okul müdürünün kararı 900 öğrenciyi selden kurtardı",
+        "link": "https://www.bbc.com/turkce/articles/c86xwx7eq5zo?at_medium=RSS&at_campaign=rss",
+        "description": "Nepal'de selden ağır hasar gören bir okulun müdürü, yaklaşık 900 öğrenciyi güvenli bir yere tahliye ederek kurtulmalarını sağladı.",
         "source": "BBC Turkish",
-        "published": "2026-08-30T12:54:49+00:00"
+        "published": "2026-08-30T15:35:20+00:00"
+      },
+      {
+        "title": "Nepal-Tibet'teki sel felaketinde can kaybı 800'ü aştı",
+        "link": "https://www.bbc.com/turkce/articles/c9803mv5nlmo?at_medium=RSS&at_campaign=rss",
+        "description": "Yerel yetkililerin açıklamasına göre, 26 Ağustos Çarşamba günü meydana gelen ani sel felaketinin ardından Nepal'de en az 794 kişi hayatını kaybetti, 2.500'den fazla kişi de kayıp. Tibet'te ise resmi verilere göre 16 ölüm ve 546 kayıp bildirildi.",
+        "source": "BBC Turkish",
+        "published": "2026-08-30T14:50:29+00:00"
       },
       {
         "title": "Mehdi Zana için Diyarbakır'da cenaze töreni",
         "link": "https://www.bbc.com/turkce/articles/cz6zl7jz1gzo?at_medium=RSS&at_campaign=rss",
-        "description": "Seksen beş yaşında hayatını kaybeden Kürt siyasetinin tanınan isimlerinden ve eski Diyarbakır Belediye Başkanı Mehdi Zana toprağa verildi.",
+        "description": "Seksen beş yaşında hayatını kaybeden Kürt siyasetinin tanınan isimlerinden ve eski Diyarbakır Belediye Başkanı Mehdi Zana cenaze töreninin ardından toprağa verildi.",
         "source": "BBC Turkish",
         "published": "2026-08-30T12:48:17+00:00"
-      },
-      {
-        "title": "Dron saldırısına uğrayan gemi Samsun’da karaya oturdu",
-        "link": "https://www.ntv.com.tr/turkiye/dron-saldirisina-ugrayan-gemi-samsunda-karaya-oturdu-1739579",
-        "description": "Sinop açıklarında dron saldırısına uğradığı belirtilen ve 21 kişilik mürettebatı tahliye edilen gemi, sürüklenerek Samsun’un Alaçam ilçesinde karaya oturdu.",
-        "source": "NTV",
-        "published": "2026-08-30T12:34:16+03:00"
-      },
-      {
-        "title": "Hava Kuvvetleri’ne teslim edilecek ilk HÜRJET uçtu",
-        "link": "https://www.ntv.com.tr/turkiye/hava-kuvvetlerine-teslim-edilecek-ilk-hurjet-uctu-1739573",
-        "description": "Hava Kuvvetleri Komutanlığına teslim edilecek ilk HÜRJET, 30 Ağustos Zafer Bayramı’nda ilk uçuşunu gerçekleştirdi. Uçak, 18 dakika havada kaldı.",
-        "source": "NTV",
-        "published": "2026-08-30T12:21:47+03:00"
       },
       {
         "title": "NASA yeni teleskobunu fırlattı: Evren anlayışımızı yeniden yazabilir",
@@ -742,27 +763,6 @@
         "published": "2026-08-30T10:40:39+00:00"
       },
       {
-        "title": "Nepal-Tibet'teki sel felaketinde can kaybı 750'yi aştı, arazi koşulları yardım ulaştırmayı zorlaştırıyor",
-        "link": "https://www.bbc.com/turkce/articles/c9803mv5nlmo?at_medium=RSS&at_campaign=rss",
-        "description": "Yerel yetkililerin açıklamasına göre, 26 Ağustos Çarşamba günü meydana gelen ani sel felaketinin ardından Nepal'de en az 752 kişi hayatını kaybetti, 2.500'den fazla kişi de kayıp.",
-        "source": "BBC Turkish",
-        "published": "2026-08-30T10:21:50+00:00"
-      },
-      {
-        "title": "İzlandalılar AB üyeliği için müzakerelerin başlatılması planını reddetti",
-        "link": "https://www.bbc.com/turkce/articles/cy7zd1vnjedo?at_medium=RSS&at_campaign=rss",
-        "description": "İzlandalılar, Avrupa Birliği ile üyelik müzakerelerinin yeniden başlatılması için yapılan referandumda \"Hayır\" dedi. Hükümetin Brüksel ile üyelik müzakereleri başlatma planı yüzde 5,5'ten fazla bir farkla reddedildi.",
-        "source": "BBC Turkish",
-        "published": "2026-08-30T09:56:27+00:00"
-      },
-      {
-        "title": "İkiz rahipler ve ikiz kilise görevlilerinin yönettiği düğünle evlenen ikiz çiftler Hindistan'da viral oldu",
-        "link": "https://www.bbc.com/turkce/articles/cp93zm7npeno?at_medium=RSS&at_campaign=rss",
-        "description": "Hindistan'da iki ayrı ikiz kardeşlerin yer aldığı bir düğün fotoğrafı viral oldu. Fotoğrafta ikiz erkek kardeşlerin ikiz kız kardeşlerle evlendiği, töreni ikiz rahiplerin yönettiği ve ikiz kilise görevlisi çocukların yardımcı olduğu görülüyor....",
-        "source": "BBC Turkish",
-        "published": "2026-08-30T08:58:45+00:00"
-      },
-      {
         "title": "Füceyre nerede ve İran ile BAE arasında neden gerilime yol açtı?",
         "link": "https://www.bbc.com/turkce/articles/c99dvg31d3mo?at_medium=RSS&at_campaign=rss",
         "description": "Füceyre, BAE'nin petrolünün bir kısmını Hürmüz Boğazı'ndan geçirmeden ihraç etmesi bakımından hayati bir güzergâh işlevi görüyor. Fakat İran'ın savaşı tam da bu avantajın limanı ve altyapısını aynı zamanda daha savunmasız hale getirebileceğini...",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8615
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+74°F",
-    "wind": "↑4mph",
-    "humidity": "85%"
+    "condition": "Kapalı",
+    "temp": "+87°F",
+    "wind": "↑6mph",
+    "humidity": "53%"
   }
 }
