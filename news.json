@@ -1,48 +1,111 @@
 {
-  "updated_at": "2026-08-30T03:56:06.939171+00:00",
+  "updated_at": "2026-08-30T09:48:36.109900+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+        "title": "Brits would quite like their private messages to stay private",
+        "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+        "description": "Article URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994 Comments URL: https://news.ycombinator.com/item?id=49497063 Points: 3 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-08-30T09:26:08+00:00"
+      },
+      {
+        "title": "Poco X8 ve X8 Power’ın Fiyatları Belli Oldu",
+        "link": "https://shiftdelete.net/poco-x8-ve-x8-power-fiyat-sizintisi",
+        "description": "Poco X8 fiyat sızıntısı ile yeni modellerin maliyetleri ortaya çıktı. Poco X8 ve X8 Power hakkında merak edilen tüm detaylar haberimizde.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T09:00:51+00:00"
+      },
+      {
+        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+        "description": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-30T08:51:39+00:00"
+      },
+      {
+        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "link": "https://arxiv.org/abs/1804.07389",
+        "description": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 20 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-08-30T08:23:26+00:00"
+      },
+      {
+        "title": "Iceland rejects reopening talks on EU entry",
+        "link": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f",
+        "description": "Article URL: https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f Comments URL: https://news.ycombinator.com/item?id=49496707 Points: 27 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-08-30T08:07:29+00:00"
+      },
+      {
+        "title": "GTA 6 Netflix’te Rekor Kırdı: Rakamlar Akıl Almıyor",
+        "link": "https://shiftdelete.net/gta-6-netflix-tanitimi-rekor-kirdi",
+        "description": "GTA 6 Netflix tanıtımı, platformda büyük bir ilgiyle karşılandı. Sensor Tower verilerine göre web trafiği %125 arttı. Detaylar haberimizde.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T08:00:15+00:00"
+      },
+      {
+        "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+        "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+        "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs Comments URL: https://news.ycombinator.com/item?id=49496543 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-08-30T07:35:41+00:00"
+      },
+      {
+        "title": "Poco X8 Power 5G’nin Dev Bataryası ve Özellikleri Belli Oldu",
+        "link": "https://shiftdelete.net/poco-x8-power-5g-tanitiliyor",
+        "description": "Poco X8 Power 5G, 10.000 mAh bataryası ve 3,5 günlük kullanım süresiyle 4 Eylül'de tanıtılıyor. İşte yeni Poco modelinin öne çıkan özellikleri.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T07:00:51+00:00"
+      },
+      {
+        "title": "GTA 6 Tanıtımı Sonrası PS5 Pro Stokları Tükendi",
+        "link": "https://shiftdelete.net/gta-6-tanitimi-sonrasi-ps5-pro-stoklari-tukendi",
+        "description": "GTA 6 tanıtımının ardından PS5 Pro stokları hızla tükendi. İkinci el piyasasında fiyatlar 1.300 dolara kadar çıktı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T06:00:46+00:00"
+      },
+      {
+        "title": "Katlanabilir iPhone’un Ekran Tamiri Cep Yakacak",
+        "link": "https://shiftdelete.net/katlanabilir-iphone-ultra-ekran-onarim-maliyeti",
+        "description": "Apple'ın ilk katlanabilir telefonu iPhone Ultra'nın ekran onarım maliyeti ve teknik detayları gün yüzüne çıktı.",
+        "source": "ShiftDelete",
+        "published": "2026-08-30T05:00:09+00:00"
+      },
+      {
+        "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+        "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+        "description": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt Comments URL:...",
+        "source": "HackerNews",
+        "published": "2026-08-30T03:15:36+00:00"
+      },
+      {
+        "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
         "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-        "description": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws Comments URL: https://news.ycombinator.com/item?id=49495127 Points: 10 # Comments: 1",
+        "description": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws Comments URL: https://news.ycombinator.com/item?id=49495127 Points: 78 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-08-30T02:25:32+00:00"
       },
       {
         "title": "FreeCORE TrueNAS Core – Continued",
         "link": "https://freecore.org/",
-        "description": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 47 # Comments: 20",
+        "description": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 97 # Comments: 56",
         "source": "HackerNews",
         "published": "2026-08-30T01:31:32+00:00"
       },
       {
         "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
         "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-        "description": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ Comments URL: https://news.ycombinator.com/item?id=49494751 Points: 5 # Comments: 0",
+        "description": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ Comments URL: https://news.ycombinator.com/item?id=49494751 Points: 62 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-08-30T01:09:15+00:00"
       },
       {
-        "title": "Bug Blindness",
-        "link": "https://danluu.com/bug-blind/",
-        "description": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 106 # Comments: 37",
+        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+        "link": "https://github.com/mk6i/open-oscar-server",
+        "description": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 37 # Comments: 13",
         "source": "HackerNews",
-        "published": "2026-08-30T00:21:40+00:00"
-      },
-      {
-        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-        "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-        "description": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=49494182 Points: 167 # Comments: 72",
-        "source": "HackerNews",
-        "published": "2026-08-29T23:17:17+00:00"
-      },
-      {
-        "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-        "link": "https://defrag98.com",
-        "description": "Article URL: https://defrag98.com Comments URL: https://news.ycombinator.com/item?id=49494036 Points: 105 # Comments: 60",
-        "source": "HackerNews",
-        "published": "2026-08-29T22:51:17+00:00"
+        "published": "2026-08-30T00:33:35+00:00"
       },
       {
         "title": "Apple’dan Yapay Zeka Odaklı Akıllı Gözlük Geliyor",
@@ -52,39 +115,11 @@
         "published": "2026-08-29T20:00:27+00:00"
       },
       {
-        "title": "Hy4 preview",
-        "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "description": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 225 # Comments: 134",
-        "source": "HackerNews",
-        "published": "2026-08-29T19:33:23+00:00"
-      },
-      {
-        "title": "Domain-Driven Agents",
-        "link": "https://coldtake.dev/blog/domain-driven-agents",
-        "description": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 67 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-08-29T19:28:28+00:00"
-      },
-      {
-        "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-        "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-        "description": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 59 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-08-29T19:01:09+00:00"
-      },
-      {
         "title": "Apple CarPlay’e Siri Gelmeden Yapay Zeka Geldi",
         "link": "https://shiftdelete.net/apple-carplay-meta-ai-destegi",
         "description": "Apple CarPlay, Siri AI güncellemesi öncesinde Meta AI desteğine kavuştu. İşte CarPlay üzerinde çalışan yapay zeka chatbot uygulamaları.",
         "source": "ShiftDelete",
         "published": "2026-08-29T19:00:25+00:00"
-      },
-      {
-        "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-        "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-        "description": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Points: 346 # Comments: 60",
-        "source": "HackerNews",
-        "published": "2026-08-29T18:44:37+00:00"
       },
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -150,20 +185,6 @@
         "published": "2026-08-29T15:49:59-04:00"
       },
       {
-        "title": "Yüzde 25 ÖTV Dilimindeki En Ucuz Elektrikli Otomobiller Ağustos 2026",
-        "link": "https://shiftdelete.net/yuzde-25-otv-dilimindeki-en-ucuz-elektrikli-otomobiller-tam-liste",
-        "description": "Türkiye otomotiv sektöründe elektrikli araçlara uygulanan Özel Tüketim Vergisi (ÖTV) matrah limitleri, araç fiyatlarını doğrudan etkilediğinden tüketicilerin de satın alım tercihlerinde ve üreticilerin fiyatlandırma tercihlerinde belirleyici bir rol...",
-        "source": "ShiftDelete",
-        "published": "2026-08-29T15:01:10+00:00"
-      },
-      {
-        "title": "Huawei’den Yeni Üçe Katlanan Telefon: Mate XT2",
-        "link": "https://shiftdelete.net/huawei-mate-xt2-tasarimi-ortaya-cikti",
-        "description": "Huawei'nin yeni üçe katlanan telefonu Mate XT2 tasarımıyla dikkat çekiyor. Huawei Mate XT2 teknik özellikleri ve detayları haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-08-29T15:00:38+00:00"
-      },
-      {
         "title": "Sony Music and Warner Chappell are suing Anthropic",
         "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
         "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus...",
@@ -171,25 +192,11 @@
         "published": "2026-08-29T14:20:15-04:00"
       },
       {
-        "title": "Project Helix Birden Fazla Konsoldan Oluşacak",
-        "link": "https://shiftdelete.net/xbox-project-helix-nedir-cihaz-ailesi",
-        "description": "Xbox CEO'su Asha Sharma, Project Helix nedir sorusuna yanıt verdi. Yeni nesil Xbox konsolu ve cihaz ailesi hakkındaki son gelişmeleri inceleyin.",
-        "source": "ShiftDelete",
-        "published": "2026-08-29T14:00:36+00:00"
-      },
-      {
         "title": "The Theragun Sense makes everyday recovery surprisingly easy",
         "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
         "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly...",
         "source": "TechCrunch",
         "published": "2026-08-29T14:00:00+00:00"
-      },
-      {
-        "title": "Prozone Ekran Çoğaltıcı BİM’e Geliyor",
-        "link": "https://shiftdelete.net/bim-prozone-tasinabilir-ekran-cogaltici",
-        "description": "BİM marketlerde satışa sunulan Prozone taşınabilir ekran çoğaltıcı modelinin teknik özelliklerini ve fiyat detaylarını inceledik.",
-        "source": "ShiftDelete",
-        "published": "2026-08-29T13:00:50+00:00"
       },
       {
         "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -204,13 +211,6 @@
         "description": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at...",
         "source": "The Verge",
         "published": "2026-08-29T12:01:13-04:00"
-      },
-      {
-        "title": "Google Gemini Notebook Limitleri Değişiyor: İşte Detaylar",
-        "link": "https://shiftdelete.net/gemini-notebook-kullanim-limitleri",
-        "description": "Gemini Notebook, Eylül ayından itibaren Gemini Notebook kullanım limitlerini hesaplama tabanlı sisteme geçiriyor. İşte yeni sistemin detayları.",
-        "source": "ShiftDelete",
-        "published": "2026-08-29T12:00:59+00:00"
       },
       {
         "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
@@ -355,25 +355,74 @@
     ],
     "dunya": [
       {
-        "title": "Rescue to continue overnight for 'in distress' vessel carrying five in the Channel",
-        "link": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
-        "description": "Several fishing vessels are assisting the Coastguard after reports of a boat \"in distress' off Plymouth.",
+        "title": "Search continues for boat 'in distress' in Channel as two people still missing",
+        "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
+        "description": "Three of the five crew members were rescued and taken to hospital, the coastguard says.",
         "source": "BBC News",
-        "published": "2026-08-29T23:49:43+00:00"
+        "published": "2026-08-30T09:46:58+00:00"
       },
       {
-        "title": "British heavyweight Moses Itauma stretchered out after shock defeat in gruelling world title fight",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
-        "description": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.",
+        "title": "Church names pastor killed by falling sign at Christian festival",
+        "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+        "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
         "source": "BBC News",
-        "published": "2026-08-29T23:16:03+00:00"
+        "published": "2026-08-30T09:41:38+00:00"
       },
       {
-        "title": "I've been to Gamescom six times - here's what excited me this year",
-        "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+        "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+        "description": "Five others in their twenties were injured after shots were fired in Aarau, near Zurich overnight.",
         "source": "BBC News",
-        "published": "2026-08-29T23:02:28+00:00"
+        "published": "2026-08-30T09:15:35+00:00"
+      },
+      {
+        "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+        "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+        "source": "BBC News",
+        "published": "2026-08-30T08:59:58+00:00"
+      },
+      {
+        "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
+        "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
+        "source": "BBC News",
+        "published": "2026-08-30T07:58:31+00:00"
+      },
+      {
+        "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+        "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+        "description": "Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every day Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people...",
+        "source": "The Guardian",
+        "published": "2026-08-30T06:00:48+00:00"
+      },
+      {
+        "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
+        "description": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won't get that discount.",
+        "source": "NPR",
+        "published": "2026-08-30T05:00:00-04:00"
+      },
+      {
+        "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
+        "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+        "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+        "source": "BBC News",
+        "published": "2026-08-30T04:59:56+00:00"
+      },
+      {
+        "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
+        "description": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military.",
+        "source": "NPR",
+        "published": "2026-08-30T04:32:13-04:00"
+      },
+      {
+        "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+        "description": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
+        "source": "NPR",
+        "published": "2026-08-30T03:00:00-04:00"
       },
       {
         "title": "Icelanders vote on whether they want to join the EU",
@@ -383,18 +432,11 @@
         "published": "2026-08-29T21:47:44-04:00"
       },
       {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+        "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
+        "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
+        "description": "Footage of the flash floods have become almost impossible to find on China’s heavily censored internet.",
         "source": "BBC News",
-        "published": "2026-08-29T20:13:16+00:00"
-      },
-      {
-        "title": "Norway's new king remembers 'my dear father' in first speech",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-        "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-        "source": "BBC News",
-        "published": "2026-08-29T19:06:28+00:00"
+        "published": "2026-08-29T17:42:41+00:00"
       },
       {
         "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
@@ -402,13 +444,6 @@
         "description": "The controversial commentator, who criticized feminism and Islam, was an enthusiastic supporter of President Trump's immigration crackdown. ICE says he was an \"illegal alien.\"",
         "source": "NPR",
         "published": "2026-08-29T17:09:14-04:00"
-      },
-      {
-        "title": "Cleverly quits shadow cabinet to run for London mayor",
-        "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
-        "description": "The capital is not set to vote on a new mayor until 2028.",
-        "source": "BBC News",
-        "published": "2026-08-29T16:24:39+00:00"
       },
       {
         "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
@@ -453,27 +488,6 @@
         "published": "2026-08-29T07:00:00-04:00"
       },
       {
-        "title": "The U.S. relied on these science advisers. Then the Trump administration cut them",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
-        "description": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed.",
-        "source": "NPR",
-        "published": "2026-08-29T06:00:00-04:00"
-      },
-      {
-        "title": "Why is one WNBA team calling in national security experts?",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
-        "description": "The WNBA's popularity has risen in recent years, but so have threats and abuse directed at its players. One team is taking a novel approach to this, by partnering with national security specialists.",
-        "source": "NPR",
-        "published": "2026-08-29T05:00:00-04:00"
-      },
-      {
-        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-        "description": "The great Dolly Parton died earlier this week and tributes have poured in from across the country. Fans are mourning the loss of a country music icon who not only changed the musical landscape but gave back to communities with her Imagination...",
-        "source": "NPR",
-        "published": "2026-08-29T05:00:00-04:00"
-      },
-      {
         "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
         "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
         "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
@@ -507,13 +521,6 @@
         "description": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with critics...",
         "source": "The Guardian",
         "published": "2026-08-28T17:41:37+00:00"
-      },
-      {
-        "title": "Satellite images reveal scale of flood devastation in Nepal villages",
-        "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-        "description": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
-        "source": "BBC News",
-        "published": "2026-08-28T17:36:54+00:00"
       },
       {
         "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
@@ -556,155 +563,183 @@
         "description": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered parrot eggs...",
         "source": "The Guardian",
         "published": "2026-08-26T15:09:58+00:00"
-      },
-      {
-        "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-        "link": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-        "description": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as...",
-        "source": "The Guardian",
-        "published": "2026-08-26T11:00:12+00:00"
       }
     ],
     "turkiye": [
       {
-        "title": "Kurtuluş Savaşı'nın \"Halide onbaşı\"sı. Cephede kalemiyle mücadele verdi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kurtulus-savasinin-halide-onbasisi-cephede-kalemiyle-mucadele-verdi-1739517",
-        "description": "Milli Mücadelenin ön saflarında olan Halide Edip Adıvar, Türk kadınının cesaretini ve en zor koşullarda bile dimdik ayakta durabilme özelliklerini ortaya koyan sembol bir isim. (Haber: Deniz Tüysüz)",
+        "title": "Stoklar 13 yılın dibinde: Avrupa’da kışın gaz faturaları kabarabilir",
+        "link": "https://www.sozcu.com.tr/stoklar-13-yilin-dibinde-avrupa-da-kisin-gaz-faturalari-kabarabilir-p353922",
+        "description": "Stoklar 13 yılın dibinde: Avrupa’da kışın gaz faturaları kabarabilir",
+        "source": "Sözcü",
+        "published": "2026-08-30T12:43:09+03:00"
+      },
+      {
+        "title": "Galatasaray'ı üzen şok gelişme! Kaza geçirdi, yoğun bakıma kaldırıldı",
+        "link": "https://www.sozcu.com.tr/galatasaray-i-uzen-sok-gelisme-kaza-gecirdi-yogun-bakima-kaldirildi-p353920",
+        "description": "Galatasaray'ı üzen şok gelişme! Kaza geçirdi, yoğun bakıma kaldırıldı",
+        "source": "Sözcü",
+        "published": "2026-08-30T12:39:48+03:00"
+      },
+      {
+        "title": "Bu düğündeki herkes ikiz kardeş",
+        "link": "https://www.sozcu.com.tr/bu-dugundeki-herkes-ikiz-kardes-p353918",
+        "description": "Bu düğündeki herkes ikiz kardeş",
+        "source": "Sözcü",
+        "published": "2026-08-30T12:36:23+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: 104 yıl önce olduğu gibi menfur planlara müsaade etmiyoruz",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-cumhurbaskani-erdogan-104-yil-once-oldugu-gibi-menfur-planlara-musaade-etmiyoruz-1739560",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığındaki heyet, 30 Ağustos Zafer Bayramı dolayısıyla Anıtkabir'i ziyaret etti.",
         "source": "NTV",
-        "published": "2026-08-30T06:30:05+03:00"
+        "published": "2026-08-30T12:35:01+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 30 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-30-agustos-2026-1739498",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "title": "Dron saldırısına uğrayan gemi Samsun’da karaya oturdu",
+        "link": "https://www.ntv.com.tr/turkiye/dron-saldirisina-ugrayan-gemi-samsunda-karaya-oturdu-1739579",
+        "description": "Sinop açıklarında dron saldırısına uğradığı belirtilen ve 21 kişilik mürettebatı tahliye edilen gemi, sürüklenerek Samsun’un Alaçam ilçesinde karaya oturdu.",
         "source": "NTV",
-        "published": "2026-08-30T06:30:00+03:00"
+        "published": "2026-08-30T12:34:16+03:00"
       },
       {
-        "title": "Kurtuluş Savaşı'nın \"Halide onbaşı\"sı. Cephede kalemiyle mücadele verdi",
-        "link": "https://www.ntv.com.tr/turkiye/video-kurtulus-savasinin-halide-onbasisi-cephede-kalemiyle-mucadele-verdi-1739516",
-        "description": "Milli Mücadelenin ön saflarında olan onbaşı rütbesine sahip Halide Edip Adıvar, Türk kadınının cesaretini ve en zor koşullarda bile dimdik ayakta durabilme özelliklerini ortaya koyan sembol bir isim.",
+        "title": "Aziz Yıldırım'ın işleri açıldı: Kocaeli'de üretip İstanbul'da suya indirecek",
+        "link": "https://www.sozcu.com.tr/fenerbahce-baskanligindan-sonra-aziz-yildirim-in-isleri-acildi-yilda-68-tane-savas-gemisi-uretecek-p353916",
+        "description": "Aziz Yıldırım'ın işleri açıldı: Kocaeli'de üretip İstanbul'da suya indirecek",
+        "source": "Sözcü",
+        "published": "2026-08-30T12:30:20+03:00"
+      },
+      {
+        "title": "İşverenlerin yeni kriteri belli oldu: Hızlı olan kazanır!",
+        "link": "https://www.sozcu.com.tr/isverenlerin-yeni-kriteri-belli-oldu-hizli-olan-kazanir-p353915",
+        "description": "İşverenlerin yeni kriteri belli oldu: Hızlı olan kazanır!",
+        "source": "Sözcü",
+        "published": "2026-08-30T12:25:00+03:00"
+      },
+      {
+        "title": "3 günde 185 sarsıntı! Peki bu büyük İstanbul depreminin habercisi mi?",
+        "link": "https://www.sozcu.com.tr/istanbulun-deprem-firtinasi-adalarda-gerceklesmis-p353912",
+        "description": "3 günde 185 sarsıntı! Peki bu büyük İstanbul depreminin habercisi mi?",
+        "source": "Sözcü",
+        "published": "2026-08-30T12:24:41+03:00"
+      },
+      {
+        "title": "Dev kasalar yetmemeye başladı: Zenginler bankalardan altın topluyor",
+        "link": "https://www.sozcu.com.tr/dev-kasalar-yetmemeye-basladi-zenginler-fiziki-altin-topluyor-p353914",
+        "description": "Dev kasalar yetmemeye başladı: Zenginler bankalardan altın topluyor",
+        "source": "Sözcü",
+        "published": "2026-08-30T12:24:22+03:00"
+      },
+      {
+        "title": "Hava Kuvvetleri’ne teslim edilecek ilk HÜRJET uçtu",
+        "link": "https://www.ntv.com.tr/turkiye/hava-kuvvetlerine-teslim-edilecek-ilk-hurjet-uctu-1739573",
+        "description": "Hava Kuvvetleri Komutanlığına teslim edilecek ilk HÜRJET, 30 Ağustos Zafer Bayramı’nda ilk uçuşunu gerçekleştirdi. Uçak, 18 dakika havada kaldı.",
         "source": "NTV",
-        "published": "2026-08-30T06:29:36+03:00"
+        "published": "2026-08-30T12:21:47+03:00"
       },
       {
-        "title": "Eşofmanı giydirdi, petrole çöktü",
-        "link": "https://www.sozcu.com.tr/esofmani-giydirdi-petrole-coktu-p353826",
-        "description": "Eşofmanı giydirdi, petrole çöktü",
+        "title": "Galatasaray maçı sonrası görüntüleri çok tartışılmıştı! Gerçek sonradan ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/galatasaray-maci-sonrasi-goruntuleri-cok-tartisilmisti-gercek-sonradan-ortaya-cikti-p353908",
+        "description": "Galatasaray maçı sonrası görüntüleri çok tartışılmıştı! Gerçek sonradan ortaya çıktı",
         "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
+        "published": "2026-08-30T12:04:53+03:00"
       },
       {
-        "title": "Yenidoğan çetesinden kapatılan hastane 200 milyona satılıyor",
-        "link": "https://www.sozcu.com.tr/yenidogan-cetesinden-kapatilan-hastane-200-milyona-satiliyor-p353825",
-        "description": "Yenidoğan çetesinden kapatılan hastane 200 milyona satılıyor",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "53 kişinin katili umreye gitmek için izin istedi",
-        "link": "https://www.sozcu.com.tr/53-kisinin-katili-umreye-gitmek-icin-izin-istedi-p353824",
-        "description": "53 kişinin katili umreye gitmek için izin istedi",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "Sözün takipçisiyiz",
-        "link": "https://www.sozcu.com.tr/sozun-takipcisiyiz-p353823",
-        "description": "Sözün takipçisiyiz",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "Yokluktan büyük zafere",
-        "link": "https://www.sozcu.com.tr/yokluktan-buyuk-zafere-p353822",
-        "description": "Yokluktan büyük zafere",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "Özel, ‘En az üç çocuk’ diyen Erdoğan’a yüklendi: Ona uyan pişman",
-        "link": "https://www.sozcu.com.tr/ozel-en-az-uc-cocuk-diyen-erdogan-a-yuklendi-ona-uyan-pisman-p353821",
-        "description": "Özel, ‘En az üç çocuk’ diyen Erdoğan’a yüklendi: Ona uyan pişman",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "DİSK’te direniş çatlağı",
-        "link": "https://www.sozcu.com.tr/disk-te-direnis-catlagi-p353820",
-        "description": "DİSK’te direniş çatlağı",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "Erman Abi’nin ihale portföyüne stadyum da eklendi",
-        "link": "https://www.sozcu.com.tr/erman-abi-nin-ihale-portfoyune-stadyum-da-eklendi-p353819",
-        "description": "Erman Abi’nin ihale portföyüne stadyum da eklendi",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "Pazar poşetinde 3 biber, 4 salatalık",
-        "link": "https://www.sozcu.com.tr/pazar-posetinde-3-biber-4-salatalik-p353818",
-        "description": "Pazar poşetinde 3 biber, 4 salatalık",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "Fonlarda oyunun kuralları değişti",
-        "link": "https://www.sozcu.com.tr/fonlarda-oyunun-kurallari-degisti-p353815",
-        "description": "Fonlarda oyunun kuralları değişti",
-        "source": "Sözcü",
-        "published": "2026-08-30T05:30:24+03:00"
-      },
-      {
-        "title": "İki kez esir düştü ama hiç yılmadı. 5 yıllık esaretten Kurtuluş Savaşı'na",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-iki-kez-esir-dustu-ama-hic-yilmadi-5-yillik-esaretten-kurtulus-savasina-1739515",
-        "description": "Trablusgarp'ta, Balkanlar'da ve 1. Dünya Harbi'nde savaşan Hüseyin Hüsnü Aydemir 5 yıl esaret hayatı yaşadı. Sibirya'daki kamptan firar eden Aydemir, Kurtuluş Savaşı'na katıldı. (Haber: Yağız Şenkal)",
+        "title": "Donanma gemilerinden Boğaz’da 30 Ağustos geçişi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-donanma-gemilerinden-bogazda-30-agustos-gecisi-1739567",
+        "description": "Türk Deniz Kuvvetleri’ne ait farklı sınıflardaki gemiler, 30 Ağustos Zafer Bayramı’nın 104’üncü yıl dönümü dolayısıyla İstanbul Boğazı’ndan geçiş yaptı.",
         "source": "NTV",
-        "published": "2026-08-30T04:15:49+03:00"
+        "published": "2026-08-30T12:00:52+03:00"
       },
       {
-        "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 30 Ağustos 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-30-agustos-2026-1739512",
-        "description": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 30 Ağustos 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
+        "title": "14 bin tonluk uçak gemisi ülkenin kaderini değiştirecek",
+        "link": "https://www.sozcu.com.tr/14-bin-tonluk-ucak-gemisi-ulkenin-kaderini-degistirecek-p353907",
+        "description": "14 bin tonluk uçak gemisi ülkenin kaderini değiştirecek",
+        "source": "Sözcü",
+        "published": "2026-08-30T11:56:10+03:00"
+      },
+      {
+        "title": "Türklerin en çok vize reddi yediği ülke belli oldu",
+        "link": "https://www.sozcu.com.tr/turklerin-en-cok-vize-reddi-yedigi-ulke-belli-oldu-p353905",
+        "description": "Türklerin en çok vize reddi yediği ülke belli oldu",
+        "source": "Sözcü",
+        "published": "2026-08-30T11:50:51+03:00"
+      },
+      {
+        "title": "Meteoroloji peş peşe uyardı. Kuvvetli sağanak sel getirebilir, dikkat",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-meteoroloji-pes-pese-uyardi-kuvvetli-saganak-sel-getirebilir-dikkat-1739534",
+        "description": "Meteoroloji Genel Müdürlüğü'nden birçok ile sarı kodlu uyarı geldi. 10 ile yapılan uyarıda sağanak ve fırtınaya karşı dikkatli olunması istendi. Bugün hava nasıl olacak?",
         "source": "NTV",
-        "published": "2026-08-30T02:00:00+03:00"
+        "published": "2026-08-30T11:48:53+03:00"
       },
       {
-        "title": "Büyük Zafer'in hatıraları. Göğüs göğüse savaştan kalanlar",
-        "link": "https://www.ntv.com.tr/turkiye/video-buyuk-zaferin-hatiralari-gogus-goguse-savastan-kalanlar-1739511",
-        "description": "Afyonkarahisar'da savaşın yaşandığı yerlerde mücadele yıllarından kalan çok sayıda malzeme müzelerde sergileniyor ya da evlerde saklanıyor.",
+        "title": "İstanbul'da bugün hangi yollar kapalı? 30 Ağustos trafiğe kapalı yollar ve alternatif güzergahlar",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-hangi-yollar-kapali-30-agustos-trafige-kapali-yollar-ve-alternatif-guzergahlar-1739523",
+        "description": "İstanbul'da 30 Ağustos Zafer Bayramı kutlaması dolayısıyla bazı yollar trafiğe kapatıldı. Peki, bugün hangi yollar trafiğe kapalı olacak? İşte 30 Ağustos kapalı yollar ve alternatif güzergahlar.",
         "source": "NTV",
-        "published": "2026-08-30T01:49:06+03:00"
+        "published": "2026-08-30T11:48:04+03:00"
       },
       {
-        "title": "Başkentte bazı yollar trafiğe kapatılacak. İşte kapalı yolların tam listesi",
-        "link": "https://www.ntv.com.tr/turkiye/baskentte-bazi-yollar-trafige-kapatilacak-iste-kapali-yollarin-tam-listesi-1739510",
-        "description": "Ankara'da 30 Ağustos Zafer Bayramı'nın 104. yıl dönümü kutlama etkinlikleri kapsamında bazı yollar trafiğe kapatılacak.",
+        "title": "Siyasilerden 30 Ağustos mesajları. \"Milletimizin esareti kabul etmeyeceğinin simgesi\"",
+        "link": "https://www.ntv.com.tr/turkiye/siyasilerden-30-agustos-mesajlari-milletimizin-esareti-kabul-etmeyeceginin-simgesi-1739564",
+        "description": "30 Ağustos Zafer Bayramı dolayısıyla siyasiler mesajlar yayımladı. Mesajlarda 30 Ağustos'un Türkiye'nin en büyük zaferi olduğuna dikkat çekildi.",
         "source": "NTV",
-        "published": "2026-08-30T01:33:19+03:00"
+        "published": "2026-08-30T11:40:56+03:00"
       },
       {
-        "title": "Ordu'da \"vosvoslar\" ile \"Zafer konvoyu\" düzenlendi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-orduda-vosvoslar-ile-zafer-konvoyu-duzenlendi-1739503",
-        "description": "Ordu'nun Fatsa İlçesinde 30 Ağustos Zafer Bayramı dolayısıyla klasik araçlarla şehir turu gerçekleştirildi.",
+        "title": "Emine Erdoğan'dan 30 Ağustos Zafer Bayramı mesajı",
+        "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-30-agustos-zafer-bayrami-mesaji-1739550",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 30 Ağustos Zafer Bayramı'nı kutladı.",
         "source": "NTV",
-        "published": "2026-08-30T00:23:34+03:00"
+        "published": "2026-08-30T10:28:37+03:00"
       },
       {
-        "title": "Nepalli bakandan Himalayalar'ı korumak için uluslararası topluma çağrı",
-        "link": "https://www.bbc.com/turkce/articles/c1583l5q711o?at_medium=RSS&at_campaign=rss",
-        "description": "Nepal Dışişleri Bakanı Khanal, iklim değişikliğiyle mücadele etmek için dünyanın \"küresel bir çaba\" başlatması çağrısında bulundu.",
+        "title": "Kanser hastası annesinin maaşını çekip kaçtı",
+        "link": "https://www.ntv.com.tr/turkiye/kanser-hastasi-annesinin-maasini-cekip-kacti-1739545",
+        "description": "Adana’da 69 yaşındaki kanser hastası Şerife Güray, emekli maaşını çekip kirasını ödemesi için kartını verdiği oğlunun 21 bin lirayı alıp kaybolduğunu öne sürdü. Güray, oğlunu evlatlıktan reddettiğini",
+        "source": "NTV",
+        "published": "2026-08-30T10:23:55+03:00"
+      },
+      {
+        "title": "İkiz rahipler ve ikiz kilise görevlilerinin yönettiği düğünle evlenen ikiz çiftler Hindistan'da viral oldu",
+        "link": "https://www.bbc.com/turkce/articles/cp93zm7npeno?at_medium=RSS&at_campaign=rss",
+        "description": "Hindistan'da iki ayrı ikiz kardeşlerin yer aldığı bir düğün fotoğrafı viral oldu. Fotoğrafta ikiz erkek kardeşlerin ikiz kız kardeşlerle evlendiği, töreni ikiz rahiplerin yönettiği ve ikiz kilise görevlisi çocukların yardımcı olduğu görülüyor....",
         "source": "BBC Turkish",
-        "published": "2026-08-29T16:53:15+00:00"
+        "published": "2026-08-30T08:58:45+00:00"
       },
       {
-        "title": "Gülistan Doku soruşturması: 'Dalgıç defterindeki kayıtlar adli makamlardan gizlendi'",
-        "link": "https://www.bbc.com/turkce/articles/cpq0971yn20o?at_medium=RSS&at_campaign=rss",
-        "description": "Adalet Bakanı Akın Gürlek, altı yıldır kayıp olan üniversite öğrencisi Gülistan Doku ile ilgili yürütülen soruşturma kapsamında gerçekleştirilen yeni operasyonda 10 şüphelinin gözaltına alındığını duyurdu.",
+        "title": "Nepal-Tibet'teki sel felaketinde ölü sayısı 700'ü aştı, arazi koşulları yardım ulaştırmayı zorlaştırıyor",
+        "link": "https://www.bbc.com/turkce/articles/c9803mv5nlmo?at_medium=RSS&at_campaign=rss",
+        "description": "Yerel yetkililerin açıklamasına göre, 26 Ağustos Çarşamba günü meydana gelen ani sel felaketinin ardından Nepal'de en az 734 kişi hayatını kaybetti, 2.400'den fazla kişi de kayıp.",
         "source": "BBC Turkish",
-        "published": "2026-08-29T16:06:06+00:00"
+        "published": "2026-08-30T08:45:56+00:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan'dan Zafer Bayramı mesajı",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-zafer-bayrami-mesaji-1739520",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, 30 Ağustos Zafer Bayramı dolayısıyla bir mesaj yayımladı.",
+        "source": "NTV",
+        "published": "2026-08-30T08:13:38+03:00"
+      },
+      {
+        "title": "Mehdi Zana için Diyarbakır'da cenaze töreni",
+        "link": "https://www.bbc.com/turkce/articles/cz6zl7jz1gzo?at_medium=RSS&at_campaign=rss",
+        "description": "Seksen beş yaşında hayatını kaybeden Kürt siyasetinin tanınan isimlerinden ve eski Diyarbakır Belediye Başkanı Mehdi Zana bugün toprağa verilecek.",
+        "source": "BBC Turkish",
+        "published": "2026-08-30T07:52:08+00:00"
+      },
+      {
+        "title": "Füceyre nerede ve İran ile BAE arasında neden gerilime yol açtı?",
+        "link": "https://www.bbc.com/turkce/articles/c99dvg31d3mo?at_medium=RSS&at_campaign=rss",
+        "description": "Füceyre, BAE'nin petrolünün bir kısmını Hürmüz Boğazı'ndan geçirmeden ihraç etmesi bakımından hayati bir güzergâh işlevi görüyor. Fakat İran'ın savaşı tam da bu avantajın limanı ve altyapısını aynı zamanda daha savunmasız hale getirebileceğini...",
+        "source": "BBC Turkish",
+        "published": "2026-08-30T07:40:12+00:00"
+      },
+      {
+        "title": "Türkiye'de 1840'ta yaşanan buzul çökmesine bağlı sel tekrarlanabilir mi?",
+        "link": "https://www.bbc.com/turkce/articles/cx2zypd2vkzo?at_medium=RSS&at_campaign=rss",
+        "description": "Dünyanın en hızlı ısınan kuşaklarından Akdeniz'de yer alan Türkiye'de benzer olaylar yaşandı mı? Ağrı Dağı'ndan Cilo'ya risk var mı? Uzmanlar yanıtlıyor.",
+        "source": "BBC Turkish",
+        "published": "2026-08-30T07:33:32+00:00"
       },
       {
         "title": "İzlanda AB üyeliği için sandık başında",
@@ -721,13 +756,6 @@
         "published": "2026-08-29T14:55:40+00:00"
       },
       {
-        "title": "Siber saldırı korkusuyla eski teknolojilere dönüş eğilimi",
-        "link": "https://www.bbc.com/turkce/articles/c0lr83dgy9wo?at_medium=RSS&at_campaign=rss",
-        "description": "Siber saldırıya uğrama korkusu, bazı insanları yeni nesil siber suçluların göz ardı ettiği diğer teknoloji türlerine yöneltti.",
-        "source": "BBC Turkish",
-        "published": "2026-08-29T14:36:30+00:00"
-      },
-      {
         "title": "ABD'nin Venezuela ile vardığı 65 milyar varillik petrol anlaşması hakkında neler biliniyor?",
         "link": "https://www.bbc.com/turkce/articles/cwyzdgek2g8o?at_medium=RSS&at_campaign=rss",
         "description": "Donald Trump, Venezuela ile 65 milyar varilden fazla petrol rezervinin ABD kontrolüne geçeceği bir anlaşmaya varıldığını duyurdu. Venezuela'nın geçici devlet başkanı, bu alışılmadık anlaşmanın ülkesinin ekonomisini canlandırmaya yardımcı olacağını...",
@@ -735,39 +763,11 @@
         "published": "2026-08-29T14:04:27+00:00"
       },
       {
-        "title": "Büyük Taarruz'un kahraman süvarileri",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-buyuk-taarruzun-kahraman-suvarileri-1739430",
-        "description": "Büyük bir askeri deha olan Mustafa Kemal, Büyük Taarruz'dan önce Süvari Birlikleri'ni oluşturdu. 5. Süvari Kolordusu savaşın kaderini değiştirdi. İşte Büyük Taarruz'un süvarileri. (Haber: Özden Erkuş)",
-        "source": "NTV",
-        "published": "2026-08-29T13:48:16+03:00"
-      },
-      {
-        "title": "Büyük Zafer'in 104. yılı kutlanıyor: 30 Ağustos Zafer Bayramı'nın tarihi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-buyuk-zaferin-104-yili-kutlaniyor-30-agustos-zafer-bayraminin-tarihi-1739428",
-        "description": "Büyük Önder Mustafa Kemal Atatürk komutasındaki Türk ordusunun, 26 Temmuz 1922'de başlayan ve 30 Ağustos'ta zaferle taçlandırdığı Büyük Taarruz ve Başkomutanlık Meydan Muharebesi'nin 104. yıl dönümü.",
-        "source": "NTV",
-        "published": "2026-08-29T12:40:57+03:00"
-      },
-      {
         "title": "Küba verimli topraklarına rağmen neden halkını doyuramıyor?",
         "link": "https://www.bbc.com/turkce/articles/cly52mj1483o?at_medium=RSS&at_campaign=rss",
         "description": "Küba, onlarca yıldır süren kötü planlama, şekere bağımlılık ve ABD yaptırımları nedeniyle, tarımsal potansiyeline rağmen, gıdasının %80'ini ithal ediyor.",
         "source": "BBC Turkish",
         "published": "2026-08-29T11:17:06+00:00"
-      },
-      {
-        "title": "Gıda alerjisi ve gıda hassasiyeti nasıl ayırt edilir ve zamanla geçer mi?",
-        "link": "https://www.bbc.com/turkce/articles/c0re87nr4pjo?at_medium=RSS&at_campaign=rss",
-        "description": "Bazı gıda alerjileri ömür boyu sürebilirken, uzmanlar birçok çocuğun süt, yumurta, buğday ve soya alerjilerinden kurtulduğunu söylüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-08-29T08:21:35+00:00"
-      },
-      {
-        "title": "Mohaç Savaşı'nın 500. yılı: Macaristan için yenilgi, Osmanlı için zafer",
-        "link": "https://www.bbc.com/turkce/articles/c3eq883wnk1o?at_medium=RSS&at_campaign=rss",
-        "description": "Viktor Orban hükümetinin bu yılın başlarında düşmesi, Mohaç Savaşı'nın 500. yıl anma törenini, ulusal kimliğe dair rekabet eden vizyonlar arasındaki bir mücadeleye dönüştürdü.",
-        "source": "BBC Turkish",
-        "published": "2026-08-29T07:33:54+00:00"
       },
       {
         "title": "İzlanda'yı bölen AB referandumu: Egemenlik, balıkçılık ve Trump etkisi tartışılıyor",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8615
   },
   "weather": {
-    "condition": "Açık",
-    "temp": "+71°F",
-    "wind": "↖4mph",
-    "humidity": "60%"
+    "condition": "Kapalı",
+    "temp": "+72°F",
+    "wind": "↗11mph",
+    "humidity": "72%"
   }
 }
