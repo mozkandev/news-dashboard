@@ -1,11 +1,109 @@
 {
-  "updated_at": "2026-09-01T20:02:54.281163+00:00",
+  "updated_at": "2026-09-01T22:43:34.130644+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+        "source": "TechCrunch",
+        "published": "2026-09-01T22:13:34+00:00"
+      },
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "source": "TechCrunch",
+        "published": "2026-09-01T22:08:24+00:00"
+      },
+      {
+        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+        "link": "https://masteranza.github.io/weedout/",
+        "description": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related...",
+        "source": "HackerNews",
+        "published": "2026-09-01T22:06:57+00:00"
+      },
+      {
+        "title": "Fluorescent lamps (don't) have ears",
+        "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+        "description": "Article URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears Comments URL: https://news.ycombinator.com/item?id=49528366 Points: 11 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-09-01T21:19:10+00:00"
+      },
+      {
+        "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "source": "TechCrunch",
+        "published": "2026-09-01T21:06:24+00:00"
+      },
+      {
+        "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "link": "https://hnmatchmaker.com/",
+        "description": "Hi! Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\". So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted...",
+        "source": "HackerNews",
+        "published": "2026-09-01T20:53:35+00:00"
+      },
+      {
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "source": "TechCrunch",
+        "published": "2026-09-01T20:53:05+00:00"
+      },
+      {
+        "title": "X says attackers are targeting user accounts after the launch of X Money",
+        "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+        "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+        "source": "TechCrunch",
+        "published": "2026-09-01T20:48:32+00:00"
+      },
+      {
+        "title": "Dyson CameraJet electric toothbrush",
+        "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+        "description": "Article URL: https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue Comments URL: https://news.ycombinator.com/item?id=49527879 Points: 79 # Comments: 86",
+        "source": "HackerNews",
+        "published": "2026-09-01T20:39:19+00:00"
+      },
+      {
+        "title": "Hang on to Your Firefox",
+        "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+        "description": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox Comments URL: https://news.ycombinator.com/item?id=49527748 Points: 42 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-09-01T20:30:51+00:00"
+      },
+      {
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "link": "https://openai.com/index/path-to-astra/",
+        "description": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 56 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-09-01T20:20:41+00:00"
+      },
+      {
+        "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+        "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+        "description": "Article URL: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/ Comments URL: https://news.ycombinator.com/item?id=49527573 Points: 119 # Comments: 59",
+        "source": "HackerNews",
+        "published": "2026-09-01T20:19:11+00:00"
+      },
+      {
+        "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+        "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+        "description": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 171 # Comments: 91",
+        "source": "HackerNews",
+        "published": "2026-09-01T20:07:57+00:00"
+      },
+      {
+        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+        "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+        "description": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 54 # Comments: 24",
+        "source": "HackerNews",
+        "published": "2026-09-01T19:55:47+00:00"
+      },
+      {
         "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
         "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-        "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first ever foldable iPhone.",
+        "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
         "source": "TechCrunch",
         "published": "2026-09-01T19:45:28+00:00"
       },
@@ -24,13 +122,6 @@
         "published": "2026-09-01T19:30:24+00:00"
       },
       {
-        "title": "What's the Scam?",
-        "link": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-        "description": "Article URL: https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html Comments URL: https://news.ycombinator.com/item?id=49526244 Points: 17 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-09-01T18:46:59+00:00"
-      },
-      {
         "title": "FC 27'nin Kariyer Modu Yöneticisiyle Röportaj Yaptık: Bu Yıl Ne Gibi Yenilikler Var? Gelecekte Neler Göreceğiz?",
         "link": "\n                    https://www.webtekno.com/fc-27-kariyer-modu-yoneticisiyle-roportaj-h223363.html\n                    ",
         "description": "Gamescom'da FC 27'nin kariyer modu yöneticisi Andreas Wilsdorf ile röportaj yaptık.",
@@ -40,16 +131,16 @@
       {
         "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
         "link": "https://danluu.com/zitron/",
-        "description": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 39 # Comments: 11",
+        "description": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 251 # Comments: 291",
         "source": "HackerNews",
         "published": "2026-09-01T18:35:15+00:00"
       },
       {
-        "title": "There Is No AI",
-        "link": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-        "description": "Article URL: https://wadler.blogspot.com/2026/08/there-is-no-ai.html Comments URL: https://news.ycombinator.com/item?id=49525791 Points: 6 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-09-01T18:18:54+00:00"
+        "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+        "description": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices...",
+        "source": "The Verge",
+        "published": "2026-09-01T18:20:00-04:00"
       },
       {
         "title": "Who is John Ternus, the new Apple CEO?",
@@ -59,25 +150,11 @@
         "published": "2026-09-01T18:02:00+00:00"
       },
       {
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "description": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 506 #...",
-        "source": "HackerNews",
-        "published": "2026-09-01T17:53:53+00:00"
-      },
-      {
-        "title": "The creator of Jujutsu has joined ERSC",
-        "link": "https://ersc.io/blog/martin-joins-ersc",
-        "description": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 101 # Comments: 89",
-        "source": "HackerNews",
-        "published": "2026-09-01T17:46:21+00:00"
-      },
-      {
-        "title": "Atlas: A World Model for Spatial Intelligence",
-        "link": "https://www.worldlabs.ai/blog/atlas",
-        "description": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 61 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-09-01T17:36:02+00:00"
+        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around...",
+        "source": "The Verge",
+        "published": "2026-09-01T18:01:36-04:00"
       },
       {
         "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
@@ -85,13 +162,6 @@
         "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
         "source": "TechCrunch",
         "published": "2026-09-01T17:35:37+00:00"
-      },
-      {
-        "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-        "link": "https://www.norirobotics.com/",
-        "description": "Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was...",
-        "source": "HackerNews",
-        "published": "2026-09-01T17:35:10+00:00"
       },
       {
         "title": "Elektrikli Araçlarda Menzil Neden Düşer? Tek Nedeni Batarya Değil!",
@@ -108,6 +178,13 @@
         "published": "2026-09-01T17:28:39+03:00"
       },
       {
+        "title": "Apple Maps follows Google in renaming Lake Ontario",
+        "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+        "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a...",
+        "source": "The Verge",
+        "published": "2026-09-01T17:22:56-04:00"
+      },
+      {
         "title": "Meta, Kodlama Asistanı Muse Code’u Beta Sürecinden Çıkardı",
         "link": "https://shiftdelete.net/meta-kodlama-asistani-muse-codeu-beta-surecinden-cikardi",
         "description": "Meta, kodlama odaklı yapay zeka sistemi Muse Code'u beta sürecinden çıkardı. İşte yeni özellikler ve geliştiricilere sunduğu yenilikler.",
@@ -115,60 +192,39 @@
         "published": "2026-09-01T17:00:58+00:00"
       },
       {
-        "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-        "link": "https://news.ycombinator.com/item?id=49524704",
-        "description": "Comments URL: https://news.ycombinator.com/item?id=49524704 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-09-01T17:00:14+00:00"
+        "title": "Lenovo’s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+        "link": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+        "description": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V...",
+        "source": "The Verge",
+        "published": "2026-09-01T16:54:08-04:00"
       },
       {
-        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-        "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-        "source": "TechCrunch",
-        "published": "2026-09-01T17:00:00+00:00"
+        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+        "description": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In...",
+        "source": "The Verge",
+        "published": "2026-09-01T16:45:49-04:00"
       },
       {
-        "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
-        "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-        "description": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
-        "source": "TechCrunch",
-        "published": "2026-09-01T16:49:12+00:00"
+        "title": "On first listen, the Sonos Beam Ultra sounds great",
+        "link": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+        "description": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than...",
+        "source": "The Verge",
+        "published": "2026-09-01T16:08:38-04:00"
       },
       {
-        "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-        "link": "https://github.com/carloslfu/slotstream",
-        "description": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX...",
-        "source": "HackerNews",
-        "published": "2026-09-01T16:42:46+00:00"
+        "title": "Google Find Hub will soon help you locate things without a tracker",
+        "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+        "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness...",
+        "source": "The Verge",
+        "published": "2026-09-01T15:51:25-04:00"
       },
       {
-        "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-        "link": "https://moviescenemap.com/",
-        "description": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 66 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-09-01T16:34:45+00:00"
-      },
-      {
-        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-        "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-        "source": "TechCrunch",
-        "published": "2026-09-01T16:31:04+00:00"
-      },
-      {
-        "title": "GoPro to be acquired for $285M, will remain a public company",
-        "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-        "description": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
-        "source": "TechCrunch",
-        "published": "2026-09-01T15:57:23+00:00"
-      },
-      {
-        "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-        "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-        "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-        "source": "TechCrunch",
-        "published": "2026-09-01T15:51:55+00:00"
+        "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+        "link": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+        "description": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from...",
+        "source": "The Verge",
+        "published": "2026-09-01T15:43:39-04:00"
       },
       {
         "title": "Milli Hızlı Tren 250 km/s Hıza Ulaştı",
@@ -176,13 +232,6 @@
         "description": "Türkiye’nin raylı sistem teknolojilerinde yerlileştirme çalışmalarında önemli bir eşik daha geçildi. TÜRASAŞ tarafından geliştirilen Milli Elektrikli Hızlı Tren, devam eden testlerde daha önce ulaştığı 240 km/s hızın üzerine çıkarak 250 km/s...",
         "source": "ShiftDelete",
         "published": "2026-09-01T15:30:35+00:00"
-      },
-      {
-        "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-        "description": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices...",
-        "source": "The Verge",
-        "published": "2026-09-01T15:02:54-04:00"
       },
       {
         "title": "Adobe Photoshop'a Her Biri Birbirinden Kullanışlı Harika Özellikler Geldi",
@@ -269,27 +318,6 @@
         "published": "2026-09-01T13:04:21+00:00"
       },
       {
-        "title": "GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’",
-        "link": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
-        "description": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later....",
-        "source": "The Verge",
-        "published": "2026-09-01T13:03:29-04:00"
-      },
-      {
-        "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
-        "link": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
-        "description": "If you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy, the best deal we’ve seen since the phone launched last month. The phone impressed us with...",
-        "source": "The Verge",
-        "published": "2026-09-01T12:48:45-04:00"
-      },
-      {
-        "title": "John Deere launched an AI chatbot for farmers",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-        "description": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer...",
-        "source": "The Verge",
-        "published": "2026-09-01T12:30:23-04:00"
-      },
-      {
         "title": "Türkiye, NASA’nın Artemis Anlaşmaları’na Katıldı",
         "link": "https://shiftdelete.net/turkiye-nasanin-artemis-anlasmalarina-katildi",
         "description": "Türkiye, uzay çalışmalarında uluslararası iş birliğini güçlendirecek önemli bir adım attı. Artemis Anlaşmaları, Washington’daki NASA Genel Merkezi’nde düzenlenen törenle Türkiye tarafından imzalandı. Türkiye adına anlaşmayı Sanayi ve Teknoloji...",
@@ -302,20 +330,6 @@
         "description": "İngiliz teknoloji devi Dyson, Paris’te düzenlediği lansman etkinliğinde kişisel bakım kategorisine tamamen yeni bir soluk getiren akıllı diş fırçası Dyson CameraJet modelini duyurdu. Altı yıllık bir Ar-Ge sürecinin ardından geliştirilen cihaz;...",
         "source": "ShiftDelete",
         "published": "2026-09-01T12:03:13+00:00"
-      },
-      {
-        "title": "Homey just made the smart home controller I hoped Apple would build",
-        "link": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
-        "description": "Smart homes have gotten really good at making things really complicated. Turning on a light can involve multiple steps, compared to just flipping a switch. Homey, the Dutch-based smart home platform owned by LG, thinks it has a solution. This week...",
-        "source": "The Verge",
-        "published": "2026-09-01T12:00:14-04:00"
-      },
-      {
-        "title": "Google Pics is like Canva, but with even more AI",
-        "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-        "description": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI...",
-        "source": "The Verge",
-        "published": "2026-09-01T11:32:51-04:00"
       },
       {
         "title": "Bronco’ya Rakip: Hyundai Boulder Geliyor",
@@ -337,29 +351,36 @@
         "description": "Giyilebilir teknolojiden tablet ve akıllı telefon segmentine kadar geniş bir ürün yelpazesine sahip olan Huawei, yeni nesil amiral gemisi cihazlarını küresel pazara sunmaya hazırlanıyor. Yerinde takip edeceğimiz lansmanda tanıtılması beklenen Huawei...",
         "source": "ShiftDelete",
         "published": "2026-09-01T11:01:14+00:00"
-      },
-      {
-        "title": "Google Find Hub will soon help you locate things without a tracker",
-        "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-        "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness...",
-        "source": "The Verge",
-        "published": "2026-09-01T10:07:12-04:00"
-      },
-      {
-        "title": "Sony’s new party speakers have more bass, more LEDs, and more connectivity",
-        "link": "https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds",
-        "description": "Sony announced three new tower-style party speakers that will now be the largest options in its ULT Power Sound lineup. The new ULT Tower Max, ULT Tower 7, and ULT Tower 5 all feature expanded connectivity including USB-C, RCA, and XLR ports for...",
-        "source": "The Verge",
-        "published": "2026-09-01T05:41:51-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "US launches more strikes on Iran as state media reports explosions",
-        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+        "title": "Burnham promises more devolution and public control of essential services",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+        "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
         "source": "BBC News",
-        "published": "2026-09-01T19:50:05+00:00"
+        "published": "2026-09-01T21:48:44+00:00"
+      },
+      {
+        "title": "US strikes Iran as state media reports four killed at wedding party",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+        "source": "BBC News",
+        "published": "2026-09-01T21:48:28+00:00"
+      },
+      {
+        "title": "Ariana Grande ends tour and steps back from public life",
+        "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+        "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+        "source": "BBC News",
+        "published": "2026-09-01T21:41:05+00:00"
+      },
+      {
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+        "source": "BBC News",
+        "published": "2026-09-01T21:05:22+00:00"
       },
       {
         "title": "Baby girl who died at Sheffield house was stabbed, police say",
@@ -376,18 +397,11 @@
         "published": "2026-09-01T19:27:38+00:00"
       },
       {
-        "title": "Burnham promises more devolution and public control of essential services",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
-        "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
-        "source": "BBC News",
-        "published": "2026-09-01T19:18:30+00:00"
-      },
-      {
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-        "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-        "source": "BBC News",
-        "published": "2026-09-01T19:13:03+00:00"
+        "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+        "description": "The censure vote drew bipartisan support, and followed an investigation by the House Ethics Committee into allegations of sexual harassment against two young female staff members.",
+        "source": "NPR",
+        "published": "2026-09-01T18:18:20-04:00"
       },
       {
         "title": "Keir Starmer announces he is standing down as MP",
@@ -404,11 +418,11 @@
         "published": "2026-09-01T16:36:42+00:00"
       },
       {
-        "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-        "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+        "title": "Pistol in lake gives hope for case of British family killed in French Alps",
+        "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+        "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
         "source": "BBC News",
-        "published": "2026-09-01T16:11:18+00:00"
+        "published": "2026-09-01T16:33:29+00:00"
       },
       {
         "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
@@ -416,13 +430,6 @@
         "description": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults US politics live – latest updates Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to “start being...",
         "source": "The Guardian",
         "published": "2026-09-01T15:48:27+00:00"
-      },
-      {
-        "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-        "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-        "source": "BBC News",
-        "published": "2026-09-01T15:33:14+00:00"
       },
       {
         "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
@@ -523,13 +530,6 @@
         "published": "2026-09-01T05:00:00-04:00"
       },
       {
-        "title": "A N.Y. hospital tried to close its birthing center. This city united to fight back",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
-        "description": "Democrats and Republicans in Troy, N.Y., took on a national Catholic health system and kept the county's last birthing center open.",
-        "source": "NPR",
-        "published": "2026-09-01T05:00:00-04:00"
-      },
-      {
         "title": "South African airline defends dramatic low-level flyby before rugby union clash",
         "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
         "description": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated...",
@@ -567,6 +567,76 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-02-eylul-2026-1739936",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-02T01:30:00+03:00"
+      },
+      {
+        "title": "Robotlar 2 bin metre derinde keşfetti: Dev lav tabakası okyanus tabanını kaplamış",
+        "link": "https://www.sozcu.com.tr/robotlar-2-bin-metre-derinde-kesfetti-dev-lav-tabakasi-okyanus-tabanini-kaplamis-p354626",
+        "description": "Robotlar 2 bin metre derinde keşfetti: Dev lav tabakası okyanus tabanını kaplamış",
+        "source": "Sözcü",
+        "published": "2026-09-02T01:01:16+03:00"
+      },
+      {
+        "title": "İran düğün saldırısının intikamı için saldırdı: ABD'nin deniz piyade üssü vuruldu",
+        "link": "https://www.sozcu.com.tr/iran-dugun-saldirisinin-intikami-icin-saldirdi-abd-nin-deniz-piyade-ussu-vuruldu-p354625",
+        "description": "İran düğün saldırısının intikamı için saldırdı: ABD'nin deniz piyade üssü vuruldu",
+        "source": "Sözcü",
+        "published": "2026-09-02T00:52:33+03:00"
+      },
+      {
+        "title": "Trabzonspor'da Fatih Terim sesleri! Terim sahalara geri dönebilir",
+        "link": "https://www.sozcu.com.tr/trabzonspor-da-fatih-terim-sesleri-terim-sahalara-geri-donebilir-p354618",
+        "description": "Trabzonspor'da Fatih Terim sesleri! Terim sahalara geri dönebilir",
+        "source": "Sözcü",
+        "published": "2026-09-02T00:44:47+03:00"
+      },
+      {
+        "title": "ABD, Türkiye'yi Artemis Anlaşmaları'na katılımından dolayı tebrik etti",
+        "link": "https://www.ntv.com.tr/turkiye/abd-turkiyeyi-artemis-anlasmalarina-katilimindan-dolayi-tebrik-etti-1739940",
+        "description": "ABD Dışişleri Bakanlığı, Türkiye'yi Artemis Anlaşmaları'na katılımından dolayı tebrik etti.",
+        "source": "NTV",
+        "published": "2026-09-02T00:43:05+03:00"
+      },
+      {
+        "title": "Gözler İran'a çevrilmişken kriz çıkartacak açıklama Karadeniz'den geldi",
+        "link": "https://www.sozcu.com.tr/gozler-iran-a-cevrilmisken-kriz-cikartacak-aciklama-karadeniz-den-geldi-p354620",
+        "description": "Gözler İran'a çevrilmişken kriz çıkartacak açıklama Karadeniz'den geldi",
+        "source": "Sözcü",
+        "published": "2026-09-02T00:32:37+03:00"
+      },
+      {
+        "title": "AKP'yi yasa boğan ölüm! Erdoğan'dan açıklama geldi",
+        "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogandan-ismet-zeynep-ciftci-icin-taziye-mesaji-p354619",
+        "description": "AKP'yi yasa boğan ölüm! Erdoğan'dan açıklama geldi",
+        "source": "Sözcü",
+        "published": "2026-09-02T00:29:04+03:00"
+      },
+      {
+        "title": "Tosuncuk başkenti karıştırdı! Emniyet ve savcılık karşı karşıya geldi",
+        "link": "https://www.sozcu.com.tr/tosuncuk-baskenti-karistirdi-emniyet-ve-savcilik-karsi-karsiya-geldi-p354614",
+        "description": "Tosuncuk başkenti karıştırdı! Emniyet ve savcılık karşı karşıya geldi",
+        "source": "Sözcü",
+        "published": "2026-09-02T00:25:32+03:00"
+      },
+      {
+        "title": "FIBA'dan Rus sporcularla ilgili kritik karar",
+        "link": "https://www.sozcu.com.tr/fiba-dan-rus-sporcularla-ilgili-kritik-karar-p354610",
+        "description": "FIBA'dan Rus sporcularla ilgili kritik karar",
+        "source": "Sözcü",
+        "published": "2026-09-01T23:38:55+03:00"
+      },
+      {
+        "title": "ABD, İran’a saldırdı, piyasalar alt üst oldu: Altın çakıldı, Brent Petrol yükseldi",
+        "link": "https://www.sozcu.com.tr/abd-iran-a-saldirdi-piyasalar-alt-ust-oldu-altin-cakildi-brent-petrol-yukseldi-p354606",
+        "description": "ABD, İran’a saldırdı, piyasalar alt üst oldu: Altın çakıldı, Brent Petrol yükseldi",
+        "source": "Sözcü",
+        "published": "2026-09-01T23:34:45+03:00"
+      },
+      {
         "title": "Çölün ortasına dev çiftlik kuracaklar: 270 bin inekle üretim 200 bin tona ulaşacak",
         "link": "https://www.sozcu.com.tr/colun-ortasina-dev-ciftlik-kuracaklar-270-bin-inekle-uretim-200-bin-tona-ulasacak-p354604",
         "description": "Çölün ortasına dev çiftlik kuracaklar: 270 bin inekle üretim 200 bin tona ulaşacak",
@@ -581,53 +651,11 @@
         "published": "2026-09-01T22:44:27+03:00"
       },
       {
-        "title": "Yevmiye 4 bin, en düşük maaş 94 bin TL oldu: İşçiler bayram etti",
-        "link": "https://www.sozcu.com.tr/yevmiye-4-bin-en-dusuk-maas-94-bin-tl-oldu-isciler-bayram-etti-p354602",
-        "description": "Yevmiye 4 bin, en düşük maaş 94 bin TL oldu: İşçiler bayram etti",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:41:48+03:00"
-      },
-      {
-        "title": "Galatasaray Deniz Gül'ü resmen açıkladı! Transferin mali detayları belli oldu",
-        "link": "https://www.sozcu.com.tr/galatasaray-deniz-gul-icin-portoya-10-milyon-euro-odeyecek-p354601",
-        "description": "Galatasaray Deniz Gül'ü resmen açıkladı! Transferin mali detayları belli oldu",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:38:20+03:00"
-      },
-      {
-        "title": "Trabzonspor'da ayrılık resmen açıklandı",
-        "link": "https://www.sozcu.com.tr/trabzonspor-john-lundstramin-sozlesmesini-karsilikli-feshetti-p354600",
-        "description": "Trabzonspor'da ayrılık resmen açıklandı",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:34:12+03:00"
-      },
-      {
-        "title": "Santarelli: Mükemmel oynadığımızı söyleyemem",
-        "link": "https://www.sozcu.com.tr/santarelli-mukemmel-oynadigimizi-soyleyemem-p354599",
-        "description": "Santarelli: Mükemmel oynadığımızı söyleyemem",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:27:55+03:00"
-      },
-      {
-        "title": "İnsanların terk ettiği bölgede 40 yıl sonra şaşırtan manzara",
-        "link": "https://www.sozcu.com.tr/insanlarin-terk-ettigi-bolgede-40-yil-sonra-sasirtan-manzara-p354598",
-        "description": "İnsanların terk ettiği bölgede 40 yıl sonra şaşırtan manzara",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:16:14+03:00"
-      },
-      {
-        "title": "Kaçısın faturası ağır oldu: Polisin ‘dur’ ihtarına uymadı, bir polisi yaraladı",
-        "link": "https://www.sozcu.com.tr/kacisin-faturasi-agir-oldu-polisin-dur-ihtarina-uymadi-bir-polisi-yaraladi-p354596",
-        "description": "Kaçısın faturası ağır oldu: Polisin ‘dur’ ihtarına uymadı, bir polisi yaraladı",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:08:52+03:00"
-      },
-      {
-        "title": "16 yıl ceza istenen 'dar gömlek' hakim karşısına çıkacak",
-        "link": "https://www.sozcu.com.tr/16-yil-ceza-istenen-dar-gomlek-hakim-karsisina-cikacak-p354594",
-        "description": "16 yıl ceza istenen 'dar gömlek' hakim karşısına çıkacak",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:08:25+03:00"
+        "title": "Gülistan Doku soruşturmasında yeni tutuklamalar",
+        "link": "https://www.bbc.com/turkce/articles/cpq0971yn20o?at_medium=RSS&at_campaign=rss",
+        "description": "Gülistan Doku ile ilgili yürütülen soruşturma kapsamında gözaltına alınan şüphelilerden ikisi tutuklandı. Doku'nun tutuklu eski erkek arkadaşının Tunceli'ye getirilerek ifadesinin alındığı bildirildi.",
+        "source": "BBC Turkish",
+        "published": "2026-09-01T22:14:04+00:00"
       },
       {
         "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
@@ -637,18 +665,18 @@
         "published": "2026-09-01T22:05:06+03:00"
       },
       {
-        "title": "Cem Yılmaz taburcu oldu, ilk o fotoğrafı paylaştı",
-        "link": "https://www.sozcu.com.tr/cem-yilmaz-taburcu-oldu-ilk-o-fotografi-paylasti-p354592",
-        "description": "Cem Yılmaz taburcu oldu, ilk o fotoğrafı paylaştı",
-        "source": "Sözcü",
-        "published": "2026-09-01T22:03:09+03:00"
-      },
-      {
         "title": "Eski bakana yurt dışına çıkış yasağı. 'Çakarlı' aracı bin liraya kiraya vermiş",
         "link": "https://www.ntv.com.tr/turkiye/eski-bakana-yurt-disina-cikis-yasagi-cakarli-araci-bin-liraya-kiraya-vermis-1739911",
         "description": "Eski İçişleri Bakanı İdris Naim Şahin, Alihan Kuriş Suç Örgütü'yle ilgili soruşturmada yurt dışına çıkış yasağıyla serbest bırakıldı.",
         "source": "NTV",
         "published": "2026-09-01T21:49:29+03:00"
+      },
+      {
+        "title": "ABD İran'a saldırdı, devlet medyası bir düğünde dört kişinin öldüğünü bildirdi",
+        "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Merkez Komutanlığı (CENTCOM), Amerikan güçlerinin 1 Eylül Salı günü İran'a yönelik saldırıları yeniden başlattığını bildirdi. İran Kızılayı, ABD füze saldırısından kaynaklanan şarapnel parçalarının İran'ın güneyindeki Sirik'te düğün yapılan bir...",
+        "source": "BBC Turkish",
+        "published": "2026-09-01T21:42:20+00:00"
       },
       {
         "title": "İdris Naim Şahin hakkında yurtdışına çıkış yasağı",
@@ -707,13 +735,6 @@
         "published": "2026-09-01T16:28:07+03:00"
       },
       {
-        "title": "Uyum haftası 7 Eylül'de başlıyor. Okulların açılmasına sayılı gün kala uzmanların tavsiyeleri ne?",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-uyum-haftasi-7-eylulde-basliyor-okullarin-acilmasina-sayili-gun-kala-uzmanlarin-tavsiyeleri-ne-1739902",
-        "description": "Okul öncesi ve ilkokul birinci sınıf öğrencilerinin okula alışabilmesi için uyum haftası 7 Eylül Pazartesi günü başlayacak. Uzmanların tavsiyeleri neler?",
-        "source": "NTV",
-        "published": "2026-09-01T16:03:03+03:00"
-      },
-      {
         "title": "KYK yurt ücretleri 2026-2027: KYK yurt ücretleri ne kadar oldu, zam geldi mi?",
         "link": "https://www.ntv.com.tr/turkiye/galeri-kyk-yurt-ucretleri-2026-2027-kyk-yurt-ucretleri-ne-kadar-oldu-zam-geldi-mi-1739910",
         "description": "2027 eğitim-öğretim yılı öncesinde üniversite kayıt haklarını elde eden ve Gençlik ve Spor Bakanlığı (GSB) yurt başvurularını tamamlayan yüz binlerce öğrencinin gözü KYK yurt ücretlerine çevrildi.",
@@ -726,13 +747,6 @@
         "description": "Ankara’da kaybolan eşeğini günlerce arayan Orhan Figan, hayvanının Protokol Yolu’nda bulunup çekiciyle yediemin otoparkına götürüldüğünü öğrendi. Figan, bin 246 lira ceza ödeyerek eşeğini teslim aldı.",
         "source": "NTV",
         "published": "2026-09-01T15:35:53+03:00"
-      },
-      {
-        "title": "Gülistan Doku soruşturmasında bir tutuklama daha",
-        "link": "https://www.ntv.com.tr/turkiye/gulistan-doku-sorusturmasinda-bir-tutuklama-daha-1739904",
-        "description": "Gülistan Doku soruşturmasının beşinci dalga operasyonunda gözaltına alınan şüphelilerden biri tutuklandı.",
-        "source": "NTV",
-        "published": "2026-09-01T15:23:52+03:00"
       },
       {
         "title": "Şanghay İşbirliği Örgütü'nün 25. yılı: Türkiye'nin ilişkisi nasıl şekillendi?",
@@ -756,25 +770,11 @@
         "published": "2026-09-01T13:54:36+00:00"
       },
       {
-        "title": "Kene aşısı çalışmaları ne durumda?",
-        "link": "https://www.bbc.com/turkce/articles/cn9w3rwyvn0o?at_medium=RSS&at_campaign=rss",
-        "description": "Lyme hastalığı artışta. Bilim insanları bunu önlemenin yollarını arıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-09-01T13:24:19+00:00"
-      },
-      {
         "title": "Nepal selinde ölü sayısı 1.000'i geçti, santralde kalan 600 çalışan aranıyor",
         "link": "https://www.bbc.com/turkce/articles/c9803mv5nlmo?at_medium=RSS&at_campaign=rss",
         "description": "Nepal'in afet kurumu tarafından yapılan açıklamaya göre, 26 Ağustos Çarşamba Tibet sınırında meydana gelen yıkıcı sellerde hayatını kaybedenlerin sayısı 1.000'i aştı. 3.900'den fazla kişi hâlâ kayıp. Bunların 600'den fazlasını, Trishuli Nehri...",
         "source": "BBC Turkish",
         "published": "2026-09-01T09:55:34+00:00"
-      },
-      {
-        "title": "Deniz Göktaş'a tahliye kararı verilen suçlardan tekrar tutuklama",
-        "link": "https://www.bbc.com/turkce/articles/c0qxdyl8zw3o?at_medium=RSS&at_campaign=rss",
-        "description": "Komedyen Deniz Göktaş, hakkında 28 Ağustos'ta tahliye kararı verilen suçlamalardan tekrar tutuklandı.",
-        "source": "BBC Turkish",
-        "published": "2026-08-31T23:45:27+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8614
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+92°F",
-    "wind": "→4mph",
-    "humidity": "45%"
+    "condition": "Bulutlu",
+    "temp": "+71°F",
+    "wind": "↗11mph",
+    "humidity": "55%"
   }
 }
