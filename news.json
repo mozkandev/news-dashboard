@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-02T23:05:48.911619+00:00",
+  "updated_at": "2026-09-03T01:17:46.410867+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+        "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+        "description": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident Comments URL: https://news.ycombinator.com/item?id=49543841 Points: 77 # Comments: 63",
+        "source": "HackerNews",
+        "published": "2026-09-02T23:08:47+00:00"
+      },
       {
         "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -31,9 +38,16 @@
         "published": "2026-09-02T22:24:09+00:00"
       },
       {
+        "title": "Reasons robotics is hard",
+        "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+        "description": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 27 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-09-02T22:02:30+00:00"
+      },
+      {
         "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
         "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-        "description": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 18 # Comments: 2",
+        "description": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 89 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-09-02T21:46:33+00:00"
       },
@@ -59,11 +73,11 @@
         "published": "2026-09-02T21:00:04+00:00"
       },
       {
-        "title": "Mamdani Bans AI in NYC Schools",
-        "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-        "description": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 104 # Comments: 62",
-        "source": "HackerNews",
-        "published": "2026-09-02T20:57:04+00:00"
+        "title": "The best tech and gadgets announced at IFA so far",
+        "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+        "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of...",
+        "source": "The Verge",
+        "published": "2026-09-02T20:42:59-04:00"
       },
       {
         "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -82,21 +96,21 @@
       {
         "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
         "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-        "description": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 33 # Comments: 11",
+        "description": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 39 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-09-02T20:08:22+00:00"
       },
       {
         "title": "I wanna live an NPC life",
         "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-        "description": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 153 # Comments: 146",
+        "description": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 178 # Comments: 174",
         "source": "HackerNews",
         "published": "2026-09-02T19:52:53+00:00"
       },
       {
         "title": "Fable 5.1 World Modeling",
         "link": "https://github.com/PhiloLabs/fable51-worlds",
-        "description": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 93 # Comments: 34",
+        "description": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 137 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-09-02T19:49:01+00:00"
       },
@@ -117,7 +131,7 @@
       {
         "title": "Muse Spark 1.3",
         "link": "https://developer.meta.com/ai/models/muse-spark/",
-        "description": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 291 # Comments: 203",
+        "description": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 374 # Comments: 247",
         "source": "HackerNews",
         "published": "2026-09-02T19:35:04+00:00"
       },
@@ -138,16 +152,9 @@
       {
         "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
         "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-        "description": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 61 # Comments: 33",
+        "description": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 76 # Comments: 43",
         "source": "HackerNews",
         "published": "2026-09-02T18:42:41+00:00"
-      },
-      {
-        "title": "Embedded Rust RTOS vs. C RTOS",
-        "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-        "description": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 47 # Comments: 21",
-        "source": "HackerNews",
-        "published": "2026-09-02T18:32:24+00:00"
       },
       {
         "title": "Microsoft Windows 11 Güncellemesi İle Undervolt Yazılımlarını Engelleyecek",
@@ -325,13 +332,6 @@
         "published": "2026-09-02T13:01:08-04:00"
       },
       {
-        "title": "The best tech and gadgets announced at IFA so far",
-        "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-        "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of...",
-        "source": "The Verge",
-        "published": "2026-09-02T12:43:50-04:00"
-      },
-      {
         "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
         "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
         "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning...",
@@ -354,6 +354,41 @@
       }
     ],
     "dunya": [
+      {
+        "title": "The overlooked factor driving the childhood obesity crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
+        "description": "At a specialist childhood obesity clinic, almost all of the children are not in school. Why?",
+        "source": "BBC News",
+        "published": "2026-09-03T00:47:45+00:00"
+      },
+      {
+        "title": "Burnham to tackle 'mega-donors' in UK politics, minister says",
+        "link": "https://www.bbc.co.uk/news/articles/c7839kyekm0o?at_medium=RSS&at_campaign=rss",
+        "description": "Some MPs have pressed for the government to introduce a cap on UK-based donors.",
+        "source": "BBC News",
+        "published": "2026-09-03T00:44:36+00:00"
+      },
+      {
+        "title": "Rocky Horror star Tim Curry's cause of death revealed",
+        "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
+        "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
+        "source": "BBC News",
+        "published": "2026-09-02T23:47:02+00:00"
+      },
+      {
+        "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+        "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+        "source": "BBC News",
+        "published": "2026-09-02T23:36:49+00:00"
+      },
+      {
+        "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+        "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+        "source": "BBC News",
+        "published": "2026-09-02T23:08:05+00:00"
+      },
       {
         "title": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
         "link": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&at_campaign=rss",
@@ -397,27 +432,6 @@
         "published": "2026-09-02T17:59:14-04:00"
       },
       {
-        "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
-        "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
-        "description": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
-        "source": "BBC News",
-        "published": "2026-09-02T17:43:48+00:00"
-      },
-      {
-        "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-        "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
-        "source": "BBC News",
-        "published": "2026-09-02T17:21:00+00:00"
-      },
-      {
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-        "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-        "source": "BBC News",
-        "published": "2026-09-02T16:49:00+00:00"
-      },
-      {
         "title": "The IRS slashed its staff. One result? More taxes going uncollected",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
         "description": "The IRS slashed its auditing staff last year — but the move may have backfired as tax collections from enforcement efforts plummeted, an Inspector General report shows.",
@@ -430,20 +444,6 @@
         "description": "Investigative journalist Daphne Caruana Galizia had written extensively about suspected corruption in political and business circles in Malta. She was killed by a car bomb in 2017, at age 53.",
         "source": "NPR",
         "published": "2026-09-02T15:48:18-04:00"
-      },
-      {
-        "title": "Four in court over murder of baby stabbed to death",
-        "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
-        "description": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
-        "source": "BBC News",
-        "published": "2026-09-02T15:35:13+00:00"
-      },
-      {
-        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
-        "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
-        "source": "BBC News",
-        "published": "2026-09-02T15:16:42+00:00"
       },
       {
         "title": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
@@ -567,11 +567,39 @@
     ],
     "turkiye": [
       {
+        "title": "Marmara'da gemi kazası: Tuğberk İmamoğlu ile Alsu arasındaki son telsiz konuşması ortaya çıktı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-marmarada-gemi-kazasi-tugberk-imamoglu-ile-alsu-arasindaki-son-telsiz-konusmasi-ortaya-cikti-1740052",
+        "description": "Marmara Denizi'nde çarpışan Tuğberk İmamoğlu ile Alsu gemisi arasındaki son telsiz konuşmasının kaydı ortaya çıktı. Silivri Cumhuriyet Başsavcılığı kazayla ilgili soruşturma başlattı.",
+        "source": "NTV",
+        "published": "2026-09-03T04:12:40+03:00"
+      },
+      {
+        "title": "KKTC’de koalisyon dağılıyor. Arıklı görevden alınınca partisi YDP hükümetten çekildi",
+        "link": "https://www.ntv.com.tr/turkiye/kktc-basbakani-ustel-ulastirma-bakani-erhan-arikliyi-gorevden-aldi-1740065",
+        "description": "Girne faciası nedeniyle KKTC Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı’nın görevden alınmasının ardından YDP, hükümetten çekildi.",
+        "source": "NTV",
+        "published": "2026-09-03T04:05:52+03:00"
+      },
+      {
+        "title": "Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-bahceliden-amedspor-arastirmasina-tepki-spor-kimlik-siyasetine-alet-edilmemeli-1740066",
+        "description": "MHP lideri Devlet Bahçeli, Amedspor taraftarlığına ilişkin araştırmaya tepki göstererek, çalışmanın “bölücülüğü zinde tutmaya” hizmet ettiğini söyledi.",
+        "source": "NTV",
+        "published": "2026-09-03T04:04:35+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 03 Eylül 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-03-eylul-2026-1740082",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 03 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-03T02:00:00+03:00"
+        "published": "2026-09-03T04:00:00+03:00"
+      },
+      {
+        "title": "ABD'de silahlı saldırı: 2'si polis çok sayıda yaralı var",
+        "link": "https://www.sozcu.com.tr/abdde-silahli-saldiri-2si-polis-cok-sayida-yarali-var-p354938",
+        "description": "ABD'de silahlı saldırı: 2'si polis çok sayıda yaralı var",
+        "source": "Sözcü",
+        "published": "2026-09-03T03:48:43+03:00"
       },
       {
         "title": "Kardeşlerin bıçaklı kavgası. 1 ölü, 1 yaralı",
@@ -623,6 +651,13 @@
         "published": "2026-09-03T00:17:17+03:00"
       },
       {
+        "title": "Yedikleriniz ruh halinizi etkiliyor olabilir: Deneyebileceğiniz 4 şey",
+        "link": "https://www.bbc.com/turkce/articles/c3ren0znvd7o?at_medium=RSS&at_campaign=rss",
+        "description": "Yedikleriniz her ruh sağlığı sorununu çözmez. Ancak araştırmalar kan şekeri düşüşlerinden bağırsak sağlığına kadar çeşitli etkenler sayesinde beslenmenin ruh hali ve stres üzerinde şaşırtıcı bir etkisi olabileceğini gösteriyor.",
+        "source": "BBC Turkish",
+        "published": "2026-09-03T00:04:40+00:00"
+      },
+      {
         "title": "Trabzonspor aradığı forveti Danimarka'da buldu! Franculino Gludo Dju resmi olarak açıklandı",
         "link": "https://www.sozcu.com.tr/trabzonspordan-danimarkada-bombasiz-transfer-franculinoya-goz-dikti-p354906",
         "description": "Trabzonspor aradığı forveti Danimarka'da buldu! Franculino Gludo Dju resmi olarak açıklandı",
@@ -637,13 +672,6 @@
         "published": "2026-09-02T23:47:38+03:00"
       },
       {
-        "title": "KKTC’de koalisyon dağılıyor. Arıklı görevden alınınca partisi YDP hükümetten çekildi",
-        "link": "https://www.ntv.com.tr/turkiye/kktc-basbakani-ustel-ulastirma-bakani-erhan-arikliyi-gorevden-aldi-1740065",
-        "description": "Girne faciası nedeniyle KKTC Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı’nın görevden alınmasının ardından YDP, hükümetten çekildi.",
-        "source": "NTV",
-        "published": "2026-09-02T23:46:59+03:00"
-      },
-      {
         "title": "50 yıllık helikopterleri emekliye ayırdılar: Nükleer tesisleri artık onlar koruyacak",
         "link": "https://www.sozcu.com.tr/50-yillik-helikopterleri-emekliye-ayirdilar-nukleer-tesisleri-artik-onlar-koruyacak-p354907",
         "description": "50 yıllık helikopterleri emekliye ayırdılar: Nükleer tesisleri artık onlar koruyacak",
@@ -651,11 +679,18 @@
         "published": "2026-09-02T23:37:37+03:00"
       },
       {
-        "title": "Önce aracını polislerin üzerine sürdü, sonra bıçak çekti: Üstünü çıkardı, ortalığı birbirine kattı",
-        "link": "https://www.sozcu.com.tr/once-aracini-polislerin-uzerine-surdu-sonra-bicak-cekti-ustunu-cikardi-ortaligi-birbirine-katti-p354904",
-        "description": "Önce aracını polislerin üzerine sürdü, sonra bıçak çekti: Üstünü çıkardı, ortalığı birbirine kattı",
-        "source": "Sözcü",
-        "published": "2026-09-02T23:37:18+03:00"
+        "title": "İran: ABD düğüne saldırarak savaş suçu işledi",
+        "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Merkez Komutanlığı (CENTCOM), Amerikan güçlerinin 1 Eylül Salı günü İran'a yönelik saldırıları yeniden başlattığını bildirdi. İran, ABD'nin bir düğün evini bombalayarak savaş suçu işlediğini açıkladı.",
+        "source": "BBC Turkish",
+        "published": "2026-09-02T23:36:47+00:00"
+      },
+      {
+        "title": "Kendi kendine uçan uçaklar havacılığı dönüştürecek mi?",
+        "link": "https://www.bbc.com/turkce/articles/cd685edy948o?at_medium=RSS&at_campaign=rss",
+        "description": "Otonom zirai ilaçlama uçakları, pilotsuz uçuş alanında öncü rol oynuyor.",
+        "source": "BBC Turkish",
+        "published": "2026-09-02T23:24:08+00:00"
       },
       {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
@@ -686,20 +721,6 @@
         "published": "2026-09-02T20:15:31+03:00"
       },
       {
-        "title": "Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-bahceliden-amedspor-arastirmasina-tepki-spor-kimlik-siyasetine-alet-edilmemeli-1740066",
-        "description": "MHP lideri Devlet Bahçeli, Amedspor taraftarlığına ilişkin araştırmaya tepki göstererek, çalışmanın “bölücülüğü zinde tutmaya” hizmet ettiğini söyledi.",
-        "source": "NTV",
-        "published": "2026-09-02T19:36:37+03:00"
-      },
-      {
-        "title": "Marmara'da gemi kazası: Tuğberk İmamoğlu ile Alsu arasındaki son telsiz konuşması ortaya çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-marmarada-gemi-kazasi-tugberk-imamoglu-ile-alsu-arasindaki-son-telsiz-konusmasi-ortaya-cikti-1740052",
-        "description": "Marmara Denizi'nde çarpışan Tuğberk İmamoğlu ile Alsu gemisi arasındaki son telsiz konuşmasının kaydı ortaya çıktı.",
-        "source": "NTV",
-        "published": "2026-09-02T19:10:06+03:00"
-      },
-      {
         "title": "Üsküdar Belediyesi'nde başkanvekili seçimi yenilenecek",
         "link": "https://www.ntv.com.tr/turkiye/uskudar-belediyesinde-baskanvekilligi-secimi-yenilenecek-1740063",
         "description": "İstanbul Bölge İdare Mahkemesi, yenileme kararına yönelik itirazları reddetti, Üsküdar Belediyesi'nde başkanvekilliği seçimi yenilenecek. Öte yandan belediyeye yeni bir operasyon daha yapıldı.",
@@ -728,20 +749,6 @@
         "published": "2026-09-02T15:32:17+00:00"
       },
       {
-        "title": "Melih Gökçek şüpheli sıfatıyla ifadeye çağrıldı",
-        "link": "https://www.bbc.com/turkce/articles/ckgwn4nj90lo?at_medium=RSS&at_campaign=rss",
-        "description": "Eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek şüpheli sıfatıyla ifadeye çağrıldı. Gökçek hakkında \"yurt dışındaki şirketlere kayıt dışı para aktarıldığı\" iddiasıyla soruşturma sürüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-09-02T15:16:41+00:00"
-      },
-      {
-        "title": "İran: ABD düğüne saldırarak savaş suçu işledi",
-        "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Merkez Komutanlığı (CENTCOM), Amerikan güçlerinin 1 Eylül Salı günü İran'a yönelik saldırıları yeniden başlattığını bildirdi. İran, ABD'nin bir düğün evini bombalayarak savaş suçu işlediğini açıkladı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-02T14:45:50+00:00"
-      },
-      {
         "title": "Kademeli emeklilik nedir, hükümetin bu yönde bir hazırlığı var mı?",
         "link": "https://www.bbc.com/turkce/articles/c7708zr3p5eo?at_medium=RSS&at_campaign=rss",
         "description": "Çalışanların \"kademeli emeklilik\" talebi, son haftalarda iktidar ve Çalışma ve Sosyal Güvenlik Bakanlığı ile yapılan görüşmelerin ardından yeniden tartışılmaya başladı.",
@@ -763,13 +770,6 @@
         "published": "2026-09-02T11:28:39+00:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan'dan ŞİÖ açıklaması: Üyelik perspektifi Batı'ya sırt çevirme anlamına gelmez",
-        "link": "https://www.bbc.com/turkce/articles/c89jy1l9w1ko?at_medium=RSS&at_campaign=rss",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Şanghay İşbirliği Örgütü'nün Kırgızistan'daki zirvesinden dönüşte, örgüte üyelikle ilgili açıklamalarda bulundu. Yunanistan ve çerçeve yasa ile ilgili de açıklamalar yaptı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-02T10:34:59+00:00"
-      },
-      {
         "title": "Afganistan'a geri gönderilen altı milyon kişinin Taliban ile yaşama mücadelesi",
         "link": "https://www.bbc.com/turkce/articles/cgqd0w8j4w5o?at_medium=RSS&at_campaign=rss",
         "description": "Ağustos ayı itibarıyla, Pakistan ve İran'dan zorla geri dönenlerin sayısı bu yıl bir milyona ulaştı. Üç yıldan kısa bir süre içinde dönenlerin sayısı ise altı milyonu buldu.",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.2844,
-    "eur_try": 55.9776,
-    "eur_usd": 0.8625
+    "usd_try": 48.333,
+    "eur_try": 55.9994,
+    "eur_usd": 0.8633
   },
   "weather": {
-    "condition": "Orta kuvvette yağmur",
-    "temp": "+61°F",
-    "wind": "↖4mph",
-    "humidity": "77%"
+    "condition": "Patchy rain nearby",
+    "temp": "+80°F",
+    "wind": "↗2mph",
+    "humidity": "65%"
   }
 }
