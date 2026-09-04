@@ -1,18 +1,74 @@
 {
-  "updated_at": "2026-09-04T19:18:37.642907+00:00",
+  "updated_at": "2026-09-04T21:39:44.514309+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+        "source": "TechCrunch",
+        "published": "2026-09-04T21:12:11+00:00"
+      },
+      {
+        "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+        "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+        "description": "Article URL: https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/ Comments URL: https://news.ycombinator.com/item?id=49570133 Points: 22 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-09-04T21:00:02+00:00"
+      },
+      {
+        "title": "Statichost.eu – 100% European static site hosting",
+        "link": "https://www.statichost.eu/",
+        "description": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 30 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-09-04T20:34:49+00:00"
+      },
+      {
+        "title": "How to Create a Tor Exit Node",
+        "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+        "description": "Article URL: https://madpsy.uk/how-to-create-a-tor-exit-node/ Comments URL: https://news.ycombinator.com/item?id=49569702 Points: 13 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-09-04T20:16:22+00:00"
+      },
+      {
+        "title": "An open DNS recursive service for free security and high privacy",
+        "link": "https://quad9.net/",
+        "description": "Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 17 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-09-04T20:13:08+00:00"
+      },
+      {
+        "title": "Can AI design circuit boards yet?",
+        "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "description": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 64 # Comments: 49",
+        "source": "HackerNews",
+        "published": "2026-09-04T19:48:29+00:00"
+      },
+      {
+        "title": "Government Rails Site Hit Hours After CVE Patch",
+        "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+        "description": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 43 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-09-04T19:06:39+00:00"
+      },
+      {
+        "title": "Fermat's Last Theorem in Lean 4",
+        "link": "https://github.com/anthropics/fermats-last-theorem",
+        "description": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 19 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-09-04T18:57:32+00:00"
+      },
+      {
         "title": "Shutting down our public encrypted DNS",
         "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-        "description": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 28 # Comments: 3",
+        "description": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 152 # Comments: 51",
         "source": "HackerNews",
         "published": "2026-09-04T18:50:28+00:00"
       },
       {
         "title": "Formalizing Fermat's Last Theorem",
         "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "description": "Article URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 67 # Comments: 19",
+        "description": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 293 # Comments: 176",
         "source": "HackerNews",
         "published": "2026-09-04T18:42:56+00:00"
       },
@@ -24,13 +80,6 @@
         "published": "2026-09-04T18:29:25+03:00"
       },
       {
-        "title": "Hayes AT command set",
-        "link": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
-        "description": "Article URL: https://en.wikipedia.org/wiki/Hayes_AT_command_set Comments URL: https://news.ycombinator.com/item?id=49567961 Points: 16 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-09-04T17:56:14+00:00"
-      },
-      {
         "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
         "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
         "description": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
@@ -40,7 +89,7 @@
       {
         "title": "The Rust React Compiler is now native in Vite",
         "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-        "description": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 17 # Comments: 3",
+        "description": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 75 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-09-04T17:49:09+00:00"
       },
@@ -66,18 +115,11 @@
         "published": "2026-09-04T17:42:42+03:00"
       },
       {
-        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-        "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-        "description": "https://archive.ph/3zcMG Comments URL: https://news.ycombinator.com/item?id=49567594 Points: 117 # Comments: 84",
-        "source": "HackerNews",
-        "published": "2026-09-04T17:29:22+00:00"
-      },
-      {
-        "title": "Show HN: Open-Source eInk Bike Computer",
-        "link": "https://opentrailpaper.com",
-        "description": "Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by...",
-        "source": "HackerNews",
-        "published": "2026-09-04T17:18:08+00:00"
+        "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+        "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+        "description": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was...",
+        "source": "The Verge",
+        "published": "2026-09-04T17:23:50-04:00"
       },
       {
         "title": "What will Apple’s John Ternus era look like?",
@@ -92,20 +134,6 @@
         "description": "BMW, marş rölesindeki su sızıntısı ve yangın riski nedeniyle 2014-2020 arası üretilen 189 binden fazla aracı geri çağırıyor.",
         "source": "Webtekno",
         "published": "2026-09-04T17:13:21+03:00"
-      },
-      {
-        "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-        "link": "https://twitter.com/ggerganov/status/2095897173376618881",
-        "description": "Article URL: https://twitter.com/ggerganov/status/2095897173376618881 Comments URL: https://news.ycombinator.com/item?id=49567357 Points: 39 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-09-04T17:12:22+00:00"
-      },
-      {
-        "title": "Stop Thinking of LLMs as Next-Token Predictors",
-        "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-        "description": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html Comments URL: https://news.ycombinator.com/item?id=49567310 Points: 9 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-09-04T17:09:24+00:00"
       },
       {
         "title": "Tesla'dan Otonom Sürüşte Yeni Eşik: Robotaxi 1.6 Milyon Kilometreyi Geride Bıraktı!",
@@ -157,20 +185,6 @@
         "published": "2026-09-04T16:49:29+03:00"
       },
       {
-        "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-        "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-        "description": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/ Comments URL: https://news.ycombinator.com/item?id=49567053 Points: 118 # Comments: 59",
-        "source": "HackerNews",
-        "published": "2026-09-04T16:46:59+00:00"
-      },
-      {
-        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-        "description": "Article URL: https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/ Comments URL: https://news.ycombinator.com/item?id=49566788 Points: 39 # Comments: 16",
-        "source": "HackerNews",
-        "published": "2026-09-04T16:24:50+00:00"
-      },
-      {
         "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
         "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
         "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
@@ -190,6 +204,13 @@
         "description": "EPC, “Electronic Power Control” yani Elektronik Güç Kontrolü anlamına gelmektedir. Aracın gösterge panelinde EPC ışığını gören sürücüler, bunun ne anlama geldiğini ve araçta ciddi bir problem olup olmadığını merak etmekte haklıdır. Özellikle...",
         "source": "ShiftDelete",
         "published": "2026-09-04T15:55:44+00:00"
+      },
+      {
+        "title": "The White House is making arcade games racist",
+        "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+        "description": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris...",
+        "source": "The Verge",
+        "published": "2026-09-04T15:42:54-04:00"
       },
       {
         "title": "Dyson Çıldırdı! Dyson CameraJet, Nurovi Robot Süpürge, Hush Jet ve Corrale Cool-Shine",
@@ -318,13 +339,6 @@
         "published": "2026-09-04T12:12:02-04:00"
       },
       {
-        "title": "Feds launch investigation into Tesla’s Cybercab deployment",
-        "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-        "description": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
-        "source": "TechCrunch",
-        "published": "2026-09-04T12:01:14+00:00"
-      },
-      {
         "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
         "link": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
         "description": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for new Woot customers (with...",
@@ -332,48 +346,55 @@
         "published": "2026-09-04T11:08:21-04:00"
       },
       {
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-        "description": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced...",
-        "source": "The Verge",
-        "published": "2026-09-04T10:46:39-04:00"
-      },
-      {
         "title": "Nintendo’s next two Direct events are both happening next week",
         "link": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
         "description": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube...",
         "source": "The Verge",
         "published": "2026-09-04T10:39:37-04:00"
-      },
-      {
-        "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
-        "link": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
-        "description": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration...",
-        "source": "The Verge",
-        "published": "2026-09-04T10:32:05-04:00"
       }
     ],
     "dunya": [
       {
-        "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
-        "link": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
-        "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
+        "title": "Cleveland police chief proud of force but being 'let down' by funding",
+        "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+        "description": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
         "source": "BBC News",
-        "published": "2026-09-04T19:13:15+00:00"
+        "published": "2026-09-04T21:00:05+00:00"
       },
       {
-        "title": "UN votes to adopt new world map to reflect Africa's true size",
-        "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-        "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
-        "source": "BBC News",
-        "published": "2026-09-04T17:26:40+00:00"
+        "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+        "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+        "description": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative...",
+        "source": "The Guardian",
+        "published": "2026-09-04T20:21:52+00:00"
       },
       {
         "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
         "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
         "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
         "source": "BBC News",
-        "published": "2026-09-04T16:50:00+00:00"
+        "published": "2026-09-04T19:50:01+00:00"
+      },
+      {
+        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+        "source": "BBC News",
+        "published": "2026-09-04T19:44:40+00:00"
+      },
+      {
+        "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+        "link": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
+        "source": "BBC News",
+        "published": "2026-09-04T19:20:18+00:00"
+      },
+      {
+        "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+        "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
+        "description": "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process options in order to speed deportations.",
+        "source": "NPR",
+        "published": "2026-09-04T17:11:56-04:00"
       },
       {
         "title": "UN votes to adopt new world map that shows Africa’s true scale",
@@ -381,6 +402,13 @@
         "description": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in...",
         "source": "The Guardian",
         "published": "2026-09-04T16:49:29+00:00"
+      },
+      {
+        "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
+        "description": "Interior Secretary Doug Burgum says \"excavation work\" will begin in the next two weeks, without approval from a key federal body. Veterans who sued over the arch want a judge to intervene before then.",
+        "source": "NPR",
+        "published": "2026-09-04T16:15:05-04:00"
       },
       {
         "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
@@ -439,13 +467,6 @@
         "published": "2026-09-04T11:54:51+00:00"
       },
       {
-        "title": "Russell Howard 'devastated' after his baby son died shortly after birth",
-        "link": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
-        "description": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.",
-        "source": "BBC News",
-        "published": "2026-09-04T11:26:32+00:00"
-      },
-      {
         "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
         "description": "Changing SNAP eligibility actually can change consumption habits.",
@@ -495,13 +516,6 @@
         "published": "2026-09-04T07:29:11-04:00"
       },
       {
-        "title": "Scientists map key protein interactions linked with profound autism",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
-        "description": "Research published in the journal Science illuminates a \"missing piece\" in the biological understanding of profound autism and offers new targets for drug development.",
-        "source": "NPR",
-        "published": "2026-09-04T06:00:00-04:00"
-      },
-      {
         "title": "Germany's far-right AfD party is poised for power in a state election",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
         "description": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
@@ -509,18 +523,11 @@
         "published": "2026-09-04T06:00:00-04:00"
       },
       {
-        "title": "What app surged in downloads after Trump's 'Lake America' change? The quiz knows",
-        "link": "https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows",
-        "description": "Plus: George Santos is back in the news!",
+        "title": "Scientists map key protein interactions linked with profound autism",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+        "description": "Research published in the journal Science illuminates a \"missing piece\" in the biological understanding of profound autism and offers new targets for drug development.",
         "source": "NPR",
-        "published": "2026-09-04T05:01:00-04:00"
-      },
-      {
-        "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle",
-        "description": "After years of fighting over who gets to use the beach, and where, in Walton County, Florida, public-use advocates are calling for a state constitutional amendment to finally settle the matter.",
-        "source": "NPR",
-        "published": "2026-09-04T05:00:00-04:00"
+        "published": "2026-09-04T06:00:00-04:00"
       },
       {
         "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
@@ -535,13 +542,6 @@
         "description": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its...",
         "source": "The Guardian",
         "published": "2026-09-03T12:52:08+00:00"
-      },
-      {
-        "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
-        "link": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
-        "description": "Relocation coincides with proposed laws that opponents say would entrench power of US tech billionaires in country Dozens of protesters converged on Peter Thiel’s mansion in Buenos Aires this week after a congressional session raised questions about...",
-        "source": "The Guardian",
-        "published": "2026-09-03T12:00:29+00:00"
       },
       {
         "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
@@ -567,11 +567,102 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-eylul-2026-1740421",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-05T00:30:00+03:00"
+      },
+      {
+        "title": "Korsan taksici emekli polis, ceza yazan polisi vurdu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-korsan-taksici-emekli-polis-ceza-yazan-polisi-vurdu-1740424",
+        "description": "İstanbul Esenyurt'ta korsan taksicilik yapan emekli polis, kendisine ceza yazan trafik polisini vurdu.",
+        "source": "NTV",
+        "published": "2026-09-05T00:27:56+03:00"
+      },
+      {
         "title": "31 yıl hapis cezasıyla aranıyordu: Saklandığı yer pes dedirtti",
         "link": "https://www.sozcu.com.tr/31-yil-hapis-cezasiyla-araniyordu-saklandigi-yer-pes-dedirtti-p355461",
         "description": "31 yıl hapis cezasıyla aranıyordu: Saklandığı yer pes dedirtti",
         "source": "Sözcü",
-        "published": "2026-09-04T21:55:38+03:00"
+        "published": "2026-09-05T00:17:56+03:00"
+      },
+      {
+        "title": "Esenyurt'ta korsan denetiminde polise ateş açıldı: Bir polis ağır yaralı",
+        "link": "https://www.sozcu.com.tr/esenyurt-ta-korsan-denetiminde-polise-ates-acildi-bir-polis-agir-yarali-p355472",
+        "description": "Esenyurt'ta korsan denetiminde polise ateş açıldı: Bir polis ağır yaralı",
+        "source": "Sözcü",
+        "published": "2026-09-05T00:00:20+03:00"
+      },
+      {
+        "title": "Üsküdar’da ‘kamu düzeni’ tedbiri: Bazı yollar trafiğe kapatılacak",
+        "link": "https://www.sozcu.com.tr/uskudar-da-kamu-duzeni-tedbiri-bazi-yollar-trafige-kapatilacak-p355475",
+        "description": "Üsküdar’da ‘kamu düzeni’ tedbiri: Bazı yollar trafiğe kapatılacak",
+        "source": "Sözcü",
+        "published": "2026-09-04T23:55:10+03:00"
+      },
+      {
+        "title": "Victor Osimhen Sporting maçına yetişecek mi? Okan Buruk açıkladı",
+        "link": "https://www.sozcu.com.tr/victor-osimhen-sporting-macina-yetisecek-mi-okan-buruk-acikladi-p355474",
+        "description": "Victor Osimhen Sporting maçına yetişecek mi? Okan Buruk açıkladı",
+        "source": "Sözcü",
+        "published": "2026-09-04T23:48:08+03:00"
+      },
+      {
+        "title": "Trump, İran’daki o bölgeyi işaret etti: Yakında vurabiliriz",
+        "link": "https://www.sozcu.com.tr/trump-iran-daki-o-bolgeyi-isaret-etti-yakinda-vurabiliriz-p355473",
+        "description": "Trump, İran’daki o bölgeyi işaret etti: Yakında vurabiliriz",
+        "source": "Sözcü",
+        "published": "2026-09-04T23:43:18+03:00"
+      },
+      {
+        "title": "Galatasaray ikinci başkanı Metin Öztürk isyan etti! 'Yanlış adamdan ofsayt çizgisi çizdiler'",
+        "link": "https://www.sozcu.com.tr/galatasaray-ikinci-baskani-metin-ozturk-isyan-etti-yanlis-adamdan-ofsayt-cizgisi-cizdiler-p355471",
+        "description": "Galatasaray ikinci başkanı Metin Öztürk isyan etti! 'Yanlış adamdan ofsayt çizgisi çizdiler'",
+        "source": "Sözcü",
+        "published": "2026-09-04T23:24:35+03:00"
+      },
+      {
+        "title": "DEM Parti'den Ahmet Davutoğlu’na geçmiş olsun telefonu",
+        "link": "https://www.sozcu.com.tr/dem-parti-den-ahmet-davutoglu-na-gecmis-olsun-telefonu-p355468",
+        "description": "DEM Parti'den Ahmet Davutoğlu’na geçmiş olsun telefonu",
+        "source": "Sözcü",
+        "published": "2026-09-04T22:59:53+03:00"
+      },
+      {
+        "title": "17 yıllık cinayet zincirinde seri katil detayı: Polis akrabalık bağını araştırıyor",
+        "link": "https://www.ntv.com.tr/turkiye/17-yillik-cinayet-zincirinde-yeni-soru-isareti-akrabaliklari-var-mi-1740324",
+        "description": "İstanbul'da iki sene önce Erva Raziye Asar'ı öldüren Fethi Dağlı'nın, 17 yaşındaki Zeynep Yıldırım'ın da katili olduğu ortaya çıktı. Dağlı'nın geçmişi mercek altında.",
+        "source": "NTV",
+        "published": "2026-09-04T22:50:34+03:00"
+      },
+      {
+        "title": "Selçuk Bayraktar yeni hedefi açıkladı. \"SMR\"",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-selcuk-bayraktar-yeni-hedefi-acikladi-smr-1740416",
+        "description": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, \"küçük modüler reaktör\" (SMR) konusunda çalışmalarının sürdüğünü belirterek, \"Birkaç sene içinde SMR'leri yapabileceğimize inanıyorum.\" dedi.",
+        "source": "NTV",
+        "published": "2026-09-04T22:46:50+03:00"
+      },
+      {
+        "title": "Erdoğan'dan Meloni'ye 'görev süresi' tebriği",
+        "link": "https://www.sozcu.com.tr/erdogan-dan-meloni-ye-gorev-suresi-tebrigi-p355467",
+        "description": "Erdoğan'dan Meloni'ye 'görev süresi' tebriği",
+        "source": "Sözcü",
+        "published": "2026-09-04T22:39:19+03:00"
+      },
+      {
+        "title": "Dezenformasyon yayan 2 bin 34 sosyal medya hesabına erişim engeli",
+        "link": "https://www.ntv.com.tr/turkiye/dezenformasyon-yayan-2-bin-34-sosyal-medya-hesabina-erisim-engeli-1740409",
+        "description": "İletişim Başkanı Burhanettin Duran, son iki ayda dezenformasyon yayan toplam 2 bin 34 sosyal medya hesabına erişim engeli getirildiğini açıkladı.",
+        "source": "NTV",
+        "published": "2026-09-04T22:38:33+03:00"
+      },
+      {
+        "title": "Hull City'den Jakirovic'e yeni sözleşme",
+        "link": "https://www.sozcu.com.tr/hull-city-den-jakirovic-e-yeni-sozlesme-p355466",
+        "description": "Hull City'den Jakirovic'e yeni sözleşme",
+        "source": "Sözcü",
+        "published": "2026-09-04T22:36:28+03:00"
       },
       {
         "title": "Üsküdar'da yarın bazı yollar trafiğe kapatılacak",
@@ -581,13 +672,6 @@
         "published": "2026-09-04T21:53:56+03:00"
       },
       {
-        "title": "Son dakika... İran: Ürdün'deki ABD üssünü vurduk",
-        "link": "https://www.sozcu.com.tr/son-dakika-iran-urdun-deki-abd-ussunu-vurduk-p355456",
-        "description": "Son dakika... İran: Ürdün'deki ABD üssünü vurduk",
-        "source": "Sözcü",
-        "published": "2026-09-04T21:49:02+03:00"
-      },
-      {
         "title": "Potanın Perileri Dünya Kupası'na mağlubiyetle başladı",
         "link": "https://www.sozcu.com.tr/potanin-perileri-dunya-kupasi-na-maglubiyetle-basladi-p355458",
         "description": "Potanın Perileri Dünya Kupası'na mağlubiyetle başladı",
@@ -595,67 +679,11 @@
         "published": "2026-09-04T21:33:41+03:00"
       },
       {
-        "title": "Dezenformasyon yayan 2 bin 34 sosyal medya hesabına erişim engeli",
-        "link": "https://www.ntv.com.tr/turkiye/dezenformasyon-yayan-2-bin-34-sosyal-medya-hesabina-erisim-engeli-1740409",
-        "description": "İletişim Başkanı Burhanettin Duran, son iki ayda dezenformasyon yayan toplam 2 bin 34 sosyal medya hesabına erişim engeli getirildiğini açıkladı.",
-        "source": "NTV",
-        "published": "2026-09-04T21:21:52+03:00"
-      },
-      {
-        "title": "CHP ve YENİ Parti’den ortak açıklama: ‘AKP'ye vermeyeceğiz’",
-        "link": "https://www.sozcu.com.tr/chp-ve-yeni-parti-den-ortak-aciklama-akp-ye-vermeyecegiz-p355454",
-        "description": "CHP ve YENİ Parti’den ortak açıklama: ‘AKP'ye vermeyeceğiz’",
-        "source": "Sözcü",
-        "published": "2026-09-04T20:54:18+03:00"
-      },
-      {
         "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 4 Eylül 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
         "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1740407",
         "description": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz....",
         "source": "NTV",
         "published": "2026-09-04T20:53:23+03:00"
-      },
-      {
-        "title": "Son dakika...Eski Bakan Denizolgun'un doktoru tutuklandı",
-        "link": "https://www.sozcu.com.tr/son-dakika-eski-bakan-denizolgun-un-doktoru-tutuklandi-p355450",
-        "description": "Son dakika...Eski Bakan Denizolgun'un doktoru tutuklandı",
-        "source": "Sözcü",
-        "published": "2026-09-04T20:48:57+03:00"
-      },
-      {
-        "title": "Galatasaray'a Osimhen şoku! Oyuna devam edemedi",
-        "link": "https://www.sozcu.com.tr/galatasarayya-osimhenden-sakatlik-haberi-oyundan-cikti-p355452",
-        "description": "Galatasaray'a Osimhen şoku! Oyuna devam edemedi",
-        "source": "Sözcü",
-        "published": "2026-09-04T20:45:38+03:00"
-      },
-      {
-        "title": "Türkiye’nin nüfus haritası baştan yazıldı: İstanbul tahtını kaybetti, zirveye hiç beklenmeyen bir il zirveye çıktı",
-        "link": "https://www.sozcu.com.tr/turkiye-nin-nufus-haritasi-bastan-yazildi-istanbul-tahtini-kaybetti-zirveye-hic-beklenmeyen-bir-il-p355451",
-        "description": "Türkiye’nin nüfus haritası baştan yazıldı: İstanbul tahtını kaybetti, zirveye hiç beklenmeyen bir il zirveye çıktı",
-        "source": "Sözcü",
-        "published": "2026-09-04T20:39:11+03:00"
-      },
-      {
-        "title": "UEFA Greenwood ve Guendouzi'nin cezalarını açıkladı",
-        "link": "https://www.sozcu.com.tr/uefa-greenwood-ve-guendouzi-nin-cezalarini-acikladi-p355448",
-        "description": "UEFA Greenwood ve Guendouzi'nin cezalarını açıkladı",
-        "source": "Sözcü",
-        "published": "2026-09-04T20:20:44+03:00"
-      },
-      {
-        "title": "Belçika’dan dünyaya örnek olacak karar: Artık bu suçu işleyen hapse girecek",
-        "link": "https://www.sozcu.com.tr/belcika-dan-dunyaya-ornek-olacak-karar-artik-bu-sucu-isleyen-hapse-girecek-p355447",
-        "description": "Belçika’dan dünyaya örnek olacak karar: Artık bu suçu işleyen hapse girecek",
-        "source": "Sözcü",
-        "published": "2026-09-04T20:02:26+03:00"
-      },
-      {
-        "title": "Beşiktaş, Elan Ricardo'yu 3. kez başka takıma kiralandı",
-        "link": "https://www.sozcu.com.tr/besiktastan-elan-ricardoya-3-kiralanma-forma-giyemeden-yollar-ayrildi-p355446",
-        "description": "Beşiktaş, Elan Ricardo'yu 3. kez başka takıma kiralandı",
-        "source": "Sözcü",
-        "published": "2026-09-04T19:52:23+03:00"
       },
       {
         "title": "ABD-İran savaşı nasıl sona erebilir?",
@@ -672,13 +700,6 @@
         "published": "2026-09-04T18:03:23+03:00"
       },
       {
-        "title": "17 yıllık cinayet zincirinde seri katil detayı: Polis akrabalık bağını araştırıyor",
-        "link": "https://www.ntv.com.tr/turkiye/17-yillik-cinayet-zincirinde-yeni-soru-isareti-akrabaliklari-var-mi-1740324",
-        "description": "İstanbul'da iki sene önce Erva Raziye Asar'ı öldüren Fethi Dağlı'nın, 17 yaşındaki Zeynep Yıldırım'ın da katili olduğu ortaya çıktı. Dağlı'nın geçmişi mercek altında.",
-        "source": "NTV",
-        "published": "2026-09-04T17:59:18+03:00"
-      },
-      {
         "title": "Antalya ve Kayseri'de 4 yeni suç örgütüne operasyon. 32 kişi yakalandı",
         "link": "https://www.ntv.com.tr/turkiye/antalya-ve-kayseride-4-yeni-suc-orgutune-operasyon-32-kisi-yakalandi-1740393",
         "description": "Adalet Bakanı Akın Gürlek, Antalya ve Kayseri'de 4 yeni nesil suç örgütüne operasyon düzenlendiğini ve 32 kişinin yakalandığını duyurdu.",
@@ -693,20 +714,6 @@
         "published": "2026-09-04T16:34:45+03:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: 28 Şubat'ta kitaplar da hedef oldu",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-28-subatta-kitaplar-da-hedef-oldu-1740384",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, 28 Şubat'ta kitapların da hedef olduğunu belirterek \"Devrin vesayetçi yöneticileri tarafından İstanbul Üniversitesi Kütüphanesi'nden çöpe atılmıştır.\" dedi.",
-        "source": "NTV",
-        "published": "2026-09-04T16:30:22+03:00"
-      },
-      {
-        "title": "Tuz Gölü’nde sular çekildi, hasat başladı. Yıllık ortalama 1,5 milyon ton tuz çıkarılıyor",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-tuz-golunde-sular-cekildi-hasat-basladi-yillik-ortalama-15-milyon-ton-tuz-cikariliyor-1740368",
-        "description": "Türkiye’nin tuz ihtiyacının önemli bölümünün karşılandığı Tuz Gölü’nde, suların çekilmesiyle başlayan tuz hasadı devam ediyor.",
-        "source": "NTV",
-        "published": "2026-09-04T16:12:55+03:00"
-      },
-      {
         "title": "Melih Gökçek şüpheli sıfatıyla ifade verdi",
         "link": "https://www.bbc.com/turkce/articles/ckgwn4nj90lo?at_medium=RSS&at_campaign=rss",
         "description": "Eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek şüpheli sıfatıyla ifade vermek üzere Ankara Adliyesi'ne gitti. Gökçek hakkında \"yurt dışındaki şirketlere kayıt dışı para aktarıldığı\" iddiasıyla soruşturma sürüyor.",
@@ -719,13 +726,6 @@
         "description": "ABD'de üç küçük çocuğunu öldürmekle suçlanan anne Lindsay Clancy'nin davasında jüri üyeleri, oybirliğiyle karara varamadıkları için yargıç hükümsüzlük açıklayacağını söyledi.",
         "source": "BBC Turkish",
         "published": "2026-09-04T15:59:19+00:00"
-      },
-      {
-        "title": "Kaybolduktan 4 gün sonra kayalıklarda ölü bulundu, ağabeyi cinayet olduğunu düşünüyor",
-        "link": "https://www.ntv.com.tr/turkiye/kaybolduktan-4-gun-sonra-kayaliklarda-olu-bulundu-agabeyi-cinayet-oldugunu-dusunuyor-1740382",
-        "description": "Ankara’da kaybolduktan sonra cesedi kayalıklarda bulunan adamın yüksekten düşerek hayatını kaybettiği belirlendi. Ağabeyi ise kardeşinin daha önce tartıştığı kişilerce öldürüldüğünü iddia ediyor.",
-        "source": "NTV",
-        "published": "2026-09-04T15:30:27+03:00"
       },
       {
         "title": "Benzin ve motorine zam: Akaryakıt fiyatları neden arttı?",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8606
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+93°F",
-    "wind": "↘9mph",
+    "condition": "Güneşli",
+    "temp": "+92°F",
+    "wind": "↘11mph",
     "humidity": "44%"
   }
 }
