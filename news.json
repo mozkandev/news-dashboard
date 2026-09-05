@@ -1,39 +1,81 @@
 {
-  "updated_at": "2026-09-05T21:30:55.170214+00:00",
+  "updated_at": "2026-09-05T23:34:46.909705+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "source": "TechCrunch",
+        "published": "2026-09-05T22:49:55+00:00"
+      },
+      {
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "link": "https://github.com/okf-memory/okf-agent-memory",
+        "description": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-05T22:15:52+00:00"
+      },
+      {
+        "title": "Falsehoods Programmers Believe About LANs",
+        "link": "https://dreamstation.systems/personal/lanfalsehoods.html",
+        "description": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html Comments URL: https://news.ycombinator.com/item?id=49581179 Points: 24 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-09-05T22:08:16+00:00"
+      },
+      {
+        "title": "America's two largest school districts impose AI moratoriums",
+        "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+        "description": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 28 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-09-05T21:43:22+00:00"
+      },
+      {
+        "title": "The revolt of the reader",
+        "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "description": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 11 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-09-05T21:37:49+00:00"
+      },
+      {
+        "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
+        "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+        "description": "Article URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf Comments URL: https://news.ycombinator.com/item?id=49580778 Points: 36 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-09-05T21:17:00+00:00"
+      },
+      {
+        "title": "How AI is breaking the British state",
+        "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+        "description": "Article URL: https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state Comments URL: https://news.ycombinator.com/item?id=49580687 Points: 13 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-09-05T21:05:35+00:00"
+      },
+      {
         "title": "Private German rocket makes history, reaches orbit from European soil",
         "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-        "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 104 # Comments: 25",
+        "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 255 # Comments: 121",
         "source": "HackerNews",
         "published": "2026-09-05T20:31:38+00:00"
       },
       {
-        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
+        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
         "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-        "description": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 27 # Comments: 7",
+        "description": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 49 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-09-05T20:25:59+00:00"
       },
       {
         "title": "Isar Aerospace launch into orbit [video]",
         "link": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-        "description": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 38 # Comments: 5",
+        "description": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 70 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-09-05T20:25:30+00:00"
       },
       {
-        "title": "Space industry lacks workers needed to rebuild satellites lost in war: report",
-        "link": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-        "description": "Article URL: https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/ Comments URL: https://news.ycombinator.com/item?id=49580248 Points: 26 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-09-05T20:14:25+00:00"
-      },
-      {
         "title": "LLMs as a Cognitive Virus",
         "link": "https://arxiv.org/abs/2609.03344",
-        "description": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 39 # Comments: 4",
+        "description": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 136 # Comments: 114",
         "source": "HackerNews",
         "published": "2026-09-05T20:02:35+00:00"
       },
@@ -73,11 +115,11 @@
         "published": "2026-09-05T18:00:49+00:00"
       },
       {
-        "title": "The Real Luxuries In Life",
-        "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-        "description": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/ Comments URL: https://news.ycombinator.com/item?id=49578866 Points: 296 # Comments: 117",
-        "source": "HackerNews",
-        "published": "2026-09-05T17:46:16+00:00"
+        "title": "Explore the globe in field recordings",
+        "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "description": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of...",
+        "source": "The Verge",
+        "published": "2026-09-05T17:31:34-04:00"
       },
       {
         "title": "Yeni MacBook Neo’nun Teknik Özellikleri Sızdı",
@@ -99,20 +141,6 @@
         "description": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now...",
         "source": "The Verge",
         "published": "2026-09-05T16:53:58-04:00"
-      },
-      {
-        "title": "Learn Programming with OCaml",
-        "link": "https://usr.lmf.cnrs.fr/lpo/",
-        "description": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 111 # Comments: 43",
-        "source": "HackerNews",
-        "published": "2026-09-05T16:45:02+00:00"
-      },
-      {
-        "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-        "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-        "description": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/ Comments URL: https://news.ycombinator.com/item?id=49577975 Points: 225 # Comments: 94",
-        "source": "HackerNews",
-        "published": "2026-09-05T16:13:57+00:00"
       },
       {
         "title": "iPhone 20 ile Ekran Teknolojisinde Devrim mi Geliyor?",
@@ -141,20 +169,6 @@
         "description": "Yunanistan’da düzenlenen Athens Flying Week 2026, ölümcül bir savaş uçağı kazasıyla sarsıldı. Yunan Hava Kuvvetleri’ne ait iki kişilik F-4E Phantom II, 5 Eylül’de Tanagra Hava Üssü’ndeki gösteri uçuşu sırasında alçak irtifada manevra yaptığı sırada...",
         "source": "ShiftDelete",
         "published": "2026-09-05T14:31:28+00:00"
-      },
-      {
-        "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-        "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-        "description": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 217 # Comments: 71",
-        "source": "HackerNews",
-        "published": "2026-09-05T13:36:38+00:00"
-      },
-      {
-        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-        "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-        "description": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 85 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-09-05T13:31:05+00:00"
       },
       {
         "title": "F-35’in Füze Kapasitesi 6’ya Çıkacak",
@@ -318,13 +332,6 @@
         "published": "2026-09-04T17:00:06+03:00"
       },
       {
-        "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-        "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-        "description": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-        "source": "TechCrunch",
-        "published": "2026-09-04T16:51:23+00:00"
-      },
-      {
         "title": "WhatsApp'ta Yeni Dönem: Üçüncü Parti Yapay Zekâ Ajanları ile Sohbet Edebileceksiniz!",
         "link": "\n                    https://www.webtekno.com/whatsapp-ucuncu-parti-yapay-zeka-ajanlari-ile-sohbet-edebileceksiniz-h223660.html\n                    ",
         "description": "WhatsApp, üçüncü parti yapay zekâ ajanlarını uygulamaya entegre ederek kullanıcıların özel asistanlarıyla sohbet etmesini sağlıyor.",
@@ -339,13 +346,6 @@
         "published": "2026-09-04T15:42:54-04:00"
       },
       {
-        "title": "GoPro says it’s still committed ‘to your collective stoke’",
-        "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-        "description": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to...",
-        "source": "The Verge",
-        "published": "2026-09-04T14:01:03-04:00"
-      },
-      {
         "title": "Robotaxis enter their villain era",
         "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
         "description": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says...",
@@ -354,6 +354,41 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "source": "BBC News",
+        "published": "2026-09-05T23:20:00+00:00"
+      },
+      {
+        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+        "source": "BBC News",
+        "published": "2026-09-05T22:44:07+00:00"
+      },
+      {
+        "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+        "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+        "description": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political...",
+        "source": "The Guardian",
+        "published": "2026-09-05T22:19:40+00:00"
+      },
+      {
+        "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+        "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+        "description": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least...",
+        "source": "The Guardian",
+        "published": "2026-09-05T22:16:55+00:00"
+      },
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "source": "BBC News",
+        "published": "2026-09-05T21:39:02+00:00"
+      },
       {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
         "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
@@ -376,23 +411,9 @@
         "published": "2026-09-05T21:00:02+00:00"
       },
       {
-        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
-        "source": "BBC News",
-        "published": "2026-09-05T20:41:59+00:00"
-      },
-      {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-        "source": "BBC News",
-        "published": "2026-09-05T20:15:49+00:00"
-      },
-      {
         "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
         "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-        "description": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug...",
+        "description": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug...",
         "source": "The Guardian",
         "published": "2026-09-05T18:00:15+00:00"
       },
@@ -409,13 +430,6 @@
         "description": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
         "source": "BBC News",
         "published": "2026-09-05T14:26:37+00:00"
-      },
-      {
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "description": "The firm says it needs to save about £1.7bn over the next two years.",
-        "source": "BBC News",
-        "published": "2026-09-05T13:22:17+00:00"
       },
       {
         "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
@@ -509,13 +523,6 @@
         "published": "2026-09-05T03:21:10-04:00"
       },
       {
-        "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-        "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-        "description": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative...",
-        "source": "The Guardian",
-        "published": "2026-09-04T20:21:52+00:00"
-      },
-      {
         "title": "UN votes to adopt new world map that shows Africa’s true scale",
         "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
         "description": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in...",
@@ -535,13 +542,6 @@
         "description": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland...",
         "source": "The Guardian",
         "published": "2026-09-04T09:31:52+00:00"
-      },
-      {
-        "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
-        "description": "Ed Miliband says Britain’s position remains ‘unwavering’ in response to remarks by Argentina’s president UK politics live – latest updates British ministers have hit back after the Argentinian president said “winds of change” favourable to his...",
-        "source": "The Guardian",
-        "published": "2026-09-04T09:24:46+00:00"
       },
       {
         "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
@@ -571,7 +571,35 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-eylul-2026-1740560",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-06T00:30:00+03:00"
+        "published": "2026-09-06T02:30:00+03:00"
+      },
+      {
+        "title": "Oyun salonuna silahlı saldırı. 3 kişi yaralandı",
+        "link": "https://www.ntv.com.tr/turkiye/oyun-salonuna-silahli-saldiri-3-kisi-yaralandi-1740562",
+        "description": "Diyarbakır'da henüz kimlikleri belirlenemeyen 2 kişinin video oyun salonuna düzenlediği silahlı saldırıda 3 kişi kurşunların hedefi olarak yaralandı.",
+        "source": "NTV",
+        "published": "2026-09-06T01:48:14+03:00"
+      },
+      {
+        "title": "Restorandaki kavgada ortalık kan gölüne döndü: Ölü ve yaralılar var",
+        "link": "https://www.sozcu.com.tr/restoranda-silahli-kavga-olu-ve-yaralilar-var-p355665",
+        "description": "Restorandaki kavgada ortalık kan gölüne döndü: Ölü ve yaralılar var",
+        "source": "Sözcü",
+        "published": "2026-09-06T00:46:11+03:00"
+      },
+      {
+        "title": "Italiano: Tarif edemeyeceğim bir mutluluk",
+        "link": "https://www.sozcu.com.tr/italiano-tarif-edemeyecegim-bir-mutluluk-p355655",
+        "description": "Italiano: Tarif edemeyeceğim bir mutluluk",
+        "source": "Sözcü",
+        "published": "2026-09-06T00:36:17+03:00"
+      },
+      {
+        "title": "Aziz Yıldırım derbi sonrası ateş püskürdü! Gerekirse ligleri ertelesinler",
+        "link": "https://www.sozcu.com.tr/aziz-yildirim-derbi-sonrasi-ates-puskurdu-gerekirse-ligleri-ertelesinler-p355664",
+        "description": "Aziz Yıldırım derbi sonrası ateş püskürdü! Gerekirse ligleri ertelesinler",
+        "source": "Sözcü",
+        "published": "2026-09-06T00:34:57+03:00"
       },
       {
         "title": "Hayatını kaybeden Serhat Kılıç'ın evinde bulundu: Ölümü şüpheli görüldü",
@@ -609,13 +637,6 @@
         "published": "2026-09-05T23:15:22+03:00"
       },
       {
-        "title": "Italiano: Tarif edemeyeceğim bir mutluluk",
-        "link": "https://www.sozcu.com.tr/italiano-tarif-edemeyecegim-bir-mutluluk-p355655",
-        "description": "Italiano: Tarif edemeyeceğim bir mutluluk",
-        "source": "Sözcü",
-        "published": "2026-09-05T23:07:18+03:00"
-      },
-      {
         "title": "ABD ile İran arasında gerilim tırmandı: Gemiler hedef alındı, petrol tankerleri vuruldu",
         "link": "https://www.sozcu.com.tr/abd-ile-iran-arasinda-gerilim-tirmandi-gemiler-hedef-alindi-petrol-tankerleri-vuruldu-p355654",
         "description": "ABD ile İran arasında gerilim tırmandı: Gemiler hedef alındı, petrol tankerleri vuruldu",
@@ -635,20 +656,6 @@
         "description": "Maç sonu Kerem Aktürkoğlu'ndan olay tepki!",
         "source": "Sözcü",
         "published": "2026-09-05T22:38:04+03:00"
-      },
-      {
-        "title": "Meloni'den Erdoğan'ın o mesajına yanıt",
-        "link": "https://www.sozcu.com.tr/meloniden-erdoganin-o-mesajina-yanit-p355651",
-        "description": "Meloni'den Erdoğan'ın o mesajına yanıt",
-        "source": "Sözcü",
-        "published": "2026-09-05T22:37:26+03:00"
-      },
-      {
-        "title": "Silah ruhsatı ücretlerinde yeni dönem: Avukatların beklediği haber geldi",
-        "link": "https://www.sozcu.com.tr/silah-ruhsati-ucretlerinde-yeni-donem-avukatlarin-bekledigi-haber-geldi-p355648",
-        "description": "Silah ruhsatı ücretlerinde yeni dönem: Avukatların beklediği haber geldi",
-        "source": "Sözcü",
-        "published": "2026-09-05T22:11:39+03:00"
       },
       {
         "title": "Avukatlara silah ruhsatında indirim",
@@ -705,13 +712,6 @@
         "description": "Kocaeli'de havacılık merkezi olarak kullanılan yolcu uçağı alev alev yandı. Uçağın kuyruk kısmı koparak itfaiye aracının üzerine düştü.",
         "source": "NTV",
         "published": "2026-09-05T15:54:15+03:00"
-      },
-      {
-        "title": "Van’ın tramvay projesini Ulaştırma ve Altyapı Bakanlığı üstlendi",
-        "link": "https://www.ntv.com.tr/turkiye/vanin-tramvay-projesini-ulastirma-ve-altyapi-bakanligi-ustlendi-1740515",
-        "description": "Van’da Şehir Hastanesi, havalimanı ve belediyeyi birbirine bağlayacak 8,67 kilometrelik tramvay hattını Ulaştırma ve Altyapı Bakanlığı üstlendi. Hat 11 istasyondan oluşacak.",
-        "source": "NTV",
-        "published": "2026-09-05T15:15:30+03:00"
       },
       {
         "title": "Avrupa Voleybol Şampiyonası: Türkiye Sırbistan'ı 3-0 yenerek finale yükseldi",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Hafif yağmurlu",
-    "temp": "+77°F",
-    "wind": "↓3mph",
-    "humidity": "76%"
+    "temp": "+80°F",
+    "wind": "↖7mph",
+    "humidity": "81%"
   }
 }
