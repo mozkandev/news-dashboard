@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-09-05T23:34:46.909705+00:00",
+  "updated_at": "2026-09-06T03:12:16.758986+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "GPT-6 Astra on robot arms",
+        "link": "https://openai.robocurve.org/gpt-6-astra/",
+        "description": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 30 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-09-06T01:52:45+00:00"
+      },
+      {
+        "title": "Gateside by TSA Precheck",
+        "link": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
+        "description": "Article URL: https://www.tsa.gov/precheck/gateside-tsa-precheck Comments URL: https://news.ycombinator.com/item?id=49582410 Points: 15 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-09-06T01:12:43+00:00"
+      },
+      {
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "link": "https://cloudinabottle.org/blog/launch-post",
+        "description": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 165 # Comments: 60",
+        "source": "HackerNews",
+        "published": "2026-09-06T00:03:29+00:00"
+      },
+      {
+        "title": "Chrome again exempts Google from user site data settings",
+        "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+        "description": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 102 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-09-05T23:39:47+00:00"
+      },
       {
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -12,72 +40,44 @@
       {
         "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
         "link": "https://github.com/okf-memory/okf-agent-memory",
-        "description": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 5 # Comments: 0",
+        "description": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 40 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-09-05T22:15:52+00:00"
       },
       {
-        "title": "Falsehoods Programmers Believe About LANs",
-        "link": "https://dreamstation.systems/personal/lanfalsehoods.html",
-        "description": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html Comments URL: https://news.ycombinator.com/item?id=49581179 Points: 24 # Comments: 22",
-        "source": "HackerNews",
-        "published": "2026-09-05T22:08:16+00:00"
-      },
-      {
-        "title": "America's two largest school districts impose AI moratoriums",
-        "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-        "description": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 28 # Comments: 17",
-        "source": "HackerNews",
-        "published": "2026-09-05T21:43:22+00:00"
-      },
-      {
         "title": "The revolt of the reader",
         "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "description": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 11 # Comments: 1",
+        "description": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 151 # Comments: 57",
         "source": "HackerNews",
         "published": "2026-09-05T21:37:49+00:00"
       },
       {
         "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
         "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-        "description": "Article URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf Comments URL: https://news.ycombinator.com/item?id=49580778 Points: 36 # Comments: 13",
+        "description": "Article URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf Comments URL: https://news.ycombinator.com/item?id=49580778 Points: 117 # Comments: 94",
         "source": "HackerNews",
         "published": "2026-09-05T21:17:00+00:00"
       },
       {
-        "title": "How AI is breaking the British state",
-        "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-        "description": "Article URL: https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state Comments URL: https://news.ycombinator.com/item?id=49580687 Points: 13 # Comments: 9",
-        "source": "HackerNews",
-        "published": "2026-09-05T21:05:35+00:00"
-      },
-      {
         "title": "Private German rocket makes history, reaches orbit from European soil",
         "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-        "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 255 # Comments: 121",
+        "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 391 # Comments: 212",
         "source": "HackerNews",
         "published": "2026-09-05T20:31:38+00:00"
       },
       {
         "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
         "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-        "description": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 49 # Comments: 20",
+        "description": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 62 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-09-05T20:25:59+00:00"
       },
       {
         "title": "Isar Aerospace launch into orbit [video]",
         "link": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-        "description": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 70 # Comments: 18",
+        "description": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 91 # Comments: 18",
         "source": "HackerNews",
         "published": "2026-09-05T20:25:30+00:00"
-      },
-      {
-        "title": "LLMs as a Cognitive Virus",
-        "link": "https://arxiv.org/abs/2609.03344",
-        "description": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 136 # Comments: 114",
-        "source": "HackerNews",
-        "published": "2026-09-05T20:02:35+00:00"
       },
       {
         "title": "OpenAI Modelleri Alman Wiki Sitesine Saldırdı: Tartışma Yarattı",
@@ -355,6 +355,34 @@
     ],
     "dunya": [
       {
+        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "description": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+        "source": "BBC News",
+        "published": "2026-09-06T02:24:16+00:00"
+      },
+      {
+        "title": "The next James Bond: the (00)7 questions fans want answered",
+        "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
+        "description": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
+        "source": "BBC News",
+        "published": "2026-09-06T00:06:10+00:00"
+      },
+      {
+        "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+        "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+        "source": "BBC News",
+        "published": "2026-09-05T23:54:07+00:00"
+      },
+      {
+        "title": "Why more women carry the 'mental load' - and how couples can share it",
+        "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
+        "description": "Planning, organising and remembering household tasks falls disproportionately to mothers - here are some tips to help.",
+        "source": "BBC News",
+        "published": "2026-09-05T23:31:14+00:00"
+      },
+      {
         "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
         "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
         "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
@@ -381,13 +409,6 @@
         "description": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least...",
         "source": "The Guardian",
         "published": "2026-09-05T22:16:55+00:00"
-      },
-      {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-        "source": "BBC News",
-        "published": "2026-09-05T21:39:02+00:00"
       },
       {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
@@ -432,16 +453,9 @@
         "published": "2026-09-05T14:26:37+00:00"
       },
       {
-        "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-        "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
-        "description": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.",
-        "source": "BBC News",
-        "published": "2026-09-05T12:32:31+00:00"
-      },
-      {
-        "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+        "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
         "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-        "description": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+        "description": "One of the Iranian tankers struck was near a key area in Iran's oil-export system, according to U.S. Central Command.",
         "source": "NPR",
         "published": "2026-09-05T11:05:08-04:00"
       },
@@ -486,20 +500,6 @@
         "description": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly...",
         "source": "NPR",
         "published": "2026-09-05T07:08:57-04:00"
-      },
-      {
-        "title": "Why the USS Lincoln turned up in Thailand looking so rusty",
-        "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
-        "description": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
-        "source": "BBC News",
-        "published": "2026-09-05T06:53:20+00:00"
-      },
-      {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-        "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "source": "BBC News",
-        "published": "2026-09-05T06:20:04+00:00"
       },
       {
         "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
@@ -567,11 +567,95 @@
     ],
     "turkiye": [
       {
+        "title": "Atatürk’e mevlit okutan müftü görevden alındı",
+        "link": "https://www.sozcu.com.tr/ataturk-e-mevlit-okutan-muftu-gorevden-alindi-p355683",
+        "description": "Atatürk’e mevlit okutan müftü görevden alındı",
+        "source": "Sözcü",
+        "published": "2026-09-06T06:00:25+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Eylül 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-eylul-2026-1740560",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-06T02:30:00+03:00"
+        "published": "2026-09-06T06:00:00+03:00"
+      },
+      {
+        "title": "ABD’den Türkiye'ye yaptırım mesajı",
+        "link": "https://www.sozcu.com.tr/abd-den-turkiye-ye-yaptirim-mesaji-p355678",
+        "description": "ABD’den Türkiye'ye yaptırım mesajı",
+        "source": "Sözcü",
+        "published": "2026-09-06T05:50:24+03:00"
+      },
+      {
+        "title": "Gökçek’in Mercedes’i dillere düştü",
+        "link": "https://www.sozcu.com.tr/gokcek-in-mercedes-i-dillere-dustu-p355682",
+        "description": "Gökçek’in Mercedes’i dillere düştü",
+        "source": "Sözcü",
+        "published": "2026-09-06T05:40:24+03:00"
+      },
+      {
+        "title": "Amerika’ya İran için ne taahhütler verdik?",
+        "link": "https://www.sozcu.com.tr/amerika-ya-iran-icin-ne-taahhutler-verdik-p355681",
+        "description": "Amerika’ya İran için ne taahhütler verdik?",
+        "source": "Sözcü",
+        "published": "2026-09-06T05:30:24+03:00"
+      },
+      {
+        "title": "Faciaya ramak kaldı",
+        "link": "https://www.ntv.com.tr/turkiye/faciaya-kil-payi-1740566",
+        "description": "Erzurum Oltu'da sürücüsünün hakimiyetini kaybettiği tır, köprünün yanındaki boşluğa sıkışarak metrelerce yüksekten düşmekten son anda kurtuldu.",
+        "source": "NTV",
+        "published": "2026-09-06T05:19:38+03:00"
+      },
+      {
+        "title": "Cemil Bayık, İmralı’da iki gün ağırlanmış!",
+        "link": "https://www.sozcu.com.tr/cemil-bayik-imrali-da-iki-gun-agirlanmis-p355680",
+        "description": "Cemil Bayık, İmralı’da iki gün ağırlanmış!",
+        "source": "Sözcü",
+        "published": "2026-09-06T05:10:24+03:00"
+      },
+      {
+        "title": "Vergi avantajı bitti yabancıya %10 stopaj",
+        "link": "https://www.sozcu.com.tr/vergi-avantaji-bitti-yabanciya-10-stopaj-p355677",
+        "description": "Vergi avantajı bitti yabancıya %10 stopaj",
+        "source": "Sözcü",
+        "published": "2026-09-06T04:50:23+03:00"
+      },
+      {
+        "title": "İşsizden ÖSYM’ye milyarlık hasılat",
+        "link": "https://www.sozcu.com.tr/issizden-osym-ye-milyarlik-hasilat-p355679",
+        "description": "İşsizden ÖSYM’ye milyarlık hasılat",
+        "source": "Sözcü",
+        "published": "2026-09-06T04:40:23+03:00"
+      },
+      {
+        "title": "'Erdoğan’a seçim için para lazım'",
+        "link": "https://www.sozcu.com.tr/erdogan-a-secim-icin-para-lazim-p355676",
+        "description": "'Erdoğan’a seçim için para lazım'",
+        "source": "Sözcü",
+        "published": "2026-09-06T04:30:23+03:00"
+      },
+      {
+        "title": "Fazla kilolarınızın nedeni ‘bağırsaklarınız’ olabilir",
+        "link": "https://www.sozcu.com.tr/fazla-kilolarinizin-nedeni-bagirsaklariniz-olabilir-p355673",
+        "description": "Fazla kilolarınızın nedeni ‘bağırsaklarınız’ olabilir",
+        "source": "Sözcü",
+        "published": "2026-09-06T04:00:23+03:00"
+      },
+      {
+        "title": "YENİ-CHP ittifakı seçimi erteletti!",
+        "link": "https://www.sozcu.com.tr/yeni-chp-ittifaki-secimi-erteletti-p355675",
+        "description": "YENİ-CHP ittifakı seçimi erteletti!",
+        "source": "Sözcü",
+        "published": "2026-09-06T03:30:22+03:00"
+      },
+      {
+        "title": "ABD tankerleri vurdu, İran misilleme yaptı",
+        "link": "https://www.ntv.com.tr/turkiye/abd-tankerleri-vurdu-iran-misilleme-yapti-1740563",
+        "description": "ABD güçleri Basra Körfezi'ndeki Hark Adası yakınında 3 İran tankerini vurdu. Devrim muhafızları ise Hürmüz'den izinsiz geçen 2 petrol tankeri ve 3 ABD gemisini hedef aldı.",
+        "source": "NTV",
+        "published": "2026-09-06T02:41:25+03:00"
       },
       {
         "title": "Oyun salonuna silahlı saldırı. 3 kişi yaralandı",
@@ -581,81 +665,11 @@
         "published": "2026-09-06T01:48:14+03:00"
       },
       {
-        "title": "Restorandaki kavgada ortalık kan gölüne döndü: Ölü ve yaralılar var",
-        "link": "https://www.sozcu.com.tr/restoranda-silahli-kavga-olu-ve-yaralilar-var-p355665",
-        "description": "Restorandaki kavgada ortalık kan gölüne döndü: Ölü ve yaralılar var",
-        "source": "Sözcü",
-        "published": "2026-09-06T00:46:11+03:00"
-      },
-      {
-        "title": "Italiano: Tarif edemeyeceğim bir mutluluk",
-        "link": "https://www.sozcu.com.tr/italiano-tarif-edemeyecegim-bir-mutluluk-p355655",
-        "description": "Italiano: Tarif edemeyeceğim bir mutluluk",
-        "source": "Sözcü",
-        "published": "2026-09-06T00:36:17+03:00"
-      },
-      {
-        "title": "Aziz Yıldırım derbi sonrası ateş püskürdü! Gerekirse ligleri ertelesinler",
-        "link": "https://www.sozcu.com.tr/aziz-yildirim-derbi-sonrasi-ates-puskurdu-gerekirse-ligleri-ertelesinler-p355664",
-        "description": "Aziz Yıldırım derbi sonrası ateş püskürdü! Gerekirse ligleri ertelesinler",
-        "source": "Sözcü",
-        "published": "2026-09-06T00:34:57+03:00"
-      },
-      {
-        "title": "Hayatını kaybeden Serhat Kılıç'ın evinde bulundu: Ölümü şüpheli görüldü",
-        "link": "https://www.sozcu.com.tr/serhat-kilicin-olumu-supheli-olum-olarak-kayitlara-gecti-p355662",
-        "description": "Hayatını kaybeden Serhat Kılıç'ın evinde bulundu: Ölümü şüpheli görüldü",
-        "source": "Sözcü",
-        "published": "2026-09-06T00:21:06+03:00"
-      },
-      {
-        "title": "10 yaşındaki Eyüb'den acı haber: 80 metrelik kuyuda 4 gün mahsur kalmıştı",
-        "link": "https://www.sozcu.com.tr/10-yasindaki-eyub-den-aci-haber-80-metrelik-kuyuda-4-gun-mahsur-kalmisti-p355663",
-        "description": "10 yaşındaki Eyüb'den acı haber: 80 metrelik kuyuda 4 gün mahsur kalmıştı",
-        "source": "Sözcü",
-        "published": "2026-09-06T00:18:47+03:00"
-      },
-      {
         "title": "Üsküdar Belediyesi'ne operasyon. Üç kişi tutuklandı",
         "link": "https://www.ntv.com.tr/turkiye/uskudar-belediyesine-operasyonda-yeni-gelisme-1740529",
         "description": "Üsküdar Belediyesine yönelik soruşturmada Belediye Başkan Yardımcısı Amine Cansu Çelik'in de arasında olduğu üç kişi tutuklandı.",
         "source": "NTV",
         "published": "2026-09-05T23:55:32+03:00"
-      },
-      {
-        "title": "Özdağ, ilk maaşıyla kendisine hediye alan gencin notunu paylaştı",
-        "link": "https://www.sozcu.com.tr/ozdag-ilk-maasiyla-kendisine-hediye-alan-gencin-notunu-paylasti-p355657",
-        "description": "Özdağ, ilk maaşıyla kendisine hediye alan gencin notunu paylaştı",
-        "source": "Sözcü",
-        "published": "2026-09-05T23:18:35+03:00"
-      },
-      {
-        "title": "İsmail Kartal özür diledi! Mağlubiyetin nedenini anlattı",
-        "link": "https://www.sozcu.com.tr/ismail-kartal-ozur-diledi-tum-sorumluluk-bende-p355656",
-        "description": "İsmail Kartal özür diledi! Mağlubiyetin nedenini anlattı",
-        "source": "Sözcü",
-        "published": "2026-09-05T23:15:22+03:00"
-      },
-      {
-        "title": "ABD ile İran arasında gerilim tırmandı: Gemiler hedef alındı, petrol tankerleri vuruldu",
-        "link": "https://www.sozcu.com.tr/abd-ile-iran-arasinda-gerilim-tirmandi-gemiler-hedef-alindi-petrol-tankerleri-vuruldu-p355654",
-        "description": "ABD ile İran arasında gerilim tırmandı: Gemiler hedef alındı, petrol tankerleri vuruldu",
-        "source": "Sözcü",
-        "published": "2026-09-05T23:07:02+03:00"
-      },
-      {
-        "title": "Beşiktaş'tan maç sonu olay paylaşım! O sözlere cevap geldi",
-        "link": "https://www.sozcu.com.tr/besiktas-tan-mac-sonu-olay-paylasim-o-sozlere-cevap-geldi-p355653",
-        "description": "Beşiktaş'tan maç sonu olay paylaşım! O sözlere cevap geldi",
-        "source": "Sözcü",
-        "published": "2026-09-05T22:57:33+03:00"
-      },
-      {
-        "title": "Maç sonu Kerem Aktürkoğlu'ndan olay tepki!",
-        "link": "https://www.sozcu.com.tr/mac-sonu-kerem-akturkoglu-ndan-olay-tepki-p355652",
-        "description": "Maç sonu Kerem Aktürkoğlu'ndan olay tepki!",
-        "source": "Sözcü",
-        "published": "2026-09-05T22:38:04+03:00"
       },
       {
         "title": "Avukatlara silah ruhsatında indirim",
@@ -693,25 +707,11 @@
         "published": "2026-09-05T16:49:55+03:00"
       },
       {
-        "title": "Bursa'da orman yangını",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-bursada-orman-yangini-ekipler-alevlere-mudahale-ediyor-1740518",
-        "description": "Bursa'nın Orhaneli ilçesinde çıkan orman yangını havadan ve karadan müdahaleyle kontrol altına alındı.",
-        "source": "NTV",
-        "published": "2026-09-05T16:46:57+03:00"
-      },
-      {
         "title": "Trump'ın temsilcileri Ukrayna Savaşı'nı 'sona erdirecek bir öneriyle' Moskova'da",
         "link": "https://www.bbc.com/turkce/articles/c14dkek2l51o?at_medium=RSS&at_campaign=rss",
         "description": "Steve Witkoff ve Jared Kushner'in 6 Eylül Pazar günü Ukrayna'ya gitmeden önce Rusya ile görüşmeler yapması bekleniyor.",
         "source": "BBC Turkish",
         "published": "2026-09-05T16:21:51+00:00"
-      },
-      {
-        "title": "Bilim merkezi yapılan yolcu uçağı alev topuna döndü: Kopan kuyruk itfaiyenin üzerine düştü",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-bilim-merkezi-yapilan-yolcu-ucagi-alev-topuna-dondu-kopan-kuyruk-itfaiyenin-uzerine-dustu-1740522",
-        "description": "Kocaeli'de havacılık merkezi olarak kullanılan yolcu uçağı alev alev yandı. Uçağın kuyruk kısmı koparak itfaiye aracının üzerine düştü.",
-        "source": "NTV",
-        "published": "2026-09-05T15:54:15+03:00"
       },
       {
         "title": "Avrupa Voleybol Şampiyonası: Türkiye Sırbistan'ı 3-0 yenerek finale yükseldi",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.4166,
-    "eur_try": 56.238,
+    "usd_try": 48.424,
+    "eur_try": 56.2465,
     "eur_usd": 0.8611
   },
   "weather": {
-    "condition": "Hafif yağmurlu",
-    "temp": "+80°F",
-    "wind": "↖7mph",
-    "humidity": "81%"
+    "condition": "Bulutlu",
+    "temp": "+98°F",
+    "wind": "↘10mph",
+    "humidity": "24%"
   }
 }
