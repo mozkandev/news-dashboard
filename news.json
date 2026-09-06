@@ -1,27 +1,76 @@
 {
-  "updated_at": "2026-09-06T20:39:51.400473+00:00",
+  "updated_at": "2026-09-06T22:43:11.032170+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "They're Made Out of Meat",
-        "link": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
-        "description": "Article URL: https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml Comments URL: https://news.ycombinator.com/item?id=49590362 Points: 4 # Comments: 0",
+        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+        "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+        "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+        "source": "TechCrunch",
+        "published": "2026-09-06T21:41:06+00:00"
+      },
+      {
+        "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+        "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+        "description": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 24 # Comments: 6",
         "source": "HackerNews",
-        "published": "2026-09-06T20:07:55+00:00"
+        "published": "2026-09-06T21:16:10+00:00"
+      },
+      {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "source": "TechCrunch",
+        "published": "2026-09-06T20:47:37+00:00"
+      },
+      {
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "link": "https://github.com/marsbos/mador",
+        "description": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 44 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-09-06T20:45:13+00:00"
+      },
+      {
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "description": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 87 # Comments: 54",
+        "source": "HackerNews",
+        "published": "2026-09-06T20:32:38+00:00"
+      },
+      {
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "link": "https://arxiv.org/abs/2505.12540",
+        "description": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 12 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-09-06T20:31:20+00:00"
+      },
+      {
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 89 # Comments: 25",
+        "source": "HackerNews",
+        "published": "2026-09-06T20:24:00+00:00"
+      },
+      {
+        "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+        "link": "https://getvodforge.com/",
+        "description": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Converter sites are always an option but the bitrate wasn't optimal for a CTV network that needs to make...",
+        "source": "HackerNews",
+        "published": "2026-09-06T20:07:30+00:00"
       },
       {
         "title": "The car industry A/B tested selling a car with and without CarPlay",
         "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-        "description": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 41 # Comments: 18",
+        "description": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 88 # Comments: 76",
         "source": "HackerNews",
         "published": "2026-09-06T19:53:23+00:00"
       },
       {
-        "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
-        "link": "https://news.ycombinator.com/item?id=49589730",
-        "description": "I can't seem to find pictures or significant details (nothing on Wikipedia) about the coastal buildings purportedly used to contain shipwreck rescue rocket apparatus. Many of the buildings still exist and are Grade II listed. Anyone have any...",
+        "title": "D2 Is Non-Profit",
+        "link": "https://d2lang.com/blog/d2-non-profit/",
+        "description": "Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 6 # Comments: 1",
         "source": "HackerNews",
-        "published": "2026-09-06T19:06:54+00:00"
+        "published": "2026-09-06T19:11:05+00:00"
       },
       {
         "title": "Bu Kolye Sizi Sürekli İzliyor: Yapay Zekalı ODYSS N1 Tanıtıldı",
@@ -38,16 +87,9 @@
         "published": "2026-09-06T18:00:48+00:00"
       },
       {
-        "title": "Following legal advice, the Nitter project will continue",
-        "link": "https://github.com/zedeus/nitter",
-        "description": "Article URL: https://github.com/zedeus/nitter Comments URL: https://news.ycombinator.com/item?id=49589003 Points: 252 # Comments: 65",
-        "source": "HackerNews",
-        "published": "2026-09-06T17:51:23+00:00"
-      },
-      {
-        "title": "Nitter is unarchived and will continue",
+        "title": "Nitter and XCancel resume service after legal advice",
         "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "description": "Article URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3 Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 250 # Comments: 86",
+        "description": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 354 # Comments: 202",
         "source": "HackerNews",
         "published": "2026-09-06T17:49:47+00:00"
       },
@@ -66,6 +108,13 @@
         "published": "2026-09-06T17:00:28+00:00"
       },
       {
+        "title": "An Amazon cargo plane crashed at Miami International Airport",
+        "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+        "description": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the...",
+        "source": "The Verge",
+        "published": "2026-09-06T16:59:21-04:00"
+      },
+      {
         "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
         "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
         "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
@@ -78,20 +127,6 @@
         "description": "Türkiye’nin milli hava savunma mimarisinde önemli rol üstlenen ALP 300-G Erken İhbar Radarı, bu kez S-400 karşılaştırmasıyla gündeme geldi. ASELSAN Genel Müdür Yardımcısı Yusuf Bora Kartal, Al Jazeera’ya verdiği röportajda ALP 300-G’nin görev...",
         "source": "ShiftDelete",
         "published": "2026-09-06T16:30:28+00:00"
-      },
-      {
-        "title": "An Alien Mind",
-        "link": "https://openai.com/index/an-alien-mind/",
-        "description": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 229 # Comments: 160",
-        "source": "HackerNews",
-        "published": "2026-09-06T16:27:05+00:00"
-      },
-      {
-        "title": "Research carried out using NetBSD",
-        "link": "https://www.netbsd.org/gallery/research.html",
-        "description": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 54 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-09-06T16:10:05+00:00"
       },
       {
         "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
@@ -108,25 +143,11 @@
         "published": "2026-09-06T16:00:17+00:00"
       },
       {
-        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-        "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-        "description": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 85 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-09-06T15:44:24+00:00"
-      },
-      {
         "title": "Dünyanın İlk Sıvı Soğutmalı Qi2 Powerbank’i Geldi: UGREEN’den IFA 2026’da Gövde Gösterisi",
         "link": "https://shiftdelete.net/dunyanin-ilk-sivi-sogutmali-qi2-powerbanki-geldi-ugreenden-ifa-2026da-govde-gosterisi",
         "description": "Günlük yaşamı daha akıllı, kolay ve bağlantılı hale getiren çözümleriyle tanınan küresel teknoloji devi UGREEN, Avrupa’nın en büyük teknoloji fuarı IFA 2026’da gövde gösterisi yaptı. Fuarın “Resmi Şarj Partneri” unvanını üstlenen marka, bu yıl...",
         "source": "ShiftDelete",
         "published": "2026-09-06T15:09:20+00:00"
-      },
-      {
-        "title": "Research acceleration: The view inside OpenAI",
-        "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "description": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 75 # Comments: 49",
-        "source": "HackerNews",
-        "published": "2026-09-06T15:08:44+00:00"
       },
       {
         "title": "Europe has its first commercial orbital rocket",
@@ -241,32 +262,11 @@
         "published": "2026-09-05T12:49:33-04:00"
       },
       {
-        "title": "Content creators drop the ball",
-        "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-        "description": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and...",
-        "source": "The Verge",
-        "published": "2026-09-05T10:00:16-04:00"
-      },
-      {
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
         "description": "The round is being raised just months after the robot data startup exited from stealth.",
         "source": "TechCrunch",
         "published": "2026-09-04T23:36:14+00:00"
-      },
-      {
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-        "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-        "source": "TechCrunch",
-        "published": "2026-09-04T23:15:11+00:00"
-      },
-      {
-        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-        "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-        "source": "TechCrunch",
-        "published": "2026-09-04T21:12:11+00:00"
       },
       {
         "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
@@ -355,18 +355,32 @@
     ],
     "dunya": [
       {
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+        "source": "BBC News",
+        "published": "2026-09-06T22:40:18+00:00"
+      },
+      {
+        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+        "source": "BBC News",
+        "published": "2026-09-06T22:00:36+00:00"
+      },
+      {
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
+        "source": "BBC News",
+        "published": "2026-09-06T21:09:26+00:00"
+      },
+      {
         "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
         "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
         "source": "BBC News",
-        "published": "2026-09-06T20:18:52+00:00"
-      },
-      {
-        "title": "German far-right set for big win in eastern state, projections show",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-        "source": "BBC News",
-        "published": "2026-09-06T20:16:35+00:00"
+        "published": "2026-09-06T20:41:58+00:00"
       },
       {
         "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
@@ -404,13 +418,6 @@
         "published": "2026-09-06T16:32:59+00:00"
       },
       {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
-        "source": "BBC News",
-        "published": "2026-09-06T16:28:59+00:00"
-      },
-      {
         "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
@@ -418,7 +425,7 @@
         "published": "2026-09-06T16:00:21+00:00"
       },
       {
-        "title": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "description": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
         "source": "NPR",
@@ -472,13 +479,6 @@
         "description": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
         "source": "NPR",
         "published": "2026-09-06T04:44:48-04:00"
-      },
-      {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "source": "BBC News",
-        "published": "2026-09-05T23:20:00+00:00"
       },
       {
         "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
@@ -567,6 +567,69 @@
     ],
     "turkiye": [
       {
+        "title": "Marmara'da Panik. Feribot iskeleye çarptı.",
+        "link": "https://www.ntv.com.tr/turkiye/marmarada-panik-feribot-iskeleye-carpti-1740705",
+        "description": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı.",
+        "source": "NTV",
+        "published": "2026-09-07T01:36:03+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-eylul-2026-1740701",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-07T01:30:00+03:00"
+      },
+      {
+        "title": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/abd-de-kargo-ucagi-inis-sirasinda-pistten-cikti-p355897",
+        "description": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-09-07T01:03:02+03:00"
+      },
+      {
+        "title": "Kaderine terk edilmiş bataklıkta imkansızı başardı",
+        "link": "https://www.sozcu.com.tr/kaderine-terk-edilmis-bataklikta-imkansizi-basardi-p355910",
+        "description": "Kaderine terk edilmiş bataklıkta imkansızı başardı",
+        "source": "Sözcü",
+        "published": "2026-09-07T01:01:04+03:00"
+      },
+      {
+        "title": "Leao'dan Okan Buruk'a övgü dolu sözler",
+        "link": "https://www.sozcu.com.tr/leao-dan-okan-buruk-a-ovgu-dolu-sozler-p355909",
+        "description": "Leao'dan Okan Buruk'a övgü dolu sözler",
+        "source": "Sözcü",
+        "published": "2026-09-07T00:43:10+03:00"
+      },
+      {
+        "title": "Ne odun ne gaz gerekiyor: Yemek pişirmek için bunu kullanmaya başladılar",
+        "link": "https://www.sozcu.com.tr/ne-odun-ne-gaz-gerekiyor-yemek-pisirmek-icin-bunu-kullanmaya-basladilar-p355903",
+        "description": "Ne odun ne gaz gerekiyor: Yemek pişirmek için bunu kullanmaya başladılar",
+        "source": "Sözcü",
+        "published": "2026-09-07T00:26:03+03:00"
+      },
+      {
+        "title": "Hüseyin Çimşir: Elimde sihirli değnek yok",
+        "link": "https://www.sozcu.com.tr/huseyin-cimsir-elimde-sihirli-degnek-yok-p355901",
+        "description": "Hüseyin Çimşir: Elimde sihirli değnek yok",
+        "source": "Sözcü",
+        "published": "2026-09-06T23:40:54+03:00"
+      },
+      {
+        "title": "Sarıyer'de 2 gün süreyle denize girmek yasaklandı",
+        "link": "https://www.sozcu.com.tr/sariyer-de-plajlara-2-gunluk-deniz-yasagi-p355900",
+        "description": "Sarıyer'de 2 gün süreyle denize girmek yasaklandı",
+        "source": "Sözcü",
+        "published": "2026-09-06T23:40:34+03:00"
+      },
+      {
+        "title": "Antalya'da orman yangını. Alevler rüzgarın etkisiyle büyüdü",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-antalyada-orman-yangini-alevler-ruzgarin-etkisiyle-buyudu-1740688",
+        "description": "Antalya'nın Serik ilçesinde orman yangını çıktı. Rüzgarın etkisiyle büyüyen alevlere müdahale sürüyor.",
+        "source": "NTV",
+        "published": "2026-09-06T23:40:30+03:00"
+      },
+      {
         "title": "Şehrin göbeğindeki binlerce beton bloğa tek tek hayat verdiler",
         "link": "https://www.sozcu.com.tr/sehrin-gobegindeki-binlerce-beton-bloga-tek-tek-hayat-verdiler-p355899",
         "description": "Şehrin göbeğindeki binlerce beton bloğa tek tek hayat verdiler",
@@ -602,39 +665,11 @@
         "published": "2026-09-06T23:06:49+03:00"
       },
       {
-        "title": "Tek seferde 10 bin adet satın alacaklar: Faturası 5 milyar dolar",
-        "link": "https://www.sozcu.com.tr/tek-seferde-10-bin-adet-satin-alacaklar-faturasi-5-milyar-dolar-p355893",
-        "description": "Tek seferde 10 bin adet satın alacaklar: Faturası 5 milyar dolar",
-        "source": "Sözcü",
-        "published": "2026-09-06T22:44:39+03:00"
-      },
-      {
-        "title": "Zeynep Sönmez, ABD Açık'ta çiftlerde 3. tura çıktı",
-        "link": "https://www.sozcu.com.tr/zeynep-sonmez-abd-acik-ta-ciftlerde-3-tura-cikti-p355891",
-        "description": "Zeynep Sönmez, ABD Açık'ta çiftlerde 3. tura çıktı",
-        "source": "Sözcü",
-        "published": "2026-09-06T22:42:15+03:00"
-      },
-      {
-        "title": "Vargas kendini tutamadı! Hıçkıra hıçkıra ağladı",
-        "link": "https://www.sozcu.com.tr/vargas-kendini-tutamadi-hickira-hickira-agladi-p355883",
-        "description": "Vargas kendini tutamadı! Hıçkıra hıçkıra ağladı",
-        "source": "Sözcü",
-        "published": "2026-09-06T22:28:12+03:00"
-      },
-      {
-        "title": "Binaların altındaki donmuş toprak çözülmeye başladı",
-        "link": "https://www.sozcu.com.tr/binalarin-altindaki-donmus-toprak-cozulmeye-basladi-p355885",
-        "description": "Binaların altındaki donmuş toprak çözülmeye başladı",
-        "source": "Sözcü",
-        "published": "2026-09-06T22:22:04+03:00"
-      },
-      {
-        "title": "Kocaelispor tek attı 3 aldı",
-        "link": "https://www.sozcu.com.tr/kocaelispor-tek-atti-3-aldi-p355884",
-        "description": "Kocaelispor tek attı 3 aldı",
-        "source": "Sözcü",
-        "published": "2026-09-06T22:05:13+03:00"
+        "title": "Saksonya-Anhalt seçimleri: Aşırı sağcı AfD için büyük zafer, Merz'in CDU'su için ağır hezimet",
+        "link": "https://www.bbc.com/turkce/articles/c804k5e3yylo?at_medium=RSS&at_campaign=rss",
+        "description": "Almanya'nın Saksonya-Anhalt eyaletindeki parlamento seçimlerinde, aşırı sağcı Almanya için Alternatif (AfD) partisi, oyların %44'ünü alarak birinci parti çıktı.Saksonya-Anhalt seçim sonucu, Başbakan Friedrich Merz liderliğindeki CDU için ağır bir...",
+        "source": "BBC Turkish",
+        "published": "2026-09-06T22:39:19+00:00"
       },
       {
         "title": "Genç kadını erkek arkadaşından kurtarmak isterken bıçaklandı",
@@ -642,13 +677,6 @@
         "description": "Adıyaman’da erkek arkadaşı tarafından darbedilen kadını kurtarmak isteyen genç bıçaklandı.",
         "source": "NTV",
         "published": "2026-09-06T22:03:14+03:00"
-      },
-      {
-        "title": "Trabzonspor, Tekke’siz ilk maçta şov yaptı! Yıldız futbolcunun sakatlığı moralleri bozdu",
-        "link": "https://www.sozcu.com.tr/trabzonspor-tekke-siz-ilk-macta-sov-yapti-yildiz-futbolcunun-sakatligi-moralleri-bozdu-p355881",
-        "description": "Trabzonspor, Tekke’siz ilk maçta şov yaptı! Yıldız futbolcunun sakatlığı moralleri bozdu",
-        "source": "Sözcü",
-        "published": "2026-09-06T21:52:27+03:00"
       },
       {
         "title": "Süper Loto çekiliş sonuçları belli oldu: 6 Eylül 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
@@ -686,39 +714,11 @@
         "published": "2026-09-06T20:27:50+03:00"
       },
       {
-        "title": "Antalya'da orman yangını. Alevler rüzgarın etkisiyle büyüdü",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-antalyada-orman-yangini-alevler-ruzgarin-etkisiyle-buyudu-1740688",
-        "description": "Antalya'nın Serik ilçesinde orman yangını çıktı. Rüzgarın etkisiyle büyüyen alevlere müdahale sürüyor.",
-        "source": "NTV",
-        "published": "2026-09-06T20:19:50+03:00"
-      },
-      {
         "title": "İtalya'yı yenen Filenin Sultanları Avrupa Şampiyonu",
         "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
         "description": "Filenin Sultanları Avrupa Şampiyonası finalinde çekişmeli maçta İtalya'yla 3-2 yenerek üst üst ikinci kez Avrupa şampiyonu olmayı başardı.",
         "source": "BBC Turkish",
         "published": "2026-09-06T18:26:03+00:00"
-      },
-      {
-        "title": "Oğluyla ilk kez maça gitmişti. Derbide kalbine yenildi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-ogluyla-ilk-kez-maca-gitmisti-derbide-kalbine-yenildi-1740678",
-        "description": "Fenerbahçe-Beşiktaş derbisinde tribünde kalp krizi geçirerek hayatını kaybeden Fenerbahçe taraftarı Gerçek Yaşar’ın, oğlu ile ilk kez birlikte stadyumda maç izlemeye gittiği ortaya çıktı.",
-        "source": "NTV",
-        "published": "2026-09-06T18:19:23+03:00"
-      },
-      {
-        "title": "Bakan Gürlek OVP paylaşımı. \"Adalet hizmetlerinin etkinliğini artıracağız\"",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-ovp-paylasimi-adalet-hizmetlerinin-etkinligini-artiracagiz-1740677",
-        "description": "Adalet Bakanı Akın Gürlek, Türkiye'nin ekonomide 3 yıllık hedefi olan Orta Vadeli Programı değerlendirdi.",
-        "source": "NTV",
-        "published": "2026-09-06T17:58:09+03:00"
-      },
-      {
-        "title": "Saksonya-Anhalt seçimleri: Sandık çıkış anketlerine göre aşırı sağcı AfD yüzde 44, 5 oy aldı",
-        "link": "https://www.bbc.com/turkce/articles/c804k5e3yylo?at_medium=RSS&at_campaign=rss",
-        "description": "Almanya'nın Saksonya-Anhalt eyaletindeki parlamento seçimlerinde sandık çıkış anketlerine göre, aşırı sağcı Almanya için Alternatif (AfD) partisi doğudaki Saksonya-Anhalt eyaletinde tarihi bir zafer kazandı ancak sonucun tek başına iktidar olmaya...",
-        "source": "BBC Turkish",
-        "published": "2026-09-06T17:36:09+00:00"
       },
       {
         "title": "Trump'ın temsilcileri Putin ve Zelenskiy ile görüştü: 'Umutlu ayrılıyoruz'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8611
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+77°F",
-    "wind": "↙3mph",
+    "condition": "Güneşli",
+    "temp": "+73°F",
+    "wind": "↘7mph",
     "humidity": "48%"
   }
 }
