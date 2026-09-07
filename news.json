@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-09-06T22:43:11.032170+00:00",
+  "updated_at": "2026-09-07T00:42:40.453933+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Making a Python interpreter in 1024 bytes",
+        "link": "https://austinhenley.com/blog/python1024.html",
+        "description": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 46 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-09-06T23:14:08+00:00"
+      },
+      {
+        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+        "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+        "description": "Article URL: https://twitter.com/Liquid_BTC/status/2096696272447218108 Comments URL: https://news.ycombinator.com/item?id=49591672 Points: 49 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-09-06T22:43:25+00:00"
+      },
+      {
+        "title": "Political meddling at the Census Bureau damages the US statistical system",
+        "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+        "description": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system Comments URL: https://news.ycombinator.com/item?id=49591620 Points: 53 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-09-06T22:36:07+00:00"
+      },
       {
         "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
         "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
@@ -12,7 +33,7 @@
       {
         "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
         "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-        "description": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 24 # Comments: 6",
+        "description": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 56 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-09-06T21:16:10+00:00"
       },
@@ -26,49 +47,42 @@
       {
         "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
         "link": "https://github.com/marsbos/mador",
-        "description": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 44 # Comments: 16",
+        "description": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 61 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-09-06T20:45:13+00:00"
       },
       {
         "title": "It took a year to ship WebAssembly in Anubis",
         "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "description": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 87 # Comments: 54",
+        "description": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 122 # Comments: 81",
         "source": "HackerNews",
         "published": "2026-09-06T20:32:38+00:00"
       },
       {
         "title": "Harnessing the Universal Geometry of Embeddings",
         "link": "https://arxiv.org/abs/2505.12540",
-        "description": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 12 # Comments: 2",
+        "description": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 35 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-09-06T20:31:20+00:00"
       },
       {
         "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
         "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 89 # Comments: 25",
+        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 167 # Comments: 86",
         "source": "HackerNews",
         "published": "2026-09-06T20:24:00+00:00"
       },
       {
-        "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-        "link": "https://getvodforge.com/",
-        "description": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Converter sites are always an option but the bitrate wasn't optimal for a CTV network that needs to make...",
-        "source": "HackerNews",
-        "published": "2026-09-06T20:07:30+00:00"
-      },
-      {
-        "title": "The car industry A/B tested selling a car with and without CarPlay",
-        "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-        "description": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 88 # Comments: 76",
-        "source": "HackerNews",
-        "published": "2026-09-06T19:53:23+00:00"
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces...",
+        "source": "The Verge",
+        "published": "2026-09-06T19:43:53-04:00"
       },
       {
         "title": "D2 Is Non-Profit",
         "link": "https://d2lang.com/blog/d2-non-profit/",
-        "description": "Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 6 # Comments: 1",
+        "description": "Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 21 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-09-06T19:11:05+00:00"
       },
@@ -89,7 +103,7 @@
       {
         "title": "Nitter and XCancel resume service after legal advice",
         "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "description": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 354 # Comments: 202",
+        "description": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 423 # Comments: 230",
         "source": "HackerNews",
         "published": "2026-09-06T17:49:47+00:00"
       },
@@ -99,13 +113,6 @@
         "description": "Hyundai Staria Electric, 430 km menzil ve 800 volt şarj mimarisiyle Avrupa'da satışa çıktı. İşte yeni elektrikli minivanın fiyatı ve özellikleri.",
         "source": "ShiftDelete",
         "published": "2026-09-06T17:00:39+00:00"
-      },
-      {
-        "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-        "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-        "description": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm Comments URL: https://news.ycombinator.com/item?id=49588466 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-09-06T17:00:28+00:00"
       },
       {
         "title": "An Amazon cargo plane crashed at Miami International Airport",
@@ -304,13 +311,6 @@
         "published": "2026-09-04T17:42:42+03:00"
       },
       {
-        "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-        "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-        "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast...",
-        "source": "The Verge",
-        "published": "2026-09-04T17:19:33-04:00"
-      },
-      {
         "title": "BMW, Yangın Riski Nedeniyle 189 Binden Fazla Aracını Geri Çağırıyor: İşte Etkilenen Modeller!",
         "link": "\n                    https://www.webtekno.com/bmw-yangin-riski-nedeniyle-189-binden-fazla-aracini-geri-cagiriyor-h223675.html\n                    ",
         "description": "BMW, marş rölesindeki su sızıntısı ve yangın riski nedeniyle 2014-2020 arası üretilen 189 binden fazla aracı geri çağırıyor.",
@@ -355,11 +355,25 @@
     ],
     "dunya": [
       {
+        "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+        "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+        "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+        "source": "BBC News",
+        "published": "2026-09-06T23:34:18+00:00"
+      },
+      {
         "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
         "source": "BBC News",
-        "published": "2026-09-06T22:40:18+00:00"
+        "published": "2026-09-06T23:02:45+00:00"
+      },
+      {
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
+        "source": "BBC News",
+        "published": "2026-09-06T22:42:56+00:00"
       },
       {
         "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
@@ -367,13 +381,6 @@
         "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
         "source": "BBC News",
         "published": "2026-09-06T22:00:36+00:00"
-      },
-      {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-        "description": "They were transferred onto two lifeboats and taken to shore in the UK.",
-        "source": "BBC News",
-        "published": "2026-09-06T21:09:26+00:00"
       },
       {
         "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -416,13 +423,6 @@
         "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
         "source": "BBC News",
         "published": "2026-09-06T16:32:59+00:00"
-      },
-      {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "source": "BBC News",
-        "published": "2026-09-06T16:00:21+00:00"
       },
       {
         "title": "Five dead after Amazon cargo plane crashes at Miami airport",
@@ -567,6 +567,27 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-eylul-2026-1740701",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-07T03:30:00+03:00"
+      },
+      {
+        "title": "Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-mustafa-kilicin-son-goruntuleri-ortaya-cikti-1740689",
+        "description": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı.",
+        "source": "NTV",
+        "published": "2026-09-07T02:13:35+03:00"
+      },
+      {
+        "title": "İstanbul'un iki ilçesinde 2 gün denize girme yasağı",
+        "link": "https://www.ntv.com.tr/turkiye/istanbulun-iki-ilcesinde-2-gun-denize-girme-yasagi-1740706",
+        "description": "Karadeniz'e kıyısı bulunan Sarıyer ve Beykoz'da olumsuz hava şartları nedeniyle 2 gün boyunca denize girmek yasaklandı.",
+        "source": "NTV",
+        "published": "2026-09-07T01:46:28+03:00"
+      },
+      {
         "title": "Marmara'da Panik. Feribot iskeleye çarptı.",
         "link": "https://www.ntv.com.tr/turkiye/marmarada-panik-feribot-iskeleye-carpti-1740705",
         "description": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı.",
@@ -574,53 +595,11 @@
         "published": "2026-09-07T01:36:03+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Eylül 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-eylul-2026-1740701",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-09-07T01:30:00+03:00"
-      },
-      {
-        "title": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti",
-        "link": "https://www.sozcu.com.tr/abd-de-kargo-ucagi-inis-sirasinda-pistten-cikti-p355897",
-        "description": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti",
-        "source": "Sözcü",
-        "published": "2026-09-07T01:03:02+03:00"
-      },
-      {
-        "title": "Kaderine terk edilmiş bataklıkta imkansızı başardı",
-        "link": "https://www.sozcu.com.tr/kaderine-terk-edilmis-bataklikta-imkansizi-basardi-p355910",
-        "description": "Kaderine terk edilmiş bataklıkta imkansızı başardı",
-        "source": "Sözcü",
-        "published": "2026-09-07T01:01:04+03:00"
-      },
-      {
-        "title": "Leao'dan Okan Buruk'a övgü dolu sözler",
-        "link": "https://www.sozcu.com.tr/leao-dan-okan-buruk-a-ovgu-dolu-sozler-p355909",
-        "description": "Leao'dan Okan Buruk'a övgü dolu sözler",
-        "source": "Sözcü",
-        "published": "2026-09-07T00:43:10+03:00"
-      },
-      {
-        "title": "Ne odun ne gaz gerekiyor: Yemek pişirmek için bunu kullanmaya başladılar",
-        "link": "https://www.sozcu.com.tr/ne-odun-ne-gaz-gerekiyor-yemek-pisirmek-icin-bunu-kullanmaya-basladilar-p355903",
-        "description": "Ne odun ne gaz gerekiyor: Yemek pişirmek için bunu kullanmaya başladılar",
-        "source": "Sözcü",
-        "published": "2026-09-07T00:26:03+03:00"
-      },
-      {
-        "title": "Hüseyin Çimşir: Elimde sihirli değnek yok",
-        "link": "https://www.sozcu.com.tr/huseyin-cimsir-elimde-sihirli-degnek-yok-p355901",
-        "description": "Hüseyin Çimşir: Elimde sihirli değnek yok",
-        "source": "Sözcü",
-        "published": "2026-09-06T23:40:54+03:00"
-      },
-      {
-        "title": "Sarıyer'de 2 gün süreyle denize girmek yasaklandı",
-        "link": "https://www.sozcu.com.tr/sariyer-de-plajlara-2-gunluk-deniz-yasagi-p355900",
-        "description": "Sarıyer'de 2 gün süreyle denize girmek yasaklandı",
-        "source": "Sözcü",
-        "published": "2026-09-06T23:40:34+03:00"
+        "title": "Trump'ın temsilcileriyle görüşen Zelenskiy: 'Savaşın kışın da süreceğini tahmin ediyorum'",
+        "link": "https://www.bbc.com/turkce/articles/c14dkek2l51o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'nın işgalinden bu yana Ukrayna'ya ilk ziyaretlerini gerçekleştiren Donald Trump'ın üst düzey temsilcileriyle görüştü. Temsilciler görüşmeden umutlu ayrıldıklarını söylerken, Zelenskiy savaşın kış...",
+        "source": "BBC Turkish",
+        "published": "2026-09-07T00:06:08+00:00"
       },
       {
         "title": "Antalya'da orman yangını. Alevler rüzgarın etkisiyle büyüdü",
@@ -630,39 +609,18 @@
         "published": "2026-09-06T23:40:30+03:00"
       },
       {
-        "title": "Şehrin göbeğindeki binlerce beton bloğa tek tek hayat verdiler",
-        "link": "https://www.sozcu.com.tr/sehrin-gobegindeki-binlerce-beton-bloga-tek-tek-hayat-verdiler-p355899",
-        "description": "Şehrin göbeğindeki binlerce beton bloğa tek tek hayat verdiler",
-        "source": "Sözcü",
-        "published": "2026-09-06T23:37:50+03:00"
+        "title": "İBB'ye yeni operasyon: Satın Alma Dairesi Başkanı dahil 6 kişi tutuklandı",
+        "link": "https://www.bbc.com/turkce/articles/cx2z08zq02yo?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik 'bazı ihalelere fesat karıştırıldığı ve kamu zararına neden olunduğu' iddiasıyla geçen hafta düzenlenen operasyonda gözaltına alınan 12 kişiden 6'sı tutuklandı.",
+        "source": "BBC Turkish",
+        "published": "2026-09-06T23:36:18+00:00"
       },
       {
-        "title": "Rüya takıma Filenin Sultanları damga vurdu",
-        "link": "https://www.sozcu.com.tr/ruya-takima-filenin-sultanlari-damga-vurdu-p355898",
-        "description": "Rüya takıma Filenin Sultanları damga vurdu",
-        "source": "Sözcü",
-        "published": "2026-09-06T23:34:41+03:00"
-      },
-      {
-        "title": "Serhat Kılıç'ın sevgilisinin ifadesi ortaya çıktı \"Ağlamaklı ses tonu ile setten atıldığını söyledi\"",
-        "link": "https://www.sozcu.com.tr/serhat-kilic-in-sevgilisinin-ifadesi-ortaya-cikti-aglamakli-ses-tonu-ile-setten-atildigini-soyledi-p355895",
-        "description": "Serhat Kılıç'ın sevgilisinin ifadesi ortaya çıktı \"Ağlamaklı ses tonu ile setten atıldığını söyledi\"",
-        "source": "Sözcü",
-        "published": "2026-09-06T23:34:13+03:00"
-      },
-      {
-        "title": "Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-mustafa-kilicin-son-goruntuleri-ortaya-cikti-1740689",
-        "description": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı.",
-        "source": "NTV",
-        "published": "2026-09-06T23:09:46+03:00"
-      },
-      {
-        "title": "Üsküdar'da meclis dengesi 21-21'e geldi: Gözler 8 Eylül'de",
-        "link": "https://www.sozcu.com.tr/uskudar-belediyesinde-secim-8-eylulde-olacak-p355894",
-        "description": "Üsküdar'da meclis dengesi 21-21'e geldi: Gözler 8 Eylül'de",
-        "source": "Sözcü",
-        "published": "2026-09-06T23:06:49+03:00"
+        "title": "İtalya'yı yenen Filenin Sultanları Avrupa Şampiyonu",
+        "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
+        "description": "Filenin Sultanları Avrupa Şampiyonası finalinde çekişmeli maçta İtalya'yla 3-2 yenerek üst üst ikinci kez Avrupa şampiyonu olmayı başardı.",
+        "source": "BBC Turkish",
+        "published": "2026-09-06T22:58:13+00:00"
       },
       {
         "title": "Saksonya-Anhalt seçimleri: Aşırı sağcı AfD için büyük zafer, Merz'in CDU'su için ağır hezimet",
@@ -700,32 +658,11 @@
         "published": "2026-09-06T21:40:57+03:00"
       },
       {
-        "title": "Evin çatısından boğa girdi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-evin-catisindan-boga-girdi-1740680",
-        "description": "Aydın’da ineğin peşinden koşan damızlık boğa, bir evin çatısına düştü.",
-        "source": "NTV",
-        "published": "2026-09-06T21:12:48+03:00"
-      },
-      {
         "title": "Şans Topu Sonuçları Sorgulama Ekranı 6 Eylül | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
         "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1740686",
         "description": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
         "source": "NTV",
         "published": "2026-09-06T20:27:50+03:00"
-      },
-      {
-        "title": "İtalya'yı yenen Filenin Sultanları Avrupa Şampiyonu",
-        "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
-        "description": "Filenin Sultanları Avrupa Şampiyonası finalinde çekişmeli maçta İtalya'yla 3-2 yenerek üst üst ikinci kez Avrupa şampiyonu olmayı başardı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-06T18:26:03+00:00"
-      },
-      {
-        "title": "Trump'ın temsilcileri Putin ve Zelenskiy ile görüştü: 'Umutlu ayrılıyoruz'",
-        "link": "https://www.bbc.com/turkce/articles/c14dkek2l51o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'nın işgalinden bu yana Ukrayna'ya ilk ziyaretlerini gerçekleştiren Donald Trump'ın üst düzey temsilcileriyle görüştü. Temsilciler görüşmeden umutlu ayrıldıklarını söyledi.",
-        "source": "BBC Turkish",
-        "published": "2026-09-06T15:45:40+00:00"
       },
       {
         "title": "DEM Parti Kongresi: Tuncer Bakırhan ve Tülay Hatimoğulları, yeniden yeniden Eş Genel Başkan",
@@ -768,25 +705,18 @@
         "description": "Marion McMillan, 1949 ile 1976 yılları arasında bebeklerini evlatlık vermeye zorlanan yaklaşık 250 bin kadından biriydi.",
         "source": "BBC Turkish",
         "published": "2026-09-06T07:23:03+00:00"
-      },
-      {
-        "title": "Dünyanın 'en yalnız' yelken yarışında iki Türk",
-        "link": "https://www.bbc.com/turkce/articles/c99dp58n5eno?at_medium=RSS&at_campaign=rss",
-        "description": "İki Türk yelkenci 6 Eylül'de tek başlarına, karaya hiç ayak basmadan, modern teknolojik aletlerden yardım almadan dünyanın çevresini dolaşacakları yolculuklarına çıkıyor. Dünyanın en zorlu yelken yarışlarından biri olarak anılan ve dört yılda bir...",
-        "source": "BBC Turkish",
-        "published": "2026-09-05T07:22:32+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.424,
-    "eur_try": 56.2465,
+    "usd_try": 48.4603,
+    "eur_try": 56.2809,
     "eur_usd": 0.8611
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+73°F",
-    "wind": "↘7mph",
-    "humidity": "48%"
+    "condition": "Hafif sağanak yağmur",
+    "temp": "+28°C",
+    "wind": "↘9km/h",
+    "humidity": "70%"
   }
 }
