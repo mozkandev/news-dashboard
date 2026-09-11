@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-09-11T21:50:24.485307+00:00",
+  "updated_at": "2026-09-11T23:53:36.552418+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "link": "https://www.rubyhack.ai/",
+        "description": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 5 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-09-11T23:17:42+00:00"
+      },
+      {
+        "title": "DeCloudflare",
+        "link": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md",
+        "description": "Article URL: https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md Comments URL: https://news.ycombinator.com/item?id=49666587 Points: 18 # Comments: 24",
+        "source": "HackerNews",
+        "published": "2026-09-11T22:59:09+00:00"
+      },
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "source": "TechCrunch",
+        "published": "2026-09-11T22:58:17+00:00"
+      },
+      {
+        "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+        "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+        "description": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf Comments URL: https://news.ycombinator.com/item?id=49666155 Points: 9 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-11T22:16:15+00:00"
+      },
+      {
+        "title": "Project Blinkenlights",
+        "link": "https://blinkenlights.de/en/",
+        "description": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 23 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-09-11T22:15:00+00:00"
+      },
+      {
+        "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+        "link": "https://github.com/mirza-rizvi/ResolveHQ",
+        "description": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 17 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-09-11T21:48:00+00:00"
+      },
       {
         "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
         "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
@@ -10,9 +52,9 @@
         "published": "2026-09-11T21:19:05+00:00"
       },
       {
-        "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
         "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "description": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+        "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
         "source": "TechCrunch",
         "published": "2026-09-11T20:59:47+00:00"
       },
@@ -22,13 +64,6 @@
         "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
         "source": "TechCrunch",
         "published": "2026-09-11T20:57:36+00:00"
-      },
-      {
-        "title": "ElevenLabs Music v2.5",
-        "link": "https://elevenmusic.io/blog/introducing-music-v2-5",
-        "description": "Article URL: https://elevenmusic.io/blog/introducing-music-v2-5 Comments URL: https://news.ycombinator.com/item?id=49665210 Points: 31 # Comments: 28",
-        "source": "HackerNews",
-        "published": "2026-09-11T20:53:16+00:00"
       },
       {
         "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
@@ -43,13 +78,6 @@
         "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
         "source": "TechCrunch",
         "published": "2026-09-11T20:30:17+00:00"
-      },
-      {
-        "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
-        "link": "https://txt.hellman.io/",
-        "description": "Article URL: https://txt.hellman.io/ Comments URL: https://news.ycombinator.com/item?id=49664322 Points: 5 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-09-11T19:46:43+00:00"
       },
       {
         "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
@@ -75,51 +103,37 @@
       {
         "title": "GrapheneOS' rewritten Messages app is released",
         "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "description": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 112 # Comments: 64",
+        "description": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 168 # Comments: 96",
         "source": "HackerNews",
         "published": "2026-09-11T18:50:36+00:00"
       },
       {
         "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
         "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-        "description": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 57 # Comments: 32",
+        "description": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 88 # Comments: 54",
         "source": "HackerNews",
         "published": "2026-09-11T18:30:07+00:00"
       },
       {
-        "title": "I spent $220 on Google app ads. 60% of the installs were robots",
+        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
         "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-        "description": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 71 # Comments: 33",
+        "description": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 223 # Comments: 117",
         "source": "HackerNews",
         "published": "2026-09-11T18:24:55+00:00"
       },
       {
         "title": "Litelm: LiteLLM Without the Bloat",
         "link": "https://github.com/kennethwolters/litelm",
-        "description": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 63 # Comments: 21",
+        "description": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 82 # Comments: 31",
         "source": "HackerNews",
         "published": "2026-09-11T18:10:20+00:00"
       },
       {
         "title": "The EPA is planning to scrap public review rules for data center pollution",
         "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-        "description": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 224 # Comments: 146",
+        "description": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 301 # Comments: 207",
         "source": "HackerNews",
         "published": "2026-09-11T18:05:21+00:00"
-      },
-      {
-        "title": "A misalignment of AI in mathematics",
-        "link": "https://mathandai.org/",
-        "description": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL:...",
-        "source": "HackerNews",
-        "published": "2026-09-11T17:45:12+00:00"
-      },
-      {
-        "title": "Room 641A",
-        "link": "https://en.wikipedia.org/wiki/Room_641A",
-        "description": "Article URL: https://en.wikipedia.org/wiki/Room_641A Comments URL: https://news.ycombinator.com/item?id=49662367 Points: 121 # Comments: 39",
-        "source": "HackerNews",
-        "published": "2026-09-11T17:45:03+00:00"
       },
       {
         "title": "iPhone 18 Pro’nun Tamir Edilebilirlik Skoru Açıklandı: iPhone 17 Pro ile Ne Kadar Fark Var?",
@@ -127,13 +141,6 @@
         "description": "Apple'ın yayınladığı AB verilerine göre iPhone 18 Pro modelleri, tamir edilebilirlik skorunda iPhone 17 Pro'ya kıyasla küçük bir artışa sahip.",
         "source": "Webtekno",
         "published": "2026-09-11T17:41:24+03:00"
-      },
-      {
-        "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-        "link": "https://snap.berkeley.edu/",
-        "description": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 80 # Comments: 48",
-        "source": "HackerNews",
-        "published": "2026-09-11T17:36:11+00:00"
       },
       {
         "title": "Türkiye SMS Doğrulama Raporu Yayınlandı: Başarı Oranı ve Gönderenler Şaşırtıcı!",
@@ -211,13 +218,6 @@
         "description": "36 ülkeden 120 şarkıya ev sahipliği yapan EA SPORTS FC 27 Soundtrack’i Spotify’da yayınlandı.",
         "source": "Webtekno",
         "published": "2026-09-11T15:37:24+03:00"
-      },
-      {
-        "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-        "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-        "description": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-        "source": "TechCrunch",
-        "published": "2026-09-11T15:19:00+00:00"
       },
       {
         "title": "Yapay Zekaya Verilen Fazla Yetki Baş Ağrıtabilir: Kritik Sistemler Risk Altında!",
@@ -355,18 +355,46 @@
     ],
     "dunya": [
       {
+        "title": "Is a September heatwave forecast for the UK?",
+        "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
+        "description": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
+        "source": "BBC News",
+        "published": "2026-09-11T23:41:50+00:00"
+      },
+      {
+        "title": "Reform receives record £36m donation from crypto billionaire",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+        "source": "BBC News",
+        "published": "2026-09-11T23:27:18+00:00"
+      },
+      {
+        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+        "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+        "description": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+        "source": "BBC News",
+        "published": "2026-09-11T23:06:39+00:00"
+      },
+      {
+        "title": "Arrest made over the death of black woman found hanged from tree",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "source": "BBC News",
+        "published": "2026-09-11T22:57:42+00:00"
+      },
+      {
+        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+        "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+        "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+        "source": "BBC News",
+        "published": "2026-09-11T22:17:45+00:00"
+      },
+      {
         "title": "Children and woman injured on fairground ride",
         "link": "https://www.bbc.co.uk/news/articles/clymlyg7y44o?at_medium=RSS&at_campaign=rss",
         "description": "Police say the three people have been taken to hospital for treatment, with the fair shut for the evening.",
         "source": "BBC News",
         "published": "2026-09-11T21:11:17+00:00"
-      },
-      {
-        "title": "Police to crack down on face coverings at protests",
-        "link": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
-        "description": "Hampshire and Isle of Wight Constabulary says it will use powers under the Crime and Policing Act.",
-        "source": "BBC News",
-        "published": "2026-09-11T20:40:31+00:00"
       },
       {
         "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
@@ -376,32 +404,11 @@
         "published": "2026-09-11T20:12:01+00:00"
       },
       {
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-        "source": "BBC News",
-        "published": "2026-09-11T20:11:47+00:00"
-      },
-      {
-        "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
-        "link": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
-        "description": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
-        "source": "BBC News",
-        "published": "2026-09-11T17:55:06+00:00"
-      },
-      {
         "title": "MPs vote against fresh attempt to legalise assisted dying",
         "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
         "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
         "source": "BBC News",
         "published": "2026-09-11T17:22:39+00:00"
-      },
-      {
-        "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-        "link": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
-        "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
-        "source": "BBC News",
-        "published": "2026-09-11T16:49:47+00:00"
       },
       {
         "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
@@ -430,13 +437,6 @@
         "description": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
         "source": "NPR",
         "published": "2026-09-11T15:39:35-04:00"
-      },
-      {
-        "title": "UK government rejects 'kill switch' idea for dangerous AI",
-        "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-        "description": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
-        "source": "BBC News",
-        "published": "2026-09-11T15:07:07+00:00"
       },
       {
         "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
@@ -567,25 +567,39 @@
     ],
     "turkiye": [
       {
-        "title": "CIA 11 Eylül’e ilişkin 71 belgeyi yayımladı: 2 başkanı da saldırıdan seneler evvel defalarca uyarmışlar",
-        "link": "https://www.sozcu.com.tr/cia-11-eylul-e-iliskin-71-belgeyi-yayimladi-2-baskani-da-saldiridan-seneler-evvel-defalarca-p357452",
-        "description": "CIA 11 Eylül’e ilişkin 71 belgeyi yayımladı: 2 başkanı da saldırıdan seneler evvel defalarca uyarmışlar",
+        "title": "Migren atağı nasıl durdurulabilir?",
+        "link": "https://www.sozcu.com.tr/migren-atagi-nasil-durdurulabilir-p357455",
+        "description": "Migren atağı nasıl durdurulabilir?",
         "source": "Sözcü",
-        "published": "2026-09-12T00:37:21+03:00"
-      },
-      {
-        "title": "CHP'li Gürsel Erol, Bakan Murat Kurum'u öve öve bitiremedi",
-        "link": "https://www.sozcu.com.tr/gursel-erol-murat-kurum-ovgu-p357453",
-        "description": "CHP'li Gürsel Erol, Bakan Murat Kurum'u öve öve bitiremedi",
-        "source": "Sözcü",
-        "published": "2026-09-12T00:36:07+03:00"
+        "published": "2026-09-12T02:43:29+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Eylül 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-12-eylul-2026-1741440",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-12T00:30:00+03:00"
+        "published": "2026-09-12T02:30:00+03:00"
+      },
+      {
+        "title": "Endonezya'da 6,6 büyüklüğünde deprem",
+        "link": "https://www.sozcu.com.tr/endonezya-da-6-6-buyuklugunde-deprem-p357456",
+        "description": "Endonezya'da 6,6 büyüklüğünde deprem",
+        "source": "Sözcü",
+        "published": "2026-09-12T02:28:09+03:00"
+      },
+      {
+        "title": "CHP'li Gürsel Erol, Bakan Murat Kurum'u öve öve bitiremedi",
+        "link": "https://www.sozcu.com.tr/gursel-erol-murat-kurum-ovgu-p357453",
+        "description": "CHP'li Gürsel Erol, Bakan Murat Kurum'u öve öve bitiremedi",
+        "source": "Sözcü",
+        "published": "2026-09-12T01:03:25+03:00"
+      },
+      {
+        "title": "CIA 11 Eylül’e ilişkin 71 belgeyi yayımladı: 2 başkanı da saldırıdan seneler evvel defalarca uyarmışlar",
+        "link": "https://www.sozcu.com.tr/cia-11-eylul-e-iliskin-71-belgeyi-yayimladi-2-baskani-da-saldiridan-seneler-evvel-defalarca-p357452",
+        "description": "CIA 11 Eylül’e ilişkin 71 belgeyi yayımladı: 2 başkanı da saldırıdan seneler evvel defalarca uyarmışlar",
+        "source": "Sözcü",
+        "published": "2026-09-12T00:37:21+03:00"
       },
       {
         "title": "Dışişleri Bakanı Fidan, Suudi Arabistanlı mevkidaşı Al Suud ile telefonda görüştü",
@@ -607,13 +621,6 @@
         "description": "İstanbul'daki resmi ve özel tüm ilkokul, ortaokul ve liselerde 14 Eylül Pazartesi günü derslerin 10.00-15.00 saatleri arasında yapılmasının kararlaştırıldığı duyuruldu.",
         "source": "NTV",
         "published": "2026-09-11T23:42:40+03:00"
-      },
-      {
-        "title": "Erdoğan'ın AKP'ye davet ettiği CHP'li başkan Yeni Parti'ye geçiyor",
-        "link": "https://www.sozcu.com.tr/acar-unlu-yeni-parti-ye-geciyor-p357433",
-        "description": "Erdoğan'ın AKP'ye davet ettiği CHP'li başkan Yeni Parti'ye geçiyor",
-        "source": "Sözcü",
-        "published": "2026-09-11T23:39:06+03:00"
       },
       {
         "title": "Miretti'nin son durumunu, Italiano duyurdu",
@@ -642,13 +649,6 @@
         "description": "Öcalan için İmralı'da hazırlanan villada yok yok! Detaylar ortaya çıktı...",
         "source": "Sözcü",
         "published": "2026-09-11T23:05:46+03:00"
-      },
-      {
-        "title": "Alexander Nübel'den zafer sözleri: 'Bu ruh tüm takımda olduğu sürece...'",
-        "link": "https://www.sozcu.com.tr/alexander-nubel-den-zafer-sozleri-p357442",
-        "description": "Alexander Nübel'den zafer sözleri: 'Bu ruh tüm takımda olduğu sürece...'",
-        "source": "Sözcü",
-        "published": "2026-09-11T22:45:31+03:00"
       },
       {
         "title": "Bakan Fidan, Suudi mevkidaşı ile Suudi Arabistan'ı hedef alan son saldırıları görüştü",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8607
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+84°F",
-    "wind": "↘22mph",
-    "humidity": "14%"
+    "condition": "Güneşli",
+    "temp": "+108°F",
+    "wind": "→9mph",
+    "humidity": "24%"
   }
 }
