@@ -1,20 +1,34 @@
 {
-  "updated_at": "2026-09-11T23:53:36.552418+00:00",
+  "updated_at": "2026-09-12T03:22:22.112002+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "link": "https://www.rubyhack.ai/",
-        "description": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 5 # Comments: 2",
+        "title": "Pandas Should Go Extinct",
+        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+        "description": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/ Comments URL: https://news.ycombinator.com/item?id=49668198 Points: 6 # Comments: 0",
         "source": "HackerNews",
-        "published": "2026-09-11T23:17:42+00:00"
+        "published": "2026-09-12T02:42:08+00:00"
       },
       {
-        "title": "DeCloudflare",
-        "link": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md",
-        "description": "Article URL: https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md Comments URL: https://news.ycombinator.com/item?id=49666587 Points: 18 # Comments: 24",
+        "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+        "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+        "description": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies Comments URL: https://news.ycombinator.com/item?id=49667375 Points: 51 # Comments: 21",
         "source": "HackerNews",
-        "published": "2026-09-11T22:59:09+00:00"
+        "published": "2026-09-12T00:40:32+00:00"
+      },
+      {
+        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+        "link": "https://github.com/zachsaw/graphify-csharp",
+        "description": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 12 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-09-12T00:16:10+00:00"
+      },
+      {
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "link": "https://www.rubyhack.ai/",
+        "description": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 409 # Comments: 238",
+        "source": "HackerNews",
+        "published": "2026-09-11T23:17:42+00:00"
       },
       {
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -26,23 +40,30 @@
       {
         "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
         "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-        "description": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf Comments URL: https://news.ycombinator.com/item?id=49666155 Points: 9 # Comments: 0",
+        "description": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf Comments URL: https://news.ycombinator.com/item?id=49666155 Points: 21 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-09-11T22:16:15+00:00"
       },
       {
         "title": "Project Blinkenlights",
         "link": "https://blinkenlights.de/en/",
-        "description": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 23 # Comments: 12",
+        "description": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 57 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-09-11T22:15:00+00:00"
       },
       {
         "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
         "link": "https://github.com/mirza-rizvi/ResolveHQ",
-        "description": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 17 # Comments: 6",
+        "description": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 36 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-09-11T21:48:00+00:00"
+      },
+      {
+        "title": "AI researchers debate how close we are to recursive self-improvement",
+        "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "description": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 61 # Comments: 42",
+        "source": "HackerNews",
+        "published": "2026-09-11T21:35:29+00:00"
       },
       {
         "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
@@ -103,37 +124,16 @@
       {
         "title": "GrapheneOS' rewritten Messages app is released",
         "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "description": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 168 # Comments: 96",
+        "description": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 216 # Comments: 133",
         "source": "HackerNews",
         "published": "2026-09-11T18:50:36+00:00"
       },
       {
         "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
         "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-        "description": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 88 # Comments: 54",
+        "description": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 121 # Comments: 56",
         "source": "HackerNews",
         "published": "2026-09-11T18:30:07+00:00"
-      },
-      {
-        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-        "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-        "description": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 223 # Comments: 117",
-        "source": "HackerNews",
-        "published": "2026-09-11T18:24:55+00:00"
-      },
-      {
-        "title": "Litelm: LiteLLM Without the Bloat",
-        "link": "https://github.com/kennethwolters/litelm",
-        "description": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 82 # Comments: 31",
-        "source": "HackerNews",
-        "published": "2026-09-11T18:10:20+00:00"
-      },
-      {
-        "title": "The EPA is planning to scrap public review rules for data center pollution",
-        "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-        "description": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 301 # Comments: 207",
-        "source": "HackerNews",
-        "published": "2026-09-11T18:05:21+00:00"
       },
       {
         "title": "iPhone 18 Pro’nun Tamir Edilebilirlik Skoru Açıklandı: iPhone 17 Pro ile Ne Kadar Fark Var?",
@@ -355,6 +355,27 @@
     ],
     "dunya": [
       {
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "source": "BBC News",
+        "published": "2026-09-12T02:29:49+00:00"
+      },
+      {
+        "title": "MPs vote against fresh attempt to legalise assisted dying",
+        "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+        "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+        "source": "BBC News",
+        "published": "2026-09-12T01:12:31+00:00"
+      },
+      {
+        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+        "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+        "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+        "source": "BBC News",
+        "published": "2026-09-12T00:43:00+00:00"
+      },
+      {
         "title": "Is a September heatwave forecast for the UK?",
         "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
         "description": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
@@ -376,18 +397,18 @@
         "published": "2026-09-11T23:06:39+00:00"
       },
       {
-        "title": "Arrest made over the death of black woman found hanged from tree",
-        "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "description": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "title": "President Trump to arrive in Ireland for two-day visit",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "description": "Donald Trump will arrive on Saturday morning at Dublin Airport ahead of a two-day visit to Ireland.",
         "source": "BBC News",
-        "published": "2026-09-11T22:57:42+00:00"
+        "published": "2026-09-11T23:01:52+00:00"
       },
       {
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+        "title": "Zverev through to third Grand Slam final in a row",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+        "description": "Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
         "source": "BBC News",
-        "published": "2026-09-11T22:17:45+00:00"
+        "published": "2026-09-11T22:42:27+00:00"
       },
       {
         "title": "Children and woman injured on fairground ride",
@@ -397,18 +418,11 @@
         "published": "2026-09-11T21:11:17+00:00"
       },
       {
-        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-        "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-        "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+        "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
         "source": "BBC News",
-        "published": "2026-09-11T20:12:01+00:00"
-      },
-      {
-        "title": "MPs vote against fresh attempt to legalise assisted dying",
-        "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
-        "source": "BBC News",
-        "published": "2026-09-11T17:22:39+00:00"
+        "published": "2026-09-11T19:44:58+00:00"
       },
       {
         "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
@@ -416,20 +430,6 @@
         "description": "Rosh Hashanah, the Jewish New Year, begins at sunset Friday. For many Jews around the world, a highlight of the holiday will be hearing the shofar: an animal's horn blown like a trumpet.",
         "source": "NPR",
         "published": "2026-09-11T16:29:31-04:00"
-      },
-      {
-        "title": "How global trade and oil prices could be hit by Houthi advance",
-        "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-        "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-        "source": "BBC News",
-        "published": "2026-09-11T16:13:39+00:00"
-      },
-      {
-        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-        "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-        "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-        "source": "BBC News",
-        "published": "2026-09-11T16:00:59+00:00"
       },
       {
         "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
@@ -567,6 +567,90 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-12-eylul-2026-1741440",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-12T06:00:00+03:00"
+      },
+      {
+        "title": "Gökçek’e 2 soru",
+        "link": "https://www.sozcu.com.tr/gokcek-e-2-soru-p357466",
+        "description": "Gökçek’e 2 soru",
+        "source": "Sözcü",
+        "published": "2026-09-12T05:50:16+03:00"
+      },
+      {
+        "title": "Oğuz Murat Aci davası. Cihantimur'un avukatından tazminat karşılığında anlaşma teklifi",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-oguz-murat-aci-davasi-cihantimurun-avukatindan-tazminat-karsiliginda-anlasma-talebi-1741419",
+        "description": "Oğuz Murat Aci'nin ölümüne ilişkin davada Timur Cihantimur'un avukatı, Aci'nin eşiyle tazminat karşılığında anlaştıklarını, diğer müştekilerle de anlaşmak istediklerini söyledi.",
+        "source": "NTV",
+        "published": "2026-09-12T05:48:56+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: Cephe siyasetinden kurtulmalıyız",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-cephe-siyasetinden-kurtulmaliyiz-1741421",
+        "description": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye süreci yolunda sabırla ilerleneceği mesajını verdi. Erdoğan, \"Cephe siyasetinden de kurtarmalıyız. Milli menfaatlerde ortaklaşmaya ihtiyaç var\" dedi.",
+        "source": "NTV",
+        "published": "2026-09-12T05:47:14+03:00"
+      },
+      {
+        "title": "AKP’li belediye borçları taşınmazlarla kapatacak",
+        "link": "https://www.sozcu.com.tr/akp-li-belediye-borclari-tasinmazlarla-kapatacak-p357465",
+        "description": "AKP’li belediye borçları taşınmazlarla kapatacak",
+        "source": "Sözcü",
+        "published": "2026-09-12T05:31:47+03:00"
+      },
+      {
+        "title": "Emeklilerden AYM’ye zam çıkarması",
+        "link": "https://www.sozcu.com.tr/emeklilerden-aym-ye-zam-cikarmasi-p357464",
+        "description": "Emeklilerden AYM’ye zam çıkarması",
+        "source": "Sözcü",
+        "published": "2026-09-12T05:30:15+03:00"
+      },
+      {
+        "title": "Apo’nun evini Bahçeli anlattı: Önünde bahçesi var, konforlu",
+        "link": "https://www.sozcu.com.tr/apo-nun-evini-bahceli-anlatti-onunde-bahcesi-var-konforlu-p357462",
+        "description": "Apo’nun evini Bahçeli anlattı: Önünde bahçesi var, konforlu",
+        "source": "Sözcü",
+        "published": "2026-09-12T05:20:15+03:00"
+      },
+      {
+        "title": "O bina 3 yıl ilanda kalmış, Gökçekler indirim yaptırmış!",
+        "link": "https://www.sozcu.com.tr/8-daireden-18-tek-odaliya-p357463",
+        "description": "O bina 3 yıl ilanda kalmış, Gökçekler indirim yaptırmış!",
+        "source": "Sözcü",
+        "published": "2026-09-12T05:10:15+03:00"
+      },
+      {
+        "title": "Fahiş faiz yükü vatandaşa kaldı",
+        "link": "https://www.sozcu.com.tr/fahis-faiz-yuku-vatandasa-kaldi-p357460",
+        "description": "Fahiş faiz yükü vatandaşa kaldı",
+        "source": "Sözcü",
+        "published": "2026-09-12T04:30:15+03:00"
+      },
+      {
+        "title": "AKP'ye geçince eşinin batık şirketi ihya oldu",
+        "link": "https://www.sozcu.com.tr/akp-ye-gecince-esinin-batik-sirketi-ihya-oldu-p357459",
+        "description": "AKP'ye geçince eşinin batık şirketi ihya oldu",
+        "source": "Sözcü",
+        "published": "2026-09-12T04:00:14+03:00"
+      },
+      {
+        "title": "Okul öncesi ‘ahiret hutbesi’",
+        "link": "https://www.sozcu.com.tr/okul-oncesi-ahiret-hutbesi-p357458",
+        "description": "Okul öncesi ‘ahiret hutbesi’",
+        "source": "Sözcü",
+        "published": "2026-09-12T03:30:14+03:00"
+      },
+      {
+        "title": "Demokrasiye büyük darbenin 46’ncı yılı",
+        "link": "https://www.sozcu.com.tr/demokrasiye-buyuk-darbenin-46-nci-yili-p357457",
+        "description": "Demokrasiye büyük darbenin 46’ncı yılı",
+        "source": "Sözcü",
+        "published": "2026-09-12T03:00:13+03:00"
+      },
+      {
         "title": "Migren atağı nasıl durdurulabilir?",
         "link": "https://www.sozcu.com.tr/migren-atagi-nasil-durdurulabilir-p357455",
         "description": "Migren atağı nasıl durdurulabilir?",
@@ -574,81 +658,11 @@
         "published": "2026-09-12T02:43:29+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Eylül 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-12-eylul-2026-1741440",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-09-12T02:30:00+03:00"
-      },
-      {
-        "title": "Endonezya'da 6,6 büyüklüğünde deprem",
-        "link": "https://www.sozcu.com.tr/endonezya-da-6-6-buyuklugunde-deprem-p357456",
-        "description": "Endonezya'da 6,6 büyüklüğünde deprem",
-        "source": "Sözcü",
-        "published": "2026-09-12T02:28:09+03:00"
-      },
-      {
-        "title": "CHP'li Gürsel Erol, Bakan Murat Kurum'u öve öve bitiremedi",
-        "link": "https://www.sozcu.com.tr/gursel-erol-murat-kurum-ovgu-p357453",
-        "description": "CHP'li Gürsel Erol, Bakan Murat Kurum'u öve öve bitiremedi",
-        "source": "Sözcü",
-        "published": "2026-09-12T01:03:25+03:00"
-      },
-      {
-        "title": "CIA 11 Eylül’e ilişkin 71 belgeyi yayımladı: 2 başkanı da saldırıdan seneler evvel defalarca uyarmışlar",
-        "link": "https://www.sozcu.com.tr/cia-11-eylul-e-iliskin-71-belgeyi-yayimladi-2-baskani-da-saldiridan-seneler-evvel-defalarca-p357452",
-        "description": "CIA 11 Eylül’e ilişkin 71 belgeyi yayımladı: 2 başkanı da saldırıdan seneler evvel defalarca uyarmışlar",
-        "source": "Sözcü",
-        "published": "2026-09-12T00:37:21+03:00"
-      },
-      {
-        "title": "Dışişleri Bakanı Fidan, Suudi Arabistanlı mevkidaşı Al Suud ile telefonda görüştü",
-        "link": "https://www.sozcu.com.tr/disisleri-bakani-fidan-suudi-arabistanli-mevkidasi-al-suud-ile-telefonda-gorustu-p357451",
-        "description": "Dışişleri Bakanı Fidan, Suudi Arabistanlı mevkidaşı Al Suud ile telefonda görüştü",
-        "source": "Sözcü",
-        "published": "2026-09-12T00:01:20+03:00"
-      },
-      {
-        "title": "Avrupa’nın Ukrayna Planına Putin’den sert yanıt: Savaş ilanı olur",
-        "link": "https://www.sozcu.com.tr/avrupa-nin-ukrayna-planina-putin-den-sert-yanit-savas-ilani-olur-p357450",
-        "description": "Avrupa’nın Ukrayna Planına Putin’den sert yanıt: Savaş ilanı olur",
-        "source": "Sözcü",
-        "published": "2026-09-11T23:52:02+03:00"
-      },
-      {
         "title": "İstanbul'daki okullarda 14 Eylül'de dersler 10.00-15.00 saatleri arasında yapılacak",
         "link": "https://www.ntv.com.tr/turkiye/galeri-istanbuldaki-okullarda-14-eylulde-dersler-1000-1500-saatleri-arasinda-yapilacak-1741439",
         "description": "İstanbul'daki resmi ve özel tüm ilkokul, ortaokul ve liselerde 14 Eylül Pazartesi günü derslerin 10.00-15.00 saatleri arasında yapılmasının kararlaştırıldığı duyuruldu.",
         "source": "NTV",
         "published": "2026-09-11T23:42:40+03:00"
-      },
-      {
-        "title": "Miretti'nin son durumunu, Italiano duyurdu",
-        "link": "https://www.sozcu.com.tr/miretti-nin-son-durumunu-italiano-duyurdu-p357448",
-        "description": "Miretti'nin son durumunu, Italiano duyurdu",
-        "source": "Sözcü",
-        "published": "2026-09-11T23:27:55+03:00"
-      },
-      {
-        "title": "Beşiktaş'tan Erzurumspor maçı sonrası hakem tepkisi: 'Gözümüzden kaçtı sanmayın'",
-        "link": "https://www.sozcu.com.tr/besiktasten-erzurumspor-maci-sonrasi-hakem-tepkisi-gozumuzden-kacti-sanmayin-p357447",
-        "description": "Beşiktaş'tan Erzurumspor maçı sonrası hakem tepkisi: 'Gözümüzden kaçtı sanmayın'",
-        "source": "Sözcü",
-        "published": "2026-09-11T23:24:04+03:00"
-      },
-      {
-        "title": "Seçil Erzan yeniden hakim karşısına çıktı: Arda Turan sözleri damga vurdu",
-        "link": "https://www.sozcu.com.tr/secil-erzan-yeniden-hakim-karsisinda-arda-turan-sozleri-damga-vurdu-p357444",
-        "description": "Seçil Erzan yeniden hakim karşısına çıktı: Arda Turan sözleri damga vurdu",
-        "source": "Sözcü",
-        "published": "2026-09-11T23:11:27+03:00"
-      },
-      {
-        "title": "Öcalan için İmralı'da hazırlanan villada yok yok! Detaylar ortaya çıktı...",
-        "link": "https://www.sozcu.com.tr/ocalan-in-imralidaki-villasi-nasil-iste-detaylar-p357445",
-        "description": "Öcalan için İmralı'da hazırlanan villada yok yok! Detaylar ortaya çıktı...",
-        "source": "Sözcü",
-        "published": "2026-09-11T23:05:46+03:00"
       },
       {
         "title": "Bakan Fidan, Suudi mevkidaşı ile Suudi Arabistan'ı hedef alan son saldırıları görüştü",
@@ -714,20 +728,6 @@
         "published": "2026-09-11T19:14:42+00:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: Cephe siyasetinden kurtulmalıyız",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-cephe-siyasetinden-kurtulmaliyiz-1741421",
-        "description": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye süreci yolunda sabırla ilerleneceği mesajını verdi. Erdoğan, \"Cephe siyasetinden de kurtarmalıyız. Milli menfaatlerde ortaklaşmaya ihtiyaç var\" dedi.",
-        "source": "NTV",
-        "published": "2026-09-11T19:07:35+03:00"
-      },
-      {
-        "title": "Oğuz Murat Aci davası. Cihantimur'un avukatından tazminat karşılığında anlaşma talebi",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-oguz-murat-aci-davasi-cihantimurun-avukatindan-tazminat-karsiliginda-anlasma-talebi-1741419",
-        "description": "Oğuz Murat Aci'nin ölümüne ilişkin davada Timur Cihantimur'un avukatı, Aci'nin eşiyle tazminat karşılığında anlaştıklarını, diğer müştekilerle de anlaşmak istediklerini söyledi.",
-        "source": "NTV",
-        "published": "2026-09-11T19:00:00+03:00"
-      },
-      {
         "title": "Türkiye her beş gölünden dördünü kaybetti, bilim insanları kalanı kurtarmaya çalışıyor",
         "link": "https://www.bbc.com/turkce/articles/clyl7xekzeyo?at_medium=RSS&at_campaign=rss",
         "description": "Dünyanın en önemli kuş göç yollarından biri, Türkiye'nin doğusundaki sulak alanlardan geçiyor. Bir kuş gözlemcisi ekibinin gösterdiği büyük çaba olmasaydı, bu alanlar toz çölüne dönüşme riskiyle karşı karşıya kalacaktı.",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.5557,
-    "eur_try": 56.4001,
-    "eur_usd": 0.8607
+    "usd_try": 48.603,
+    "eur_try": 56.3896,
+    "eur_usd": 0.862
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+108°F",
-    "wind": "→9mph",
-    "humidity": "24%"
+    "condition": "Orta kuvvette yağmur",
+    "temp": "+76°F",
+    "wind": "←6mph",
+    "humidity": "90%"
   }
 }
