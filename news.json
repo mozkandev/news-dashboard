@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-12T22:51:36.593384+00:00",
+  "updated_at": "2026-09-13T00:38:04.285272+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+        "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+        "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+        "source": "TechCrunch",
+        "published": "2026-09-12T23:25:38+00:00"
+      },
       {
         "title": "Xiaomi 18 Fold Kutu Açılımı ve İlk İnceleme (Türkiye’de ilk)",
         "link": "https://shiftdelete.net/xiaomi-18-fold-incelemesi-iphone-duonun-rakibi",
@@ -10,16 +17,23 @@
         "published": "2026-09-12T22:22:50+00:00"
       },
       {
-        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-        "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "description": "Article URL: https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/ Comments URL: https://news.ycombinator.com/item?id=49676849 Points: 29 # Comments: 19",
+        "title": "StarCraft returns in 2030 as an open-world shooter",
+        "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+        "description": "Article URL: https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter Comments URL: https://news.ycombinator.com/item?id=49677715 Points: 40 # Comments: 38",
         "source": "HackerNews",
-        "published": "2026-09-12T20:28:29+00:00"
+        "published": "2026-09-12T22:07:19+00:00"
+      },
+      {
+        "title": "Financial Times' 404 Page not Found",
+        "link": "https://www.ft.com/article/404",
+        "description": "Article URL: https://www.ft.com/article/404 Comments URL: https://news.ycombinator.com/item?id=49677391 Points: 46 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-09-12T21:28:08+00:00"
       },
       {
         "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
         "link": "https://withspecific.com/benchmarks/real-swe",
-        "description": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 45 # Comments: 32",
+        "description": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 85 # Comments: 54",
         "source": "HackerNews",
         "published": "2026-09-12T20:25:48+00:00"
       },
@@ -31,16 +45,9 @@
         "published": "2026-09-12T20:19:16+00:00"
       },
       {
-        "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-        "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
-        "description": "Article URL: https://modelrift.com/blog/cadquery-vs-openscad/ Comments URL: https://news.ycombinator.com/item?id=49676577 Points: 23 # Comments: 33",
-        "source": "HackerNews",
-        "published": "2026-09-12T19:57:19+00:00"
-      },
-      {
         "title": "LG Says We're Fake News [video]",
         "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-        "description": "Article URL: https://www.youtube.com/watch?v=ToP9xfLDSME Comments URL: https://news.ycombinator.com/item?id=49676324 Points: 64 # Comments: 7",
+        "description": "Article URL: https://www.youtube.com/watch?v=ToP9xfLDSME Comments URL: https://news.ycombinator.com/item?id=49676324 Points: 127 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-09-12T19:35:36+00:00"
       },
@@ -61,7 +68,7 @@
       {
         "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
         "link": "https://hachyderm.io/@simontatham/117201594980991062",
-        "description": "Article URL: https://hachyderm.io/@simontatham/117201594980991062 Comments URL: https://news.ycombinator.com/item?id=49675902 Points: 98 # Comments: 31",
+        "description": "Article URL: https://hachyderm.io/@simontatham/117201594980991062 Comments URL: https://news.ycombinator.com/item?id=49675902 Points: 154 # Comments: 51",
         "source": "HackerNews",
         "published": "2026-09-12T18:58:57+00:00"
       },
@@ -124,7 +131,7 @@
       {
         "title": "Will There Be a 7G?",
         "link": "https://arxiv.org/abs/2609.01877",
-        "description": "Article URL: https://arxiv.org/abs/2609.01877 Comments URL: https://news.ycombinator.com/item?id=49674498 Points: 67 # Comments: 112",
+        "description": "Article URL: https://arxiv.org/abs/2609.01877 Comments URL: https://news.ycombinator.com/item?id=49674498 Points: 79 # Comments: 132",
         "source": "HackerNews",
         "published": "2026-09-12T17:05:31+00:00"
       },
@@ -138,7 +145,7 @@
       {
         "title": "Make your first edit to OpenStreetMap",
         "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-        "description": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 245 # Comments: 67",
+        "description": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 302 # Comments: 72",
         "source": "HackerNews",
         "published": "2026-09-12T16:25:08+00:00"
       },
@@ -159,7 +166,7 @@
       {
         "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
         "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-        "description": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 73 # Comments: 21",
+        "description": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 86 # Comments: 23",
         "source": "HackerNews",
         "published": "2026-09-12T15:49:52+00:00"
       },
@@ -173,7 +180,7 @@
       {
         "title": "Nvidia is the central bank of AI",
         "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "description": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 325 # Comments: 222",
+        "description": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 368 # Comments: 254",
         "source": "HackerNews",
         "published": "2026-09-12T15:08:27+00:00"
       },
@@ -194,7 +201,7 @@
       {
         "title": "I made a build visualizer to understand Bun's compile times",
         "link": "https://lalitm.com/post/buildprof/",
-        "description": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 74 # Comments: 14",
+        "description": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 89 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-09-12T14:45:28+00:00"
       },
@@ -290,13 +297,6 @@
         "published": "2026-09-11T20:33:18+00:00"
       },
       {
-        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-        "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-        "source": "TechCrunch",
-        "published": "2026-09-11T20:30:17+00:00"
-      },
-      {
         "title": "OpenAI just wants to win",
         "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
         "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would...",
@@ -355,6 +355,55 @@
     ],
     "dunya": [
       {
+        "title": "Drag Race co-creator fears for queer representation after BBC drops show",
+        "link": "https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC is cutting the show because of financial pressures, sparking discussion about LGBTQ+ representation on TV.",
+        "source": "BBC News",
+        "published": "2026-09-12T23:49:23+00:00"
+      },
+      {
+        "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+        "description": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title.",
+        "source": "BBC News",
+        "published": "2026-09-12T23:46:52+00:00"
+      },
+      {
+        "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
+        "description": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
+        "source": "BBC News",
+        "published": "2026-09-12T23:43:52+00:00"
+      },
+      {
+        "title": "Student loan terms to be made clearer in England",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
+        "description": "Changes will spell out that governments can change rules and that career choices affect repayments.",
+        "source": "BBC News",
+        "published": "2026-09-12T23:20:29+00:00"
+      },
+      {
+        "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+        "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+        "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+        "source": "BBC News",
+        "published": "2026-09-12T23:15:54+00:00"
+      },
+      {
+        "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+        "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
+        "description": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
+        "source": "BBC News",
+        "published": "2026-09-12T23:06:08+00:00"
+      },
+      {
+        "title": "Best friends for decades - until a DNA test revealed they were sisters",
+        "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
+        "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+        "source": "BBC News",
+        "published": "2026-09-12T22:00:28+00:00"
+      },
+      {
         "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
         "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
         "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
@@ -369,11 +418,11 @@
         "published": "2026-09-12T21:16:47+00:00"
       },
       {
-        "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-        "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-        "description": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-        "source": "BBC News",
-        "published": "2026-09-12T20:37:29+00:00"
+        "title": "Celine Dion returns to the stage after battling rare illness",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+        "description": "The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out.",
+        "source": "NPR",
+        "published": "2026-09-12T19:54:06-04:00"
       },
       {
         "title": "Reform receives second £36m donation in two days as crypto investor matches record",
@@ -383,25 +432,11 @@
         "published": "2026-09-12T17:36:45+00:00"
       },
       {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-        "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-        "source": "BBC News",
-        "published": "2026-09-12T17:28:53+00:00"
-      },
-      {
         "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
         "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
         "description": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal...",
         "source": "The Guardian",
         "published": "2026-09-12T15:09:05+00:00"
-      },
-      {
-        "title": "Teen boy rescued after days adrift in Alaskan waters",
-        "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
-        "description": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
-        "source": "BBC News",
-        "published": "2026-09-12T15:03:14+00:00"
       },
       {
         "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
@@ -416,13 +451,6 @@
         "description": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance...",
         "source": "The Guardian",
         "published": "2026-09-12T14:05:45+00:00"
-      },
-      {
-        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-        "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-        "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg.",
-        "source": "BBC News",
-        "published": "2026-09-12T12:51:24+00:00"
       },
       {
         "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
@@ -479,34 +507,6 @@
         "description": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.",
         "source": "NPR",
         "published": "2026-09-12T05:00:00-04:00"
-      },
-      {
-        "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-        "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-        "description": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts.",
-        "source": "NPR",
-        "published": "2026-09-12T03:18:55-04:00"
-      },
-      {
-        "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
-        "description": "Tactile 3D models created from pregnancy scans are just one innovation to support blind parents-to-be.",
-        "source": "BBC News",
-        "published": "2026-09-12T00:37:41+00:00"
-      },
-      {
-        "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-        "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
-        "description": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
-        "source": "BBC News",
-        "published": "2026-09-11T23:39:01+00:00"
-      },
-      {
-        "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
-        "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-        "description": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
-        "source": "BBC News",
-        "published": "2026-09-11T23:06:39+00:00"
       },
       {
         "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
@@ -567,11 +567,39 @@
     ],
     "turkiye": [
       {
+        "title": "Deli dumruldan kasaya 699 milyar",
+        "link": "https://www.sozcu.com.tr/deli-dumruldan-kasaya-699-milyar-p357660",
+        "description": "Deli dumruldan kasaya 699 milyar",
+        "source": "Sözcü",
+        "published": "2026-09-13T03:30:22+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Eylül 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-13-eylul-2026-1741577",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-13T01:30:00+03:00"
+        "published": "2026-09-13T03:30:00+03:00"
+      },
+      {
+        "title": "Yeniden Refah’ı mum gibi erittiler",
+        "link": "https://www.sozcu.com.tr/yeniden-refah-i-mum-gibi-erittiler-p357657",
+        "description": "Yeniden Refah’ı mum gibi erittiler",
+        "source": "Sözcü",
+        "published": "2026-09-13T03:00:22+03:00"
+      },
+      {
+        "title": "Kalbiniz için bu önlemleri alın!",
+        "link": "https://www.sozcu.com.tr/kalbiniz-icin-bu-onlemleri-alin-p357649",
+        "description": "Kalbiniz için bu önlemleri alın!",
+        "source": "Sözcü",
+        "published": "2026-09-13T02:30:36+03:00"
+      },
+      {
+        "title": "Alihan Kuriş soruşturması. Tanık ifadelerinde FETÖ bağlantısı iddiası",
+        "link": "https://www.ntv.com.tr/turkiye/alihan-kuris-sorusturmasi-tanik-ifadelerinde-feto-baglantisi-iddiasi-1741575",
+        "description": "Alihan Kuriş suç örgütü ve eski bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmalarda tanık ifadeleri ortaya çıktı. Alihan Kuriş'in FETÖ tarafından yönetildiği iddia edildi.",
+        "source": "NTV",
+        "published": "2026-09-13T02:17:33+03:00"
       },
       {
         "title": "Zelenskiy Miami’yi işaret etti, Kremlin adres gösterdi: Putin ile görüşmek istiyor",
@@ -623,13 +651,6 @@
         "published": "2026-09-13T00:10:56+03:00"
       },
       {
-        "title": "İstanbul sahillerine kırmızı bayrak: İki ilçede denize giriş yasaklandı",
-        "link": "https://www.sozcu.com.tr/istanbulda-iki-ilcede-denize-giris-yasakli-kirmizi-bayraklar-asildi-p357640",
-        "description": "İstanbul sahillerine kırmızı bayrak: İki ilçede denize giriş yasaklandı",
-        "source": "Sözcü",
-        "published": "2026-09-13T00:01:11+03:00"
-      },
-      {
         "title": "Çorum'da apartmanda yangın; 2'si çocuk 7 kişi dumandan etkilendi",
         "link": "https://www.sozcu.com.tr/corumda-yanginda-mahsur-kalan-7-kisi-kurtarildi-p357644",
         "description": "Çorum'da apartmanda yangın; 2'si çocuk 7 kişi dumandan etkilendi",
@@ -644,32 +665,11 @@
         "published": "2026-09-12T23:53:49+03:00"
       },
       {
-        "title": "Ebola kabusu: Vaka sayısı 7 bini, vefat sayısı 3 bini geçti",
-        "link": "https://www.sozcu.com.tr/ebola-kabusu-vaka-sayisi-7-bini-vefat-sayisi-3-bini-gecti-p357641",
-        "description": "Ebola kabusu: Vaka sayısı 7 bini, vefat sayısı 3 bini geçti",
-        "source": "Sözcü",
-        "published": "2026-09-12T23:39:31+03:00"
-      },
-      {
         "title": "Bolu'da depoda yangın kontrol altına alındı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-boluda-depoda-yangin-alevlere-mudahale-suruyor-1741568",
         "description": "Bolu'da geri dönüşüm malzemelerinin bulunduğu depoda yangın çıktı.",
         "source": "NTV",
         "published": "2026-09-12T23:19:33+03:00"
-      },
-      {
-        "title": "İlhan Palut'tan mücadele vurgusu",
-        "link": "https://www.sozcu.com.tr/ilhan-palut-tan-mucadele-vurgusu-p357639",
-        "description": "İlhan Palut'tan mücadele vurgusu",
-        "source": "Sözcü",
-        "published": "2026-09-12T23:19:31+03:00"
-      },
-      {
-        "title": "Alihan Kuriş soruşturması. Tanık ifadelerinde FETÖ bağlantısı iddiası",
-        "link": "https://www.ntv.com.tr/turkiye/alihan-kuris-sorusturmasi-tanik-ifadelerinde-feto-baglantisi-iddiasi-1741575",
-        "description": "Alihan Kuriş suç örgütü ve eski bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmalarda tanık ifadeleri ortaya çıktı. Alihan Kuriş'in FETÖ tarafından yönetildiği iddia edildi.",
-        "source": "NTV",
-        "published": "2026-09-12T22:55:21+03:00"
       },
       {
         "title": "Gülistan Doku soruşturmasında altıncı dalga operasyon. 11 şüpheli için gözaltı kararı",
@@ -707,7 +707,7 @@
         "published": "2026-09-12T18:05:24+03:00"
       },
       {
-        "title": "Kaşif Kozinoğlu soruşturması: İkinci operasyonda gözaltına alınan dokuz kişi adliyeye sevk edildi",
+        "title": "Kaşif Kozinoğlu soruşturması: Gazeteci Selahattin Günday tutuklandı",
         "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss",
         "description": "Eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturma kapsamında düzenlenen ikinci operasyonda gözaltına alınan dokuz zanlı adliyeye sevk edildi.",
         "source": "BBC Turkish",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.6,
-    "eur_try": 56.3805,
-    "eur_usd": 0.862
+    "usd_try": 48.5981,
+    "eur_try": 56.3739,
+    "eur_usd": 0.8618
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+74°F",
-    "wind": "↓6mph",
-    "humidity": "64%"
+    "condition": "Patchy rain nearby",
+    "temp": "+73°F",
+    "wind": "↖4mph",
+    "humidity": "87%"
   }
 }
