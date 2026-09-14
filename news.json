@@ -1,13 +1,62 @@
 {
-  "updated_at": "2026-09-14T19:03:01.016866+00:00",
+  "updated_at": "2026-09-14T22:38:10.016206+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+        "source": "TechCrunch",
+        "published": "2026-09-14T21:51:02+00:00"
+      },
+      {
+        "title": "Tell HN: iOS 27 does not allow Apple Intelligence to be disabled",
+        "link": "https://news.ycombinator.com/item?id=49704226",
+        "description": "I'm surprised that this didn't get more attention during the Beta period. iOS 26 had a toggle you could select to disable all Apple Intelligence features. That toggle was removed for iOS 27. Every AI feature has to be turned off individually:...",
+        "source": "HackerNews",
+        "published": "2026-09-14T21:21:58+00:00"
+      },
+      {
+        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+        "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+        "description": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 118 # Comments: 92",
+        "source": "HackerNews",
+        "published": "2026-09-14T21:05:22+00:00"
+      },
+      {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "source": "TechCrunch",
+        "published": "2026-09-14T20:44:14+00:00"
+      },
+      {
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+        "source": "TechCrunch",
+        "published": "2026-09-14T20:07:37+00:00"
+      },
+      {
+        "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+        "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "description": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 69 # Comments: 86",
+        "source": "HackerNews",
+        "published": "2026-09-14T19:56:20+00:00"
+      },
       {
         "title": "Türkiye 2027’de Ay’a İlk Aracını Fırlatacak",
         "link": "https://shiftdelete.net/turkiyenin-ay-yolculugunda-kritik-asama-ay-gorevi-yapacak-olan-9-ulke-olacak",
         "description": "Türkiye’nin Milli Uzay Programı kapsamındaki en iddialı projelerinden biri olan Ay Araştırma Programında önemli bir aşama geride bırakıldı. TÜBİTAK UZAY tarafından geliştirilen Ay uzay aracının üretim, montaj ve entegrasyon faaliyetleri tamamlandı....",
         "source": "ShiftDelete",
         "published": "2026-09-14T19:00:12+00:00"
+      },
+      {
+        "title": "Apple Home’s new security camera features cost up to $60 a month",
+        "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+        "description": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short...",
+        "source": "The Verge",
+        "published": "2026-09-14T18:28:52-04:00"
       },
       {
         "title": "Amazon Prime Video takes on TikTok with short-form news clips",
@@ -24,11 +73,11 @@
         "published": "2026-09-14T18:08:43+00:00"
       },
       {
-        "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
-        "link": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/",
-        "description": "Article URL: https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/ Comments URL: https://news.ycombinator.com/item?id=49701104 Points: 39 # Comments: 22",
+        "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+        "link": "https://pub.sakana.ai/pc-alm/",
+        "description": "Article URL: https://pub.sakana.ai/pc-alm/ Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 14 # Comments: 3",
         "source": "HackerNews",
-        "published": "2026-09-14T17:58:00+00:00"
+        "published": "2026-09-14T18:03:12+00:00"
       },
       {
         "title": "Ankara'da 66 Milyon Yıllık Dev Keşif: Hatti ve Hitit Kentinden Tetis Denizi Fosili Çıktı!",
@@ -50,13 +99,6 @@
         "description": "Alman ve Japon araştırmacılar, veri merkezlerindeki atık ısıyı kullanarak elektrik harcamadan soğutma yapan yeni bir teknoloji geliştirdi.",
         "source": "Webtekno",
         "published": "2026-09-14T17:53:55+03:00"
-      },
-      {
-        "title": "iOS 27, iPadOS 27, and macOS 27",
-        "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-        "description": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 137 # Comments: 117",
-        "source": "HackerNews",
-        "published": "2026-09-14T17:50:29+00:00"
       },
       {
         "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
@@ -96,7 +138,7 @@
       {
         "title": "Steam Frame starts at $1059",
         "link": "https://store.steampowered.com/hardware/steamframe",
-        "description": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 145 # Comments: 72",
+        "description": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 424 # Comments: 295",
         "source": "HackerNews",
         "published": "2026-09-14T17:27:55+00:00"
       },
@@ -122,9 +164,16 @@
         "published": "2026-09-14T17:24:44+00:00"
       },
       {
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+        "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out...",
+        "source": "The Verge",
+        "published": "2026-09-14T17:21:42-04:00"
+      },
+      {
         "title": "Pion, an agent designed to run any company autonomously",
         "link": "https://andonlabs.com/blog/why-we-built-pion",
-        "description": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 85 # Comments: 88",
+        "description": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 220 # Comments: 232",
         "source": "HackerNews",
         "published": "2026-09-14T17:16:06+00:00"
       },
@@ -152,7 +201,7 @@
       {
         "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
         "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-        "description": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 15 # Comments: 4",
+        "description": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 67 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-09-14T17:02:34+00:00"
       },
@@ -201,16 +250,16 @@
       {
         "title": "Why don't machine learning research agents overfit?",
         "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-        "description": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 54 # Comments: 27",
+        "description": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 89 # Comments: 51",
         "source": "HackerNews",
         "published": "2026-09-14T16:32:23+00:00"
       },
       {
-        "title": "When LLM judges agree, should we believe them?",
-        "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-        "description": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them Comments URL: https://news.ycombinator.com/item?id=49699590 Points: 30 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-09-14T16:29:30+00:00"
+        "title": "Trump throws out power plant climate pollution rules",
+        "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+        "description": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and...",
+        "source": "The Verge",
+        "published": "2026-09-14T16:29:48-04:00"
       },
       {
         "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
@@ -222,37 +271,37 @@
       {
         "title": "How my e-reader lost its stripes",
         "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-        "description": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 31 # Comments: 1",
+        "description": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 118 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-09-14T16:23:16+00:00"
       },
       {
-        "title": "Claude is a Contrarian",
-        "link": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-        "description": "Article URL: https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada Comments URL: https://news.ycombinator.com/item?id=49699373 Points: 83 # Comments: 108",
-        "source": "HackerNews",
-        "published": "2026-09-14T16:14:24+00:00"
+        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+        "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+        "description": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before...",
+        "source": "The Verge",
+        "published": "2026-09-14T16:03:37-04:00"
       },
       {
-        "title": "Waymo opens robotaxi service in Las Vegas",
-        "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-        "description": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
-        "source": "TechCrunch",
-        "published": "2026-09-14T16:04:16+00:00"
+        "title": "Valve’s virtual reality plans hit actual reality",
+        "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+        "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have...",
+        "source": "The Verge",
+        "published": "2026-09-14T15:52:18-04:00"
       },
       {
-        "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-        "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-        "description": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
-        "source": "TechCrunch",
-        "published": "2026-09-14T15:34:31+00:00"
+        "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+        "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+        "description": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received...",
+        "source": "The Verge",
+        "published": "2026-09-14T15:30:58-04:00"
       },
       {
-        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-        "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-        "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch...",
-        "source": "TechCrunch",
-        "published": "2026-09-14T15:00:00+00:00"
+        "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+        "link": "https://www.theverge.com/tech/994267/steam-frame-review",
+        "description": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB,...",
+        "source": "The Verge",
+        "published": "2026-09-14T15:03:31-04:00"
       },
       {
         "title": "Oppo Find X10 Serisi Özellikleri ve Renk Seçenekleri Açıklandı",
@@ -260,13 +309,6 @@
         "description": "Oppo Find X10, Find X10 Pro Max ve Find X10E modellerinin teknik özellikleri, RAM, depolama seçenekleri ve renkleri resmiyet kazandı. İşte detaylar.",
         "source": "ShiftDelete",
         "published": "2026-09-14T14:30:48+00:00"
-      },
-      {
-        "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-        "link": "https://www.theverge.com/tech/994267/steam-frame-review",
-        "description": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB,...",
-        "source": "The Verge",
-        "published": "2026-09-14T14:26:14-04:00"
       },
       {
         "title": "TIFF 2026: The latest movie reviews from Toronto",
@@ -281,13 +323,6 @@
         "description": "Türkiye’nin uzun menzilli seyir füzesi geliştirme çalışmalarında önemli bir aşamaya gelindi. ROKETSAN Genel Müdürü Murat İkinci, 12 Eylül’de gerçekleştirdiği röportajda GEZGİN projesinin mevcut durumuna ilişkin dikkat çeken açıklamalarda bulundu....",
         "source": "ShiftDelete",
         "published": "2026-09-14T14:00:30+00:00"
-      },
-      {
-        "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
-        "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-        "description": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's...",
-        "source": "The Verge",
-        "published": "2026-09-14T13:47:11-04:00"
       },
       {
         "title": "macOS 27 is available now",
@@ -311,55 +346,48 @@
         "published": "2026-09-14T13:30:42+00:00"
       },
       {
-        "title": "I reviewed Valve’s Steam Frame, ask me anything",
-        "link": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
-        "description": "Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of...",
-        "source": "The Verge",
-        "published": "2026-09-14T13:27:21-04:00"
-      },
-      {
-        "title": "Valve’s Steam Frame costs $1,059",
-        "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-        "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam...",
-        "source": "The Verge",
-        "published": "2026-09-14T13:02:46-04:00"
-      },
-      {
         "title": "WhatsApp Hesap Olmadan Kullanılabilecek",
         "link": "https://shiftdelete.net/whatsapp-hesap-olmadan-kullanilabilecek",
         "description": "WhatsApp, hesap sahibi olmayan kişilerin tarayıcı üzerinden aramalara katılmasına olanak tanıyan yeni özelliğini iOS için geliştirmeye başladı.",
         "source": "ShiftDelete",
         "published": "2026-09-14T13:00:47+00:00"
-      },
-      {
-        "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
-        "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
-        "description": "Dell's last XPS 13 was meant to be a farewell before the company sunset the entire XPS brand. But it was a bitter ending, and an overpriced one as well. Earlier this year, Dell resurrected the XPS name with the excellent (and very expensive) XPS 14...",
-        "source": "The Verge",
-        "published": "2026-09-14T12:54:11-04:00"
-      },
-      {
-        "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
-        "link": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
-        "description": "Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series \"built for kids who want to feel a little edge,\" and a live-action movie based on the upcoming Stranger Than Heaven from Yakuza developer RGG...",
-        "source": "The Verge",
-        "published": "2026-09-14T12:48:46-04:00"
-      },
-      {
-        "title": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
-        "link": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
-        "description": "No, that's not a Tesla Cybercab. That's Volkswagen's Mission Efficiency, the world's slipperiest electric vehicle. The near-production 2+2 seat electric coupe prototype was built on VW's MEB+ platform, incorporating front-wheel drive components from...",
-        "source": "The Verge",
-        "published": "2026-09-14T11:12:09-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+        "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+        "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+        "source": "BBC News",
+        "published": "2026-09-14T22:10:10+00:00"
+      },
+      {
+        "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+        "link": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+        "description": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
+        "source": "BBC News",
+        "published": "2026-09-14T21:10:49+00:00"
+      },
+      {
+        "title": "Harry and Meghan to have security review and children change school",
+        "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
+        "description": "The level of police protection they need and potential dangers they face are to be reviewed.",
+        "source": "BBC News",
+        "published": "2026-09-14T20:29:52+00:00"
+      },
       {
         "title": "Burnham cancels engagements after death of his father",
         "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
         "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
         "source": "BBC News",
         "published": "2026-09-14T18:53:38+00:00"
+      },
+      {
+        "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+        "description": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges.",
+        "source": "NPR",
+        "published": "2026-09-14T18:05:06-04:00"
       },
       {
         "title": "Farage says £72m donations are compliant 'with the law today'",
@@ -369,14 +397,14 @@
         "published": "2026-09-14T17:50:29+00:00"
       },
       {
-        "title": "‘A coin flip’: on Flávio Bolsonaro’s campaign trail as Brazil’s far right edges back to power",
+        "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
         "link": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
         "description": "Neck-and-neck with Lula in polls, Flávio Bolsonaro fires up his base in the bellwether state of Minas Gerais – starting at the scene of his father’s stabbing A giant banner of Brazil’s incarcerated former president Jair Bolsonaro fluttered in the...",
         "source": "The Guardian",
         "published": "2026-09-14T17:04:05+00:00"
       },
       {
-        "title": "Man admits drugging and raping wife for 20 years",
+        "title": "Man admits drugging and raping wife over 20 years",
         "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
         "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
         "source": "BBC News",
@@ -397,11 +425,11 @@
         "published": "2026-09-14T16:35:40+00:00"
       },
       {
-        "title": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
-        "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
-        "description": "The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change.",
-        "source": "BBC News",
-        "published": "2026-09-14T15:23:29+00:00"
+        "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+        "description": "One of the country's leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechanisms Israel has used to \"ethnically cleanse\" the...",
+        "source": "NPR",
+        "published": "2026-09-14T16:34:20-04:00"
       },
       {
         "title": "Staff slept while patient killed at NHS mental health unit",
@@ -409,13 +437,6 @@
         "description": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
         "source": "BBC News",
         "published": "2026-09-14T15:19:26+00:00"
-      },
-      {
-        "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
-        "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
-        "description": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
-        "source": "BBC News",
-        "published": "2026-09-14T15:04:22+00:00"
       },
       {
         "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
@@ -437,13 +458,6 @@
         "description": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it.",
         "source": "NPR",
         "published": "2026-09-14T14:25:04-04:00"
-      },
-      {
-        "title": "Amy Hunt tells Sydney Sweeney 'this is what women in sport look like' after controversial ad",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-        "description": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
-        "source": "BBC News",
-        "published": "2026-09-14T13:17:47+00:00"
       },
       {
         "title": "The London hospital funded by donors who invested in the slave trade",
@@ -502,20 +516,6 @@
         "published": "2026-09-14T05:44:44-04:00"
       },
       {
-        "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
-        "description": "Earlier this year, OpenAI launched a feature on ChatGPT meant to help people at risk of suicide connect with someone they trust for support. But its setup may prove challenging to someone in crisis.",
-        "source": "NPR",
-        "published": "2026-09-14T05:00:00-04:00"
-      },
-      {
-        "title": "Lawmakers home in on midterm messages as Congress returns to session",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
-        "description": "Congress returns for a short last session ahead of the midterm election with a full plate as lawmakers look for messaging bills they can take back to voters.",
-        "source": "NPR",
-        "published": "2026-09-14T04:43:06-04:00"
-      },
-      {
         "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
         "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
         "description": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal...",
@@ -567,18 +567,102 @@
     ],
     "turkiye": [
       {
-        "title": "Erman Toroğlu Sözcü TV'de yorumluyor! Gaziantep FK-Fenerbahçe maçınının tartışmalı pozisyonları",
-        "link": "https://www.sozcu.com.tr/erman-toroglu-sozcu-tv-de-yorumluyor-gaziantep-fk-fenerbahce-macininin-tartismali-pozisyonlari-p358233",
-        "description": "Erman Toroğlu Sözcü TV'de yorumluyor! Gaziantep FK-Fenerbahçe maçınının tartışmalı pozisyonları",
-        "source": "Sözcü",
-        "published": "2026-09-14T21:59:45+03:00"
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-eylul-2026-1741858",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-15T01:30:00+03:00"
       },
       {
-        "title": "Bölgedeki evlerin altından ve kuyulardan gaz sızmaya başladı",
-        "link": "https://www.sozcu.com.tr/bolgedeki-evlerin-altindan-ve-kuyulardan-gaz-sizmaya-basladi-p358240",
-        "description": "Bölgedeki evlerin altından ve kuyulardan gaz sızmaya başladı",
+        "title": "6 yaşındaki çocuk başından vurulmuş halde bulundu. Ağabeyi tutuklandı",
+        "link": "https://www.ntv.com.tr/turkiye/6-yasindaki-cocuk-basindan-vurulmus-halde-bulundu-agabeyi-tutuklandi-1741862",
+        "description": "Adana’da evde tabancayla başından vurulmuş halde yaralı bulunan B.Y. (6), hastaneye kaldırıldı. Ağır yaralı çocuğun hastanedeki tedavisi sürerken, gözaltına alınan ağabeyi tutuklandı.",
+        "source": "NTV",
+        "published": "2026-09-15T01:27:58+03:00"
+      },
+      {
+        "title": "Dağları delip yan yana 2 tünel açacaklar: Her biri 14 kilometre olacak",
+        "link": "https://www.sozcu.com.tr/daglari-delip-yan-yana-2-tunel-acacaklar-her-biri-14-kilometre-olacak-p358281",
+        "description": "Dağları delip yan yana 2 tünel açacaklar: Her biri 14 kilometre olacak",
         "source": "Sözcü",
-        "published": "2026-09-14T21:58:02+03:00"
+        "published": "2026-09-15T01:01:23+03:00"
+      },
+      {
+        "title": "8 gollü maç Inter'in! 2-0'dan geri döndüler",
+        "link": "https://www.sozcu.com.tr/8-gollu-mac-inter-in-2-0-dan-geri-donduler-p358276",
+        "description": "8 gollü maç Inter'in! 2-0'dan geri döndüler",
+        "source": "Sözcü",
+        "published": "2026-09-15T00:36:03+03:00"
+      },
+      {
+        "title": "Antalyaspor'un yeni teknik direktörü belli oldu",
+        "link": "https://www.sozcu.com.tr/antalyaspor-un-yeni-teknik-direktoru-belli-oldu-p358265",
+        "description": "Antalyaspor'un yeni teknik direktörü belli oldu",
+        "source": "Sözcü",
+        "published": "2026-09-15T00:06:09+03:00"
+      },
+      {
+        "title": "Rasim Ozan Kütahyalı ifadeye çağrıldı iddiası",
+        "link": "https://www.sozcu.com.tr/rasim-ozan-kutahyali-ifadeye-cagrildi-iddiasi-p358266",
+        "description": "Rasim Ozan Kütahyalı ifadeye çağrıldı iddiası",
+        "source": "Sözcü",
+        "published": "2026-09-15T00:06:05+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: Gençleri siyasetin merkezine aldık",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-samsunda-genclerle-bulustu-1741851",
+        "description": "Cumhurbaşkanı Erdoğan, Samsun'da gençlerle buluştu. Siyasette hep gençlerle yürüdüklerini söyleyen Erdoğan, \"Gençleri siyasetin merkezine almak unutmayın bir irade meselesidir\" dedi.",
+        "source": "NTV",
+        "published": "2026-09-15T00:03:27+03:00"
+      },
+      {
+        "title": "İsmail Kartal’a destek beklemediği yerden geldi! Serdar Dursun: ‘Hocanın da eli kolu bağlanıyor’",
+        "link": "https://www.sozcu.com.tr/ismail-kartal-a-destek-beklemedigi-yerden-geldi-serdar-dursun-hocanin-da-eli-kolu-baglaniyor-p358263",
+        "description": "İsmail Kartal’a destek beklemediği yerden geldi! Serdar Dursun: ‘Hocanın da eli kolu bağlanıyor’",
+        "source": "Sözcü",
+        "published": "2026-09-15T00:02:14+03:00"
+      },
+      {
+        "title": "Satın aldıkları arazinin altından servet çıktı: Şişe şişe satıp paraya para demiyorlar",
+        "link": "https://www.sozcu.com.tr/satin-aldiklari-arazinin-altindan-servet-cikti-sise-sise-satip-paraya-para-demiyorlar-p358259",
+        "description": "Satın aldıkları arazinin altından servet çıktı: Şişe şişe satıp paraya para demiyorlar",
+        "source": "Sözcü",
+        "published": "2026-09-14T23:34:27+03:00"
+      },
+      {
+        "title": "Sabiha Gökçen'de şişe suyun fiyatı görenleri şaşırttı",
+        "link": "https://www.sozcu.com.tr/sabiha-gokcen-havalimani-su-fiyati-ne-kadar-p358256",
+        "description": "Sabiha Gökçen'de şişe suyun fiyatı görenleri şaşırttı",
+        "source": "Sözcü",
+        "published": "2026-09-14T23:26:48+03:00"
+      },
+      {
+        "title": "Uyanıklık yapmaya çalıştı, 240 bin TL ceza yedi",
+        "link": "https://www.sozcu.com.tr/uyaniklik-yapmaya-calisti-240-bin-tl-ceza-yedi-p358250",
+        "description": "Uyanıklık yapmaya çalıştı, 240 bin TL ceza yedi",
+        "source": "Sözcü",
+        "published": "2026-09-14T23:20:51+03:00"
+      },
+      {
+        "title": "Gizli tanık ifadesiyle Jigolo ağının çarkı deşifre oldu",
+        "link": "https://www.sozcu.com.tr/gizli-tanik-ifadesiyle-jigolo-aginin-carki-desifre-oldu-p358252",
+        "description": "Gizli tanık ifadesiyle Jigolo ağının çarkı deşifre oldu",
+        "source": "Sözcü",
+        "published": "2026-09-14T23:14:36+03:00"
+      },
+      {
+        "title": "İsmail Kartal'dan flaş tepki! 'Gaziantep'e yakışmıyor'",
+        "link": "https://www.sozcu.com.tr/ismail-kartaldan-gaziantep-tepkisi-sehre-yakismayan-bir-zemin-vardi-p358249",
+        "description": "İsmail Kartal'dan flaş tepki! 'Gaziantep'e yakışmıyor'",
+        "source": "Sözcü",
+        "published": "2026-09-14T23:01:59+03:00"
+      },
+      {
+        "title": "Yanan otobüsten herkesi kurtardı, kızı hayatını kaybetti",
+        "link": "https://www.ntv.com.tr/turkiye/yanan-otobusten-herkesi-kurtardi-kizi-hayatini-kaybetti-1741847",
+        "description": "Kuzey Marmara Otoyolu'ndaki otobüs kazasında 13 yaşındaki Yüsra da hayatını kaybetti. Yüsra'nın babasının 6 kişiyi kurtardığı ancak kızını kurtarmadığı için suçluluk duyduğu öğrenildi.",
+        "source": "NTV",
+        "published": "2026-09-14T22:03:44+03:00"
       },
       {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 14 Eylül 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
@@ -588,46 +672,11 @@
         "published": "2026-09-14T21:46:35+03:00"
       },
       {
-        "title": "Kurtlar Vadisi senaristlerinin Kozinoğlu ifadesi ortaya çıktı: Tesadüfen denk geldi",
-        "link": "https://www.sozcu.com.tr/kurtlar-vadisi-senaristlerinden-kozinoglu-ifadesi-p358236",
-        "description": "Kurtlar Vadisi senaristlerinin Kozinoğlu ifadesi ortaya çıktı: Tesadüfen denk geldi",
-        "source": "Sözcü",
-        "published": "2026-09-14T21:44:14+03:00"
-      },
-      {
         "title": "''Ailem Güvende'' operasyonunda aranan Emre Tanış yakalandı",
         "link": "https://www.ntv.com.tr/turkiye/ailem-guvende-operasyonunda-aranan-emre-tanis-yakalandi-1741842",
         "description": "İstanbul Cumhuriyet Başsavcılığınca yürütülen “Ailem Güvende” operasyonu kapsamında hakkında gözaltı kararı verilen Emre Tanış yakalandı.",
         "source": "NTV",
         "published": "2026-09-14T21:39:38+03:00"
-      },
-      {
-        "title": "Ürünlerini yüzde 60 indirimle satmaya başlamıştı: Ünlü giyim zinciri için yolun sonu göründü",
-        "link": "https://www.sozcu.com.tr/urunlerini-yuzde-60-indirimle-satmaya-baslamisti-unlu-giyim-zinciri-icin-yolun-sonu-gorundu-p358234",
-        "description": "Ürünlerini yüzde 60 indirimle satmaya başlamıştı: Ünlü giyim zinciri için yolun sonu göründü",
-        "source": "Sözcü",
-        "published": "2026-09-14T21:24:05+03:00"
-      },
-      {
-        "title": "Guendouzi öyle bir gol kaçırdı ki! Fenerbahçelilere saç baş yoldurdu",
-        "link": "https://www.sozcu.com.tr/fenerbahcede-guendouzinin-kacirdigi-gol-pozisyonu-ve-kartalin-istifa-aciklamasi-p358231",
-        "description": "Guendouzi öyle bir gol kaçırdı ki! Fenerbahçelilere saç baş yoldurdu",
-        "source": "Sözcü",
-        "published": "2026-09-14T21:15:37+03:00"
-      },
-      {
-        "title": "Yeni Parti'ye 'isim' tebligatı! İsmail Saymaz detayları Sözcü TV'de anlattı...",
-        "link": "https://www.sozcu.com.tr/yeni-parti-ye-isim-engeli-p358232",
-        "description": "Yeni Parti'ye 'isim' tebligatı! İsmail Saymaz detayları Sözcü TV'de anlattı...",
-        "source": "Sözcü",
-        "published": "2026-09-14T21:12:32+03:00"
-      },
-      {
-        "title": "Tuğberk İmamoğlu gemi faciası. Batan geminin yakınında ceset bulundu",
-        "link": "https://www.ntv.com.tr/turkiye/silivri-aciklarinda-kimligi-belirsiz-ceset-bulundu-1741828",
-        "description": "İstanbul Silivri açıklarında, batan Tuğberk İmamoğlu gemisinin battığı yerden 5 kilometre uzaklıkta bir erkek cesedi bulundu.",
-        "source": "NTV",
-        "published": "2026-09-14T21:01:22+03:00"
       },
       {
         "title": "Dışişleri Bakanı Fidan, Katarlı ve Suudi mevkidaşlarıyla telefonda görüştü",
@@ -637,13 +686,6 @@
         "published": "2026-09-14T20:55:59+03:00"
       },
       {
-        "title": "Denizin ortasında dev proje: 307 tanesi yan yana duracak, 6 milyon eve elektrik sağlayacak",
-        "link": "https://www.sozcu.com.tr/denizin-ortasinda-dev-proje-307-tanesi-yan-yana-duracak-6-milyon-eve-elektrik-saglayacak-p358230",
-        "description": "Denizin ortasında dev proje: 307 tanesi yan yana duracak, 6 milyon eve elektrik sağlayacak",
-        "source": "Sözcü",
-        "published": "2026-09-14T20:51:33+03:00"
-      },
-      {
         "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 14 Eylül 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
         "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1741839",
         "description": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz....",
@@ -651,25 +693,11 @@
         "published": "2026-09-14T20:43:16+03:00"
       },
       {
-        "title": "Bakan Akın Gürlek açıkladı: 1613 kişi gözaltına alındı",
-        "link": "https://www.sozcu.com.tr/bakan-akin-gurlek-acikladi-1613-kisi-gozaltina-alindi-p358225",
-        "description": "Bakan Akın Gürlek açıkladı: 1613 kişi gözaltına alındı",
-        "source": "Sözcü",
-        "published": "2026-09-14T20:40:14+03:00"
-      },
-      {
-        "title": "Arınç'tan saray danışmanı ve AKP içerisindeki eleştirilere yanıt",
-        "link": "https://www.sozcu.com.tr/arinc-tan-saray-danismani-ve-akp-icerisindeki-elestirilere-yanit-p358228",
-        "description": "Arınç'tan saray danışmanı ve AKP içerisindeki eleştirilere yanıt",
-        "source": "Sözcü",
-        "published": "2026-09-14T20:39:56+03:00"
-      },
-      {
-        "title": "İBB Meclisi'nde AKP'li kadın üyesinden CHP'li kadın üyeye skandal sözler! \"Senin kocan nerede\"",
-        "link": "https://www.sozcu.com.tr/ibb-meclisi-nde-akp-li-kadin-uyesinden-chp-li-kadin-uyeye-skandal-sozler-senin-kocan-nerede-p358227",
-        "description": "İBB Meclisi'nde AKP'li kadın üyesinden CHP'li kadın üyeye skandal sözler! \"Senin kocan nerede\"",
-        "source": "Sözcü",
-        "published": "2026-09-14T20:36:54+03:00"
+        "title": "'Ailem güvende' operasyonlarına karşı İzmir'de düzenlenen protestoya polis müdahalesi",
+        "link": "https://www.bbc.com/turkce/articles/c624e4q594zo?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye genelinde aralarında LGBTİ+ aktivistlerinin de olduğu çok sayıda kişinin tutuklanması ya da gözaltına alınasının ardından 14 Eylül Pazartesi akşamı İzmir'de protesto gösterisi düzenlendi. İnsan Hakları Derneği, gösteride biri avukat iki...",
+        "source": "BBC Turkish",
+        "published": "2026-09-14T20:33:24+00:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan öğrencilerle türkü söyledi",
@@ -684,34 +712,6 @@
         "description": "Adalar Belediye Başkanvekili Medine Pamuk’un sağlık sorunları nedeniyle görevinden istifa etmesinin ardından belediye meclisi, yeni başkanvekilini seçmek üzere 21 Eylül Pazartesi günü toplanacak.",
         "source": "NTV",
         "published": "2026-09-14T19:09:46+03:00"
-      },
-      {
-        "title": "7 ilde yasadışı bahis operasyonu. 11 milyar liralık para trafiği",
-        "link": "https://www.ntv.com.tr/turkiye/7-ilde-yasadisi-bahis-operasyonu-11-milyar-liralik-para-trafigi-1741830",
-        "description": "Aydın merkezli 7 ilde düzenlenen yasadışı bahis operasyonunda 11 milyar TL'lik para trafiği tespit edildi.",
-        "source": "NTV",
-        "published": "2026-09-14T18:56:28+03:00"
-      },
-      {
-        "title": "'Ailem güvende' operasyonlarına karşı İzmir'de düzenlenen protestoya polis müdahalesi",
-        "link": "https://www.bbc.com/turkce/articles/c624e4q594zo?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye genelinde aralarında LGBTİ+ aktivistlerinin de olduğu çok sayıda kişinin tutuklanması ya da gözaltına alınasının ardından 14 Eylül Pazartesi akşamı İzmir'de protesto gösterisi düzenlendi.",
-        "source": "BBC Turkish",
-        "published": "2026-09-14T18:17:59+00:00"
-      },
-      {
-        "title": "Aileyi ve çocukları hedef alan içeriklere yönelik 81 ile genelge",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-duyurdu-cocuklari-hedef-alan-iceriklere-yonelik-81-ile-genelge-1741820",
-        "description": "Adalet Bakanı Akın Gürlek, çocukları hedef alan içeriklere yönelik 81 ildeki 175 ağır ceza Cumhuriyet Başsavcılığına genelge gönderildiğini duyurdu.",
-        "source": "NTV",
-        "published": "2026-09-14T18:15:47+03:00"
-      },
-      {
-        "title": "Türkiye’nin ilk Ay görevi için geri sayım: Fırlatma hedefi 2027",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-turkiyenin-ilk-ay-gorevi-icin-geri-sayim-firlatma-hedefi-2027-1741818",
-        "description": "Türkiye'nin ilk Ay görevi için geliştirilen uzay aracının üretimi tamamlandı. Bakan Kacır, testler için TUSAŞ'a gönderilen aracın 2027'nin ilk aylarında fırlatılmasının hedeflendiğini açıkladı.",
-        "source": "NTV",
-        "published": "2026-09-14T17:43:29+03:00"
       },
       {
         "title": "Evrensel gazetesi ve Af Örgütü'nün de aralarında bulunduğu çok sayıda hesaba erişim engeli",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8622
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+75°F",
-    "wind": "↓9mph",
-    "humidity": "32%"
+    "condition": "Bulutlu",
+    "temp": "+84°F",
+    "wind": "↑22mph",
+    "humidity": "44%"
   }
 }
