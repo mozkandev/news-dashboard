@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-09-16T20:22:59.188384+00:00",
+  "updated_at": "2026-09-16T23:09:35.352776+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "US automakers could soon be forced to include AM radio for free",
+        "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+        "description": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+        "source": "TechCrunch",
+        "published": "2026-09-16T22:37:08+00:00"
+      },
+      {
+        "title": "Noise wants to help everyday people become paid content creators",
+        "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+        "description": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+        "source": "TechCrunch",
+        "published": "2026-09-16T21:35:00+00:00"
+      },
+      {
+        "title": "Pulley, a Carta rival, is shutting down",
+        "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+        "description": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+        "source": "TechCrunch",
+        "published": "2026-09-16T21:23:19+00:00"
+      },
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "source": "TechCrunch",
+        "published": "2026-09-16T21:07:24+00:00"
+      },
+      {
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "link": "https://arxiv.org/abs/2609.16338",
+        "description": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 85 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-09-16T20:59:24+00:00"
+      },
+      {
+        "title": "Backups Aren't Simple",
+        "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+        "description": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 16 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-09-16T20:27:16+00:00"
+      },
       {
         "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
         "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
@@ -10,11 +52,25 @@
         "published": "2026-09-16T20:12:00+00:00"
       },
       {
+        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+        "link": "https://mimo.xiaomi.com/rl/",
+        "description": "Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 173 # Comments: 49",
+        "source": "HackerNews",
+        "published": "2026-09-16T20:09:18+00:00"
+      },
+      {
         "title": "X will now let US users trade via Cashtags",
         "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
         "description": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
         "source": "TechCrunch",
         "published": "2026-09-16T19:57:22+00:00"
+      },
+      {
+        "title": "Why Does the Universe Expand?",
+        "link": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+        "description": "Article URL: https://cosmicave.org/2026/09/15/why-does-the-universe-expand/ Comments URL: https://news.ycombinator.com/item?id=49732087 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-09-16T19:56:38+00:00"
       },
       {
         "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
@@ -33,16 +89,9 @@
       {
         "title": "How good are frontier models at physics?",
         "link": "https://arxiv.org/abs/2609.13009",
-        "description": "Article URL: https://arxiv.org/abs/2609.13009 Comments URL: https://news.ycombinator.com/item?id=49731620 Points: 16 # Comments: 3",
+        "description": "Article URL: https://arxiv.org/abs/2609.13009 Comments URL: https://news.ycombinator.com/item?id=49731620 Points: 53 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-09-16T19:19:08+00:00"
-      },
-      {
-        "title": "Fed Raises Rates for First Time in Three Years",
-        "link": "https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe",
-        "description": "Article URL: https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe Comments URL: https://news.ycombinator.com/item?id=49731515 Points: 15 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-09-16T19:09:22+00:00"
       },
       {
         "title": "Former Waymo CFO jumps to self-driving startup Wayve",
@@ -54,23 +103,23 @@
       {
         "title": "Accurate Models of AMD Matrix Cores",
         "link": "https://arxiv.org/abs/2609.14845",
-        "description": "Article URL: https://arxiv.org/abs/2609.14845 Comments URL: https://news.ycombinator.com/item?id=49731360 Points: 22 # Comments: 2",
+        "description": "Article URL: https://arxiv.org/abs/2609.14845 Comments URL: https://news.ycombinator.com/item?id=49731360 Points: 48 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-09-16T18:56:05+00:00"
       },
       {
-        "title": "Fed hikes rates as inflation worries push up bond yields",
-        "link": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
-        "description": "Article URL: https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/ Comments URL: https://news.ycombinator.com/item?id=49731356 Points: 101 # Comments: 59",
-        "source": "HackerNews",
-        "published": "2026-09-16T18:55:21+00:00"
-      },
-      {
         "title": "Training a 4B model to produce 81% faster query plans than Postgres",
         "link": "https://rohanbansal.com/qorl",
-        "description": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 78 # Comments: 13",
+        "description": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 313 # Comments: 59",
         "source": "HackerNews",
         "published": "2026-09-16T18:50:00+00:00"
+      },
+      {
+        "title": "Reverse-engineered Jev-like model",
+        "link": "https://github.com/vinnylarouge/jevlike",
+        "description": "Article URL: https://github.com/vinnylarouge/jevlike Comments URL: https://news.ycombinator.com/item?id=49731282 Points: 38 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-09-16T18:49:57+00:00"
       },
       {
         "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
@@ -78,13 +127,6 @@
         "description": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
         "source": "TechCrunch",
         "published": "2026-09-16T18:45:35+00:00"
-      },
-      {
-        "title": "Why a fast-growing German AI startup is moving its parent company from the US",
-        "link": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
-        "description": "Article URL: https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us Comments URL: https://news.ycombinator.com/item?id=49731235 Points: 23 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-09-16T18:45:20+00:00"
       },
       {
         "title": "Lexus Eylül 2026 Sıfır Araç Fiyat Listesi: Güncel Kampanyalar ve Fırsatlar",
@@ -159,7 +201,7 @@
       {
         "title": "Vectorized and performance-portable Quicksort (2022)",
         "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-        "description": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html Comments URL: https://news.ycombinator.com/item?id=49731054 Points: 133 # Comments: 19",
+        "description": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html Comments URL: https://news.ycombinator.com/item?id=49731054 Points: 160 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-09-16T18:31:35+00:00"
       },
@@ -171,13 +213,6 @@
         "published": "2026-09-16T18:25:25+00:00"
       },
       {
-        "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-        "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-        "description": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
-        "source": "TechCrunch",
-        "published": "2026-09-16T18:00:54+00:00"
-      },
-      {
         "title": "AMD, DLSS 5 Benzeri Nöral Görüntüleme Teknolojisi Geliştiriyor",
         "link": "https://shiftdelete.net/amd-dlss-5-benzeri-noral-goruntuleme-teknolojisi-gelistiriyor",
         "description": "AMD'nin Nvidia DLSS 5 rakibi nöral görüntüleme teknolojisi üzerinde çalıştığı iddia ediliyor. İşte yeni nesil ekran kartları ve konsolları etkileyecek detaylar.",
@@ -185,18 +220,11 @@
         "published": "2026-09-16T18:00:36+00:00"
       },
       {
-        "title": "GitHub is having trouble counting things",
-        "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
-        "description": "Article URL: https://chuckgreenman.com/2026/09/16/counting-at-github Comments URL: https://news.ycombinator.com/item?id=49730302 Points: 58 # Comments: 35",
-        "source": "HackerNews",
-        "published": "2026-09-16T17:31:19+00:00"
-      },
-      {
-        "title": "ER visits for gambling disorders doubled after expanded online gambling market",
-        "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
-        "description": "Article URL: https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market Comments URL: https://news.ycombinator.com/item?id=49730239 Points: 112 # Comments: 95",
-        "source": "HackerNews",
-        "published": "2026-09-16T17:27:37+00:00"
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+        "description": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers...",
+        "source": "The Verge",
+        "published": "2026-09-16T17:03:21-04:00"
       },
       {
         "title": "Avrupa Birliği 13 Yaş Altına Sosyal Medya Yasağı Getiriyor",
@@ -206,25 +234,18 @@
         "published": "2026-09-16T17:00:35+00:00"
       },
       {
-        "title": "Your AI agents can now control your Google Home devices",
-        "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-        "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-        "source": "TechCrunch",
-        "published": "2026-09-16T17:00:00+00:00"
-      },
-      {
-        "title": "Anthropic merges Claude chat and Cowork in one interface",
-        "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-        "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-        "source": "TechCrunch",
-        "published": "2026-09-16T16:30:00+00:00"
-      },
-      {
-        "title": "Claude Cowork and chat are now one Claude",
-        "link": "https://claude.com/blog/cowork-is-now-claude",
-        "description": "Article URL: https://claude.com/blog/cowork-is-now-claude Comments URL: https://news.ycombinator.com/item?id=49729412 Points: 150 # Comments: 171",
+        "title": "Training Text-to-Image Models 3.6× Faster",
+        "link": "https://www.linum.ai/field-notes/jit-ddt",
+        "description": "Article URL: https://www.linum.ai/field-notes/jit-ddt Comments URL: https://news.ycombinator.com/item?id=49729816 Points: 19 # Comments: 1",
         "source": "HackerNews",
-        "published": "2026-09-16T16:26:25+00:00"
+        "published": "2026-09-16T16:58:13+00:00"
+      },
+      {
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+        "description": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a...",
+        "source": "The Verge",
+        "published": "2026-09-16T16:40:46-04:00"
       },
       {
         "title": "Mark Zuckerberg Yapay Zekada Yavaşlama Çağrılarını Reddetti",
@@ -232,13 +253,6 @@
         "description": "Meta CEO'su Mark Zuckerberg, yapay zekada yavaşlama çağrılarına karşı çıkarak güvenlik için bağımsız denetim ve şeffaflık vurgusu yaptı.",
         "source": "ShiftDelete",
         "published": "2026-09-16T16:00:45+00:00"
-      },
-      {
-        "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-        "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-        "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”  That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup...",
-        "source": "TechCrunch",
-        "published": "2026-09-16T16:00:00+00:00"
       },
       {
         "title": "KAAN ve HÜRJET’in Motor Teslimatlarında Takvim Netleşti",
@@ -318,13 +332,6 @@
         "published": "2026-09-16T11:47:03-04:00"
       },
       {
-        "title": "A brief history of AI executives calling for regulation",
-        "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-        "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind...",
-        "source": "The Verge",
-        "published": "2026-09-16T11:27:45-04:00"
-      },
-      {
         "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
         "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
         "description": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price...",
@@ -339,13 +346,6 @@
         "published": "2026-09-16T10:24:02-04:00"
       },
       {
-        "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-        "link": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-        "description": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of...",
-        "source": "The Verge",
-        "published": "2026-09-16T00:42:36-04:00"
-      },
-      {
         "title": "Your ‘health age’ is fake",
         "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
         "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch...",
@@ -354,6 +354,27 @@
       }
     ],
     "dunya": [
+      {
+        "title": "Two Britons among three killed in Swiss Alps light aircraft crash",
+        "link": "https://www.bbc.co.uk/news/articles/cw62jvpele45o?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities say the plane took off from the Rhône Valley and collided with a mountain slope about 10 minutes later.",
+        "source": "BBC News",
+        "published": "2026-09-16T22:20:19+00:00"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "source": "BBC News",
+        "published": "2026-09-16T22:16:51+00:00"
+      },
+      {
+        "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+        "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+        "description": "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death.",
+        "source": "BBC News",
+        "published": "2026-09-16T20:46:30+00:00"
+      },
       {
         "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
         "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
@@ -383,23 +404,44 @@
         "published": "2026-09-16T18:36:16+00:00"
       },
       {
-        "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
-        "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
-        "description": "Buckingham Palace has pushed back against the claim, saying grief can \"colour memory\" of events.",
-        "source": "BBC News",
-        "published": "2026-09-16T17:47:17+00:00"
+        "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+        "description": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as China and India.",
+        "source": "NPR",
+        "published": "2026-09-16T18:30:46-04:00"
       },
       {
-        "title": "British soldier who died in Ukraine road accident named by MoD",
-        "link": "https://www.bbc.co.uk/news/articles/c5n4k0npdyj4o?at_medium=RSS&at_campaign=rss",
-        "description": "Tributes have been paid to Major Paul Wilks, who was described as a \"gifted leader\".",
-        "source": "BBC News",
-        "published": "2026-09-16T17:34:18+00:00"
+        "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
+        "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
+        "description": "NPR dug into the upside-down world of FEMA flood insurance in coastal areas, and found many homeowners have no financial choice but to let their homes collapse.",
+        "source": "NPR",
+        "published": "2026-09-16T17:20:59-04:00"
       },
       {
-        "title": "EU rolls out red carpet to Canada as first 'associate member'",
+        "title": "House holds billionaire Leon Black in contempt of Congress",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
+        "description": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
+        "source": "NPR",
+        "published": "2026-09-16T17:12:27-04:00"
+      },
+      {
+        "title": "Trump administration plans ideological warning signs for Smithsonian",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
+        "description": "The Interior Secretary says the move is necessary to combat what he calls ideological bias.",
+        "source": "NPR",
+        "published": "2026-09-16T16:55:54-04:00"
+      },
+      {
+        "title": "The 'burnerverse' exploiting young women in college",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
+        "description": "Wired reporter EJ Dickson speaks with NPR's Juana Summers about an online community that targets and harasses young women with their own nonconsensual, sexually explicit images.",
+        "source": "NPR",
+        "published": "2026-09-16T16:50:17-04:00"
+      },
+      {
+        "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
         "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
-        "description": "The EU's top official backs Carney's push for Canada to become the bloc's first \"associate member,\" as Brussels seeks to deepen ties amid pressure from the US",
+        "description": "The European Union's top official backs the Canadian prime minister's push for his country to become the bloc's first \"associate member,\" as Brussels seeks to deepen ties amid pressure from the U.S.",
         "source": "NPR",
         "published": "2026-09-16T16:08:27-04:00"
       },
@@ -409,13 +451,6 @@
         "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
         "source": "BBC News",
         "published": "2026-09-16T15:56:06+00:00"
-      },
-      {
-        "title": "'Let's go, let's go' - inside catastrophic Manchester derby VAR mistake",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&at_campaign=rss",
-        "description": "The controversy surrounding the VAR decision to allow Erling Haaland's winner in the Manchester derby has rumbled on for days, so what led to the error?",
-        "source": "BBC News",
-        "published": "2026-09-16T15:03:53+00:00"
       },
       {
         "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
@@ -432,7 +467,7 @@
         "published": "2026-09-16T13:32:44-04:00"
       },
       {
-        "title": "DOJ charges Russian agents with plotting attacks, including in US",
+        "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
         "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
         "description": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
         "source": "NPR",
@@ -472,41 +507,6 @@
         "description": "The New Yorker 's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
         "source": "NPR",
         "published": "2026-09-16T12:14:19-04:00"
-      },
-      {
-        "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
-        "description": "Neuroscientists have made a major advance in modeling the human brain in mice, offering a new way to study conditions like cerebral palsy. Ethicists ask if it changes how these mice should be treated.",
-        "source": "NPR",
-        "published": "2026-09-16T11:00:16-04:00"
-      },
-      {
-        "title": "How are rising prices affecting you? NPR wants to know",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
-        "description": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear.",
-        "source": "NPR",
-        "published": "2026-09-16T09:40:12-04:00"
-      },
-      {
-        "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
-        "description": "Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia.",
-        "source": "NPR",
-        "published": "2026-09-16T09:33:53-04:00"
-      },
-      {
-        "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-        "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
-        "description": "The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center.",
-        "source": "NPR",
-        "published": "2026-09-16T07:19:46-04:00"
-      },
-      {
-        "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
-        "description": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe.",
-        "source": "NPR",
-        "published": "2026-09-16T06:48:22-04:00"
       },
       {
         "title": "Watch: BBC crew catch thieves in act while filming shoplifting report",
@@ -567,11 +567,67 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-eylul-2026-1742162",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-17T02:00:00+03:00"
+      },
+      {
+        "title": "Dev barajın kapakları 10 günlüğüne açıldı: Milyonlarca ton su nehre bırakılacak",
+        "link": "https://www.sozcu.com.tr/dev-barajin-kapaklari-10-gunlugune-acildi-milyonlarca-ton-su-nehre-birakilacak-p358943",
+        "description": "Dev barajın kapakları 10 günlüğüne açıldı: Milyonlarca ton su nehre bırakılacak",
+        "source": "Sözcü",
+        "published": "2026-09-17T01:00:19+03:00"
+      },
+      {
+        "title": "Fed faizi yükseltti, Trump küplere bindi",
+        "link": "https://www.sozcu.com.tr/fed-faizi-yukseltti-trump-kuplere-bindi-p358941",
+        "description": "Fed faizi yükseltti, Trump küplere bindi",
+        "source": "Sözcü",
+        "published": "2026-09-17T00:56:29+03:00"
+      },
+      {
+        "title": "Galatasaray'ın rakibi çıldırdı: 6 maçta attıkları gol sayısı inanılmaz",
+        "link": "https://www.sozcu.com.tr/galatasaray-in-rakibi-cildirdi-6-macta-attiklari-gol-sayisi-inanilmaz-p358940",
+        "description": "Galatasaray'ın rakibi çıldırdı: 6 maçta attıkları gol sayısı inanılmaz",
+        "source": "Sözcü",
+        "published": "2026-09-17T00:37:11+03:00"
+      },
+      {
+        "title": "Acı haberi Kolombiya Cumhurbaşkanı duyurdu: Türk iş insanı ve 4 kişi ölü bulundu",
+        "link": "https://www.sozcu.com.tr/aci-haberi-kolombiya-cumhurbaskani-duyurdu-turk-is-insani-ve-4-kisi-olu-bulundu-p358937",
+        "description": "Acı haberi Kolombiya Cumhurbaşkanı duyurdu: Türk iş insanı ve 4 kişi ölü bulundu",
+        "source": "Sözcü",
+        "published": "2026-09-17T00:31:23+03:00"
+      },
+      {
+        "title": "Son dakika...Türkiye tarihinde bir ilk: Motorin 100 lirayı aştı",
+        "link": "https://www.sozcu.com.tr/son-dakika-turkiye-tarihinde-bir-ilk-motorin-100-lirayi-asti-p358935",
+        "description": "Son dakika...Türkiye tarihinde bir ilk: Motorin 100 lirayı aştı",
+        "source": "Sözcü",
+        "published": "2026-09-17T00:30:55+03:00"
+      },
+      {
+        "title": "Öcalan'ın villası AKP'li Tayyar ile Selvi'yi birbirine düşürdü",
+        "link": "https://www.sozcu.com.tr/ocalan-in-villasi-akp-li-tayyar-ile-selvi-yi-birbirine-dusurdu-p358936",
+        "description": "Öcalan'ın villası AKP'li Tayyar ile Selvi'yi birbirine düşürdü",
+        "source": "Sözcü",
+        "published": "2026-09-17T00:10:27+03:00"
+      },
+      {
         "title": "Piyasalarda kara gün: Altın, gümüş ve borsa aynı anda çakıldı",
         "link": "https://www.sozcu.com.tr/piyasalarda-kara-gun-altin-gumus-ve-borsa-ayni-anda-cakildi-p358921",
         "description": "Piyasalarda kara gün: Altın, gümüş ve borsa aynı anda çakıldı",
         "source": "Sözcü",
-        "published": "2026-09-16T23:17:01+03:00"
+        "published": "2026-09-16T23:37:30+03:00"
+      },
+      {
+        "title": "Ünlü oyuncu Münir Canar hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/unlu-oyuncu-munir-canar-hayatini-kaybetti-p358923",
+        "description": "Ünlü oyuncu Münir Canar hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-09-16T23:31:37+03:00"
       },
       {
         "title": "Galatasaray'da Trabzonspor maçı hazırlıkları sürdü",
@@ -581,6 +637,20 @@
         "published": "2026-09-16T23:06:40+03:00"
       },
       {
+        "title": "Gazze'de hasarlı binanın çökmesi sonucu beşi çocuk 21 kişi öldü",
+        "link": "https://www.bbc.com/turkce/articles/cx2zy4enn0do?at_medium=RSS&at_campaign=rss",
+        "description": "Gazze Şeridi'nde savaşta hasar görmüş bir binanın çökmesi sonucu, aralarında beş çocuğun da bulunduğu en az 20 kişinin hayatını kaybettiği ve onlarca kişinin kayıp olduğu bildirildi.",
+        "source": "BBC Turkish",
+        "published": "2026-09-16T23:03:06+00:00"
+      },
+      {
+        "title": "ABD Merkez Bankası Fed üç yıl sonra faiz artırdı",
+        "link": "https://www.bbc.com/turkce/articles/cm986j2pn06ko?at_medium=RSS&at_campaign=rss",
+        "description": "ABD Merkez Bankası (Fed) üç yıl sonra ilk kez faiz artırdı. Fed piyasaların beklediği gibi 25 baz puanlık bir artışla, faizleri %3,75- % 4 bandına yükseltti.",
+        "source": "BBC Turkish",
+        "published": "2026-09-16T22:54:46+00:00"
+      },
+      {
         "title": "Tunceli semalarında görülen ışık hüzmesi kamerada",
         "link": "https://www.sozcu.com.tr/tunceli-semalarinda-gorulen-isik-huzmesi-kamerada-p358919",
         "description": "Tunceli semalarında görülen ışık hüzmesi kamerada",
@@ -588,18 +658,18 @@
         "published": "2026-09-16T22:53:40+03:00"
       },
       {
-        "title": "Hedef Holding Yönetim Kurulu Başkanı Namık Kemal Gökalp gözaltına alındı",
-        "link": "https://www.sozcu.com.tr/info-yatirim-yonetim-kurulu-baskani-namik-kemal-gokalp-gozaltina-alindi-p358913",
-        "description": "Hedef Holding Yönetim Kurulu Başkanı Namık Kemal Gökalp gözaltına alındı",
-        "source": "Sözcü",
-        "published": "2026-09-16T22:37:52+03:00"
+        "title": "Borsa İstanbul'daki kayıplardan sonra Finansal İstikrar Komitesi toplantısı",
+        "link": "https://www.bbc.com/turkce/articles/cmgqdegq5n8eo?at_medium=RSS&at_campaign=rss",
+        "description": "Finansal İstikrar Komitesi piyasalardaki sert düşüşten sonra Bakan Mehmet Şimşek başkanlığında sabah olağanüstü toplanma kararı aldı.",
+        "source": "BBC Turkish",
+        "published": "2026-09-16T22:24:02+00:00"
       },
       {
-        "title": "YENİ Partili Deniz’den Atatürk Anıtı tepkisi",
-        "link": "https://www.sozcu.com.tr/yeni-partili-deniz-den-ataturk-aniti-tepkisi-p358915",
-        "description": "YENİ Partili Deniz’den Atatürk Anıtı tepkisi",
-        "source": "Sözcü",
-        "published": "2026-09-16T22:07:24+03:00"
+        "title": "Prenses Diana'nın kardeşinin kitabındaki iddia: Kral Charles 'Çok geçmeden unutacağız' dedi",
+        "link": "https://www.bbc.com/turkce/articles/cw4gr510j3edo?at_medium=RSS&at_campaign=rss",
+        "description": "Galler Prensesi Diana'nın kardeşi Kont Spencer, Kral Charles'ın Diana'nın ölümünden kısa bir süre sonra \"Çok geçmeden unutacağız\" dediğini iddia etti.",
+        "source": "BBC Turkish",
+        "published": "2026-09-16T22:12:10+00:00"
       },
       {
         "title": "Şans Topu Sonuçları Sorgulama Ekranı 16 Eylül | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
@@ -616,27 +686,6 @@
         "published": "2026-09-16T21:48:00+03:00"
       },
       {
-        "title": "Marsilya Teknik Direktörü Genesio'dan Beşiktaş'a büyük övgü",
-        "link": "https://www.sozcu.com.tr/marsilya-teknik-direktoru-genesio-dan-besiktas-a-buyuk-ovgu-p358912",
-        "description": "Marsilya Teknik Direktörü Genesio'dan Beşiktaş'a büyük övgü",
-        "source": "Sözcü",
-        "published": "2026-09-16T21:44:19+03:00"
-      },
-      {
-        "title": "Milyonlarcası evleri sardı: İnsanlar kapı ve pencerelerini açamıyor",
-        "link": "https://www.sozcu.com.tr/milyonlarcasi-evleri-sardi-insanlar-kapi-ve-pencerelerini-acamiyor-p358911",
-        "description": "Milyonlarcası evleri sardı: İnsanlar kapı ve pencerelerini açamıyor",
-        "source": "Sözcü",
-        "published": "2026-09-16T21:43:17+03:00"
-      },
-      {
-        "title": "Ülkedeki hava solunamaz hale geldi: Kapı kapı dolaşıp oksijen tüpü dağıtıyorlar",
-        "link": "https://www.sozcu.com.tr/ulkedeki-hava-solunamaz-hale-geldi-kapi-kapi-dolasip-oksijen-tupu-dagitiyorlar-p358909",
-        "description": "Ülkedeki hava solunamaz hale geldi: Kapı kapı dolaşıp oksijen tüpü dağıtıyorlar",
-        "source": "Sözcü",
-        "published": "2026-09-16T21:23:51+03:00"
-      },
-      {
         "title": "Mekke'ye İHA saldırısı girişimine Türkiye'den tepki",
         "link": "https://www.ntv.com.tr/turkiye/disisleri-bakanligindan-husilerin-mekkeyi-hedef-alan-saldirilarina-tepki-1742146",
         "description": "Husiler tarafından Mekke şehrini hedef alan İHA saldırılarına Türkiye'den tepki geldi.",
@@ -644,46 +693,11 @@
         "published": "2026-09-16T21:16:23+03:00"
       },
       {
-        "title": "Kum fırtınasında zincirleme kaza: 16 yaralı",
-        "link": "https://www.sozcu.com.tr/kum-firtinasinda-zincirleme-kaza-16-yarali-p358908",
-        "description": "Kum fırtınasında zincirleme kaza: 16 yaralı",
-        "source": "Sözcü",
-        "published": "2026-09-16T21:14:43+03:00"
-      },
-      {
-        "title": "Sütlerde yeni dönem: Bunları kullanmak artık yasak",
-        "link": "https://www.sozcu.com.tr/sutlerde-yeni-donem-bunlari-kullanmak-artik-yasak-p358907",
-        "description": "Sütlerde yeni dönem: Bunları kullanmak artık yasak",
-        "source": "Sözcü",
-        "published": "2026-09-16T21:11:00+03:00"
-      },
-      {
-        "title": "Kardeşinin Prenses Diana'yı yazdığı kitap Hollanda'da çalındı",
-        "link": "https://www.bbc.com/turkce/articles/cw4gr510j3edo?at_medium=RSS&at_campaign=rss",
-        "description": "Kont Spencer'ın kız kardeşi Galler Prensesi Diana hakkındaki henüz yayınlanmamış kitabının kopyaları Hollanda'da bir kamyondan çalındı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-16T20:19:19+00:00"
-      },
-      {
-        "title": "Borsa İstanbul'daki kayıplardan sonra Finansal İstikrar Komitesi toplantısı",
-        "link": "https://www.bbc.com/turkce/articles/cmgqdegq5n8eo?at_medium=RSS&at_campaign=rss",
-        "description": "Finansal İstikrar Komitesi piyasalardaki sert düşüşten sonra Bakan Mehmet Şimşek başkanlığında sabah olağanüstü toplanma kararı aldı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-16T20:04:16+00:00"
-      },
-      {
         "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Türk devletlerine ortak banka önerisi",
         "link": "https://www.ntv.com.tr/turkiye/galeri-ak-parti-genel-baskan-yardimcisi-zorludan-turk-devletlerine-ortak-banka-onerisi-1742141",
         "description": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin dijital ticaret alanını hayata geçirmesi ve ortak kalkınma bankası kurması gerektiğini söyledi.",
         "source": "NTV",
         "published": "2026-09-16T19:47:59+03:00"
-      },
-      {
-        "title": "ABD Merkez Bankası Fed üç yıl sonra faiz artırdı",
-        "link": "https://www.bbc.com/turkce/articles/cm986j2pn06ko?at_medium=RSS&at_campaign=rss",
-        "description": "ABD Merkez Bankası (Fed) üç yıl sonra ilk kez faiz artırdı. Fed piyasaların beklediği gibi 25 baz puanlık bir artışla, faizleri %3,75- % 4 bandına yükseltti.",
-        "source": "BBC Turkish",
-        "published": "2026-09-16T19:29:07+00:00"
       },
       {
         "title": "İbrahim Turhan hakkında soruşturma başlatıldı",
@@ -712,13 +726,6 @@
         "description": "BDDK, Golden Global Yatırım Bankası’ndaki yüzde 99,98’lik paya ilişkin temettü dışındaki ortaklık haklarının TMSF tarafından kullanılmasına karar verdi.",
         "source": "NTV",
         "published": "2026-09-16T17:42:05+03:00"
-      },
-      {
-        "title": "MİT Başkanı İbrahim Kalın Afganistan'da",
-        "link": "https://www.ntv.com.tr/turkiye/mit-baskani-ibrahim-kalin-afganistanda-1742122",
-        "description": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Afganistan'ın başkenti Kabil ile Kandahar'a ziyarette bulundu.",
-        "source": "NTV",
-        "published": "2026-09-16T16:54:46+03:00"
       },
       {
         "title": "Nasuh Mahruki hakkında tahliye kararı",
@@ -756,13 +763,6 @@
         "published": "2026-09-16T13:35:56+00:00"
       },
       {
-        "title": "Gazze'de hasarlı binanın çökmesi sonucu beşi çocuk en az 20 kişi öldü",
-        "link": "https://www.bbc.com/turkce/articles/cx2zy4enn0do?at_medium=RSS&at_campaign=rss",
-        "description": "Gazze Şeridi'nde savaşta hasar görmüş bir binanın çökmesi sonucu, aralarında beş çocuğun da bulunduğu en az 20 kişinin hayatını kaybettiği ve onlarca kişinin kayıp olduğu bildirildi.",
-        "source": "BBC Turkish",
-        "published": "2026-09-16T12:21:17+00:00"
-      },
-      {
         "title": "LGBTİ+ derneklerine soruşturmada en az 60 kişi tutuklandı",
         "link": "https://www.bbc.com/turkce/articles/c624e4q594zo?at_medium=RSS&at_campaign=rss",
         "description": "LGBTİ+ derneklerine karşı \"Ailem Güvende\" adı altında yürütülen soruşturma kapsamında en az 60 kişi tutuklandı. Tutuklanan isimler arasında dernek yöneticilerinin yanı sıra gazeteci Tuğba Tekerek de yer alıyor.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8667
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+78°F",
-    "wind": "↘5mph",
-    "humidity": "32%"
+    "condition": "Hafif sağanak yağmur",
+    "temp": "+67°F",
+    "wind": "↖4mph",
+    "humidity": "97%"
   }
 }
