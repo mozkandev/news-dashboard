@@ -1,13 +1,62 @@
 {
-  "updated_at": "2026-09-16T23:09:35.352776+00:00",
+  "updated_at": "2026-09-17T01:36:33.103638+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+        "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+        "description": "Article URL: https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html Comments URL: https://news.ycombinator.com/item?id=49735180 Points: 8 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-09-17T01:02:13+00:00"
+      },
+      {
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+        "description": "Snap unveiled new features for its smart glasses this week.",
+        "source": "TechCrunch",
+        "published": "2026-09-17T00:58:49+00:00"
+      },
+      {
+        "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+        "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+        "description": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+        "source": "TechCrunch",
+        "published": "2026-09-16T23:50:07+00:00"
+      },
+      {
+        "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+        "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+        "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+        "source": "TechCrunch",
+        "published": "2026-09-16T23:43:09+00:00"
+      },
+      {
+        "title": "OpenSpec – A lightweight and configurable AI spec framework",
+        "link": "https://openspec.dev/",
+        "description": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 57 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-09-16T23:06:39+00:00"
+      },
+      {
+        "title": "Australia says it could follow Canada in forging deeper ties with EU",
+        "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+        "description": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html Comments URL: https://news.ycombinator.com/item?id=49734171 Points: 117 # Comments: 70",
+        "source": "HackerNews",
+        "published": "2026-09-16T22:56:48+00:00"
+      },
       {
         "title": "US automakers could soon be forced to include AM radio for free",
         "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
         "description": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
         "source": "TechCrunch",
         "published": "2026-09-16T22:37:08+00:00"
+      },
+      {
+        "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+        "link": "https://harnesstax.github.io/",
+        "description": "Article URL: https://harnesstax.github.io/ Comments URL: https://news.ycombinator.com/item?id=49733726 Points: 28 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-09-16T22:10:13+00:00"
       },
       {
         "title": "Noise wants to help everyday people become paid content creators",
@@ -31,16 +80,23 @@
         "published": "2026-09-16T21:07:24+00:00"
       },
       {
+        "title": "I wore Snap’s $2,200 smart glasses",
+        "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+        "description": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my...",
+        "source": "The Verge",
+        "published": "2026-09-16T21:01:43-04:00"
+      },
+      {
         "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
         "link": "https://arxiv.org/abs/2609.16338",
-        "description": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 85 # Comments: 5",
+        "description": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 137 # Comments: 16",
         "source": "HackerNews",
         "published": "2026-09-16T20:59:24+00:00"
       },
       {
         "title": "Backups Aren't Simple",
         "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-        "description": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 16 # Comments: 2",
+        "description": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 72 # Comments: 27",
         "source": "HackerNews",
         "published": "2026-09-16T20:27:16+00:00"
       },
@@ -54,7 +110,7 @@
       {
         "title": "Xiaomi Mimo 2.6 live post-training dashboard",
         "link": "https://mimo.xiaomi.com/rl/",
-        "description": "Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 173 # Comments: 49",
+        "description": "Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 245 # Comments: 61",
         "source": "HackerNews",
         "published": "2026-09-16T20:09:18+00:00"
       },
@@ -68,7 +124,7 @@
       {
         "title": "Why Does the Universe Expand?",
         "link": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
-        "description": "Article URL: https://cosmicave.org/2026/09/15/why-does-the-universe-expand/ Comments URL: https://news.ycombinator.com/item?id=49732087 Points: 5 # Comments: 1",
+        "description": "Article URL: https://cosmicave.org/2026/09/15/why-does-the-universe-expand/ Comments URL: https://news.ycombinator.com/item?id=49732087 Points: 22 # Comments: 10",
         "source": "HackerNews",
         "published": "2026-09-16T19:56:38+00:00"
       },
@@ -89,44 +145,16 @@
       {
         "title": "How good are frontier models at physics?",
         "link": "https://arxiv.org/abs/2609.13009",
-        "description": "Article URL: https://arxiv.org/abs/2609.13009 Comments URL: https://news.ycombinator.com/item?id=49731620 Points: 53 # Comments: 24",
+        "description": "Article URL: https://arxiv.org/abs/2609.13009 Comments URL: https://news.ycombinator.com/item?id=49731620 Points: 80 # Comments: 38",
         "source": "HackerNews",
         "published": "2026-09-16T19:19:08+00:00"
       },
       {
-        "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-        "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-        "description": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-        "source": "TechCrunch",
-        "published": "2026-09-16T19:02:49+00:00"
-      },
-      {
         "title": "Accurate Models of AMD Matrix Cores",
         "link": "https://arxiv.org/abs/2609.14845",
-        "description": "Article URL: https://arxiv.org/abs/2609.14845 Comments URL: https://news.ycombinator.com/item?id=49731360 Points: 48 # Comments: 6",
+        "description": "Article URL: https://arxiv.org/abs/2609.14845 Comments URL: https://news.ycombinator.com/item?id=49731360 Points: 59 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-09-16T18:56:05+00:00"
-      },
-      {
-        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-        "link": "https://rohanbansal.com/qorl",
-        "description": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 313 # Comments: 59",
-        "source": "HackerNews",
-        "published": "2026-09-16T18:50:00+00:00"
-      },
-      {
-        "title": "Reverse-engineered Jev-like model",
-        "link": "https://github.com/vinnylarouge/jevlike",
-        "description": "Article URL: https://github.com/vinnylarouge/jevlike Comments URL: https://news.ycombinator.com/item?id=49731282 Points: 38 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-09-16T18:49:57+00:00"
-      },
-      {
-        "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-        "description": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-        "source": "TechCrunch",
-        "published": "2026-09-16T18:45:35+00:00"
       },
       {
         "title": "Lexus Eylül 2026 Sıfır Araç Fiyat Listesi: Güncel Kampanyalar ve Fırsatlar",
@@ -199,20 +227,6 @@
         "published": "2026-09-16T18:41:49+03:00"
       },
       {
-        "title": "Vectorized and performance-portable Quicksort (2022)",
-        "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-        "description": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html Comments URL: https://news.ycombinator.com/item?id=49731054 Points: 160 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-09-16T18:31:35+00:00"
-      },
-      {
-        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-        "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-        "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-        "source": "TechCrunch",
-        "published": "2026-09-16T18:25:25+00:00"
-      },
-      {
         "title": "AMD, DLSS 5 Benzeri Nöral Görüntüleme Teknolojisi Geliştiriyor",
         "link": "https://shiftdelete.net/amd-dlss-5-benzeri-noral-goruntuleme-teknolojisi-gelistiriyor",
         "description": "AMD'nin Nvidia DLSS 5 rakibi nöral görüntüleme teknolojisi üzerinde çalıştığı iddia ediliyor. İşte yeni nesil ekran kartları ve konsolları etkileyecek detaylar.",
@@ -234,18 +248,18 @@
         "published": "2026-09-16T17:00:35+00:00"
       },
       {
-        "title": "Training Text-to-Image Models 3.6× Faster",
-        "link": "https://www.linum.ai/field-notes/jit-ddt",
-        "description": "Article URL: https://www.linum.ai/field-notes/jit-ddt Comments URL: https://news.ycombinator.com/item?id=49729816 Points: 19 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-09-16T16:58:13+00:00"
-      },
-      {
         "title": "The AI data center e-waste problem is huge — and getting bigger",
         "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
         "description": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a...",
         "source": "The Verge",
         "published": "2026-09-16T16:40:46-04:00"
+      },
+      {
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "description": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's...",
+        "source": "The Verge",
+        "published": "2026-09-16T16:10:47-04:00"
       },
       {
         "title": "Mark Zuckerberg Yapay Zekada Yavaşlama Çağrılarını Reddetti",
@@ -325,20 +339,6 @@
         "published": "2026-09-16T13:00:44+00:00"
       },
       {
-        "title": "The sexy AI-powered dating app scams are here",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-        "description": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue...",
-        "source": "The Verge",
-        "published": "2026-09-16T11:47:03-04:00"
-      },
-      {
-        "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-        "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-        "description": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price...",
-        "source": "The Verge",
-        "published": "2026-09-16T10:44:48-04:00"
-      },
-      {
         "title": "Claude comes for Gemini with its own take on Docs and Slides",
         "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
         "description": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying...",
@@ -355,18 +355,53 @@
     ],
     "dunya": [
       {
-        "title": "Two Britons among three killed in Swiss Alps light aircraft crash",
-        "link": "https://www.bbc.co.uk/news/articles/cw62jvpele45o?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities say the plane took off from the Rhône Valley and collided with a mountain slope about 10 minutes later.",
+        "title": "Lena Dunham announces birth of first baby via surrogacy",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
+        "description": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
         "source": "BBC News",
-        "published": "2026-09-16T22:20:19+00:00"
+        "published": "2026-09-17T00:55:10+00:00"
       },
       {
         "title": "US interest rates raised for first time in three years",
         "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
         "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
         "source": "BBC News",
-        "published": "2026-09-16T22:16:51+00:00"
+        "published": "2026-09-17T00:40:17+00:00"
+      },
+      {
+        "title": "At least seven months of relentless rain needed to end drought, research shows",
+        "link": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "description": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
+        "source": "BBC News",
+        "published": "2026-09-17T00:01:29+00:00"
+      },
+      {
+        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+        "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
+        "source": "BBC News",
+        "published": "2026-09-16T23:50:56+00:00"
+      },
+      {
+        "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+        "description": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+        "source": "BBC News",
+        "published": "2026-09-16T23:41:57+00:00"
+      },
+      {
+        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+        "source": "BBC News",
+        "published": "2026-09-16T23:15:01+00:00"
+      },
+      {
+        "title": "Two Britons among three killed in Swiss Alps light aircraft crash",
+        "link": "https://www.bbc.co.uk/news/articles/cw62jvpele45o?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities say the plane took off from the Rhône Valley and collided with a mountain slope about 10 minutes later.",
+        "source": "BBC News",
+        "published": "2026-09-16T22:20:19+00:00"
       },
       {
         "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
@@ -376,18 +411,11 @@
         "published": "2026-09-16T20:46:30+00:00"
       },
       {
-        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-        "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-        "description": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
-        "source": "BBC News",
-        "published": "2026-09-16T19:59:57+00:00"
-      },
-      {
-        "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-        "link": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
-        "description": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
-        "source": "BBC News",
-        "published": "2026-09-16T19:49:20+00:00"
+        "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+        "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+        "description": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.",
+        "source": "NPR",
+        "published": "2026-09-16T19:07:40-04:00"
       },
       {
         "title": "Body found in search for missing three-year-old Noah Woods",
@@ -395,13 +423,6 @@
         "description": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
         "source": "BBC News",
         "published": "2026-09-16T18:50:09+00:00"
-      },
-      {
-        "title": "Photos show widespread damage at US sites from Iranian attacks",
-        "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-        "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-        "source": "BBC News",
-        "published": "2026-09-16T18:36:16+00:00"
       },
       {
         "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
@@ -418,7 +439,7 @@
         "published": "2026-09-16T17:20:59-04:00"
       },
       {
-        "title": "House holds billionaire Leon Black in contempt of Congress",
+        "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
         "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
         "description": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
         "source": "NPR",
@@ -488,32 +509,11 @@
         "published": "2026-09-16T13:05:41-04:00"
       },
       {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-        "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-        "source": "BBC News",
-        "published": "2026-09-16T12:36:51+00:00"
-      },
-      {
         "title": "US to bar some South Africans over claims of anti-white discrimination",
         "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
         "description": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South Africa’s...",
         "source": "The Guardian",
         "published": "2026-09-16T12:35:45+00:00"
-      },
-      {
-        "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-        "description": "The New Yorker 's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
-        "source": "NPR",
-        "published": "2026-09-16T12:14:19-04:00"
-      },
-      {
-        "title": "Watch: BBC crew catch thieves in act while filming shoplifting report",
-        "link": "https://www.bbc.co.uk/news/videos/cmq5xyq78gp1o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC crew catch thieves in act while filming shoplifting report.",
-        "source": "BBC News",
-        "published": "2026-09-16T06:13:05+00:00"
       },
       {
         "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
@@ -571,7 +571,21 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-eylul-2026-1742162",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-17T02:00:00+03:00"
+        "published": "2026-09-17T04:30:00+03:00"
+      },
+      {
+        "title": "Boşandığı eşini öldürdü, oğlunu yaraladı, intihar etti",
+        "link": "https://www.sozcu.com.tr/bosandigi-esini-oldurdu-oglunu-yaraladi-intihar-etti-p358955",
+        "description": "Boşandığı eşini öldürdü, oğlunu yaraladı, intihar etti",
+        "source": "Sözcü",
+        "published": "2026-09-17T03:19:58+03:00"
+      },
+      {
+        "title": "Eski eşini öldürüp oğlunu ağır yaraladı, intihar etti",
+        "link": "https://www.ntv.com.tr/turkiye/eski-esini-oldurup-oglunu-agir-yaraladi-intihar-etti-1742165",
+        "description": "Adana'da 1.5 ay önce boşandığı Kezban K. ile 13 yaşındaki oğluna kurşun yağdıran Enes D., intihar etti. Kezban K. hayatını kaybetti, oğlu ağır yaralı.",
+        "source": "NTV",
+        "published": "2026-09-17T02:53:45+03:00"
       },
       {
         "title": "Dev barajın kapakları 10 günlüğüne açıldı: Milyonlarca ton su nehre bırakılacak",
@@ -651,13 +665,6 @@
         "published": "2026-09-16T22:54:46+00:00"
       },
       {
-        "title": "Tunceli semalarında görülen ışık hüzmesi kamerada",
-        "link": "https://www.sozcu.com.tr/tunceli-semalarinda-gorulen-isik-huzmesi-kamerada-p358919",
-        "description": "Tunceli semalarında görülen ışık hüzmesi kamerada",
-        "source": "Sözcü",
-        "published": "2026-09-16T22:53:40+03:00"
-      },
-      {
         "title": "Borsa İstanbul'daki kayıplardan sonra Finansal İstikrar Komitesi toplantısı",
         "link": "https://www.bbc.com/turkce/articles/cmgqdegq5n8eo?at_medium=RSS&at_campaign=rss",
         "description": "Finansal İstikrar Komitesi piyasalardaki sert düşüşten sonra Bakan Mehmet Şimşek başkanlığında sabah olağanüstü toplanma kararı aldı.",
@@ -728,13 +735,6 @@
         "published": "2026-09-16T17:42:05+03:00"
       },
       {
-        "title": "Nasuh Mahruki hakkında tahliye kararı",
-        "link": "https://www.ntv.com.tr/turkiye/nasuh-mahruki-hakkinda-tahliye-karari-1742124",
-        "description": "Sosyal medya hesabından yaptığı 15 Temmuz ile ilgili bir paylaşımı gerekçesiyle tutuklanan eski Arama Kurtarma Derneği (AKUT) Başkanı Nasuh Mahruki'ye tahliye kararı verildi.",
-        "source": "NTV",
-        "published": "2026-09-16T16:49:27+03:00"
-      },
-      {
         "title": "Mekke yakınlarında İHA düşürüldü, ABD Suudi Arabistan'a seyahat uyarısını sıkılaştırdı",
         "link": "https://www.bbc.com/turkce/articles/cxnvlgp65d47o?at_medium=RSS&at_campaign=rss",
         "description": "Suudi Arabistan'daki Aramco petrol tesisini ve bir hava üssünü vurduklarını öne süren Husiler, Mekke'yi hedef aldıkları iddiasını ise reddetti.",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.6646,
-    "eur_try": 56.1431,
-    "eur_usd": 0.8667
+    "usd_try": 48.6848,
+    "eur_try": 56.0326,
+    "eur_usd": 0.8693
   },
   "weather": {
-    "condition": "Hafif sağanak yağmur",
-    "temp": "+67°F",
-    "wind": "↖4mph",
-    "humidity": "97%"
+    "condition": "Yer yer donan çisenti",
+    "temp": "+70°F",
+    "wind": "→10mph",
+    "humidity": "44%"
   }
 }
