@@ -1,11 +1,60 @@
 {
-  "updated_at": "2026-09-18T21:26:18.022600+00:00",
+  "updated_at": "2026-09-18T23:29:33.201246+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "source": "TechCrunch",
+        "published": "2026-09-18T23:25:01+00:00"
+      },
+      {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "source": "TechCrunch",
+        "published": "2026-09-18T23:13:31+00:00"
+      },
+      {
+        "title": "AI Hallucination Nearly Triggers US Military Operation",
+        "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "source": "TechCrunch",
+        "published": "2026-09-18T23:12:32+00:00"
+      },
+      {
+        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "link": "https://spectrum.ieee.org/llms-for-chip-design",
+        "description": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-18T23:04:17+00:00"
+      },
+      {
+        "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+        "link": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+        "description": "Article URL: https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49761178 Points: 73 # Comments: 28",
+        "source": "HackerNews",
+        "published": "2026-09-18T22:35:10+00:00"
+      },
+      {
+        "title": "The US 'Kill Chain' That Destroyed an Iranian School",
+        "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+        "description": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack Comments URL: https://news.ycombinator.com/item?id=49761106 Points: 17 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-18T22:29:16+00:00"
+      },
+      {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+        "source": "TechCrunch",
+        "published": "2026-09-18T21:44:33+00:00"
+      },
+      {
         "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "link": "https://code.claude.com/docs/en/changelog",
-        "description": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 29 # Comments: 7",
+        "description": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 358 # Comments: 135",
         "source": "HackerNews",
         "published": "2026-09-18T21:00:32+00:00"
       },
@@ -19,7 +68,7 @@
       {
         "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
         "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-        "description": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+        "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
         "source": "TechCrunch",
         "published": "2026-09-18T20:24:33+00:00"
       },
@@ -33,7 +82,7 @@
       {
         "title": "Korea raises data breach fines to 10% of revenue",
         "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-        "description": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 157 # Comments: 42",
+        "description": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 231 # Comments: 73",
         "source": "HackerNews",
         "published": "2026-09-18T20:02:54+00:00"
       },
@@ -47,7 +96,7 @@
       {
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 270 # Comments: 115",
+        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 407 # Comments: 188",
         "source": "HackerNews",
         "published": "2026-09-18T19:03:09+00:00"
       },
@@ -68,21 +117,21 @@
       {
         "title": "The Implications of Linguistic Illegibility for LLM Security",
         "link": "https://arxiv.org/abs/2609.02852",
-        "description": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 28 # Comments: 12",
+        "description": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 41 # Comments: 17",
         "source": "HackerNews",
         "published": "2026-09-18T19:00:06+00:00"
       },
       {
         "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
         "link": "https://arxiv.org/abs/2510.03215",
-        "description": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 42 # Comments: 8",
+        "description": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 56 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-09-18T18:55:35+00:00"
       },
       {
         "title": "Saving another 100TB of RAM",
         "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "description": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 96 # Comments: 16",
+        "description": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 175 # Comments: 34",
         "source": "HackerNews",
         "published": "2026-09-18T18:51:46+00:00"
       },
@@ -96,16 +145,9 @@
       {
         "title": "Xcode 27.1 Beta Release Notes",
         "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-        "description": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 81 # Comments: 44",
+        "description": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 103 # Comments: 58",
         "source": "HackerNews",
         "published": "2026-09-18T18:39:31+00:00"
-      },
-      {
-        "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-        "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-        "description": "Article URL: https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/ Comments URL:...",
-        "source": "HackerNews",
-        "published": "2026-09-18T18:08:32+00:00"
       },
       {
         "title": "McLaren'dan Dev Yatırım: Markanın İlk Hibrit SUV Modeli 2028'de Yollara Çıkıyor!",
@@ -157,32 +199,11 @@
         "published": "2026-09-18T17:45:00+00:00"
       },
       {
-        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-        "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-        "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-        "source": "TechCrunch",
-        "published": "2026-09-18T17:33:50+00:00"
-      },
-      {
-        "title": "US Military had close call after using AI for hallucinated intelligence report",
-        "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-        "description": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 297 # Comments: 237",
-        "source": "HackerNews",
-        "published": "2026-09-18T17:28:01+00:00"
-      },
-      {
-        "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-        "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-        "description": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-        "source": "TechCrunch",
-        "published": "2026-09-18T17:26:41+00:00"
-      },
-      {
-        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-        "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-        "description": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between...",
-        "source": "TechCrunch",
-        "published": "2026-09-18T17:09:56+00:00"
+        "title": "Gavin Newsom is pushing for an AI kill switch",
+        "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "description": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene...",
+        "source": "The Verge",
+        "published": "2026-09-18T17:28:12-04:00"
       },
       {
         "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
@@ -218,20 +239,6 @@
         "description": "Instagram aktiflik durumu nasıl kapatılır ve çevrim içi bilgisi gizlendiğinde ne değişir? Son görülme, yeşil nokta ve hareket durumu ayarlarını nasıl yönetebileceğinizi anlatıyoruz.",
         "source": "Webtekno",
         "published": "2026-09-18T17:00:21+03:00"
-      },
-      {
-        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-        "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-        "description": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 119 # Comments: 37",
-        "source": "HackerNews",
-        "published": "2026-09-18T16:54:18+00:00"
-      },
-      {
-        "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-        "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-        "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-        "source": "TechCrunch",
-        "published": "2026-09-18T16:35:49+00:00"
       },
       {
         "title": "Yeni Toyota Land Cruiser 300 Tanıtıldı: 457 Beygirlik Hibrit Motor",
@@ -281,13 +288,6 @@
         "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios...",
         "source": "The Verge",
         "published": "2026-09-18T13:13:12-04:00"
-      },
-      {
-        "title": "Gavin Newsom is pushing for an AI kill switch",
-        "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-        "description": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene...",
-        "source": "The Verge",
-        "published": "2026-09-18T13:12:06-04:00"
       },
       {
         "title": "The real story of the iPhone 18 Pro’s camera",
@@ -359,14 +359,42 @@
         "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
         "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
         "source": "BBC News",
-        "published": "2026-09-18T21:25:07+00:00"
+        "published": "2026-09-18T23:26:48+00:00"
       },
       {
-        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-        "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-        "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+        "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+        "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+        "description": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a...",
+        "source": "The Guardian",
+        "published": "2026-09-18T23:08:49+00:00"
+      },
+      {
+        "title": "Billionaire Man United owner says he has lost confidence in the UK",
+        "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+        "description": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
         "source": "BBC News",
-        "published": "2026-09-18T17:57:30+00:00"
+        "published": "2026-09-18T23:06:16+00:00"
+      },
+      {
+        "title": "Grim discoveries of murdered women spark fear in South Africa",
+        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+        "source": "BBC News",
+        "published": "2026-09-18T23:04:41+00:00"
+      },
+      {
+        "title": "Temperatures could peak at 26C as summerlike warmth returns next week",
+        "link": "https://www.bbc.co.uk/weather/articles/cqlym1m2kllgo?at_medium=RSS&at_campaign=rss",
+        "description": "After a changeable week, drier and warmer conditions will dominate for some next week, but with little rain for those who need it.",
+        "source": "BBC News",
+        "published": "2026-09-18T23:01:53+00:00"
+      },
+      {
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "source": "BBC News",
+        "published": "2026-09-18T22:58:55+00:00"
       },
       {
         "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
@@ -381,13 +409,6 @@
         "description": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
         "source": "NPR",
         "published": "2026-09-18T17:13:14-04:00"
-      },
-      {
-        "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-        "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-        "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-        "source": "BBC News",
-        "published": "2026-09-18T17:10:58+00:00"
       },
       {
         "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
@@ -411,13 +432,6 @@
         "published": "2026-09-18T15:59:59+00:00"
       },
       {
-        "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-        "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
-        "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
-        "source": "BBC News",
-        "published": "2026-09-18T15:59:21+00:00"
-      },
-      {
         "title": "Brother didn't match description of 'Putney pusher', suspect's sisters tell BBC",
         "link": "https://www.bbc.co.uk/news/videos/c623xzx1pnleo?at_medium=RSS&at_campaign=rss",
         "description": "Speaking on BBC Radio 4's Today programme, Nicholas Brandram's sisters accused the Metropolitan Police of being \"negligent and reckless\".",
@@ -430,13 +444,6 @@
         "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
         "source": "BBC News",
         "published": "2026-09-18T15:48:58+00:00"
-      },
-      {
-        "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
-        "link": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
-        "description": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko.",
-        "source": "BBC News",
-        "published": "2026-09-18T15:27:01+00:00"
       },
       {
         "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
@@ -530,13 +537,6 @@
         "published": "2026-09-18T06:39:14-04:00"
       },
       {
-        "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
-        "link": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
-        "description": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally...",
-        "source": "The Guardian",
-        "published": "2026-09-18T00:23:31+00:00"
-      },
-      {
         "title": "New cat species identified for first time in more than a century in Bolivia",
         "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
         "description": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first...",
@@ -567,6 +567,41 @@
     ],
     "turkiye": [
       {
+        "title": "Strese karşı ne yapabilirsiniz?",
+        "link": "https://www.sozcu.com.tr/strese-karsi-ne-yapabilirsiniz-p359568",
+        "description": "Strese karşı ne yapabilirsiniz?",
+        "source": "Sözcü",
+        "published": "2026-09-19T02:00:20+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-eylul-2026-1742477",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-19T02:00:00+03:00"
+      },
+      {
+        "title": "Eski futbolcu Hasan Şaş'ın ifadesi ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/hasan-sas-in-ifadesi-ortaya-cikti-p359575",
+        "description": "Eski futbolcu Hasan Şaş'ın ifadesi ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-09-19T01:28:38+03:00"
+      },
+      {
+        "title": "Londra derbisinde Chelsea dağıldı",
+        "link": "https://www.sozcu.com.tr/londra-derbisinde-chelsea-dagildi-p359574",
+        "description": "Londra derbisinde Chelsea dağıldı",
+        "source": "Sözcü",
+        "published": "2026-09-19T00:57:12+03:00"
+      },
+      {
+        "title": "Trump: Grönland'ın güvenliği için Danimarka ile kalıcı anlaşmaya vardık",
+        "link": "https://www.sozcu.com.tr/donald-trump-gronland-aciklamasi-p359570",
+        "description": "Trump: Grönland'ın güvenliği için Danimarka ile kalıcı anlaşmaya vardık",
+        "source": "Sözcü",
+        "published": "2026-09-19T00:50:12+03:00"
+      },
+      {
         "title": "Berat Albayrak aylar sonra Trabzon'da ortaya çıktı",
         "link": "https://www.sozcu.com.tr/berat-albayrak-trabzon-da-p359569",
         "description": "Berat Albayrak aylar sonra Trabzon'da ortaya çıktı",
@@ -588,13 +623,6 @@
         "published": "2026-09-19T00:00:28+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Eylül 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-eylul-2026-1742477",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-09-19T00:00:00+03:00"
-      },
-      {
         "title": "Küçükçekmece'de yıkım sırasında bina çöktü: 3 kişi yaralandı",
         "link": "https://www.ntv.com.tr/turkiye/kucukcekmecede-yikim-sirasinda-bina-coktu-3-kisi-yaralandi-1742470",
         "description": "Küçükçekmece'de kentsel dönüşüm kapsamında yıkımı yapılan binanın bir bölümünün çöktü. Bu sırada yoldan geçen 3 kişi yaralandı.",
@@ -607,13 +635,6 @@
         "description": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
         "source": "Sözcü",
         "published": "2026-09-18T23:51:45+03:00"
-      },
-      {
-        "title": "Dışişleri Bakanlığı, Pakistan’daki terör saldırısını kınadı",
-        "link": "https://www.sozcu.com.tr/disisleri-bakanligi-pakistan-daki-teror-saldirisini-kinadi-p359566",
-        "description": "Dışişleri Bakanlığı, Pakistan’daki terör saldırısını kınadı",
-        "source": "Sözcü",
-        "published": "2026-09-18T23:50:18+03:00"
       },
       {
         "title": "Bayern Münih'ten gol yağmuru: 7-0! Harry Kane rekor kırdı",
@@ -630,18 +651,18 @@
         "published": "2026-09-18T23:32:26+03:00"
       },
       {
+        "title": "Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturmada iki şüpheli hakkında tutuklama talebi",
+        "link": "https://www.bbc.com/turkce/articles/cr780xjyn53vo?at_medium=RSS&at_campaign=rss",
+        "description": "Eski MİT mensubu Kaşif Kozinoğlu'nun 2011 yılında Silivri Cezaevi'nde hayatını kaybetmesiyle ilgili yeniden başlatılan soruşturmada, koğuş arkadaşı emekli Albay Hasan Atilla Uğur'un da aralarında bulunduğu dört şüpheli hakimliğe sevk edildi",
+        "source": "BBC Turkish",
+        "published": "2026-09-18T23:23:13+00:00"
+      },
+      {
         "title": "İlaç kutularında milyonları ilgilendiren değişiklik: Kutuyu açtığınızda şaşırmayın",
         "link": "https://www.sozcu.com.tr/ilac-kutularinda-milyonlari-ilgilendiren-degisiklik-kutuyu-actiginizda-sasirmayin-p359562",
         "description": "İlaç kutularında milyonları ilgilendiren değişiklik: Kutuyu açtığınızda şaşırmayın",
         "source": "Sözcü",
         "published": "2026-09-18T23:22:27+03:00"
-      },
-      {
-        "title": "AKP'ye geçen Özarslan'dan tartışma yaratan ihbar hattı: Gerici uygulamaya suç duyurusu",
-        "link": "https://www.sozcu.com.tr/kecioren-belediyesi-nin-ihbar-hattina-suc-duyurusu-p359560",
-        "description": "AKP'ye geçen Özarslan'dan tartışma yaratan ihbar hattı: Gerici uygulamaya suç duyurusu",
-        "source": "Sözcü",
-        "published": "2026-09-18T22:58:26+03:00"
       },
       {
         "title": "19 seçim kaybeden adam yaşamını yitirdi",
@@ -651,18 +672,11 @@
         "published": "2026-09-18T22:31:48+03:00"
       },
       {
-        "title": "AFAD duyurdu: Kuşadası Körfezi'nde 3,8 büyüklüğünde deprem",
-        "link": "https://www.sozcu.com.tr/ege-denizi-aydin-aciklari-deprem-18-eylul-2026-p359558",
-        "description": "AFAD duyurdu: Kuşadası Körfezi'nde 3,8 büyüklüğünde deprem",
-        "source": "Sözcü",
-        "published": "2026-09-18T22:06:37+03:00"
-      },
-      {
-        "title": "Girne’deki gemi kazasında WhatsApp yazışmaları ortaya çıktı: Yolcuları bile bile ölüme göndermişler",
-        "link": "https://www.sozcu.com.tr/girne-deki-gemi-kazasinda-whatsapp-yazismalari-ortaya-cikti-yolculari-bile-bile-olume-gondermisler-p359557",
-        "description": "Girne’deki gemi kazasında WhatsApp yazışmaları ortaya çıktı: Yolcuları bile bile ölüme göndermişler",
-        "source": "Sözcü",
-        "published": "2026-09-18T21:59:20+03:00"
+        "title": "ABD ve Danimarka, Grönland'ın güvenliği konusunda anlaşmaya vardı",
+        "link": "https://www.bbc.com/turkce/articles/c6r7d1nlrylmo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump, anlaşmanın ABD'ye \"Grönland'da güvenlik ve diğer tüm ihtiyaçlar üzerinde kalıcı kontrol\" sağlayacağını söyledi, ancak Danimarkalı yetkililer tarafından ayrıntılar henüz doğrulanmadı",
+        "source": "BBC Turkish",
+        "published": "2026-09-18T22:26:18+00:00"
       },
       {
         "title": "Son dakika Aydın'da deprem mi oldu? Az önce deprem Aydın'da nerede oldu? Aydın deprem Kandilli ve AFAD son depremler listesi 18 Eylül 2026",
@@ -735,13 +749,6 @@
         "published": "2026-09-18T13:00:39+00:00"
       },
       {
-        "title": "Japonya'da artan enflasyona karşı faiz oranları son 31 yılın en yüksek seviyesinde",
-        "link": "https://www.bbc.com/turkce/articles/c6pq0w8g8rj4o?at_medium=RSS&at_campaign=rss",
-        "description": "Japonya Merkez Bankası, artan ekonomik baskı ve fiyat artışlarına karşı, faiz oranını son 31 yılın en yüksek seviyesine çıkardı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-18T11:11:23+00:00"
-      },
-      {
         "title": "İktidar değişikliği beklenmese de Rusya'da seçimler Kremlin için neden önemli?",
         "link": "https://www.bbc.com/turkce/articles/cq99dj8xl9elo?at_medium=RSS&at_campaign=rss",
         "description": "Rusya'da bu hafta sonu yapılacak parlamento seçimleri Devlet Başkanı Vladimir Putin'in iktidarı için bir tehdit oluşturmuyor ancak seçimler Kremlin için yine de önemli. BBC Rusya Editörü Steve Rosenberg'in analizi.",
@@ -768,13 +775,6 @@
         "description": "Adalet Bakanı Akın Gürlek, fon ve hisse piyasasında gerçekleştirilen manipülatif işlemlere yönelik yürütülen soruşturma kapsamında, fon yönetim kurulu başkan ve üyelerinin de aralarında bulunduğu dört kişinin tutuklandığını duyurdu.",
         "source": "BBC Turkish",
         "published": "2026-09-18T07:20:51+00:00"
-      },
-      {
-        "title": "Türkiye ve Azerbaycan'ın görüştüğü yeni enerji projeleri bölgeyi nasıl etkiler?",
-        "link": "https://www.bbc.com/turkce/articles/c5m2784jwem0o?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye ve Azerbaycan, petrol ve doğalgaz konusunda son 30 yılda geliştirdikleri işbirliğini şimdi elektrik odaklı projelerle güçlendirme arayışındalar. Orta Asya ve Hazar bölgesinde üretilen yenilenebilir enerjinin Türkiye ve Karadeniz üzerinden...",
-        "source": "BBC Turkish",
-        "published": "2026-09-18T05:05:14+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.8706
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+79°F",
-    "wind": "↓7mph",
-    "humidity": "29%"
+    "condition": "Patchy rain nearby",
+    "temp": "+74°F",
+    "wind": "↙4mph",
+    "humidity": "90%"
   }
 }
