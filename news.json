@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-09-18T18:55:01.118662+00:00",
+  "updated_at": "2026-09-18T21:26:18.022600+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "link": "https://code.claude.com/docs/en/changelog",
+        "description": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 29 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-09-18T21:00:32+00:00"
+      },
+      {
+        "title": "Automattic names interim CFO after exec departures",
+        "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+        "description": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+        "source": "TechCrunch",
+        "published": "2026-09-18T20:25:22+00:00"
+      },
+      {
+        "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+        "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+        "description": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+        "source": "TechCrunch",
+        "published": "2026-09-18T20:24:33+00:00"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "source": "TechCrunch",
+        "published": "2026-09-18T20:18:14+00:00"
+      },
+      {
+        "title": "Korea raises data breach fines to 10% of revenue",
+        "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+        "description": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 157 # Comments: 42",
+        "source": "HackerNews",
+        "published": "2026-09-18T20:02:54+00:00"
+      },
+      {
+        "title": "iPhone 18 Pro Max kutu açılışı & ilk bakış! 17 Pro’dan farkı var mı?",
+        "link": "https://shiftdelete.net/iphone-18-pro-max-kutu-acilisi-ilk-bakis-17-prodan-farki-var-mi",
+        "description": "iPhone 18 Pro Max Türkiye’de satışa sunulurken, kutusundan çıkarılan siyah renkli model üzerinden ilk izlenimler, tasarım değişiklikleri ve selefi iPhone 17 Pro ile olan temel farkları doğrudan masaya yatırdık! Geçtiğimiz yılın gözdesi turuncu...",
+        "source": "ShiftDelete",
+        "published": "2026-09-18T19:28:39+00:00"
+      },
+      {
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 270 # Comments: 115",
+        "source": "HackerNews",
+        "published": "2026-09-18T19:03:09+00:00"
+      },
       {
         "title": "FC 27 - Ultimate Team İnceleme: Yeni Ödül Sistemi, Yeni KKG Sistemi, FUT Galerisi ve Dahası...",
         "link": "\n                    https://www.webtekno.com/fc-27-ultimate-team-inceleme-h224801.html\n                    ",
@@ -17,11 +66,39 @@
         "published": "2026-09-18T19:00:16+03:00"
       },
       {
+        "title": "The Implications of Linguistic Illegibility for LLM Security",
+        "link": "https://arxiv.org/abs/2609.02852",
+        "description": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 28 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-09-18T19:00:06+00:00"
+      },
+      {
+        "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+        "link": "https://arxiv.org/abs/2510.03215",
+        "description": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 42 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-09-18T18:55:35+00:00"
+      },
+      {
+        "title": "Saving another 100TB of RAM",
+        "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "description": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 96 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-09-18T18:51:46+00:00"
+      },
+      {
         "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
         "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
         "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
         "source": "TechCrunch",
         "published": "2026-09-18T18:49:30+00:00"
+      },
+      {
+        "title": "Xcode 27.1 Beta Release Notes",
+        "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+        "description": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 81 # Comments: 44",
+        "source": "HackerNews",
+        "published": "2026-09-18T18:39:31+00:00"
       },
       {
         "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
@@ -73,13 +150,6 @@
         "published": "2026-09-18T17:59:53+00:00"
       },
       {
-        "title": "Grok Voice Transcribe 2.0",
-        "link": "https://x.ai/news/grok-voice-transcribe-2",
-        "description": "Article URL: https://x.ai/news/grok-voice-transcribe-2 Comments URL: https://news.ycombinator.com/item?id=49757859 Points: 13 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-09-18T17:53:34+00:00"
-      },
-      {
         "title": "In India, the new iPhone can arrive faster than a pizza",
         "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
         "description": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
@@ -96,7 +166,7 @@
       {
         "title": "US Military had close call after using AI for hallucinated intelligence report",
         "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-        "description": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 103 # Comments: 38",
+        "description": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 297 # Comments: 237",
         "source": "HackerNews",
         "published": "2026-09-18T17:28:01+00:00"
       },
@@ -113,6 +183,13 @@
         "description": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between...",
         "source": "TechCrunch",
         "published": "2026-09-18T17:09:56+00:00"
+      },
+      {
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data...",
+        "source": "The Verge",
+        "published": "2026-09-18T17:07:24-04:00"
       },
       {
         "title": "Elektrikli Araçların Yangın Riskini Artıran ve Azaltan Faktörler",
@@ -145,7 +222,7 @@
       {
         "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
         "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-        "description": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 63 # Comments: 13",
+        "description": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 119 # Comments: 37",
         "source": "HackerNews",
         "published": "2026-09-18T16:54:18+00:00"
       },
@@ -157,13 +234,6 @@
         "published": "2026-09-18T16:35:49+00:00"
       },
       {
-        "title": "Systemd is a suite of basic building blocks",
-        "link": "https://brand.systemd.io/",
-        "description": "Article URL: https://brand.systemd.io/ Comments URL: https://news.ycombinator.com/item?id=49756762 Points: 15 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-09-18T16:31:43+00:00"
-      },
-      {
         "title": "Yeni Toyota Land Cruiser 300 Tanıtıldı: 457 Beygirlik Hibrit Motor",
         "link": "https://shiftdelete.net/toyota-land-cruiser-300-hibrit-tanitildi",
         "description": "Toyota Land Cruiser 300 hibrit modeli, 457 beygirlik gücüyle serinin en güçlü versiyonu olarak Japonya'da satışa çıkıyor.",
@@ -171,67 +241,18 @@
         "published": "2026-09-18T16:30:54+00:00"
       },
       {
-        "title": "Family offices are clamoring for AI investments",
-        "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-        "description": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-        "source": "TechCrunch",
-        "published": "2026-09-18T16:00:00+00:00"
-      },
-      {
-        "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
-        "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-        "description": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
-        "source": "TechCrunch",
-        "published": "2026-09-18T15:44:09+00:00"
-      },
-      {
-        "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-        "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-        "source": "TechCrunch",
-        "published": "2026-09-18T15:30:00+00:00"
-      },
-      {
-        "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-        "link": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-        "description": "Article URL: https://www.miro.vision/index.php/2026/09/17/grasslobbster/ Comments URL: https://news.ycombinator.com/item?id=49755431 Points: 23 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-09-18T15:04:54+00:00"
-      },
-      {
-        "title": "Build Faster Feedback Loops Using Qualitative User Research",
-        "link": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
-        "description": "Article URL: https://blog.nseldeib.com/p/build-faster-feedback-loops-using Comments URL: https://news.ycombinator.com/item?id=49755337 Points: 20 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-09-18T14:58:09+00:00"
-      },
-      {
-        "title": "North Korean nuclear test sets off years of earthquakes",
-        "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-        "description": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 126 # Comments: 90",
-        "source": "HackerNews",
-        "published": "2026-09-18T14:45:32+00:00"
-      },
-      {
-        "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-        "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-        "description": "Article URL: https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/ Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 40 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-09-18T14:41:02+00:00"
-      },
-      {
-        "title": "I vibed a proof of Conway's conjecture",
-        "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-        "description": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 132 # Comments: 124",
-        "source": "HackerNews",
-        "published": "2026-09-18T14:36:10+00:00"
-      },
-      {
         "title": "Virginia governor creates an AI task force and moves to restrain data centers",
         "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-        "description": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital...",
+        "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of...",
         "source": "The Verge",
-        "published": "2026-09-18T14:33:02-04:00"
+        "published": "2026-09-18T15:09:19-04:00"
+      },
+      {
+        "title": "Disney’s first CTO is Character.AI’s former CEO",
+        "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+        "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is...",
+        "source": "The Verge",
+        "published": "2026-09-18T14:54:39-04:00"
       },
       {
         "title": "Xiaomi XRING 03 Windows Oyun Emülasyonunda Çığır Açıyor",
@@ -239,13 +260,6 @@
         "description": "Xiaomi, XRING 03 yonga setinde BCn doku formatı desteği sunarak Windows oyun emülasyonunda devrim yaratıyor. İşte detaylar.",
         "source": "ShiftDelete",
         "published": "2026-09-18T14:30:43+00:00"
-      },
-      {
-        "title": "Disney’s first CTO is Character.AI’s former CEO",
-        "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-        "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is...",
-        "source": "The Verge",
-        "published": "2026-09-18T14:27:04-04:00"
       },
       {
         "title": "WhatsApp’a Yeni Arama Butonu Eklendi",
@@ -318,13 +332,6 @@
         "published": "2026-09-18T12:00:05+00:00"
       },
       {
-        "title": "Türkiye Füzelerde Menzil Arttırıyor",
-        "link": "https://shiftdelete.net/turkiye-fuzelerde-menzil-arttiriyor",
-        "description": "Türkiye, füze teknolojilerinde mevcut kabiliyetleri daha ileri taşımaya hazırlanıyor. İHA-300’den TAYFUN’un yeni bloklarına, GEZGİN’den CENK’e uzanan projelerle daha uzun menzilli, daha yüksek hızlı ve farklı platformlardan kullanılabilen milli füze...",
-        "source": "ShiftDelete",
-        "published": "2026-09-18T11:30:11+00:00"
-      },
-      {
         "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
         "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
         "description": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't...",
@@ -344,22 +351,36 @@
         "description": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen,...",
         "source": "The Verge",
         "published": "2026-09-18T10:51:26-04:00"
-      },
-      {
-        "title": "Flash floods can strike without warning — this new technology could change that",
-        "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-        "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I...",
-        "source": "The Verge",
-        "published": "2026-09-17T16:43:51-04:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "source": "BBC News",
+        "published": "2026-09-18T21:25:07+00:00"
+      },
+      {
+        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+        "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+        "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+        "source": "BBC News",
+        "published": "2026-09-18T17:57:30+00:00"
+      },
       {
         "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
         "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
         "description": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children Survivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody of a...",
         "source": "The Guardian",
         "published": "2026-09-18T17:27:39+00:00"
+      },
+      {
+        "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+        "description": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
+        "source": "NPR",
+        "published": "2026-09-18T17:13:14-04:00"
       },
       {
         "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
@@ -376,11 +397,11 @@
         "published": "2026-09-18T17:10:37+00:00"
       },
       {
-        "title": "Men lose appeal for harassing BBC journalist over A Very British Cult documentary",
-        "link": "https://www.bbc.co.uk/news/articles/cv1j4k34ze07o?at_medium=RSS&at_campaign=rss",
-        "description": "Kristofer Deichler, Jatinder Kamra and Sukhraj Singh were given community service and restraining orders for their harassment of Catrin Nye.",
-        "source": "BBC News",
-        "published": "2026-09-18T16:53:23+00:00"
+        "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+        "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+        "description": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+        "source": "NPR",
+        "published": "2026-09-18T16:15:53-04:00"
       },
       {
         "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
@@ -411,18 +432,25 @@
         "published": "2026-09-18T15:48:58+00:00"
       },
       {
-        "title": "'Get in' - woman joins police chase by giving officer a lift in Nissan Micra",
-        "link": "https://www.bbc.co.uk/news/articles/crx2zjdg9p5go?at_medium=RSS&at_campaign=rss",
-        "description": "The suspect reverse-rammed a police car and crashed into parked cars while trying to escape.",
-        "source": "BBC News",
-        "published": "2026-09-18T15:29:52+00:00"
-      },
-      {
         "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
         "link": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
         "description": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko.",
         "source": "BBC News",
         "published": "2026-09-18T15:27:01+00:00"
+      },
+      {
+        "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+        "description": "An informal network of dialogues at think tanks and universities is bringing together experts from the U.S. and China to talk about the shared perils of AI — and possible paths forward.",
+        "source": "NPR",
+        "published": "2026-09-18T15:14:15-04:00"
+      },
+      {
+        "title": "Syrian regime planned American journalist's kidnapping for weeks",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+        "description": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
+        "source": "NPR",
+        "published": "2026-09-18T15:13:52-04:00"
       },
       {
         "title": "Teen who piloted Channel boat with 165 migrants jailed",
@@ -502,34 +530,6 @@
         "published": "2026-09-18T06:39:14-04:00"
       },
       {
-        "title": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
-        "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
-        "description": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week … maybe.",
-        "source": "NPR",
-        "published": "2026-09-18T05:01:00-04:00"
-      },
-      {
-        "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-        "description": "A bacterial infection is wiping out Florida's citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay.",
-        "source": "NPR",
-        "published": "2026-09-18T05:00:00-04:00"
-      },
-      {
-        "title": "A DHS email raises new questions about the Trump administration's election plans",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
-        "description": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It's unclear why.",
-        "source": "NPR",
-        "published": "2026-09-18T05:00:00-04:00"
-      },
-      {
-        "title": "How Google is drafting AI chatbot laws around the country",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-        "description": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
-        "source": "NPR",
-        "published": "2026-09-18T05:00:00-04:00"
-      },
-      {
         "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
         "link": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
         "description": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally...",
@@ -567,32 +567,102 @@
     ],
     "turkiye": [
       {
-        "title": "Süper Lig’de hafta sessiz açıldı! Kasımpaşa ile Konyaspor puanları paylaştı",
-        "link": "https://www.sozcu.com.tr/super-lig-de-hafta-sessiz-acildi-kasimpasa-ile-konyaspor-puanlari-paylasti-p359556",
-        "description": "Süper Lig’de hafta sessiz açıldı! Kasımpaşa ile Konyaspor puanları paylaştı",
+        "title": "Berat Albayrak aylar sonra Trabzon'da ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/berat-albayrak-trabzon-da-p359569",
+        "description": "Berat Albayrak aylar sonra Trabzon'da ortaya çıktı",
         "source": "Sözcü",
-        "published": "2026-09-18T21:52:02+03:00"
+        "published": "2026-09-19T00:14:10+03:00"
       },
       {
-        "title": "Trabzon’da sağanak hayatı felç etti: Cadde ve sokaklar göle döndü",
-        "link": "https://www.sozcu.com.tr/trabzon-da-saganak-hayati-felc-etti-cadde-ve-sokaklar-gole-dondu-p359555",
-        "description": "Trabzon’da sağanak hayatı felç etti: Cadde ve sokaklar göle döndü",
-        "source": "Sözcü",
-        "published": "2026-09-18T21:46:50+03:00"
+        "title": "Metrekareye 50 kilogram yağış düştü: Trabzon'da yollar göle döndü, ev ve iş yerlerini su bastı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-metrekareye-50-kilogram-yagis-dustu-trabzonda-yollar-gole-dondu-ev-ve-is-yerlerini-su-basti-1742475",
+        "description": "Uyarıların ardından Doğu Karadeniz Bölgesi'nde sağanak etkili olmaya başladı. Özellikle Trabzon'da yollar göle döndü, ev ve iş yerlerini su bastı. Peki yağışlar ne kadar sürecek?",
+        "source": "NTV",
+        "published": "2026-09-19T00:11:18+03:00"
       },
       {
-        "title": "Kadir İnanır'ın miras davasında ortalık karıştı: Eski fotoğraf üzerinden tehdit iddiası",
-        "link": "https://www.sozcu.com.tr/levent-inanir-in-mesaji-iddiasi-ortaligi-karistirdi-p359549",
-        "description": "Kadir İnanır'ın miras davasında ortalık karıştı: Eski fotoğraf üzerinden tehdit iddiası",
+        "title": "Ayı ve kurtlar yerleşim yerine indi, çöpten yiyecek aradı",
+        "link": "https://www.sozcu.com.tr/ayi-ve-kurtlar-yerlesim-yerine-indi-copten-yiyecek-aradi-p359567",
+        "description": "Ayı ve kurtlar yerleşim yerine indi, çöpten yiyecek aradı",
         "source": "Sözcü",
-        "published": "2026-09-18T21:44:28+03:00"
+        "published": "2026-09-19T00:00:28+03:00"
       },
       {
-        "title": "Ibrahimovic de Arda Güler hayranı çıktı! Milli futbolcu için övgü dolu sözler",
-        "link": "https://www.sozcu.com.tr/ibrahimovic-de-arda-guler-hayrani-cikti-milli-futbolcu-icin-ovgu-dolu-sozler-p359551",
-        "description": "Ibrahimovic de Arda Güler hayranı çıktı! Milli futbolcu için övgü dolu sözler",
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-eylul-2026-1742477",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-19T00:00:00+03:00"
+      },
+      {
+        "title": "Küçükçekmece'de yıkım sırasında bina çöktü: 3 kişi yaralandı",
+        "link": "https://www.ntv.com.tr/turkiye/kucukcekmecede-yikim-sirasinda-bina-coktu-3-kisi-yaralandi-1742470",
+        "description": "Küçükçekmece'de kentsel dönüşüm kapsamında yıkımı yapılan binanın bir bölümünün çöktü. Bu sırada yoldan geçen 3 kişi yaralandı.",
+        "source": "NTV",
+        "published": "2026-09-18T23:53:44+03:00"
+      },
+      {
+        "title": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
+        "link": "https://www.sozcu.com.tr/nevsehir-de-saganak-sonrasi-sel-18-eylul-2026-p359563",
+        "description": "Nevşehir'de can pazarı; sel sularına kapılan otomobil köprüde sıkıştı, 3 kişi kurtarıldı",
         "source": "Sözcü",
-        "published": "2026-09-18T21:34:49+03:00"
+        "published": "2026-09-18T23:51:45+03:00"
+      },
+      {
+        "title": "Dışişleri Bakanlığı, Pakistan’daki terör saldırısını kınadı",
+        "link": "https://www.sozcu.com.tr/disisleri-bakanligi-pakistan-daki-teror-saldirisini-kinadi-p359566",
+        "description": "Dışişleri Bakanlığı, Pakistan’daki terör saldırısını kınadı",
+        "source": "Sözcü",
+        "published": "2026-09-18T23:50:18+03:00"
+      },
+      {
+        "title": "Bayern Münih'ten gol yağmuru: 7-0! Harry Kane rekor kırdı",
+        "link": "https://www.sozcu.com.tr/bayern-munih-ten-gol-yagmuru-7-0-harry-kane-rekor-kirdi-p359565",
+        "description": "Bayern Münih'ten gol yağmuru: 7-0! Harry Kane rekor kırdı",
+        "source": "Sözcü",
+        "published": "2026-09-18T23:38:19+03:00"
+      },
+      {
+        "title": "Görevden geçici olarak uzaklaştırılan Cumhuriyet Savcısı Uçuk hakkında gözaltı talimatı verildi",
+        "link": "https://www.ntv.com.tr/turkiye/gorevden-gecici-olarak-uzaklastirilan-cumhuriyet-savcisi-ucuk-hakkinda-gozalti-talimati-verildi-1742464",
+        "description": "Hakimler ve Savcılar Kurulu'nun (HSK) küfürlü ifadeleri nedeniyle görevden uzaklaştırdığı Cumhuriyet Savcısı Türkşad Kunthan Uçuk hakkında gözaltı kararı verildi.",
+        "source": "NTV",
+        "published": "2026-09-18T23:32:26+03:00"
+      },
+      {
+        "title": "İlaç kutularında milyonları ilgilendiren değişiklik: Kutuyu açtığınızda şaşırmayın",
+        "link": "https://www.sozcu.com.tr/ilac-kutularinda-milyonlari-ilgilendiren-degisiklik-kutuyu-actiginizda-sasirmayin-p359562",
+        "description": "İlaç kutularında milyonları ilgilendiren değişiklik: Kutuyu açtığınızda şaşırmayın",
+        "source": "Sözcü",
+        "published": "2026-09-18T23:22:27+03:00"
+      },
+      {
+        "title": "AKP'ye geçen Özarslan'dan tartışma yaratan ihbar hattı: Gerici uygulamaya suç duyurusu",
+        "link": "https://www.sozcu.com.tr/kecioren-belediyesi-nin-ihbar-hattina-suc-duyurusu-p359560",
+        "description": "AKP'ye geçen Özarslan'dan tartışma yaratan ihbar hattı: Gerici uygulamaya suç duyurusu",
+        "source": "Sözcü",
+        "published": "2026-09-18T22:58:26+03:00"
+      },
+      {
+        "title": "19 seçim kaybeden adam yaşamını yitirdi",
+        "link": "https://www.sozcu.com.tr/19-secim-kaybeden-adam-hayatini-kaybetti-p359561",
+        "description": "19 seçim kaybeden adam yaşamını yitirdi",
+        "source": "Sözcü",
+        "published": "2026-09-18T22:31:48+03:00"
+      },
+      {
+        "title": "AFAD duyurdu: Kuşadası Körfezi'nde 3,8 büyüklüğünde deprem",
+        "link": "https://www.sozcu.com.tr/ege-denizi-aydin-aciklari-deprem-18-eylul-2026-p359558",
+        "description": "AFAD duyurdu: Kuşadası Körfezi'nde 3,8 büyüklüğünde deprem",
+        "source": "Sözcü",
+        "published": "2026-09-18T22:06:37+03:00"
+      },
+      {
+        "title": "Girne’deki gemi kazasında WhatsApp yazışmaları ortaya çıktı: Yolcuları bile bile ölüme göndermişler",
+        "link": "https://www.sozcu.com.tr/girne-deki-gemi-kazasinda-whatsapp-yazismalari-ortaya-cikti-yolculari-bile-bile-olume-gondermisler-p359557",
+        "description": "Girne’deki gemi kazasında WhatsApp yazışmaları ortaya çıktı: Yolcuları bile bile ölüme göndermişler",
+        "source": "Sözcü",
+        "published": "2026-09-18T21:59:20+03:00"
       },
       {
         "title": "Son dakika Aydın'da deprem mi oldu? Az önce deprem Aydın'da nerede oldu? Aydın deprem Kandilli ve AFAD son depremler listesi 18 Eylül 2026",
@@ -602,39 +672,11 @@
         "published": "2026-09-18T21:30:00+03:00"
       },
       {
-        "title": "HSK, argo açıklamalar yapan Cumhuriyet Savcısı Uçuk'u geçici olarak görevden uzaklaştırdı",
-        "link": "https://www.ntv.com.tr/turkiye/hsk-cumhuriyet-savcisi-ucuku-gecici-olarak-gorevden-uzaklastirdi-1742464",
-        "description": "Hakimler ve Savcılar Kurulu (HSK) İkinci Dairesi, argo açıklamalar yapan Cumhuriyet Savcısı Türkşad Kunthan Uçuk'un 3 ay süreyle geçici olarak görevden uzaklaştırılmasına karar verdi.",
-        "source": "NTV",
-        "published": "2026-09-18T21:25:13+03:00"
-      },
-      {
         "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 18 Eylül 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
         "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1742468",
         "description": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz....",
         "source": "NTV",
         "published": "2026-09-18T21:25:05+03:00"
-      },
-      {
-        "title": "Montella'nın kadroya almadığı isim ülkesinin en iyisi seçildi! Fransa'da Berke Özer rüzgarı",
-        "link": "https://www.sozcu.com.tr/montella-nin-kadroya-almadigi-isim-ulkesinin-en-iyisi-secildi-fransa-da-berke-ozer-ruzgari-p359544",
-        "description": "Montella'nın kadroya almadığı isim ülkesinin en iyisi seçildi! Fransa'da Berke Özer rüzgarı",
-        "source": "Sözcü",
-        "published": "2026-09-18T21:21:15+03:00"
-      },
-      {
-        "title": "Tera ve Hedef Holding'de iki yönetici istifa etti",
-        "link": "https://www.sozcu.com.tr/tera-ve-hedef-holdingde-istifa-dalgasi-p359541",
-        "description": "Tera ve Hedef Holding'de iki yönetici istifa etti",
-        "source": "Sözcü",
-        "published": "2026-09-18T20:41:09+03:00"
-      },
-      {
-        "title": "KKTC'de 52 yıl sonra şehit töreni: 37 şehitten 15’inin kimlik tespit işlemleri bitti",
-        "link": "https://www.ntv.com.tr/turkiye/kktcde-52-yil-sonra-sehit-toreni-37-sehitten-15inin-kimlik-tespit-islemleri-bitti-1742458",
-        "description": "KKTC’de 1974’te yaşanan saldırılarda hayatını kaybeden ve Kayıp Şahıslar Komitesi’nin çalışmaları sonucu kimlikleri tespit edilen 15 Kıbrıslı Türk şehit, 52 yıl sonra devlet töreniyle toprağa verildi.",
-        "source": "NTV",
-        "published": "2026-09-18T20:36:28+03:00"
       },
       {
         "title": "KKTC'de 52 yıl sonra şehit töreni: 126 şehit anısına müze yapıldı",
@@ -644,32 +686,11 @@
         "published": "2026-09-18T20:35:42+03:00"
       },
       {
-        "title": "İstanbul trafiğinde skandal anlar: Ambulansa dakikalarca yol vermedi",
-        "link": "https://www.sozcu.com.tr/istanbul-trafiginde-skandal-anlar-ambulansa-dakikalarca-yol-vermedi-p359543",
-        "description": "İstanbul trafiğinde skandal anlar: Ambulansa dakikalarca yol vermedi",
-        "source": "Sözcü",
-        "published": "2026-09-18T20:31:39+03:00"
-      },
-      {
-        "title": "Yunanistan’ın çıkarma tatbikatı fiyaskoya dönüştü: Bazı askerler botlardan atlayamadı, bir askerin üzerinden bot geçti",
-        "link": "https://www.sozcu.com.tr/yunanistan-in-cikarma-tatbikati-fiyaskoya-donustu-bazi-askerler-botlardan-atlayamadi-bir-askerin-p359542",
-        "description": "Yunanistan’ın çıkarma tatbikatı fiyaskoya dönüştü: Bazı askerler botlardan atlayamadı, bir askerin üzerinden bot geçti",
-        "source": "Sözcü",
-        "published": "2026-09-18T20:29:24+03:00"
-      },
-      {
-        "title": "Türkiye'nin rakibi Fransa'nın kadrosu açıklandı! Zidane'dan şaşırtan Kante tercihi",
-        "link": "https://www.sozcu.com.tr/turkiye-nin-rakibi-fransa-nin-kadrosu-aciklandi-zidane-dan-sasirtan-kante-tercihi-p359540",
-        "description": "Türkiye'nin rakibi Fransa'nın kadrosu açıklandı! Zidane'dan şaşırtan Kante tercihi",
-        "source": "Sözcü",
-        "published": "2026-09-18T20:12:46+03:00"
-      },
-      {
-        "title": "Beren Saat'ten Gülsen Tuncer'e acı veda",
-        "link": "https://www.sozcu.com.tr/beren-saat-ten-gulsen-tuncer-e-aci-veda-p359539",
-        "description": "Beren Saat'ten Gülsen Tuncer'e acı veda",
-        "source": "Sözcü",
-        "published": "2026-09-18T20:01:26+03:00"
+        "title": "Macron: Rusya'nın Avrupa'ya yönelik hibrit saldırıları yoğunlaşıyor",
+        "link": "https://www.bbc.com/turkce/articles/c5j9x4jndyx9o?at_medium=RSS&at_campaign=rss",
+        "description": "Fransa Cumhurbaşkanı, hükümete kritik altyapı ve savunma sanayi tesislerini koruma görevi verdiğini söyledi",
+        "source": "BBC Turkish",
+        "published": "2026-09-18T20:15:50+00:00"
       },
       {
         "title": "Otomobille iki köpeğin üzerinden geçti, yoluna devam etti",
@@ -691,20 +712,6 @@
         "description": "Ticaret Bakanlığı, fındık piyasasındaki işlemlerin ve piyasa koşullarının incelenmesi amacıyla Ordu ve Giresun'daki ticaret borsalarında kapsamlı denetim süreci başlattı.",
         "source": "NTV",
         "published": "2026-09-18T19:18:09+03:00"
-      },
-      {
-        "title": "Öğretmenlerin mazerete bağlı yer değişikliğiyle ilgili ikinci atama sonuçları açıklandı",
-        "link": "https://www.ntv.com.tr/turkiye/ogretmenlerin-mazerete-bagli-yer-degisikligiyle-ilgili-ikinci-atama-sonuclari-aciklandi-1742457",
-        "description": "Milli Eğitim Bakanlığı (MEB), öğretmenlerin mazerete bağlı yer değişikliğiyle ilgili ikinci atama sonuçlarını açıkladı.",
-        "source": "NTV",
-        "published": "2026-09-18T18:49:21+03:00"
-      },
-      {
-        "title": "İstanbul Havalimanı Avrupa’nın en yoğun havalimanı oldu",
-        "link": "https://www.ntv.com.tr/turkiye/istanbul-havalimani-avrupanin-en-yogun-havalimani-oldu-1742456",
-        "description": "İstanbul Havalimanı, Amsterdam Schiphol ve Paris Charles De Gaulle havalimanlarını geride bırakarak Avrupa’nın en yoğun havalimanı oldu.",
-        "source": "NTV",
-        "published": "2026-09-18T18:36:50+03:00"
       },
       {
         "title": "Berlin'de seçim: Türkiye kökenli sosyalist Elif Eralp, Berlin'in Mamdani'si mi olacak?",
@@ -756,13 +763,6 @@
         "published": "2026-09-18T08:06:42+00:00"
       },
       {
-        "title": "Kaşif Kozinoğlu soruşturmasında gözaltına alınan Hasan Atilla Uğur kimdir?",
-        "link": "https://www.bbc.com/turkce/articles/cr780xjyn53vo?at_medium=RSS&at_campaign=rss",
-        "description": "Eski MİT mensubu Kaşif Kozinoğlu'nun 2011'de Silivri Cezaevi'nde ölümüne ilişkin yeniden açılan soruşturmada, eski koğuş arkadaşı emekli Albay Hasan Atilla Uğur gözaltına alındı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-18T07:47:35+00:00"
-      },
-      {
         "title": "Bakan Gürlek: Borsa soruşturmasında dört kişi tutuklandı",
         "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
         "description": "Adalet Bakanı Akın Gürlek, fon ve hisse piyasasında gerçekleştirilen manipülatif işlemlere yönelik yürütülen soruşturma kapsamında, fon yönetim kurulu başkan ve üyelerinin de aralarında bulunduğu dört kişinin tutuklandığını duyurdu.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8706
   },
   "weather": {
-    "condition": "Hafif sağanak yağmur",
-    "temp": "+71°F",
-    "wind": "↖15mph",
-    "humidity": "86%"
+    "condition": "Güneşli",
+    "temp": "+79°F",
+    "wind": "↓7mph",
+    "humidity": "29%"
   }
 }
