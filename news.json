@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-09-19T20:54:27.114161+00:00",
+  "updated_at": "2026-09-19T22:41:45.633727+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Mayday Mysteries",
+        "link": "http://www.maydaymystery.org/mayday/",
+        "description": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 10 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-09-19T21:43:09+00:00"
+      },
+      {
+        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+        "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+        "description": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 22 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-09-19T21:30:59+00:00"
+      },
+      {
+        "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+        "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+        "description": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-09-19T21:25:29+00:00"
+      },
+      {
+        "title": "English: A vs. An",
+        "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+        "description": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 53 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-09-19T20:41:26+00:00"
+      },
       {
         "title": "Flock reportedly tries to shrink workforce with employee buyouts",
         "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
@@ -12,12 +40,12 @@
       {
         "title": "Measure internet censorship. Contribute to the largest open dataset",
         "link": "https://ooni.org/install",
-        "description": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 9 # Comments: 4",
+        "description": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 51 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-09-19T20:00:59+00:00"
       },
       {
-        "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
         "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
         "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
         "source": "TechCrunch",
@@ -26,7 +54,7 @@
       {
         "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
         "link": "https://eprint.iacr.org/2026/2039",
-        "description": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 12 # Comments: 1",
+        "description": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 42 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-09-19T19:23:23+00:00"
       },
@@ -38,11 +66,11 @@
         "published": "2026-09-19T19:00:20+00:00"
       },
       {
-        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-        "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-        "description": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/ Comments URL: https://news.ycombinator.com/item?id=49768833 Points: 64 # Comments: 48",
+        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "description": "Article URL:...",
         "source": "HackerNews",
-        "published": "2026-09-19T18:11:40+00:00"
+        "published": "2026-09-19T18:21:30+00:00"
       },
       {
         "title": "Gmail Güncellendi: Doğrulama Kodlarını Kopyalamak Kolaylaşıyor",
@@ -87,9 +115,16 @@
         "published": "2026-09-19T17:00:00+00:00"
       },
       {
-        "title": "Almost Never Use AI to Write Anything Substantive",
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe...",
+        "source": "The Verge",
+        "published": "2026-09-19T16:44:40-04:00"
+      },
+      {
+        "title": "I think you should almost never use AI to write",
         "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "description": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 122 # Comments: 74",
+        "description": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 172 # Comments: 96",
         "source": "HackerNews",
         "published": "2026-09-19T16:35:24+00:00"
       },
@@ -157,13 +192,6 @@
         "published": "2026-09-19T15:00:00+00:00"
       },
       {
-        "title": "Brood War Bench",
-        "link": "https://bw.swerdlow.dev/report",
-        "description": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 41 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-09-19T14:44:02+00:00"
-      },
-      {
         "title": "Nvidia’dan Devasa Büyüme Hedefi: Satışlar İkiye Katlanacak",
         "link": "https://shiftdelete.net/nvidia-cip-satislari-hedefi",
         "description": "Nvidia CEO'su Jensen Huang, yapay zekanın etkisiyle Nvidia çip satışları rakamlarının gelecek yıl iki katına çıkmasını beklediklerini duyurdu.",
@@ -176,20 +204,6 @@
         "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
         "source": "TechCrunch",
         "published": "2026-09-19T14:00:00+00:00"
-      },
-      {
-        "title": "What Zig felt like, coming from Rust",
-        "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "description": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 155 # Comments: 181",
-        "source": "HackerNews",
-        "published": "2026-09-19T13:55:18+00:00"
-      },
-      {
-        "title": "Tin: full-text search for Postgres",
-        "link": "https://planetscale.com/blog/introducing-tin",
-        "description": "Article URL: https://planetscale.com/blog/introducing-tin Comments URL: https://news.ycombinator.com/item?id=49766611 Points: 147 # Comments: 64",
-        "source": "HackerNews",
-        "published": "2026-09-19T13:52:06+00:00"
       },
       {
         "title": "Trump treads further on free speech with new journalist bans",
@@ -218,13 +232,6 @@
         "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by...",
         "source": "The Verge",
         "published": "2026-09-19T11:25:03-04:00"
-      },
-      {
-        "title": "I built non-autoregressive decision models with RL a year ago",
-        "link": "https://laya.convaiinnovations.com/",
-        "description": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 888 # Comments: 216",
-        "source": "HackerNews",
-        "published": "2026-09-19T10:46:58+00:00"
       },
       {
         "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -339,13 +346,6 @@
         "published": "2026-09-18T15:09:19-04:00"
       },
       {
-        "title": "Disney’s first CTO is Character.AI’s former CEO",
-        "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-        "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is...",
-        "source": "The Verge",
-        "published": "2026-09-18T14:54:39-04:00"
-      },
-      {
         "title": "The colorful, unique Hyte X50 PC case is $50 off",
         "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
         "description": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way...",
@@ -355,9 +355,16 @@
     ],
     "dunya": [
       {
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "source": "BBC News",
+        "published": "2026-09-19T21:27:06+00:00"
+      },
+      {
         "title": "Houthis say they targeted Saudi capital with ballistic missiles",
         "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
         "source": "BBC News",
         "published": "2026-09-19T20:16:07+00:00"
       },
@@ -402,13 +409,6 @@
         "description": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
         "source": "NPR",
         "published": "2026-09-19T11:26:31-04:00"
-      },
-      {
-        "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
-        "link": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss",
-        "description": "The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing.",
-        "source": "BBC News",
-        "published": "2026-09-19T10:52:33+00:00"
       },
       {
         "title": "Bitter row over Diana book brings back unhappy times for royals",
@@ -567,6 +567,69 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-eylul-2026-1742628",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-09-20T01:30:00+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan bugün ABD'ye gidecek",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bugun-abdye-gidecek-1742615",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu genel görüşmelerine katılmak üzere 20-23 Eylül tarihlerinde ABD'yi ziyaret edecek.",
+        "source": "NTV",
+        "published": "2026-09-20T00:55:51+03:00"
+      },
+      {
+        "title": "Bakan Fidan'dan NTV'ye önemli açıklamalar. \"Arabistan'a saldırıları yakından takip ediyoruz\"",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-ntvye-onemli-aciklamalar-arabistana-saldirilari-yakindan-takip-ediyoruz-1742605",
+        "description": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan'da Husilerle yaşanan çatışmalarda Mekke İttifakı olarak askeri ihtiyaçlara yanıt verilebileceğini söyledi.",
+        "source": "NTV",
+        "published": "2026-09-20T00:54:52+03:00"
+      },
+      {
+        "title": "Yunanistan depremleri İstanbul için tehdit mi? Prof. Dr. Osman Bektaş açıkladı",
+        "link": "https://www.sozcu.com.tr/yunanistan-depremleri-istanbul-icin-tehdit-mi-prof-dr-osman-bektas-acikladi-p359788",
+        "description": "Yunanistan depremleri İstanbul için tehdit mi? Prof. Dr. Osman Bektaş açıkladı",
+        "source": "Sözcü",
+        "published": "2026-09-20T00:50:35+03:00"
+      },
+      {
+        "title": "Fenerbahçe teknik direktörü İsmail Kartal'dan taraftara çağrı",
+        "link": "https://www.sozcu.com.tr/fenerbahce-teknik-direktoru-ismail-kartal-dan-taraftara-cagri-p359785",
+        "description": "Fenerbahçe teknik direktörü İsmail Kartal'dan taraftara çağrı",
+        "source": "Sözcü",
+        "published": "2026-09-20T00:36:13+03:00"
+      },
+      {
+        "title": "Enver Altaylı, Kozinoğlu soruşturmasında ifade verecek",
+        "link": "https://www.sozcu.com.tr/enver-altayli-kozinoglu-sorusturmasinda-ifade-verecek-p359780",
+        "description": "Enver Altaylı, Kozinoğlu soruşturmasında ifade verecek",
+        "source": "Sözcü",
+        "published": "2026-09-20T00:33:24+03:00"
+      },
+      {
+        "title": "İrfan Saraloğlu: Bunun üstesinden geleceğiz",
+        "link": "https://www.sozcu.com.tr/irfan-saraloglu-bunun-ustesinden-gelecegiz-p359783",
+        "description": "İrfan Saraloğlu: Bunun üstesinden geleceğiz",
+        "source": "Sözcü",
+        "published": "2026-09-20T00:30:43+03:00"
+      },
+      {
+        "title": "Thomas Reis galibiyeti yorumladı! İki isme özel parantez açtı",
+        "link": "https://www.sozcu.com.tr/thomas-reis-galibiyeti-yorumladi-iki-isme-ozel-parantez-acti-p359778",
+        "description": "Thomas Reis galibiyeti yorumladı! İki isme özel parantez açtı",
+        "source": "Sözcü",
+        "published": "2026-09-20T00:18:20+03:00"
+      },
+      {
+        "title": "Büyükçekmece'de toprak kayması. Göçük altında kalan 2 işçiden biri kurtarıldı",
+        "link": "https://www.ntv.com.tr/turkiye/buyukcekmecede-toprak-kaymasi-gocuk-altinda-kalan-2-isciden-biri-kurtarildi-1742610",
+        "description": "Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden biri yaralı olarak kurtarıldı. Diğer işçiyi kurtarma çalışmaları sürerken, 3 kişi gözaltına alındı.",
+        "source": "NTV",
+        "published": "2026-09-20T00:12:16+03:00"
+      },
+      {
         "title": "İYİ Parti İzmir İl Gençlik Kolları Başkanı Boyacıoğlu'na saldırı",
         "link": "https://www.sozcu.com.tr/iyi-parti-izmir-il-genclik-kollari-baskani-boyacioglu-na-saldiri-p359773",
         "description": "İYİ Parti İzmir İl Gençlik Kolları Başkanı Boyacıoğlu'na saldırı",
@@ -574,25 +637,11 @@
         "published": "2026-09-19T23:50:11+03:00"
       },
       {
-        "title": "Büyükçekmece'de toprak kayması. Göçük altında kalan 2 işçiden biri kurtarıldı",
-        "link": "https://www.ntv.com.tr/turkiye/buyukcekmecede-toprak-kaymasi-gocuk-altinda-kalan-2-isciden-biri-kurtarildi-1742610",
-        "description": "Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden biri yaralı olarak kurtarıldı. diğer işçiyi kurtarma çalışmaları sürerken, 3 kişi gözaltına alındı.",
-        "source": "NTV",
-        "published": "2026-09-19T23:48:49+03:00"
-      },
-      {
         "title": "İran, savaşı bitirecek 7 şartını ABD’ye sundu",
         "link": "https://www.sozcu.com.tr/iran-savasi-bitirecek-7-sartini-abd-ye-sundu-p359772",
         "description": "İran, savaşı bitirecek 7 şartını ABD’ye sundu",
         "source": "Sözcü",
         "published": "2026-09-19T23:21:07+03:00"
-      },
-      {
-        "title": "Erdoğan’dan ABD’ye ziyaret kararı",
-        "link": "https://www.sozcu.com.tr/erdogan-dan-abd-ye-ziyaret-karari-p359767",
-        "description": "Erdoğan’dan ABD’ye ziyaret kararı",
-        "source": "Sözcü",
-        "published": "2026-09-19T23:11:23+03:00"
       },
       {
         "title": "Ertuğrul Doğan tarihi farkın ardından ateş püskürdü: 'Niye görmezden geliyorsun'",
@@ -609,13 +658,6 @@
         "published": "2026-09-19T23:05:08+03:00"
       },
       {
-        "title": "Başakşehir kara bulutları 4 golle dağıttı",
-        "link": "https://www.sozcu.com.tr/basaksehir-kara-bulutlari-4-golle-dagitti-p359763",
-        "description": "Başakşehir kara bulutları 4 golle dağıttı",
-        "source": "Sözcü",
-        "published": "2026-09-19T23:01:17+03:00"
-      },
-      {
         "title": "Galatasaray’ın makyajı Trabzon’da aktı",
         "link": "https://www.sozcu.com.tr/galatasaray-in-makyaji-trabzon-da-akti-p359769",
         "description": "Galatasaray’ın makyajı Trabzon’da aktı",
@@ -623,46 +665,11 @@
         "published": "2026-09-19T22:52:41+03:00"
       },
       {
-        "title": "Okan Buruk'tan kırmızı kart açıklaması",
-        "link": "https://www.sozcu.com.tr/okan-buruktan-kirmizi-kart-aciklamasi-p359768",
-        "description": "Okan Buruk'tan kırmızı kart açıklaması",
-        "source": "Sözcü",
-        "published": "2026-09-19T22:51:48+03:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan yarın ABD'ye gidecek",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-yarin-abdye-gidecek-1742615",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu genel görüşmelerine katılmak üzere 20-23 Eylül tarihlerinde ABD'yi ziyaret edecek.",
-        "source": "NTV",
-        "published": "2026-09-19T22:41:46+03:00"
-      },
-      {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1742614",
         "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
         "source": "NTV",
         "published": "2026-09-19T22:40:29+03:00"
-      },
-      {
-        "title": "İstanbul’da kadınların görüntülerini gizlice çekip paylaşan Pakistanlı yakalandı",
-        "link": "https://www.sozcu.com.tr/istanbul-da-kadinlarin-goruntulerini-gizlice-cekip-paylasan-pakistanli-yakalandi-p359765",
-        "description": "İstanbul’da kadınların görüntülerini gizlice çekip paylaşan Pakistanlı yakalandı",
-        "source": "Sözcü",
-        "published": "2026-09-19T22:29:55+03:00"
-      },
-      {
-        "title": "EuroLeague Süper Kupa'da şampiyon Real Madrid",
-        "link": "https://www.sozcu.com.tr/euroleague-super-kupa-da-sampiyon-real-madrid-p359764",
-        "description": "EuroLeague Süper Kupa'da şampiyon Real Madrid",
-        "source": "Sözcü",
-        "published": "2026-09-19T22:25:06+03:00"
-      },
-      {
-        "title": "Bakan Fidan'dan NTV'ye önemli açıklamalar. \"Arabistan'a saldırıları yakından takip ediyoruz\"",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-ntvye-onemli-aciklamalar-arabistana-saldirilari-yakindan-takip-ediyoruz-1742605",
-        "description": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan'da Husilerle yaşanan çatışmalarda Mekke İttifakı olarak askeri ihtiyaçlara yanıt verilebileceğini söyledi.",
-        "source": "NTV",
-        "published": "2026-09-19T22:22:55+03:00"
       },
       {
         "title": "Kozinoğlu soruşturmasında 4 gözaltı daha. Hasan Atilla Uğur'un ifadesi ortaya çıktı",
@@ -677,13 +684,6 @@
         "description": "İstanbul’da masaj salonları ve fuhuş yapıldığı değerlendirilen mekanlara düzenlenen operasyonda, 31 şüpheli yakalandı.",
         "source": "NTV",
         "published": "2026-09-19T19:22:28+03:00"
-      },
-      {
-        "title": "Fon soruşturması: Pusula ve Tera yöneticilerine gözaltı",
-        "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-pusula-ve-tera-yoneticilerine-gozalti-1742581",
-        "description": "Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan ile Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen ve yöneticileri Alper Öztürk, Emre Alkin ve Kerem Alkin gözaltına alındı.",
-        "source": "NTV",
-        "published": "2026-09-19T18:20:10+03:00"
       },
       {
         "title": "Fatih'te iki kişinin öldüğü çatışmaya ilişkin 6 tutuklama",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8713
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+67°F",
-    "wind": "↖8mph",
-    "humidity": "94%"
+    "condition": "Güneşli",
+    "temp": "+73°F",
+    "wind": "↖5mph",
+    "humidity": "59%"
   }
 }
