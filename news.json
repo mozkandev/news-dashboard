@@ -1,20 +1,62 @@
 {
-  "updated_at": "2026-09-19T01:30:03.249999+00:00",
+  "updated_at": "2026-09-19T06:30:47.816373+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Meta’nın Muse Uygulaması ChatGPT’yi Tahtından Etti",
+        "link": "https://shiftdelete.net/meta-muse-uygulamasi-chatgpt-geride-birakti",
+        "description": "Meta'nın yeni yapay zeka aracı Meta Muse uygulaması, ABD App Store listelerinde ChatGPT'yi geçerek en çok indirilen ücretsiz iPhone uygulaması oldu.",
+        "source": "ShiftDelete",
+        "published": "2026-09-19T06:00:13+00:00"
+      },
+      {
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "description": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 16 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-09-19T05:48:50+00:00"
+      },
+      {
+        "title": "MOBİSAD’dan Uyarı: Yerli Telefon Üreticileri Kepenk Kapatıyor",
+        "link": "https://shiftdelete.net/yerli-cep-telefonu-uretimi-daraliyor",
+        "description": "Yerli cep telefonu üretimi, pazar payındaki düşüş ve firma kapanışlarıyla gündemde. MOBİSAD Başkanı Turnacı, üretim için yeni düzenlemeler bekliyor.",
+        "source": "ShiftDelete",
+        "published": "2026-09-19T05:00:53+00:00"
+      },
+      {
+        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+        "description": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 10 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-19T04:44:35+00:00"
+      },
+      {
+        "title": "San Francisco Onion Futures Company",
+        "link": "https://onionfutures.com/",
+        "description": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 120 # Comments: 41",
+        "source": "HackerNews",
+        "published": "2026-09-19T04:23:30+00:00"
+      },
+      {
+        "title": "SDCC – Small Device C Compiler",
+        "link": "https://sdcc.sourceforge.net/",
+        "description": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 51 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-09-19T02:32:36+00:00"
+      },
+      {
+        "title": "Science Is Open Software",
+        "link": "https://jepedersen.dk/blog/202505_research/",
+        "description": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 54 # Comments: 25",
+        "source": "HackerNews",
+        "published": "2026-09-19T02:21:35+00:00"
+      },
       {
         "title": "India forces caller-ID apps to feed spam reports to telcos",
         "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
         "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
         "source": "TechCrunch",
         "published": "2026-09-19T01:00:00+00:00"
-      },
-      {
-        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-        "link": "https://liveworld.info/",
-        "description": "Article URL: https://liveworld.info/ Comments URL: https://news.ycombinator.com/item?id=49762099 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-09-19T00:30:34+00:00"
       },
       {
         "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
@@ -26,12 +68,12 @@
       {
         "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
         "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-        "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 14 # Comments: 0",
+        "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 99 # Comments: 11",
         "source": "HackerNews",
         "published": "2026-09-18T23:54:42+00:00"
       },
       {
-        "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
         "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
         "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
         "source": "TechCrunch",
@@ -54,7 +96,7 @@
       {
         "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
         "link": "https://spectrum.ieee.org/llms-for-chip-design",
-        "description": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 48 # Comments: 47",
+        "description": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 102 # Comments: 75",
         "source": "HackerNews",
         "published": "2026-09-18T23:04:17+00:00"
       },
@@ -68,7 +110,7 @@
       {
         "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "link": "https://code.claude.com/docs/en/changelog",
-        "description": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 502 # Comments: 181",
+        "description": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 611 # Comments: 218",
         "source": "HackerNews",
         "published": "2026-09-18T21:00:32+00:00"
       },
@@ -103,7 +145,7 @@
       {
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 508 # Comments: 246",
+        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 733 # Comments: 359",
         "source": "HackerNews",
         "published": "2026-09-18T19:03:09+00:00"
       },
@@ -122,25 +164,11 @@
         "published": "2026-09-18T19:00:16+03:00"
       },
       {
-        "title": "The Implications of Linguistic Illegibility for LLM Security",
-        "link": "https://arxiv.org/abs/2609.02852",
-        "description": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 51 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-09-18T19:00:06+00:00"
-      },
-      {
         "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
         "link": "https://arxiv.org/abs/2510.03215",
-        "description": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 66 # Comments: 12",
+        "description": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 79 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-09-18T18:55:35+00:00"
-      },
-      {
-        "title": "Saving another 100TB of RAM",
-        "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "description": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 220 # Comments: 42",
-        "source": "HackerNews",
-        "published": "2026-09-18T18:51:46+00:00"
       },
       {
         "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -148,13 +176,6 @@
         "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
         "source": "TechCrunch",
         "published": "2026-09-18T18:49:30+00:00"
-      },
-      {
-        "title": "Xcode 27.1 Beta Release Notes",
-        "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-        "description": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 111 # Comments: 67",
-        "source": "HackerNews",
-        "published": "2026-09-18T18:39:31+00:00"
       },
       {
         "title": "McLaren'dan Dev Yatırım: Markanın İlk Hibrit SUV Modeli 2028'de Yollara Çıkıyor!",
@@ -234,13 +255,6 @@
         "published": "2026-09-18T17:00:21+03:00"
       },
       {
-        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-        "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-        "description": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 151 # Comments: 53",
-        "source": "HackerNews",
-        "published": "2026-09-18T16:54:18+00:00"
-      },
-      {
         "title": "Yeni Toyota Land Cruiser 300 Tanıtıldı: 457 Beygirlik Hibrit Motor",
         "link": "https://shiftdelete.net/toyota-land-cruiser-300-hibrit-tanitildi",
         "description": "Toyota Land Cruiser 300 hibrit modeli, 457 beygirlik gücüyle serinin en güçlü versiyonu olarak Japonya'da satışa çıkıyor.",
@@ -318,20 +332,6 @@
         "published": "2026-09-18T12:30:09+00:00"
       },
       {
-        "title": "Steam’de Hafta Sonu Popüler Oyunlar Ücretsiz Oldu",
-        "link": "https://shiftdelete.net/steamde-hafta-sonu-populer-oyunlar-ucretsiz-oldu",
-        "description": "Steam, oyuncuların yüzünü güldürecek yeni bir hafta sonu etkinliği başlattı. Aralarında Blizzard’ın popüler aksiyon rol yapma oyunu Diablo 4 ve sevilen korsancılık macerası Sea of Thieves’in de yer aldığı 4 farklı yapım, 21 Eylül tarihine kadar...",
-        "source": "ShiftDelete",
-        "published": "2026-09-18T12:08:18+00:00"
-      },
-      {
-        "title": "WhatsApp’a Yeni Sohbet Temaları Geliyor",
-        "link": "https://shiftdelete.net/whatsappa-yeni-sohbet-temalari-geliyor",
-        "description": "WhatsApp, Android beta sürümüyle yeni sohbet temaları ve duvar kağıdı kategorilerini kullanıma sunuyor. İşte kişiselleştirme özelliklerine dair tüm detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-09-18T12:00:05+00:00"
-      },
-      {
         "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
         "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
         "description": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't...",
@@ -359,7 +359,35 @@
         "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
         "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
         "source": "BBC News",
-        "published": "2026-09-18T23:26:48+00:00"
+        "published": "2026-09-19T05:36:36+00:00"
+      },
+      {
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+        "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+        "source": "BBC News",
+        "published": "2026-09-19T04:27:11+00:00"
+      },
+      {
+        "title": "Parents could lose benefits or face prison for child's crimes, minister says",
+        "link": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
+        "description": "The reforms to Parenting Orders could also see parents losing benefits, Jake Richards MP told the Times.",
+        "source": "BBC News",
+        "published": "2026-09-19T03:22:26+00:00"
+      },
+      {
+        "title": "As Europe warms, Italy sees West Nile virus spread",
+        "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
+        "description": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year.",
+        "source": "NPR",
+        "published": "2026-09-19T01:13:18-04:00"
+      },
+      {
+        "title": "US and Denmark reach deal to build US military presence in Greenland",
+        "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+        "description": "President Donald Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
+        "source": "NPR",
+        "published": "2026-09-19T00:44:46-04:00"
       },
       {
         "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
@@ -385,7 +413,7 @@
       {
         "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
         "source": "BBC News",
         "published": "2026-09-18T22:58:55+00:00"
       },
@@ -460,25 +488,11 @@
         "published": "2026-09-18T15:13:52-04:00"
       },
       {
-        "title": "Teen who piloted Channel boat with 165 migrants jailed",
-        "link": "https://www.bbc.co.uk/news/articles/ck05rv764l0eo?at_medium=RSS&at_campaign=rss",
-        "description": "Chan Mathok Atak has been sentenced to two years and three months in prison after piloting the boat.",
-        "source": "BBC News",
-        "published": "2026-09-18T13:59:44+00:00"
-      },
-      {
         "title": "What expensive sulfur means for your dinner table",
         "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
         "description": "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood",
         "source": "NPR",
         "published": "2026-09-18T12:40:58-04:00"
-      },
-      {
-        "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
-        "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
-        "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
-        "source": "BBC News",
-        "published": "2026-09-18T12:30:16+00:00"
       },
       {
         "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
@@ -523,20 +537,6 @@
         "published": "2026-09-18T07:00:00-04:00"
       },
       {
-        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-        "description": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years. His son, Howard, will become Berkshire Hathaway's new chairman",
-        "source": "NPR",
-        "published": "2026-09-18T06:58:49-04:00"
-      },
-      {
-        "title": "South Africa 'feels like a prison' for women amid spate of femicides",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-        "description": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
-        "source": "NPR",
-        "published": "2026-09-18T06:39:14-04:00"
-      },
-      {
         "title": "New cat species identified for first time in more than a century in Bolivia",
         "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
         "description": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first...",
@@ -567,81 +567,116 @@
     ],
     "turkiye": [
       {
-        "title": "Kartal’ın teknik patronu, 103 günde Beşiktaş’ı enkazdan Avrupa’nın zirvesine çıkardı! Özel biri",
-        "link": "https://www.sozcu.com.tr/kartal-in-teknik-patronu-103-gunde-besiktas-i-enkazdan-avrupa-nin-zirvesine-cikardi-ozel-biri-p359571",
-        "description": "Kartal’ın teknik patronu, 103 günde Beşiktaş’ı enkazdan Avrupa’nın zirvesine çıkardı! Özel biri",
+        "title": "Baraja 96 milyon siyah top döktüler: Gizli felaketi son anda engellediler",
+        "link": "https://www.sozcu.com.tr/baraja-96-milyon-siyah-top-doktuler-gizli-felaketi-son-anda-engellediler-p359617",
+        "description": "Baraja 96 milyon siyah top döktüler: Gizli felaketi son anda engellediler",
         "source": "Sözcü",
-        "published": "2026-09-19T04:20:22+03:00"
+        "published": "2026-09-19T09:27:27+03:00"
       },
       {
-        "title": "Krizin içinden dikkat çekenler",
-        "link": "https://www.sozcu.com.tr/krizin-icinden-dikkat-cekenler-p359581",
-        "description": "Krizin içinden dikkat çekenler",
+        "title": "Rize'de sağanak bastırdı, otomobiller suya gömüldü",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-rizede-saganak-bastirdi-otomobiller-suya-gomuldu-1742496",
+        "description": "Rize’nin İyidere ve Pazar ilçelerinde şiddetli yağış nedeniyle Karadeniz Sahil Yolu suyla kaplandı. Trafik dururken çok sayıda araçta hasar oluştu.",
+        "source": "NTV",
+        "published": "2026-09-19T09:19:58+03:00"
+      },
+      {
+        "title": "Dev derbi öncesi OHAL ilan edildi! Herkes bu maçı bekliyor",
+        "link": "https://www.sozcu.com.tr/dev-derbi-oncesi-ohal-ilan-edildi-herkes-bu-maci-bekliyor-p359612",
+        "description": "Dev derbi öncesi OHAL ilan edildi! Herkes bu maçı bekliyor",
         "source": "Sözcü",
-        "published": "2026-09-19T04:00:21+03:00"
+        "published": "2026-09-19T09:12:55+03:00"
+      },
+      {
+        "title": "Alman otomotiv devi itiraf etti: Elimiz kolumuz bağlandı",
+        "link": "https://www.sozcu.com.tr/alman-otomotiv-devi-itiraf-etti-elimiz-kolumuz-baglandi-p359615",
+        "description": "Alman otomotiv devi itiraf etti: Elimiz kolumuz bağlandı",
+        "source": "Sözcü",
+        "published": "2026-09-19T09:12:50+03:00"
+      },
+      {
+        "title": "\"Hocaların hocası\" olarak bilinen Prof. Dr. Uğur Ersoy yaşamını yitirdi",
+        "link": "https://www.ntv.com.tr/turkiye/hocalarin-hocasi-olarak-bilinen-prof-dr-ugur-ersoy-yasamini-yitirdi-1742494",
+        "description": "İnşaat mühendisliği alanının önemli bilim insanlarından Prof. Dr. Uğur Ersoy, yaşamını yitirdi.",
+        "source": "NTV",
+        "published": "2026-09-19T09:07:00+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Eylül 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-eylul-2026-1742477",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-19T04:00:00+03:00"
+        "published": "2026-09-19T09:00:00+03:00"
       },
       {
-        "title": "Bu sürecin tek amacı ömür boyu başkanlık",
-        "link": "https://www.sozcu.com.tr/bu-surecin-tek-amaci-omur-boyu-baskanlik-p359578",
-        "description": "Bu sürecin tek amacı ömür boyu başkanlık",
-        "source": "Sözcü",
-        "published": "2026-09-19T03:30:21+03:00"
+        "title": "Emlak zenginini dana devirenle öldürdüler",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-emlak-zenginini-dana-devirenle-oldurduler-1742491",
+        "description": "Ankara'da emlak zengini Ramazan Arıkan'ın \"dana deviren\" olarak bilinen ksilazin ekten maddesi içeren bir ilaçla zehirlenerek öldürüldüğü belirlendi. (Haber: Engin Yağcı)",
+        "source": "NTV",
+        "published": "2026-09-19T08:52:31+03:00"
       },
       {
-        "title": "Eğitimden kıstılar!",
-        "link": "https://www.sozcu.com.tr/egitimden-kistilar-p359577",
-        "description": "Eğitimden kıstılar!",
+        "title": "Nesli tükenen 25 antilopla çölün ortasında imkansızı başardılar",
+        "link": "https://www.sozcu.com.tr/nesli-tukenen-25-antilopla-colun-ortasinda-imkansizi-basardilar-p359608",
+        "description": "Nesli tükenen 25 antilopla çölün ortasında imkansızı başardılar",
         "source": "Sözcü",
-        "published": "2026-09-19T03:00:21+03:00"
+        "published": "2026-09-19T08:52:21+03:00"
       },
       {
-        "title": "İran merkezli Bank Mellat'ın Türkiye'deki faaliyet izni kaldırıldı",
-        "link": "https://www.sozcu.com.tr/iran-merkezli-bank-mellatin-turkiyedeki-faaliyet-izni-kaldirildi-p359579",
-        "description": "İran merkezli Bank Mellat'ın Türkiye'deki faaliyet izni kaldırıldı",
+        "title": "Fon krizinde tehlike bitti mi? ABD'li banka kritik raporu yayınladı",
+        "link": "https://www.sozcu.com.tr/fon-krizinde-tehlike-bitti-mi-abd-li-banka-kritik-raporu-yayinladi-p359607",
+        "description": "Fon krizinde tehlike bitti mi? ABD'li banka kritik raporu yayınladı",
         "source": "Sözcü",
-        "published": "2026-09-19T02:39:44+03:00"
+        "published": "2026-09-19T08:51:34+03:00"
       },
       {
-        "title": "Vurgunu yapanlar ne olacak?",
-        "link": "https://www.sozcu.com.tr/vurgunu-yapanlar-ne-olacak-p359576",
-        "description": "Vurgunu yapanlar ne olacak?",
+        "title": "Tescilli güzel sessiz sedasız menajeriyle evlendi: Yüzükleri Çağatay Ulusoy takmıştı",
+        "link": "https://www.sozcu.com.tr/tescilli-guzel-sessiz-sedasiz-menajeriyle-evlendi-yuzukleri-cagatay-ulusoy-takmisti-p359601",
+        "description": "Tescilli güzel sessiz sedasız menajeriyle evlendi: Yüzükleri Çağatay Ulusoy takmıştı",
         "source": "Sözcü",
-        "published": "2026-09-19T02:30:21+03:00"
+        "published": "2026-09-19T08:44:47+03:00"
       },
       {
-        "title": "Eski futbolcu Hasan Şaş'ın ifadesi ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/hasan-sas-in-ifadesi-ortaya-cikti-p359575",
-        "description": "Eski futbolcu Hasan Şaş'ın ifadesi ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-09-19T01:28:38+03:00"
+        "title": "Meteoroloji yayınladı, tarih belli oldu. İstanbul'da hava sıcaklığı 14 dereceye düşecek",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-meteoroloji-yayinladi-tarih-belli-oldu-istanbulda-hava-14-dereceye-dusecek-1742489",
+        "description": "Hafta sonu sıcaklıklar artıyor ancak gelecek haftadan itibaren yaklaşık 6-7 derece düşüş yaşanacak. Çarşamba günü ise İstanbul'da gece hava sıcaklığı 14 dereceye kadar gerileyecek.",
+        "source": "NTV",
+        "published": "2026-09-19T08:41:58+03:00"
       },
       {
-        "title": "Londra derbisinde Chelsea dağıldı",
-        "link": "https://www.sozcu.com.tr/londra-derbisinde-chelsea-dagildi-p359574",
-        "description": "Londra derbisinde Chelsea dağıldı",
+        "title": "Yeşilçam’ın unutulmaz yüzüydü: Selvi Boylum Al Yazmalım’ın Cemşit’inin son hali",
+        "link": "https://www.sozcu.com.tr/yesilcam-in-unutulmaz-yuzuydu-selvi-boylum-al-yazmalim-in-cemsit-inin-son-hali-p359596",
+        "description": "Yeşilçam’ın unutulmaz yüzüydü: Selvi Boylum Al Yazmalım’ın Cemşit’inin son hali",
         "source": "Sözcü",
-        "published": "2026-09-19T00:57:12+03:00"
+        "published": "2026-09-19T08:34:43+03:00"
       },
       {
-        "title": "Trump: Grönland'ın güvenliği için Danimarka ile kalıcı anlaşmaya vardık",
-        "link": "https://www.sozcu.com.tr/donald-trump-gronland-aciklamasi-p359570",
-        "description": "Trump: Grönland'ın güvenliği için Danimarka ile kalıcı anlaşmaya vardık",
+        "title": "Kozinoğlu'nun ölümünde 14 dakikalık sır: Koğuşun görüntüleri ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/kozinoglu-nun-olumunde-14-dakikalik-sir-kogusun-goruntuleri-ortaya-cikti-p359597",
+        "description": "Kozinoğlu'nun ölümünde 14 dakikalık sır: Koğuşun görüntüleri ortaya çıktı",
         "source": "Sözcü",
-        "published": "2026-09-19T00:50:12+03:00"
+        "published": "2026-09-19T08:34:11+03:00"
       },
       {
-        "title": "Berat Albayrak aylar sonra Trabzon'da ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/berat-albayrak-trabzon-da-p359569",
-        "description": "Berat Albayrak aylar sonra Trabzon'da ortaya çıktı",
+        "title": "Türkiye’nin taraftar haritası belli oldu: İşte 81 şehrin gönül verdiği takımlar",
+        "link": "https://www.sozcu.com.tr/turkiye-nin-taraftar-haritasi-belli-oldu-iste-81-sehrin-gonul-verdigi-takimlar-p359599",
+        "description": "Türkiye’nin taraftar haritası belli oldu: İşte 81 şehrin gönül verdiği takımlar",
         "source": "Sözcü",
-        "published": "2026-09-19T00:14:10+03:00"
+        "published": "2026-09-19T08:31:10+03:00"
+      },
+      {
+        "title": "Altın haftayı kazançla kapattı: Petrol düşüşü baskıyı kırdı",
+        "link": "https://www.sozcu.com.tr/altin-haftayi-kazancla-kapatti-petrol-dususu-baskiyi-kirdi-p359595",
+        "description": "Altın haftayı kazançla kapattı: Petrol düşüşü baskıyı kırdı",
+        "source": "Sözcü",
+        "published": "2026-09-19T08:18:06+03:00"
+      },
+      {
+        "title": "Tır şoförleri sınırda birbirine girdi",
+        "link": "https://www.ntv.com.tr/turkiye/tir-soforleri-sinirda-birbirine-girdi-1742485",
+        "description": "Suriye'ye geçmek için Cilvegözü sınır kapısında bekleyen tır şoförleri arasında, maddi hasarlı trafik kazasının ardından kavga çıktı. 3 kişi yaralandı.",
+        "source": "NTV",
+        "published": "2026-09-19T05:29:15+03:00"
       },
       {
         "title": "Metrekareye 50 kilogram yağış düştü: Trabzon'da yollar göle döndü, ev ve iş yerlerini su bastı",
@@ -656,13 +691,6 @@
         "description": "Küçükçekmece'de kentsel dönüşüm kapsamında yıkımı yapılan binanın bir bölümünün çöktü. Bu sırada yoldan geçen 3 kişi yaralandı.",
         "source": "NTV",
         "published": "2026-09-18T23:53:44+03:00"
-      },
-      {
-        "title": "Görevden geçici olarak uzaklaştırılan Cumhuriyet Savcısı Uçuk hakkında gözaltı talimatı verildi",
-        "link": "https://www.ntv.com.tr/turkiye/gorevden-gecici-olarak-uzaklastirilan-cumhuriyet-savcisi-ucuk-hakkinda-gozalti-talimati-verildi-1742464",
-        "description": "Hakimler ve Savcılar Kurulu'nun (HSK) küfürlü ifadeleri nedeniyle görevden uzaklaştırdığı Cumhuriyet Savcısı Türkşad Kunthan Uçuk hakkında gözaltı kararı verildi.",
-        "source": "NTV",
-        "published": "2026-09-18T23:32:26+03:00"
       },
       {
         "title": "Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturmada iki şüpheli hakkında tutuklama talebi",
@@ -693,39 +721,11 @@
         "published": "2026-09-18T21:25:05+03:00"
       },
       {
-        "title": "KKTC'de 52 yıl sonra şehit töreni: 126 şehit anısına müze yapıldı",
-        "link": "https://www.ntv.com.tr/turkiye/video-kktcde-52-yil-sonra-sehit-toreni-126-sehit-anisina-muze-yapildi-1742465",
-        "description": "14 Ağustos 1974’te KKTC'de Rumlar tarafından katledilen 37 şehitten 15’inin kimlik tespit işlemleri tamamlandı, şehitlikte defin işlemi gerçekleşti. Haber: Osman Terkan",
-        "source": "NTV",
-        "published": "2026-09-18T20:35:42+03:00"
-      },
-      {
         "title": "Macron: Rusya'nın Avrupa'ya yönelik hibrit saldırıları yoğunlaşıyor",
         "link": "https://www.bbc.com/turkce/articles/c5j9x4jndyx9o?at_medium=RSS&at_campaign=rss",
         "description": "Fransa Cumhurbaşkanı, hükümete kritik altyapı ve savunma sanayi tesislerini koruma görevi verdiğini söyledi",
         "source": "BBC Turkish",
         "published": "2026-09-18T20:15:50+00:00"
-      },
-      {
-        "title": "Otomobille iki köpeğin üzerinden geçti, yoluna devam etti",
-        "link": "https://www.ntv.com.tr/turkiye/otomobille-iki-kopegin-uzerinden-gecti-yoluna-devam-etti-1742462",
-        "description": "Muğla’nın Bodrum ilçesinde bir sürücü otomobiliyle iki köpeğin üzerinden geçip, durmadan yoluna devam etti.",
-        "source": "NTV",
-        "published": "2026-09-18T19:32:21+03:00"
-      },
-      {
-        "title": "Otomobille iki köpeğin üzerinden geçti, yoluna devam etti",
-        "link": "https://www.ntv.com.tr/turkiye/video-otomobille-iki-kopegin-uzerinden-gecti-yoluna-devam-etti-1742461",
-        "description": "Muğla’nın Bodrum ilçesinde sürücünün otomobiliyle iki köpeğin üzerinden geçip, durmadan yoluna devam ettiği anlar, bir binanın güvenlik kamerasına yansıdı.",
-        "source": "NTV",
-        "published": "2026-09-18T19:28:58+03:00"
-      },
-      {
-        "title": "Fındık piyasasına sıkı denetim: Ordu ve Giresun'da müfettiş görevlendirildi",
-        "link": "https://www.ntv.com.tr/turkiye/findik-piyasasina-siki-denetim-ordu-ve-giresunda-mufettis-gorevlendirildi-1742460",
-        "description": "Ticaret Bakanlığı, fındık piyasasındaki işlemlerin ve piyasa koşullarının incelenmesi amacıyla Ordu ve Giresun'daki ticaret borsalarında kapsamlı denetim süreci başlattı.",
-        "source": "NTV",
-        "published": "2026-09-18T19:18:09+03:00"
       },
       {
         "title": "Berlin'de seçim: Türkiye kökenli sosyalist Elif Eralp, Berlin'in Mamdani'si mi olacak?",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8713
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+74°F",
-    "wind": "↘9mph",
-    "humidity": "42%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+59°F",
+    "wind": "↗2mph",
+    "humidity": "74%"
   }
 }
