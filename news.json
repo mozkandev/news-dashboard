@@ -1,18 +1,39 @@
 {
-  "updated_at": "2026-09-20T23:01:10.692609+00:00",
+  "updated_at": "2026-09-21T01:22:00.018030+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Amiga Unix, Again",
+        "link": "https://amigaux.org/",
+        "description": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 13 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-09-20T23:57:10+00:00"
+      },
+      {
+        "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+        "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+        "description": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO Comments URL: https://news.ycombinator.com/item?id=49781138 Points: 10 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-20T23:19:04+00:00"
+      },
+      {
+        "title": "What happened to the Snowden archive",
+        "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "description": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 144 # Comments: 53",
+        "source": "HackerNews",
+        "published": "2026-09-20T22:35:49+00:00"
+      },
+      {
         "title": "Google's Open Agentic Orchestrator",
         "link": "https://agentexecutor.io",
-        "description": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 4 # Comments: 0",
+        "description": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 173 # Comments: 71",
         "source": "HackerNews",
         "published": "2026-09-20T22:32:43+00:00"
       },
       {
         "title": "Bill to Ban Private Equity from Owning Medical Practices",
         "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-        "description": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 29 # Comments: 3",
+        "description": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 209 # Comments: 135",
         "source": "HackerNews",
         "published": "2026-09-20T22:13:46+00:00"
       },
@@ -26,14 +47,14 @@
       {
         "title": "Nobody pays for FOSS, we can force them to",
         "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-        "description": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 63 # Comments: 34",
+        "description": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 136 # Comments: 106",
         "source": "HackerNews",
         "published": "2026-09-20T21:04:32+00:00"
       },
       {
         "title": "Ogre Battle 64 Recompiled Project at 99.05%",
         "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-        "description": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 11 # Comments: 3",
+        "description": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 27 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-09-20T20:59:02+00:00"
       },
@@ -45,11 +66,11 @@
         "published": "2026-09-20T20:29:07+00:00"
       },
       {
-        "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
-        "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
-        "description": "Article URL: https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage Comments URL: https://news.ycombinator.com/item?id=49779432 Points: 97 # Comments: 31",
+        "title": "Why MCP Was Always a Bad Idea?",
+        "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+        "description": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 37 # Comments: 61",
         "source": "HackerNews",
-        "published": "2026-09-20T19:55:36+00:00"
+        "published": "2026-09-20T19:44:40+00:00"
       },
       {
         "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
@@ -61,7 +82,7 @@
       {
         "title": "The Hierarchy of Money",
         "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-        "description": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 56 # Comments: 16",
+        "description": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 89 # Comments: 39",
         "source": "HackerNews",
         "published": "2026-09-20T19:37:43+00:00"
       },
@@ -80,9 +101,9 @@
         "published": "2026-09-20T18:56:04+00:00"
       },
       {
-        "title": "Software Sandboxing: The Basics (2025)",
+        "title": "Software sandboxing: The basics (2025)",
         "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-        "description": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 52 # Comments: 6",
+        "description": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 65 # Comments: 8",
         "source": "HackerNews",
         "published": "2026-09-20T18:42:47+00:00"
       },
@@ -106,27 +127,6 @@
         "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
         "source": "TechCrunch",
         "published": "2026-09-20T18:00:00+00:00"
-      },
-      {
-        "title": "A Necessary History of the Oddest Letter: W",
-        "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-        "description": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 78 # Comments: 44",
-        "source": "HackerNews",
-        "published": "2026-09-20T17:55:57+00:00"
-      },
-      {
-        "title": "I turned Jev into a (lousy) chatbot",
-        "link": "https://github.com/kyle-pena-nlp/jevchat/",
-        "description": "Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 73 # Comments: 24",
-        "source": "HackerNews",
-        "published": "2026-09-20T17:51:27+00:00"
-      },
-      {
-        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-        "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-        "description": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 273 # Comments: 188",
-        "source": "HackerNews",
-        "published": "2026-09-20T17:38:50+00:00"
       },
       {
         "title": "Skydagger 250+ Kilometre Menzilli TOYCA-10E Sabit Kanatlı Kamikaze İHA’yı Tanıttı",
@@ -355,6 +355,34 @@
     ],
     "dunya": [
       {
+        "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+        "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+        "description": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate change and...",
+        "source": "The Guardian",
+        "published": "2026-09-21T01:09:23+00:00"
+      },
+      {
+        "title": "Russia's elections had few surprises - but how the Kremlin uses the results is far from clear",
+        "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+        "source": "BBC News",
+        "published": "2026-09-21T00:05:11+00:00"
+      },
+      {
+        "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
+        "description": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
+        "source": "BBC News",
+        "published": "2026-09-20T23:12:31+00:00"
+      },
+      {
+        "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+        "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss",
+        "description": "The National Association of Head Teachers says inspections in England may pose a \"risk to life\" for school leaders.",
+        "source": "BBC News",
+        "published": "2026-09-20T23:02:05+00:00"
+      },
+      {
         "title": "Specialist courts for rape cases to be rolled out across England and Wales",
         "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
         "description": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
@@ -362,9 +390,16 @@
         "published": "2026-09-20T22:43:31+00:00"
       },
       {
+        "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+        "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+        "description": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+        "source": "BBC News",
+        "published": "2026-09-20T21:17:22+00:00"
+      },
+      {
         "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+        "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
         "source": "BBC News",
         "published": "2026-09-20T20:21:40+00:00"
       },
@@ -374,13 +409,6 @@
         "description": "Jovenel Moïse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials. Moïse, 53, was...",
         "source": "The Guardian",
         "published": "2026-09-20T20:17:44+00:00"
-      },
-      {
-        "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
-        "description": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
-        "source": "BBC News",
-        "published": "2026-09-20T19:44:15+00:00"
       },
       {
         "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
@@ -425,13 +453,6 @@
         "published": "2026-09-20T15:21:19+00:00"
       },
       {
-        "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-        "link": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
-        "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
-        "source": "BBC News",
-        "published": "2026-09-20T15:00:09+00:00"
-      },
-      {
         "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
         "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
         "description": "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made significant gains.",
@@ -451,13 +472,6 @@
         "description": "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality.",
         "source": "NPR",
         "published": "2026-09-20T11:05:47-04:00"
-      },
-      {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-        "source": "BBC News",
-        "published": "2026-09-20T10:45:39+00:00"
       },
       {
         "title": "PHOTOS: The precarious life of fisherfolk",
@@ -500,13 +514,6 @@
         "description": "Students: It's time to turn on the mic and hit 'record.' Send us your podcasts and we'll pick the best ones. It's $5,000 for our grand prize and $500 for our finalists.",
         "source": "NPR",
         "published": "2026-09-20T05:00:00-04:00"
-      },
-      {
-        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-        "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-        "source": "BBC News",
-        "published": "2026-09-20T04:49:11+00:00"
       },
       {
         "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
@@ -556,22 +563,43 @@
         "description": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first...",
         "source": "The Guardian",
         "published": "2026-09-17T20:43:38+00:00"
-      },
-      {
-        "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-        "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-        "description": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means Europe live – latest updates Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday...",
-        "source": "The Guardian",
-        "published": "2026-09-17T15:46:15+00:00"
       }
     ],
     "turkiye": [
+      {
+        "title": "Adana'da 5.0 büyüklüğünde deprem",
+        "link": "https://www.ntv.com.tr/turkiye/adanada-50-buyuklugunde-deprem-1742768",
+        "description": "Adana'da, Saimbeyli ilçesi merkezli 5.0 büyüklüğünde deprem meydana geldi.",
+        "source": "NTV",
+        "published": "2026-09-21T04:20:18+03:00"
+      },
+      {
+        "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 21 Eylül 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-21-eylul-2026-1742769",
+        "description": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 21 Eylül 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son...",
+        "source": "NTV",
+        "published": "2026-09-21T04:20:00+03:00"
+      },
+      {
+        "title": "Son dakika... Osmaniye, Adana ve çevre illerde korkutan deprem",
+        "link": "https://www.sozcu.com.tr/son-dakika-osmaniye-adana-ve-cevre-illerde-korkutan-deprem-p362030",
+        "description": "Son dakika... Osmaniye, Adana ve çevre illerde korkutan deprem",
+        "source": "Sözcü",
+        "published": "2026-09-21T04:17:04+03:00"
+      },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Eylül 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-eylul-2026-1742763",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-21T02:00:00+03:00"
+        "published": "2026-09-21T04:00:00+03:00"
+      },
+      {
+        "title": "Tartıştığı kişiyi ve kendisini vurdu, 'Allah devletimize zeval vermesin' diye bağırdı",
+        "link": "https://www.sozcu.com.tr/tartistigi-kisiyi-ve-kendisini-vurdu-allah-devletimize-zeval-vermesin-diye-bagirdi-p362027",
+        "description": "Tartıştığı kişiyi ve kendisini vurdu, 'Allah devletimize zeval vermesin' diye bağırdı",
+        "source": "Sözcü",
+        "published": "2026-09-21T03:48:41+03:00"
       },
       {
         "title": "Binlercesi nehir boyunca ilerlemeye başladı: Sürü nereye giderse yasak da oraya gidiyor",
@@ -616,6 +644,13 @@
         "published": "2026-09-21T00:14:09+03:00"
       },
       {
+        "title": "Uykunuzu takip etmek uyumanızı kötüleştirebilir mi?",
+        "link": "https://www.bbc.com/turkce/articles/cqx2zp497895o?at_medium=RSS&at_campaign=rss",
+        "description": "Uykunuzu iyileştirmek için yaptığınız şeyler uykunuzu kötüleştirebilir. Peki nelere dikkat etmek lazım?",
+        "source": "BBC Turkish",
+        "published": "2026-09-21T00:06:54+00:00"
+      },
+      {
         "title": "Pusula Holding soruşturması: 4 milyar lira yurtdışına çıkarılmış",
         "link": "https://www.ntv.com.tr/turkiye/pusula-holding-sorusturmasi-4-milyar-lira-yurtdisina-cikarilmis-1742742",
         "description": "Fon soruşturmasında yeni bir gelişme yaşandı. Pusula Holding'in iki yöneticisi tarafından İsviçre hesaplarına toplamda 4 milyar 87 milyon TL transfer edildiği belirlendi.",
@@ -644,6 +679,13 @@
         "published": "2026-09-20T23:39:18+03:00"
       },
       {
+        "title": "Berlin'de seçimleri kazanan Sol Parti'nin başbakan adayı Elif Eralp kimdir?",
+        "link": "https://www.bbc.com/turkce/articles/cmde04w3g3l9o?at_medium=RSS&at_campaign=rss",
+        "description": "Kamu yayıncıları ARD ve ZDF'nin sandık çıkış anketlerine göre, Sol Parti (Die Linke), Başbakan Friedrich Merz'in liderliğindeki merkez sağ CDU'yu mağlup etti. Sol Parti'nin adayı Elif Eralp %25 civarındaki oy oranı ile önde görünüyor.",
+        "source": "BBC Turkish",
+        "published": "2026-09-20T23:38:41+00:00"
+      },
+      {
         "title": "Vampir sanılıp kilit ve orakla gömülmüştü: Mezarında bir iz daha bulundu",
         "link": "https://www.sozcu.com.tr/vampir-sanilip-kilit-ve-orakla-gomulmustu-mezarinda-bir-iz-daha-bulundu-p360014",
         "description": "Vampir sanılıp kilit ve orakla gömülmüştü: Mezarında bir iz daha bulundu",
@@ -658,18 +700,11 @@
         "published": "2026-09-20T23:01:31+03:00"
       },
       {
-        "title": "Dia Saba'dan liderlik açıklaması: Hak ettiğimiz yerdeyiz",
-        "link": "https://www.sozcu.com.tr/dia-saba-dan-liderlik-aciklamasi-hak-ettigimiz-yerdeyiz-p360004",
-        "description": "Dia Saba'dan liderlik açıklaması: Hak ettiğimiz yerdeyiz",
-        "source": "Sözcü",
-        "published": "2026-09-20T22:55:21+03:00"
-      },
-      {
-        "title": "Hava bir anda değişecek: Pazartesi akşamı geliyor, çarşamba etkisini artırıyor",
-        "link": "https://www.sozcu.com.tr/hava-bir-anda-degisecek-pazartesi-aksami-geliyor-carsamba-etkisini-artiriyor-p360003",
-        "description": "Hava bir anda değişecek: Pazartesi akşamı geliyor, çarşamba etkisini artırıyor",
-        "source": "Sözcü",
-        "published": "2026-09-20T22:49:56+03:00"
+        "title": "Ukrayna'dan Moskova'ya yüzlerce İHA ile 'en büyük' saldırı",
+        "link": "https://www.bbc.com/turkce/articles/c207gpxnrggo?at_medium=RSS&at_campaign=rss",
+        "description": "Moskova belediye başkanı, Ukrayna'nın bugüne kadarki en büyük insansız hava aracı saldırısını düzenlediğini, şehrin ana petrol rafinerisi ve bir apartmanın vurulduğunu söyledi.",
+        "source": "BBC Turkish",
+        "published": "2026-09-20T22:45:27+00:00"
       },
       {
         "title": "Artık kimse evde yapamıyor. Kilosu 500 liraya çıktı",
@@ -700,25 +735,11 @@
         "published": "2026-09-20T20:34:19+03:00"
       },
       {
-        "title": "Berlin'de Sol Parti, kuzeydoğu eyaletinde aşırı sağcı AfD önde",
-        "link": "https://www.bbc.com/turkce/articles/cmy0z29lj1deo?at_medium=RSS&at_campaign=rss",
-        "description": "Almanya'nın Berlin eyaletinde 20 Eylül Pazar günü yapılan seçimlerin ilk sonuçlarına göre Sol Parti, Başbakan Friedrich Merz liderliğindeki Hristiyan Demokratlar'ı (CDU) geride bıraktı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-20T19:52:56+00:00"
-      },
-      {
         "title": "Almanya Başbakanı Merz, eyalet seçimlerindeki 'felakete' rağmen görevde kalacağı mesajı verdi",
         "link": "https://www.bbc.com/turkce/articles/cjly4p21g5e1o?at_medium=RSS&at_campaign=rss",
         "description": "Sandık çıkış anketleri, Merz'in merkez sağ CDU partisinin Berlin ve Mecklenburg-Vorpommern eyaletlerinde ağır kayıplar yaşadığını gösteriyor.",
         "source": "BBC Turkish",
         "published": "2026-09-20T17:23:15+00:00"
-      },
-      {
-        "title": "Türkiye kökenli sosyalist Elif Eralp, Berlin'in Mamdani'si mi olacak?",
-        "link": "https://www.bbc.com/turkce/articles/cmde04w3g3l9o?at_medium=RSS&at_campaign=rss",
-        "description": "Kamu yayıncıları ARD ve ZDF'nin sandık çıkış anketlerine göre, Sol Parti (Die Linke), Başbakan Friedrich Merz'in liderliğindeki merkez sağ CDU'yu mağlup etti. Sol Parti'nin adayı Elif Eralp %25 civarındaki oy oranı ile önde görünüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-09-20T16:51:18+00:00"
       },
       {
         "title": "SOLOTÜRK, Fransa'daki gösteriden görüntüler paylaştı",
@@ -728,25 +749,11 @@
         "published": "2026-09-20T15:54:56+03:00"
       },
       {
-        "title": "236 milyon liralık para trafiği. Gazeteci Tahir Sarıkaya'nın hesap hareketleri mercek altında",
-        "link": "https://www.ntv.com.tr/turkiye/236-milyon-liralik-para-trafigi-gazeteci-tahir-sarikayanin-hesap-hareketleri-mercek-altinda-1742698",
-        "description": "Cem Küçük soruşturması kapsamında tutuklanan gazeteci Tahir Sarıkaya'nın hesap hareketlerine ilişkin Kaçakçılık ve Organize Suçlarla Mücadele raporunda dikkat çeken tespitler yer aldı.",
-        "source": "NTV",
-        "published": "2026-09-20T15:27:07+03:00"
-      },
-      {
-        "title": "Kadınlar neden daha fazla 'zihinsel yük' taşıyor ve yük nasıl paylaşılabilir?",
+        "title": "Kadınlar neden daha fazla 'zihinsel yük' taşıyor, bu yük nasıl paylaşılabilir?",
         "link": "https://www.bbc.com/turkce/articles/ckgvzd13jylo?at_medium=RSS&at_campaign=rss",
         "description": "Ev işlerini planlamak, organize etmek ve hatırlamak genellikle annelerin omuzlarında. İşte size yardımcı olacak bazı ipuçları.",
         "source": "BBC Turkish",
         "published": "2026-09-20T13:51:55+00:00"
-      },
-      {
-        "title": "Eski İzmir Büyükşehir Belediye Başkanı Özfatura yoğun bakımda",
-        "link": "https://www.ntv.com.tr/turkiye/eski-izmir-buyuksehir-belediye-baskani-ozfatura-yogun-bakimda-1742679",
-        "description": "Eski İzmir Büyükşehir Belediye Başkanı Burhan Özfatura, ani kalp durması sonucu kaldırıldığı hastanede yoğun bakıma alındı.",
-        "source": "NTV",
-        "published": "2026-09-20T13:50:39+03:00"
       },
       {
         "title": "Ed Sheeran'dan, 'Filistin'e özgürlük' diyen rapçinin programdan çıkarılması sonrası ilk açıklama: 'Hatalar yaptım'",
@@ -768,25 +775,18 @@
         "description": "İran'ın Hürmüz Boğazı'nı kapatmasından bu yana dünyanın en önemli deniz koridorlarından biri olan Babülmendep Boğazı'na kadar ilerleyen son Husi saldırısı, Tahran'a Washington üzerinde daha fazla nüfuz kazandırmış olabilir.",
         "source": "BBC Turkish",
         "published": "2026-09-20T07:21:54+00:00"
-      },
-      {
-        "title": "Yapay zeka gerçekten insanlığı yok edebilir mi ve nasıl?",
-        "link": "https://www.bbc.com/turkce/articles/c60qx37080qjo?at_medium=RSS&at_campaign=rss",
-        "description": "Araştırmacılar, yapay zekanın kontrolden çıkmasının riskleri konusunda sert uyarılarda bulundular. BBC Siber Muhabiri Joe Tidy, akıllarındaki bazı senaryoları inceledi.",
-        "source": "BBC Turkish",
-        "published": "2026-09-20T07:13:46+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.8038,
-    "eur_try": 56.0078,
+    "usd_try": 48.7945,
+    "eur_try": 56.0084,
     "eur_usd": 0.8713
   },
   "weather": {
     "condition": "Kapalı",
-    "temp": "+59°F",
-    "wind": "↙12mph",
-    "humidity": "94%"
+    "temp": "+68°F",
+    "wind": "→3mph",
+    "humidity": "58%"
   }
 }
