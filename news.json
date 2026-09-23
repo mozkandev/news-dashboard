@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-09-22T23:08:51.527596+00:00",
+  "updated_at": "2026-09-23T01:38:50.299235+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "The new CC, an AI agent built for families",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+        "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 25 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-09-22T23:46:07+00:00"
+      },
+      {
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+        "source": "TechCrunch",
+        "published": "2026-09-22T23:21:49+00:00"
+      },
+      {
+        "title": "Augustofaces: Pareidolia Fine Art",
+        "link": "https://augusto.at/augustosfaces/",
+        "description": "Article URL: https://augusto.at/augustosfaces/ Comments URL: https://news.ycombinator.com/item?id=49809404 Points: 4 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-09-22T22:52:11+00:00"
+      },
+      {
+        "title": "The current balance of power in open models",
+        "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+        "description": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open Comments URL: https://news.ycombinator.com/item?id=49808816 Points: 33 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-09-22T22:03:46+00:00"
+      },
       {
         "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
         "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
@@ -12,16 +40,23 @@
       {
         "title": "The UV index is not the warm sensation of sunlight on bare skin",
         "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-        "description": "Article URL: https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/ Comments URL: https://news.ycombinator.com/item?id=49808109 Points: 46 # Comments: 35",
+        "description": "Article URL: https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/ Comments URL: https://news.ycombinator.com/item?id=49808109 Points: 60 # Comments: 53",
         "source": "HackerNews",
         "published": "2026-09-22T21:06:40+00:00"
       },
       {
         "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
         "link": "https://foxscript.org/",
-        "description": "Article URL: https://foxscript.org/ Comments URL: https://news.ycombinator.com/item?id=49808023 Points: 105 # Comments: 75",
+        "description": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so...",
         "source": "HackerNews",
         "published": "2026-09-22T21:00:30+00:00"
+      },
+      {
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "description": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of...",
+        "source": "The Verge",
+        "published": "2026-09-22T20:18:27-04:00"
       },
       {
         "title": "Snapdragon 8 Elite Extreme Gen 6 ve Elite Gen 6 Tanıtıldı",
@@ -54,16 +89,23 @@
       {
         "title": "The JavaScript Midlife Crisis",
         "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-        "description": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/ Comments URL: https://news.ycombinator.com/item?id=49807248 Points: 23 # Comments: 7",
+        "description": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/ Comments URL: https://news.ycombinator.com/item?id=49807248 Points: 41 # Comments: 23",
         "source": "HackerNews",
         "published": "2026-09-22T19:58:47+00:00"
       },
       {
         "title": "Native apps written in TypeScript and CSS",
         "link": "https://github.com/geastack/examples",
-        "description": "Article URL: https://github.com/geastack/examples Comments URL: https://news.ycombinator.com/item?id=49807021 Points: 56 # Comments: 16",
+        "description": "Article URL: https://github.com/geastack/examples Comments URL: https://news.ycombinator.com/item?id=49807021 Points: 79 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-09-22T19:42:20+00:00"
+      },
+      {
+        "title": "Obscura: VPN that can't log your activity",
+        "link": "https://obscura.com/#faq-technical",
+        "description": "Article URL: https://obscura.com/#faq-technical Comments URL: https://news.ycombinator.com/item?id=49807003 Points: 76 # Comments: 73",
+        "source": "HackerNews",
+        "published": "2026-09-22T19:40:28+00:00"
       },
       {
         "title": "Apple could take on Whoop with a new fitness tracker, report says",
@@ -82,7 +124,7 @@
       {
         "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
         "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "description": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 316 # Comments: 161",
+        "description": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 408 # Comments: 213",
         "source": "HackerNews",
         "published": "2026-09-22T19:03:38+00:00"
       },
@@ -96,7 +138,7 @@
       {
         "title": "SAML: A fractal of bad design",
         "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-        "description": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points: 115 # Comments: 61",
+        "description": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points: 152 # Comments: 88",
         "source": "HackerNews",
         "published": "2026-09-22T18:57:17+00:00"
       },
@@ -164,27 +206,6 @@
         "published": "2026-09-22T18:23:18+03:00"
       },
       {
-        "title": "Unreal Agent",
-        "link": "https://unreallabs.ai/blog/unreal-agent/",
-        "description": "https://github.com/unreallabsai/unreal-agent Comments URL: https://news.ycombinator.com/item?id=49805748 Points: 98 # Comments: 59",
-        "source": "HackerNews",
-        "published": "2026-09-22T18:15:53+00:00"
-      },
-      {
-        "title": "An update on how we confirm your age group on Discord",
-        "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-        "description": "Article URL: https://discord.com/blog/safer-for-teens-same-discord-for-adults Comments URL: https://news.ycombinator.com/item?id=49805677 Points: 89 # Comments: 36",
-        "source": "HackerNews",
-        "published": "2026-09-22T18:10:31+00:00"
-      },
-      {
-        "title": "GPT-6 Sol and Luna",
-        "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-        "description": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 997 # Comments: 537",
-        "source": "HackerNews",
-        "published": "2026-09-22T18:00:34+00:00"
-      },
-      {
         "title": "Tap to Pay on iPhone 8 Ülkeye Geldi! Peki, Türkiye?",
         "link": "https://shiftdelete.net/tap-to-pay-on-iphone-8-ulkeye-geldi-peki-turkiye",
         "description": "Apple, Tap to Pay on iPhone özelliğini Arjantin, Kolombiya ve Panama dahil 8 yeni ülkede daha kullanıma açtığını duyurdu. İşte detaylar.",
@@ -197,13 +218,6 @@
         "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
         "source": "TechCrunch",
         "published": "2026-09-22T18:00:00+00:00"
-      },
-      {
-        "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-        "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-        "description": "https://archive.ph/96YBP Comments URL: https://news.ycombinator.com/item?id=49805278 Points: 252 # Comments: 185",
-        "source": "HackerNews",
-        "published": "2026-09-22T17:46:02+00:00"
       },
       {
         "title": "Waymo’s latest expansion strategy: teenagers",
@@ -276,13 +290,6 @@
         "published": "2026-09-22T16:00:29+00:00"
       },
       {
-        "title": "Stolen passwords are exposing America’s water providers to hackers",
-        "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-        "description": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
-        "source": "TechCrunch",
-        "published": "2026-09-22T15:50:58+00:00"
-      },
-      {
         "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
         "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
         "description": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro...",
@@ -332,13 +339,6 @@
         "published": "2026-09-22T13:43:50-04:00"
       },
       {
-        "title": "Apple is reportedly working on a Whoop-like fitness tracker",
-        "link": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
-        "description": "Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\" The...",
-        "source": "The Verge",
-        "published": "2026-09-22T13:04:52-04:00"
-      },
-      {
         "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
         "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
         "description": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs,...",
@@ -355,18 +355,53 @@
     ],
     "dunya": [
       {
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-        "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "description": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "title": "Watch: Key moments from Andy Burnham's first UN speech",
+        "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+        "description": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
         "source": "BBC News",
-        "published": "2026-09-22T21:50:31+00:00"
+        "published": "2026-09-23T01:25:47+00:00"
       },
       {
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
-        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-        "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+        "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+        "link": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+        "description": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals court for...",
+        "source": "The Guardian",
+        "published": "2026-09-23T01:15:26+00:00"
+      },
+      {
+        "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
         "source": "BBC News",
-        "published": "2026-09-22T21:36:55+00:00"
+        "published": "2026-09-23T01:08:40+00:00"
+      },
+      {
+        "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
+        "link": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss",
+        "description": "Louise Nunn's daughter bought drugs from Canadian Kenneth Law, who sold toxic chemicals online.",
+        "source": "BBC News",
+        "published": "2026-09-22T23:20:43+00:00"
+      },
+      {
+        "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+        "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+        "source": "BBC News",
+        "published": "2026-09-22T23:11:33+00:00"
+      },
+      {
+        "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+        "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+        "description": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+        "source": "BBC News",
+        "published": "2026-09-22T23:01:28+00:00"
+      },
+      {
+        "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+        "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
+        "source": "BBC News",
+        "published": "2026-09-22T22:03:48+00:00"
       },
       {
         "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
@@ -388,13 +423,6 @@
         "description": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
         "source": "BBC News",
         "published": "2026-09-22T20:08:52+00:00"
-      },
-      {
-        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
-        "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
-        "source": "BBC News",
-        "published": "2026-09-22T19:15:57+00:00"
       },
       {
         "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
@@ -439,32 +467,11 @@
         "published": "2026-09-22T17:31:01-04:00"
       },
       {
-        "title": "Father admits causing death of his son in hotel fall",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-        "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-        "source": "BBC News",
-        "published": "2026-09-22T15:52:35+00:00"
-      },
-      {
         "title": "Trump's D.C. arch is now a military complex. Here's how that complicates things",
         "link": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions",
         "description": "The future of Trump's D.C. arch was already fraught. Then he rebranded it as a military complex. Experts say that only raises more legal and logistical questions.",
         "source": "NPR",
         "published": "2026-09-22T15:25:05-04:00"
-      },
-      {
-        "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-        "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-        "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
-        "source": "BBC News",
-        "published": "2026-09-22T15:17:37+00:00"
-      },
-      {
-        "title": "Tim Westwood charged with two more sexual offences",
-        "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
-        "description": "The alleged sexual offences date back to 1991 and 2004.",
-        "source": "BBC News",
-        "published": "2026-09-22T14:29:31+00:00"
       },
       {
         "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
@@ -530,13 +537,6 @@
         "published": "2026-09-21T17:13:23+00:00"
       },
       {
-        "title": "US strikes on alleged drug boats may constitute ‘crimes against humanity’, UN expert says",
-        "link": "https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity",
-        "description": "Dozens of US attacks on boats in the Pacific and Caribbean have killed more than 230 people since September 2025 A special rapporteur for the UN human rights council has concluded that there are “reasonable grounds to believe” that the United States...",
-        "source": "The Guardian",
-        "published": "2026-09-21T15:54:43+00:00"
-      },
-      {
         "title": "Banished to alien lands: Trump’s secret deportation deals",
         "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
         "description": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An in-depth...",
@@ -571,7 +571,28 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-eylul-2026-1743046",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-23T02:00:00+03:00"
+        "published": "2026-09-23T04:30:00+03:00"
+      },
+      {
+        "title": "Esenyurt'ta iş yeri yangını. İtfaiyenin müdahalesi sürüyor",
+        "link": "https://www.ntv.com.tr/turkiye/esenyurtta-is-yeri-yangini-itfaiyenin-mudahalesi-suruyor-1743054",
+        "description": "İstanbul Esenyurt'ta bir iş yerinde yangın çıktı. İtfaiye ekiplerinin yangına müdahalesi sürüyor.",
+        "source": "NTV",
+        "published": "2026-09-23T04:17:57+03:00"
+      },
+      {
+        "title": "Bakan Fidan, İngiliz mevkidaşı ile görüştü",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-ingiliz-mevkidasi-ile-gorustu-1743051",
+        "description": "Dışişleri Bakanı Hakan Fidan, Birleşik Krallık Dışişleri Bakanı Ed Miliband ile görüştü.",
+        "source": "NTV",
+        "published": "2026-09-23T03:45:17+03:00"
+      },
+      {
+        "title": "İstanbul için sel uyarısı: Ani sıcaklık düşüşü ve şiddetli yağış bekleniyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-uyarisi-ani-sicaklik-dususu-ve-siddetli-yagis-bekleniyor-1743050",
+        "description": "İstanbul'da dün başlayan şiddetli yağışın bugün etkisini arttırması bekleniyor. AKOM'dan metrekareye 100 kilogram yağış düşeceği ve sıcaklığın sert düşeceği uyarısı yapıldı.",
+        "source": "NTV",
+        "published": "2026-09-23T03:09:32+03:00"
       },
       {
         "title": "Erdoğan konuştu, Şara telefonundan kafasını kaldırmadı",
@@ -651,6 +672,20 @@
         "published": "2026-09-22T23:26:38+03:00"
       },
       {
+        "title": "Şi Cinping her şeyini kaybettikten sonra nasıl Çin'in güçlü lideri oldu?",
+        "link": "https://www.bbc.com/turkce/articles/cmn8epqn5n65o?at_medium=RSS&at_campaign=rss",
+        "description": "Şi Cinping 11 yıl sonra ABD'ye ilk resmi ziyaretini çarşamba günü yapıyor. Çin devlet Başkanı hakkında bilinenleri derledik.",
+        "source": "BBC Turkish",
+        "published": "2026-09-22T23:17:44+00:00"
+      },
+      {
+        "title": "İstanbul'daki Adalar Belediyesi AKP'ye mi geçecek?",
+        "link": "https://www.bbc.com/turkce/articles/cqlymw9ld9yjo?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul'un Adalar Belediyesi'nde başkan vekili Medine Pamuk'un sağlık sorunları gerekçesiyle istifasının ardından ertelenen başkan vekili seçimi 23 Eylül'de düzenlenecek. Normalde CHP'nin üstün olduğu belediye meclisinde tutuklama ve görevden...",
+        "source": "BBC Turkish",
+        "published": "2026-09-22T23:08:38+00:00"
+      },
+      {
         "title": "Trump: 'Ara seçimlerden sonra İran ile anlaşma yapabiliriz'",
         "link": "https://www.bbc.com/turkce/articles/c539myv9vpkdo?at_medium=RSS&at_campaign=rss",
         "description": "ABD Başkanı Donald Trump, ülkesinin kasım ayında yapılacak ara seçimlerden sonra İran ile bir anlaşma yapabileceğine inandığını söyledi. Trump, Rusya-Ukrayna savaşının da düşünülenden daha çabuk sona erebileceğini vurguladı. ABD Başkanı ayrıca yapay...",
@@ -670,13 +705,6 @@
         "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
         "source": "NTV",
         "published": "2026-09-22T21:47:08+03:00"
-      },
-      {
-        "title": "Kaşif Kozinoğlu soruşturmasında Enver Altaylı tutuklandı, ifade sırasında tehditte bulundu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kasif-kozinoglu-sorusturmasinda-yeni-gelisme-enver-altayli-hakkinda-tutuklama-talebi-1742996",
-        "description": "Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturmada FETÖ hükümlüsü Enver Altaylı tutuklandı. Altaylı hakkında ifadesi sırasında kamu görevlisine tehditten yeni soruşturma açıldı.",
-        "source": "NTV",
-        "published": "2026-09-22T20:30:51+03:00"
       },
       {
         "title": "Otopsi raporuna göre Hayden Panettiere'in ölüm nedeni 'aşırı doz'",
@@ -728,20 +756,6 @@
         "published": "2026-09-22T14:43:23+03:00"
       },
       {
-        "title": "İzmir’de iki araçta kaçak avlanan 3 ton orkinos ele geçirildi",
-        "link": "https://www.ntv.com.tr/turkiye/izmirde-iki-aracta-kacak-avlanan-3-ton-orkinos-ele-gecirildi-1743005",
-        "description": "İzmir’in Güzelbahçe ilçesinde durdurulan iki araçta, kaçak avlanan yaklaşık 500 bin lira değerinde 3 ton mavi yüzgeçli orkinos bulundu. Şüpheliler hakkında işlem başlatıldı.",
-        "source": "NTV",
-        "published": "2026-09-22T14:18:56+03:00"
-      },
-      {
-        "title": "İstanbul için sel uyarısı: \"Sıcaklık aniden düşecek, hava patlayacak\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-uyarisi-sicaklik-aniden-dusecek-hava-patlayacak-1742998",
-        "description": "İstanbul'da hava sıcaklığı yarın aniden 15 dereceye düşecek. Ani düşüşle birlikte şiddetli yağış etkili olacak. NTV Meteoroloji Editörü Dilek Çalışkan, su baskını tehlikesi olduğunu söyledi.",
-        "source": "NTV",
-        "published": "2026-09-22T13:57:20+03:00"
-      },
-      {
         "title": "Manisa'da okul önünde silahlı saldırıda üç çocuk yoğun bakımda",
         "link": "https://www.bbc.com/turkce/articles/cq5y4z071pz6o?at_medium=RSS&at_campaign=rss",
         "description": "Manisa'nın Turgutlu ilçesinde bir okul önünde silahlı saldırı gerçekleşti. Saldırgan ile birlikte aile üyelerinden üç kişinin de gözaltına alındığı açıklandı.",
@@ -761,32 +775,18 @@
         "description": "Türkiye'nin ilk kez A Ligi'nde mücadele edece UEFA Uluslar Ligi 24 Eylül'deki karşılaşmalarla başlayacak. Türkiye'nin ilk rakibi 25 Eylül Cuma günü oynanacak karşılaşmada Fransa olacak.",
         "source": "BBC Turkish",
         "published": "2026-09-22T10:49:03+00:00"
-      },
-      {
-        "title": "Uzaydaki olası küçük yaşam formları bizi hasta edebilir mi?",
-        "link": "https://www.bbc.com/turkce/articles/cv1j427z9767o?at_medium=RSS&at_campaign=rss",
-        "description": "Onlarca yıldır Dünya gezegeninin ötesinde yaşam arıyoruz. Ancak bu yaşam formu mikroplar ve bakteriler olursa, bize hastalık bulaştırmadıklarından emin olmalıyız.",
-        "source": "BBC Turkish",
-        "published": "2026-09-22T10:28:43+00:00"
-      },
-      {
-        "title": "G7'den İran'a Husilere desteği bırakma çağrısı",
-        "link": "https://www.bbc.com/turkce/articles/cj3v4yk5xxdlo?at_medium=RSS&at_campaign=rss",
-        "description": "G7 ülkelerinin dışişleri bakanları ortak bir açıklamada, İran'a Yemen'deki Husi milislerine verdiği silah ve desteği sona erdirme çağrısı yaptı.",
-        "source": "BBC Turkish",
-        "published": "2026-09-22T09:03:42+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.8242,
-    "eur_try": 55.9998,
-    "eur_usd": 0.8718
+    "usd_try": 48.8316,
+    "eur_try": 55.932,
+    "eur_usd": 0.8732
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+71°F",
-    "wind": "↗2mph",
-    "humidity": "42%"
+    "condition": "Puslu",
+    "temp": "+54°F",
+    "wind": "↙8mph",
+    "humidity": "95%"
   }
 }
