@@ -1,27 +1,34 @@
 {
-  "updated_at": "2026-09-25T22:41:15.146748+00:00",
+  "updated_at": "2026-09-26T01:13:04.597765+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "source": "TechCrunch",
+        "published": "2026-09-26T01:08:57+00:00"
+      },
+      {
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "description": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T23:11:10+00:00"
+      },
+      {
+        "title": "Automattic has a new board after failed attempt to put CEO on leave",
+        "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+        "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+        "source": "TechCrunch",
+        "published": "2026-09-25T23:04:34+00:00"
+      },
       {
         "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
         "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
         "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
         "source": "TechCrunch",
         "published": "2026-09-25T22:20:47+00:00"
-      },
-      {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "link": "https://swarmtraces.org/",
-        "description": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 42 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-09-25T21:09:27+00:00"
-      },
-      {
-        "title": "Excel now supports multiple values in a single cell",
-        "link": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
-        "description": "Related: https://techcommunity.microsoft.com/blog/microsoft365insider... Comments URL: https://news.ycombinator.com/item?id=49849832 Points: 10 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-09-25T20:55:00+00:00"
       },
       {
         "title": "Meta opens early access program for new Muse features",
@@ -36,20 +43,6 @@
         "description": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
         "source": "TechCrunch",
         "published": "2026-09-25T20:33:58+00:00"
-      },
-      {
-        "title": "How we learned to stop worrying and love campus surveillance",
-        "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-        "description": "Article URL: https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49849141 Points: 11 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-09-25T19:56:57+00:00"
-      },
-      {
-        "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-        "link": "https://news.ycombinator.com/item?id=49848955",
-        "description": "Do you currently work with or know anyone who is still using: * dBase/Clipper/CLARION/Paradox/other DOS RAD environments on period hardware to run business processes? * CNC mills/spectrometers/microscopes/other industrial instruments controlled by...",
-        "source": "HackerNews",
-        "published": "2026-09-25T19:37:55+00:00"
       },
       {
         "title": "Almanya İlk F-35A Savaş Uçağını Teslim Aldı",
@@ -73,32 +66,11 @@
         "published": "2026-09-25T18:48:33+00:00"
       },
       {
-        "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-        "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-        "description": "The following explanation is taken from https://news.ycombinator.com/item?id=49622607 : Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, live online during Kristen Nygaard's 100-year birthday...",
-        "source": "HackerNews",
-        "published": "2026-09-25T18:37:05+00:00"
-      },
-      {
         "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
         "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
         "description": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
         "source": "TechCrunch",
         "published": "2026-09-25T18:33:59+00:00"
-      },
-      {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "link": "https://ollaya.dev/",
-        "description": "Article URL: https://ollaya.dev/ Comments URL: https://news.ycombinator.com/item?id=49848269 Points: 240 # Comments: 77",
-        "source": "HackerNews",
-        "published": "2026-09-25T18:33:50+00:00"
-      },
-      {
-        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-        "link": "https://mouse.dev/blog/muse-special/",
-        "description": "Article URL: https://mouse.dev/blog/muse-special/ Comments URL: https://news.ycombinator.com/item?id=49848095 Points: 86 # Comments: 40",
-        "source": "HackerNews",
-        "published": "2026-09-25T18:18:06+00:00"
       },
       {
         "title": "Araştırma: Yüksek Kilometreli Benzinli Araçlar mı Daha Dayanıklı Yoksa Elektrikliler mi?",
@@ -136,25 +108,11 @@
         "published": "2026-09-25T17:30:00+00:00"
       },
       {
-        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-        "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-        "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-        "source": "TechCrunch",
-        "published": "2026-09-25T17:29:46+00:00"
-      },
-      {
         "title": "Teksas'tan Samsung'a Soğuk Duş: Galaxy S23 Ultra'nın Satışı Yasaklanabilir!",
         "link": "\n                    https://www.webtekno.com/teksastan-samsung-galaxy-s23-ultra-satisi-yasaklanabilir-h225736.html\n                    ",
         "description": "Samsung'un bazı popüler cihazları ve yazılımları, ABD'de açılan yeni bir patent davasının konusu oldu; davada şirketin ürünleri için satış yasağı da talep ediliyor.",
         "source": "Webtekno",
         "published": "2026-09-25T17:25:26+03:00"
-      },
-      {
-        "title": "Astra and Opus just passed Turing’s other test",
-        "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-        "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-        "source": "TechCrunch",
-        "published": "2026-09-25T17:24:36+00:00"
       },
       {
         "title": "Galaxy S27 Ultra, PC Oyunlarını Telefonlara Taşıyabilir!",
@@ -206,39 +164,11 @@
         "published": "2026-09-25T17:00:37+00:00"
       },
       {
-        "title": "Show HN: Doom or Bloom, map your AI worldview",
-        "link": "https://www.doom-or-bloom.com",
-        "description": "Map your AI worldview by answering a few questions, and see how you compare with others. only takes a few minutes && free & open source && private by default && powered by Jev I think this is a really important question for everyone to be asking...",
-        "source": "HackerNews",
-        "published": "2026-09-25T16:51:28+00:00"
-      },
-      {
         "title": "iPhone 18 Pro Max vs 17 Pro Max! Tıpkısının aynısı mı?",
         "link": "https://shiftdelete.net/iphone-18-pro-max-vs-17-pro-max-tipkisinin-aynisi-mi",
         "description": "Apple’ın yeni nesil amiral gemisi iPhone 18 Pro Max, selefi iPhone 17 Pro serisinin üzerine kağıt üstünde küçük ama deneyimde kritik farklar getiren yeniliklerle sahneye çıkıyor. Bu karşılaştırmada, günlük kullanım hissi, tasarım detayları ve...",
         "source": "ShiftDelete",
         "published": "2026-09-25T16:50:02+00:00"
-      },
-      {
-        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-        "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-        "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-        "source": "TechCrunch",
-        "published": "2026-09-25T16:16:52+00:00"
-      },
-      {
-        "title": "Show HN: I discovered roads in the US across > 1000 themes",
-        "link": "https://road-about-a-theme.pinedesk.biz/",
-        "description": "This interactive dataviz I created lets you explore about ~1k different themes I computed by cross referencing popular Wikidata articles against OSM roads. Comments URL: https://news.ycombinator.com/item?id=49846409 Points: 6 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-09-25T16:05:08+00:00"
-      },
-      {
-        "title": "Gravity seems holographic. What does that mean for reality?",
-        "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-        "description": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/item?id=49845998 Points: 84 # Comments: 82",
-        "source": "HackerNews",
-        "published": "2026-09-25T15:31:02+00:00"
       },
       {
         "title": "Yeni Nesil Apple TV 4K Sızdı",
@@ -355,6 +285,48 @@
     ],
     "dunya": [
       {
+        "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+        "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "description": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+        "source": "BBC News",
+        "published": "2026-09-26T00:09:45+00:00"
+      },
+      {
+        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+        "source": "BBC News",
+        "published": "2026-09-25T23:38:48+00:00"
+      },
+      {
+        "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+        "description": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+        "source": "BBC News",
+        "published": "2026-09-25T23:20:48+00:00"
+      },
+      {
+        "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+        "description": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+        "source": "BBC News",
+        "published": "2026-09-25T23:08:02+00:00"
+      },
+      {
+        "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+        "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+        "source": "BBC News",
+        "published": "2026-09-25T23:05:40+00:00"
+      },
+      {
+        "title": "E-bikes seized by police sold on at auction, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
+        "source": "BBC News",
+        "published": "2026-09-25T23:02:42+00:00"
+      },
+      {
         "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
         "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
         "description": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada The CEO of a Michigan credit union is no longer employed there, according to the organization, after she...",
@@ -362,25 +334,18 @@
         "published": "2026-09-25T22:21:15+00:00"
       },
       {
-        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "description": "Asked about the Iranian offer, a US official said discussions were taking place through mediators.",
-        "source": "BBC News",
-        "published": "2026-09-25T21:57:23+00:00"
-      },
-      {
-        "title": "Black woman found hanging from tree was dead before body was 'staged' - US media",
+        "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
         "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
         "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
         "source": "BBC News",
         "published": "2026-09-25T21:16:59+00:00"
       },
       {
-        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-        "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+        "description": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
         "source": "BBC News",
-        "published": "2026-09-25T20:47:49+00:00"
+        "published": "2026-09-25T20:48:18+00:00"
       },
       {
         "title": "Man City found guilty of majority of 115 financial rule breaches",
@@ -388,13 +353,6 @@
         "description": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
         "source": "BBC News",
         "published": "2026-09-25T20:11:12+00:00"
-      },
-      {
-        "title": "Trump's plans for massive arch move ahead",
-        "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-        "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-        "source": "BBC News",
-        "published": "2026-09-25T18:27:46+00:00"
       },
       {
         "title": "Supreme Court blocks Trump-backed Missouri congressional map",
@@ -409,13 +367,6 @@
         "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
         "source": "BBC News",
         "published": "2026-09-25T17:15:35+00:00"
-      },
-      {
-        "title": "U2 celebrate 50th anniversary at the school where they formed",
-        "link": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-        "description": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
-        "source": "BBC News",
-        "published": "2026-09-25T16:52:10+00:00"
       },
       {
         "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
@@ -437,27 +388,6 @@
         "description": "The visit comes at an important time for both men.",
         "source": "NPR",
         "published": "2026-09-25T15:11:47-04:00"
-      },
-      {
-        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-        "link": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
-        "description": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
-        "source": "BBC News",
-        "published": "2026-09-25T15:01:42+00:00"
-      },
-      {
-        "title": "Watch: What could the potential sanctions for Man City be?",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
-        "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused...",
-        "source": "BBC News",
-        "published": "2026-09-25T14:55:14+00:00"
-      },
-      {
-        "title": "Special agents' blood and urine test results stolen in FBI hack",
-        "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-        "source": "BBC News",
-        "published": "2026-09-25T13:56:16+00:00"
       },
       {
         "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
@@ -571,7 +501,35 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-eylul-2026-1743505",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-26T01:30:00+03:00"
+        "published": "2026-09-26T04:00:00+03:00"
+      },
+      {
+        "title": "Erdoğan’ın mal varlığını araştıranlar gözaltında!",
+        "link": "https://www.sozcu.com.tr/erdogan-in-mal-varligini-arastiranlar-gozaltinda-p363604",
+        "description": "Erdoğan’ın mal varlığını araştıranlar gözaltında!",
+        "source": "Sözcü",
+        "published": "2026-09-26T03:30:01+03:00"
+      },
+      {
+        "title": "OpenAI, yapay zeka ajanlarının uygunsuz davranışlarını araştırdığını açıkladı",
+        "link": "https://www.sozcu.com.tr/openai-yapay-zeka-ajanlarinin-uygunsuz-davranislarini-arastirdigini-acikladi-p363607",
+        "description": "OpenAI, yapay zeka ajanlarının uygunsuz davranışlarını araştırdığını açıkladı",
+        "source": "Sözcü",
+        "published": "2026-09-26T03:29:39+03:00"
+      },
+      {
+        "title": "Güvenlikçi sertifikası olmayanlar da okullarda işe alındı",
+        "link": "https://www.sozcu.com.tr/guvenlikci-sertifikasi-olmayanlar-da-okullarda-ise-alindi-p363602",
+        "description": "Güvenlikçi sertifikası olmayanlar da okullarda işe alındı",
+        "source": "Sözcü",
+        "published": "2026-09-26T03:00:00+03:00"
+      },
+      {
+        "title": "Göbek yağlarına karşı insülin dengesi şart",
+        "link": "https://www.sozcu.com.tr/gobek-yaglarina-karsi-insulin-dengesi-sart-p363599",
+        "description": "Göbek yağlarına karşı insülin dengesi şart",
+        "source": "Sözcü",
+        "published": "2026-09-26T02:30:00+03:00"
       },
       {
         "title": "Montella'dan mağlubiyet yorumu! 'Daha fazlasını hak ediyorduk'",
@@ -602,13 +560,6 @@
         "published": "2026-09-26T00:55:49+03:00"
       },
       {
-        "title": "'Bakan istifa edecek' demişti: Ali Tarakçı hakkında gözaltı kararı verildi",
-        "link": "https://www.sozcu.com.tr/bakan-istifa-edecek-demisti-ali-tarakci-hakkinda-gozalti-karari-verildi-p363591",
-        "description": "'Bakan istifa edecek' demişti: Ali Tarakçı hakkında gözaltı kararı verildi",
-        "source": "Sözcü",
-        "published": "2026-09-26T00:50:10+03:00"
-      },
-      {
         "title": "11 öğrencinin yaralandığı saldırıda 7 tutuklama!",
         "link": "https://www.sozcu.com.tr/manisa-daki-okul-saldirisiyla-ilgili-yeni-gelisme-p363594",
         "description": "11 öğrencinin yaralandığı saldırıda 7 tutuklama!",
@@ -623,25 +574,11 @@
         "published": "2026-09-26T00:22:18+03:00"
       },
       {
-        "title": "Tera'nın gizemli 11 yatırımcısı belli oldu: İşte o isimler ve pay oranları...",
-        "link": "https://www.sozcu.com.tr/tera-nin-gizemli-11-yatirimcisi-kim-p363592",
-        "description": "Tera'nın gizemli 11 yatırımcısı belli oldu: İşte o isimler ve pay oranları...",
-        "source": "Sözcü",
-        "published": "2026-09-26T00:22:18+03:00"
-      },
-      {
         "title": "Ali Tarakçı hakkında gözaltı kararı",
         "link": "https://www.ntv.com.tr/turkiye/ali-tarakci-hakkinda-gozalti-karari-1743506",
         "description": "Ankara Cumhuriyet Başsavcılığı, Ali Tarakçı hakkında gözaltı kararı verildiğini bildirdi.",
         "source": "NTV",
         "published": "2026-09-26T00:18:51+03:00"
-      },
-      {
-        "title": "Mbappe'den Arda Güler'e şok hareket! Takım arkadaşına davranışı çok konuşuldu",
-        "link": "https://www.sozcu.com.tr/arda-gulerin-konsantrasyonunu-bozmak-icin-bagirarak-baski-kurdu-p363590",
-        "description": "Mbappe'den Arda Güler'e şok hareket! Takım arkadaşına davranışı çok konuşuldu",
-        "source": "Sözcü",
-        "published": "2026-09-26T00:08:43+03:00"
       },
       {
         "title": "Eşekle Türkiye’yi gezip, köy çocuklarına kitap ve kırtasiye malzemeleri dağıttı",
@@ -656,13 +593,6 @@
         "description": "Dışişleri Bakanı Hakan Fidan, New York'ta İran Dışişleri Bakanı Abbas Arakçi ile bir araya geldi.",
         "source": "NTV",
         "published": "2026-09-25T23:57:18+03:00"
-      },
-      {
-        "title": "Yemen’den seferberlik çağrısı: Bölge ülkelerinden de destek istendi",
-        "link": "https://www.sozcu.com.tr/yemen-den-seferberlik-cagrisi-bolge-ulkelerinden-de-destek-istendi-p363589",
-        "description": "Yemen’den seferberlik çağrısı: Bölge ülkelerinden de destek istendi",
-        "source": "Sözcü",
-        "published": "2026-09-25T23:56:38+03:00"
       },
       {
         "title": "Rönesans Rezidans davasında \"olası kast\" talebine mahkemeden ret",
@@ -686,6 +616,27 @@
         "published": "2026-09-25T23:48:26+03:00"
       },
       {
+        "title": "OpenAI, yapay zekanın uygunsuz davrandığı 'onlarca' vakayı araştırıyor",
+        "link": "https://www.bbc.com/turkce/articles/c6ly77km30rzo?at_medium=RSS&at_campaign=rss",
+        "description": "OpenAI Cuma günü yaptığı açıklamada, yapay zeka ajanlarının uygunsuz davranması nedeniyle web sitelerinin etkilenmiş olabileceği konusunda küresel ölçekte \"onlarca\" kurumu uyardığını belirtti.",
+        "source": "BBC Turkish",
+        "published": "2026-09-25T23:25:15+00:00"
+      },
+      {
+        "title": "Endonezya yanardağlarında internet ünlüleri içerik için ölüme yaklaşıyor",
+        "link": "https://www.bbc.com/turkce/articles/cwg59lmn0e31o?at_medium=RSS&at_campaign=rss",
+        "description": "Bir yanardağı ziyaret etmek, hayranlık uyandıran bir deneyim olabilir ve inanılmaz fotoğraflar ve videolar çekme fırsatı sunabilir. Ancak Endonezya'daki yetkililer, sosyal medya için içerik oluşturma arzusunun insanları ölümcül riskler almaya ittiği...",
+        "source": "BBC Turkish",
+        "published": "2026-09-25T23:10:32+00:00"
+      },
+      {
+        "title": "Manisa'da okula silahlı saldırıda yedi tutuklama",
+        "link": "https://www.bbc.com/turkce/articles/cq5y4z071pz6o?at_medium=RSS&at_campaign=rss",
+        "description": "Manisa'nın Turgutlu ilçesinde bir lise binasında okul yakınında 11 öğrencinin yaralandığı silahlı saldırıya ilişkin adliyeye sevk edilen 10 şüpheliden 7'si tutuklandı.",
+        "source": "BBC Turkish",
+        "published": "2026-09-25T22:44:20+00:00"
+      },
+      {
         "title": "Bolu Belediyesi irtikap soruşturması: Tanju Özcan'ın 217 yıla kadar hapsi istendi",
         "link": "https://www.ntv.com.tr/turkiye/bolu-belediyesi-irtikap-sorusturmasi-tanju-ozcanin-217-yila-kadar-hapsi-istendi-1743491",
         "description": "Bolu Belediyesine yönelik \"irtikap\" soruşturması kapsamında, aralarında Tanju Özcan'ın da bulunduğu 4'ü tutuklu 19 sanıklı davada esas hakkındaki mütalaa mahkemeye sunuldu.",
@@ -705,20 +656,6 @@
         "description": "BBC'nin kaynaklara dayandırdığı haberine göre , Manchester City, Premier Lig'in mali kurallarını ihlal ettiği iddiasıyla yöneltilen 115 suçlamadan biri hariç tümünden suçlu bulundu.",
         "source": "BBC Turkish",
         "published": "2026-09-25T17:25:35+00:00"
-      },
-      {
-        "title": "FBI'a siber saldırıda ajanların sağlık bilgileri ele geçirildi",
-        "link": "https://www.bbc.com/turkce/articles/c6lyrrvnjnnzo?at_medium=RSS&at_campaign=rss",
-        "description": "FBI'ı hackleyen siber suçlular, binlerce özel ajana ait son derece hassas tıbbi verilere sahip olduklarını söylüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-09-25T17:21:40+00:00"
-      },
-      {
-        "title": "Mekke Anlaşması: Türkiye ve Pakistan, Husilerle savaşan Suudilere askeri destek verecek mi?",
-        "link": "https://www.bbc.com/turkce/articles/cqe9e7e9xm41o?at_medium=RSS&at_campaign=rss",
-        "description": "Yemen'deki Husilerin Suudi Arabistan hedeflerine yönelik saldırılarını artırdığı bir dönemde, Türkiye, Pakistan ve Suudi Arabistan'ın imzaladığı ortak savunma anlaşması çerçevesinde peş peşe gelişmeler yaşanıyor. Üç ülke dışişleri bakanları New...",
-        "source": "BBC Turkish",
-        "published": "2026-09-25T16:54:08+00:00"
       },
       {
         "title": "Fon krizinde yatırımcıların parası nasıl geri ödenebilir?",
@@ -756,13 +693,6 @@
         "published": "2026-09-25T14:19:18+00:00"
       },
       {
-        "title": "Suudi Arabistan'ın 'cihat ilan ettiği' Husiler nasıl bu kadar güçlendi?",
-        "link": "https://www.bbc.com/turkce/articles/cmj4jk7e9ergo?at_medium=RSS&at_campaign=rss",
-        "description": "Suudi Arabistan Müftüsü Salih Favzan, Yemen'deki Husilere karşı \"cihat\" ilan ettiğini açıkladı. Bu gelişme, silahlı isyancı örgütün Yemen'de Suudi destekli hükümete karşı mevzi kazanmaya devam etmesinin ardından geldi.",
-        "source": "BBC Turkish",
-        "published": "2026-09-25T12:18:41+00:00"
-      },
-      {
         "title": "Erdoğan 'Sorumlulardan hesap sorulacak' dedi, Şimşek istifa iddiasını yalanladı",
         "link": "https://www.bbc.com/turkce/articles/cq4g53jg5y9no?at_medium=RSS&at_campaign=rss",
         "description": "Cumhurbaşkanı Erdoğan, Birleşmiş Milletler zirvesi için bulunduğu ABD'de fon krizine ilişkin konuştu. Erdoğan, \"Sorumluluğu olan kim varsa hukuk önünde hesap sorulacaktır\" dedi.",
@@ -779,14 +709,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.8944,
-    "eur_try": 55.6465,
-    "eur_usd": 0.8787
+    "usd_try": 48.9192,
+    "eur_try": 55.7224,
+    "eur_usd": 0.8773
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+61°F",
-    "wind": "↖10mph",
-    "humidity": "91%"
+    "condition": "Hafif sağanak yağmur",
+    "temp": "+73°F",
+    "wind": "↖12mph",
+    "humidity": "93%"
   }
 }
