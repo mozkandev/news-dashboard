@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:05:12.933474+00:00",
+  "updated_at": "2026-09-27T00:46:37.628255+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -19,7 +19,7 @@
       {
         "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
         "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-        "description": "Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/ Comments URL: https://news.ycombinator.com/item?id=49860074 Points: 14 # Comments: 1",
+        "description": "Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/ Comments URL: https://news.ycombinator.com/item?id=49860074 Points: 41 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-09-26T20:08:50+00:00"
       },
@@ -31,9 +31,16 @@
         "published": "2026-09-26T18:55:01+00:00"
       },
       {
+        "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+        "link": "https://tml.stanford.edu/homebody/",
+        "description": "Article URL: https://tml.stanford.edu/homebody/ Comments URL: https://news.ycombinator.com/item?id=49859299 Points: 10 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-09-26T18:42:10+00:00"
+      },
+      {
         "title": "DeepSeek Elastic Compute (DSec)",
         "link": "https://arxiv.org/abs/2609.22978",
-        "description": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 62 # Comments: 14",
+        "description": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 142 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-09-26T18:22:41+00:00"
       },
@@ -54,7 +61,7 @@
       {
         "title": "Japan moves to tighten rules for foreigners",
         "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-        "description": "Article URL: https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt Comments URL: https://news.ycombinator.com/item?id=49858810 Points: 45 # Comments: 85",
+        "description": "Article URL: https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt Comments URL: https://news.ycombinator.com/item?id=49858810 Points: 120 # Comments: 317",
         "source": "HackerNews",
         "published": "2026-09-26T17:43:11+00:00"
       },
@@ -66,11 +73,25 @@
         "published": "2026-09-26T17:30:01-04:00"
       },
       {
+        "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+        "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+        "description": "Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html Comments URL: https://news.ycombinator.com/item?id=49858676 Points: 15 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-09-26T17:26:54+00:00"
+      },
+      {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
         "link": "https://github.com/reladraw/reladraw",
         "description": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time...",
         "source": "HackerNews",
         "published": "2026-09-26T17:10:40+00:00"
+      },
+      {
+        "title": "The Evolution of Vending Machines",
+        "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+        "description": "Article URL: https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/ Comments URL: https://news.ycombinator.com/item?id=49858424 Points: 9 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-09-26T17:01:45+00:00"
       },
       {
         "title": "Yapay Zeka Yazılım Korsanlığı Yaptı: Ücretli Yazılımı Crackledi",
@@ -110,7 +131,7 @@
       {
         "title": "Drawgent: Coding agent on a live Excalidraw canvas",
         "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-        "description": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 82 # Comments: 28",
+        "description": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 102 # Comments: 32",
         "source": "HackerNews",
         "published": "2026-09-26T15:56:34+00:00"
       },
@@ -122,18 +143,11 @@
         "published": "2026-09-26T15:53:35+03:00"
       },
       {
-        "title": "Automattic has a new board after failed attempt to put CEO on leave",
-        "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-        "description": "Article URL: https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/ Comments URL: https://news.ycombinator.com/item?id=49857572 Points: 103 # Comments: 119",
+        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+        "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "description": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash. The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward...",
         "source": "HackerNews",
-        "published": "2026-09-26T15:40:27+00:00"
-      },
-      {
-        "title": "Plunging test scores are a slow-moving catastrophe",
-        "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-        "description": "https://archive.ph/n8Akh Comments URL: https://news.ycombinator.com/item?id=49857442 Points: 145 # Comments: 274",
-        "source": "HackerNews",
-        "published": "2026-09-26T15:24:08+00:00"
+        "published": "2026-09-26T15:49:04+00:00"
       },
       {
         "title": "Decap is the man behind the drums behind your favorite song",
@@ -143,11 +157,11 @@
         "published": "2026-09-26T15:22:40-04:00"
       },
       {
-        "title": "OpenAI bots meddled with multiple US Government agency sites",
-        "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "description": "Article URL: https://www.bbc.com/news/articles/cw62jje658dlo Comments URL: https://news.ycombinator.com/item?id=49856665 Points: 87 # Comments: 115",
+        "title": "Go Concurrency Distilled",
+        "link": "https://antonz.org/go-concurrency-distilled/",
+        "description": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 13 # Comments: 0",
         "source": "HackerNews",
-        "published": "2026-09-26T14:03:54+00:00"
+        "published": "2026-09-26T14:34:49+00:00"
       },
       {
         "title": "Elektrikli Volkswagen ID. Buzz Dünya Rekoru Kırdı: 100 Bin Kilometreyi Hatasız Tamamladı",
@@ -211,20 +225,6 @@
         "description": "Fraunhofer ISI ve ICCT araştırmasına göre, Avrupa'da elektrikli kamyonların şarj talebi 2045 yılına kadar 200 TWh seviyesine ulaşabilir.",
         "source": "ShiftDelete",
         "published": "2026-09-26T11:00:05+00:00"
-      },
-      {
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "description": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 605 # Comments: 232",
-        "source": "HackerNews",
-        "published": "2026-09-26T10:55:56+00:00"
-      },
-      {
-        "title": "How to keep enjoying programming in a world of LLMs",
-        "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-        "description": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 116 # Comments: 173",
-        "source": "HackerNews",
-        "published": "2026-09-26T09:41:58+00:00"
       },
       {
         "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
@@ -355,6 +355,55 @@
     ],
     "dunya": [
       {
+        "title": "Protesters gather as judges overturn ban on Drumcree parade",
+        "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+        "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
+        "source": "BBC News",
+        "published": "2026-09-26T23:42:11+00:00"
+      },
+      {
+        "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+        "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+        "source": "BBC News",
+        "published": "2026-09-26T23:04:08+00:00"
+      },
+      {
+        "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
+        "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss",
+        "description": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
+        "source": "BBC News",
+        "published": "2026-09-26T23:03:39+00:00"
+      },
+      {
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
+        "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
+        "source": "BBC News",
+        "published": "2026-09-26T23:01:47+00:00"
+      },
+      {
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "source": "BBC News",
+        "published": "2026-09-26T23:00:42+00:00"
+      },
+      {
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+        "source": "BBC News",
+        "published": "2026-09-26T22:15:59+00:00"
+      },
+      {
+        "title": "Young people in China are fangirling over a professor who gets their anxiety",
+        "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+        "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+        "source": "BBC News",
+        "published": "2026-09-26T22:02:18+00:00"
+      },
+      {
         "title": "Republic of Ireland to wear black armbands for Israel game",
         "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
         "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
@@ -367,13 +416,6 @@
         "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
         "source": "BBC News",
         "published": "2026-09-26T18:50:02+00:00"
-      },
-      {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-        "source": "BBC News",
-        "published": "2026-09-26T18:17:12+00:00"
       },
       {
         "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
@@ -411,27 +453,6 @@
         "published": "2026-09-26T13:10:04-04:00"
       },
       {
-        "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
-        "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
-        "description": "He says his children are “happy in school” and the family returned to the UK for \"lots of reasons\".",
-        "source": "BBC News",
-        "published": "2026-09-26T12:26:53+00:00"
-      },
-      {
-        "title": "How long can Labour's feel-good factor last?",
-        "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
-        "description": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
-        "source": "BBC News",
-        "published": "2026-09-26T11:22:03+00:00"
-      },
-      {
-        "title": "Murder or medical mix-up? New questions in the case of killer nurse Colin Norris",
-        "link": "https://www.bbc.co.uk/news/articles/ckg7q33gnwro?at_medium=RSS&at_campaign=rss",
-        "description": "A BBC podcast reveals a scenario in which the nurse's murders may never have taken place at all.",
-        "source": "BBC News",
-        "published": "2026-09-26T08:05:11+00:00"
-      },
-      {
         "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
         "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
         "description": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
@@ -446,9 +467,9 @@
         "published": "2026-09-26T07:58:05+00:00"
       },
       {
-        "title": "Powerful nor'easter brings winds, floods to East Coast",
-        "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-pounds-mid-atlantic-new-england-coastlines-hurricane-nolo-targets-hawaii",
-        "description": "Thousands of people are without power across the East Coast as a nor'easter rips through the area. Forecasters expect significant winds and rain throughout the weekend.",
+        "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
+        "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
+        "description": "Northeast states saw rising tides and widespread power outages on Saturday as the storm ripped through the region. Forecasters expect significant winds and rain throughout the weekend.",
         "source": "NPR",
         "published": "2026-09-26T07:38:00-04:00"
       },
@@ -488,32 +509,11 @@
         "published": "2026-09-26T02:59:45-04:00"
       },
       {
-        "title": "How the bare nails trend became a class issue",
-        "link": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
-        "description": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
-        "source": "BBC News",
-        "published": "2026-09-25T23:31:20+00:00"
-      },
-      {
-        "title": "Your child has left home. Here's why it's time to stop checking up on them",
-        "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
-        "description": "Parents say social media groups and tracking apps are feeding their anxiety about children who have recently gone to uni.",
-        "source": "BBC News",
-        "published": "2026-09-25T23:03:51+00:00"
-      },
-      {
         "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
         "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
         "description": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada The CEO of a Michigan credit union is no longer employed there, according to the organization, after she...",
         "source": "The Guardian",
         "published": "2026-09-25T22:21:15+00:00"
-      },
-      {
-        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-        "source": "BBC News",
-        "published": "2026-09-25T22:12:48+00:00"
       },
       {
         "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
@@ -571,7 +571,7 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-eylul-2026-1743631",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-09-27T01:00:00+03:00"
+        "published": "2026-09-27T03:30:00+03:00"
       },
       {
         "title": "Son dakika...Fon soruşturmasında Tera Portföy Yönetim Kurulu Başkanı hakkında yakalama kararı",
@@ -644,6 +644,13 @@
         "published": "2026-09-26T22:19:46+03:00"
       },
       {
+        "title": "ABD Türkiye'nin komşusuna dolar yağdıracak",
+        "link": "https://www.sozcu.com.tr/abd-turkiye-nin-komsusuna-dolar-yagdiracak-p363794",
+        "description": "ABD Türkiye'nin komşusuna dolar yağdıracak",
+        "source": "Sözcü",
+        "published": "2026-09-26T22:15:15+03:00"
+      },
+      {
         "title": "Evli çift, evlerinde öldürülmüş halde bulundu",
         "link": "https://www.ntv.com.tr/turkiye/evli-cift-evlerinde-oldurulmus-halde-bulundu-1743623",
         "description": "Manisa'nın Yunusemre ilçesinde, oto kaporta dükkanı işleten İsa Acar (56) ve eşi Mümire Acar (54), evlerinde tabancayla vurularak öldürülmüş halde bulundu.",
@@ -698,13 +705,6 @@
         "description": "Azerbaycan Grand Prix'sinde kazanan Russell",
         "source": "Sözcü",
         "published": "2026-09-26T20:55:33+03:00"
-      },
-      {
-        "title": "Yağlı Güreş Cumhurbaşkanlığı Kupası Orhan Okulu'nun",
-        "link": "https://www.sozcu.com.tr/yagli-gures-cumhurbaskanligi-kupasi-orhan-okulu-nun-p363787",
-        "description": "Yağlı Güreş Cumhurbaşkanlığı Kupası Orhan Okulu'nun",
-        "source": "Sözcü",
-        "published": "2026-09-26T20:52:06+03:00"
       },
       {
         "title": "Hava Kuvvetleri Komutanı, İngiliz mevkidaşıyla Konya'da uçtu",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 48.9192,
-    "eur_try": 55.7224,
-    "eur_usd": 0.8773
+    "usd_try": 48.9106,
+    "eur_try": 55.7221,
+    "eur_usd": 0.8775
   },
   "weather": {
     "condition": "Kapalı",
-    "temp": "+62°F",
-    "wind": "↓12mph",
-    "humidity": "50%"
+    "temp": "+61°F",
+    "wind": "↓9mph",
+    "humidity": "38%"
   }
 }
