@@ -1,27 +1,55 @@
 {
-  "updated_at": "2026-10-03T22:18:32.591823+00:00",
+  "updated_at": "2026-10-04T01:49:36.939725+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Bob Cringely Has Died",
+        "link": "https://news.ycombinator.com/item?id=49949438",
+        "description": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the...",
+        "source": "HackerNews",
+        "published": "2026-10-04T00:50:52+00:00"
+      },
+      {
+        "title": "We're going to need default hard budget caps on pretty much everything",
+        "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "description": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 136 # Comments: 57",
+        "source": "HackerNews",
+        "published": "2026-10-04T00:20:16+00:00"
+      },
+      {
+        "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
+        "link": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
+        "description": "Article URL: https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers Comments URL: https://news.ycombinator.com/item?id=49949152 Points: 25 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-10-04T00:09:21+00:00"
+      },
+      {
+        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "description": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 132 # Comments: 86",
+        "source": "HackerNews",
+        "published": "2026-10-03T22:18:13+00:00"
+      },
+      {
+        "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+        "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "description": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49948254 Points: 297 # Comments: 191",
+        "source": "HackerNews",
+        "published": "2026-10-03T22:07:13+00:00"
+      },
+      {
         "title": "Reasons I didn't become an EMT, ranked",
         "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-        "description": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 4 # Comments: 2",
+        "description": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 87 # Comments: 42",
         "source": "HackerNews",
         "published": "2026-10-03T20:49:15+00:00"
       },
       {
         "title": "Surely you have ultra-wideband radios on your bins too?",
         "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-        "description": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 16 # Comments: 2",
+        "description": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 38 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-10-03T20:27:44+00:00"
-      },
-      {
-        "title": "Show HN: Local pretrained classifiers, GPU not needed",
-        "link": "https://github.com/nicobrenner/jeffy",
-        "description": "I was curious about what classifiers could do. It turns out, a lot, sometimes even play Doom. Jeffy is currently a collection of simple classifiers that can do spam detection, intent routing, topic classification, sentiment analysis and even play...",
-        "source": "HackerNews",
-        "published": "2026-10-03T20:19:09+00:00"
       },
       {
         "title": "Yapay Zeka Krizi 7 Yıllık Nvidia Shield TV Fiyatlarını Bile Vurdu",
@@ -33,7 +61,7 @@
       {
         "title": "We want you to build the next Git platform on Cloudflare",
         "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-        "description": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 71 # Comments: 64",
+        "description": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 100 # Comments: 91",
         "source": "HackerNews",
         "published": "2026-10-03T19:33:16+00:00"
       },
@@ -45,18 +73,18 @@
         "published": "2026-10-03T19:33:15+00:00"
       },
       {
-        "title": "RSS Feed Best Practices (2022)",
-        "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-        "description": "Article URL: https://kevincox.ca/2022/05/06/rss-feed-best-practices/ Comments URL: https://news.ycombinator.com/item?id=49946845 Points: 23 # Comments: 5",
+        "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+        "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+        "description": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 125 # Comments: 17",
         "source": "HackerNews",
-        "published": "2026-10-03T19:09:25+00:00"
+        "published": "2026-10-03T19:14:48+00:00"
       },
       {
-        "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-        "link": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-        "description": "Article URL: https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/ Comments URL: https://news.ycombinator.com/item?id=49946827 Points: 44 # Comments: 23",
+        "title": "RSS Feed Best Practices (2022)",
+        "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+        "description": "Article URL: https://kevincox.ca/2022/05/06/rss-feed-best-practices/ Comments URL: https://news.ycombinator.com/item?id=49946845 Points: 38 # Comments: 7",
         "source": "HackerNews",
-        "published": "2026-10-03T19:07:18+00:00"
+        "published": "2026-10-03T19:09:25+00:00"
       },
       {
         "title": "Çip Krizi Televizyon Fiyatlarını Vurdu",
@@ -66,13 +94,6 @@
         "published": "2026-10-03T19:00:01+00:00"
       },
       {
-        "title": "How to hack time, with C2PA",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-        "description": "Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.html Comments URL: https://news.ycombinator.com/item?id=49946707 Points: 3 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-10-03T18:52:06+00:00"
-      },
-      {
         "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
         "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
         "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
@@ -80,32 +101,11 @@
         "published": "2026-10-03T18:43:57+00:00"
       },
       {
-        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-        "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-        "description": "Article URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/ Comments URL: https://news.ycombinator.com/item?id=49946567 Points: 89 # Comments: 48",
-        "source": "HackerNews",
-        "published": "2026-10-03T18:29:30+00:00"
-      },
-      {
-        "title": "Hole Punch: Sling your spaceship around gravitational fields",
-        "link": "https://notoriousbfg.com/hole-punch/",
-        "description": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 143 # Comments: 45",
-        "source": "HackerNews",
-        "published": "2026-10-03T18:06:45+00:00"
-      },
-      {
         "title": "Galaxy S27 Serisinin Ekran Üretimi Başlıyor",
         "link": "https://shiftdelete.net/samsung-galaxy-s27-serisi-ekran-uretimi",
         "description": "Samsung Galaxy S27 serisi ekran üretimi başlıyor. İşte yeni seride yer alacak dört model ve ekran teknolojisi hakkındaki tüm detaylar.",
         "source": "ShiftDelete",
         "published": "2026-10-03T18:00:46+00:00"
-      },
-      {
-        "title": "Vx – One Language, Every Chip",
-        "link": "https://vxlang.org/",
-        "description": "Article URL: https://vxlang.org/ Comments URL: https://news.ycombinator.com/item?id=49946076 Points: 45 # Comments: 27",
-        "source": "HackerNews",
-        "published": "2026-10-03T17:23:20+00:00"
       },
       {
         "title": "Google Chrome’a Şifreler için Parmak İzi Kilidi Geliyor",
@@ -355,6 +355,34 @@
     ],
     "dunya": [
       {
+        "title": "The Celebrity Traitors connections that might surprise you",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
+        "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
+        "source": "BBC News",
+        "published": "2026-10-04T01:31:32+00:00"
+      },
+      {
+        "title": "When parenting advice becomes too much",
+        "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
+        "description": "Many parents feel overwhelmed by the amount of parenting information available",
+        "source": "BBC News",
+        "published": "2026-10-04T01:24:05+00:00"
+      },
+      {
+        "title": "Cornell president says university 'must do better' after frat house rape allegations",
+        "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+        "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+        "source": "BBC News",
+        "published": "2026-10-04T00:11:25+00:00"
+      },
+      {
+        "title": "Why Canada is preparing for a (long shot) US invasion",
+        "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+        "source": "BBC News",
+        "published": "2026-10-03T23:30:06+00:00"
+      },
+      {
         "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
         "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
         "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
@@ -367,6 +395,20 @@
         "description": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
         "source": "BBC News",
         "published": "2026-10-03T20:42:05+00:00"
+      },
+      {
+        "title": "Coast Guard searching for missing medical plane carrying 6 people",
+        "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
+        "description": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.",
+        "source": "NPR",
+        "published": "2026-10-03T18:31:04-04:00"
+      },
+      {
+        "title": "Can the Cornell lawsuit force changes that make students safer?",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+        "description": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work.",
+        "source": "NPR",
+        "published": "2026-10-03T17:57:34-04:00"
       },
       {
         "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
@@ -395,13 +437,6 @@
         "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
         "source": "BBC News",
         "published": "2026-10-03T13:34:11+00:00"
-      },
-      {
-        "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
-        "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-        "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-        "source": "BBC News",
-        "published": "2026-10-03T10:58:51+00:00"
       },
       {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
@@ -481,46 +516,11 @@
         "published": "2026-10-03T05:00:00-04:00"
       },
       {
-        "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-        "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
-        "description": "Motion sickness is caused by a mismatch in sensory cues and women and children are more susceptible, experts say.",
-        "source": "BBC News",
-        "published": "2026-10-03T02:36:19+00:00"
-      },
-      {
-        "title": "Spoiler alert! Is social media ruining big gig surprises?",
-        "link": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
-        "description": "Big moments from headline acts are shared online long before many fans see their favourite artists.",
-        "source": "BBC News",
-        "published": "2026-10-03T02:26:42+00:00"
-      },
-      {
-        "title": "Why thousands of couples are choosing Scotland to say 'I do'",
-        "link": "https://www.bbc.co.uk/news/articles/c3y0zdj8jlxeo?at_medium=RSS&at_campaign=rss",
-        "description": "A quarter of all marriages in Scotland involve couples who don't live here but see it as the ultimate wedding destination.",
-        "source": "BBC News",
-        "published": "2026-10-03T01:43:20+00:00"
-      },
-      {
-        "title": "Brazil's big political rematch: What to know about the Brazilian election",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
-        "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
-        "source": "NPR",
-        "published": "2026-10-02T22:57:07-04:00"
-      },
-      {
         "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
         "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
         "description": "President leads huge rally in Rio before election on Sunday seen as most important for decades The Brazilian president, Luiz Inácio Lula da Silva, has claimed he is the only thing standing in the way of far-right “fascists” reclaiming power, as he...",
         "source": "The Guardian",
         "published": "2026-10-02T21:12:29+00:00"
-      },
-      {
-        "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
-        "description": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.",
-        "source": "NPR",
-        "published": "2026-10-02T17:44:07-04:00"
       },
       {
         "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
@@ -571,7 +571,14 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-04-ekim-2026-1744687",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-04T01:00:00+03:00"
+        "published": "2026-10-04T04:30:00+03:00"
+      },
+      {
+        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 04 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-04-ekim-2026-1744693",
+        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 04 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
+        "source": "NTV",
+        "published": "2026-10-04T04:10:00+03:00"
       },
       {
         "title": "Gerçek 12 yıl sonra ortaya çıktı! İkisini de ormana gömmüşler",
@@ -700,13 +707,6 @@
         "published": "2026-10-03T20:00:27+03:00"
       },
       {
-        "title": "Ege'de fırtına. Gökçeada feribot seferlerinde iptaller var",
-        "link": "https://www.ntv.com.tr/turkiye/egede-firtina-gokceada-feribot-seferlerinde-iptaller-var-1744661",
-        "description": "Çanakkale'nin Kuzey Ege Denizi'ndeki Gökçeada ilçesine yarın yapılması planlanan bazı tarifeli feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi.",
-        "source": "NTV",
-        "published": "2026-10-03T18:28:07+03:00"
-      },
-      {
         "title": "Bahçeli'den fon krizi açıklaması: 'Türkiye bir arınma sürecinden geçiyor'",
         "link": "https://www.bbc.com/turkce/articles/cmx2w84w4nxeo?at_medium=RSS&at_campaign=rss",
         "description": "MHP lideri Devlet Bahçeli, fon krizi başta olmak üzere gündemle ilgili yaptığı yazılı açıklamada, \"Türkiye, yolsuzluk ve usulsüzlüklerin ortaya çıkarıldığı bir arınma sürecinden geçmektedir\" dedi.",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 49.1349,
-    "eur_try": 55.288,
+    "usd_try": 49.1366,
+    "eur_try": 55.2893,
     "eur_usd": 0.8888
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+55°F",
-    "wind": "↑2mph",
-    "humidity": "91%"
+    "condition": "Açık",
+    "temp": "+60°F",
+    "wind": "↙11mph",
+    "humidity": "40%"
   }
 }
