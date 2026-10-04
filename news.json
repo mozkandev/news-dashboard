@@ -1,13 +1,104 @@
 {
-  "updated_at": "2026-10-04T17:59:03.378432+00:00",
+  "updated_at": "2026-10-04T21:14:12.529485+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-        "link": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
-        "description": "Article URL: https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and Comments URL: https://news.ycombinator.com/item?id=49955839 Points: 17 # Comments: 8",
+        "title": "Porsche’den Stratejik Karar: Benzinli Macan Geri Dönüyor",
+        "link": "https://shiftdelete.net/porsche-benzinli-macan-donusu-2028",
+        "description": "Porsche benzinli Macan dönüşü için tarih verdi. CEO Michael Leiters, elektrikli 911 planlarını rafa kaldırırken içten yanmalı motorları koruyacak.",
+        "source": "ShiftDelete",
+        "published": "2026-10-04T21:00:48+00:00"
+      },
+      {
+        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "description": "AI slop seems to be overwhelming bug bounty programs.",
+        "source": "TechCrunch",
+        "published": "2026-10-04T20:31:07+00:00"
+      },
+      {
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "source": "TechCrunch",
+        "published": "2026-10-04T20:08:34+00:00"
+      },
+      {
+        "title": "Japon Otomotiv Devleri Maliyetleri Düşürmek için Birleşti",
+        "link": "https://shiftdelete.net/toyota-japon-otomotiv-devleri-maliyet-dusurme",
+        "description": "Toyota, Honda, Mazda, Suzuki ve Mitsubishi, Japon otomotiv devleri üretim maliyetlerini düşürmek için üretim süreçlerini optimize etmeye hazırlanıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-10-04T20:00:21+00:00"
+      },
+      {
+        "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+        "link": "https://island-three.gruberbuilds.workers.dev/",
+        "description": "Article URL: https://island-three.gruberbuilds.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=49957191 Points: 13 # Comments: 10",
         "source": "HackerNews",
-        "published": "2026-10-04T17:21:26+00:00"
+        "published": "2026-10-04T19:49:12+00:00"
+      },
+      {
+        "title": "Homa: The end of TCP for AI clusters [video]",
+        "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "description": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 14 #...",
+        "source": "HackerNews",
+        "published": "2026-10-04T19:42:25+00:00"
+      },
+      {
+        "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+        "link": "https://github.com/omlahore/RemoveMacAI",
+        "description": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 114 # Comments: 49",
+        "source": "HackerNews",
+        "published": "2026-10-04T19:42:25+00:00"
+      },
+      {
+        "title": "Improper redaction reveals Google Data Center water and electricity usage",
+        "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+        "description": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 88 # Comments: 88",
+        "source": "HackerNews",
+        "published": "2026-10-04T19:37:05+00:00"
+      },
+      {
+        "title": "Mercedes-Benz’den Büyük Değişiklik: Üç Model Veda Ediyor",
+        "link": "https://shiftdelete.net/mercedes-benz-2027-model-yili-degisiklikleri",
+        "description": "Mercedes-Benz 2027 model yılı değişiklikleri kapsamında EQE, AMG S63 E Performance ve Maybach EQS 680 SUV modellerinin satışını durduruyor.",
+        "source": "ShiftDelete",
+        "published": "2026-10-04T19:00:04+00:00"
+      },
+      {
+        "title": "Show HN: Build with Python – a beginner course where your code draws",
+        "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+        "description": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv...",
+        "source": "HackerNews",
+        "published": "2026-10-04T18:59:25+00:00"
+      },
+      {
+        "title": "Steam’de En Popüler Ekran Kartları Belli Oldu: Nvidia Yine Zirvede",
+        "link": "https://shiftdelete.net/steam-donanim-anketi-eylul-2026-sonuclari",
+        "description": "Eylül 2026 Steam Donanım Anketi sonuçlarına göre RTX 5070 en popüler ekran kartı oldu. 32 GB RAM kullanımı ise 16 GB'ı geride bıraktı.",
+        "source": "ShiftDelete",
+        "published": "2026-10-04T18:00:15+00:00"
+      },
+      {
+        "title": "Incentives in Academic Research",
+        "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+        "description": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/ Comments URL: https://news.ycombinator.com/item?id=49956035 Points: 12 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-10-04T17:42:38+00:00"
+      },
+      {
+        "title": "Xray-core concealed a certificate verification bypass vulnerability",
+        "link": "https://github.com/net4people/bbs/issues/672",
+        "description": "Article URL: https://github.com/net4people/bbs/issues/672 Comments URL: https://news.ycombinator.com/item?id=49956003 Points: 12 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-04T17:38:54+00:00"
+      },
+      {
+        "title": "The new Fitbit Edge leaks",
+        "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker...",
+        "source": "The Verge",
+        "published": "2026-10-04T17:02:09-04:00"
       },
       {
         "title": "One UI 9.0 Güncellemesi Sonrası Galaxy Cihazlarda Şarj Hızı Düştü",
@@ -15,13 +106,6 @@
         "description": "One UI 9.0 güncellemesi sonrası Galaxy telefonlarda şarj hızı düşüşü yaşanıyor. Galaxy S25 serisi kullanıcılarının bildirdiği sorunun detayları burada.",
         "source": "ShiftDelete",
         "published": "2026-10-04T17:00:28+00:00"
-      },
-      {
-        "title": "Blindsight (Watts Novel)",
-        "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
-        "description": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel) Comments URL: https://news.ycombinator.com/item?id=49955297 Points: 26 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-10-04T16:25:17+00:00"
       },
       {
         "title": "TechCrunch Mobility: Reining in robotaxis",
@@ -38,11 +122,11 @@
         "published": "2026-10-04T16:00:04+00:00"
       },
       {
-        "title": "Car is a smartphone on wheels. Here's who's listening",
-        "link": "https://automatictransmission.khoury.northeastern.edu/",
-        "description": "Article URL: https://automatictransmission.khoury.northeastern.edu/ Comments URL: https://news.ycombinator.com/item?id=49954882 Points: 153 # Comments: 77",
-        "source": "HackerNews",
-        "published": "2026-10-04T15:43:14+00:00"
+        "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+        "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+        "description": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as...",
+        "source": "The Verge",
+        "published": "2026-10-04T15:56:30-04:00"
       },
       {
         "title": "Trump unveils his new Super Intelligence Force",
@@ -66,6 +150,20 @@
         "published": "2026-10-04T14:00:36+00:00"
       },
       {
+        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "description": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds...",
+        "source": "The Verge",
+        "published": "2026-10-04T14:00:08-04:00"
+      },
+      {
+        "title": "The evolution of effective altruism",
+        "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+        "description": "https://archive.ph/3gSCc Related: https://www.economist.com/by-invitation/2026/10/04/will-maca... Comments URL: https://news.ycombinator.com/item?id=49953777 Points: 38 # Comments: 43",
+        "source": "HackerNews",
+        "published": "2026-10-04T13:30:49+00:00"
+      },
+      {
         "title": "The best early October Prime Day deals happening now",
         "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
         "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through...",
@@ -82,7 +180,7 @@
       {
         "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
         "link": "https://github.com/Niko1221/Strata",
-        "description": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 339 # Comments: 179",
+        "description": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 478 # Comments: 249",
         "source": "HackerNews",
         "published": "2026-10-04T12:51:53+00:00"
       },
@@ -94,11 +192,11 @@
         "published": "2026-10-04T12:47:17-04:00"
       },
       {
-        "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-        "description": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds...",
-        "source": "The Verge",
-        "published": "2026-10-04T12:44:59-04:00"
+        "title": "Bill Draper has died",
+        "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+        "description": "https://archive.ph/YRgDY Comments URL: https://news.ycombinator.com/item?id=49953288 Points: 38 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-10-04T12:21:35+00:00"
       },
       {
         "title": "Google Gemini Kullanıcılarına Dev Kısıtlama: Model Erişimi Değişiyor",
@@ -106,41 +204,6 @@
         "description": "Google Gemini uygulaması, 9 Ekim itibarıyla ücretsiz ve AI Plus kullanıcıları için model erişimini güncelliyor. İşte yeni model sınırlamaları.",
         "source": "ShiftDelete",
         "published": "2026-10-04T12:00:26+00:00"
-      },
-      {
-        "title": "A101 Marketlere Volta Çocuk ATV ve Vestel Şarj İstasyonu Geliyor",
-        "link": "https://shiftdelete.net/a101-8-ekim-aktuel-teknoloji-urunleri",
-        "description": "A101 marketlerin 8 Ekim aktüel kataloğunda Volta marka çocuk ATV ve Vestel elektrikli araç şarj istasyonu gibi teknoloji ürünleri yer alıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-10-04T11:00:55+00:00"
-      },
-      {
-        "title": "Tesla’nın Trabzon’daki Yeni Şarj Noktası Hizmete Girdi",
-        "link": "https://shiftdelete.net/tesla-trabzon-supercharger-istasyonu-acildi",
-        "description": "Tesla, Trabzon'da 250 kW gücünde 8 üniteli yeni bir Tesla Supercharger Trabzon istasyonunu hizmete açtı. Detaylar haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-10-04T10:00:00+00:00"
-      },
-      {
-        "title": "Show HN: AI search for every photo and every frame of video on macOS",
-        "link": "https://github.com/allenv0/SCM",
-        "description": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 81 # Comments: 44",
-        "source": "HackerNews",
-        "published": "2026-10-04T09:24:52+00:00"
-      },
-      {
-        "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-        "link": "https://gamehistory.org/5k-magazines/",
-        "description": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 84 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-10-04T09:07:11+00:00"
-      },
-      {
-        "title": "WhatsApp’ta Sohbet Kısıtlama Dönemi Başlıyor",
-        "link": "https://shiftdelete.net/whatsapp-restricted-chat-ozelligi-beta-kullanicilarina-sunuldu",
-        "description": "WhatsApp'ın yeni Restricted Chat özelliği beta sürümünde kullanıma açıldı. İşte kısıtlı sohbetlerin sunduğu güvenlik önlemleri ve detaylar.",
-        "source": "ShiftDelete",
-        "published": "2026-10-04T09:00:39+00:00"
       },
       {
         "title": "The AirPods Pro 3 are a fantastic deal at $179",
@@ -169,41 +232,6 @@
         "description": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet...",
         "source": "The Verge",
         "published": "2026-10-04T08:16:42-04:00"
-      },
-      {
-        "title": "İkinci El İşlemci Alırken Dikkat: Valorant’tan Ban Yiyebilirsiniz",
-        "link": "https://shiftdelete.net/ikinci-el-islemci-valorant-bani-riski",
-        "description": "İkinci el işlemci alırken Valorant banı riskiyle karşılaşabilirsiniz. Vanguard donanım yasağı, ikinci el donanım kullanıcılarını nasıl etkiliyor?",
-        "source": "ShiftDelete",
-        "published": "2026-10-04T08:00:58+00:00"
-      },
-      {
-        "title": "What's the Future for Pure Math Research in the Age of AI?",
-        "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-        "description": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 39 # Comments: 15",
-        "source": "HackerNews",
-        "published": "2026-10-04T07:53:45+00:00"
-      },
-      {
-        "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-        "link": "https://github.com/PowderworksCode/headstart",
-        "description": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 85 # Comments: 23",
-        "source": "HackerNews",
-        "published": "2026-10-04T06:26:57+00:00"
-      },
-      {
-        "title": "Why don't more developers “use the platform”?",
-        "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-        "description": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 240 # Comments: 242",
-        "source": "HackerNews",
-        "published": "2026-10-04T04:10:47+00:00"
-      },
-      {
-        "title": "We're working on a new RuneScape MMO",
-        "link": "https://play.runescape.com/4",
-        "description": "Article URL: https://play.runescape.com/4 Comments URL: https://news.ycombinator.com/item?id=49949588 Points: 141 # Comments: 78",
-        "source": "HackerNews",
-        "published": "2026-10-04T01:12:22+00:00"
       },
       {
         "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
@@ -246,20 +274,6 @@
         "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "source": "TechCrunch",
         "published": "2026-10-03T14:00:00+00:00"
-      },
-      {
-        "title": "Spotify billionaire’s body scan startup has come to America",
-        "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-        "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-        "source": "TechCrunch",
-        "published": "2026-10-03T14:00:00+00:00"
-      },
-      {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-        "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-        "source": "TechCrunch",
-        "published": "2026-10-03T00:45:39+00:00"
       },
       {
         "title": "Tesla Fiyatlarına Zam Geldi: İşte Tesla Ekim 2026 Fiyat Listesi",
@@ -337,20 +351,6 @@
         "description": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's...",
         "source": "The Verge",
         "published": "2026-10-02T14:40:00-04:00"
-      },
-      {
-        "title": "Amazon’s colorful and sturdy new Kindles",
-        "link": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-        "description": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepage.) This week, I'm wishing I...",
-        "source": "The Verge",
-        "published": "2026-10-02T13:37:29-04:00"
-      },
-      {
-        "title": "The rise, fall, and rise of portable MP3 players",
-        "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on...",
-        "source": "The Verge",
-        "published": "2026-10-01T16:10:21-04:00"
       }
     ],
     "dunya": [
@@ -359,7 +359,14 @@
         "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
         "source": "BBC News",
-        "published": "2026-10-04T17:50:59+00:00"
+        "published": "2026-10-04T20:51:36+00:00"
+      },
+      {
+        "title": "Brazil presidential election 2026: first-round live results",
+        "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+        "description": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for...",
+        "source": "The Guardian",
+        "published": "2026-10-04T19:01:28+00:00"
       },
       {
         "title": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -395,6 +402,13 @@
         "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
         "source": "BBC News",
         "published": "2026-10-04T14:36:57+00:00"
+      },
+      {
+        "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+        "description": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+        "source": "NPR",
+        "published": "2026-10-04T14:36:48-04:00"
       },
       {
         "title": "Watch: What we know about Russian strikes on Kyiv bridges",
@@ -530,20 +544,6 @@
         "published": "2026-10-03T07:00:35+00:00"
       },
       {
-        "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-        "description": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
-        "source": "NPR",
-        "published": "2026-10-03T07:00:00-04:00"
-      },
-      {
-        "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-        "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-        "description": "President leads huge rally in Rio before election on Sunday seen as most important for decades The Brazilian president, Luiz Inácio Lula da Silva, has claimed he is the only thing standing in the way of far-right “fascists” reclaiming power, as he...",
-        "source": "The Guardian",
-        "published": "2026-10-02T21:12:29+00:00"
-      },
-      {
         "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
         "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
         "description": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo last month,...",
@@ -567,53 +567,109 @@
     ],
     "turkiye": [
       {
-        "title": "Yusuf Tekin YKS için mesajı verdi: Sınav sistemi değişecek mi?",
-        "link": "https://www.sozcu.com.tr/yusuf-tekin-yks-aciklamasi-p366096",
-        "description": "Yusuf Tekin YKS için mesajı verdi: Sınav sistemi değişecek mi?",
-        "source": "Sözcü",
-        "published": "2026-10-04T20:58:40+03:00"
-      },
-      {
-        "title": "Anadolu Efes deplasmanda kazandı",
-        "link": "https://www.sozcu.com.tr/anadolu-efes-deplasmanda-kazandi-p366095",
-        "description": "Anadolu Efes deplasmanda kazandı",
-        "source": "Sözcü",
-        "published": "2026-10-04T20:44:56+03:00"
-      },
-      {
-        "title": "Adana sallanmaya devam ediyor! Bir deprem daha",
-        "link": "https://www.sozcu.com.tr/adana-da-bir-deprem-daha-p366081",
-        "description": "Adana sallanmaya devam ediyor! Bir deprem daha",
-        "source": "Sözcü",
-        "published": "2026-10-04T20:41:12+03:00"
-      },
-      {
-        "title": "Adana ve Osmaniye'de peş peşe depremler. Sarsıntılar devam ediyor",
-        "link": "https://www.ntv.com.tr/turkiye/adana-ve-osmaniyede-pes-pese-depremler-sarsintilar-devam-ediyor-1744783",
-        "description": "Adana'nın Saimbeyli ilçesinde 4,8 ve 4,9'luk, Osmaniye'nin Sumbas ilçesinde ise 5,2 büyüklüğünde depremin ardından, Saimbeyli'de akşam saatlerinde 4,4 ve 4,3'lük iki deprem daha oldu.",
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-ekim-2026-1744824",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-04T20:40:46+03:00"
+        "published": "2026-10-05T00:00:00+03:00"
       },
       {
-        "title": "Icardi'den sürpriz Galatasaray hamlesi! 'Tekrar dönmek istiyorum'",
-        "link": "https://www.sozcu.com.tr/icardi-den-surpriz-galatasaray-hamlesi-tekrar-donmek-istiyorum-p366093",
-        "description": "Icardi'den sürpriz Galatasaray hamlesi! 'Tekrar dönmek istiyorum'",
+        "title": "Ümraniye'de Japon kültürü festivaline saldırı",
+        "link": "https://www.sozcu.com.tr/umraniye-de-japon-kulturu-festivaline-saldiri-p366126",
+        "description": "Ümraniye'de Japon kültürü festivaline saldırı",
         "source": "Sözcü",
-        "published": "2026-10-04T20:36:47+03:00"
+        "published": "2026-10-04T23:56:09+03:00"
       },
       {
-        "title": "'Fon soruşturması' çıkışı gündem olan AKP'li vekilden geri adım: 'Maksadımı aştım' dedi",
-        "link": "https://www.sozcu.com.tr/serkan-bayram-aciklama-4-ekim-2026-p366092",
-        "description": "'Fon soruşturması' çıkışı gündem olan AKP'li vekilden geri adım: 'Maksadımı aştım' dedi",
-        "source": "Sözcü",
-        "published": "2026-10-04T20:31:56+03:00"
+        "title": "Gürbulak Sınır Kapısında memura bıçaklı tehdit",
+        "link": "https://www.ntv.com.tr/turkiye/gurbulak-sinir-kapisinda-memura-bicakli-tehdit-1744822",
+        "description": "Gürbulak Gümrük Kapısında bir yolcunun, eşyalarının kontrol edilmesi sırasında bıçak çekerek görevli gümrük muhafaza memurlarını tehdit ettiği belirtildi.",
+        "source": "NTV",
+        "published": "2026-10-04T23:28:13+03:00"
       },
       {
-        "title": "Eşi benzerine az rastlanan olay: Yıldız futbolcu milli takımsız kaldı",
-        "link": "https://www.sozcu.com.tr/esi-benzerine-az-rastlanan-olay-yildiz-futbolcu-milli-takimsiz-kaldi-p366090",
-        "description": "Eşi benzerine az rastlanan olay: Yıldız futbolcu milli takımsız kaldı",
+        "title": "İbrahim Hacıosmanoğlu sessizliğini bozdu! ‘Türk futbolunun 30 yıllık pisliğini üzerime yıkamazsınız’",
+        "link": "https://www.sozcu.com.tr/ibrahim-haciosmanoglu-sessizligini-bozdu-turk-futbolunun-30-yillik-pisligini-uzerime-yikamazsiniz-p366120",
+        "description": "İbrahim Hacıosmanoğlu sessizliğini bozdu! ‘Türk futbolunun 30 yıllık pisliğini üzerime yıkamazsınız’",
         "source": "Sözcü",
-        "published": "2026-10-04T20:20:43+03:00"
+        "published": "2026-10-04T23:12:03+03:00"
+      },
+      {
+        "title": "TFF Serdal Adalı'yı tebrik etti",
+        "link": "https://www.sozcu.com.tr/tff-serdal-adali-yi-tebrik-etti-p366119",
+        "description": "TFF Serdal Adalı'yı tebrik etti",
+        "source": "Sözcü",
+        "published": "2026-10-04T22:53:54+03:00"
+      },
+      {
+        "title": "Yaprak Dökümü'nün Hayriye'si eridi! Güven Hokna bambaşka biri oldu",
+        "link": "https://www.sozcu.com.tr/yaprak-dokumu-nun-hayriye-si-eridi-guven-hokna-bambaska-biri-oldu-p366117",
+        "description": "Yaprak Dökümü'nün Hayriye'si eridi! Güven Hokna bambaşka biri oldu",
+        "source": "Sözcü",
+        "published": "2026-10-04T22:53:05+03:00"
+      },
+      {
+        "title": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
+        "link": "https://www.sozcu.com.tr/nehir-kiyisindan-17-milyon-ton-radyoaktif-atik-cikarildi-p366116",
+        "description": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
+        "source": "Sözcü",
+        "published": "2026-10-04T22:49:01+03:00"
+      },
+      {
+        "title": "Veba iddiası ülkeyi ayağa kaldırmıştı: Gerçek ölüm nedeni ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/veba-iddiasi-ulkeyi-ayaga-kaldirmisti-gercek-olum-nedeni-ortaya-cikti-p366115",
+        "description": "Veba iddiası ülkeyi ayağa kaldırmıştı: Gerçek ölüm nedeni ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-10-04T22:41:49+03:00"
+      },
+      {
+        "title": "Montella'yı çıldırtan soru! '3.Lig'den oyuncu almamı istediler'",
+        "link": "https://www.sozcu.com.tr/montella-yi-cildirtan-soru-3-lig-den-oyuncu-almami-istediler-p366114",
+        "description": "Montella'yı çıldırtan soru! '3.Lig'den oyuncu almamı istediler'",
+        "source": "Sözcü",
+        "published": "2026-10-04T22:40:52+03:00"
+      },
+      {
+        "title": "Büyük ikramiye talihlisinin hazin sonu! Yıllar önce milyonerdi; evinde ölü bulundu",
+        "link": "https://www.sozcu.com.tr/buyuk-ikramiye-1974-talihlisi-olu-bulundu-p366113",
+        "description": "Büyük ikramiye talihlisinin hazin sonu! Yıllar önce milyonerdi; evinde ölü bulundu",
+        "source": "Sözcü",
+        "published": "2026-10-04T22:25:39+03:00"
+      },
+      {
+        "title": "THY 2-0'dan geri döndü: Galatasaray Daikin'i yendi",
+        "link": "https://www.sozcu.com.tr/thy-2-0-dan-geri-dondu-galatasaray-daikin-i-yendi-p366110",
+        "description": "THY 2-0'dan geri döndü: Galatasaray Daikin'i yendi",
+        "source": "Sözcü",
+        "published": "2026-10-04T22:11:42+03:00"
+      },
+      {
+        "title": "Çatıları bu boyayla kaplamaya başladılar: Hem faturaları düşürüyor hem su üretiyor",
+        "link": "https://www.sozcu.com.tr/catilari-bu-boyayla-kaplamaya-basladilar-hem-faturalari-dusuruyor-hem-su-uretiyor-p366108",
+        "description": "Çatıları bu boyayla kaplamaya başladılar: Hem faturaları düşürüyor hem su üretiyor",
+        "source": "Sözcü",
+        "published": "2026-10-04T21:56:18+03:00"
+      },
+      {
+        "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1744817",
+        "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
+        "source": "NTV",
+        "published": "2026-10-04T21:42:12+03:00"
+      },
+      {
+        "title": "27 yaşında Milli Piyango ile milyoner olmuştu, yıllar sonra evinde ölü bulundu",
+        "link": "https://www.ntv.com.tr/turkiye/27-yasinda-milli-piyango-ile-milyoner-olmustu-yillar-sonra-evinde-olu-bulundu-1744816",
+        "description": "Aydın'da 1974 yılında Milli Piyango'nun büyük ikramiyesini kazanan 79 yaşındaki Fikret Otar, yaşadığı maddi sıkıntıların ardından evinde pompalı tüfekle vurulmuş halde ölü bulundu.",
+        "source": "NTV",
+        "published": "2026-10-04T21:41:47+03:00"
+      },
+      {
+        "title": "Brezilya'da Lula ve oğul Bolsonaro arasındaki başkanlık seçiminde sandıklar kapandı",
+        "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+        "description": "Yüz altmış milyon kayıtlı seçmenin bulunduğu Brezilya'da oy verme işlemi tamamlandı.",
+        "source": "BBC Turkish",
+        "published": "2026-10-04T21:05:30+00:00"
       },
       {
         "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
@@ -623,13 +679,6 @@
         "published": "2026-10-04T20:15:59+03:00"
       },
       {
-        "title": "Cemil Tugay AKP'ye geçiş sinyalini verdi: Sosyal medyada dikkat çeken yanıt",
-        "link": "https://www.sozcu.com.tr/cemil-tugay-yaniti-gundem-oldu-akp-ye-mi-gececek-p366080",
-        "description": "Cemil Tugay AKP'ye geçiş sinyalini verdi: Sosyal medyada dikkat çeken yanıt",
-        "source": "Sözcü",
-        "published": "2026-10-04T20:11:21+03:00"
-      },
-      {
         "title": "Ehliyetsiz, plakasız, 16 yaşındaki motosiklet sürücüsüne 351 bin lira ceza",
         "link": "https://www.ntv.com.tr/turkiye/ehliyetsiz-plakasiz-16-yasindaki-motosiklet-surucusune-351-bin-lira-ceza-1744812",
         "description": "Kayseri'de polisin \"dur\" ihtarına uymayan ehliyetsiz 16 yaşındaki motosiklet sürücüsüne 351 bin lira idari para cezası uygulandı.",
@@ -637,32 +686,18 @@
         "published": "2026-10-04T20:06:35+03:00"
       },
       {
-        "title": "Basketbol maçında ortalık karıştı: Kadınlar saç baş birbirine girdi",
-        "link": "https://www.sozcu.com.tr/basketbol-macinda-ortalik-karisti-kadinlar-sac-bas-birbirine-girdi-p366084",
-        "description": "Basketbol maçında ortalık karıştı: Kadınlar saç baş birbirine girdi",
-        "source": "Sözcü",
-        "published": "2026-10-04T20:05:27+03:00"
-      },
-      {
-        "title": "Bulutlara müdahale krize dönüştü: İki komşu ülke karşı karşıya geldi",
-        "link": "https://www.sozcu.com.tr/bulutlara-mudahale-krize-donustu-iki-komsu-ulke-karsi-karsiya-geldi-p366083",
-        "description": "Bulutlara müdahale krize dönüştü: İki komşu ülke karşı karşıya geldi",
-        "source": "Sözcü",
-        "published": "2026-10-04T19:20:56+03:00"
-      },
-      {
-        "title": "Portakalı bile geride bıraktılar: C vitamini bakımından en zengin sebzeler belli oldu",
-        "link": "https://www.sozcu.com.tr/portakali-bile-geride-biraktilar-c-vitamini-bakimindan-en-zengin-sebzeler-belli-oldu-p366079",
-        "description": "Portakalı bile geride bıraktılar: C vitamini bakımından en zengin sebzeler belli oldu",
-        "source": "Sözcü",
-        "published": "2026-10-04T18:42:43+03:00"
-      },
-      {
         "title": "El değmeden üretiliyor, 1 kilogramı 400 bin liraya satıldı",
         "link": "https://www.ntv.com.tr/turkiye/el-degmeden-uretiliyor-1-kilogrami-400-bin-liraya-satildi-1744811",
         "description": "Batman'ın Sason ilçesinde doğal ortamda, el değmeden üretilen ve Sason'a özgü tescilli balın 1 kilogramı, açık artırmada tam 400 bin liraya alıcı buldu.",
         "source": "NTV",
         "published": "2026-10-04T18:17:30+03:00"
+      },
+      {
+        "title": "Adana ve Osmaniye'de depremler: En büyüğü 5.2 olan beş sarsıntı",
+        "link": "https://www.bbc.com/turkce/articles/cwe8r127886vo?at_medium=RSS&at_campaign=rss",
+        "description": "Adana'nın Saimbeyli ilçesi ve yakındaki Osmaniye'nin Sumbas ilçesinde 4 Ekim'de peş peşe beş deprem kaydedildi. Depremlerin en büyük 5.2 olarak açıklandı.",
+        "source": "BBC Turkish",
+        "published": "2026-10-04T18:16:43+00:00"
       },
       {
         "title": "Bakan Tekin'den YKS açıklaması. \"Sınavın ne sistemi değişecek ne usulü\"",
@@ -700,34 +735,6 @@
         "published": "2026-10-04T15:23:35+03:00"
       },
       {
-        "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 04 Ekim 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-04-ekim-2026-1744792",
-        "description": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 04 Ekim 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son...",
-        "source": "NTV",
-        "published": "2026-10-04T15:20:00+03:00"
-      },
-      {
-        "title": "Çöp ev operasyonu: 8 kamyon atık çıkarıldı",
-        "link": "https://www.ntv.com.tr/turkiye/cop-ev-operasyonu-8-kamyon-atik-cikarildi-1744785",
-        "description": "Antalya Kepez Belediyesi ekiplerinin, Mehmet Akif Ersoy Mahallesi’nde çevre ve görüntü kirliliğine neden olan bir evde kapsamlı temizlik çalışmasında, ikametten 8 kamyon dolusu atık çıkarıldı.",
-        "source": "NTV",
-        "published": "2026-10-04T14:44:55+03:00"
-      },
-      {
-        "title": "Girne feribot felaketinde bir cansız bedene daha ulaşıldı",
-        "link": "https://www.ntv.com.tr/turkiye/girne-feribot-felaketinde-bir-cansiz-bedene-daha-ulasildi-1744784",
-        "description": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanlığı, Girne açıklarında meydana gelen gemi faciasının ardından sürdürülen arama çalışmalarında bir naaşa daha ulaşıldığını açıkladı.",
-        "source": "NTV",
-        "published": "2026-10-04T14:35:52+03:00"
-      },
-      {
-        "title": "Brezilya'da başkanlık seçimi: Lula ve oğul Bolsonaro yarışıyor",
-        "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-        "description": "Brezilya 160 milyon kayıtlı seçmen bugün sandık başına giderker, anketler görevdeki solcu Lula ile sağcı rakibi Flavio Bolsonaro (eski devlet başkanı Jair Bolsonaro'nun oğlu) arasındaki seçimde kesin bir kazanan olmayacağını gösteriyor.",
-        "source": "BBC Turkish",
-        "published": "2026-10-04T13:31:52+00:00"
-      },
-      {
         "title": "2026'nın en komik 10 hayvan fotoğrafı",
         "link": "https://www.bbc.com/turkce/articles/cq0me0v1dkz3o?at_medium=RSS&at_campaign=rss",
         "description": "Fitness tutkunu bir ayıdan epey kaba bir orangutana kadar, işte bu yılın hayvanlar aleminden en eğlenceli 10 fotoğrafı.",
@@ -747,13 +754,6 @@
         "description": "Başbakan Mark Carney, ABD'nin Kanada'yı işgal etmesi gibi düşük olasılıklı bir ihtimale karşı ordunun senaryo çalışmaları yürüttüğünü söyledi.",
         "source": "BBC Turkish",
         "published": "2026-10-04T08:55:36+00:00"
-      },
-      {
-        "title": "Tutuklanan MHK Başkanı Ferhat Gündoğdu görevinden istifa etti",
-        "link": "https://www.bbc.com/turkce/articles/cm62kp4k28gro?at_medium=RSS&at_campaign=rss",
-        "description": "Gündoğdu'nun avukatları tarafından yapılan yazılı açıklamada, TFF'nin yıpratılmaması ve adli sürecin işleyişine zarar gelmemesi adına Gündoğdu'nun başkanlık görevinden istifa ettiği belirtildi.",
-        "source": "BBC Turkish",
-        "published": "2026-10-04T07:28:24+00:00"
       },
       {
         "title": "Bahçeli'den fon krizi açıklaması: 'Türkiye bir arınma sürecinden geçiyor'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8888
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+69°F",
-    "wind": "↘6mph",
-    "humidity": "53%"
+    "condition": "Kapalı",
+    "temp": "+100°F",
+    "wind": "↓3mph",
+    "humidity": "15%"
   }
 }
