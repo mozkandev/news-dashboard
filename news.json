@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-04T21:14:12.529485+00:00",
+  "updated_at": "2026-10-05T00:03:52.706963+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "\"No Vendor Lock-In\" Is Code for \"No Product\"",
+        "link": "https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product",
+        "description": "Article URL: https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product Comments URL: https://news.ycombinator.com/item?id=49958761 Points: 11 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-10-04T22:51:42+00:00"
+      },
+      {
+        "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+        "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+        "description": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 21 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-10-04T22:25:10+00:00"
+      },
       {
         "title": "Porsche’den Stratejik Karar: Benzinli Macan Geri Dönüyor",
         "link": "https://shiftdelete.net/porsche-benzinli-macan-donusu-2028",
@@ -31,30 +45,23 @@
         "published": "2026-10-04T20:00:21+00:00"
       },
       {
-        "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-        "link": "https://island-three.gruberbuilds.workers.dev/",
-        "description": "Article URL: https://island-three.gruberbuilds.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=49957191 Points: 13 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-10-04T19:49:12+00:00"
-      },
-      {
         "title": "Homa: The end of TCP for AI clusters [video]",
         "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-        "description": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 14 #...",
+        "description": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 46 #...",
         "source": "HackerNews",
         "published": "2026-10-04T19:42:25+00:00"
       },
       {
         "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
         "link": "https://github.com/omlahore/RemoveMacAI",
-        "description": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 114 # Comments: 49",
+        "description": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 288 # Comments: 169",
         "source": "HackerNews",
         "published": "2026-10-04T19:42:25+00:00"
       },
       {
         "title": "Improper redaction reveals Google Data Center water and electricity usage",
         "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-        "description": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 88 # Comments: 88",
+        "description": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 189 # Comments: 277",
         "source": "HackerNews",
         "published": "2026-10-04T19:37:05+00:00"
       },
@@ -73,6 +80,13 @@
         "published": "2026-10-04T18:59:25+00:00"
       },
       {
+        "title": "A browser-native classic Visual Basic VB6 IDE",
+        "link": "https://wieslawsoltes.github.io/VB6/",
+        "description": "Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 41 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-10-04T18:49:17+00:00"
+      },
+      {
         "title": "Steam’de En Popüler Ekran Kartları Belli Oldu: Nvidia Yine Zirvede",
         "link": "https://shiftdelete.net/steam-donanim-anketi-eylul-2026-sonuclari",
         "description": "Eylül 2026 Steam Donanım Anketi sonuçlarına göre RTX 5070 en popüler ekran kartı oldu. 32 GB RAM kullanımı ise 16 GB'ı geride bıraktı.",
@@ -82,14 +96,14 @@
       {
         "title": "Incentives in Academic Research",
         "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
-        "description": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/ Comments URL: https://news.ycombinator.com/item?id=49956035 Points: 12 # Comments: 4",
+        "description": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/ Comments URL: https://news.ycombinator.com/item?id=49956035 Points: 29 # Comments: 13",
         "source": "HackerNews",
         "published": "2026-10-04T17:42:38+00:00"
       },
       {
         "title": "Xray-core concealed a certificate verification bypass vulnerability",
         "link": "https://github.com/net4people/bbs/issues/672",
-        "description": "Article URL: https://github.com/net4people/bbs/issues/672 Comments URL: https://news.ycombinator.com/item?id=49956003 Points: 12 # Comments: 0",
+        "description": "Article URL: https://github.com/net4people/bbs/issues/672 Comments URL: https://news.ycombinator.com/item?id=49956003 Points: 29 # Comments: 0",
         "source": "HackerNews",
         "published": "2026-10-04T17:38:54+00:00"
       },
@@ -159,7 +173,7 @@
       {
         "title": "The evolution of effective altruism",
         "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-        "description": "https://archive.ph/3gSCc Related: https://www.economist.com/by-invitation/2026/10/04/will-maca... Comments URL: https://news.ycombinator.com/item?id=49953777 Points: 38 # Comments: 43",
+        "description": "https://archive.ph/3gSCc Related: https://www.economist.com/by-invitation/2026/10/04/will-maca... Comments URL: https://news.ycombinator.com/item?id=49953777 Points: 53 # Comments: 104",
         "source": "HackerNews",
         "published": "2026-10-04T13:30:49+00:00"
       },
@@ -178,25 +192,11 @@
         "published": "2026-10-04T13:00:08+00:00"
       },
       {
-        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-        "link": "https://github.com/Niko1221/Strata",
-        "description": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 478 # Comments: 249",
-        "source": "HackerNews",
-        "published": "2026-10-04T12:51:53+00:00"
-      },
-      {
         "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
         "description": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the...",
         "source": "The Verge",
         "published": "2026-10-04T12:47:17-04:00"
-      },
-      {
-        "title": "Bill Draper has died",
-        "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-        "description": "https://archive.ph/YRgDY Comments URL: https://news.ycombinator.com/item?id=49953288 Points: 38 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-10-04T12:21:35+00:00"
       },
       {
         "title": "Google Gemini Kullanıcılarına Dev Kısıtlama: Model Erişimi Değişiyor",
@@ -355,6 +355,41 @@
     ],
     "dunya": [
       {
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "source": "BBC News",
+        "published": "2026-10-04T23:45:53+00:00"
+      },
+      {
+        "title": "Brazil presidential election 2026: first-round live results",
+        "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+        "description": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for...",
+        "source": "The Guardian",
+        "published": "2026-10-04T22:01:31+00:00"
+      },
+      {
+        "title": "US removes all bombers from RAF Fairford base",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "source": "BBC News",
+        "published": "2026-10-04T21:57:32+00:00"
+      },
+      {
+        "title": "Protesters gather as migrants brought ashore on south coast",
+        "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+        "description": "A dinghy was believed to be carrying 120 migrants, according to French media.",
+        "source": "BBC News",
+        "published": "2026-10-04T21:37:03+00:00"
+      },
+      {
+        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+        "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+        "description": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "source": "BBC News",
+        "published": "2026-10-04T21:35:30+00:00"
+      },
+      {
         "title": "Green Party members back 'Zionism is racism' motion",
         "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
@@ -362,11 +397,18 @@
         "published": "2026-10-04T20:51:36+00:00"
       },
       {
-        "title": "Brazil presidential election 2026: first-round live results",
-        "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-        "description": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for...",
-        "source": "The Guardian",
-        "published": "2026-10-04T19:01:28+00:00"
+        "title": "France to close up to 500 schools on Monday over student protests",
+        "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+        "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+        "source": "BBC News",
+        "published": "2026-10-04T18:52:36+00:00"
+      },
+      {
+        "title": "Brazil votes, with Lula facing Bolsonaro's son",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+        "description": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+        "source": "NPR",
+        "published": "2026-10-04T17:52:09-04:00"
       },
       {
         "title": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -397,25 +439,11 @@
         "published": "2026-10-04T15:16:03+00:00"
       },
       {
-        "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-        "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-        "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-        "source": "BBC News",
-        "published": "2026-10-04T14:36:57+00:00"
-      },
-      {
         "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
         "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
         "description": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
         "source": "NPR",
         "published": "2026-10-04T14:36:48-04:00"
-      },
-      {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "source": "BBC News",
-        "published": "2026-10-04T14:25:32+00:00"
       },
       {
         "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
@@ -425,9 +453,9 @@
         "published": "2026-10-04T14:00:32+00:00"
       },
       {
-        "title": "Brazil goes to polls in decisive election for future of Latin America",
+        "title": "Polls close in first round of Brazil’s high-stakes presidential election",
         "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
-        "description": "Lula and Flávio Bolsonaro face off in battle between leftwing incumbent and far-right son of jailed ex-president Brazilians are going to the polls in the first round of a highly polarised and high-stakes presidential election that could change not...",
+        "description": "Leftwing incumbent Lula trying to fight off close rival Flávio Bolsonaro, far-right son of jailed ex-president The polls have closed in the first round of Brazil’s highly polarised and high-stakes presidential election that could change not only the...",
         "source": "The Guardian",
         "published": "2026-10-04T13:52:33+00:00"
       },
@@ -439,32 +467,11 @@
         "published": "2026-10-04T13:45:24+00:00"
       },
       {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
-        "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
-        "source": "BBC News",
-        "published": "2026-10-04T11:59:35+00:00"
-      },
-      {
         "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
         "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
         "description": "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added.",
         "source": "NPR",
         "published": "2026-10-04T11:41:07-04:00"
-      },
-      {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "link": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-        "source": "BBC News",
-        "published": "2026-10-04T11:24:58+00:00"
-      },
-      {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-        "source": "BBC News",
-        "published": "2026-10-04T11:19:58+00:00"
       },
       {
         "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
@@ -495,9 +502,9 @@
         "published": "2026-10-04T05:00:00-04:00"
       },
       {
-        "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+        "title": "US Coast Guard finds debris of missing air ambulance off coast of Massachusetts",
         "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
-        "description": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’ Nantucket Island...",
+        "description": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’s Nantucket...",
         "source": "The Guardian",
         "published": "2026-10-04T03:38:48+00:00"
       },
@@ -528,13 +535,6 @@
         "description": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display.",
         "source": "NPR",
         "published": "2026-10-03T08:00:00-04:00"
-      },
-      {
-        "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-        "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.",
-        "source": "NPR",
-        "published": "2026-10-03T07:47:09-04:00"
       },
       {
         "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
@@ -571,7 +571,42 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-05-ekim-2026-1744824",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-05T00:00:00+03:00"
+        "published": "2026-10-05T03:00:00+03:00"
+      },
+      {
+        "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 05 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-05-ekim-2026-1744826",
+        "description": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 05 Ekim 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son...",
+        "source": "NTV",
+        "published": "2026-10-05T02:10:00+03:00"
+      },
+      {
+        "title": "AFAD, Adana'daki depreme ilişkin ön değerlendirme raporunu yayımladı",
+        "link": "https://www.sozcu.com.tr/adana-4-ekim-2026-deprem-on-degerlendirme-raporu-p366135",
+        "description": "AFAD, Adana'daki depreme ilişkin ön değerlendirme raporunu yayımladı",
+        "source": "Sözcü",
+        "published": "2026-10-05T00:56:04+03:00"
+      },
+      {
+        "title": "Ronaldo'suz Portekiz, Uluslar Ligi'nde 4'te 4 yaptı",
+        "link": "https://www.sozcu.com.tr/ronaldo-suz-portekiz-uluslar-ligi-nde-4-te-4-yapti-p366134",
+        "description": "Ronaldo'suz Portekiz, Uluslar Ligi'nde 4'te 4 yaptı",
+        "source": "Sözcü",
+        "published": "2026-10-05T00:51:21+03:00"
+      },
+      {
+        "title": "1 haftada 2. protesto! İrlanda Milli Takımı, İsrailli futbolcularla tokalaşmadı",
+        "link": "https://www.sozcu.com.tr/1-haftada-2-protesto-irlanda-milli-takimi-israilli-futbolcularla-tokalasmadi-p366133",
+        "description": "1 haftada 2. protesto! İrlanda Milli Takımı, İsrailli futbolcularla tokalaşmadı",
+        "source": "Sözcü",
+        "published": "2026-10-05T00:37:17+03:00"
+      },
+      {
+        "title": "Cem TV kapanma kararı aldı",
+        "link": "https://www.sozcu.com.tr/cem-tv-kapaniyor-mu-p366129",
+        "description": "Cem TV kapanma kararı aldı",
+        "source": "Sözcü",
+        "published": "2026-10-05T00:24:43+03:00"
       },
       {
         "title": "Ümraniye'de Japon kültürü festivaline saldırı",
@@ -586,6 +621,27 @@
         "description": "Gürbulak Gümrük Kapısında bir yolcunun, eşyalarının kontrol edilmesi sırasında bıçak çekerek görevli gümrük muhafaza memurlarını tehdit ettiği belirtildi.",
         "source": "NTV",
         "published": "2026-10-04T23:28:13+03:00"
+      },
+      {
+        "title": "Brezilya başkanlık seçimlerinde oğul Bolsonaro, Lula karşısında önde",
+        "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+        "description": "Yüz altmış milyon kayıtlı seçmenin bulunduğu Brezilya'da oy verme işlemi tamamlandı.",
+        "source": "BBC Turkish",
+        "published": "2026-10-04T23:18:10+00:00"
+      },
+      {
+        "title": "Gazze'de geçen yaz: Fare istilasındaki kamplar ve iyileşmeyen yaralar",
+        "link": "https://www.bbc.com/turkce/articles/cwdd84ezqy03o?at_medium=RSS&at_campaign=rss",
+        "description": "Filistinliler, BBC'ye Gazze'de İsrail'in saldırıları sonucu altyapılarının neredeyse tamamen yıkılmasının ardından yaşadıkları zorlukları anlattı. Fare ve gelincik istilasına uğrayan kamplardan ve antibiyotik bulunamadığı için kapanmayan yaralardan...",
+        "source": "BBC Turkish",
+        "published": "2026-10-04T23:13:09+00:00"
+      },
+      {
+        "title": "Riyad'da ikinci Mekke İttifakı toplantısı: Gündemde hangi konular var?",
+        "link": "https://www.bbc.com/turkce/articles/c6pwg5q4jp5vo?at_medium=RSS&at_campaign=rss",
+        "description": "Toplatının odak noktasının Suudi Arabistan ile İran-destekli Husiler arasında artan çatışmaların olması bekleniyor. Yemen hükümeti, Husilerin elindeki tüm toprakları ele geçirmek için askeri bir operasyon başlattı",
+        "source": "BBC Turkish",
+        "published": "2026-10-04T23:12:09+00:00"
       },
       {
         "title": "İbrahim Hacıosmanoğlu sessizliğini bozdu! ‘Türk futbolunun 30 yıllık pisliğini üzerime yıkamazsınız’",
@@ -623,34 +679,6 @@
         "published": "2026-10-04T22:41:49+03:00"
       },
       {
-        "title": "Montella'yı çıldırtan soru! '3.Lig'den oyuncu almamı istediler'",
-        "link": "https://www.sozcu.com.tr/montella-yi-cildirtan-soru-3-lig-den-oyuncu-almami-istediler-p366114",
-        "description": "Montella'yı çıldırtan soru! '3.Lig'den oyuncu almamı istediler'",
-        "source": "Sözcü",
-        "published": "2026-10-04T22:40:52+03:00"
-      },
-      {
-        "title": "Büyük ikramiye talihlisinin hazin sonu! Yıllar önce milyonerdi; evinde ölü bulundu",
-        "link": "https://www.sozcu.com.tr/buyuk-ikramiye-1974-talihlisi-olu-bulundu-p366113",
-        "description": "Büyük ikramiye talihlisinin hazin sonu! Yıllar önce milyonerdi; evinde ölü bulundu",
-        "source": "Sözcü",
-        "published": "2026-10-04T22:25:39+03:00"
-      },
-      {
-        "title": "THY 2-0'dan geri döndü: Galatasaray Daikin'i yendi",
-        "link": "https://www.sozcu.com.tr/thy-2-0-dan-geri-dondu-galatasaray-daikin-i-yendi-p366110",
-        "description": "THY 2-0'dan geri döndü: Galatasaray Daikin'i yendi",
-        "source": "Sözcü",
-        "published": "2026-10-04T22:11:42+03:00"
-      },
-      {
-        "title": "Çatıları bu boyayla kaplamaya başladılar: Hem faturaları düşürüyor hem su üretiyor",
-        "link": "https://www.sozcu.com.tr/catilari-bu-boyayla-kaplamaya-basladilar-hem-faturalari-dusuruyor-hem-su-uretiyor-p366108",
-        "description": "Çatıları bu boyayla kaplamaya başladılar: Hem faturaları düşürüyor hem su üretiyor",
-        "source": "Sözcü",
-        "published": "2026-10-04T21:56:18+03:00"
-      },
-      {
         "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1744817",
         "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
@@ -663,13 +691,6 @@
         "description": "Aydın'da 1974 yılında Milli Piyango'nun büyük ikramiyesini kazanan 79 yaşındaki Fikret Otar, yaşadığı maddi sıkıntıların ardından evinde pompalı tüfekle vurulmuş halde ölü bulundu.",
         "source": "NTV",
         "published": "2026-10-04T21:41:47+03:00"
-      },
-      {
-        "title": "Brezilya'da Lula ve oğul Bolsonaro arasındaki başkanlık seçiminde sandıklar kapandı",
-        "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-        "description": "Yüz altmış milyon kayıtlı seçmenin bulunduğu Brezilya'da oy verme işlemi tamamlandı.",
-        "source": "BBC Turkish",
-        "published": "2026-10-04T21:05:30+00:00"
       },
       {
         "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
@@ -707,13 +728,6 @@
         "published": "2026-10-04T17:28:28+03:00"
       },
       {
-        "title": "ABD'de Christa Pike infazı sonrası halen yoğun bakımda",
-        "link": "https://www.bbc.com/turkce/articles/cqx2zxpexreeo?at_medium=RSS&at_campaign=rss",
-        "description": "ABD‘nin Tennessee eyaletinde vücuduna iki set zehirli ilaç enjekte edilmesi sonrası hayatta kalan idam mahkumu Christa Pike'ın yoğun bakımda tedavisi sürüyor.",
-        "source": "BBC Turkish",
-        "published": "2026-10-04T17:27:18+00:00"
-      },
-      {
         "title": "Yemen hükümeti, toprakları geri almak için Husilere karşı savaş başlattı",
         "link": "https://www.bbc.com/turkce/articles/cq4g1rkjy4vpo?at_medium=RSS&at_campaign=rss",
         "description": "Yemen'in uluslararası alanda tanınan hükümetinin lideri, İran destekli Husilerin elindeki tüm toprakları ele geçirmek için askeri bir operasyon başlatacağını duyurdu. Raşad el-Alimi savaş açıklamasını Suudi Arabistan'ın Riyad kentinden yaptı.",
@@ -728,13 +742,6 @@
         "published": "2026-10-04T15:27:01+03:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: İhracatta 211 milyar dolarla rekor kırdık",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ihracatta-211-milyar-dolarla-rekor-kirdik-1744789",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, yılbaşından bu yana ihracatın yüzde 5,2 artarak 211 milyar dolar seviyesine çıktığını ve bu dönemde yeni bir rekora ulaşıldığını bildirdi.",
-        "source": "NTV",
-        "published": "2026-10-04T15:23:35+03:00"
-      },
-      {
         "title": "2026'nın en komik 10 hayvan fotoğrafı",
         "link": "https://www.bbc.com/turkce/articles/cq0me0v1dkz3o?at_medium=RSS&at_campaign=rss",
         "description": "Fitness tutkunu bir ayıdan epey kaba bir orangutana kadar, işte bu yılın hayvanlar aleminden en eğlenceli 10 fotoğrafı.",
@@ -747,13 +754,6 @@
         "description": "Türkiye'de sermaye piyasalarında türbülansa neden olan ve İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltı ve tutuklamalar devam ediyor.",
         "source": "BBC Turkish",
         "published": "2026-10-04T10:34:30+00:00"
-      },
-      {
-        "title": "Kanada neden pek muhtemel olmayan bir ABD işgaline hazırlanıyor?",
-        "link": "https://www.bbc.com/turkce/articles/c8vgxlk60197o?at_medium=RSS&at_campaign=rss",
-        "description": "Başbakan Mark Carney, ABD'nin Kanada'yı işgal etmesi gibi düşük olasılıklı bir ihtimale karşı ordunun senaryo çalışmaları yürüttüğünü söyledi.",
-        "source": "BBC Turkish",
-        "published": "2026-10-04T08:55:36+00:00"
       },
       {
         "title": "Bahçeli'den fon krizi açıklaması: 'Türkiye bir arınma sürecinden geçiyor'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8888
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+100°F",
-    "wind": "↓3mph",
-    "humidity": "15%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+93°F",
+    "wind": "↓5mph",
+    "humidity": "26%"
   }
 }
