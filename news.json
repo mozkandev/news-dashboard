@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-10-09T23:24:06.954412+00:00",
+  "updated_at": "2026-10-10T02:33:47.516056+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "REA Reverse – Engineer Anything",
+        "link": "https://rea.tools/",
+        "description": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 90 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-10-10T00:37:07+00:00"
+      },
+      {
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "source": "TechCrunch",
+        "published": "2026-10-10T00:18:32+00:00"
+      },
+      {
+        "title": "Has the Autonomous Trucking Revolution Arrived?",
+        "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+        "description": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 8 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-10-09T23:57:12+00:00"
+      },
+      {
+        "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+        "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+        "description": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 58 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-10-09T23:56:55+00:00"
+      },
+      {
+        "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+        "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
+        "description": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 9 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-09T23:32:04+00:00"
+      },
+      {
+        "title": "Compiling Rust to readable C with Eurydice",
+        "link": "https://lwn.net/Articles/1055211/",
+        "description": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 25 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-10-09T23:28:36+00:00"
+      },
+      {
+        "title": "Rewriting Prime Agent in Rust",
+        "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
+        "description": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 22 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-10-09T23:06:25+00:00"
+      },
+      {
+        "title": "Atari Falcon",
+        "link": "https://atarimuseum.nl/atari-falcon/",
+        "description": "Article URL: https://atarimuseum.nl/atari-falcon/ Comments URL: https://news.ycombinator.com/item?id=50027590 Points: 19 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-10-09T22:54:13+00:00"
+      },
+      {
+        "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+        "link": "https://www.nber.org/papers/w35854",
+        "description": "Article URL: https://www.nber.org/papers/w35854 Comments URL: https://news.ycombinator.com/item?id=50027234 Points: 22 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-09T22:12:56+00:00"
+      },
       {
         "title": "Long live the mechanical keyboard",
         "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
@@ -10,11 +73,11 @@
         "published": "2026-10-09T22:08:24+00:00"
       },
       {
-        "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
-        "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
-        "description": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 12 # Comments: 3",
+        "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+        "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+        "description": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 73 # Comments: 51",
         "source": "HackerNews",
-        "published": "2026-10-09T22:05:53+00:00"
+        "published": "2026-10-09T22:00:35+00:00"
       },
       {
         "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -31,16 +94,9 @@
         "published": "2026-10-09T21:30:04+00:00"
       },
       {
-        "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-        "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-        "description": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 19 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-10-09T21:25:09+00:00"
-      },
-      {
         "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
         "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-        "description": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 310 # Comments: 160",
+        "description": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 430 # Comments: 237",
         "source": "HackerNews",
         "published": "2026-10-09T21:06:59+00:00"
       },
@@ -59,18 +115,18 @@
         "published": "2026-10-09T20:30:51+00:00"
       },
       {
-        "title": "No Man Is an Island",
-        "link": "https://borretti.me/article/no-man-is-an-island",
-        "description": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 235 # Comments: 132",
-        "source": "HackerNews",
-        "published": "2026-10-09T20:04:00+00:00"
-      },
-      {
         "title": "iQOO Neo12 Geliyor: 185 Hz OLED Ekranlı Telefon",
         "link": "https://shiftdelete.net/iqoo-neo12-ozellikleri-185-hz-oled-ekran",
         "description": "iQOO Neo12 özellikleri sızdırıldı. 185 Hz OLED ekran ve Snapdragon 8 Elite Gen 5 işlemci ile gelmesi beklenen telefonun detayları haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-10-09T20:00:41+00:00"
+      },
+      {
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "description": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through...",
+        "source": "The Verge",
+        "published": "2026-10-09T19:45:03-04:00"
       },
       {
         "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
@@ -150,53 +206,11 @@
         "published": "2026-10-09T18:45:34+00:00"
       },
       {
-        "title": "You might want to try being less creative",
-        "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-        "description": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 60 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-10-09T18:39:47+00:00"
-      },
-      {
-        "title": "Microsoft-Decision-1, our model for fast decision-making",
-        "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-        "description": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 117 # Comments: 43",
-        "source": "HackerNews",
-        "published": "2026-10-09T18:38:44+00:00"
-      },
-      {
         "title": "Galaxy A04s Kullananlar Dikkat: Samsung Fişi Çekti",
         "link": "https://shiftdelete.net/samsung-galaxy-a04s-yazilim-destegi-sona-erdi",
         "description": "Samsung Galaxy A04s yazılım desteği resmen sona erdi. Artık güvenlik yaması veya Android güncellemesi almayacak olan cihaz için detaylar haberimizde.",
         "source": "ShiftDelete",
         "published": "2026-10-09T18:30:19+00:00"
-      },
-      {
-        "title": "M7.6 Earthquake in Panama",
-        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-        "description": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 114 # Comments: 33",
-        "source": "HackerNews",
-        "published": "2026-10-09T18:22:20+00:00"
-      },
-      {
-        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-        "description": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through...",
-        "source": "The Verge",
-        "published": "2026-10-09T18:22:18-04:00"
-      },
-      {
-        "title": "Ideas aren't getting harder to find (2022)",
-        "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-        "description": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 111 # Comments: 49",
-        "source": "HackerNews",
-        "published": "2026-10-09T18:16:03+00:00"
-      },
-      {
-        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-        "link": "https://carrierexplode.com/",
-        "description": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite...",
-        "source": "HackerNews",
-        "published": "2026-10-09T18:10:55+00:00"
       },
       {
         "title": "TOGG’a Var IONIQ’e Yok: Yerli Üretim Hyundai IONIQ 3 Kredi Desteğinden Yararlanamıyor",
@@ -248,13 +262,6 @@
         "published": "2026-10-09T17:50:00-04:00"
       },
       {
-        "title": "Show HN: The rarest tech books and docs you've probably never read",
-        "link": "https://readrare.com/",
-        "description": "Article URL: https://readrare.com/ Comments URL: https://news.ycombinator.com/item?id=50024055 Points: 48 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-10-09T17:39:44+00:00"
-      },
-      {
         "title": "ChatGPT Aboneleri Dikkat: GPT-6 Herkes için Yayınlandı",
         "link": "https://shiftdelete.net/gpt-6-ve-intelligent-ui-ozelligi-yayinda",
         "description": "OpenAI, yeni GPT-6 modeli ve Intelligent UI özelliği ile ChatGPT kullanıcılarına etkileşimli grafikler ve araçlar sunmaya başlıyor.",
@@ -288,13 +295,6 @@
         "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
         "source": "TechCrunch",
         "published": "2026-10-09T16:40:14+00:00"
-      },
-      {
-        "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-        "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-        "description": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-        "source": "TechCrunch",
-        "published": "2026-10-09T16:07:26+00:00"
       },
       {
         "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
@@ -355,7 +355,35 @@
     ],
     "dunya": [
       {
-        "title": "Thousands of security personnel deployed as Delhi braces for cockroach protest",
+        "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+        "description": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+        "source": "BBC News",
+        "published": "2026-10-10T01:58:56+00:00"
+      },
+      {
+        "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+        "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+        "description": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico...",
+        "source": "The Guardian",
+        "published": "2026-10-10T00:50:52+00:00"
+      },
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "source": "BBC News",
+        "published": "2026-10-10T00:45:51+00:00"
+      },
+      {
+        "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+        "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+        "description": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets, but the...",
+        "source": "The Guardian",
+        "published": "2026-10-10T00:13:15+00:00"
+      },
+      {
+        "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
         "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
         "description": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
         "source": "BBC News",
@@ -376,13 +404,6 @@
         "published": "2026-10-09T22:51:57+00:00"
       },
       {
-        "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-        "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-        "description": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America,...",
-        "source": "The Guardian",
-        "published": "2026-10-09T22:48:01+00:00"
-      },
-      {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
         "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
         "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
@@ -395,13 +416,6 @@
         "description": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
         "source": "BBC News",
         "published": "2026-10-09T21:55:51+00:00"
-      },
-      {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-        "source": "BBC News",
-        "published": "2026-10-09T21:54:28+00:00"
       },
       {
         "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
@@ -425,25 +439,11 @@
         "published": "2026-10-09T21:36:18+00:00"
       },
       {
-        "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-        "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-        "description": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast A Mexican judge has convicted three men of the 2024 murders of...",
-        "source": "The Guardian",
-        "published": "2026-10-09T21:30:22+00:00"
-      },
-      {
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
         "source": "BBC News",
         "published": "2026-10-09T19:26:53+00:00"
-      },
-      {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "source": "BBC News",
-        "published": "2026-10-09T18:40:10+00:00"
       },
       {
         "title": "Kalshi taps former FBI agent to fight against money laundering",
@@ -523,9 +523,9 @@
         "published": "2026-10-09T07:00:00-04:00"
       },
       {
-        "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
-        "description": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!",
+        "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+        "description": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
         "source": "NPR",
         "published": "2026-10-09T05:00:00-04:00"
       },
@@ -567,18 +567,25 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-ekim-2026-1745602",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-10-10T05:30:00+03:00"
+      },
+      {
+        "title": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
+        "link": "https://www.sozcu.com.tr/sosyal-medyaya-yeni-duzenleme-resm%C3%AE-gazetede-yayimlandi-p367770",
+        "description": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
+        "source": "Sözcü",
+        "published": "2026-10-10T05:17:56+03:00"
+      },
+      {
         "title": "Manisa'da dehşet. Yanan araçta ceset bulundu",
         "link": "https://www.ntv.com.tr/turkiye/manisada-dehset-yanan-aracta-ceset-bulundu-1745609",
         "description": "Akhisar'da gece saatlerinde yanan otomobilde bir erkeğin cansız bedeni bulundu.",
         "source": "NTV",
         "published": "2026-10-10T02:10:21+03:00"
-      },
-      {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ekim 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-ekim-2026-1745602",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-10-10T02:00:00+03:00"
       },
       {
         "title": "Zeytin festivalinde ortalık karıştı! İYİ Partili vekil eleştirdi AKP'li vekil köpürdü",
@@ -607,13 +614,6 @@
         "description": "İrfan Saraloğlu’ndan Barcelona açıklaması! ‘Türk milletine layık olmaya çalışacağız’",
         "source": "Sözcü",
         "published": "2026-10-10T00:46:45+03:00"
-      },
-      {
-        "title": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
-        "link": "https://www.sozcu.com.tr/sosyal-medyaya-yeni-duzenleme-resm%C3%AE-gazetede-yayimlandi-p367770",
-        "description": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
-        "source": "Sözcü",
-        "published": "2026-10-10T00:35:23+03:00"
       },
       {
         "title": "Bir büyükşehir daha AKP’ye geçiyor: Genel Başkan yardımcısı açıkladı",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 49.2782,
-    "eur_try": 55.2355,
-    "eur_usd": 0.8923
+    "usd_try": 49.3393,
+    "eur_try": 55.2478,
+    "eur_usd": 0.8924
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+54°F",
-    "wind": "↙11mph",
-    "humidity": "65%"
+    "condition": "Açık",
+    "temp": "+67°F",
+    "wind": "↑9mph",
+    "humidity": "71%"
   }
 }
