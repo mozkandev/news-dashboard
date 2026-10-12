@@ -1,41 +1,83 @@
 {
-  "updated_at": "2026-10-11T23:29:19.882304+00:00",
+  "updated_at": "2026-10-12T02:36:41.628202+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Google Data Centers around the world",
-        "link": "https://datacenters.google/locations/",
-        "description": "Article URL: https://datacenters.google/locations/ Comments URL: https://news.ycombinator.com/item?id=50048768 Points: 9 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-10-11T22:45:40+00:00"
+        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+        "source": "TechCrunch",
+        "published": "2026-10-12T00:59:01+00:00"
       },
       {
-        "title": "Fingerprints Are the New Cookies",
+        "title": "Yes I Understand How LLMs Work",
+        "link": "https://kemendo.com/yes-i-understand-how-llms-work.html",
+        "description": "Article URL: https://kemendo.com/yes-i-understand-how-llms-work.html Comments URL: https://news.ycombinator.com/item?id=50049596 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-12T00:16:28+00:00"
+      },
+      {
+        "title": "Local Indexing to reduce tool calling and token usage",
+        "link": "https://tedhaley.ca/pensieve/",
+        "description": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 26 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-10-12T00:03:53+00:00"
+      },
+      {
+        "title": "HashiCorp archives the Boundary open source repo",
+        "link": "https://github.com/hashicorp/boundary",
+        "description": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 42 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-10-12T00:02:45+00:00"
+      },
+      {
+        "title": "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM",
+        "link": "https://github.com/moral666/QT",
+        "description": "Article URL: https://github.com/moral666/QT Comments URL: https://news.ycombinator.com/item?id=50049425 Points: 10 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-10-11T23:52:23+00:00"
+      },
+      {
+        "title": "Whatever became of holography? (2011)",
+        "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+        "description": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 75 # Comments: 27",
+        "source": "HackerNews",
+        "published": "2026-10-11T23:50:34+00:00"
+      },
+      {
+        "title": "Governments are mishandling the affordability crisis",
+        "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+        "description": "Article URL: https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis Comments URL: https://news.ycombinator.com/item?id=50049302 Points: 66 # Comments: 63",
+        "source": "HackerNews",
+        "published": "2026-10-11T23:40:06+00:00"
+      },
+      {
+        "title": "Illustration Beyond Proof",
+        "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+        "description": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 29 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-11T23:22:36+00:00"
+      },
+      {
+        "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+        "link": "https://github.com/swimmingbrain/brainotes",
+        "description": "In August, I posted here about TeXbrain, a LaTeX editor that runs completely in the browser, with no need for an account or server. (I didn't excpect it to get that much feedback, bug reports and help from here!) This is the same idea for the other...",
+        "source": "HackerNews",
+        "published": "2026-10-11T23:22:29+00:00"
+      },
+      {
+        "title": "Fingerprints are the new cookies",
         "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-        "description": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 5 # Comments: 0",
+        "description": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 100 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-10-11T22:33:39+00:00"
       },
       {
         "title": "Google is illegaly cutting forest to build data centers",
         "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-        "description": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Points: 10 # Comments: 2",
+        "description": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Points: 158 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-10-11T22:33:30+00:00"
-      },
-      {
-        "title": "Recursive self-improvement through collective intelligence",
-        "link": "https://pub.sakana.ai/mass/",
-        "description": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 11 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-10-11T22:22:10+00:00"
-      },
-      {
-        "title": "Passkeys are a trap. Do not use them",
-        "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-        "description": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 106 # Comments: 36",
-        "source": "HackerNews",
-        "published": "2026-10-11T21:59:48+00:00"
       },
       {
         "title": "Will the HomeView be Apple’s first smart home success?",
@@ -45,46 +87,11 @@
         "published": "2026-10-11T21:14:40+00:00"
       },
       {
-        "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-        "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-        "description": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 93 # Comments: 56",
-        "source": "HackerNews",
-        "published": "2026-10-11T21:07:20+00:00"
-      },
-      {
         "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
         "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
         "description": "What does this mean for a fall full of movies starring villainous tech CEOs?",
         "source": "TechCrunch",
         "published": "2026-10-11T20:51:47+00:00"
-      },
-      {
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "link": "https://twitter.com/karpathy/status/2109361546505966046",
-        "description": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 145 # Comments: 190",
-        "source": "HackerNews",
-        "published": "2026-10-11T20:20:52+00:00"
-      },
-      {
-        "title": "Cartographers of North Korea",
-        "link": "https://cartographers-nk.wonyoung.so/",
-        "description": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 137 # Comments: 22",
-        "source": "HackerNews",
-        "published": "2026-10-11T19:46:40+00:00"
-      },
-      {
-        "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-        "link": "https://theonion.com/archivehunt/",
-        "description": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 215 # Comments: 25",
-        "source": "HackerNews",
-        "published": "2026-10-11T19:43:32+00:00"
-      },
-      {
-        "title": "The Unreasonable Effectiveness of Vex in NixOS",
-        "link": "https://blog.kammel.dev/post/nixos_vex/",
-        "description": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 42 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-10-11T19:23:07+00:00"
       },
       {
         "title": "Kioxia’dan 122 TB Kapasiteli Yeni LD4 SSD Serisi",
@@ -204,13 +211,6 @@
         "description": "Lenovo, 12 saat pil ömrü ve 10 cihaz desteği sunan yeni taşınabilir wifi 6 modem modeli L016'yı tanıttı. İşte cihazın tüm teknik özellikleri.",
         "source": "ShiftDelete",
         "published": "2026-10-11T14:00:02+00:00"
-      },
-      {
-        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-        "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-        "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-        "source": "TechCrunch",
-        "published": "2026-10-11T14:00:00+00:00"
       },
       {
         "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
@@ -371,7 +371,7 @@
       {
         "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
         "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-        "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+        "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
         "source": "BBC News",
         "published": "2026-10-11T21:36:40+00:00"
       },
@@ -381,6 +381,13 @@
         "description": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
         "source": "BBC News",
         "published": "2026-10-11T21:18:15+00:00"
+      },
+      {
+        "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+        "description": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño.",
+        "source": "NPR",
+        "published": "2026-10-11T19:54:21-04:00"
       },
       {
         "title": "Orangutans released back into Borneo forest after devastating fires",
@@ -509,13 +516,6 @@
         "published": "2026-10-11T05:00:00-04:00"
       },
       {
-        "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-        "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-        "description": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.",
-        "source": "NPR",
-        "published": "2026-10-10T19:44:15-04:00"
-      },
-      {
         "title": "Candidate named Hitler Mussolini elected mayor in Peru",
         "link": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
         "description": "Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote district in the Peruvian Andes, according to local...",
@@ -567,18 +567,88 @@
     ],
     "turkiye": [
       {
-        "title": "Acarlar, nacarlara yenilmez!",
-        "link": "https://www.sozcu.com.tr/acarlar-nacarlara-yenilmez-p368225",
-        "description": "Acarlar, nacarlara yenilmez!",
+        "title": "Sayın bakan siz sorumluluk duymadınız mı?",
+        "link": "https://www.sozcu.com.tr/sayin-bakan-siz-sorumluluk-duymadiniz-mi-p368233",
+        "description": "Sayın bakan siz sorumluluk duymadınız mı?",
         "source": "Sözcü",
-        "published": "2026-10-12T02:21:23+03:00"
+        "published": "2026-10-12T05:30:05+03:00"
+      },
+      {
+        "title": "Torpille önce memur sonra genel müdür!",
+        "link": "https://www.sozcu.com.tr/torpille-once-memur-sonra-genel-mudur-p368230",
+        "description": "Torpille önce memur sonra genel müdür!",
+        "source": "Sözcü",
+        "published": "2026-10-12T05:30:05+03:00"
+      },
+      {
+        "title": "Bunları açıklayın",
+        "link": "https://www.sozcu.com.tr/bunlari-aciklayin-p368228",
+        "description": "Bunları açıklayın",
+        "source": "Sözcü",
+        "published": "2026-10-12T05:30:05+03:00"
       },
       {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Ekim 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-12-ekim-2026-1745884",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-12T02:00:00+03:00"
+        "published": "2026-10-12T05:30:00+03:00"
+      },
+      {
+        "title": "Kabızlık meme kanseri riskini artırabiliyor",
+        "link": "https://www.sozcu.com.tr/kabizlik-meme-kanseri-riskini-artirabiliyor-p368238",
+        "description": "Kabızlık meme kanseri riskini artırabiliyor",
+        "source": "Sözcü",
+        "published": "2026-10-12T05:26:16+03:00"
+      },
+      {
+        "title": "Konteynerde sağlık arıyorlar",
+        "link": "https://www.sozcu.com.tr/konteynerde-saglik-ariyorlar-p368235",
+        "description": "Konteynerde sağlık arıyorlar",
+        "source": "Sözcü",
+        "published": "2026-10-12T05:20:05+03:00"
+      },
+      {
+        "title": "Kayıp foncu Nacar'ın kardeşi de ihale kralı",
+        "link": "https://www.sozcu.com.tr/kayip-foncu-nacar-in-kardesi-de-ihale-krali-p368234",
+        "description": "Kayıp foncu Nacar'ın kardeşi de ihale kralı",
+        "source": "Sözcü",
+        "published": "2026-10-12T05:10:04+03:00"
+      },
+      {
+        "title": "Sosyetenin tatil beldesi Marsilya’ya din ataşesi!",
+        "link": "https://www.sozcu.com.tr/sosyetenin-tatil-beldesi-marsilya-ya-din-atasesi-p368231",
+        "description": "Sosyetenin tatil beldesi Marsilya’ya din ataşesi!",
+        "source": "Sözcü",
+        "published": "2026-10-12T04:30:03+03:00"
+      },
+      {
+        "title": "Jandarma 135 muvazzaf subay alacak",
+        "link": "https://www.sozcu.com.tr/jandarma-135-muvazzaf-subay-alacak-p368232",
+        "description": "Jandarma 135 muvazzaf subay alacak",
+        "source": "Sözcü",
+        "published": "2026-10-12T04:26:28+03:00"
+      },
+      {
+        "title": "Herkesi susturmak istiyorlar",
+        "link": "https://www.sozcu.com.tr/herkesi-susturmak-istiyorlar-p368229",
+        "description": "Herkesi susturmak istiyorlar",
+        "source": "Sözcü",
+        "published": "2026-10-12T04:19:06+03:00"
+      },
+      {
+        "title": "Dört ülkeden Husi saldırılarına ortak tepki",
+        "link": "https://www.ntv.com.tr/turkiye/dort-ulkeden-husi-saldirilarina-ortak-tepki-1745874",
+        "description": "R4 Grubu Devletleri Türkiye, Mısır, Pakistan ve Suudi Arabistan, Riyad'da sivillerin ölümüne neden olan saldırıları kınadı.",
+        "source": "NTV",
+        "published": "2026-10-12T04:08:35+03:00"
+      },
+      {
+        "title": "Acarlar, nacarlara yenilmez!",
+        "link": "https://www.sozcu.com.tr/acarlar-nacarlara-yenilmez-p368225",
+        "description": "Acarlar, nacarlara yenilmez!",
+        "source": "Sözcü",
+        "published": "2026-10-12T02:21:23+03:00"
       },
       {
         "title": "İstanbul Boğazı'nda gemi arızası. Kıyıya metreler kala durabildi",
@@ -588,32 +658,11 @@
         "published": "2026-10-12T01:39:37+03:00"
       },
       {
-        "title": "Dört ülkeden Husi saldırılarına ortak tepki",
-        "link": "https://www.ntv.com.tr/turkiye/dort-ulkeden-husi-saldirilarina-ortak-tepki-1745874",
-        "description": "R4 Grubu Devletleri Türkiye, Mısır, Pakistan ve Suudi Arabistan, Riyad'da sivillerin ölümüne neden olan saldırıları kınadı.",
-        "source": "NTV",
-        "published": "2026-10-12T01:17:41+03:00"
-      },
-      {
         "title": "MHP’li milletvekili ve il başkanının konvoyunda kaza: 1 ölü, 7 yaralı",
         "link": "https://www.ntv.com.tr/turkiye/mhpli-milletvekili-ve-il-baskaninin-konvoyunda-kaza-1-olu-7-yarali-1745887",
         "description": "Kahramanmaraş’ta MHP’li Milletvekili Zuhal Karakoç ve İl Başkanı Mansur Metehan'ın bulunduğu konvoyda meydana gelen trafik kazasında 1 kişi hayatını kaybetti, 7 kişi yaralandı.",
         "source": "NTV",
         "published": "2026-10-12T00:45:56+03:00"
-      },
-      {
-        "title": "'Dur' ihtarına uymayıp kaçtı; 17 yaşındaki sürücü 335 bin TL ceza alınca ağladı",
-        "link": "https://www.sozcu.com.tr/kayseride-dur-ihtarina-uymadi-335-bin-tl-ceza-aldi-p368219",
-        "description": "'Dur' ihtarına uymayıp kaçtı; 17 yaşındaki sürücü 335 bin TL ceza alınca ağladı",
-        "source": "Sözcü",
-        "published": "2026-10-12T00:22:48+03:00"
-      },
-      {
-        "title": "Manisa'daki faciada telefonlar yanıtsız kaldı",
-        "link": "https://www.sozcu.com.tr/manisa-daki-faciada-telefonlar-yanitsiz-kaldi-p368212",
-        "description": "Manisa'daki faciada telefonlar yanıtsız kaldı",
-        "source": "Sözcü",
-        "published": "2026-10-12T00:06:06+03:00"
       },
       {
         "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
@@ -623,60 +672,11 @@
         "published": "2026-10-11T23:49:39+03:00"
       },
       {
-        "title": "Kulisleri hareketlendiren iddia: Antalya Büyükşehir Belediyesi AKP'ye mi geçiyor?",
-        "link": "https://www.sozcu.com.tr/antalya-buyuksehir-belediyesi-icin-akp-iddiasi-p368206",
-        "description": "Kulisleri hareketlendiren iddia: Antalya Büyükşehir Belediyesi AKP'ye mi geçiyor?",
-        "source": "Sözcü",
-        "published": "2026-10-11T23:49:19+03:00"
-      },
-      {
-        "title": "Erman Toroğlu çok tartışılan pozisyona son noktayı koydu! Boğa güreşinde bile...",
-        "link": "https://www.sozcu.com.tr/erman-toroglu-besiktas-kocaelispor-macini-yorumladi-p368203",
-        "description": "Erman Toroğlu çok tartışılan pozisyona son noktayı koydu! Boğa güreşinde bile...",
-        "source": "Sözcü",
-        "published": "2026-10-11T23:48:41+03:00"
-      },
-      {
         "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
         "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1745882",
         "description": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
         "source": "NTV",
         "published": "2026-10-11T23:48:15+03:00"
-      },
-      {
-        "title": "Serdal Adalı isyan etti! Boks federasyonundan yardım alacağız",
-        "link": "https://www.sozcu.com.tr/serdal-adali-isyan-etti-boks-federasyonundan-yardim-alacagiz-p368210",
-        "description": "Serdal Adalı isyan etti! Boks federasyonundan yardım alacağız",
-        "source": "Sözcü",
-        "published": "2026-10-11T23:20:39+03:00"
-      },
-      {
-        "title": "Dövmelerde görünmezlik dönemi resmen başladı",
-        "link": "https://www.sozcu.com.tr/dovmelerde-gorunmezlik-donemi-resmen-basladi-p368211",
-        "description": "Dövmelerde görünmezlik dönemi resmen başladı",
-        "source": "Sözcü",
-        "published": "2026-10-11T23:19:23+03:00"
-      },
-      {
-        "title": "2 bini aşkın vatandaş hastanelik olmuştu: Tokat'ta eğitime 1 gün ara",
-        "link": "https://www.sozcu.com.tr/2-bini-askin-vatandas-hastanelik-olmustu-tokat-ta-egitime-1-gun-ara-p368209",
-        "description": "2 bini aşkın vatandaş hastanelik olmuştu: Tokat'ta eğitime 1 gün ara",
-        "source": "Sözcü",
-        "published": "2026-10-11T23:10:35+03:00"
-      },
-      {
-        "title": "Hakem kararına sert tepki! İzliyorum izliyorum anlam veremiyorum",
-        "link": "https://www.sozcu.com.tr/hakem-kararina-sert-tepki-izliyorum-izliyorum-anlam-veremiyorum-p368207",
-        "description": "Hakem kararına sert tepki! İzliyorum izliyorum anlam veremiyorum",
-        "source": "Sözcü",
-        "published": "2026-10-11T22:59:10+03:00"
-      },
-      {
-        "title": "Dünyanın en tuhaf evleri belli oldu",
-        "link": "https://www.sozcu.com.tr/dunyanin-en-tuhaf-evleri-belli-oldu-p368204",
-        "description": "Dünyanın en tuhaf evleri belli oldu",
-        "source": "Sözcü",
-        "published": "2026-10-11T22:06:28+03:00"
       },
       {
         "title": "İstanbul Boğazı'nda gemi arızası. Kıyıya metreler kala durabildi",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 49.3331,
-    "eur_try": 55.2498,
-    "eur_usd": 0.8924
+    "usd_try": 49.3375,
+    "eur_try": 55.2664,
+    "eur_usd": 0.8926
   },
   "weather": {
     "condition": "Kapalı",
-    "temp": "+84°F",
-    "wind": "↗22mph",
-    "humidity": "34%"
+    "temp": "+72°F",
+    "wind": "↑11mph",
+    "humidity": "62%"
   }
 }
