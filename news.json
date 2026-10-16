@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-10-16T20:33:58.420841+00:00",
+  "updated_at": "2026-10-16T23:15:53.648927+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "source": "TechCrunch",
+        "published": "2026-10-16T21:22:28+00:00"
+      },
+      {
+        "title": "Why harnesses matter for energy (and token) efficiency",
+        "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+        "description": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 22 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-10-16T21:01:23+00:00"
+      },
+      {
+        "title": "I never authorized an integration that scans my secrets",
+        "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+        "description": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 143 # Comments: 90",
+        "source": "HackerNews",
+        "published": "2026-10-16T20:33:41+00:00"
+      },
       {
         "title": "AMD CEO’su Lisa Su: İşlemci Pazarı 2030’a Kadar 10 Kat Büyüyecek",
         "link": "https://shiftdelete.net/amd-ceo-lisa-su-islemci-pazari-2030-beklentisi",
@@ -10,9 +31,9 @@
         "published": "2026-10-16T20:00:21+00:00"
       },
       {
-        "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+        "title": "FLUX 3 Image Klein",
         "link": "https://bfl.ai/blog/flux-3-image-klein",
-        "description": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 4 # Comments: 0",
+        "description": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 83 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-10-16T19:47:13+00:00"
       },
@@ -24,16 +45,9 @@
         "published": "2026-10-16T19:40:00+00:00"
       },
       {
-        "title": "The Fatal Flaw of 911",
-        "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-        "description": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health Comments URL: https://news.ycombinator.com/item?id=50123356 Points: 16 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-10-16T19:33:00+00:00"
-      },
-      {
         "title": "How the Claude Code team does code review",
         "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "description": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 56 # Comments: 49",
+        "description": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 183 # Comments: 174",
         "source": "HackerNews",
         "published": "2026-10-16T19:04:47+00:00"
       },
@@ -47,28 +61,28 @@
       {
         "title": "You could have invented transformers from memory",
         "link": "https://alexwang.ai/posts/associative-memory/",
-        "description": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 8 # Comments: 0",
+        "description": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 82 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-10-16T19:01:17+00:00"
       },
       {
+        "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+        "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "description": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this...",
+        "source": "The Verge",
+        "published": "2026-10-16T19:00:58-04:00"
+      },
+      {
         "title": "Claude reveals ECDSA curve origins",
         "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "description": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 287 # Comments: 114",
+        "description": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 549 # Comments: 233",
         "source": "HackerNews",
         "published": "2026-10-16T18:55:59+00:00"
       },
       {
-        "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
-        "link": "https://stoke.money",
-        "description": "Hi HN, I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs. All of these apps tend to model “cash flow” as the net sum of your...",
-        "source": "HackerNews",
-        "published": "2026-10-16T18:54:47+00:00"
-      },
-      {
         "title": "C++26: The New Debugging Header",
         "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-        "description": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 14 # Comments: 0",
+        "description": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 49 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-10-16T18:52:39+00:00"
       },
@@ -82,7 +96,7 @@
       {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "link": "https://github.com/cobanov/PS5LM",
-        "description": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 70 # Comments: 14",
+        "description": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 144 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-10-16T18:32:35+00:00"
       },
@@ -129,16 +143,23 @@
         "published": "2026-10-16T18:30:09+03:00"
       },
       {
+        "title": "Why Apple is finally making its own smart home devices",
+        "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+        "description": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell,...",
+        "source": "The Verge",
+        "published": "2026-10-16T18:22:40-04:00"
+      },
+      {
         "title": "Anthropic assigned highest junk credit rating in June",
         "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-        "description": "Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d Comments URL: https://news.ycombinator.com/item?id=50122112 Points: 103 # Comments: 27",
+        "description": "https://finance.yahoo.com/technology/ai/articles/anthropic-s... Comments URL: https://news.ycombinator.com/item?id=50122112 Points: 181 # Comments: 51",
         "source": "HackerNews",
         "published": "2026-10-16T18:11:42+00:00"
       },
       {
         "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
         "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-        "description": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 94 # Comments: 69",
+        "description": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 134 # Comments: 122",
         "source": "HackerNews",
         "published": "2026-10-16T18:06:17+00:00"
       },
@@ -183,6 +204,20 @@
         "description": "NVIDIA’nın Blackwell mimarili amiral gemisi ekran kartı GeForce RTX 5090 için dikkat çekici bir gelişme yaşandı. RTX 5090 üretimi hakkındaki sonlandırma iddiaları gündemdeki yerini korurken model, NVIDIA’nın resmi Marketplace sayfasındaki ekran...",
         "source": "ShiftDelete",
         "published": "2026-10-16T17:00:55+00:00"
+      },
+      {
+        "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+        "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+        "description": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the...",
+        "source": "The Verge",
+        "published": "2026-10-16T16:50:27-04:00"
+      },
+      {
+        "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+        "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+        "description": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of...",
+        "source": "The Verge",
+        "published": "2026-10-16T16:49:04-04:00"
       },
       {
         "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -234,13 +269,6 @@
         "published": "2026-10-16T16:00:00+00:00"
       },
       {
-        "title": "Why Apple is finally making its own smart home devices",
-        "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-        "description": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell,...",
-        "source": "The Verge",
-        "published": "2026-10-16T15:37:04-04:00"
-      },
-      {
         "title": "Jev is Vercel’s fastest-adopted AI model ever",
         "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
         "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
@@ -267,13 +295,6 @@
         "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
         "source": "TechCrunch",
         "published": "2026-10-16T14:26:51+00:00"
-      },
-      {
-        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-        "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-        "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-        "source": "TechCrunch",
-        "published": "2026-10-16T14:00:00+00:00"
       },
       {
         "title": "Organize İşler: Karun Hazinesi Netflix Kütüphanesine Eklendi",
@@ -325,32 +346,11 @@
         "published": "2026-10-16T11:26:47-04:00"
       },
       {
-        "title": "Meta’s new terms may allow it to train AI on news sites for free",
-        "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-        "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October...",
-        "source": "The Verge",
-        "published": "2026-10-16T11:22:13-04:00"
-      },
-      {
         "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
         "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
         "description": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has...",
         "source": "The Verge",
         "published": "2026-10-16T11:02:23-04:00"
-      },
-      {
-        "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-        "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-        "description": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for...",
-        "source": "The Verge",
-        "published": "2026-10-16T09:33:21-04:00"
-      },
-      {
-        "title": "iPhone Duo orders are already delayed into 2027",
-        "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-        "description": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website....",
-        "source": "The Verge",
-        "published": "2026-10-16T09:10:11-04:00"
       }
     ],
     "dunya": [
@@ -388,6 +388,13 @@
         "description": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for...",
         "source": "The Guardian",
         "published": "2026-10-16T16:47:35+00:00"
+      },
+      {
+        "title": "Katie Zacharia is out as press secretary, White House says",
+        "link": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
+        "description": "Katie Zacharia is \"transitioning out\" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events for the spokeswoman.",
+        "source": "NPR",
+        "published": "2026-10-16T16:29:40-04:00"
       },
       {
         "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
@@ -509,13 +516,6 @@
         "published": "2026-10-16T05:00:00-04:00"
       },
       {
-        "title": "Do Americans own the president's papers? Appeals court to weigh in",
-        "link": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
-        "description": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
-        "source": "NPR",
-        "published": "2026-10-16T05:00:00-04:00"
-      },
-      {
         "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
         "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
         "description": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug trafficking indictment...",
@@ -567,18 +567,81 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-ekim-2026-1746646",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-10-17T02:00:00+03:00"
+      },
+      {
+        "title": "31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de",
+        "link": "https://www.sozcu.com.tr/31-bin-54-sozlesmeli-saglik-personeli-alinacak-karar-resmi-gazetede-p369948",
+        "description": "31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de",
+        "source": "Sözcü",
+        "published": "2026-10-17T00:57:33+03:00"
+      },
+      {
+        "title": "Son dakika... SPK'dan 37 kişi hakkında suç duyurusu kararı",
+        "link": "https://www.sozcu.com.tr/son-dakika-spk-dan-37-kisi-hakkinda-suc-duyurusu-karari-p369935",
+        "description": "Son dakika... SPK'dan 37 kişi hakkında suç duyurusu kararı",
+        "source": "Sözcü",
+        "published": "2026-10-17T00:36:46+03:00"
+      },
+      {
+        "title": "Putin bir şehri aldıklarını duyurdu: Rusya’nın yeni hedefini açıkladı",
+        "link": "https://www.sozcu.com.tr/putin-bir-sehri-aldiklarini-duyurdu-rusya-nin-yeni-hedefini-acikladi-p369946",
+        "description": "Putin bir şehri aldıklarını duyurdu: Rusya’nın yeni hedefini açıkladı",
+        "source": "Sözcü",
+        "published": "2026-10-17T00:34:52+03:00"
+      },
+      {
+        "title": "SPK'dan yeni kararlar: Hedef Portföy fonları olağan tasfiye sürecine dahil edildi",
+        "link": "https://www.ntv.com.tr/turkiye/spkdan-yeni-kararlar-37-kisi-hakkinda-suc-duyurusu-1746645",
+        "description": "SPK, Hedef Portföy'ün tasfiye kapsamındaki fonlarını ara ödeme düzenlemesinden çıkararak tasfiye işlemlerine başlanmasına karar verdi. Kurul ayrıca 37 kişi hakkında suç duyurusunda bulundu.",
+        "source": "NTV",
+        "published": "2026-10-17T00:32:41+03:00"
+      },
+      {
+        "title": "Minibüs kamyonla çarpıştı: 1 ölü, 18’i öğrenci 23 yaralı",
+        "link": "https://www.sozcu.com.tr/minibus-kamyonla-carpisti-1-olu-18i-ogrenci-23-yarali-p369945",
+        "description": "Minibüs kamyonla çarpıştı: 1 ölü, 18’i öğrenci 23 yaralı",
+        "source": "Sözcü",
+        "published": "2026-10-17T00:17:30+03:00"
+      },
+      {
+        "title": "FIFA'dan Süper Lig ekibine transfer yasağı",
+        "link": "https://www.sozcu.com.tr/fifa-dan-super-lig-ekibine-transfer-yasagi-p369944",
+        "description": "FIFA'dan Süper Lig ekibine transfer yasağı",
+        "source": "Sözcü",
+        "published": "2026-10-17T00:17:07+03:00"
+      },
+      {
+        "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
+        "link": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628",
+        "description": "İstanbul Valiliği ve Kocaeli Valiliği, beklenen şiddetli yağışlar nedeniyle hafta sonu bazı eğitim faaliyetlerine ara verileceğini ve bazı sınavların ertelendiğini bildirdi.",
+        "source": "NTV",
+        "published": "2026-10-17T00:15:45+03:00"
+      },
+      {
+        "title": "BUDO'nun yarın yapılacak 12 seferi iptal edildi",
+        "link": "https://www.ntv.com.tr/turkiye/budonun-yarin-yapilacak-12-seferi-iptal-edildi-1746634",
+        "description": "Bursa Deniz Otobüsleri'nin (BUDO) bugün yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+        "source": "NTV",
+        "published": "2026-10-17T00:15:16+03:00"
+      },
+      {
+        "title": "Beşiktaş'a Orkun Kökçü şoku! Hangi maçları kaçıracağı belli oldu",
+        "link": "https://www.sozcu.com.tr/besiktas-a-orkun-kokcu-soku-resmi-aciklama-geldi-p369930",
+        "description": "Beşiktaş'a Orkun Kökçü şoku! Hangi maçları kaçıracağı belli oldu",
+        "source": "Sözcü",
+        "published": "2026-10-16T23:33:35+03:00"
+      },
+      {
         "title": "Trump tartışmalı ismin üstünü çizdi: Göreve geleli daha 4 gün olmuştu",
         "link": "https://www.sozcu.com.tr/trump-tartismali-ismin-ustunu-cizdi-goreve-geleli-daha-4-gun-olmustu-p369931",
         "description": "Trump tartışmalı ismin üstünü çizdi: Göreve geleli daha 4 gün olmuştu",
         "source": "Sözcü",
         "published": "2026-10-16T23:30:08+03:00"
-      },
-      {
-        "title": "Beşiktaş'a Orkun Kökçü şoku! Resmi açıklama geldi",
-        "link": "https://www.sozcu.com.tr/besiktas-a-orkun-kokcu-soku-resmi-aciklama-geldi-p369930",
-        "description": "Beşiktaş'a Orkun Kökçü şoku! Resmi açıklama geldi",
-        "source": "Sözcü",
-        "published": "2026-10-16T23:28:10+03:00"
       },
       {
         "title": "Anadolu Efes, Litvanya'da farklı kazandı",
@@ -595,11 +658,11 @@
         "published": "2026-10-16T23:06:25+03:00"
       },
       {
-        "title": "ÖSYM duyurdu: Hafta sonu yapılacak sınavlar ertelendi",
-        "link": "https://www.sozcu.com.tr/osym-duyurdu-hafta-sonu-yapilacak-sinavlar-ertelendi-p369921",
-        "description": "ÖSYM duyurdu: Hafta sonu yapılacak sınavlar ertelendi",
-        "source": "Sözcü",
-        "published": "2026-10-16T22:41:46+03:00"
+        "title": "Halk TV'ye kayyum atanan soruşturmada dört kişiye tutuklama, dört kişiye ev hapsi, dört kişi adli kontrolle serbest",
+        "link": "https://www.bbc.com/turkce/articles/cmy0eyerev48o?at_medium=RSS&at_campaign=rss",
+        "description": "İstanbul Cumhuriyet Başsavcılığı'nın, kanalın sahibi Cafer Mahiroğlu'na yönelik soruşturmasınde gözaltına alınan 12 kişinden 4'ü tutuklandı, 4 kişiye ise ev hapsi cezası verildi, dört kişi de adli kontrolle serbest kaldı.",
+        "source": "BBC Turkish",
+        "published": "2026-10-16T23:04:09+00:00"
       },
       {
         "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 16 Ekim 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
@@ -616,53 +679,11 @@
         "published": "2026-10-16T22:35:54+03:00"
       },
       {
-        "title": "Arda Güler fotoğraf paylaştı! Mbappe'nin cevabı olay oldu",
-        "link": "https://www.sozcu.com.tr/arda-guler-fotograf-paylasti-mbappe-nin-cevabi-olay-oldu-p369917",
-        "description": "Arda Güler fotoğraf paylaştı! Mbappe'nin cevabı olay oldu",
-        "source": "Sözcü",
-        "published": "2026-10-16T22:31:51+03:00"
-      },
-      {
-        "title": "Trump o iddiaları yalanladı: Zelenskiy’nin açıklamaları kriz çıkarmıştı",
-        "link": "https://www.sozcu.com.tr/trump-o-iddialari-yalanladi-zelenskiy-nin-aciklamalari-kriz-cikarmisti-p369919",
-        "description": "Trump o iddiaları yalanladı: Zelenskiy’nin açıklamaları kriz çıkarmıştı",
-        "source": "Sözcü",
-        "published": "2026-10-16T22:27:45+03:00"
-      },
-      {
-        "title": "Beşiktaş'tan EuroLeague'de ilk iç saha zaferi",
-        "link": "https://www.sozcu.com.tr/besiktas-tan-euroleague-de-ilk-ic-saha-zaferi-p369918",
-        "description": "Beşiktaş'tan EuroLeague'de ilk iç saha zaferi",
-        "source": "Sözcü",
-        "published": "2026-10-16T22:14:25+03:00"
-      },
-      {
-        "title": "Galatasaray'da yeni dönem resmen başladı! Başantrenörlüğe Manuchar Markoishvili getirildi",
-        "link": "https://www.sozcu.com.tr/galatasaray-da-yeni-donem-resmen-basladi-basantrenorluge-manuchar-markoishvili-getirildi-p369916",
-        "description": "Galatasaray'da yeni dönem resmen başladı! Başantrenörlüğe Manuchar Markoishvili getirildi",
-        "source": "Sözcü",
-        "published": "2026-10-16T21:57:03+03:00"
-      },
-      {
         "title": "Valilik duyurdu. Üsküdar Belediyesi'nde başkanvekili 20 Ekim'de seçilecek",
         "link": "https://www.ntv.com.tr/turkiye/valilik-duyurdu-uskudar-belediyesinde-baskanvekili-20-ekimde-secilecek-1746637",
         "description": "İstanbul Valiliği, trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin'in yerine yeni başkanvekilinin 20 Ekim Salı günü seçileceğini duyurdu.",
         "source": "NTV",
         "published": "2026-10-16T21:20:28+03:00"
-      },
-      {
-        "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
-        "link": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628",
-        "description": "İstanbul Valiliği ve Kocaeli Valiliği, beklenen şiddetli yağışlar nedeniyle hafta sonu bazı eğitim faaliyetlerine ara verileceğini ve bazı sınavların ertelendiğini bildirdi.",
-        "source": "NTV",
-        "published": "2026-10-16T21:14:45+03:00"
-      },
-      {
-        "title": "BUDO'nun yarın yapılacak 12 seferi iptal edildi",
-        "link": "https://www.ntv.com.tr/turkiye/budonun-yarin-yapilacak-12-seferi-iptal-edildi-1746634",
-        "description": "Bursa Deniz Otobüsleri'nin (BUDO) yarın yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-        "source": "NTV",
-        "published": "2026-10-16T21:06:35+03:00"
       },
       {
         "title": "Rosatom: Akkuyu NGS'de ilk reaktör aralıkta devreye alınacak",
@@ -686,13 +707,6 @@
         "published": "2026-10-16T19:44:27+03:00"
       },
       {
-        "title": "Futbolcu Kubilay Kaan Kundakçı cinayeti davasında karar",
-        "link": "https://www.ntv.com.tr/turkiye/futbolcu-kubilay-kaan-kundakci-cinayeti-davasinda-karar-1746624",
-        "description": "Futbolcu Kubilay Kaan Kundakçı’nın öldürülmesine ilişkin davada karar açıklandı. Mahkeme, Aleyna Kalaycıoğlu beraat ederken, Alaattin Kadayıfçıoğlu müebbet hapis cezasına çarptırıldı.",
-        "source": "NTV",
-        "published": "2026-10-16T18:50:48+03:00"
-      },
-      {
         "title": "Bolu'nun yüksek kesimlerinde lapa lapa kar. Kartalkaya beyaza büründü",
         "link": "https://www.ntv.com.tr/turkiye/galeri-bolunun-yuksek-kesimlerinde-kar-etkisini-artirdi-1746627",
         "description": "Bolu'nun yüksek kesimlerinde kar etkisini artırdı, Düzce'nin yüksek rakımlarında ise sağanak yerini kara bıraktı.",
@@ -705,13 +719,6 @@
         "description": "İşgal altındaki Batı Şeria'da her yıl yapılan zeytin hasadı sırasında, onlarca maskeli Yahudi yerleşimci Filistinlilere saldırdı, araçları ve zeytin ağaçlarını ateşe verdi. BBC ekibi, Filistin'in Ebu Falah köyü yakınlarındaki tarım arazisinde...",
         "source": "BBC Turkish",
         "published": "2026-10-16T18:20:56+00:00"
-      },
-      {
-        "title": "Sağanağın faturası ağır oldu: İstinat duvarları çöktü, binalar boşaltıldı",
-        "link": "https://www.ntv.com.tr/turkiye/video-saganagin-faturasi-agir-oldu-istinat-duvarlari-coktu-binalar-bosaltildi-1746618",
-        "description": "Türkiye genelinde iki gündür etkili olan şiddetli sağanak yağışlar, Sakarya başta olmak üzere Kocaeli, Zonguldak ve Yalova'da sel, heyelan ve büyük çaplı yıkımlara neden oldu.",
-        "source": "NTV",
-        "published": "2026-10-16T16:28:35+03:00"
       },
       {
         "title": "İmamoğlu'ndan Kılıçdaroğlu'na 'Dava siyasi değil' tepkisi: 'Senin alnını karışlarım'",
@@ -749,13 +756,6 @@
         "published": "2026-10-16T11:47:41+00:00"
       },
       {
-        "title": "Türkiye Sigorta Genel Müdürü Taha Çakmak istifa etti",
-        "link": "https://www.bbc.com/turkce/articles/cmx2dg4z8qqwo?at_medium=RSS&at_campaign=rss",
-        "description": "Gazeteci İsmail Saymaz, Taha Çakmak'ın Türkiye Hayat Emeklilik'e ait 100 milyon TL'nin Tera fonunda kaybedilmesinden sorumlu tutulduğunu duyurmuştu.",
-        "source": "BBC Turkish",
-        "published": "2026-10-16T10:08:28+00:00"
-      },
-      {
         "title": "Halk TV'nin ardından: YouTube televizyonun yerini tutabilir mi?",
         "link": "https://www.bbc.com/turkce/articles/cr93zypzqyp8o?at_medium=RSS&at_campaign=rss",
         "description": "Türkiye’de eleştirel yayın yapan medya kuruluşlarının azalması, farklı seslerin duyulmasını ve kamuoyunun haber alma imkânlarını nasıl etkiliyor? Halk TV’ye kayyum atanmasının ardından uzmanlar, medyada çoğulculuğun geleceğini ve dijital...",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8917
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+84°F",
-    "wind": "←20mph",
-    "humidity": "19%"
+    "condition": "Hafif sağanak yağmur",
+    "temp": "+53°F",
+    "wind": "↓26mph",
+    "humidity": "69%"
   }
 }
