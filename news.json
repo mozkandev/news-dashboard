@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-17T21:36:01.509123+00:00",
+  "updated_at": "2026-10-17T23:46:19.508365+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "JDK 28",
+        "link": "https://openjdk.org/projects/jdk/28/",
+        "description": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 15 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-10-17T21:37:07+00:00"
+      },
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
         "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -26,7 +33,7 @@
       {
         "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
         "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-        "description": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 33 # Comments: 23",
+        "description": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 59 # Comments: 60",
         "source": "HackerNews",
         "published": "2026-10-17T20:07:33+00:00"
       },
@@ -52,23 +59,16 @@
         "published": "2026-10-17T18:48:08+00:00"
       },
       {
-        "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+        "title": "Microsoft and CMU team up to train early career software engineers",
         "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-        "description": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 27 # Comments: 20",
+        "description": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 51 # Comments: 56",
         "source": "HackerNews",
         "published": "2026-10-17T18:45:07+00:00"
       },
       {
-        "title": "Pattern Matching Beats Narrative Reasoning",
-        "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-        "description": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 24 # Comments: 10",
-        "source": "HackerNews",
-        "published": "2026-10-17T18:34:13+00:00"
-      },
-      {
         "title": "OpenCode Hacked: User credentials leaked",
         "link": "https://twitter.com/opencode/status/2111516673953935833",
-        "description": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 468 # Comments: 81",
+        "description": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 676 # Comments: 118",
         "source": "HackerNews",
         "published": "2026-10-17T18:01:41+00:00"
       },
@@ -80,30 +80,30 @@
         "published": "2026-10-17T18:00:50+00:00"
       },
       {
-        "title": "Codex is EATING my Mac's disk space",
+        "title": "Codex Desktop continuously generates Crashpad pending dumps",
         "link": "https://github.com/openai/codex/issues/25921",
-        "description": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 17 # Comments: 4",
+        "description": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 46 # Comments: 24",
         "source": "HackerNews",
         "published": "2026-10-17T17:45:08+00:00"
       },
       {
         "title": "I Became a Citizen of Japan",
         "link": "https://www.derekwessman.com/blog-1/natural",
-        "description": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 81 # Comments: 23",
+        "description": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 123 # Comments: 41",
         "source": "HackerNews",
         "published": "2026-10-17T17:36:17+00:00"
       },
       {
         "title": "Development statistics for the 7.2 kernel",
         "link": "https://lwn.net/Articles/1088776/",
-        "description": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 108 # Comments: 88",
+        "description": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 121 # Comments: 97",
         "source": "HackerNews",
         "published": "2026-10-17T17:14:12+00:00"
       },
       {
         "title": "Gold is now the top U.S. export",
         "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-        "description": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 135 # Comments: 72",
+        "description": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 186 # Comments: 104",
         "source": "HackerNews",
         "published": "2026-10-17T17:06:07+00:00"
       },
@@ -124,7 +124,7 @@
       {
         "title": "Pele – Mermaid diagrams as themeable SVG",
         "link": "https://pele.run/",
-        "description": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 111 # Comments: 14",
+        "description": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 180 # Comments: 19",
         "source": "HackerNews",
         "published": "2026-10-17T15:55:09+00:00"
       },
@@ -355,11 +355,60 @@
     ],
     "dunya": [
       {
+        "title": "The Papers: 'French protests become violent' and SAS men 'arrested for murder'",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&at_campaign=rss",
+        "description": "The Times reports soldiers accused of murder were sent into war zones while still under police investigation.",
+        "source": "BBC News",
+        "published": "2026-10-17T23:40:34+00:00"
+      },
+      {
+        "title": "The playground murder: Trauma, loss and a love that endured",
+        "link": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
+        "description": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+        "source": "BBC News",
+        "published": "2026-10-17T23:04:50+00:00"
+      },
+      {
+        "title": "Dubois destroys Wardley in two rounds to retain title",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
+        "description": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+        "source": "BBC News",
+        "published": "2026-10-17T22:27:49+00:00"
+      },
+      {
+        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+        "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+        "source": "BBC News",
+        "published": "2026-10-17T22:09:50+00:00"
+      },
+      {
+        "title": "How day of protests unfolded as disorder breaks out across France",
+        "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+        "description": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+        "source": "BBC News",
+        "published": "2026-10-17T21:33:17+00:00"
+      },
+      {
         "title": "Anti-government protesters battle with police in Albania",
         "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
         "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
         "source": "BBC News",
         "published": "2026-10-17T20:53:00+00:00"
+      },
+      {
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+        "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+        "source": "BBC News",
+        "published": "2026-10-17T20:52:17+00:00"
+      },
+      {
+        "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+        "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+        "description": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon.",
+        "source": "NPR",
+        "published": "2026-10-17T18:45:25-04:00"
       },
       {
         "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -381,20 +430,6 @@
         "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
         "source": "BBC News",
         "published": "2026-10-17T16:34:39+00:00"
-      },
-      {
-        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
-        "description": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
-        "source": "BBC News",
-        "published": "2026-10-17T16:02:31+00:00"
-      },
-      {
-        "title": "Pope discharged from hospital days after lung cancer surgery",
-        "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-        "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-        "source": "BBC News",
-        "published": "2026-10-17T13:51:36+00:00"
       },
       {
         "title": "Scuffles and fires break out as protesters rally across France, joining students",
@@ -460,13 +495,6 @@
         "published": "2026-10-17T05:00:00-04:00"
       },
       {
-        "title": "No Kings turns its focus to voting this weekend. Here's what we know",
-        "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-        "description": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday's events are a nonpartisan effort to get people to the polls.",
-        "source": "NPR",
-        "published": "2026-10-17T05:00:00-04:00"
-      },
-      {
         "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
         "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
         "description": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three...",
@@ -474,39 +502,11 @@
         "published": "2026-10-17T02:52:59+00:00"
       },
       {
-        "title": "Why people who have never smoked are getting hooked on vapes",
-        "link": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss",
-        "description": "More than one million people now vape who have never been smokers, according to the ONS.",
-        "source": "BBC News",
-        "published": "2026-10-16T23:49:16+00:00"
-      },
-      {
-        "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
-        "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
-        "description": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
-        "source": "BBC News",
-        "published": "2026-10-16T23:27:01+00:00"
-      },
-      {
-        "title": "Two-week half terms: The school holiday no one can agree on",
-        "link": "https://www.bbc.co.uk/news/articles/cm3wvd7x01jqo?at_medium=RSS&at_campaign=rss",
-        "description": "Parents are divided, with some struggling to arrange childcare while others eye cheaper holidays.",
-        "source": "BBC News",
-        "published": "2026-10-16T23:26:45+00:00"
-      },
-      {
         "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
         "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
         "description": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whether this...",
         "source": "The Guardian",
         "published": "2026-10-16T19:37:53+00:00"
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-        "source": "BBC News",
-        "published": "2026-10-16T18:11:29+00:00"
       },
       {
         "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
@@ -567,25 +567,46 @@
     ],
     "turkiye": [
       {
-        "title": "Takasbank'tan TPP ve TEFAS iddialarına ilişkin açıklama",
-        "link": "https://www.ntv.com.tr/turkiye/takasbanktan-tpp-ve-tefas-iddialarina-iliskin-aciklama-1746780",
-        "description": "Takasbank, Takasbank Para Piyasası (TPP) aracılığıyla belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddialara ilişkin açıklama yaptı.",
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-ekim-2026-1746779",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-18T00:33:24+03:00"
+        "published": "2026-10-18T02:30:00+03:00"
+      },
+      {
+        "title": "Kocaeli’de Namazgah Barajı bölgesinde tahliye kararı",
+        "link": "https://www.ntv.com.tr/turkiye/kocaelide-namazgah-baraji-bolgesinde-tahliye-karari-1746781",
+        "description": "Kocaeli’de sağanak yağmur nedeniyle Namazgah Barajı’ndan Sarısu Deresi’nin denizle buluştuğu noktaya kadar olan bölgedeki vatandaşların su baskını riski nedeniyle evlerini tahliye etmeleri istendi.",
+        "source": "NTV",
+        "published": "2026-10-18T02:15:58+03:00"
+      },
+      {
+        "title": "İçeride 2’si çocuk 5 kişi vardı! Eve el yapımı patlayıcıyla saldırı",
+        "link": "https://www.sozcu.com.tr/iceride-2si-cocuk-5-kisi-vardi-eve-el-yapimi-patlayici-atildi-p370170",
+        "description": "İçeride 2’si çocuk 5 kişi vardı! Eve el yapımı patlayıcıyla saldırı",
+        "source": "Sözcü",
+        "published": "2026-10-18T01:06:18+03:00"
+      },
+      {
+        "title": "Kocaeli’de alarm: Tahliye çağrısı yapıldı",
+        "link": "https://www.sozcu.com.tr/kocaeli-de-alarm-tahliye-cagrisi-yapildi-p370169",
+        "description": "Kocaeli’de alarm: Tahliye çağrısı yapıldı",
+        "source": "Sözcü",
+        "published": "2026-10-18T00:58:06+03:00"
       },
       {
         "title": "Fransa'da sokaklar savaş alanına döndü! 143 yıllık tarihi belediye binası ateşe verildi",
         "link": "https://www.sozcu.com.tr/fransada-sokaklar-savas-alanina-dondu-143-yillik-tarihi-belediye-binasi-atese-verildi-p370168",
         "description": "Fransa'da sokaklar savaş alanına döndü! 143 yıllık tarihi belediye binası ateşe verildi",
         "source": "Sözcü",
-        "published": "2026-10-18T00:32:23+03:00"
+        "published": "2026-10-18T00:52:32+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Ekim 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-ekim-2026-1746779",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "title": "Takasbank'tan TPP ve TEFAS iddialarına ilişkin açıklama",
+        "link": "https://www.ntv.com.tr/turkiye/takasbanktan-tpp-ve-tefas-iddialarina-iliskin-aciklama-1746780",
+        "description": "Takasbank, Takasbank Para Piyasası (TPP) aracılığıyla belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddialara ilişkin açıklama yaptı.",
         "source": "NTV",
-        "published": "2026-10-18T00:30:00+03:00"
+        "published": "2026-10-18T00:33:24+03:00"
       },
       {
         "title": "Galatasaray'ın rakibi Lille, evinde berabere kaldı",
@@ -658,20 +679,6 @@
         "published": "2026-10-17T22:50:51+03:00"
       },
       {
-        "title": "İsmail Kartal, Asensio ile ilgili tarih verdi! 'Yarın a'dan z'ye kulüp açıklayacak'",
-        "link": "https://www.sozcu.com.tr/ismail-kartal-asensio-ile-ilgili-tarih-verdi-yarin-a-dan-z-ye-kulup-aciklayacak-p370156",
-        "description": "İsmail Kartal, Asensio ile ilgili tarih verdi! 'Yarın a'dan z'ye kulüp açıklayacak'",
-        "source": "Sözcü",
-        "published": "2026-10-17T22:42:09+03:00"
-      },
-      {
-        "title": "Dehşete düşüren görüntüler: Kurusıkı tabancayla tehdit edip kayda aldı",
-        "link": "https://www.sozcu.com.tr/dehsete-dusuren-goruntuler-kurusiki-tabancayla-tehdit-edip-kayda-aldi-p370157",
-        "description": "Dehşete düşüren görüntüler: Kurusıkı tabancayla tehdit edip kayda aldı",
-        "source": "Sözcü",
-        "published": "2026-10-17T22:36:08+03:00"
-      },
-      {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1746771",
         "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
@@ -691,13 +698,6 @@
         "description": "Küçükçekmece’de, bir dairenin banyosundaki fayanslardaki çatlama ve binada çatlama sesleri nedeniyle 7 katlı bina tedbir amacıyla tahliye edildi.",
         "source": "NTV",
         "published": "2026-10-17T20:24:33+03:00"
-      },
-      {
-        "title": "Devlet Bahçeli: Türkiye ve Azerbaycan ayrılmaz bir bütündür",
-        "link": "https://www.ntv.com.tr/turkiye/devlet-bahceli-turkiye-azerbaycan-ayrilmaz-bir-butundur-1746763",
-        "description": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, \"Azerbaycan'ın 18 Ekim Bağımsızlığın Yeniden Sağlanması Günü\" hakkında mesaj paylaştı.",
-        "source": "NTV",
-        "published": "2026-10-17T19:09:28+03:00"
       },
       {
         "title": "Kış erken geldi. Ekim ortasında birçok kent beyaza büründü",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+52°F",
-    "wind": "↓11mph",
-    "humidity": "38%"
+    "temp": "+69°F",
+    "wind": "↗10mph",
+    "humidity": "15%"
   }
 }
