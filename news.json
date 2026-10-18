@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-18T21:17:01.333927+00:00",
+  "updated_at": "2026-10-18T23:30:15.578774+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "link": "https://github.com/finereli/whatsapp-mcp",
+        "description": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp...",
+        "source": "HackerNews",
+        "published": "2026-10-18T21:36:10+00:00"
+      },
+      {
+        "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+        "link": "https://github.com/omnipty-terminal/omnipty",
+        "description": "Article URL: https://github.com/omnipty-terminal/omnipty Comments URL: https://news.ycombinator.com/item?id=50145628 Points: 7 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-18T21:24:13+00:00"
+      },
       {
         "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
         "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
@@ -10,11 +24,18 @@
         "published": "2026-10-18T21:00:00+00:00"
       },
       {
-        "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "link": "https://arxiv.org/abs/2610.18861",
-        "description": "Article URL: https://arxiv.org/abs/2610.18861 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 13 # Comments: 0",
+        "description": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL:...",
         "source": "HackerNews",
         "published": "2026-10-18T20:48:14+00:00"
+      },
+      {
+        "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+        "link": "https://github.com/Netflix/vmaf",
+        "description": "Article URL: https://github.com/Netflix/vmaf Comments URL: https://news.ycombinator.com/item?id=50145295 Points: 12 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-10-18T20:43:40+00:00"
       },
       {
         "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -31,25 +52,25 @@
         "published": "2026-10-18T19:03:38+00:00"
       },
       {
-        "title": "Tiny Brutalism – Thanks to HN it's on Steam",
-        "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
-        "description": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 45 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-10-18T18:59:09+00:00"
-      },
-      {
         "title": "Free Pascal compiler now supports dynamic packages",
         "link": "https://www.getlazarus.org/dynamic/",
-        "description": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 61 # Comments: 13",
+        "description": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 96 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-10-18T18:48:04+00:00"
       },
       {
         "title": "Florida's HOAs and condo associations are making the housing crisis worse",
         "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-        "description": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 115 # Comments: 198",
+        "description": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 148 # Comments: 249",
         "source": "HackerNews",
         "published": "2026-10-18T18:40:16+00:00"
+      },
+      {
+        "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+        "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+        "description": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE...",
+        "source": "The Verge",
+        "published": "2026-10-18T18:20:53-04:00"
       },
       {
         "title": "Sony’den PlayStation’da Gecikmeyi Azaltan Kare Üretim Yöntemi",
@@ -61,28 +82,21 @@
       {
         "title": "PalmOS Lemmings",
         "link": "https://github.com/ardiri/palmos-lemmings",
-        "description": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 57 # Comments: 12",
+        "description": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 77 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-10-18T17:56:59+00:00"
       },
       {
-        "title": "Mitos editor is a fork of Helix",
-        "link": "https://mitos.computer/",
-        "description": "Article URL: https://mitos.computer/ Comments URL: https://news.ycombinator.com/item?id=50143132 Points: 48 # Comments: 47",
-        "source": "HackerNews",
-        "published": "2026-10-18T17:19:34+00:00"
-      },
-      {
         "title": "Namecheap just seized and disabled all my domains",
         "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-        "description": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 245 # Comments: 128",
+        "description": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 365 # Comments: 176",
         "source": "HackerNews",
         "published": "2026-10-18T16:56:56+00:00"
       },
       {
         "title": "Someone behind the software",
         "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-        "description": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 213 # Comments: 76",
+        "description": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 272 # Comments: 112",
         "source": "HackerNews",
         "published": "2026-10-18T16:32:00+00:00"
       },
@@ -96,7 +110,7 @@
       {
         "title": "The Intel 8087 chip: floating-point addition and subtraction",
         "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-        "description": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 73 # Comments: 17",
+        "description": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 83 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-10-18T16:20:27+00:00"
       },
@@ -129,13 +143,6 @@
         "published": "2026-10-18T15:00:42+00:00"
       },
       {
-        "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-        "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-        "description": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 111 # Comments: 148",
-        "source": "HackerNews",
-        "published": "2026-10-18T15:00:40+00:00"
-      },
-      {
         "title": "Türkiye’nin ABD’de Bekleyen 6 F-35’i Ne Olacak? Türkiye’ye Yok, Hindistan’a Var! | 2T Teknoloji & Savunma #16",
         "link": "https://shiftdelete.net/turkiyenin-abdde-bekleyen-6-f-35i-ne-olacak-turkiyeye-yok-hindistana-var-2t-teknoloji-savunma-16",
         "description": "Türkiye’nin F-35 savaş uçaklarına yeniden kavuşma ihtimali tartışılırken ABD’de bekletilen 6 Türk F-35A’nın görüntüleri yeniden gündeme geldi. Türkiye, Rusya’dan aldığı S-400 hava savunma sistemi nedeniyle F-35 programından çıkarılırken aynı sisteme...",
@@ -155,13 +162,6 @@
         "description": "Telegram, takip edilen kanalları ve önerileri bir araya getiren yeni bir Telegram kişiselleştirilmiş haber akışı özelliği üzerinde çalışıyor.",
         "source": "ShiftDelete",
         "published": "2026-10-18T14:00:48+00:00"
-      },
-      {
-        "title": "TikTok bans Musk documentary account",
-        "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-        "description": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's...",
-        "source": "The Verge",
-        "published": "2026-10-18T13:12:43-04:00"
       },
       {
         "title": "Video game ownership bill introduced in Congress",
@@ -355,6 +355,48 @@
     ],
     "dunya": [
       {
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+        "source": "BBC News",
+        "published": "2026-10-18T23:20:15+00:00"
+      },
+      {
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+        "source": "BBC News",
+        "published": "2026-10-18T23:06:09+00:00"
+      },
+      {
+        "title": "Home sellers cut asking prices on 3,000 properties a day",
+        "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+        "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+        "source": "BBC News",
+        "published": "2026-10-18T23:00:45+00:00"
+      },
+      {
+        "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+        "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+        "description": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s...",
+        "source": "The Guardian",
+        "published": "2026-10-18T22:26:15+00:00"
+      },
+      {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "source": "BBC News",
+        "published": "2026-10-18T21:37:56+00:00"
+      },
+      {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "source": "BBC News",
+        "published": "2026-10-18T21:00:22+00:00"
+      },
+      {
         "title": "Macron calls for 'calm and order' after riots across France",
         "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
         "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
@@ -369,34 +411,6 @@
         "published": "2026-10-18T19:53:27+00:00"
       },
       {
-        "title": "What we know so far about deadly fire at Canadian military base",
-        "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "source": "BBC News",
-        "published": "2026-10-18T19:42:37+00:00"
-      },
-      {
-        "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-        "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-        "description": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s...",
-        "source": "The Guardian",
-        "published": "2026-10-18T17:34:53+00:00"
-      },
-      {
-        "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-        "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-        "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-        "source": "BBC News",
-        "published": "2026-10-18T17:00:42+00:00"
-      },
-      {
-        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-        "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-        "source": "BBC News",
-        "published": "2026-10-18T15:46:10+00:00"
-      },
-      {
         "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
         "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
         "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
@@ -409,13 +423,6 @@
         "description": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
         "source": "NPR",
         "published": "2026-10-18T14:38:49-04:00"
-      },
-      {
-        "title": "Suspects hunted after police officer injured in shooting",
-        "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-        "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-        "source": "BBC News",
-        "published": "2026-10-18T13:10:18+00:00"
       },
       {
         "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
@@ -465,13 +472,6 @@
         "description": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to...",
         "source": "The Guardian",
         "published": "2026-10-18T07:00:53+00:00"
-      },
-      {
-        "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-        "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-        "source": "BBC News",
-        "published": "2026-10-18T05:30:16+00:00"
       },
       {
         "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -567,6 +567,34 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-ekim-2026-1746922",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-10-19T02:00:00+03:00"
+      },
+      {
+        "title": "Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
+        "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
+        "description": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
+        "source": "NTV",
+        "published": "2026-10-19T01:21:46+03:00"
+      },
+      {
+        "title": "Mustafa Sarıgül duyurdu: Emir Sarıgül avukatıyla emniyete gitti",
+        "link": "https://www.sozcu.com.tr/emir-sarigul-emniyette-p370431",
+        "description": "Mustafa Sarıgül duyurdu: Emir Sarıgül avukatıyla emniyete gitti",
+        "source": "Sözcü",
+        "published": "2026-10-19T01:02:08+03:00"
+      },
+      {
+        "title": "Sis ormanlarında altın kurbağa keşfedildi",
+        "link": "https://www.sozcu.com.tr/sis-ormanlarinda-altin-kurbaga-kesfedildi-p370433",
+        "description": "Sis ormanlarında altın kurbağa keşfedildi",
+        "source": "Sözcü",
+        "published": "2026-10-19T00:22:55+03:00"
+      },
+      {
         "title": "Arda Güler şov yaptı, Real Madrid farklı kazandı",
         "link": "https://www.sozcu.com.tr/arda-guler-sov-yapti-real-madrid-farkli-kazandi-p370432",
         "description": "Arda Güler şov yaptı, Real Madrid farklı kazandı",
@@ -574,11 +602,11 @@
         "published": "2026-10-19T00:10:05+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Ekim 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-ekim-2026-1746922",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-10-19T00:00:00+03:00"
+        "title": "Cihan Ünal: 'Bunlar futbolun içerisinde doğal şeyler'",
+        "link": "https://www.sozcu.com.tr/cihan-unal-bunlar-futbolun-icerisinde-dogal-seyler-p370430",
+        "description": "Cihan Ünal: 'Bunlar futbolun içerisinde doğal şeyler'",
+        "source": "Sözcü",
+        "published": "2026-10-19T00:02:54+03:00"
       },
       {
         "title": "Ertuğrul Doğan net konuştu: 'Beşiktaş'ı yeneriz'",
@@ -623,13 +651,6 @@
         "published": "2026-10-18T23:07:24+03:00"
       },
       {
-        "title": "Eğitim için Isparta’ya ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
-        "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
-        "description": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
-        "source": "NTV",
-        "published": "2026-10-18T23:03:22+03:00"
-      },
-      {
         "title": "Kıran kırana geçen derbi Beşiktaş’ın: Potada Galatasaray’ı devirdi",
         "link": "https://www.sozcu.com.tr/kiran-kirana-gecen-derbi-besiktasin-potada-galatasarayi-devirdi-p370425",
         "description": "Kıran kırana geçen derbi Beşiktaş’ın: Potada Galatasaray’ı devirdi",
@@ -651,20 +672,6 @@
         "published": "2026-10-18T22:52:07+03:00"
       },
       {
-        "title": "Yıllardır var ama çoğu sürücü bilmiyor: Otomobillerdeki gizli özellikler tek tek açıklandı",
-        "link": "https://www.sozcu.com.tr/yillardir-var-ama-cogu-surucu-bilmiyor-otomobillerdeki-gizli-ozellikler-tek-tek-aciklandi-p370422",
-        "description": "Yıllardır var ama çoğu sürücü bilmiyor: Otomobillerdeki gizli özellikler tek tek açıklandı",
-        "source": "Sözcü",
-        "published": "2026-10-18T22:45:24+03:00"
-      },
-      {
-        "title": "İstinye Park’ta İsrail gerginliği! Klodya Medina protestosu",
-        "link": "https://www.sozcu.com.tr/klodya-medina-halfon-kimdir-p370416",
-        "description": "İstinye Park’ta İsrail gerginliği! Klodya Medina protestosu",
-        "source": "Sözcü",
-        "published": "2026-10-18T22:44:10+03:00"
-      },
-      {
         "title": "Avcılar'da yol verme tartışması. 3 kişiye aracıyla çarptı, 4 gözaltı var",
         "link": "https://www.ntv.com.tr/turkiye/avcilarda-yol-verme-tartismasi-3-kisiye-araciyla-carpti-4-gozalti-var-1746912",
         "description": "Avcılar’da park yeri nedeniyle çıkan tartışmanın ardından otomobiline binen sürücü, tartıştığı 3 kişiye çarparak kaçtı. Yaralanan 3 kişi hastaneye kaldırılırken, olayla ilgili 4 şüpheli yakalandı.",
@@ -684,13 +691,6 @@
         "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
         "source": "NTV",
         "published": "2026-10-18T22:05:21+03:00"
-      },
-      {
-        "title": "Nuri Şahin ve Orhan Ak arasında tartışma! 1 kırmızı kart çıktı",
-        "link": "https://www.sozcu.com.tr/nuri-sahin-ve-orhan-ak-arasinda-tartisma-1-kirmizi-kart-cikti-p370417",
-        "description": "Nuri Şahin ve Orhan Ak arasında tartışma! 1 kırmızı kart çıktı",
-        "source": "Sözcü",
-        "published": "2026-10-18T21:58:53+03:00"
       },
       {
         "title": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik TIR kuyruğu",
@@ -785,8 +785,8 @@
   },
   "weather": {
     "condition": "Güneşli",
-    "temp": "+64°F",
-    "wind": "↑14mph",
-    "humidity": "47%"
+    "temp": "+80°F",
+    "wind": "↓8mph",
+    "humidity": "31%"
   }
 }
