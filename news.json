@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-21T21:17:59.558364+00:00",
+  "updated_at": "2026-10-22T00:06:01.581420+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "There isn't an easy exploit for this PHP vulnerability",
+        "link": "https://eliastaylor.com/noexploit/",
+        "description": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 10 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-21T23:13:27+00:00"
+      },
+      {
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "source": "TechCrunch",
+        "published": "2026-10-21T22:51:22+00:00"
+      },
+      {
+        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+        "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+        "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+        "source": "TechCrunch",
+        "published": "2026-10-21T22:45:34+00:00"
+      },
+      {
+        "title": "Qpack amplification attacks against HTTP/3 servers",
+        "link": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+        "description": "Article URL: https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers Comments URL: https://news.ycombinator.com/item?id=50188612 Points: 9 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-21T22:32:45+00:00"
+      },
+      {
+        "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+        "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+        "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+        "source": "TechCrunch",
+        "published": "2026-10-21T22:16:05+00:00"
+      },
+      {
+        "title": "Railway Security Disclosure",
+        "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "description": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 234 # Comments: 106",
+        "source": "HackerNews",
+        "published": "2026-10-21T21:58:03+00:00"
+      },
       {
         "title": "TechCrunch Founder Summit 2026: Everything you need to know",
         "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
@@ -17,6 +59,20 @@
         "published": "2026-10-21T21:14:19+00:00"
       },
       {
+        "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+        "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+        "description": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/ Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 95 # Comments: 23",
+        "source": "HackerNews",
+        "published": "2026-10-21T21:12:59+00:00"
+      },
+      {
+        "title": "CleanFrame: A quieter home screen for Samsung The Frame",
+        "link": "https://github.com/nthnclrk/CleanFrame",
+        "description": "Article URL: https://github.com/nthnclrk/CleanFrame Comments URL: https://news.ycombinator.com/item?id=50187659 Points: 17 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-10-21T21:08:59+00:00"
+      },
+      {
         "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
         "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
         "description": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
@@ -24,7 +80,7 @@
         "published": "2026-10-21T20:57:40+00:00"
       },
       {
-        "title": "Tesla stars Optimus robot production in California as profit falls 43%",
+        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
         "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
         "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
         "source": "TechCrunch",
@@ -52,58 +108,44 @@
         "published": "2026-10-21T19:52:20+00:00"
       },
       {
-        "title": "After automation: Solo founding will be the default",
-        "link": "https://every.to/thesis-statements/julian-weisser",
-        "description": "Article URL: https://every.to/thesis-statements/julian-weisser Comments URL: https://news.ycombinator.com/item?id=50186518 Points: 30 # Comments: 32",
-        "source": "HackerNews",
-        "published": "2026-10-21T19:44:49+00:00"
-      },
-      {
-        "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
-        "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-        "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-        "source": "TechCrunch",
-        "published": "2026-10-21T19:42:32+00:00"
+        "title": "YouTube says it isn’t testing hiding the dislike button",
+        "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+        "description": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a...",
+        "source": "The Verge",
+        "published": "2026-10-21T19:46:45-04:00"
       },
       {
         "title": "Claude Duet",
         "link": "https://claude.com/resources/articles/claude-duet",
-        "description": "Article URL: https://claude.com/resources/articles/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186455 Points: 19 # Comments: 4",
+        "description": "Article URL: https://claude.com/resources/articles/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186455 Points: 55 # Comments: 6",
         "source": "HackerNews",
         "published": "2026-10-21T19:40:18+00:00"
       },
       {
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-        "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-        "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-        "source": "TechCrunch",
-        "published": "2026-10-21T19:30:00+00:00"
+        "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+        "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+        "description": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave...",
+        "source": "The Verge",
+        "published": "2026-10-21T19:36:31-04:00"
       },
       {
-        "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-        "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-        "description": "Article URL: https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/ Comments URL: https://news.ycombinator.com/item?id=50186215...",
-        "source": "HackerNews",
-        "published": "2026-10-21T19:26:20+00:00"
-      },
-      {
-        "title": "Mistral Large 4",
-        "link": "https://docs.mistral.ai/models/mistral-large-4-0",
-        "description": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=50186129 Points: 278 # Comments: 69",
-        "source": "HackerNews",
-        "published": "2026-10-21T19:20:55+00:00"
+        "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+        "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+        "description": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that...",
+        "source": "The Verge",
+        "published": "2026-10-21T19:20:33-04:00"
       },
       {
         "title": "Claude Duet",
         "link": "https://claude.com/product/claude-duet",
-        "description": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 164 # Comments: 151",
+        "description": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 288 # Comments: 245",
         "source": "HackerNews",
         "published": "2026-10-21T19:14:01+00:00"
       },
       {
         "title": "Google's Rust Style Guide",
         "link": "https://google.github.io/styleguide/rustguide.html",
-        "description": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 88 # Comments: 64",
+        "description": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 163 # Comments: 105",
         "source": "HackerNews",
         "published": "2026-10-21T19:11:57+00:00"
       },
@@ -115,16 +157,9 @@
         "published": "2026-10-21T19:03:46+00:00"
       },
       {
-        "title": "The internet is having a very bad cybersecurity day",
-        "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-        "description": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
-        "source": "TechCrunch",
-        "published": "2026-10-21T19:03:28+00:00"
-      },
-      {
-        "title": "GitLab Remote Code Execution - Integer Overflow issue",
+        "title": "GitLab Critical Patch Release",
         "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-        "description": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 100 # Comments: 22",
+        "description": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 221 # Comments: 52",
         "source": "HackerNews",
         "published": "2026-10-21T19:01:12+00:00"
       },
@@ -136,18 +171,18 @@
         "published": "2026-10-21T19:00:33+00:00"
       },
       {
-        "title": "Potential third critical PHP CVE",
-        "link": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-        "description": "Article URL: https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027 Comments URL: https://news.ycombinator.com/item?id=50185814 Points: 34 # Comments: 9",
-        "source": "HackerNews",
-        "published": "2026-10-21T18:57:52+00:00"
-      },
-      {
         "title": "Canary Tokens",
         "link": "https://canarytokens.org/",
-        "description": "https://docs.canarytokens.org/guide/ Comments URL: https://news.ycombinator.com/item?id=50185630 Points: 71 # Comments: 13",
+        "description": "https://docs.canarytokens.org/guide/ Comments URL: https://news.ycombinator.com/item?id=50185630 Points: 124 # Comments: 22",
         "source": "HackerNews",
         "published": "2026-10-21T18:45:04+00:00"
+      },
+      {
+        "title": "Data centers could erase decades of air quality gains",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+        "description": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a...",
+        "source": "The Verge",
+        "published": "2026-10-21T18:33:44-04:00"
       },
       {
         "title": "Range Rover'da Neden Genelde Motor Arızası Görülüyor?",
@@ -206,18 +241,11 @@
         "published": "2026-10-21T17:46:37+03:00"
       },
       {
-        "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-        "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-        "description": "Article URL: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 175 # Comments: 59",
-        "source": "HackerNews",
-        "published": "2026-10-21T17:45:13+00:00"
-      },
-      {
-        "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-        "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-        "description": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that...",
+        "title": "Meta to create a new class of shares to fund AI push",
+        "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+        "description": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation,...",
         "source": "The Verge",
-        "published": "2026-10-21T17:14:58-04:00"
+        "published": "2026-10-21T17:30:02-04:00"
       },
       {
         "title": "Sony’nin Ses Teknolojileri Boğaziçi Bilişim ve Dağıtım Güvencesiyle Türkiye’de",
@@ -262,13 +290,6 @@
         "published": "2026-10-21T16:36:53+03:00"
       },
       {
-        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-        "description": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a...",
-        "source": "The Verge",
-        "published": "2026-10-21T15:54:52-04:00"
-      },
-      {
         "title": "Airbnb bans making guests do dishes and take out the trash",
         "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
         "description": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after...",
@@ -276,32 +297,11 @@
         "published": "2026-10-21T15:54:00-04:00"
       },
       {
-        "title": "Walmart is inviting AI agents to shop for you",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-        "description": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of...",
-        "source": "The Verge",
-        "published": "2026-10-21T15:50:17-04:00"
-      },
-      {
-        "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-        "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-        "description": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has...",
-        "source": "The Verge",
-        "published": "2026-10-21T15:15:18-04:00"
-      },
-      {
         "title": "iPhone Duo çıkmadan Apple’a kötü haber: Satış tahminleri aşağı çekildi",
         "link": "https://shiftdelete.net/iphone-duo-cikmadan-applea-kotu-haber-satis-tahminleri-asagi-cekildi",
         "description": "Apple tarafında iPhone Duo heyecanı sürerken yatırımcı cephesinden pek iç açıcı olmayan bir değerlendirme geldi. ABD merkezli yatırım şirketi Loop Capital, Apple hisseleri için tavsiyesini “Al”dan “Tut”a düşürdü. Kararın arkasında, iPhone satışları...",
         "source": "ShiftDelete",
         "published": "2026-10-21T15:00:04+00:00"
-      },
-      {
-        "title": "Cyberpunk 2077’s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
-        "link": "https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield",
-        "description": "Cyberpunk 2077 is getting a big new 2.5 update that, among other features, brings cross-platform mod support to consoles and content inspired by the new season of the Cyberpunk: Edgerunners anime on Netflix. There's a lot to unpack in the full patch...",
-        "source": "The Verge",
-        "published": "2026-10-21T14:39:52-04:00"
       },
       {
         "title": "ChatGPT Artık Sohbetleri Kilitlemenize İzin Veriyor",
@@ -355,9 +355,51 @@
     ],
     "dunya": [
       {
+        "title": "The real reasons US politicians are getting older",
+        "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+        "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+        "source": "BBC News",
+        "published": "2026-10-21T23:52:12+00:00"
+      },
+      {
+        "title": "Only one female scientist named in GCSEs, research finds",
+        "link": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+        "description": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.",
+        "source": "BBC News",
+        "published": "2026-10-21T23:02:45+00:00"
+      },
+      {
+        "title": "The four locations in the running to be UK City of Culture 2029",
+        "link": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss",
+        "description": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
+        "source": "BBC News",
+        "published": "2026-10-21T23:02:37+00:00"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "description": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "source": "BBC News",
+        "published": "2026-10-21T23:02:30+00:00"
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+        "source": "BBC News",
+        "published": "2026-10-21T22:54:58+00:00"
+      },
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "source": "BBC News",
+        "published": "2026-10-21T21:27:41+00:00"
+      },
+      {
         "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
         "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
         "source": "BBC News",
         "published": "2026-10-21T19:58:06+00:00"
       },
@@ -374,13 +416,6 @@
         "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "source": "BBC News",
         "published": "2026-10-21T18:10:42+00:00"
-      },
-      {
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-        "source": "BBC News",
-        "published": "2026-10-21T17:42:34+00:00"
       },
       {
         "title": "Controversial US-backed vaccine trial in African newborns halted",
@@ -404,13 +439,6 @@
         "published": "2026-10-21T16:00:00-04:00"
       },
       {
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-        "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-        "source": "BBC News",
-        "published": "2026-10-21T15:56:03+00:00"
-      },
-      {
         "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
         "link": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
         "description": "The top Democrats on the House and Senate intelligence committees said they are working under the presumption that the president will seek to justify election interference by alleging fraud.",
@@ -418,39 +446,11 @@
         "published": "2026-10-21T15:47:18-04:00"
       },
       {
-        "title": "Google staff resign in backlash over its AI contracts with military",
-        "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
-        "source": "BBC News",
-        "published": "2026-10-21T15:41:25+00:00"
-      },
-      {
         "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
         "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
         "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
         "source": "BBC News",
         "published": "2026-10-21T15:36:31+00:00"
-      },
-      {
-        "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
-        "description": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
-        "source": "BBC News",
-        "published": "2026-10-21T14:38:22+00:00"
-      },
-      {
-        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-        "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-        "description": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
-        "source": "BBC News",
-        "published": "2026-10-21T14:26:24+00:00"
-      },
-      {
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-        "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-        "source": "BBC News",
-        "published": "2026-10-21T14:04:28+00:00"
       },
       {
         "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
@@ -495,16 +495,16 @@
         "published": "2026-10-21T11:21:47-04:00"
       },
       {
-        "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
+        "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
         "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-        "description": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
+        "description": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
         "source": "NPR",
         "published": "2026-10-21T09:28:04-04:00"
       },
       {
         "title": "Trump leans into unprecedented power ahead of midterm elections",
         "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
-        "description": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
+        "description": "Less than two weeks before Election Day, President Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
         "source": "NPR",
         "published": "2026-10-21T08:09:41-04:00"
       },
@@ -567,11 +567,46 @@
     ],
     "turkiye": [
       {
-        "title": "Son dakika... AKP'nin fon teklifinin 3.maddesine verdiği önerge kabul edildi",
-        "link": "https://www.sozcu.com.tr/son-dakika-akp-nin-fon-teklifinin-3-maddesine-verdigi-onerge-kabul-edildi-p371475",
-        "description": "Son dakika... AKP'nin fon teklifinin 3.maddesine verdiği önerge kabul edildi",
+        "title": "Zeytinburnu'nda polise ateş açan şüpheli bacağından vuruldu",
+        "link": "https://www.sozcu.com.tr/zeytinburnunda-polise-ates-acan-supheli-bacagindan-vuruldu-p371523",
+        "description": "Zeytinburnu'nda polise ateş açan şüpheli bacağından vuruldu",
         "source": "Sözcü",
-        "published": "2026-10-22T00:12:46+03:00"
+        "published": "2026-10-22T03:05:05+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-ekim-2026-1747393",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-10-22T03:00:00+03:00"
+      },
+      {
+        "title": "Putin ile görüşen Trump duyurdu: Çözüme hiç olmadığı kadar yakınız",
+        "link": "https://www.sozcu.com.tr/putin-ile-gorusen-trump-duyurdu-cozume-hic-olmadigi-kadar-yakiniz-p371515",
+        "description": "Putin ile görüşen Trump duyurdu: Çözüme hiç olmadığı kadar yakınız",
+        "source": "Sözcü",
+        "published": "2026-10-22T01:04:30+03:00"
+      },
+      {
+        "title": "İstiklal Marşı sırasında çığlık attı, Özgür Özel şaşkınlığını gizleyemedi",
+        "link": "https://www.sozcu.com.tr/istiklal-marsi-okunurken-bir-anda-ciglik-atti-p371512",
+        "description": "İstiklal Marşı sırasında çığlık attı, Özgür Özel şaşkınlığını gizleyemedi",
+        "source": "Sözcü",
+        "published": "2026-10-22T01:02:43+03:00"
+      },
+      {
+        "title": "Arda Turan İtalya’da yıkıldı! Inter, 10 kişiyle Shakhtar’ı devirdi",
+        "link": "https://www.sozcu.com.tr/arda-turan-italya-da-yikildi-inter-10-kisiyle-shakhtar-i-devirdi-p371509",
+        "description": "Arda Turan İtalya’da yıkıldı! Inter, 10 kişiyle Shakhtar’ı devirdi",
+        "source": "Sözcü",
+        "published": "2026-10-22T00:50:07+03:00"
+      },
+      {
+        "title": "Ancelotti'den Galatasaray yenilgisi sonrası: \"Küçük hatalara af yok\"",
+        "link": "https://www.sozcu.com.tr/ancelottiden-galatasaray-yenilgisi-sonrasi-kucuk-hatalara-af-yok-p371507",
+        "description": "Ancelotti'den Galatasaray yenilgisi sonrası: \"Küçük hatalara af yok\"",
+        "source": "Sözcü",
+        "published": "2026-10-22T00:41:42+03:00"
       },
       {
         "title": "Siber alarm büyüyor! Türkiye'den ulusal çapta uyarı",
@@ -595,18 +630,11 @@
         "published": "2026-10-22T00:10:28+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-ekim-2026-1747393",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-10-22T00:00:00+03:00"
-      },
-      {
-        "title": "İstanbul'da kanlı saldırı: Park halindeki cipe kurşun yağdırdılar!",
-        "link": "https://www.sozcu.com.tr/kagithane-park-halindeki-araca-saldiri-p371471",
-        "description": "İstanbul'da kanlı saldırı: Park halindeki cipe kurşun yağdırdılar!",
-        "source": "Sözcü",
-        "published": "2026-10-21T23:30:59+03:00"
+        "title": "Merkez Bankası faiz kararını açıklayacak: Beklentiler ne yönde?",
+        "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
+        "description": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma dikkat çekiyor.",
+        "source": "BBC Turkish",
+        "published": "2026-10-21T23:56:31+00:00"
       },
       {
         "title": "Rutkay Aziz ve Doğa Rutkay'ın acı kaybı",
@@ -623,20 +651,6 @@
         "published": "2026-10-21T23:07:17+03:00"
       },
       {
-        "title": "Okan Buruk'tan Lille zaferi sonrası derbi mesajı",
-        "link": "https://www.sozcu.com.tr/okan-buruktan-lille-zaferi-sonrasi-derbi-mesaji-p371477",
-        "description": "Okan Buruk'tan Lille zaferi sonrası derbi mesajı",
-        "source": "Sözcü",
-        "published": "2026-10-21T23:00:01+03:00"
-      },
-      {
-        "title": "Herkes onun performansını konuşuyor! Gecenin yıldızı oldu",
-        "link": "https://www.sozcu.com.tr/herkes-onun-performansini-konusuyor-gecenin-yildizi-oldu-p371467",
-        "description": "Herkes onun performansını konuşuyor! Gecenin yıldızı oldu",
-        "source": "Sözcü",
-        "published": "2026-10-21T22:54:54+03:00"
-      },
-      {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 21 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1747387",
         "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
@@ -644,11 +658,11 @@
         "published": "2026-10-21T22:45:31+03:00"
       },
       {
-        "title": "Zincir markette mide bulandıran görüntüler: Kasap reyonuna giren kedi tezgahtaki etleri yedi",
-        "link": "https://www.sozcu.com.tr/zincir-markette-mide-bulandiran-goruntuler-kasap-reyonuna-giren-kedi-tezgahtaki-etleri-yedi-p371472",
-        "description": "Zincir markette mide bulandıran görüntüler: Kasap reyonuna giren kedi tezgahtaki etleri yedi",
-        "source": "Sözcü",
-        "published": "2026-10-21T22:35:14+03:00"
+        "title": "Macron, Netanyahu ve Trump'ı Fransa'daki eylemleri istismar etmekle suçladı",
+        "link": "https://www.bbc.com/turkce/articles/cwx287g6e702o?at_medium=RSS&at_campaign=rss",
+        "description": "Fransa cumhurbaşkanının yorumu, önümüzdeki haftalarda seçimlerle karşı karşıya olan Binyamin Netanyahu ve Donald Trump'a yönelik açık bir eleştiri niteliğinde.",
+        "source": "BBC Turkish",
+        "published": "2026-10-21T21:58:06+00:00"
       },
       {
         "title": "JP Morgan’dan açıklama: Türkiye’deki faaliyetlerimizi büyüteceğiz",
@@ -749,20 +763,6 @@
         "published": "2026-10-21T14:10:52+00:00"
       },
       {
-        "title": "Türkiye dahil dört ülkenin imzaladığı Bedir Mutabakat Zaptı'nın kapsamı ne?",
-        "link": "https://www.bbc.com/turkce/articles/ck9qz1lyg1r1o?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye, Katar, Pakistan ve Endonezya arasında Bedir Mutabakat Zaptı imzalandı. İmza töreni, Milli Savunma Bakanı Yaşar Güler'in Katar ziyareti sırasında gerçekleşti.",
-        "source": "BBC Turkish",
-        "published": "2026-10-21T12:48:22+00:00"
-      },
-      {
-        "title": "Merkez Bankası faiz kararını açıklayacak, beklentiler ne yönde?",
-        "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
-        "description": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma dikkat çekiyor.",
-        "source": "BBC Turkish",
-        "published": "2026-10-21T11:30:04+00:00"
-      },
-      {
         "title": "Erdoğan AKP tabanına seslendi: Bu camianın başını öne eğdirmeyeceğiz",
         "link": "https://www.bbc.com/turkce/articles/cm5ynl39ve2xo?at_medium=RSS&at_campaign=rss",
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan fon soruşturmasında parti tabanlarının kendilerini izlediğini bildiklerini ve bunu dikkate alarak hareket ettiklerini söyledi.",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8908
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+62°F",
-    "wind": "↓4mph",
-    "humidity": "42%"
+    "condition": "Açık",
+    "temp": "+66°F",
+    "wind": "↖6mph",
+    "humidity": "68%"
   }
 }
