@@ -1,7 +1,112 @@
 {
-  "updated_at": "2026-10-24T18:18:54.216598+00:00",
+  "updated_at": "2026-10-24T21:03:18.653665+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Starlink seems to be working normally again in Ukraine",
+        "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+        "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+        "source": "TechCrunch",
+        "published": "2026-10-24T20:46:34+00:00"
+      },
+      {
+        "title": "Steal My Bitcoin",
+        "link": "https://stealmybitcoin.com/",
+        "description": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 27 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-24T20:30:31+00:00"
+      },
+      {
+        "title": "Will AI expose the rickety infrastructure of the internet?",
+        "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+        "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+        "source": "TechCrunch",
+        "published": "2026-10-24T20:15:33+00:00"
+      },
+      {
+        "title": "iOS 27.1 Yayınlandı: Sadece Bir Cihaza Özel",
+        "link": "https://shiftdelete.net/ios-27-1-iphone-duo-guncellemesi",
+        "description": "iPhone Duo'ya özel iOS 27.1 güncellemesi yayınlandı. iOS 27.2 ise önümüzdeki hafta tüm uyumlu iPhone modelleri için kullanıma sunulacak.",
+        "source": "ShiftDelete",
+        "published": "2026-10-24T20:00:26+00:00"
+      },
+      {
+        "title": "No Signs of AI Payoff Outside the Tech Sector",
+        "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "description": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 192 # Comments: 148",
+        "source": "HackerNews",
+        "published": "2026-10-24T19:47:19+00:00"
+      },
+      {
+        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+        "link": "https://missileer.watch",
+        "description": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 42 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-10-24T19:43:27+00:00"
+      },
+      {
+        "title": "The Goose Programming Language",
+        "link": "https://aardappel.github.io/goose/",
+        "description": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 87 # Comments: 33",
+        "source": "HackerNews",
+        "published": "2026-10-24T19:27:41+00:00"
+      },
+      {
+        "title": "SpeedCrunch 1.1",
+        "link": "https://www.speedcrunch.org/",
+        "description": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 3 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-24T19:19:43+00:00"
+      },
+      {
+        "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+        "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+        "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 76 # Comments: 35",
+        "source": "HackerNews",
+        "published": "2026-10-24T19:06:55+00:00"
+      },
+      {
+        "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+        "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+        "description": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 80 # Comments: 30",
+        "source": "HackerNews",
+        "published": "2026-10-24T19:03:59+00:00"
+      },
+      {
+        "title": "OpenAI Yeni Modelleri Çevrim Dışı Ortamda Eğitecek",
+        "link": "https://shiftdelete.net/openai-yapay-zeka-modelleri-egitim-degisikligi",
+        "description": "OpenAI, güvenlik ihlalleri sonrası yeni yapay zeka modellerini internet erişimi olmadan, kayıtlı içeriklerle eğiteceğini duyurdu.",
+        "source": "ShiftDelete",
+        "published": "2026-10-24T19:00:52+00:00"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "source": "TechCrunch",
+        "published": "2026-10-24T19:00:00+00:00"
+      },
+      {
+        "title": "Danish Government silently drops plan to dump MS Office",
+        "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+        "description": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombinator.com/item?id=50223844 Points: 117 #...",
+        "source": "HackerNews",
+        "published": "2026-10-24T18:31:48+00:00"
+      },
+      {
+        "title": "Dream-1",
+        "link": "https://dreamlabs.ai/research/dream-1/",
+        "description": "Article URL: https://dreamlabs.ai/research/dream-1/ Comments URL: https://news.ycombinator.com/item?id=50223785 Points: 100 # Comments: 54",
+        "source": "HackerNews",
+        "published": "2026-10-24T18:23:24+00:00"
+      },
+      {
+        "title": "Why is AI generated language so hard to understand?",
+        "link": "https://arxiv.org/abs/2610.29162",
+        "description": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 93 # Comments: 79",
+        "source": "HackerNews",
+        "published": "2026-10-24T18:04:57+00:00"
+      },
       {
         "title": "DS N°7 için Türkiye Fiyatı Belli Oldu",
         "link": "https://shiftdelete.net/yeni-nesil-ds-n7-turkiyede-satisa-sunuldu",
@@ -24,25 +129,11 @@
         "published": "2026-10-24T17:00:16+00:00"
       },
       {
-        "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-        "link": "https://de.numista.com/9866",
-        "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 38 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-10-24T16:41:55+00:00"
-      },
-      {
         "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
         "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
         "description": "Instacart might sell itself to a larger competitor.",
         "source": "TechCrunch",
         "published": "2026-10-24T16:30:00+00:00"
-      },
-      {
-        "title": "Roku developer repositories moved from GitHub to GitLab",
-        "link": "https://blog.roku.com/developer/gitlab-move",
-        "description": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 121 # Comments: 69",
-        "source": "HackerNews",
-        "published": "2026-10-24T16:06:26+00:00"
       },
       {
         "title": "Sınırları Aşan Casper Oyun Bilgisayarı: Excalibur G920",
@@ -66,20 +157,6 @@
         "published": "2026-10-24T16:00:00+00:00"
       },
       {
-        "title": "Neural chip decodes interactions between brain regions",
-        "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-        "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 42 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-10-24T15:57:17+00:00"
-      },
-      {
-        "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-        "description": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 6 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-10-24T15:35:17+00:00"
-      },
-      {
         "title": "Türkiye’nin 2027 Savunma ve Güvenlik Bütçesi 3,45 Trilyon Liraya Ulaştı",
         "link": "https://shiftdelete.net/turkiyenin-2027-savunma-ve-guvenlik-butcesi-345-trilyon-liraya-ulasti",
         "description": "Türkiye’nin 2027 yılı bütçe teklifinde savunma ve güvenlik harcamaları için ayrılması planlanan kaynak 3 trilyon 454 milyar liraya ulaştı. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 21 Ekim 2026’da TBMM Plan ve Bütçe Komisyonunda yaptığı sunumda,...",
@@ -92,13 +169,6 @@
         "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
         "source": "TechCrunch",
         "published": "2026-10-24T15:30:00+00:00"
-      },
-      {
-        "title": "FreeDNS",
-        "link": "https://freedns.afraid.org/",
-        "description": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 151 # Comments: 36",
-        "source": "HackerNews",
-        "published": "2026-10-24T15:20:01+00:00"
       },
       {
         "title": "HAVA SOJ Elektronik Harp Uçağı nedir? Türkiye’nin Elektronik Harp Uçağının Yetenekleri! 2T Teknoloji & Savunma #17",
@@ -129,6 +199,13 @@
         "published": "2026-10-24T15:00:00+00:00"
       },
       {
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has...",
+        "source": "The Verge",
+        "published": "2026-10-24T14:32:44-04:00"
+      },
+      {
         "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
         "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
         "description": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
@@ -150,27 +227,6 @@
         "published": "2026-10-24T14:00:00+00:00"
       },
       {
-        "title": "Türkiye’nin Elektronik Harp Uçağı HAVA SOJ Test Uçuşlarını Sürdürüyor",
-        "link": "https://shiftdelete.net/turkiyenin-elektronik-harp-ucagi-hava-soj-test-ucuslarini-surduruyor",
-        "description": "Türkiye’nin havadan elektronik harp kabiliyetini geliştirmek amacıyla yürütülen HAVA SOJ projesinde test faaliyetleri devam ediyor. Türk Hava Kuvvetleri için geliştirilen özel görev uçakları, düşman hava savunma ağlarının faaliyetlerini uzaktan...",
-        "source": "ShiftDelete",
-        "published": "2026-10-24T13:30:15+00:00"
-      },
-      {
-        "title": "Bakan Kacır’dan Togg Açıklaması: Günlük Üretim 375 Araca Ulaştı",
-        "link": "https://shiftdelete.net/togg-gunluk-uretim-kapasitesi",
-        "description": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Togg günlük üretim kapasitesinin 375 araca ulaştığını ve yeni modellerin yolda olduğunu açıkladı.",
-        "source": "ShiftDelete",
-        "published": "2026-10-24T13:00:39+00:00"
-      },
-      {
-        "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "description": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 35 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-10-24T10:51:35+00:00"
-      },
-      {
         "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
         "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
         "description": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen...",
@@ -185,60 +241,11 @@
         "published": "2026-10-24T10:13:02-04:00"
       },
       {
-        "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-        "link": "https://github.com/Zagitta/gpu-unlock",
-        "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 93 # Comments: 40",
-        "source": "HackerNews",
-        "published": "2026-10-24T09:58:27+00:00"
-      },
-      {
-        "title": "I Don't Understand Quantum Physics (2018)",
-        "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-        "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 214 # Comments: 151",
-        "source": "HackerNews",
-        "published": "2026-10-24T09:53:26+00:00"
-      },
-      {
         "title": "Lee Chang Dong ponders the ethics of the camera",
         "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
         "description": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee...",
         "source": "The Verge",
         "published": "2026-10-24T08:14:27-04:00"
-      },
-      {
-        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-        "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-        "description": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 194 # Comments: 90",
-        "source": "HackerNews",
-        "published": "2026-10-24T08:06:39+00:00"
-      },
-      {
-        "title": "Root shell on Samsung TV",
-        "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-        "description": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46 Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 440 # Comments: 174",
-        "source": "HackerNews",
-        "published": "2026-10-24T05:49:57+00:00"
-      },
-      {
-        "title": "Startups don’t need to go viral to win customers",
-        "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-        "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-        "source": "TechCrunch",
-        "published": "2026-10-23T23:07:45+00:00"
-      },
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "source": "TechCrunch",
-        "published": "2026-10-23T23:05:49+00:00"
-      },
-      {
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-        "source": "TechCrunch",
-        "published": "2026-10-23T21:59:19+00:00"
       },
       {
         "title": "It’s time to find a new browser",
@@ -339,13 +346,6 @@
         "published": "2026-10-23T15:55:51+03:00"
       },
       {
-        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-        "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-        "description": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is...",
-        "source": "The Verge",
-        "published": "2026-10-23T15:35:15-04:00"
-      },
-      {
         "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
         "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
         "description": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something...",
@@ -355,6 +355,20 @@
     ],
     "dunya": [
       {
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "source": "BBC News",
+        "published": "2026-10-24T20:30:43+00:00"
+      },
+      {
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "source": "BBC News",
+        "published": "2026-10-24T19:37:35+00:00"
+      },
+      {
         "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
         "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
         "description": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro Tens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for...",
@@ -362,7 +376,7 @@
         "published": "2026-10-24T18:11:44+00:00"
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
         "source": "BBC News",
@@ -374,13 +388,6 @@
         "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
         "source": "BBC News",
         "published": "2026-10-24T17:11:56+00:00"
-      },
-      {
-        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
-        "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "source": "BBC News",
-        "published": "2026-10-24T15:13:40+00:00"
       },
       {
         "title": "Ukraine says Starlink is back to normal after disruptions",
@@ -402,13 +409,6 @@
         "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
         "source": "BBC News",
         "published": "2026-10-24T11:03:57+00:00"
-      },
-      {
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-        "source": "BBC News",
-        "published": "2026-10-24T10:30:08+00:00"
       },
       {
         "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
@@ -495,7 +495,7 @@
         "published": "2026-10-23T23:08:55+00:00"
       },
       {
-        "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+        "title": "Flooding in Four Corners region displaces residents, as storms move southeast",
         "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
         "description": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
         "source": "NPR",
@@ -567,25 +567,109 @@
     ],
     "turkiye": [
       {
-        "title": "Galatasaray'da derbi hazırlıkları devam etti",
-        "link": "https://www.sozcu.com.tr/galatasaray-da-derbi-hazirliklari-devam-etti-p372388",
-        "description": "Galatasaray'da derbi hazırlıkları devam etti",
-        "source": "Sözcü",
-        "published": "2026-10-24T21:11:20+03:00"
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-ekim-2026-1747822",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-10-25T00:00:00+03:00"
       },
       {
-        "title": "Yunus Akgün'den taraftara Fenerbahçe mesajı",
-        "link": "https://www.sozcu.com.tr/yunus-akgunden-taraftara-fenerbahce-mesaji-p372386",
-        "description": "Yunus Akgün'den taraftara Fenerbahçe mesajı",
+        "title": "Erdoğan'ın katıldığı Topkapı Sarayı'ndaki törene damga vuran an...",
+        "link": "https://www.sozcu.com.tr/erdoganin-katildigi-topkapi-sarayindaki-torene-damga-vuran-an-p372412",
+        "description": "Erdoğan'ın katıldığı Topkapı Sarayı'ndaki törene damga vuran an...",
         "source": "Sözcü",
-        "published": "2026-10-24T21:04:39+03:00"
+        "published": "2026-10-24T23:48:31+03:00"
       },
       {
-        "title": "Amedspor geriden geldi maç fazlasıyla liderliğe yükseldi",
-        "link": "https://www.sozcu.com.tr/amedspor-geriden-geldi-mac-fazlasiyla-liderlige-yukseldi-p372385",
-        "description": "Amedspor geriden geldi maç fazlasıyla liderliğe yükseldi",
+        "title": "Ayvalık'ta batan teknede can pazarı",
+        "link": "https://www.sozcu.com.tr/ayvalikta-batan-teknede-can-pazari-p372409",
+        "description": "Ayvalık'ta batan teknede can pazarı",
         "source": "Sözcü",
-        "published": "2026-10-24T21:00:55+03:00"
+        "published": "2026-10-24T23:33:59+03:00"
+      },
+      {
+        "title": "Ümraniye’de yol verme kavgası: Kadın sürücüye dehşeti yaşattı",
+        "link": "https://www.sozcu.com.tr/umraniye-de-yol-verme-kavgasi-kadin-surucuye-dehseti-yasatti-p372406",
+        "description": "Ümraniye’de yol verme kavgası: Kadın sürücüye dehşeti yaşattı",
+        "source": "Sözcü",
+        "published": "2026-10-24T23:13:17+03:00"
+      },
+      {
+        "title": "Bakan Memişoğlu: Türkiye’de 13-17 yaş arasındakilerin yüzde 30’u sigara kullanıyor",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-memisoglu-turkiyede-13-17-yas-arasindakilerin-yuzde-30u-sigara-kullaniyor-1747819",
+        "description": "Sağlık Bakanı Kemal Memişoğlu, \"Türkiye’de 13 ile 17 yaş arasındaki nüfusun yüzde 30’u sigara kullanıyor. Dramatik bir sorunla karşı karşıyayız.\" dedi.",
+        "source": "NTV",
+        "published": "2026-10-24T23:00:28+03:00"
+      },
+      {
+        "title": "ABD’den vatandaşlarına uyarı: Vakit kaybetmeden ayrılın",
+        "link": "https://www.sozcu.com.tr/abd-den-vatandaslarina-uyari-vakit-kaybetmeden-ayrilin-p372400",
+        "description": "ABD’den vatandaşlarına uyarı: Vakit kaybetmeden ayrılın",
+        "source": "Sözcü",
+        "published": "2026-10-24T22:32:16+03:00"
+      },
+      {
+        "title": "Fransa ve İtalya alarmda: Yüzbinler sokağa indi",
+        "link": "https://www.sozcu.com.tr/fransada-sari-yelekliler-sokakta-bakanliga-gore-410-bin-kisi-p372397",
+        "description": "Fransa ve İtalya alarmda: Yüzbinler sokağa indi",
+        "source": "Sözcü",
+        "published": "2026-10-24T22:30:28+03:00"
+      },
+      {
+        "title": "Zeybekci: Fon meselesinde hem ihmal hem suistimal var",
+        "link": "https://www.ntv.com.tr/turkiye/zeybekci-fon-meselesinde-hem-ihmal-hem-suistimal-var-1747818",
+        "description": "AK Parti Genel Başkan Yardımcısı Nihat Zeybekci, fon soruşturmalarıyla ilgili, \"Maalesef bazı kamu kurumlarının yönetiminde de hem ihmal hem suistimal vardır​​​.\" dedi.",
+        "source": "NTV",
+        "published": "2026-10-24T22:29:57+03:00"
+      },
+      {
+        "title": "Mekke ve Medine’ye füze saldırısı: Açıklamalar art arda geldi",
+        "link": "https://www.sozcu.com.tr/mekke-ve-medine-ye-fuze-saldirisi-aciklamalar-art-arda-geldi-p372399",
+        "description": "Mekke ve Medine’ye füze saldırısı: Açıklamalar art arda geldi",
+        "source": "Sözcü",
+        "published": "2026-10-24T22:13:31+03:00"
+      },
+      {
+        "title": "Milli bilardocudan 4'üncü Avrupa şampiyonluğu",
+        "link": "https://www.sozcu.com.tr/milli-bilardocudan-4-uncu-avrupa-sampiyonlugu-p372398",
+        "description": "Milli bilardocudan 4'üncü Avrupa şampiyonluğu",
+        "source": "Sözcü",
+        "published": "2026-10-24T22:11:59+03:00"
+      },
+      {
+        "title": "Dünya Güreş Şampiyonası'nda finaldeyiz!",
+        "link": "https://www.sozcu.com.tr/dunya-gures-sampiyonasinda-finaldeyiz-p372396",
+        "description": "Dünya Güreş Şampiyonası'nda finaldeyiz!",
+        "source": "Sözcü",
+        "published": "2026-10-24T22:03:09+03:00"
+      },
+      {
+        "title": "Üç kez geriye düştü pes etmedi! İtalya'da çılgın maç",
+        "link": "https://www.sozcu.com.tr/uc-kez-geriye-dustu-pes-etmedi-italyada-cilgin-mac-p372395",
+        "description": "Üç kez geriye düştü pes etmedi! İtalya'da çılgın maç",
+        "source": "Sözcü",
+        "published": "2026-10-24T21:57:39+03:00"
+      },
+      {
+        "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1747817",
+        "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
+        "source": "NTV",
+        "published": "2026-10-24T21:49:57+03:00"
+      },
+      {
+        "title": "Bakan Fidan'dan diplomasi trafiği",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-diplomasi-trafigi-1747816",
+        "description": "Dışişleri Bakanı Hakan Fidan, Yemen Dışişleri Bakanı Afrah ez-Zube ile İstanbul’da bir araya geldi. Fidan ayrıca, Katarlı mevkidaşı Muhammed bin Abdurrahman Al Sani ile de görüştü.",
+        "source": "NTV",
+        "published": "2026-10-24T21:40:15+03:00"
+      },
+      {
+        "title": "Tottenham kabustan uyanmaya başladı",
+        "link": "https://www.sozcu.com.tr/tottenham-kabustan-uyanmaya-basladi-p372391",
+        "description": "Tottenham kabustan uyanmaya başladı",
+        "source": "Sözcü",
+        "published": "2026-10-24T21:39:50+03:00"
       },
       {
         "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 24 Ekim 2026",
@@ -595,13 +679,6 @@
         "published": "2026-10-24T21:00:00+03:00"
       },
       {
-        "title": "AKP’li Zeybekçi 6 kurumu işaret etti: ‘Ben de fon mağduruyum’ demişti",
-        "link": "https://www.sozcu.com.tr/akp-li-zeybekci-6-kurumu-isaret-etti-ben-de-fon-magduruyum-demisti-p372384",
-        "description": "AKP’li Zeybekçi 6 kurumu işaret etti: ‘Ben de fon mağduruyum’ demişti",
-        "source": "Sözcü",
-        "published": "2026-10-24T20:58:56+03:00"
-      },
-      {
         "title": "Annesinin vefatıyla sadrazam torunu olduğunu öğrendi. \"Çeşme'nin üçte ikisi bizim\"",
         "link": "https://www.ntv.com.tr/turkiye/annesinin-vefatiyla-sadrazam-torunu-oldugunu-ogrendi-cesmenin-ucte-ikisi-bizim-1747813",
         "description": "Nilüfer Akcoşkun Bozbağ'ın, Sadrazam Melek Mehmed Paşa'nın torunu olduğunu öğrenmesiyle başlayan miras mücadelesi sürüyor. Arşivlerde 20 arsa tespit eden Bozbağ, \"Çeşme'nin üçte ikisi bizim\" dedi.",
@@ -609,53 +686,11 @@
         "published": "2026-10-24T20:38:38+03:00"
       },
       {
-        "title": "Vedat Muriqi'den Galatasaray derbisi öncesi iddialı sözler",
-        "link": "https://www.sozcu.com.tr/vedat-muriqiden-galatasaray-derbisi-oncesi-iddiali-sozler-p372381",
-        "description": "Vedat Muriqi'den Galatasaray derbisi öncesi iddialı sözler",
-        "source": "Sözcü",
-        "published": "2026-10-24T20:15:28+03:00"
-      },
-      {
-        "title": "Zincir markette şaşkına çeviren uygulama: Tepki yağdı",
-        "link": "https://www.sozcu.com.tr/zincir-markette-saskina-ceviren-uygulama-tepki-yagdi-p372379",
-        "description": "Zincir markette şaşkına çeviren uygulama: Tepki yağdı",
-        "source": "Sözcü",
-        "published": "2026-10-24T19:57:45+03:00"
-      },
-      {
         "title": "Güllü'nün ölümü davasında gerekçeli karar açıklandı. Kızı Tuğyan müebbet hapis cezası almıştı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumu-davasinda-gerekceli-karar-tugyanin-hapis-cezasinda-sultanin-ifadesi-etkili-oldu-1747812",
         "description": "Güllü'nün ölümüne ilişkin davada kızı Tuğyan Ülkem Gülter’e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.",
         "source": "NTV",
         "published": "2026-10-24T19:54:31+03:00"
-      },
-      {
-        "title": "Güllü cinayetinde gerekçeli karar açıklandı! Sultan detayı dikkat çekti",
-        "link": "https://www.sozcu.com.tr/gullu-cinayetinde-gerekceli-karar-aciklandi-sultan-detayi-dikkat-cekti-p372378",
-        "description": "Güllü cinayetinde gerekçeli karar açıklandı! Sultan detayı dikkat çekti",
-        "source": "Sözcü",
-        "published": "2026-10-24T19:53:41+03:00"
-      },
-      {
-        "title": "Son dakika...Eski başbakan danışmanına tutuklama talebi",
-        "link": "https://www.sozcu.com.tr/son-dakika-eski-basbakan-danismanina-tutuklama-talebi-p372377",
-        "description": "Son dakika...Eski başbakan danışmanına tutuklama talebi",
-        "source": "Sözcü",
-        "published": "2026-10-24T19:51:35+03:00"
-      },
-      {
-        "title": "Yürek yakan olay: Yavru kediyi kurtarmak isterken canından oldu",
-        "link": "https://www.sozcu.com.tr/yurek-yakan-olay-yavru-kediyi-kurtarmak-isterken-canindan-oldu-p372376",
-        "description": "Yürek yakan olay: Yavru kediyi kurtarmak isterken canından oldu",
-        "source": "Sözcü",
-        "published": "2026-10-24T19:27:07+03:00"
-      },
-      {
-        "title": "Erzurumspor deplasmanda siftah yaptı",
-        "link": "https://www.sozcu.com.tr/erzurumspor-deplasmanda-siftah-yapti-p372375",
-        "description": "Erzurumspor deplasmanda siftah yaptı",
-        "source": "Sözcü",
-        "published": "2026-10-24T19:10:14+03:00"
       },
       {
         "title": "Zonguldak'taki maden ocağında patlamaya ilişkin 3 kişi tutuklandı",
@@ -672,46 +707,11 @@
         "published": "2026-10-24T18:54:47+03:00"
       },
       {
-        "title": "Fatih'te denizde erkek cesedi bulundu",
-        "link": "https://www.ntv.com.tr/turkiye/fatihte-denizde-erkek-cesedi-bulundu-1747809",
-        "description": "Fatih Cibali Sahili'nde, deniz polisi ekiplerince bir erkek cesedi bulundu. Kimliği tespit edilemeyen cenaze, Adli Tıp Kurumu morguna kaldırıldı.",
-        "source": "NTV",
-        "published": "2026-10-24T18:34:57+03:00"
-      },
-      {
-        "title": "Cehennem Melekleri suç örgütü lideri Necati Arabacı'nın cezası belli oldu",
-        "link": "https://www.ntv.com.tr/turkiye/cehennem-melekleri-suc-orgutu-lideri-necati-arabacinin-cezasi-belli-oldu-1747805",
-        "description": "Suç örgütü lideri Coşkun Necati Arabacı, 15 yıl 6 ay hapis cezasına çarptırıldı.",
-        "source": "NTV",
-        "published": "2026-10-24T17:38:58+03:00"
-      },
-      {
         "title": "Atina'nın Batı Trakya'daki müftülüklere yaptığı atamalara Ankara'dan tepki",
         "link": "https://www.bbc.com/turkce/articles/cje36w30vwd7o?at_medium=RSS&at_campaign=rss",
         "description": "Türk Dışişleri Bakanlığı, Yunanistan makamlarına bir çağrı yaparak, Batı Trakya'daki Türk azınlığın seçtiği müftülerin tanınmasını istedi. Gelişme Yunanistan hükümetinin Gümülcine ve İskeçe müftülüklerine beş yıl için yaptığı atamalar sonrası geldi.",
         "source": "BBC Turkish",
         "published": "2026-10-24T16:28:27+00:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan: Kimliksizleştirme siyasetine maruz bırakıldık",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kimliksizlestirme-siyasetine-maruz-birakildik-1747786",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'nin kimliksizleştirme siyasetine maruz bırakıldığını söyledi. Erdoğan, \"24 yıldır bu zihniyetin temsilcilerine fırsat vermedik, vermeyeceğiz.\" dedi.",
-        "source": "NTV",
-        "published": "2026-10-24T16:10:05+03:00"
-      },
-      {
-        "title": "Kara Kuvvetleri'nin 'Askeri Drone Yarışması'nda Türkiye şampiyon oldu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-kara-kuvvetlerinin-askeri-drone-yarismasinda-turkiye-sampiyon-oldu-1747791",
-        "description": "Ankara'da 18 ülkeden 22 takımın katıldığı uluslararası yarışmada Türk Kara Kuvvetleri takımı birinci oldu. Yarışmada Pakistan ikinci, İtalya üçüncü sırada yer aldı.",
-        "source": "NTV",
-        "published": "2026-10-24T15:40:12+03:00"
-      },
-      {
-        "title": "Büyük tepki çekmişti. Tebligat gitti, zincir marketteki uygulama son buldu",
-        "link": "https://www.ntv.com.tr/turkiye/tebligat-gitti-zincir-marketteki-uygulama-son-buldu-1747785",
-        "description": "Ankara'da bir zincir market, mağazaya giren müşterilerin çantalarını bantladı. Hırsızlık önlemi olduğu savunulan uygulama belediye tebligatıyla son buldu.",
-        "source": "NTV",
-        "published": "2026-10-24T15:18:17+03:00"
       },
       {
         "title": "Mısır neden Suudi Arabistan'a askeri destek vermek istiyor?",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8928
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+73°F",
-    "wind": "↑11mph",
-    "humidity": "46%"
+    "condition": "Güneşli",
+    "temp": "+12°C",
+    "wind": "↗14km/h",
+    "humidity": "42%"
   }
 }
