@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-10-24T01:48:30.313893+00:00",
+  "updated_at": "2026-10-24T06:54:26.700882+00:00",
   "categories": {
     "teknoloji": [
       {
-        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+        "title": "Yeni Nesil Samsung TV’ler Sizi Gizlice Dinliyor mu?",
+        "link": "https://shiftdelete.net/samsung-tv-gizlilik-iddialari",
+        "description": "Samsung TV gizlilik iddiaları gündemde. Bir araştırmacı, 2025 model cihazda sürekli dinleme ve reklam takibi yapan sistemler bulduğunu öne sürdü.",
+        "source": "ShiftDelete",
+        "published": "2026-10-24T06:00:24+00:00"
+      },
+      {
+        "title": "Bu Ne Hız: iPhone Duo Piyasaya Çıktığı Gün Kırıldı",
+        "link": "https://shiftdelete.net/iphone-duo-piyasaya-ciktigi-gun-jailbreak-edildi",
+        "description": "Yeni iPhone Duo, piyasaya sürüldüğü gün Calif ekibi tarafından jailbreak edildi. iOS 27.1 yüklü cihazdaki güvenlik açıkları hakkında detaylar.",
+        "source": "ShiftDelete",
+        "published": "2026-10-24T05:00:52+00:00"
+      },
+      {
+        "title": "OBS Studio 33",
+        "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "description": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 12 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-24T04:49:58+00:00"
+      },
+      {
+        "title": "How close can pure functional programming get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "description": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 51 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-10-24T03:43:54+00:00"
+      },
+      {
+        "title": "How Block Blast harvests its players for ad money",
+        "link": "https://ayoships.com/breakdowns/block-blast",
+        "description": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 14 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-10-24T02:43:43+00:00"
+      },
+      {
+        "title": "Apple Security Research Device",
+        "link": "https://security.apple.com/research-device/",
+        "description": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-10-24T02:36:38+00:00"
+      },
+      {
+        "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+        "description": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 76 # Comments: 21",
+        "source": "HackerNews",
+        "published": "2026-10-24T01:53:10+00:00"
+      },
+      {
+        "title": "Twelve years of distributed SQLite",
+        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "description": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 128 # Comments: 14",
+        "source": "HackerNews",
+        "published": "2026-10-24T01:16:58+00:00"
+      },
+      {
+        "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
         "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
         "description": "Article URL:...",
         "source": "HackerNews",
@@ -24,13 +80,6 @@
         "published": "2026-10-23T23:05:49+00:00"
       },
       {
-        "title": "German court calls Google aerial imagery 'spying'",
-        "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
-        "description": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 34 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-10-23T22:18:49+00:00"
-      },
-      {
         "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
         "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
         "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
@@ -38,9 +87,16 @@
         "published": "2026-10-23T21:59:19+00:00"
       },
       {
+        "title": "One Man's Pan Am 747 Replica [video]",
+        "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+        "description": "Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 20 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-23T21:46:51+00:00"
+      },
+      {
         "title": "CVE Tracker",
         "link": "https://cve.0xosprey.com/",
-        "description": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 100 # Comments: 38",
+        "description": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 149 # Comments: 59",
         "source": "HackerNews",
         "published": "2026-10-23T21:21:47+00:00"
       },
@@ -52,32 +108,11 @@
         "published": "2026-10-23T20:57:13+00:00"
       },
       {
-        "title": "No Source Code? No Problem",
-        "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-        "description": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 33 # Comments: 26",
-        "source": "HackerNews",
-        "published": "2026-10-23T20:38:06+00:00"
-      },
-      {
-        "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-        "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-        "description": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 32 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-10-23T20:37:12+00:00"
-      },
-      {
         "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
         "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
         "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller...",
         "source": "TechCrunch",
         "published": "2026-10-23T20:03:14+00:00"
-      },
-      {
-        "title": "Securing our frontier model training environment",
-        "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-        "description": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 73 # Comments: 89",
-        "source": "HackerNews",
-        "published": "2026-10-23T19:50:56+00:00"
       },
       {
         "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
@@ -87,13 +122,6 @@
         "published": "2026-10-23T19:46:38+00:00"
       },
       {
-        "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-        "link": "https://rune.build/blog/rune-1-3-release",
-        "description": "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 37 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-10-23T19:42:01+00:00"
-      },
-      {
         "title": "Tencent’ten Komutlarla Yönetilen Video Dünyası Yapay Zekası: Hy-Nomas",
         "link": "https://shiftdelete.net/tencent-hunyuan-hy-nomas",
         "description": "Tencent’in yapay zeka ekibi Hunyuan, kullanıcının yazdığı komutlarla ve kamera hareketleriyle yönlendirebildiği yeni bir video modelini herkesin kullanımına açtı. Hy-Nomas adlı model, videoyu tek seferde üretmek yerine parça parça oluşturuyor ve her...",
@@ -101,25 +129,11 @@
         "published": "2026-10-23T19:34:28+00:00"
       },
       {
-        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-        "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-        "description": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update Comments URL: https://news.ycombinator.com/item?id=50214218 Points: 271 # Comments: 139",
-        "source": "HackerNews",
-        "published": "2026-10-23T19:34:15+00:00"
-      },
-      {
         "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
         "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
         "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
         "source": "TechCrunch",
         "published": "2026-10-23T19:25:13+00:00"
-      },
-      {
-        "title": "Dessa: the most authentic full-duplex speech model ever built",
-        "link": "https://block.xyz/dessa",
-        "description": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 225 # Comments: 96",
-        "source": "HackerNews",
-        "published": "2026-10-23T19:09:54+00:00"
       },
       {
         "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
@@ -325,13 +339,6 @@
         "published": "2026-10-23T13:26:23-04:00"
       },
       {
-        "title": "OnePlus Ace 7 Pro Snapdragon 8 Elite ile Geliyor",
-        "link": "https://shiftdelete.net/oneplus-ace-7-pro-snapdragon-8-elite-ile-geliyor",
-        "description": "OnePlus Ace 7 Pro, Snapdragon 8 Elite Gen 5 işlemcisi ve aktif soğutma fanı ile 29 Ekim'de tanıtılıyor. Yeni nesil performans detayları haberimizde.",
-        "source": "ShiftDelete",
-        "published": "2026-10-23T13:00:45+00:00"
-      },
-      {
         "title": "The iPhone Duo should have been an iPad",
         "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
         "description": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this...",
@@ -344,16 +351,44 @@
         "description": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about...",
         "source": "The Verge",
         "published": "2026-10-23T12:52:55-04:00"
-      },
-      {
-        "title": "Epic Games Yapay Zeka ile Oyun Üretene 50.000 Dolar Verecek",
-        "link": "https://shiftdelete.net/epic-games-yapay-zeka-ile-oyun-uretene-50-000-dolar-verecek",
-        "description": "Epic Games, oyun geliştirme süreçlerinde yapay zekanın sınırlarını test etmeye hazırlanıyor. Şirket, “Vibe your way to $50k” sloganıyla duyurduğu Epic AI MegaJAM etkinliği kapsamında geliştiricileri üretken yapay zekâ araçlarını kullanarak oyun...",
-        "source": "ShiftDelete",
-        "published": "2026-10-23T12:44:08+00:00"
       }
     ],
     "dunya": [
+      {
+        "title": "France prepares for day of protest a week after nationwide riots",
+        "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+        "source": "BBC News",
+        "published": "2026-10-24T06:19:46+00:00"
+      },
+      {
+        "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+        "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "source": "BBC News",
+        "published": "2026-10-24T03:51:25+00:00"
+      },
+      {
+        "title": "Met investigates reports of letter detailing claims about Meghan's father",
+        "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\".",
+        "source": "BBC News",
+        "published": "2026-10-24T03:17:24+00:00"
+      },
+      {
+        "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+        "link": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
+        "description": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
+        "source": "BBC News",
+        "published": "2026-10-24T02:52:10+00:00"
+      },
+      {
+        "title": "Australian MP's condition improves after alleged car attack",
+        "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+        "description": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+        "source": "BBC News",
+        "published": "2026-10-24T01:55:15+00:00"
+      },
       {
         "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
         "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
@@ -383,11 +418,11 @@
         "published": "2026-10-23T22:47:07+00:00"
       },
       {
-        "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-        "description": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+        "title": "Why is John Travolta's old luxury jet in a small Australian town?",
+        "link": "https://www.bbc.co.uk/news/videos/cmze483zj1zlo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC goes on board Travolta’s old Boeing 707 which is being reassembled in a small coastal town.",
         "source": "BBC News",
-        "published": "2026-10-23T21:10:47+00:00"
+        "published": "2026-10-23T21:19:17+00:00"
       },
       {
         "title": "Severe flooding hits Four Corners region, more expected through the weekend",
@@ -397,39 +432,11 @@
         "published": "2026-10-23T20:40:42-04:00"
       },
       {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+        "title": "Prince William on how he once dreamed of becoming 'DJ Xara'",
+        "link": "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo?at_medium=RSS&at_campaign=rss",
+        "description": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize.",
         "source": "BBC News",
-        "published": "2026-10-23T19:42:08+00:00"
-      },
-      {
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-        "source": "BBC News",
-        "published": "2026-10-23T19:30:19+00:00"
-      },
-      {
-        "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
-        "source": "BBC News",
-        "published": "2026-10-23T18:17:06+00:00"
-      },
-      {
-        "title": "Meghan statement offers answers after years of questions about her relationship with father",
-        "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-        "description": "Today, without exactly using the word, Meghan claimed vindication.",
-        "source": "BBC News",
-        "published": "2026-10-23T17:27:50+00:00"
-      },
-      {
-        "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
-        "description": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
-        "source": "BBC News",
-        "published": "2026-10-23T16:39:03+00:00"
+        "published": "2026-10-23T18:42:38+00:00"
       },
       {
         "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
@@ -458,13 +465,6 @@
         "description": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
         "source": "NPR",
         "published": "2026-10-23T13:35:14-04:00"
-      },
-      {
-        "title": "Burnham suggests stocking up on tinned food and bottled water",
-        "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
-        "source": "BBC News",
-        "published": "2026-10-23T12:41:10+00:00"
       },
       {
         "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
@@ -567,39 +567,109 @@
     ],
     "turkiye": [
       {
+        "title": "20 yaşında 250 yıl hapis cezasıyla karşı karşıya: \"Her şeyi eve gelen tebligatlarla öğrendik\"",
+        "link": "https://www.ntv.com.tr/turkiye/20-yasinda-250-yil-hapis-cezasiyla-karsi-karsiya-her-seyi-eve-gelen-tebligatlarla-ogrendik-1747726",
+        "description": "Hatay'da bir marangoz çırağı, banka hesaplarının dolandırıcılık işlemlerinde kullanması nedeniyle tutuklandı. Hakkında 27 şikayet bulunan çırak, 250 yıla kadar hapis cezasına çarptırılabilir.",
+        "source": "NTV",
+        "published": "2026-10-24T09:53:21+03:00"
+      },
+      {
+        "title": "Burnumuzun dibindeki gölün suyu bitti",
+        "link": "https://www.sozcu.com.tr/burnumuzun-dibindeki-golun-suyu-bitti-p372230",
+        "description": "Burnumuzun dibindeki gölün suyu bitti",
+        "source": "Sözcü",
+        "published": "2026-10-24T09:47:37+03:00"
+      },
+      {
+        "title": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
+        "link": "https://www.sozcu.com.tr/maltepede-gecekondu-yangini-12-yasindaki-cocuk-hayatini-kaybetti-p372219",
+        "description": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
+        "source": "Sözcü",
+        "published": "2026-10-24T09:35:46+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Ekim 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-ekim-2026-1747695",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-24T04:30:00+03:00"
+        "published": "2026-10-24T09:30:00+03:00"
       },
       {
-        "title": "36 yaşındaki Ayşe ve kızı Meryem'den geriye bu acı fotoğraf kaldı",
-        "link": "https://www.sozcu.com.tr/36-yasindaki-ayse-ve-kizi-meryem-den-geriye-bu-aci-fotograf-kaldi-p372179",
-        "description": "36 yaşındaki Ayşe ve kızı Meryem'den geriye bu acı fotoğraf kaldı",
+        "title": "MasterChef Türkiye'de son dakika krizi: Bu akşam yeni bölüm yok",
+        "link": "https://www.sozcu.com.tr/masterchef-turkiye-de-son-dakika-krizi-bu-aksam-yeni-bolum-yok-p372226",
+        "description": "MasterChef Türkiye'de son dakika krizi: Bu akşam yeni bölüm yok",
         "source": "Sözcü",
-        "published": "2026-10-24T01:55:39+03:00"
+        "published": "2026-10-24T09:17:15+03:00"
       },
       {
-        "title": "Dönüş yolunda facia! Demir yığınına dönen araçta 4 kişi öldü 1 kişi yaralandı",
-        "link": "https://www.sozcu.com.tr/cankiri-kaza-4-kisi-oldu-1-kisi-yaralandi-p372180",
-        "description": "Dönüş yolunda facia! Demir yığınına dönen araçta 4 kişi öldü 1 kişi yaralandı",
+        "title": "Çekilişle 6.700 kilometre uzağındaki ülkeden ada kazandı: Rekor fiyata satışa çıkardı",
+        "link": "https://www.sozcu.com.tr/cekilisle-6-700-kilometre-uzagindaki-ulkeden-ada-kazandi-rekor-fiyata-satisa-cikardi-p372228",
+        "description": "Çekilişle 6.700 kilometre uzağındaki ülkeden ada kazandı: Rekor fiyata satışa çıkardı",
         "source": "Sözcü",
-        "published": "2026-10-24T01:54:29+03:00"
+        "published": "2026-10-24T09:16:59+03:00"
       },
       {
-        "title": "Bulgaristan’da tepki çeken görüntüler: Kadın gazeteci bir anda yerde kaldı",
-        "link": "https://www.sozcu.com.tr/bulgaristan-da-tepki-ceken-goruntuler-kadin-gazeteci-bir-anda-yerde-kaldi-p372183",
-        "description": "Bulgaristan’da tepki çeken görüntüler: Kadın gazeteci bir anda yerde kaldı",
+        "title": "CHP'den ihraç edilen 48 kişi için kritik tarih!",
+        "link": "https://www.sozcu.com.tr/chp-den-ihrac-edilen-48-kisi-icin-kritik-tarih-p372225",
+        "description": "CHP'den ihraç edilen 48 kişi için kritik tarih!",
         "source": "Sözcü",
-        "published": "2026-10-24T01:52:51+03:00"
+        "published": "2026-10-24T09:16:51+03:00"
       },
       {
-        "title": "Masaj salonu adı altında fuhuşa 10 tutuklama",
-        "link": "https://www.sozcu.com.tr/masaj-salonu-adi-altinda-fuhusa-10-tutuklama-p372186",
-        "description": "Masaj salonu adı altında fuhuşa 10 tutuklama",
+        "title": "AKP'li İnan'dan iddialı çıkış",
+        "link": "https://www.sozcu.com.tr/akp-li-inan-dan-iddiali-cikis-p372227",
+        "description": "AKP'li İnan'dan iddialı çıkış",
         "source": "Sözcü",
-        "published": "2026-10-24T00:58:49+03:00"
+        "published": "2026-10-24T09:16:02+03:00"
+      },
+      {
+        "title": "Fenerbahçe derbisi öncesi Galatasaray'da Barış Alper Yılmaz gelişmesi! Milli futbolcu için karar verildi",
+        "link": "https://www.sozcu.com.tr/fenerbahce-derbisi-oncesi-galatasarayda-baris-alper-yilmaz-gelismesi-milli-futbolcu-icin-karar-veril-p372223",
+        "description": "Fenerbahçe derbisi öncesi Galatasaray'da Barış Alper Yılmaz gelişmesi! Milli futbolcu için karar verildi",
+        "source": "Sözcü",
+        "published": "2026-10-24T09:08:22+03:00"
+      },
+      {
+        "title": "Trump'tan İran'a yeni operasyon tehdidi: 'Ya anlaşırlar, ya da saldırırız'",
+        "link": "https://www.sozcu.com.tr/trump-tan-iran-a-yeni-operasyon-tehdidi-ya-anlasirlar-ya-da-saldiririz-p372222",
+        "description": "Trump'tan İran'a yeni operasyon tehdidi: 'Ya anlaşırlar, ya da saldırırız'",
+        "source": "Sözcü",
+        "published": "2026-10-24T09:05:15+03:00"
+      },
+      {
+        "title": "Veri analistinin canlı bahis vurgununda WhatsApp mesajları ortaya çıktı: \"Fena para yapacağız\"",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-veri-analistinin-canli-bahis-vurgununda-whatsapp-mesajlari-ortaya-cikti-fena-para-yapacagiz-1747714",
+        "description": "Canlı bahisleri 7 saniye geciktiren ve skor belli olduktan sonra ortaklarına bahis oynattığı öne sürülen veri analistinin WhatsApp yazışmaları ortaya çıktı.",
+        "source": "NTV",
+        "published": "2026-10-24T09:04:20+03:00"
+      },
+      {
+        "title": "Araçlara turkuaz ışık geliyor, sürüş sırasında önemli bir görevi olacak",
+        "link": "https://www.sozcu.com.tr/araclara-turkuaz-isik-geliyor-surus-sirasinda-onemli-bir-gorevi-olacak-p372218",
+        "description": "Araçlara turkuaz ışık geliyor, sürüş sırasında önemli bir görevi olacak",
+        "source": "Sözcü",
+        "published": "2026-10-24T08:56:32+03:00"
+      },
+      {
+        "title": "Yarın saatler bir saat geri alınacak",
+        "link": "https://www.sozcu.com.tr/yarin-saatler-bir-saat-geri-alinacak-p372215",
+        "description": "Yarın saatler bir saat geri alınacak",
+        "source": "Sözcü",
+        "published": "2026-10-24T08:48:08+03:00"
+      },
+      {
+        "title": "Meteoroloji uyardı, tüm yurda yayılacak: Bahar havasından sonra yağmur geliyor",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-meteoroloji-uyardi-tum-yurda-yayilacak-bahar-havasindan-sonra-yagmur-geliyor-1747709",
+        "description": "Türkiye'nin hafta sonunu güneşli bir gökyüzüyle geçirecek. Bazı şehirlerde hava sıcaklığı 30 dereceye yaklaşacak. Önümüzdeki hafta yeni bir yağışlı hava sistemi geliyor.",
+        "source": "NTV",
+        "published": "2026-10-24T08:24:10+03:00"
+      },
+      {
+        "title": "Bakan Güler'den Mekke İttifakı açıklaması. \"Husilerle çatışmaya girilmeyecek\"",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-gulerden-mekke-ittifaki-aciklamasi-husilerle-catismaya-girilmeyecek-1747683",
+        "description": "Milli Savunma Bakanı Yaşar Güler, Mekke İttifakıyla ilgili önemli açıklamalar yaptı. Bakan Güler, Suudi Arabistan'a verilebilecek askeri destek kapsamında \"Husilerle çatışmaya girilmeyecek\" dedi.",
+        "source": "NTV",
+        "published": "2026-10-24T04:59:38+03:00"
       },
       {
         "title": "Kurtuluş Savaşı'na katılan 5 askerin mirasçılarına İstiklal Madalyası verilecek",
@@ -609,60 +679,11 @@
         "published": "2026-10-24T00:55:08+03:00"
       },
       {
-        "title": "Dört yıl süren Martı TAG davasında karar çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/dort-yil-suren-marti-tag-davasinda-karar-cikti-1747698",
-        "description": "Taksiciler Odası'nın Martı TAG'a karşı açılan ve dört yıldır devam eden haksız rekabet davasında, Mahkeme, anayasada yer alan girişim özgürlüğünün bir sonucu olduğu ve kapatılamayacağına hükmetti.",
-        "source": "NTV",
-        "published": "2026-10-24T00:29:23+03:00"
-      },
-      {
-        "title": "Kocaelispor teknik direktörü Selçuk İnan: 'Hak edilmiş galibiyet'",
-        "link": "https://www.sozcu.com.tr/kocaelispor-teknik-direktoru-selcuk-inan-hak-edilmis-galibiyet-p372178",
-        "description": "Kocaelispor teknik direktörü Selçuk İnan: 'Hak edilmiş galibiyet'",
-        "source": "Sözcü",
-        "published": "2026-10-24T00:17:17+03:00"
-      },
-      {
-        "title": "Dehşet anları anbean kamerada! Arabanın bagajına koyup kaçırdılar",
-        "link": "https://www.sozcu.com.tr/adanada-bir-kisiyi-otomobil-bagajina-koyup-kacirdilar-p372163",
-        "description": "Dehşet anları anbean kamerada! Arabanın bagajına koyup kaçırdılar",
-        "source": "Sözcü",
-        "published": "2026-10-24T00:17:01+03:00"
-      },
-      {
-        "title": "Üç farklı yöntemle dolandırdılar: 19 şüpheli tutuklandı",
-        "link": "https://www.sozcu.com.tr/uc-farkli-yontemle-dolandirdilar-19-supheli-tutuklandi-p372172",
-        "description": "Üç farklı yöntemle dolandırdılar: 19 şüpheli tutuklandı",
-        "source": "Sözcü",
-        "published": "2026-10-24T00:00:18+03:00"
-      },
-      {
         "title": "Otomobilin bagajına zorla bindirip kaçırdılar. Babası, kardeşi ve kuzeni çıktı",
         "link": "https://www.ntv.com.tr/turkiye/otomobilin-bagajina-zorla-bindirip-kacirdilar-babasi-kardesi-ve-kuzeni-cikti-1747691",
         "description": "Adana’da bir adamın zorla otomobilin bagajına konularak kaçırıldığı görüntülerin ardından gerçek ortaya çıktı. Şahsın borçları nedeniyle eve gitmek istemediği, ailesi tarafından götürdüğü belirlendi.",
         "source": "NTV",
         "published": "2026-10-23T23:58:15+03:00"
-      },
-      {
-        "title": "Astor Enerji patronlarının mal varlığı tedbiri kaldırıldı",
-        "link": "https://www.sozcu.com.tr/astor-enerji-patronlari-mal-varligi-tedbiri-kaldirildi-mi-p372164",
-        "description": "Astor Enerji patronlarının mal varlığı tedbiri kaldırıldı",
-        "source": "Sözcü",
-        "published": "2026-10-23T23:48:36+03:00"
-      },
-      {
-        "title": "Tanju Çolak’tan Fatih Terim’i kızdıracak sözler! ‘Kim var abi kimi çıkarmış. Adamın hayatını bitirdi’",
-        "link": "https://www.sozcu.com.tr/tanju-colak-tan-fatih-terim-i-kizdiracak-sozler-kim-var-abi-kimi-cikarmis-adamin-hayatini-bitirdi-p372168",
-        "description": "Tanju Çolak’tan Fatih Terim’i kızdıracak sözler! ‘Kim var abi kimi çıkarmış. Adamın hayatını bitirdi’",
-        "source": "Sözcü",
-        "published": "2026-10-23T23:41:50+03:00"
-      },
-      {
-        "title": "Fenerbahçe, EuroLeague'in son şampiyonunu devirdi! Sarı-lacivertlilerden Yunanistan'da müthiş geri dönüş",
-        "link": "https://www.sozcu.com.tr/fenerbahce-euroleague-in-son-sampiyonunu-devirdi-sari-lacivertlilerden-yunanistan-da-muthis-geri-p372165",
-        "description": "Fenerbahçe, EuroLeague'in son şampiyonunu devirdi! Sarı-lacivertlilerden Yunanistan'da müthiş geri dönüş",
-        "source": "Sözcü",
-        "published": "2026-10-23T23:28:08+03:00"
       },
       {
         "title": "Adana'da film gibi adam kaçırma: Otomobilin bagajına zorla bindirdiler",
@@ -700,32 +721,11 @@
         "published": "2026-10-23T20:53:07+00:00"
       },
       {
-        "title": "Bakan Güler'den Mekke İttifakı açıklaması. \"Husilerle çatışmaya girilmeyecek\"",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-gulerden-mekke-ittifaki-aciklamasi-husilerle-catismaya-girilmeyecek-1747683",
-        "description": "Milli Savunma Bakanı Yaşar Güler, Mekke İttifakıyla ilgili önemli açıklamalar yaptı. Bakan Güler Suudi Arabistan'a verilebilecek askeri destek kapsamında, \"Husilerle çatışmaya girilmeyecek\" dedi.",
-        "source": "NTV",
-        "published": "2026-10-23T20:34:33+03:00"
-      },
-      {
         "title": "Bakan Fidan: İran'a askeri müdahale çözüm değil, bunu kimse onaylamıyor",
         "link": "https://www.bbc.com/turkce/articles/cmg47nxz223zo?at_medium=RSS&at_campaign=rss",
         "description": "Sekiz Avrupa ve Ortadoğu ülkesinin dışişleri bakanları, Hürmüz Boğazı'nın yeniden açılması ve Ortadoğu'daki krizleri görüşmek üzere cuma günü İstanbul'da biraraya geldi.",
         "source": "BBC Turkish",
         "published": "2026-10-23T19:58:21+00:00"
-      },
-      {
-        "title": "Ankara merkezli 7 ilde fuhuş operasyonu: 45 kişi gözaltına alındı",
-        "link": "https://www.ntv.com.tr/turkiye/ankara-merkezli-7-ilde-fuhus-operasyonu-45-kisi-gozaltina-alindi-1747681",
-        "description": "Ankara merkezli 7 ilde müstehcenlik ve fuhuş suçlarına yönelik düzenlenen operasyonda, 45 şüpheli gözaltına alındı.",
-        "source": "NTV",
-        "published": "2026-10-23T19:46:20+03:00"
-      },
-      {
-        "title": "Sarıgül kardeşlerin tutuklandığı soruşturmada ikinci dalga: 3 kişi için tutuklama talebi",
-        "link": "https://www.ntv.com.tr/turkiye/sarigul-kardeslerin-tutuklandigi-sorusturmada-ikinci-dalga-3-kisi-icin-tutuklama-talebi-1747677",
-        "description": "Suçtan kaynaklanan mal varlığı değerlerini aklama soruşturmasında gözaltına alınan 5 kişiden 3'ü tutuklama talebiyle, 2 kişi ise adli kontrol talebiyle mahkemeye sevk edildi.",
-        "source": "NTV",
-        "published": "2026-10-23T19:06:21+03:00"
       },
       {
         "title": "Ürdün'de kiliseye silahlı saldırı: 7 kişi öldü, 34 yaralı var",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8928
   },
   "weather": {
-    "condition": "Açık",
-    "temp": "+77°F",
-    "wind": "→9mph",
-    "humidity": "26%"
+    "condition": "Parçalı bulutlu",
+    "temp": "+45°F",
+    "wind": "↖2mph",
+    "humidity": "83%"
   }
 }
