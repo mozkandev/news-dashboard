@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T23:01:36.934868+00:00",
+  "updated_at": "2026-10-27T02:18:00.775980+00:00",
   "categories": {
     "teknoloji": [
       {
@@ -7,35 +7,63 @@
         "link": "https://shiftdelete.net/?p=1291282",
         "description": "Apple, iOS 27.2 güncellemesini yayınladı. Siri AI yenilikleri, iPhone Duo için Apple Pencil desteği ve Apple Music arayüzündeki değişiklikleri keşfedin.",
         "source": "ShiftDelete",
-        "published": "2026-10-26T23:01:34.102291+00:00"
+        "published": "2026-10-27T02:17:57.335064+00:00"
+      },
+      {
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "source": "TechCrunch",
+        "published": "2026-10-27T02:00:00+00:00"
+      },
+      {
+        "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+        "link": "https://github.com/otya128/winevdm",
+        "description": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 14 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-27T01:15:04+00:00"
+      },
+      {
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+        "source": "TechCrunch",
+        "published": "2026-10-27T01:12:21+00:00"
       },
       {
         "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
         "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-        "description": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 6 # Comments: 1",
+        "description": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 77 # Comments: 21",
         "source": "HackerNews",
         "published": "2026-10-26T22:41:48+00:00"
       },
       {
-        "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+        "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+        "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+        "description": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 24 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-10-26T22:27:17+00:00"
+      },
+      {
+        "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
         "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-        "description": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+        "description": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
         "source": "TechCrunch",
         "published": "2026-10-26T22:00:00+00:00"
       },
       {
-        "title": "Working with academic communities to build scientific understanding",
-        "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-        "description": "Article URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/ Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 154 # Comments: 37",
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+        "description": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 307 # Comments: 120",
         "source": "HackerNews",
-        "published": "2026-10-26T21:35:28+00:00"
+        "published": "2026-10-26T21:59:15+00:00"
       },
       {
-        "title": "CorridorKey 2.0",
-        "link": "https://corridorkey.com/",
-        "description": "Article URL: https://corridorkey.com/ Comments URL: https://news.ycombinator.com/item?id=50251127 Points: 89 # Comments: 19",
+        "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+        "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+        "description": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 494 # Comments: 187",
         "source": "HackerNews",
-        "published": "2026-10-26T21:18:05+00:00"
+        "published": "2026-10-26T21:35:28+00:00"
       },
       {
         "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
@@ -52,18 +80,18 @@
         "published": "2026-10-26T19:57:03+00:00"
       },
       {
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "description": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different...",
+        "source": "The Verge",
+        "published": "2026-10-26T19:47:59-04:00"
+      },
+      {
         "title": "OpenAI’ın Yeni Modeli GPT-6.1 Terra, Bilgisayarı Sizin Yerinize Kullanabiliyor",
         "link": "https://shiftdelete.net/openai-gpt-6-1-terra",
         "description": "OpenAI, bilgisayar kullanımı ve görsel muhakeme odaklı yeni yapay zeka modeli GPT-6.1 Terra’yı tanıttı. Şirket, modelin ekrandaki içeriği anlayabildiğini, uygulamalar arasında işlem yapabildiğini ve daha doğal bir dille yazabildiğini belirtirken, bu...",
         "source": "ShiftDelete",
         "published": "2026-10-26T19:47:39+00:00"
-      },
-      {
-        "title": "Magic state cultivation on a superconducting quantum processor",
-        "link": "https://arxiv.org/abs/2512.13908",
-        "description": "Abstract: \"Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectures. Magic state cultivation offers an efficient...",
-        "source": "HackerNews",
-        "published": "2026-10-26T19:37:59+00:00"
       },
       {
         "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
@@ -82,7 +110,7 @@
       {
         "title": "The EPA Is Quietly Killing Its Web Archive",
         "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-        "description": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 186 # Comments: 30",
+        "description": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 249 # Comments: 45",
         "source": "HackerNews",
         "published": "2026-10-26T19:05:41+00:00"
       },
@@ -96,14 +124,14 @@
       {
         "title": "US designates helium as a critical material",
         "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-        "description": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 150 # Comments: 84",
+        "description": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 183 # Comments: 108",
         "source": "HackerNews",
         "published": "2026-10-26T18:31:39+00:00"
       },
       {
         "title": "Type Server Protocol",
         "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-        "description": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 168 # Comments: 125",
+        "description": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 194 # Comments: 140",
         "source": "HackerNews",
         "published": "2026-10-26T18:14:49+00:00"
       },
@@ -117,14 +145,14 @@
       {
         "title": "GPT-6.1 Terra",
         "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-        "description": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 443 # Comments: 280",
+        "description": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 507 # Comments: 324",
         "source": "HackerNews",
         "published": "2026-10-26T18:01:17+00:00"
       },
       {
         "title": "Oldest GUI application that still runs on Windows 11",
         "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-        "description": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 221 # Comments: 127",
+        "description": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 297 # Comments: 189",
         "source": "HackerNews",
         "published": "2026-10-26T17:56:55+00:00"
       },
@@ -134,13 +162,6 @@
         "description": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller...",
         "source": "The Verge",
         "published": "2026-10-26T17:56:36-04:00"
-      },
-      {
-        "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-        "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-        "description": "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 227 # Comments: 140",
-        "source": "HackerNews",
-        "published": "2026-10-26T17:54:00+00:00"
       },
       {
         "title": "Anthropic is burning gas to feed the AI boom",
@@ -262,25 +283,11 @@
         "published": "2026-10-26T14:37:15+00:00"
       },
       {
-        "title": "Anthropic officially files for its public debut",
-        "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-        "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-        "source": "TechCrunch",
-        "published": "2026-10-26T14:35:22+00:00"
-      },
-      {
         "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
         "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
         "description": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner...",
         "source": "The Verge",
         "published": "2026-10-26T14:34:29-04:00"
-      },
-      {
-        "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-        "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-        "description": "The new iPad mini features a thinner and lighter design than its predecessor.",
-        "source": "TechCrunch",
-        "published": "2026-10-26T14:25:43+00:00"
       },
       {
         "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
@@ -339,13 +346,6 @@
         "published": "2026-10-26T13:10:23-04:00"
       },
       {
-        "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
-        "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
-        "description": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one that came out in 2020. Beyond a...",
-        "source": "The Verge",
-        "published": "2026-10-26T12:36:29-04:00"
-      },
-      {
         "title": "Everything old is new again with the Fitbit Edge",
         "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
         "description": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do,...",
@@ -355,18 +355,46 @@
     ],
     "dunya": [
       {
+        "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+        "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+        "source": "BBC News",
+        "published": "2026-10-27T01:57:48+00:00"
+      },
+      {
+        "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+        "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+        "description": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering...",
+        "source": "The Guardian",
+        "published": "2026-10-27T00:00:03+00:00"
+      },
+      {
+        "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+        "description": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+        "source": "BBC News",
+        "published": "2026-10-26T23:10:59+00:00"
+      },
+      {
+        "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+        "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+        "source": "BBC News",
+        "published": "2026-10-26T23:03:14+00:00"
+      },
+      {
+        "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+        "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+        "description": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his...",
+        "source": "The Guardian",
+        "published": "2026-10-26T23:02:17+00:00"
+      },
+      {
         "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
         "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
         "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
         "source": "BBC News",
         "published": "2026-10-26T22:43:44+00:00"
-      },
-      {
-        "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-        "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-        "source": "BBC News",
-        "published": "2026-10-26T22:30:02+00:00"
       },
       {
         "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
@@ -376,18 +404,18 @@
         "published": "2026-10-26T22:07:26+00:00"
       },
       {
-        "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-        "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-        "description": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his...",
-        "source": "The Guardian",
-        "published": "2026-10-26T21:56:49+00:00"
+        "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+        "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+        "description": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
+        "source": "NPR",
+        "published": "2026-10-26T20:31:45-04:00"
       },
       {
-        "title": "Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns",
-        "link": "https://www.bbc.co.uk/news/articles/crwydxw0we8yo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC says it did not uphold any of the allegations of antisemitism but accepted there were \"shortcomings\" in how it treated Lucie Kon.",
+        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+        "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
         "source": "BBC News",
-        "published": "2026-10-26T20:16:45+00:00"
+        "published": "2026-10-26T19:27:21+00:00"
       },
       {
         "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
@@ -395,13 +423,6 @@
         "description": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva...",
         "source": "The Guardian",
         "published": "2026-10-26T17:56:50+00:00"
-      },
-      {
-        "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
-        "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
-        "description": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
-        "source": "BBC News",
-        "published": "2026-10-26T17:50:00+00:00"
       },
       {
         "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
@@ -432,18 +453,11 @@
         "published": "2026-10-26T16:27:17+00:00"
       },
       {
-        "title": "Independent review announced into murder of student Henry Nowak",
-        "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
-        "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+        "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+        "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+        "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
         "source": "BBC News",
-        "published": "2026-10-26T16:15:16+00:00"
-      },
-      {
-        "title": "‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win",
-        "link": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
-        "description": "Leaders and governments worldwide congratulate Lula on dramatic comeback seen as an important signal to rest of Latin America Lula supporters celebrate election victory – in pictures Luiz Inácio Lula da Silva , the Brazilian president, has vowed...",
-        "source": "The Guardian",
-        "published": "2026-10-26T15:51:18+00:00"
+        "published": "2026-10-26T15:46:31+00:00"
       },
       {
         "title": "Drivers who killed mum and girl while racing jailed",
@@ -451,13 +465,6 @@
         "description": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
         "source": "BBC News",
         "published": "2026-10-26T15:39:39+00:00"
-      },
-      {
-        "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-        "description": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-        "source": "BBC News",
-        "published": "2026-10-26T15:37:33+00:00"
       },
       {
         "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
@@ -551,13 +558,6 @@
         "published": "2026-10-26T05:00:00-04:00"
       },
       {
-        "title": "Republicans are spending millions and still may not win districts drawn to favor them",
-        "link": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
-        "description": "Republicans redrew congressional district lines to try to tilt the midterms in their favor. But now they are facing expensive and competitive races they had hoped to outmaneuver.",
-        "source": "NPR",
-        "published": "2026-10-26T05:00:00-04:00"
-      },
-      {
         "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
         "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
         "description": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected,...",
@@ -567,25 +567,74 @@
     ],
     "turkiye": [
       {
+        "title": "Sosyal konuttan önce villalar bitti",
+        "link": "https://www.sozcu.com.tr/sosyal-konuttan-once-villalar-bitti-p373075",
+        "description": "Sosyal konuttan önce villalar bitti",
+        "source": "Sözcü",
+        "published": "2026-10-27T05:10:22+03:00"
+      },
+      {
+        "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+        "link": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
+        "description": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
+        "source": "NTV",
+        "published": "2026-10-27T05:04:57+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Ekim 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-ekim-2026-1748093",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-27T02:00:00+03:00"
+        "published": "2026-10-27T05:00:00+03:00"
       },
       {
-        "title": "Antalya'da hortum faciası: 4 işçi hayatını kaybetti, 1 işçi yaralandı",
-        "link": "https://www.sozcu.com.tr/antalya-hortum-faciasi-p373059",
-        "description": "Antalya'da hortum faciası: 4 işçi hayatını kaybetti, 1 işçi yaralandı",
+        "title": "Arpalıktan AKP'liler çıktı",
+        "link": "https://www.sozcu.com.tr/arpaliktan-akp-liler-cikti-p373068",
+        "description": "Arpalıktan AKP'liler çıktı",
         "source": "Sözcü",
-        "published": "2026-10-27T01:56:49+03:00"
+        "published": "2026-10-27T04:50:22+03:00"
+      },
+      {
+        "title": "Emekliye 25 bin lira zam",
+        "link": "https://www.sozcu.com.tr/emekliye-25-bin-lira-zam-p373062",
+        "description": "Emekliye 25 bin lira zam",
+        "source": "Sözcü",
+        "published": "2026-10-27T04:30:22+03:00"
+      },
+      {
+        "title": "Fikret Bila SÖZCÜ ’de",
+        "link": "https://www.sozcu.com.tr/fikret-bila-sozcu-de-p373065",
+        "description": "Fikret Bila SÖZCÜ ’de",
+        "source": "Sözcü",
+        "published": "2026-10-27T04:00:07+03:00"
+      },
+      {
+        "title": "Ünlü model 20 dönüm arazi satın aldı: Planı şaşırttı",
+        "link": "https://www.sozcu.com.tr/unlu-model-20-donum-arazi-satin-aldi-plani-sasirtti-p373070",
+        "description": "Ünlü model 20 dönüm arazi satın aldı: Planı şaşırttı",
+        "source": "Sözcü",
+        "published": "2026-10-27T03:21:05+03:00"
+      },
+      {
+        "title": "İstanbul için sel alarmı. Sabah saatlerine dikkat",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107",
+        "description": "İstanbul'da yeniden kuvvetli yağış uyarısı var. Özellikle sabah saat 05.00 ile 10.00 arası şiddetli sağanak bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor.",
+        "source": "NTV",
+        "published": "2026-10-27T03:18:43+03:00"
       },
       {
         "title": "Antalya'da hortum işçi konteynerini parçaladı. 4 işçi öldü, 1 işçi yaralandı",
         "link": "https://www.ntv.com.tr/turkiye/antalyada-hortum-isci-konteynerini-parcaladi-4-isci-oldu-1-isci-yaralandi-1748105",
         "description": "Antalya'nın Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerde bulunan 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
         "source": "NTV",
-        "published": "2026-10-27T01:50:57+03:00"
+        "published": "2026-10-27T02:27:41+03:00"
+      },
+      {
+        "title": "Antalya'da hortum faciası: 4 işçi hayatını kaybetti, 1 işçi yaralandı",
+        "link": "https://www.sozcu.com.tr/antalya-hortum-faciasi-p373059",
+        "description": "Antalya'da hortum faciası: 4 işçi hayatını kaybetti, 1 işçi yaralandı",
+        "source": "Sözcü",
+        "published": "2026-10-27T02:03:07+03:00"
       },
       {
         "title": "İDO ve BUDO'dan sefer iptalleri",
@@ -595,13 +644,6 @@
         "published": "2026-10-27T01:42:24+03:00"
       },
       {
-        "title": "Fon kanunu yürürlüğe girdi: Ödemeler ne zaman başlayacak?",
-        "link": "https://www.sozcu.com.tr/fon-kanunu-yururluge-girdi-p373046",
-        "description": "Fon kanunu yürürlüğe girdi: Ödemeler ne zaman başlayacak?",
-        "source": "Sözcü",
-        "published": "2026-10-27T01:35:22+03:00"
-      },
-      {
         "title": "Sağlık hizmetlerinde dijitalleşme. Hastalar elektronik ortamda rıza verebilecek",
         "link": "https://www.ntv.com.tr/turkiye/saglik-hizmetlerinde-dijitallesme-hastalar-elektronik-ortamda-riza-verebilecek-1748103",
         "description": "Sağlık hizmetlerinde tıbbi müdahaleler öncesinde alınan bilgilendirilmiş rızanın elektronik ortamda da alınmasını sağlayan yönetmelik, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
@@ -609,11 +651,18 @@
         "published": "2026-10-27T01:33:37+03:00"
       },
       {
-        "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
-        "link": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
-        "description": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
-        "source": "NTV",
-        "published": "2026-10-27T01:28:43+03:00"
+        "title": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
+        "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
+        "description": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern Münih ve İngiliz milli...",
+        "source": "BBC Turkish",
+        "published": "2026-10-27T01:30:22+00:00"
+      },
+      {
+        "title": "Anthropic halka arz ediliyor: 'İnsanlık için varoluşsal risk' uyarısı",
+        "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
+        "description": "Popüler sohbet robotu Claude'un üreticisi Anthropic, ABD'de planlanan dev halka arzına ilişkin ayrıntıları açıklarken yapay zekanın \"insanlık için felaket niteliğinde veya varoluşsal riskler oluşturabileceği\" uyarısında bulundu.",
+        "source": "BBC Turkish",
+        "published": "2026-10-27T01:23:52+00:00"
       },
       {
         "title": "İnterneti bitirecek 'Okyanus' planı: Bir anda dünya ile bağlantınız kopabilir!",
@@ -623,18 +672,25 @@
         "published": "2026-10-27T01:22:18+03:00"
       },
       {
-        "title": "Genel Yayın Yönetmenimiz Ercüment İşleyen gözaltına alındı",
-        "link": "https://www.sozcu.com.tr/ercument-isleyen-gozaltina-alindi-p373044",
-        "description": "Genel Yayın Yönetmenimiz Ercüment İşleyen gözaltına alındı",
-        "source": "Sözcü",
-        "published": "2026-10-27T00:58:51+03:00"
-      },
-      {
         "title": "İsmail Kartal: Derbi kazanmadan şampiyon olabiliriz",
         "link": "https://www.sozcu.com.tr/ismail-kartal-derbi-kazanmadan-da-bu-ligde-sampiyon-olunabiliyor-p373052",
         "description": "İsmail Kartal: Derbi kazanmadan şampiyon olabiliriz",
         "source": "Sözcü",
         "published": "2026-10-27T00:52:11+03:00"
+      },
+      {
+        "title": "İsrail'de kritik seçim: Başbakan adayları Türkiye'ye nasıl bakıyor?",
+        "link": "https://www.bbc.com/turkce/articles/cm5yn5j93q4vo?at_medium=RSS&at_campaign=rss",
+        "description": "İsrail'de 7 Ekim saldırıları sonrası ilk genel seçim bugün yapılacak. Başbakan Binyamin Netanyahu ve en büyük rakibi Gadi Eisenkot, anketlerde başa baş görnüyor. Peki Netanyahu, Eisenkot ve diğer liderler Türkiye'yle ilişkilere nasıl bakıyor ?",
+        "source": "BBC Turkish",
+        "published": "2026-10-27T00:46:35+00:00"
+      },
+      {
+        "title": "Kılıçdaroğlu'nun erken seçim çıkışı CHP ve muhalefette nasıl yorumlandı?",
+        "link": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo?at_medium=RSS&at_campaign=rss",
+        "description": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun, iktidarın erken seçim kararı alması halinde buna itiraz etmeyeceklerini açıklaması, seçim ve adaylık hesaplarına ilişkin yeni bir tartışmayı da beraberinde getirdi.",
+        "source": "BBC Turkish",
+        "published": "2026-10-27T00:44:02+00:00"
       },
       {
         "title": "Osimhen: 'Bu kulüp için her şeyimi vereceğim'",
@@ -651,39 +707,11 @@
         "published": "2026-10-27T00:39:15+03:00"
       },
       {
-        "title": "Ederson taraftardan özür diledi",
-        "link": "https://www.sozcu.com.tr/ederson-taraftardan-ozur-diledi-p373049",
-        "description": "Ederson taraftardan özür diledi",
-        "source": "Sözcü",
-        "published": "2026-10-27T00:29:07+03:00"
-      },
-      {
-        "title": "Galatasaray'dan Fenerbahçe'ye flaş göndermeler",
-        "link": "https://www.sozcu.com.tr/galatasaraydan-derbi-zaferinin-ardindan-fenerbahceye-gonderme-p373048",
-        "description": "Galatasaray'dan Fenerbahçe'ye flaş göndermeler",
-        "source": "Sözcü",
-        "published": "2026-10-27T00:25:07+03:00"
-      },
-      {
-        "title": "Uğurcan Çakır, Fenerbahçeli o isme övgüler yağdırdı",
-        "link": "https://www.sozcu.com.tr/ugurcan-cakir-fenerbahceli-o-isme-ovguler-yagdirdi-p373045",
-        "description": "Uğurcan Çakır, Fenerbahçeli o isme övgüler yağdırdı",
-        "source": "Sözcü",
-        "published": "2026-10-27T00:18:51+03:00"
-      },
-      {
         "title": "MHP'li belediye meclis üyesi silahlı saldırıda öldürüldü",
         "link": "https://www.ntv.com.tr/turkiye/mhpli-belediye-meclis-uyesi-silahli-saldirida-olduruldu-1748091",
         "description": "Kocaeli'de Gölcük Belediyesi'nin MHP’li meclis üyesi Murat Saral silah saldırıda hayatını kaybetti.",
         "source": "NTV",
         "published": "2026-10-26T23:44:55+03:00"
-      },
-      {
-        "title": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
-        "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
-        "description": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern Münih ve İngiliz milli...",
-        "source": "BBC Turkish",
-        "published": "2026-10-26T22:58:01+00:00"
       },
       {
         "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
@@ -714,13 +742,6 @@
         "published": "2026-10-26T20:17:47+03:00"
       },
       {
-        "title": "Tutuklanan Milas Belediye Başkanı Fevzi Topuz görevden uzaklaştırıldı",
-        "link": "https://www.ntv.com.tr/turkiye/milas-belediye-baskani-fevzi-topuz-gorevden-uzaklastirildi-1748078",
-        "description": "İçişleri Bakanlığı, rüşvet ve resmi belgede sahtecilik suçlamalarıyla yürütülen soruşturma kapsamında tutuklanan CHP'li Milas Belediye Başkanı Fevzi Topuz'un görevden uzaklaştırıldığını açıkladı.",
-        "source": "NTV",
-        "published": "2026-10-26T19:28:08+03:00"
-      },
-      {
         "title": "Cumhurbaşkanı Başdanışmanı Saral istifa etti: 'İnandığım değerlerden geri adım anlamına gelmiyor'",
         "link": "https://www.bbc.com/turkce/articles/c9zrd444vl5jo?at_medium=RSS&at_campaign=rss",
         "description": "Cumhurbaşkanı Başdanışmanı Oktay Saral, görevinden istifa ettiğini açıkladı. Saral, sosyal medya hesabından yaptığı paylaşımda, \"2016 yılından bu yana büyük bir onur, şeref ve sorumlulukla yürüttüğüm Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın...",
@@ -733,27 +754,6 @@
         "description": "Irak hükümeti 26 Ekim Pazartesi günü, PKK ile bağlantıları bulunan silahlı bir Ezidi grubun silahlarını teslim ederek, devlet güçlerine entegre olacağını açıkladı.",
         "source": "BBC Turkish",
         "published": "2026-10-26T16:34:29+00:00"
-      },
-      {
-        "title": "Türkiye, Libya'dan sonra Mısır'la da deniz yetki alanları için anlaşabilir mi?",
-        "link": "https://www.bbc.com/turkce/articles/c68jzxlngejeo?at_medium=RSS&at_campaign=rss",
-        "description": "Libya Temsilciler Meclisi'nin Türkiye ile 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılması Anlaşması'nı 20 Ekim'de onaylaması, Mısır'da tepkiyle karşılandı. Türkiye, Mısır'ın tepkisini azaltmak ve Yunanistan ile yeni bir anlaşma yapmasını...",
-        "source": "BBC Turkish",
-        "published": "2026-10-26T15:58:26+00:00"
-      },
-      {
-        "title": "Mısır meclisi Suudi Arabistan'a destek için asker gönderme talebini onayladı",
-        "link": "https://www.bbc.com/turkce/articles/cmkgk32knr2xo?at_medium=RSS&at_campaign=rss",
-        "description": "Mısır Temsilciler Meclisi, Cumhurbaşkanı Abdülfettah Sisi'nin, Suudi Arabistan'a askeri destek sağlamak üzere gerekli eylem ve tedbirleri alma yetkisi verilmesi yönündeki talebini üçte iki çoğunlukla onayladı.",
-        "source": "BBC Turkish",
-        "published": "2026-10-26T14:09:46+00:00"
-      },
-      {
-        "title": "İsrail seçimlerine hangi tartışmalar damga vuruyor, seçmen ne diyor?",
-        "link": "https://www.bbc.com/turkce/articles/cmly0zyp0p5lo?at_medium=RSS&at_campaign=rss",
-        "description": "Güvenliğe yönelik tehditler ile demokrasiye yönelik tehditler arasındaki gerilim, İsrailli seçmenlerin uzun süredir karşı karşıya kaldığı siyasi fay hatlarından biri. Bu ayrım, 7 Ekim saldırıları ve İsrail tarihinin en sağcı hükümetinin dört yıllık...",
-        "source": "BBC Turkish",
-        "published": "2026-10-26T13:17:29+00:00"
       },
       {
         "title": "ABD'deki görkemli bir malikane küçük çocuklar için nasıl 'korku evi'ne dönüştü?",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 49.7891,
-    "eur_try": 55.8163,
-    "eur_usd": 0.8921
+    "usd_try": 49.7898,
+    "eur_try": 55.6656,
+    "eur_usd": 0.8939
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+53°F",
-    "wind": "↖2mph",
-    "humidity": "81%"
+    "condition": "Açık",
+    "temp": "+80°F",
+    "wind": "→5mph",
+    "humidity": "22%"
   }
 }
