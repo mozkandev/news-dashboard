@@ -1,13 +1,83 @@
 {
-  "updated_at": "2026-10-28T21:36:07.590878+00:00",
+  "updated_at": "2026-10-29T01:34:40.509208+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "description": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 12 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-10-29T00:30:37+00:00"
+      },
+      {
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "link": "https://divagr.com/blog/qwenputer",
+        "description": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 29 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-10-29T00:25:45+00:00"
+      },
+      {
+        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+        "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+        "description": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 22 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-10-29T00:16:08+00:00"
+      },
+      {
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "description": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 65 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-10-28T23:45:46+00:00"
+      },
+      {
+        "title": "The first wired XR glasses powered by Android XR",
+        "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+        "description": "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 18 # Comments: 13",
+        "source": "HackerNews",
+        "published": "2026-10-28T23:45:19+00:00"
+      },
+      {
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "description": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 85 # Comments: 87",
+        "source": "HackerNews",
+        "published": "2026-10-28T23:35:02+00:00"
+      },
+      {
+        "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+        "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+        "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+        "source": "TechCrunch",
+        "published": "2026-10-28T23:15:00+00:00"
+      },
+      {
+        "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+        "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+        "description": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+        "source": "TechCrunch",
+        "published": "2026-10-28T22:47:50+00:00"
+      },
+      {
+        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "source": "TechCrunch",
+        "published": "2026-10-28T21:58:32+00:00"
+      },
       {
         "title": "Sony, 30. Yıl Özel PlayStation'ın Tarihini Anlatan Kitabını Tanıttı (Konsol Fiyatına Kitap)",
         "link": "\n                    https://www.webtekno.com/sony-30-yil-ozel-playstation-tarihini-anlatan-kitabini-tanitti-h228010.html\n                    ",
         "description": "Sony, arşiv prototipleri ve tasarımcı notlarını içeren 30. yıl PlayStation tarih kitabını tanıttı.",
         "source": "Webtekno",
         "published": "2026-10-28T21:54:47+03:00"
+      },
+      {
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "description": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "source": "TechCrunch",
+        "published": "2026-10-28T21:48:37+00:00"
       },
       {
         "title": "Microsoft recorded $10 billion in revenue from OpenAI",
@@ -17,7 +87,7 @@
         "published": "2026-10-28T21:34:30+00:00"
       },
       {
-        "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
         "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
         "description": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
         "source": "TechCrunch",
@@ -26,16 +96,16 @@
       {
         "title": "Formlabs Studio 1 $699 Resin Printer",
         "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-        "description": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 5 # Comments: 0",
+        "description": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 108 # Comments: 80",
         "source": "HackerNews",
         "published": "2026-10-28T21:19:30+00:00"
       },
       {
-        "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-        "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-        "description": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/ Comments URL: https://news.ycombinator.com/item?id=50280864 Points: 50 # Comments: 9",
+        "title": "A Health Update",
+        "link": "https://furbo.org/2026/10/28/a-health-update/",
+        "description": "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 92 # Comments: 8",
         "source": "HackerNews",
-        "published": "2026-10-28T21:03:24+00:00"
+        "published": "2026-10-28T21:13:21+00:00"
       },
       {
         "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
@@ -47,23 +117,9 @@
       {
         "title": "The case of the 9 bit AES key",
         "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-        "description": "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 4 # Comments: 1",
+        "description": "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 76 # Comments: 40",
         "source": "HackerNews",
         "published": "2026-10-28T20:51:44+00:00"
-      },
-      {
-        "title": "Leak website releases data on DHS employees",
-        "link": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
-        "description": "Article URL: https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50280662 Points: 7 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-10-28T20:46:52+00:00"
-      },
-      {
-        "title": "Google AI gets cagey when asked who won the 2020 elections",
-        "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-        "description": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 35 # Comments: 22",
-        "source": "HackerNews",
-        "published": "2026-10-28T20:10:16+00:00"
       },
       {
         "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
@@ -101,11 +157,39 @@
         "published": "2026-10-28T19:05:46+00:00"
       },
       {
-        "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-        "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-        "description": "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ Comments URL: https://news.ycombinator.com/item?id=50277755 Points: 22 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-10-28T17:45:24+00:00"
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+        "description": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing...",
+        "source": "The Verge",
+        "published": "2026-10-28T19:05:39-04:00"
+      },
+      {
+        "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+        "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+        "description": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a...",
+        "source": "The Verge",
+        "published": "2026-10-28T18:47:29-04:00"
+      },
+      {
+        "title": "A hacker stole more than 40,000 DHS employee records",
+        "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+        "description": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US...",
+        "source": "The Verge",
+        "published": "2026-10-28T18:01:10-04:00"
+      },
+      {
+        "title": "Google says its investments in AI are driving more searches",
+        "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+        "description": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\"...",
+        "source": "The Verge",
+        "published": "2026-10-28T17:50:33-04:00"
+      },
+      {
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "description": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them...",
+        "source": "The Verge",
+        "published": "2026-10-28T17:34:04-04:00"
       },
       {
         "title": "Apple launches its new touchscreen MacBook Pro",
@@ -136,74 +220,11 @@
         "published": "2026-10-28T17:15:37-04:00"
       },
       {
-        "title": "Why is this fingerprinting script creating bioweapons?",
-        "link": "https://nullpt.rs/fingerprinting-bioweapons",
-        "description": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 453 # Comments: 98",
-        "source": "HackerNews",
-        "published": "2026-10-28T17:13:29+00:00"
-      },
-      {
-        "title": "MacBook Pro with PROLED XDR Display and Touch",
-        "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-        "description": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 416 # Comments: 706",
-        "source": "HackerNews",
-        "published": "2026-10-28T17:10:37+00:00"
-      },
-      {
-        "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-        "link": "https://slidebyside.com/",
-        "description": "Why is it useful? - Present slides without sharing the screen and have every one be on the same page. - Present together with other cohosts and all control the current page. - Other features such as presentation collab features. Why should I not...",
-        "source": "HackerNews",
-        "published": "2026-10-28T17:07:09+00:00"
-      },
-      {
-        "title": "Xreal Aura is a new wired headset powered by Android XR",
-        "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-        "description": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
-        "source": "TechCrunch",
-        "published": "2026-10-28T17:00:00+00:00"
-      },
-      {
-        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-        "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-        "description": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-        "source": "TechCrunch",
-        "published": "2026-10-28T17:00:00+00:00"
-      },
-      {
-        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-        "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-        "description": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-        "source": "TechCrunch",
-        "published": "2026-10-28T17:00:00+00:00"
-      },
-      {
         "title": "Pilot Garage Oto Ekspertiz Her Ay 2 Araç Hediye Ediyor",
         "link": "\n                    https://www.webtekno.com/pilot-garage-oto-ekspertiz-her-ay-2-arac-hediye-ediyor-h228014.html\n                    ",
         "description": "Pilot Garage, Oto Ekspertiz hizmeti alan kullanıcılarına yönelik düzenlediği çekiliş kampanyasıyla her ay 2 araç hediye ediyor.",
         "source": "Webtekno",
         "published": "2026-10-28T16:40:46+03:00"
-      },
-      {
-        "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
-        "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-        "description": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens - which just went...",
-        "source": "The Verge",
-        "published": "2026-10-28T16:38:39-04:00"
-      },
-      {
-        "title": "Google says its investments in AI are driving more searches",
-        "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-        "description": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\"...",
-        "source": "The Verge",
-        "published": "2026-10-28T16:34:45-04:00"
-      },
-      {
-        "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-        "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-        "description": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a...",
-        "source": "The Verge",
-        "published": "2026-10-28T16:33:49-04:00"
       },
       {
         "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
@@ -227,13 +248,6 @@
         "published": "2026-10-28T16:03:00-04:00"
       },
       {
-        "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-        "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-        "description": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-        "source": "TechCrunch",
-        "published": "2026-10-28T16:00:00+00:00"
-      },
-      {
         "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
         "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
         "description": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance —...",
@@ -246,20 +260,6 @@
         "description": "Elektrikli otomobil pazarında ezberleri bozan Tesla, Çin pazarına özel sunduğu ve küresel pazarda büyük yankı uyandıran uzatılmış versiyonu Model Y L ile doğrudan kalabalık ailelerin radarına giriyor. Standart modelin sınırlarını aşarak 3 sıralı ve...",
         "source": "ShiftDelete",
         "published": "2026-10-28T15:00:17+00:00"
-      },
-      {
-        "title": "Brendan Carr plans to let prisons jam cellphone signals",
-        "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-        "description": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions,...",
-        "source": "The Verge",
-        "published": "2026-10-28T14:57:02-04:00"
-      },
-      {
-        "title": "Microsoft is ending Copilot support on smart TVs",
-        "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-        "description": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by...",
-        "source": "The Verge",
-        "published": "2026-10-28T14:36:26-04:00"
       },
       {
         "title": "Dijital T.C. Kimlik Kartı Geliyor: İlk Testler 2027’de Başlıyor",
@@ -355,25 +355,81 @@
     ],
     "dunya": [
       {
-        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-        "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
         "source": "BBC News",
-        "published": "2026-10-28T21:07:06+00:00"
+        "published": "2026-10-29T01:30:43+00:00"
+      },
+      {
+        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+        "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+        "source": "BBC News",
+        "published": "2026-10-29T01:14:01+00:00"
+      },
+      {
+        "title": "Family row over George Michael items up for auction - including Faith guitar",
+        "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
+        "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
+        "source": "BBC News",
+        "published": "2026-10-29T00:01:16+00:00"
+      },
+      {
+        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+        "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+        "source": "BBC News",
+        "published": "2026-10-29T00:00:25+00:00"
+      },
+      {
+        "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+        "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+        "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+        "source": "BBC News",
+        "published": "2026-10-28T23:11:59+00:00"
+      },
+      {
+        "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+        "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+        "description": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United...",
+        "source": "The Guardian",
+        "published": "2026-10-28T22:06:46+00:00"
+      },
+      {
+        "title": "King Charles shows off dance moves on second day of Caribbean tour",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+        "description": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+        "source": "BBC News",
+        "published": "2026-10-28T21:58:27+00:00"
+      },
+      {
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "source": "BBC News",
+        "published": "2026-10-28T21:38:54+00:00"
       },
       {
         "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
         "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
         "description": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between members...",
         "source": "The Guardian",
-        "published": "2026-10-28T21:06:28+00:00"
+        "published": "2026-10-28T21:27:33+00:00"
       },
       {
-        "title": "Flávio Bolsonaro claims to be Brazil’s ‘true president’ after fleeing to Miami",
-        "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-        "description": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro has declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the...",
-        "source": "The Guardian",
-        "published": "2026-10-28T21:04:13+00:00"
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+        "source": "BBC News",
+        "published": "2026-10-28T21:16:30+00:00"
+      },
+      {
+        "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+        "description": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet and will likely be appealed.",
+        "source": "NPR",
+        "published": "2026-10-28T20:52:50-04:00"
       },
       {
         "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -390,13 +446,6 @@
         "published": "2026-10-28T20:15:07+00:00"
       },
       {
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-        "source": "BBC News",
-        "published": "2026-10-28T20:02:38+00:00"
-      },
-      {
         "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
         "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
         "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
@@ -404,53 +453,25 @@
         "published": "2026-10-28T18:45:09+00:00"
       },
       {
+        "title": "Trump administration will allow pharmacies to make popular peptides",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+        "description": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
+        "source": "NPR",
+        "published": "2026-10-28T18:26:48-04:00"
+      },
+      {
+        "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+        "description": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
+        "source": "NPR",
+        "published": "2026-10-28T17:46:27-04:00"
+      },
+      {
         "title": "Trump administration wants to remove regulations on a super planet-heating gas",
         "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
         "description": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
         "source": "NPR",
         "published": "2026-10-28T17:15:09-04:00"
-      },
-      {
-        "title": "Key points at a glance",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-        "source": "BBC News",
-        "published": "2026-10-28T16:55:27+00:00"
-      },
-      {
-        "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-        "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-        "source": "BBC News",
-        "published": "2026-10-28T16:52:16+00:00"
-      },
-      {
-        "title": "Watch: At the scene of Spain's deadly train crash",
-        "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-        "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-        "source": "BBC News",
-        "published": "2026-10-28T16:45:16+00:00"
-      },
-      {
-        "title": "How the Budget affects you",
-        "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-        "source": "BBC News",
-        "published": "2026-10-28T16:43:35+00:00"
-      },
-      {
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "link": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-        "source": "BBC News",
-        "published": "2026-10-28T16:12:57+00:00"
-      },
-      {
-        "title": "What we know about the crash so far",
-        "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-        "source": "BBC News",
-        "published": "2026-10-28T15:36:11+00:00"
       },
       {
         "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -523,27 +544,6 @@
         "published": "2026-10-28T06:09:46-04:00"
       },
       {
-        "title": "Are you an organ donor? Here are some rule changes you may want to know",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
-        "description": "Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.",
-        "source": "NPR",
-        "published": "2026-10-28T05:00:00-04:00"
-      },
-      {
-        "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
-        "description": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
-        "source": "NPR",
-        "published": "2026-10-28T05:00:00-04:00"
-      },
-      {
-        "title": "Why many student voters have a right to choose where to register to vote",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
-        "description": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
-        "source": "NPR",
-        "published": "2026-10-28T05:00:00-04:00"
-      },
-      {
         "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
         "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
         "description": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted...",
@@ -571,7 +571,35 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-29-ekim-2026-1748416",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 29 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-10-29T00:30:00+03:00"
+        "published": "2026-10-29T04:30:00+03:00"
+      },
+      {
+        "title": "Cumhuriyet Bayramı kutlu olsun",
+        "link": "https://www.sozcu.com.tr/cumhuriyet-bayrami-kutlu-olsun-p373778",
+        "description": "Cumhuriyet Bayramı kutlu olsun",
+        "source": "Sözcü",
+        "published": "2026-10-29T04:11:09+03:00"
+      },
+      {
+        "title": "Abdullah Avcı Fenerbahçe ile ne süre ne maaş konuştu, önceliği sportif başarıya verdi! Tek şartı şampiyonluk",
+        "link": "https://www.sozcu.com.tr/abdullah-avci-fenerbahce-ile-ne-sure-ne-maas-konustu-onceligi-sportif-basariya-verdi-tek-sarti-p373767",
+        "description": "Abdullah Avcı Fenerbahçe ile ne süre ne maaş konuştu, önceliği sportif başarıya verdi! Tek şartı şampiyonluk",
+        "source": "Sözcü",
+        "published": "2026-10-29T04:04:39+03:00"
+      },
+      {
+        "title": "Yargı işini yaptı 5 yıl hapis aldı",
+        "link": "https://www.sozcu.com.tr/yargi-isini-yapti-5-yil-hapis-aldi-p373777",
+        "description": "Yargı işini yaptı 5 yıl hapis aldı",
+        "source": "Sözcü",
+        "published": "2026-10-29T03:55:32+03:00"
+      },
+      {
+        "title": "51.7 milyar lira battı mı?",
+        "link": "https://www.sozcu.com.tr/51-7-milyar-lira-batti-mi-p373773",
+        "description": "51.7 milyar lira battı mı?",
+        "source": "Sözcü",
+        "published": "2026-10-29T03:00:20+03:00"
       },
       {
         "title": "Üç aracın karıştığı kazada 1 polis şehit oldu; 11 yaralı var",
@@ -586,6 +614,13 @@
         "description": "SPK’dan o iddialara yalanlama",
         "source": "Sözcü",
         "published": "2026-10-29T00:16:29+03:00"
+      },
+      {
+        "title": "ABD'li oyuncu Hayden Panettiere'nin ölümünün kaza sonucu olduğu belirlendi",
+        "link": "https://www.bbc.com/turkce/articles/cm62yl58x6gko?at_medium=RSS&at_campaign=rss",
+        "description": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
+        "source": "BBC Turkish",
+        "published": "2026-10-29T00:07:54+00:00"
       },
       {
         "title": "Fenerbahçe Kadın Futbol Takımı, Real Sociedad deplasmanında 2-0 yenildi",
@@ -616,25 +651,11 @@
         "published": "2026-10-28T22:59:43+03:00"
       },
       {
-        "title": "İlginç görüntüler İzmir'den! Ortodoks Yahudi grubun dansı gündem oldu",
-        "link": "https://www.sozcu.com.tr/izmir-gurcesme-yahudi-mezarligi-yakinlarinda-ilginc-anlar-p373725",
-        "description": "İlginç görüntüler İzmir'den! Ortodoks Yahudi grubun dansı gündem oldu",
-        "source": "Sözcü",
-        "published": "2026-10-28T22:51:46+03:00"
-      },
-      {
         "title": "İstanbul kapalı yollar listesi",
         "link": "https://www.ntv.com.tr/yerel-haberler/istanbul/istanbulda-kapali-yollarin-tam-listesi-kadikoy-uskudar-ve-atasehirde-hangi-yol-ne-zaman-kapali-1748410",
         "description": "İstanbul'da kapalı yolların tam listesi. Fatih, Kadıköy, Üsküdar ve Ataşehir'de hangi yol ne zaman kapalı?Kadıköy, Üsküdar ve Ataşehir'de yollar ne zaman açılacak. Kadıköy, Üsküdar, Fatih ve Ataşehir'de alternatif yolların tam listesi.",
         "source": "NTV",
         "published": "2026-10-28T22:36:12+03:00"
-      },
-      {
-        "title": "Beşiktaş evinde Olympiakos'a kaybetti",
-        "link": "https://www.sozcu.com.tr/besiktas-evinde-olympiakos-a-kaybetti-p373731",
-        "description": "Beşiktaş evinde Olympiakos'a kaybetti",
-        "source": "Sözcü",
-        "published": "2026-10-28T22:34:38+03:00"
       },
       {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 28 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
@@ -649,20 +670,6 @@
         "description": "Marmara Denizi'nde 2 Eylül'de iki geminin çarpışması sonucu batan Tuğberk İmamoğlu adlı gemiye ilişkin arama kurtarma çalışmalarında, kazadan 56 gün sonra bir erkek cesedi bulundu.",
         "source": "NTV",
         "published": "2026-10-28T22:23:26+03:00"
-      },
-      {
-        "title": "Cristiano Ronaldo'ya tarihi ödül! Futbolun en iyisi seçildi",
-        "link": "https://www.sozcu.com.tr/ronaldonun-2008-sezonu-boat-oylamasinda-messinin-2012sini-gecti-p373728",
-        "description": "Cristiano Ronaldo'ya tarihi ödül! Futbolun en iyisi seçildi",
-        "source": "Sözcü",
-        "published": "2026-10-28T22:18:37+03:00"
-      },
-      {
-        "title": "Şiddetli yağmur sonrası zehirli yılanlar ve timsahlar mahallelere indi",
-        "link": "https://www.sozcu.com.tr/siddetli-yagmur-sonrasi-zehirli-yilanlar-ve-timsahlar-mahallelere-indi-p373729",
-        "description": "Şiddetli yağmur sonrası zehirli yılanlar ve timsahlar mahallelere indi",
-        "source": "Sözcü",
-        "published": "2026-10-28T22:18:24+03:00"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
@@ -735,14 +742,7 @@
         "published": "2026-10-28T18:24:10+00:00"
       },
       {
-        "title": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
-        "link": "https://www.bbc.com/turkce/articles/c9x284ex08lgo?at_medium=RSS&at_campaign=rss",
-        "description": "Birçok kişi taze ürünlerin her halükarda en iyi seçenek olduğunu varsayar, ancak uzmanlara göre durum bu kadar basit değil.",
-        "source": "BBC Turkish",
-        "published": "2026-10-28T16:19:51+00:00"
-      },
-      {
-        "title": "İspanya'daki hızlı tren kazasında can kaybı 68'e çıktı, üç günlük yas ilan edildi",
+        "title": "İspanya'daki hızlı tren kazasında en az 68 kişi öldü, üç günlük yas ilan edildi",
         "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
         "description": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 68'e yükseldiğini açıkladı.",
         "source": "BBC Turkish",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 49.8101,
-    "eur_try": 55.479,
-    "eur_usd": 0.8975
+    "usd_try": 49.8589,
+    "eur_try": 55.5644,
+    "eur_usd": 0.8972
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+70°F",
-    "wind": "↑9mph",
-    "humidity": "52%"
+    "condition": "Hafif sağanak yağmur",
+    "temp": "+48°F",
+    "wind": "↑8mph",
+    "humidity": "76%"
   }
 }
