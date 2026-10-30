@@ -1,20 +1,209 @@
 {
-  "updated_at": "2026-10-30T18:44:13.863115+00:00",
+  "updated_at": "2026-10-30T22:47:52.947025+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "France is getting download tax for content providers (€0.055/GB)",
+        "link": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+        "description": "Article URL: https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/ Comments URL: https://news.ycombinator.com/item?id=50310796 Points: 5 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-30T22:10:12+00:00"
+      },
+      {
+        "title": "Linode Security Incident",
+        "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
+        "description": "Article URL: https://status.linode.com/incidents/nt58zhx3pmgm Comments URL: https://news.ycombinator.com/item?id=50310687 Points: 52 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-10-30T21:57:40+00:00"
+      },
+      {
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "source": "TechCrunch",
+        "published": "2026-10-30T21:54:34+00:00"
+      },
+      {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+        "source": "TechCrunch",
+        "published": "2026-10-30T21:52:03+00:00"
+      },
+      {
+        "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+        "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+        "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+        "source": "TechCrunch",
+        "published": "2026-10-30T21:48:53+00:00"
+      },
+      {
+        "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+        "link": "https://www.firezone.dev/blog/introducing-sanstun",
+        "description": "Article URL: https://www.firezone.dev/blog/introducing-sanstun Comments URL: https://news.ycombinator.com/item?id=50310398 Points: 23 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-10-30T21:30:00+00:00"
+      },
+      {
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+        "source": "TechCrunch",
+        "published": "2026-10-30T21:26:59+00:00"
+      },
+      {
+        "title": "Cracks are emerging in the AI spending boom",
+        "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+        "source": "TechCrunch",
+        "published": "2026-10-30T21:17:40+00:00"
+      },
+      {
+        "title": "AO3 Down for Maintenance",
+        "link": "https://www.otwstatus.org",
+        "description": "Article URL: https://www.otwstatus.org Comments URL: https://news.ycombinator.com/item?id=50310258 Points: 49 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-10-30T21:17:23+00:00"
+      },
+      {
+        "title": "Chrome Ctrl F Aramasına Büyük-Küçük Harf Ayrımı ve Yeni Oklar Geliyor",
+        "link": "https://shiftdelete.net/chrome-ctrl-f-buyuk-kucuk-harf-ayrimi",
+        "description": "Google, Chrome Ctrl F aramasını iki yenilikle geliştiriyor. Büyük/küçük harf ayrımı yapan bir düğme ve ekranda görünen sonuçları atlayan oklar Canary sürümünde test ediliyor.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T21:14:49+00:00"
+      },
+      {
+        "title": "Samsung CSOT Hissesi Devralındı: 892 Milyon Dolarlık Hamle",
+        "link": "https://shiftdelete.net/samsung-csot-hissesi-electronics-892-milyon-dolar",
+        "description": "Samsung Electronics, Samsung Display'in CSOT'taki yüzde 10,16'lık payını devraldı. Samsung CSOT hissesi için yaklaşık 892 milyon dolar ödeniyor; amaç LCD panel tedarikinde güçlü durmak.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T21:09:49+00:00"
+      },
+      {
+        "title": "Project Suncatcher Uydusu Uzaydan İlk Yanıtını Dünya’ya Gönderdi",
+        "link": "https://shiftdelete.net/project-suncatcher-uydusu-uzaydan-ilk-yaniti-gonderdi",
+        "description": "Google'ın yapay zekâ çipli uydusu uzaydan ilk yanıtını gönderdi. Project Suncatcher kapsamındaki uydu, Gemma 4 modeliyle uzay temalı bir haiku üretti. Sırada ısı ve radyasyon testleri var.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T21:04:49+00:00"
+      },
+      {
+        "title": "Waymo Toyota Ortaklığı: Robotaksiler Önce Japonya’da Test Edilecek",
+        "link": "https://shiftdelete.net/waymo-toyota-bz4x-robotaksi-japonya",
+        "description": "Waymo, robotaksi hizmetini yurt dışına taşımak için Toyota ile anlaştı. Waymo Toyota ortaklığında 2027 model bZ4X araçları sürücüsüz sistemle donatılacak, ilk testler Japonya'da yapılacak.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T20:59:49+00:00"
+      },
+      {
+        "title": "Golden Joystick Awards 2026 Adayları Açıklandı – İşte Liste",
+        "link": "https://shiftdelete.net/golden-joystick-awards-2026-adaylari-aciklandi",
+        "description": "Golden Joystick Awards 2026 için adaylar açıklandı. Yirmi iki kategoride yarışacak oyunlar arasında 007 First Light, Resident Evil Requiem ve Crimson Desert gibi isimler de yer alıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T20:52:59+00:00"
+      },
+      {
+        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+        "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+        "description": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ Comments URL: https://news.ycombinator.com/item?id=50309647 Points: 113 # Comments: 57",
+        "source": "HackerNews",
+        "published": "2026-10-30T20:23:30+00:00"
+      },
+      {
+        "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+        "link": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+        "description": "Article URL: https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/ Comments URL: https://news.ycombinator.com/item?id=50309573 Points: 18 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-10-30T20:18:18+00:00"
+      },
+      {
+        "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+        "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+        "description": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building: - xarray-sql: a library that efficiently...",
+        "source": "HackerNews",
+        "published": "2026-10-30T20:09:47+00:00"
+      },
+      {
+        "title": "An Arrogant Way of Killing (2016)",
+        "link": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
+        "description": "Article URL: https://magazine.atavist.com/2016/an-arrogant-way-of-killing Comments URL: https://news.ycombinator.com/item?id=50309470 Points: 15 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-10-30T20:08:52+00:00"
+      },
+      {
+        "title": "AMD Adrenalin 26.10.2 Sürücüsü Yayınlandı: Hatalar Düzeltildi",
+        "link": "https://shiftdelete.net/amd-adrenalin-26-10-2-surucu-guncellemesi",
+        "description": "AMD, Radeon RX 9000 ve RX 7000 kullanıcılarını bezdiren hataları AMD Adrenalin 26.10.2 sürücüsüyle düzeltti. Ancak bilinen sorunlar listesi hâlâ birçok ekran kartını kapsıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T19:57:12+00:00"
+      },
+      {
+        "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+        "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+        "description": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+        "source": "TechCrunch",
+        "published": "2026-10-30T19:55:13+00:00"
+      },
+      {
+        "title": "Jules Verne's Lost Novel",
+        "link": "https://blue-continuum.com/verne-paris",
+        "description": "Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 48 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-10-30T19:55:10+00:00"
+      },
+      {
+        "title": "Voyager 1 48 Saatlik Sessizliği Atlattı, Enerji Ömrü Uzadı",
+        "link": "https://shiftdelete.net/voyager-1-iletisim-kopuklugu-enerji-tasarrufu",
+        "description": "NASA, Voyager 1 uzay aracının yaklaşık 48 saat süren iletişim kopukluğunun 20 Ekim'de bittiğini duyurdu. Eylülde tamamlanan enerji tasarrufu operasyonu ise aracın ömrünü uzattı.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T19:52:12+00:00"
+      },
+      {
+        "title": "The oldest ice disappears and the Stone Age emerges from it",
+        "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+        "description": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 45 # Comments: 12",
+        "source": "HackerNews",
+        "published": "2026-10-30T19:51:33+00:00"
+      },
+      {
+        "title": "Yeni Batman Oyuncusu Çok Yakında Belli Olacak – James Gunn Açıkladı",
+        "link": "https://shiftdelete.net/yeni-batman-oyuncusu-james-gunn-casting",
+        "description": "Yeni Batman'i canlandıracak oyuncu henüz seçilmedi. James Gunn, casting sürecinin çok yakında başlayacağını ve adayın David Corenswet'e yakın yaşta olacağını söyledi.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T19:47:12+00:00"
+      },
+      {
+        "title": "Akıllı Telefon SoC Sevkiyatı Yüzde 21 Düştü, Apple Yükseldi",
+        "link": "https://shiftdelete.net/akilli-telefon-soc-sevkiyati-yuzde-21-dustu",
+        "description": "Counterpoint Research verilerine göre akıllı telefon SoC sevkiyatı 2026'nın üçüncü çeyreğinde yıllık bazda yüzde 21 azaldı. En büyük kaybı MediaTek ve Qualcomm yaşadı.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T19:42:12+00:00"
+      },
+      {
+        "title": "Intel hisseleri sert düştü – Zayıf PC pazarı beklentileri vurdu",
+        "link": "https://shiftdelete.net/intel-hisseleri-sert-dustu-zayif-pc-pazari",
+        "description": "Intel hisseleri, dördüncü çeyrek için beklentilerin altında gelir tahmini açıklanmasının ardından borsa sonrası işlemlerde yüzde 21'den fazla düştü. PC pazarındaki daralma büyüme planlarını zorluyor.",
+        "source": "ShiftDelete",
+        "published": "2026-10-30T19:35:16+00:00"
+      },
+      {
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on...",
+        "source": "The Verge",
+        "published": "2026-10-30T18:32:53-04:00"
+      },
+      {
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+        "description": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training...",
+        "source": "The Verge",
+        "published": "2026-10-30T18:04:23-04:00"
+      },
       {
         "title": "Satlyt takes another step toward turning satellites into space data centers",
         "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
         "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
         "source": "TechCrunch",
         "published": "2026-10-30T18:01:24+00:00"
-      },
-      {
-        "title": "GitHub Incident with Actions, Pages, and Webhooks",
-        "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
-        "description": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 39 # Comments: 19",
-        "source": "HackerNews",
-        "published": "2026-10-30T17:57:35+00:00"
       },
       {
         "title": "Zest’s new AI agent finds restaurants and books reservations over text",
@@ -24,32 +213,11 @@
         "published": "2026-10-30T17:47:12+00:00"
       },
       {
-        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-        "description": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 49 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-10-30T17:27:25+00:00"
-      },
-      {
-        "title": "My favourite PowerMac is a Nintendo Wii",
-        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "description": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 61 # Comments: 7",
-        "source": "HackerNews",
-        "published": "2026-10-30T17:25:15+00:00"
-      },
-      {
-        "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-        "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-        "description": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 135 # Comments: 86",
-        "source": "HackerNews",
-        "published": "2026-10-30T17:24:45+00:00"
-      },
-      {
-        "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
-        "link": "https://github.com/spinfinc/spinf-serve",
-        "description": "Article URL: https://github.com/spinfinc/spinf-serve Comments URL: https://news.ycombinator.com/item?id=50306815 Points: 7 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-10-30T17:03:12+00:00"
+        "title": "Exclusive details about Akai’s MPC Sample Key",
+        "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+        "description": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it...",
+        "source": "The Verge",
+        "published": "2026-10-30T17:27:26-04:00"
       },
       {
         "title": "Google’s first data center satellite is online and writing poetry",
@@ -59,18 +227,11 @@
         "published": "2026-10-30T17:00:00+00:00"
       },
       {
-        "title": "A Working Nintendo in ~1GB of Qwen Weights",
-        "link": "https://github.com/dbreunig/nesformer",
-        "description": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 87 # Comments: 79",
-        "source": "HackerNews",
-        "published": "2026-10-30T16:40:22+00:00"
-      },
-      {
-        "title": "US tech stocks see sharp falls over AI cost fears",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "description": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 181 # Comments: 160",
-        "source": "HackerNews",
-        "published": "2026-10-30T16:13:02+00:00"
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also...",
+        "source": "The Verge",
+        "published": "2026-10-30T16:48:43-04:00"
       },
       {
         "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
@@ -80,53 +241,11 @@
         "published": "2026-10-30T16:03:45+00:00"
       },
       {
-        "title": "AI isn't replacing SREs, it's deskilling them",
-        "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "description": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 298 # Comments: 221",
-        "source": "HackerNews",
-        "published": "2026-10-30T15:52:18+00:00"
-      },
-      {
-        "title": "Florilegium: Procedural Flowers in LaTeX",
-        "link": "https://github.com/kevinraymond/florilegium",
-        "description": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 74 # Comments: 11",
-        "source": "HackerNews",
-        "published": "2026-10-30T15:48:12+00:00"
-      },
-      {
-        "title": "Geist Serif",
-        "link": "https://vercel.com/blog/introducing-geist-serif",
-        "description": "Article URL: https://vercel.com/blog/introducing-geist-serif Comments URL: https://news.ycombinator.com/item?id=50305601 Points: 61 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-10-30T15:46:42+00:00"
-      },
-      {
         "title": "Google’s satellite AI server transmits its first response to Earth",
         "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
         "description": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on...",
         "source": "The Verge",
         "published": "2026-10-30T14:21:38-04:00"
-      },
-      {
-        "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-        "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-        "description": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-        "source": "TechCrunch",
-        "published": "2026-10-30T14:00:25+00:00"
-      },
-      {
-        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-        "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-        "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before...",
-        "source": "TechCrunch",
-        "published": "2026-10-30T14:00:00+00:00"
-      },
-      {
-        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-        "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-        "description": "DoorDash said that it is open to working with third-party agent makers.",
-        "source": "TechCrunch",
-        "published": "2026-10-30T13:54:25+00:00"
       },
       {
         "title": "Rivian’s autonomy gamble faces its first real test",
@@ -157,60 +276,11 @@
         "published": "2026-10-30T13:01:07-04:00"
       },
       {
-        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-        "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-        "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-        "source": "TechCrunch",
-        "published": "2026-10-30T13:00:00+00:00"
-      },
-      {
-        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-        "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-        "description": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-        "source": "TechCrunch",
-        "published": "2026-10-30T13:00:00+00:00"
-      },
-      {
-        "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-        "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-        "description": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The...",
-        "source": "The Verge",
-        "published": "2026-10-30T12:44:23-04:00"
-      },
-      {
         "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
         "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
         "description": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home...",
         "source": "The Verge",
         "published": "2026-10-30T11:29:02-04:00"
-      },
-      {
-        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-        "description": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take...",
-        "source": "The Verge",
-        "published": "2026-10-30T11:14:37-04:00"
-      },
-      {
-        "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-        "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-        "description": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the...",
-        "source": "The Verge",
-        "published": "2026-10-30T10:23:26-04:00"
-      },
-      {
-        "title": "Silicon Valley wants you to invest in miracles",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "description": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to...",
-        "source": "The Verge",
-        "published": "2026-10-30T09:11:05-04:00"
-      },
-      {
-        "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-        "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-        "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-        "source": "TechCrunch",
-        "published": "2026-10-30T07:01:00+00:00"
       },
       {
         "title": "GTA 6'nın Özgün Müzikleri Justice Tarafından Hazırlandı",
@@ -285,18 +355,67 @@
     ],
     "dunya": [
       {
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "title": "King visits Guyanese slave rebellion site on Caribbean tour",
+        "link": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed.",
         "source": "BBC News",
-        "published": "2026-10-30T17:47:01+00:00"
+        "published": "2026-10-30T22:24:03+00:00"
+      },
+      {
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "source": "BBC News",
+        "published": "2026-10-30T22:20:52+00:00"
+      },
+      {
+        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+        "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+        "source": "BBC News",
+        "published": "2026-10-30T22:11:52+00:00"
+      },
+      {
+        "title": "Celebrity Traitors comes to a climax in nail-biting final",
+        "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+        "description": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers.",
+        "source": "BBC News",
+        "published": "2026-10-30T22:00:39+00:00"
       },
       {
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
         "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
         "source": "BBC News",
-        "published": "2026-10-30T17:39:43+00:00"
+        "published": "2026-10-30T21:13:14+00:00"
+      },
+      {
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+        "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+        "source": "BBC News",
+        "published": "2026-10-30T20:52:01+00:00"
+      },
+      {
+        "title": "Canada and EU announce new alliance open to like-minded countries",
+        "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+        "description": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our...",
+        "source": "The Guardian",
+        "published": "2026-10-30T19:42:15+00:00"
+      },
+      {
+        "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+        "description": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.",
+        "source": "NPR",
+        "published": "2026-10-30T18:06:18-04:00"
+      },
+      {
+        "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+        "description": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
+        "source": "NPR",
+        "published": "2026-10-30T17:56:52-04:00"
       },
       {
         "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -313,32 +432,11 @@
         "published": "2026-10-30T16:26:11+00:00"
       },
       {
-        "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
-        "link": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
-        "description": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
-        "source": "BBC News",
-        "published": "2026-10-30T15:49:25+00:00"
-      },
-      {
-        "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
-        "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
-        "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-        "source": "BBC News",
-        "published": "2026-10-30T15:39:49+00:00"
-      },
-      {
         "title": "Driver guilty of hitting cyclist and dragging him to death under car",
         "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
         "description": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
         "source": "BBC News",
         "published": "2026-10-30T15:27:40+00:00"
-      },
-      {
-        "title": "Police watchdog to investigate Met over letter about Meghan's father",
-        "link": "https://www.bbc.co.uk/news/articles/c61m42pzplnzo?at_medium=RSS&at_campaign=rss",
-        "description": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
-        "source": "BBC News",
-        "published": "2026-10-30T14:36:03+00:00"
       },
       {
         "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
@@ -360,13 +458,6 @@
         "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
         "source": "BBC News",
         "published": "2026-10-30T12:27:28+00:00"
-      },
-      {
-        "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-        "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-        "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-        "source": "BBC News",
-        "published": "2026-10-30T11:23:06+00:00"
       },
       {
         "title": "NPR special: 5 takeaways from a year of listening to swing voters",
@@ -439,20 +530,6 @@
         "published": "2026-10-30T05:00:00-04:00"
       },
       {
-        "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
-        "description": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.",
-        "source": "NPR",
-        "published": "2026-10-30T05:00:00-04:00"
-      },
-      {
-        "title": "Here are the Senate races to watch ahead of Election Day",
-        "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
-        "description": "The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here's a ranking of those competitive races from most likely to flip to least likely.",
-        "source": "NPR",
-        "published": "2026-10-30T05:00:00-04:00"
-      },
-      {
         "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
         "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
         "description": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis,...",
@@ -465,13 +542,6 @@
         "description": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection...",
         "source": "The Guardian",
         "published": "2026-10-29T17:46:38+00:00"
-      },
-      {
-        "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-        "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-        "description": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United...",
-        "source": "The Guardian",
-        "published": "2026-10-28T22:06:46+00:00"
       },
       {
         "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -497,39 +567,116 @@
     ],
     "turkiye": [
       {
-        "title": "TMSF, Kontrolmatik'e kayyum atandı; yeni yönetim belli oldu",
-        "link": "https://www.sozcu.com.tr/tmsf-kontrolmatik-e-kayyum-atadi-p374425",
-        "description": "TMSF, Kontrolmatik'e kayyum atandı; yeni yönetim belli oldu",
+        "title": "Son dakika...Orta Doğu'yu tedirgin eden gelişme: Onlarca ABD uçağı İsrail'de konuşlandı",
+        "link": "https://www.sozcu.com.tr/son-dakika-orta-dogu-yu-tedirgin-eden-gelisme-onlarca-abd-ucagi-israil-de-konuslandi-p374454",
+        "description": "Son dakika...Orta Doğu'yu tedirgin eden gelişme: Onlarca ABD uçağı İsrail'de konuşlandı",
         "source": "Sözcü",
-        "published": "2026-10-30T21:38:27+03:00"
+        "published": "2026-10-31T01:35:54+03:00"
       },
       {
-        "title": "13 yaşındaki çocuk ve annesi çamura saplandı: Ekipler seferber oldu",
-        "link": "https://www.sozcu.com.tr/13-yasindaki-cocuk-ve-annesi-camura-saplandi-ekipler-seferber-oldu-p374432",
-        "description": "13 yaşındaki çocuk ve annesi çamura saplandı: Ekipler seferber oldu",
-        "source": "Sözcü",
-        "published": "2026-10-30T21:35:18+03:00"
+        "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 31 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-31-ekim-2026-1748708",
+        "description": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 31 Ekim 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
+        "source": "NTV",
+        "published": "2026-10-31T01:30:00+03:00"
       },
       {
-        "title": "Doğal gazda limitler güncellendi! Bu sınırı aşan yüksek fatura ödeyecek",
-        "link": "https://www.sozcu.com.tr/dogal-gazda-limitler-guncellendi-bu-siniri-asan-yuksek-fatura-odeyecek-p374428",
-        "description": "Doğal gazda limitler güncellendi! Bu sınırı aşan yüksek fatura ödeyecek",
-        "source": "Sözcü",
-        "published": "2026-10-30T21:09:36+03:00"
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 31 Ekim 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-31-ekim-2026-1748702",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 31 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-10-31T01:30:00+03:00"
       },
       {
-        "title": "Son dakika...Bakırköy Belediyesi'ne yönelik operasyonda 40 tutuklama talebi",
-        "link": "https://www.sozcu.com.tr/son-dakika-bakirkoy-belediyesine-yonelik-operasyonunda-40-tutuklama-talebi-p374427",
-        "description": "Son dakika...Bakırköy Belediyesi'ne yönelik operasyonda 40 tutuklama talebi",
+        "title": "Avrupa ülkesinde ortalık karıştı! Güvenlik güçler Anayasa Mahkemesi binasını bastı",
+        "link": "https://www.sozcu.com.tr/polonya-karisti-30-ekim-2026-p374442",
+        "description": "Avrupa ülkesinde ortalık karıştı! Güvenlik güçler Anayasa Mahkemesi binasını bastı",
         "source": "Sözcü",
-        "published": "2026-10-30T21:09:06+03:00"
+        "published": "2026-10-31T01:05:22+03:00"
       },
       {
-        "title": "Konyaspor-Galatasaray maçında sakatlık şoku! Devam edemedi",
-        "link": "https://www.sozcu.com.tr/konyaspor-galatasaray-macinda-sakatlik-soku-devam-edemedi-p374429",
-        "description": "Konyaspor-Galatasaray maçında sakatlık şoku! Devam edemedi",
+        "title": "Merkezefendi Belediye Başkanı Şeniz Doğan ve eşi dahil 6 kişi tutuklandı",
+        "link": "https://www.sozcu.com.tr/merkezefendi-belediye-baskani-seniz-dogan-hakkinda-karar-p374462",
+        "description": "Merkezefendi Belediye Başkanı Şeniz Doğan ve eşi dahil 6 kişi tutuklandı",
         "source": "Sözcü",
-        "published": "2026-10-30T21:08:33+03:00"
+        "published": "2026-10-31T01:01:04+03:00"
+      },
+      {
+        "title": "Sakarya'da yol çalışmasında antik yazıtlı taş blok bulundu",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-yol-calismasinda-bulundu-merak-konusu-oldu-1748705",
+        "description": "Sakarya'da çalışma esnasında toprak altından çıkarılan antik dönem yazıtlı taş blok, mahallelinin dikkatini çekti. Devasa tarihi kalıntı, kısa sürede merak konusu haline geldi.",
+        "source": "NTV",
+        "published": "2026-10-31T00:42:04+03:00"
+      },
+      {
+        "title": "Konyaspor teknik direktörü İlhan Palut: 'İyi durumda değiliz'",
+        "link": "https://www.sozcu.com.tr/konyaspor-teknik-direktoru-ilhan-palut-iyi-durumda-degiliz-p374461",
+        "description": "Konyaspor teknik direktörü İlhan Palut: 'İyi durumda değiliz'",
+        "source": "Sözcü",
+        "published": "2026-10-31T00:36:23+03:00"
+      },
+      {
+        "title": "Salgın yayılıyor: 3 ayda 30 kişi hayatını kaybetti",
+        "link": "https://www.sozcu.com.tr/salgin-yayiliyor-3-ayda-30-kisi-hayatini-kaybetti-p374458",
+        "description": "Salgın yayılıyor: 3 ayda 30 kişi hayatını kaybetti",
+        "source": "Sözcü",
+        "published": "2026-10-31T00:30:00+03:00"
+      },
+      {
+        "title": "Hamile kızını ve erkek arkadaşını öldürdü",
+        "link": "https://www.ntv.com.tr/turkiye/hamile-kizini-ve-erkek-arkadasini-oldurdu-1748704",
+        "description": "Ankara'nın Mamak ilçesinde bir kişi, hamile kızını ve kızının beraber yaşadığı erkek arkadaşını öldürdü.",
+        "source": "NTV",
+        "published": "2026-10-31T00:25:01+03:00"
+      },
+      {
+        "title": "Batrakov attığı golle Süper Lig tarihine geçti! Galatasaray'ın Rus yıldızı oynadığı futbolla kendine hayran bıraktı",
+        "link": "https://www.sozcu.com.tr/batrakov-attigi-golle-super-lig-tarihine-gecti-galatasaray-in-rus-yildizi-oynadigi-futbolla-kendine-p374447",
+        "description": "Batrakov attığı golle Süper Lig tarihine geçti! Galatasaray'ın Rus yıldızı oynadığı futbolla kendine hayran bıraktı",
+        "source": "Sözcü",
+        "published": "2026-10-31T00:13:34+03:00"
+      },
+      {
+        "title": "Bakan Fidan'dan G20 zirvesinde diplomasi trafiği",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-abdli-mevkidasi-rubio-ile-gorustu-1748700",
+        "description": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı kapsamında ABD'li ve Almanyalı mevkidaşlarıyla görüştü.",
+        "source": "NTV",
+        "published": "2026-10-31T00:02:17+03:00"
+      },
+      {
+        "title": "Ankara'da vahşet! Hamile kızını ve birlikte yaşadığı erkek arkadaşını öldürdü",
+        "link": "https://www.sozcu.com.tr/hamile-kizini-ve-birlikte-yasadigi-erkek-arkadasini-oldurdu-p374446",
+        "description": "Ankara'da vahşet! Hamile kızını ve birlikte yaşadığı erkek arkadaşını öldürdü",
+        "source": "Sözcü",
+        "published": "2026-10-30T23:53:05+03:00"
+      },
+      {
+        "title": "TFF Tahkim Kurulu'ndan Abdülkerim Bardakcı kararı",
+        "link": "https://www.sozcu.com.tr/tff-tahkim-kurulu-ndan-abdulkerim-bardakci-karari-p374452",
+        "description": "TFF Tahkim Kurulu'ndan Abdülkerim Bardakcı kararı",
+        "source": "Sözcü",
+        "published": "2026-10-30T23:41:40+03:00"
+      },
+      {
+        "title": "Toprak kayması sonrası yamaçta inşa edilen 17 katlı binanın temeli ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/toprak-kaymasi-sonrasi-yamacta-insa-edilen-17-katli-binanin-temeli-ortaya-cikti-p374445",
+        "description": "Toprak kayması sonrası yamaçta inşa edilen 17 katlı binanın temeli ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-10-30T23:21:52+03:00"
+      },
+      {
+        "title": "Okan Buruk, Konyaspor galibiyetini Abdülkerim Bardakcı'ya armağan etti",
+        "link": "https://www.sozcu.com.tr/okan-buruk-konya-galibiyetini-abdulkerim-bardakciya-armagan-etti-p374443",
+        "description": "Okan Buruk, Konyaspor galibiyetini Abdülkerim Bardakcı'ya armağan etti",
+        "source": "Sözcü",
+        "published": "2026-10-30T22:55:28+03:00"
+      },
+      {
+        "title": "Polonya'da siyasi gerginlik: Anayasa Mahkemesi'ne polis görevlendirildi",
+        "link": "https://www.bbc.com/turkce/articles/cm0e025gw751o?at_medium=RSS&at_campaign=rss",
+        "description": "Polonya'da hükümet ile Anayasa Mahkemesi başkanı ve yardımcısı arasında tırmanan gerilim üzerine, mahkeme binasına çevik kuvvet polisleri konuşlandırıldı. Başbakan Donald Tusk hükümeti ile ana muhalefetteki sağcı Hukuk ve Adalet Partisi (PiS)...",
+        "source": "BBC Turkish",
+        "published": "2026-10-30T22:43:11+00:00"
       },
       {
         "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
@@ -546,27 +693,6 @@
         "published": "2026-10-30T20:48:33+03:00"
       },
       {
-        "title": "Deva Partili vekil istifa etti; Yeni Yol'un Meclis'teki grubu düştü!",
-        "link": "https://www.sozcu.com.tr/ertugrul-kaya-deva-partisi-istifa-etti-p374416",
-        "description": "Deva Partili vekil istifa etti; Yeni Yol'un Meclis'teki grubu düştü!",
-        "source": "Sözcü",
-        "published": "2026-10-30T20:20:39+03:00"
-      },
-      {
-        "title": "30 yıllık gazete kepenk indirdi: Kapanma kararını böyle duyurdu",
-        "link": "https://www.sozcu.com.tr/30-yillik-gazete-kepenk-indirdi-kapanma-kararini-boyle-duyurdu-p374423",
-        "description": "30 yıllık gazete kepenk indirdi: Kapanma kararını böyle duyurdu",
-        "source": "Sözcü",
-        "published": "2026-10-30T20:03:45+03:00"
-      },
-      {
-        "title": "Trabzonspor'a 2 yıldızından kötü haber: Sakatlık açıklaması yapıldı",
-        "link": "https://www.sozcu.com.tr/trabzonspor-a-2-yildizindan-kotu-haber-sakatlik-aciklamasi-yapildi-p374421",
-        "description": "Trabzonspor'a 2 yıldızından kötü haber: Sakatlık açıklaması yapıldı",
-        "source": "Sözcü",
-        "published": "2026-10-30T19:48:55+03:00"
-      },
-      {
         "title": "Adalet Bakanı Gürlek duyurdu: Dört faili meçhul cinayet daha aydınlatıldı",
         "link": "https://www.ntv.com.tr/turkiye/adalet-bakani-gurlek-duyurdu-dort-faili-mechul-cinayet-daha-aydinlatildi-1748684",
         "description": "Adalet Bakanı Akın Gürlek, faili meçhul cinayetlerde 4 dosyanın daha aydınlatıldığını açıkladı. Gürlek, 68 dosyada 75 cinayetin faili meçhul olmaktan çıkarıldığını belirtti.",
@@ -574,25 +700,18 @@
         "published": "2026-10-30T19:29:19+03:00"
       },
       {
+        "title": "'Sizin kardeşiniziz, bankanız değil': Ankara-Bakü geriliminde ekonominin yeri",
+        "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
+        "description": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı. Ancak Azerbaycan'da hükümet yanlısı...",
+        "source": "BBC Turkish",
+        "published": "2026-10-30T19:27:31+00:00"
+      },
+      {
         "title": "DEVA Partili Ertuğrul Kaya istifa etti: Yeni Yol'un Meclis grubu düştü",
         "link": "https://www.ntv.com.tr/turkiye/deva-partili-ertugrul-kaya-istifa-etti-yeni-yolun-meclis-grubu-dustu-1748685",
         "description": "DEVA Partisi Gaziantep Milletvekili Ertuğrul Kaya, partisinden istifa ettiğini açıkladı. Kaya'nın ayrılmasıyla Yeni Yol Partisi'nin milletvekili sayısı 19'a gerilerken, TBMM'deki grubu düştü.",
         "source": "NTV",
         "published": "2026-10-30T19:23:48+03:00"
-      },
-      {
-        "title": "Elon Musk'tan ABD için korkutan 2028 senaryosu",
-        "link": "https://www.sozcu.com.tr/elon-musk-tan-abd-icin-korkutan-2028-senaryosu-p374418",
-        "description": "Elon Musk'tan ABD için korkutan 2028 senaryosu",
-        "source": "Sözcü",
-        "published": "2026-10-30T19:23:21+03:00"
-      },
-      {
-        "title": "Fenerbahçe Tarfin'e NBA'den dev transfer",
-        "link": "https://www.sozcu.com.tr/fenerbahce-tarfin-e-nba-den-dev-transfer-p374417",
-        "description": "Fenerbahçe Tarfin'e NBA'den dev transfer",
-        "source": "Sözcü",
-        "published": "2026-10-30T19:02:34+03:00"
       },
       {
         "title": "Aliyev'in katılmadığı Türk Devletleri Zirvesi'nden hangi sonuçlar çıktı?",
@@ -609,13 +728,6 @@
         "published": "2026-10-30T18:00:03+03:00"
       },
       {
-        "title": "Zelenski yarın Türkiye'ye geliyor: Cumhurbaşkanı Erdoğan ile görüşecek",
-        "link": "https://www.ntv.com.tr/turkiye/zelenski-yarin-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678",
-        "description": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye gelecek.",
-        "source": "NTV",
-        "published": "2026-10-30T17:15:44+03:00"
-      },
-      {
         "title": "ABD'de idam girişiminden sağ çıkan Christa Pike: 'Acı içinde uyandım'",
         "link": "https://www.bbc.com/turkce/articles/c6x2v1j3ezn7o?at_medium=RSS&at_campaign=rss",
         "description": "ABD'de idam cezasına çarptırılan Christa Pike, Eylül ayında başarısızlıkla sonuçlanan infaz girişiminin ardından ilk kez kamuoyuna açıklama yaptı.",
@@ -623,53 +735,11 @@
         "published": "2026-10-30T16:26:29+00:00"
       },
       {
-        "title": "Emine Erdoğan, lider eşleriyle Ankara'da buluştu",
-        "link": "https://www.ntv.com.tr/turkiye/emine-erdogan-lider-esleriyle-ankarada-bulustu-1748673",
-        "description": "Emine Erdoğan, Türk Devletleri Teşkilatı Aile ve Kadın Konseyi toplantısında liderlerin eşleriyle bir araya geldi. Erdoğan, doğum oranlarındaki düşüşe ve kadınların toplumdaki rolüne dikkat çekti.",
-        "source": "NTV",
-        "published": "2026-10-30T16:17:11+03:00"
-      },
-      {
-        "title": "Üç raylı sistemle bağlanacak. Test sürüşü yapıldı, İstanbul'un yeni metro hattı açılıyor",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-uc-rayli-sistemle-baglanacak-test-surusu-yapildi-istanbulun-yeni-metro-hatti-aciliyor-1748664",
-        "description": "İstanbul'da Marmaray, Üsküdar-Çekmeköy ve Kadıköy Sabiha Gökçen hatlarıyla bağlantılı M12 Ümraniye-Ataşehir-Göztepe Metro Hattı'nda test sürüşü yapıldı. Yeni metro hattı aralık ayında açılacak.",
-        "source": "NTV",
-        "published": "2026-10-30T16:00:02+03:00"
-      },
-      {
-        "title": "İspanya Ulaştırma Bakanı, tren kazasının ardından istifa etmeyecek",
-        "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
-        "description": "İspanya Ulaştırma Bakanı Óscar Puente, en az 69 kişinin hayatını kaybettiği hızlı tren kazasının ardından istifa etmeyeceğini söyledi",
-        "source": "BBC Turkish",
-        "published": "2026-10-30T15:09:18+00:00"
-      },
-      {
-        "title": "Çukurova Belediye Başkanvekili belli oldu",
-        "link": "https://www.ntv.com.tr/turkiye/cukurova-belediye-baskanvekili-belli-oldu-1748651",
-        "description": "Tutuklanıp görevinden uzaklaştırılan Yeni Partili Çukurova Belediye Başkanı Emrah Kozay'ın yerine CHP'li Sıtkı Keskin belediye başkanvekili seçildi.",
-        "source": "NTV",
-        "published": "2026-10-30T14:36:49+03:00"
-      },
-      {
         "title": "Binance'te 'tarihin en büyük siber saldırısı': 6,3 milyar dolarlık kripto varlık etkilendi",
         "link": "https://www.bbc.com/turkce/articles/cm4g10d03rp8o?at_medium=RSS&at_campaign=rss",
         "description": "Kripto para devi Binance, potansiyel bir siber saldırı sebebiyle 6,3 milyar dolar (yaklaşık 314 milyar lira) değerinde dijital varlığın etkilendiğini belirtti. İki analiz firması, olayın TraderTraitor adlı Kuzey Koreli bir siber saldırı birimi...",
         "source": "BBC Turkish",
         "published": "2026-10-30T14:34:46+00:00"
-      },
-      {
-        "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 30 Ekim 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-30-ekim-2026-1748646",
-        "description": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 30 Ekim 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
-        "source": "NTV",
-        "published": "2026-10-30T14:10:00+03:00"
-      },
-      {
-        "title": "Beş soruda Aliyev neden Ankara'ya gitmedi?",
-        "link": "https://www.bbc.com/turkce/articles/cq4g10jx8xj6o?at_medium=RSS&at_campaign=rss",
-        "description": "Aliyev'in Ankara'ya gitmemesi ne anlama geliyor ve Azerbaycan yönetiminin tutumu neden resmi açıklamalardan çok, iktidara yakın medya aracılığıyla aktarılıyor? BBC Azerbaycanca Servisi beş soruda derledi.",
-        "source": "BBC Turkish",
-        "published": "2026-10-30T14:02:11+00:00"
       },
       {
         "title": "İtalya'da 'hayat pahalılığı ve savaş ekonomisine karşı' grev ve gösteriler",
@@ -714,9 +784,9 @@
     "eur_usd": 0.8959
   },
   "weather": {
-    "condition": "Orta kuvvette veya şiddetli sağanak yağmur",
-    "temp": "+66°F",
-    "wind": "←6mph",
-    "humidity": "78%"
+    "condition": "Güneşli",
+    "temp": "+58°F",
+    "wind": "↘6mph",
+    "humidity": "52%"
   }
 }
