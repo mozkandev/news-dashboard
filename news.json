@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-03T19:07:47.406987+00:00",
+  "updated_at": "2026-11-04T00:05:31.426304+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "watchOS 27.3 beta, Siri Recap'i getirdi",
+        "link": "https://shiftdelete.net/watchos-27-3-beta-siri-recap-live-rewind",
+        "description": "Apple, watchOS 27.3 beta sürümünü geliştiricilere sundu. Güncelleme, Apple Watch Series 12 ve Ultra 4 için Siri Recap ile Live Rewind özelliklerini getiriyor.",
+        "source": "ShiftDelete",
+        "published": "2026-11-03T23:32:29+03:00"
+      },
+      {
+        "title": "Anthropic'in geliri yüzde 1.200 arttı",
+        "link": "https://shiftdelete.net/anthropic-gelir-artisi-33-milyar-dolar-zarar",
+        "description": "Anthropic gelir artışı dokuz aylık dönemde yüzde 1.200'e ulaştı ve 33,24 milyar doları buldu. Ancak aynı dönemdeki net zarar 104 milyar dolara çıktı.",
+        "source": "ShiftDelete",
+        "published": "2026-11-03T23:02:29+03:00"
+      },
+      {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T22:41:03+00:00"
+      },
+      {
+        "title": "Siri AI'a Türkçe desteği iOS 27.3 ile geliyor",
+        "link": "https://shiftdelete.net/ios-27-3-beta-1-yeni-ozellikler",
+        "description": "Apple, iOS 27.3 beta 1 sürümünü geliştiricilere sundu. Yenilenen Sağlık uygulaması, Safari'de dikey sekmeler ve Siri AI'a gelen Türkçe desteği güncellemenin başlıca yenilikleri.",
+        "source": "ShiftDelete",
+        "published": "2026-11-03T22:32:29+03:00"
+      },
+      {
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T22:19:53+00:00"
+      },
+      {
+        "title": "Tesla FSD'de hız payı yüzde 10'a düşürüldü",
+        "link": "https://shiftdelete.net/tesla-fsd-avrupa-hiz-payi-yuzde-10",
+        "description": "Tesla FSD, Avrupa'da artık hız sınırının yüzde 50 üzerine çıkacak şekilde ayarlanamıyor. Hollanda'nın RDW kurumu, hız payını yüzde 10'a indiren güncellemeyi onayladı.",
+        "source": "ShiftDelete",
+        "published": "2026-11-03T22:13:51+03:00"
+      },
       {
         "title": "Steam'de her iki oyundan biri yapay zekâ yapımı",
         "link": "https://shiftdelete.net/steam-yapay-zeka-oyunlari-orani-yuzde-50",
@@ -10,11 +52,39 @@
         "published": "2026-11-03T22:04:03+03:00"
       },
       {
+        "title": "The Internals of PostgreSQL",
+        "link": "https://www.interdb.jp/pg/index.html",
+        "description": "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 55 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-11-03T21:51:06+00:00"
+      },
+      {
         "title": "Binance soygunu sahte iş görüşmesiyle başlamış",
         "link": "https://shiftdelete.net/binance-hack-sahte-is-gorusmesi-6-milyar-dolar",
         "description": "Binance, 6,34 milyar dolarlık saldırının sahte bir iş görüşmesi ve şirket içi bir yapay zekâ aracı üzerinden yapıldığını açıkladı. FBI saldırıyı Kuzey Kore'ye bağladı.",
         "source": "ShiftDelete",
         "published": "2026-11-03T21:43:51+03:00"
+      },
+      {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T21:43:08+00:00"
+      },
+      {
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "link": "https://arxiv.org/abs/2605.29713",
+        "description": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 148 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-11-03T21:40:53+00:00"
+      },
+      {
+        "title": "Safari introduces Adaptive Dark Mode in 27.3",
+        "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+        "description": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 203 # Comments: 133",
+        "source": "HackerNews",
+        "published": "2026-11-03T21:39:05+00:00"
       },
       {
         "title": "Apple katlanabilir pazarın %30'unu alabilir",
@@ -38,6 +108,27 @@
         "published": "2026-11-03T21:29:07+03:00"
       },
       {
+        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+        "description": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 123 # Comments: 47",
+        "source": "HackerNews",
+        "published": "2026-11-03T21:26:44+00:00"
+      },
+      {
+        "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+        "link": "https://github.com/finic-ai/kairos",
+        "description": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled...",
+        "source": "HackerNews",
+        "published": "2026-11-03T21:16:48+00:00"
+      },
+      {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T21:05:55+00:00"
+      },
+      {
         "title": "iOS 27.2 ile gelen iki yeni özellik öne çıktı",
         "link": "https://shiftdelete.net/ios-27-2-podcasts-paylasilan-albumler-yenilikleri",
         "description": "iOS 27.2 güncellemesi iPhone'lara geldi. Apple Podcasts'te sıra düzeni baştan kuruldu, Fotoğraflar'daki Paylaşılan Albümler ise yeni araçlarla güçlendi.",
@@ -45,32 +136,60 @@
         "published": "2026-11-03T21:05:31+03:00"
       },
       {
-        "title": "Yapay zekâyı kapatan okula Google Arama yok",
-        "link": "https://shiftdelete.net/google-arama-okullarda-yapay-zeka-kapatiliyor",
-        "description": "Google, yapay zeka özelliklerini reddeden okullarda Google Arama hizmetini tamamen kapatacak. Yöneticiler Gemini'yi kapatırsa öğrenciler aramayı da kullanamayacak.",
-        "source": "ShiftDelete",
-        "published": "2026-11-03T21:04:03+03:00"
+        "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+        "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+        "description": "An in-space construction first could be an enabler for the space data centers of the future.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T20:57:17+00:00"
       },
       {
-        "title": "App Store'da flört uygulamalarına 18 yaş sınırı",
-        "link": "https://shiftdelete.net/app-store-18-yas-siniri-flort-uygulamalari",
-        "description": "Apple, App Store 18+ yaş sınırı kuralıyla flört uygulamalarını ve romantik ya da cinsel içerik sunan yapay zekâ arkadaşlarını 18 yaş ve üzerine sınırlıyor. Yeni kurallar 16 Kasım'da başlıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-03T20:35:31+03:00"
+        "title": "Pratt parsing is a black box",
+        "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+        "description": "Article URL: https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/ Comments URL: https://news.ycombinator.com/item?id=50357457 Points: 28 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-11-03T20:07:41+00:00"
       },
       {
-        "title": "Windows 11, 8 GB RAM'li PC'lerde %40 hızlandı",
-        "link": "https://shiftdelete.net/windows-11-8-gb-ram-hizlandi",
-        "description": "Microsoft'un yeni güncellemesi, Windows 11 8 GB RAM'li bilgisayarlarda bellek kullanımını azaltıyor. Şirkete göre çoklu görev laboratuvar testinde yüzde 40'a kadar hızlandı.",
-        "source": "ShiftDelete",
-        "published": "2026-11-03T20:34:03+03:00"
+        "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+        "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+        "description": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T19:45:48+00:00"
       },
       {
-        "title": "HTTPS ve SSL Sertifikası Nedir, Nasıl Alınır?",
-        "link": "https://shiftdelete.net/ssl-sertifikasi-nedir-nasil-alinir",
-        "description": "HTTPS nedir, HTTP'den farkı ne ve SSL sertifikası nasıl alınır? Chrome'un yeni HTTP uyarısı ve kısalan sertifika süreleriyle birlikte tüm cevapları güncel bilgilerle topladık.",
-        "source": "ShiftDelete",
-        "published": "2026-11-03T20:21:00+03:00"
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "description": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T19:34:43+00:00"
+      },
+      {
+        "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+        "link": "https://flipper.net/pages/flipper-one",
+        "description": "https://docs.flipper.net/one Comments URL: https://news.ycombinator.com/item?id=50356994 Points: 159 # Comments: 74",
+        "source": "HackerNews",
+        "published": "2026-11-03T19:32:13+00:00"
+      },
+      {
+        "title": "macOS 27 does not support CoreStorage volumes",
+        "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+        "description": "Article URL: https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/ Comments URL: https://news.ycombinator.com/item?id=50356944 Points: 84 # Comments: 44",
+        "source": "HackerNews",
+        "published": "2026-11-03T19:27:53+00:00"
+      },
+      {
+        "title": "Introduction to Programming in ATS",
+        "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+        "description": "Article URL: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html Comments URL: https://news.ycombinator.com/item?id=50356913 Points: 45 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-11-03T19:25:18+00:00"
+      },
+      {
+        "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+        "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+        "description": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+        "source": "TechCrunch",
+        "published": "2026-11-03T19:24:37+00:00"
       },
       {
         "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
@@ -87,16 +206,16 @@
         "published": "2026-11-03T18:51:33+00:00"
       },
       {
-        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-        "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-        "description": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T18:42:16+00:00"
+        "title": "Please stop asking me when the AI bubble will pop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+        "description": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I...",
+        "source": "The Verge",
+        "published": "2026-11-03T18:37:45-05:00"
       },
       {
-        "title": "I use AI (Oct 2026)",
+        "title": "How I use AI (Oct 2026)",
         "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-        "description": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 6 # Comments: 2",
+        "description": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 65 # Comments: 60",
         "source": "HackerNews",
         "published": "2026-11-03T18:11:11+00:00"
       },
@@ -108,32 +227,32 @@
         "published": "2026-11-03T18:10:09+03:00"
       },
       {
-        "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-        "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-        "description": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T17:56:52+00:00"
+        "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+        "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+        "description": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a...",
+        "source": "The Verge",
+        "published": "2026-11-03T18:02:47-05:00"
       },
       {
-        "title": "How to write comparison content that doesn't age like milk",
-        "link": "https://posthog.com/blog/comparison-content-guide",
-        "description": "Article URL: https://posthog.com/blog/comparison-content-guide Comments URL: https://news.ycombinator.com/item?id=50355365 Points: 8 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-11-03T17:46:58+00:00"
+        "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+        "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+        "description": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in...",
+        "source": "The Verge",
+        "published": "2026-11-03T18:01:18-05:00"
       },
       {
-        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-        "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-        "description": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 152 # Comments: 35",
-        "source": "HackerNews",
-        "published": "2026-11-03T17:40:00+00:00"
+        "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+        "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+        "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised...",
+        "source": "The Verge",
+        "published": "2026-11-03T17:59:36-05:00"
       },
       {
-        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-        "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-        "description": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 422 # Comments: 131",
-        "source": "HackerNews",
-        "published": "2026-11-03T17:22:37+00:00"
+        "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+        "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+        "description": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical...",
+        "source": "The Verge",
+        "published": "2026-11-03T17:28:02-05:00"
       },
       {
         "title": "Meta, Yeni Bir İnsansı Robot Üzerinde Çalışıyor: Evinizdeki Yeni Hizmetçi mi, Milyar Dolarlık Bir Tuzak mı?",
@@ -143,6 +262,13 @@
         "published": "2026-11-03T17:21:29+03:00"
       },
       {
+        "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+        "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+        "description": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly...",
+        "source": "The Verge",
+        "published": "2026-11-03T17:20:50-05:00"
+      },
+      {
         "title": "Galatasaray Stuttgart Maçı Canlı İzle | Tabii Yayın",
         "link": "\n                    https://www.webtekno.com/galatasaray-stuttgart-maci-canli-izle-h228226.html\n                    ",
         "description": "Galatasaray Stuttgart maçı canlı izlemek için Tabii yayın bilgilerini derledik. Fiyat, paket, üyelik bilgilerini de açıkladık.",
@@ -150,18 +276,11 @@
         "published": "2026-11-03T17:20:27+03:00"
       },
       {
-        "title": "Anthropic is still grappling with the economics of compute",
-        "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-        "description": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T17:07:01+00:00"
-      },
-      {
-        "title": "Ashby (YC W19) Is Hiring EMs",
-        "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-        "description": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn Comments URL: https://news.ycombinator.com/item?id=50354582 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-11-03T17:00:53+00:00"
+        "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+        "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+        "description": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of...",
+        "source": "The Verge",
+        "published": "2026-11-03T17:18:16-05:00"
       },
       {
         "title": "Şehir Trafiğinde Yeni Dönem: BMW Seviye 2 Yarı Otonom Sürüşü Sokaklara İndiriyor!",
@@ -185,46 +304,11 @@
         "published": "2026-11-03T16:52:12+03:00"
       },
       {
-        "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-        "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-        "description": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T16:49:09+00:00"
-      },
-      {
-        "title": "Stringman, an $800 open-source room scale gripper robot",
-        "link": "https://neufangled.com/",
-        "description": "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 45 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-11-03T16:47:29+00:00"
-      },
-      {
-        "title": "Gitbook Breached",
-        "link": "https://news.ycombinator.com/item?id=50354336",
-        "description": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste....",
-        "source": "HackerNews",
-        "published": "2026-11-03T16:45:49+00:00"
-      },
-      {
-        "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-        "link": "https://arxiv.org/abs/2611.02618",
-        "description": "Article URL: https://arxiv.org/abs/2611.02618 Comments URL: https://news.ycombinator.com/item?id=50354250 Points: 24 # Comments: 2",
-        "source": "HackerNews",
-        "published": "2026-11-03T16:40:02+00:00"
-      },
-      {
-        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-        "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-        "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T16:30:34+00:00"
-      },
-      {
-        "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-        "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-        "description": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T16:04:55+00:00"
+        "title": "Those Jeff Bezos hair transplant photos are very fake",
+        "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+        "description": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads,...",
+        "source": "The Verge",
+        "published": "2026-11-03T16:09:00-05:00"
       },
       {
         "title": "Hepsi 500 TL Altı! Amazon'da Bu Haftanın En Avantajlı Ürünleri",
@@ -234,25 +318,18 @@
         "published": "2026-11-03T15:59:31+03:00"
       },
       {
-        "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
-        "link": "https://hissingkitty.com/hacker-churn",
-        "description": "Article URL: https://hissingkitty.com/hacker-churn Comments URL: https://news.ycombinator.com/item?id=50353386 Points: 47 # Comments: 20",
-        "source": "HackerNews",
-        "published": "2026-11-03T15:41:52+00:00"
+        "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
+        "link": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
+        "description": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on...",
+        "source": "The Verge",
+        "published": "2026-11-03T15:29:26-05:00"
       },
       {
-        "title": "Bear turns 10, and it still feels like day one",
-        "link": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
-        "description": "Article URL: https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/ Comments URL: https://news.ycombinator.com/item?id=50353383 Points: 72 # Comments: 45",
-        "source": "HackerNews",
-        "published": "2026-11-03T15:41:46+00:00"
-      },
-      {
-        "title": "Apple restricts dating apps and AI companions to users 18 and up",
-        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-        "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T15:38:27+00:00"
+        "title": "Apple starts giving Siri AI access to third-party apps",
+        "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+        "description": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a...",
+        "source": "The Verge",
+        "published": "2026-11-03T15:19:55-05:00"
       },
       {
         "title": "Kasım 2026 Citroen Fiyat Listesi",
@@ -274,113 +351,99 @@
         "description": "Geride bıraktığımız Ekim ayında Türkiye'de en çok satılan sıfır elektrikli otomobiller belli oldu.",
         "source": "Webtekno",
         "published": "2026-11-03T14:37:46+03:00"
-      },
-      {
-        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-        "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-        "description": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-        "source": "TechCrunch",
-        "published": "2026-11-03T14:30:00+00:00"
-      },
-      {
-        "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-        "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-        "description": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate...",
-        "source": "The Verge",
-        "published": "2026-11-03T13:52:30-05:00"
-      },
-      {
-        "title": "OpenAI says ChatGPT is catching up to Google in search",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-        "description": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer...",
-        "source": "The Verge",
-        "published": "2026-11-03T13:38:47-05:00"
-      },
-      {
-        "title": "Reddit is adding more ads",
-        "link": "https://www.theverge.com/tech/1025602/reddit-search-ads-test",
-        "description": "Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results \"based on a range of factors, including contextual relevance to a search query,\" according to Reddit. That means searching...",
-        "source": "The Verge",
-        "published": "2026-11-03T13:26:36-05:00"
-      },
-      {
-        "title": "Indie games are missing launch dates because Steam is backed up",
-        "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-        "description": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio...",
-        "source": "The Verge",
-        "published": "2026-11-03T13:17:21-05:00"
-      },
-      {
-        "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
-        "link": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale",
-        "description": "If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That’s the best price we’ve seen for the Gemini-powered speaker, which launched in June and...",
-        "source": "The Verge",
-        "published": "2026-11-03T13:11:49-05:00"
-      },
-      {
-        "title": "Google is entirely disabling Search in schools that don’t want AI",
-        "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-        "description": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini...",
-        "source": "The Verge",
-        "published": "2026-11-03T12:56:53-05:00"
-      },
-      {
-        "title": "The Xbox Nano has a hidden cloud secret",
-        "link": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
-        "description": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet,...",
-        "source": "The Verge",
-        "published": "2026-11-03T12:30:50-05:00"
-      },
-      {
-        "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-        "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-        "description": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something...",
-        "source": "The Verge",
-        "published": "2026-11-03T12:28:14-05:00"
-      },
-      {
-        "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
-        "link": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
-        "description": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles...",
-        "source": "The Verge",
-        "published": "2026-11-03T12:27:52-05:00"
-      },
-      {
-        "title": "Xbox’s smallest-ever controller is surprisingly comfortable",
-        "link": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
-        "description": "Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has been designed specifically for younger people, or...",
-        "source": "The Verge",
-        "published": "2026-11-03T12:17:00-05:00"
       }
     ],
     "dunya": [
+      {
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+        "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+        "source": "BBC News",
+        "published": "2026-11-03T22:45:59+00:00"
+      },
+      {
+        "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+        "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+        "description": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear...",
+        "source": "The Guardian",
+        "published": "2026-11-03T22:08:50+00:00"
+      },
       {
         "title": "Seven flights across Europe targeted by suspected bomb threats",
         "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
         "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
         "source": "BBC News",
-        "published": "2026-11-03T17:56:03+00:00"
+        "published": "2026-11-03T20:42:47+00:00"
       },
       {
         "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
         "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
         "description": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
         "source": "BBC News",
-        "published": "2026-11-03T17:04:02+00:00"
+        "published": "2026-11-03T20:38:38+00:00"
       },
       {
-        "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-        "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+        "title": "Queues, smiles and Uncle Sam: The US midterms in pictures",
+        "link": "https://www.bbc.co.uk/news/articles/cm89zn2kxjdno?at_medium=RSS&at_campaign=rss",
+        "description": "From queues at polling stations to enthusiastic supporters, here is a look at the final days of the campaign in pictures.",
         "source": "BBC News",
-        "published": "2026-11-03T16:57:41+00:00"
+        "published": "2026-11-03T20:16:17+00:00"
       },
       {
-        "title": "Reform UK councillor charged with rape and sexual assault",
-        "link": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
-        "description": "The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.",
+        "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+        "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
+        "description": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial.",
         "source": "BBC News",
-        "published": "2026-11-03T16:43:50+00:00"
+        "published": "2026-11-03T20:05:21+00:00"
+      },
+      {
+        "title": "Election Day 2026: Photos from around the country",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
+        "description": "Voters across the country are heading to the polls today to cast their ballots in the 2026 midterm elections.",
+        "source": "NPR",
+        "published": "2026-11-03T19:00:10-05:00"
+      },
+      {
+        "title": "What Democrats plan to prioritize if they retake the House",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+        "description": "This election will determine control of Congress. Rep. Pete Aguilar, who represents California's 33rd Congressional District, shares how Democratic Party leaders are feeling as results come in.",
+        "source": "NPR",
+        "published": "2026-11-03T18:11:49-05:00"
+      },
+      {
+        "title": "Results: States decide on voter ID and redistricting ballot measures",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
+        "description": "Several states — including Alaska, Arizona, California and Nevada — are voting on changes to how their elections are run, including voter ID measures. Other states decide on redistricting proposals.",
+        "source": "NPR",
+        "published": "2026-11-03T17:53:23-05:00"
+      },
+      {
+        "title": "Legendary Photographer on getting that perfect election night picture",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6005523/legendary-photographer-on-getting-that-perfect-election-night-picture",
+        "description": "On election night, photographers will be in position, ready to snap history-making moments. It's something Pulitzer-prize-winner photographer David Hume Kennerly, has done for decades.",
+        "source": "NPR",
+        "published": "2026-11-03T17:33:33-05:00"
+      },
+      {
+        "title": "Connecticut bakers are bringing joy back to election day, one cake at a time",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6026494/election-cake-bake-off-hartford-connecticut",
+        "description": "Nicole Sousa from the Old Statehouse in Hartford, CT, discusses the history of election cakes, a sweet civic tradition dating back to 1771.",
+        "source": "NPR",
+        "published": "2026-11-03T17:28:33-05:00"
+      },
+      {
+        "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+        "description": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+        "source": "NPR",
+        "published": "2026-11-03T17:25:15-05:00"
+      },
+      {
+        "title": "Supreme Court leans toward LGBTQ exclusion for publicly funded Catholic preschools",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6026566/scotus-religious-freedom-case",
+        "description": "The Supreme Court heard arguments Tuesday about Colorado's universal pre-K program and whether religious schools can bar certain families despite the state's anti-discrimination law.",
+        "source": "NPR",
+        "published": "2026-11-03T17:14:29-05:00"
       },
       {
         "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
@@ -390,25 +453,11 @@
         "published": "2026-11-03T16:34:33+00:00"
       },
       {
-        "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-        "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-        "source": "BBC News",
-        "published": "2026-11-03T16:19:29+00:00"
-      },
-      {
-        "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
-        "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
-        "description": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
-        "source": "BBC News",
-        "published": "2026-11-03T16:13:45+00:00"
-      },
-      {
-        "title": "Third teen arrested after Halloween party stabbings",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo?at_medium=RSS&at_campaign=rss",
-        "description": "Five teenage boys, aged 16 and 17, were found with stab wounds at the party on Saturday night.",
-        "source": "BBC News",
-        "published": "2026-11-03T14:40:00+00:00"
+        "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
+        "description": "North Korean hackers pulled off the biggest cyber heist ever by duping a Binance engineer into thinking he was being recruited for a job, the crypto exchange says.",
+        "source": "NPR",
+        "published": "2026-11-03T16:30:20-05:00"
       },
       {
         "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
@@ -439,67 +488,25 @@
         "published": "2026-11-03T10:32:56+00:00"
       },
       {
-        "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-        "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-        "description": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
-        "source": "NPR",
-        "published": "2026-11-03T09:13:58-05:00"
-      },
-      {
-        "title": "Spanish footballer dies after collision with goalkeeper during match",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-        "description": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
+        "title": "The key US Senate races to watch",
+        "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+        "description": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
         "source": "BBC News",
-        "published": "2026-11-03T09:09:18+00:00"
+        "published": "2026-11-03T10:16:56+00:00"
       },
       {
-        "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-        "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-        "description": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
-        "source": "NPR",
-        "published": "2026-11-03T06:43:49-05:00"
+        "title": "When will we know the results?",
+        "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+        "description": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
+        "source": "BBC News",
+        "published": "2026-11-03T07:56:09+00:00"
       },
       {
-        "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-        "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-        "description": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
-        "source": "NPR",
-        "published": "2026-11-03T06:01:14-05:00"
-      },
-      {
-        "title": "Four types of House races to watch on election night to know how it might go",
-        "link": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
-        "description": "As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding.",
-        "source": "NPR",
-        "published": "2026-11-03T06:00:00-05:00"
-      },
-      {
-        "title": "New restrictions at Texas Tech are changing what professors can teach",
-        "link": "https://www.npr.org/2026/11/03/nx-s1-5963883/texas-tech-academic-sb17-odyssey",
-        "description": "The rules have led to changes in course materials, prompted accusations of censorship and fueled pushback from faculty and students, including faculty departures, student protests and a federal lawsuit.",
-        "source": "NPR",
-        "published": "2026-11-03T05:01:00-05:00"
-      },
-      {
-        "title": "From 'model minority' to target, anti-Indian hate on the rise",
-        "link": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
-        "description": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.",
-        "source": "NPR",
-        "published": "2026-11-03T05:00:00-05:00"
-      },
-      {
-        "title": "How NPR makes race calls in the 2026 election",
-        "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
-        "description": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
-        "source": "NPR",
-        "published": "2026-11-03T05:00:00-05:00"
-      },
-      {
-        "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
-        "link": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
-        "description": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races.",
-        "source": "NPR",
-        "published": "2026-11-03T05:00:00-05:00"
+        "title": "How to follow the US midterm elections on the BBC",
+        "link": "https://www.bbc.co.uk/news/articles/ck9dzg5eq926o?at_medium=RSS&at_campaign=rss",
+        "description": "Whether you plan to follow the US midterms on TV, radio or online, the BBC has you covered.",
+        "source": "BBC News",
+        "published": "2026-11-03T07:55:34+00:00"
       },
       {
         "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
@@ -521,13 +528,6 @@
         "description": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our...",
         "source": "The Guardian",
         "published": "2026-10-30T19:42:15+00:00"
-      },
-      {
-        "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-        "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-        "description": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right...",
-        "source": "The Guardian",
-        "published": "2026-10-30T14:08:41+00:00"
       },
       {
         "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -567,11 +567,123 @@
     ],
     "turkiye": [
       {
-        "title": "ABD'de ara seçim günü!",
-        "link": "https://www.sozcu.com.tr/abd-ara-secim-3-kasim-2026-p375730",
-        "description": "ABD'de ara seçim günü!",
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-04-kasim-2026-1749271",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-11-04T03:00:00+03:00"
+      },
+      {
+        "title": "İspanya'da 69 kişinin öldüğü tren kazasının ardından bakan istifa etti",
+        "link": "https://www.sozcu.com.tr/ispanyada-69-kisinin-oldugu-tren-kazasinin-ardindan-bakan-istifa-etti-p375789",
+        "description": "İspanya'da 69 kişinin öldüğü tren kazasının ardından bakan istifa etti",
         "source": "Sözcü",
-        "published": "2026-11-03T22:05:26+03:00"
+        "published": "2026-11-04T02:44:04+03:00"
+      },
+      {
+        "title": "ABD seçim heyecanı! İlk sandıklar kapandı, işte ilk sonuçlar",
+        "link": "https://www.sozcu.com.tr/abd-secim-heyecani-ilk-sandiklar-kapandi-p375788",
+        "description": "ABD seçim heyecanı! İlk sandıklar kapandı, işte ilk sonuçlar",
+        "source": "Sözcü",
+        "published": "2026-11-04T02:41:05+03:00"
+      },
+      {
+        "title": "İstanbul'da hava soğuyor. Valilik uyardı, bu saatlere dikkat",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-hava-soguyor-valilik-uyardi-bu-saatlere-dikkat-1749283",
+        "description": "İstanbul'da sağanak yağış aralıklarla etkili oluyor. İstanbul Valiliği de sabah saatleri için yeni bir uyarıda bulundu. Rusya'dan gelen soğuk havanın etkisiyle sıcaklıkla da sert düşecek.",
+        "source": "NTV",
+        "published": "2026-11-04T01:48:59+03:00"
+      },
+      {
+        "title": "Bakan Işıkhan: İşsizlik Sigortası Fonu'nun, tasfiye edilen fonlarla bir ilgisi bulunmamaktadır",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-isikhan-issizlik-sigortasi-fonunun-tasfiye-edilen-fonlarla-bir-ilgisi-bulunmamaktadir-1749262",
+        "description": "Çalışma Bakanı Vedat Işıkhan, İşsizlik Sigortası Fonu kaynaklarının tartışmalı fonlarda kullanılıp kullanılmadığına ilişkin \"Herhangi bir fona takılan 1 kuruşumuz dahi bulunmamaktadır.'' dedi.",
+        "source": "NTV",
+        "published": "2026-11-04T01:14:17+03:00"
+      },
+      {
+        "title": "Old Trafford'da çılgın gece! Manchester United'dan müthiş geri dönüş",
+        "link": "https://www.sozcu.com.tr/old-trafford-da-cilgin-gece-manchester-united-dan-muthis-geri-donus-p375781",
+        "description": "Old Trafford'da çılgın gece! Manchester United'dan müthiş geri dönüş",
+        "source": "Sözcü",
+        "published": "2026-11-04T01:06:40+03:00"
+      },
+      {
+        "title": "1500 tonluk köprüyü tek parça halinde taşıdılar",
+        "link": "https://www.sozcu.com.tr/1500-tonluk-kopruyu-tek-parca-halinde-tasidilar-p375780",
+        "description": "1500 tonluk köprüyü tek parça halinde taşıdılar",
+        "source": "Sözcü",
+        "published": "2026-11-04T01:01:10+03:00"
+      },
+      {
+        "title": "İstanbul'da sağanak. Valilik uyardı, bu saatlere dikkat",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-1749258",
+        "description": "Meteoroloji'nin uyarılarının ardından İstanbul'da beklenen sağanak yağış akşam saatlerinde etkili oldu. Trafik durma noktasına geldi. İstanbul Valiliği sabah saatleri için uyarıda bulundu.",
+        "source": "NTV",
+        "published": "2026-11-04T00:58:04+03:00"
+      },
+      {
+        "title": "Orta Doğu'da savaş alarmı! ABD'nin planı ortaya çıktı; Tahran 'Fettah' ile gözdağı verdi",
+        "link": "https://www.sozcu.com.tr/israil-abd-iran-gerginligi-3-kasim-2026-p375754",
+        "description": "Orta Doğu'da savaş alarmı! ABD'nin planı ortaya çıktı; Tahran 'Fettah' ile gözdağı verdi",
+        "source": "Sözcü",
+        "published": "2026-11-04T00:52:49+03:00"
+      },
+      {
+        "title": "Arda Turan'a Fenerbahçe maçı öncesi kötü haber! Devler Ligi'nde üst üste ikinci mağlubiyet",
+        "link": "https://www.sozcu.com.tr/arda-turan-a-fenerbahce-maci-oncesi-kotu-haber-devler-ligi-nde-ust-uste-ikinci-maglubiyet-p375777",
+        "description": "Arda Turan'a Fenerbahçe maçı öncesi kötü haber! Devler Ligi'nde üst üste ikinci mağlubiyet",
+        "source": "Sözcü",
+        "published": "2026-11-04T00:44:49+03:00"
+      },
+      {
+        "title": "Uğurcan Çakır: Okan hoca bu maça bizi çok iyi hazırladı",
+        "link": "https://www.sozcu.com.tr/ugurcan-cakir-okan-hoca-bu-maca-bizi-cok-iyi-hazirladi-p375775",
+        "description": "Uğurcan Çakır: Okan hoca bu maça bizi çok iyi hazırladı",
+        "source": "Sözcü",
+        "published": "2026-11-04T00:31:01+03:00"
+      },
+      {
+        "title": "Batrakov bu sefer hak ettiği ödülü aldı! Rus yıldızdan tarihe geçecek performans",
+        "link": "https://www.sozcu.com.tr/batrakov-bu-sefer-hak-ettigi-odulu-aldi-rus-yildizdan-tarihe-gececek-performans-p375773",
+        "description": "Batrakov bu sefer hak ettiği ödülü aldı! Rus yıldızdan tarihe geçecek performans",
+        "source": "Sözcü",
+        "published": "2026-11-04T00:27:01+03:00"
+      },
+      {
+        "title": "Okan Buruk'tan şampiyonluk mesajı: Rakiplerin kaybı bizi rahatlatmaz",
+        "link": "https://www.sozcu.com.tr/okan-buruktan-sampiyonluk-mesaji-rakiplerin-kaybi-bizi-rahatlatmaz-p375770",
+        "description": "Okan Buruk'tan şampiyonluk mesajı: Rakiplerin kaybı bizi rahatlatmaz",
+        "source": "Sözcü",
+        "published": "2026-11-04T00:09:03+03:00"
+      },
+      {
+        "title": "AKP ve MHP, fon ve borsa iddialarının araştırılmasını reddetti",
+        "link": "https://www.sozcu.com.tr/akp-ve-mhp-fon-ve-borsa-iddialarinin-arastirilmasini-reddetti-p375765",
+        "description": "AKP ve MHP, fon ve borsa iddialarının araştırılmasını reddetti",
+        "source": "Sözcü",
+        "published": "2026-11-03T23:44:00+03:00"
+      },
+      {
+        "title": "Süper Loto çekiliş sonuçları belli oldu: 3 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1749267",
+        "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
+        "source": "NTV",
+        "published": "2026-11-03T23:11:48+03:00"
+      },
+      {
+        "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
+        "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+        "description": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandık başında. Sonuçlar, Başkan Donald Trump'ın görev süresinin kalan iki yılında politikalarını ne ölçüde hayata geçirebileceğini de etkileyecek.",
+        "source": "BBC Turkish",
+        "published": "2026-11-03T22:45:47+00:00"
+      },
+      {
+        "title": "İspanya Ulaştırma Bakanı, 69 kişinin öldüğü tren kazasının ardından istifa etti",
+        "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+        "description": "İspanya Ulaştırma Bakanı Oscar Puente, en az 69 kişinin hayatını kaybettiği hızlı tren kazasından yaklaşık bir hafta sonra istifasını açıkladı.",
+        "source": "BBC Turkish",
+        "published": "2026-11-03T22:08:36+00:00"
       },
       {
         "title": "İlanda 111 lira yazıp 6 bin istedi, 1 milyon lira ceza yedi",
@@ -581,81 +693,18 @@
         "published": "2026-11-03T22:03:53+03:00"
       },
       {
-        "title": "Emre Belözoğlu PFDK'ya sevk edildi",
-        "link": "https://www.sozcu.com.tr/emre-belozoglu-pfdk-ya-sevk-edildi-p375742",
-        "description": "Emre Belözoğlu PFDK'ya sevk edildi",
-        "source": "Sözcü",
-        "published": "2026-11-03T21:57:54+03:00"
+        "title": "Emre Belözoğlu: Fenerbahçe'nin ikinci kez teknik direktörlük görevine getirdiği eski kaptanı",
+        "link": "https://www.bbc.com/turkce/articles/cmy93wr2w2p0o?at_medium=RSS&at_campaign=rss",
+        "description": "Emre Belözoğlu, daha önce 2020-2021 sezonunun son 10 haftasında Fenerbahçe'nin başında teknik direktör olarak görev almıştı. Belözoğlu'nun Pazar günü oynanacak Çorumspor maçında takımın başında yer alması bekleniyor.",
+        "source": "BBC Turkish",
+        "published": "2026-11-03T20:45:40+00:00"
       },
       {
-        "title": "Kilosu 224 bin liraya satılıyor: Toprağın altında yetişen serveti bulmak artık daha zor",
-        "link": "https://www.sozcu.com.tr/kilosu-224-bin-liraya-satiliyor-topragin-altinda-yetisen-serveti-bulmak-artik-daha-zor-p375739",
-        "description": "Kilosu 224 bin liraya satılıyor: Toprağın altında yetişen serveti bulmak artık daha zor",
-        "source": "Sözcü",
-        "published": "2026-11-03T21:43:35+03:00"
-      },
-      {
-        "title": "Galatasaray-Stuttgart maçında Deniz Undav'a sert tepki!",
-        "link": "https://www.sozcu.com.tr/galatasaray-stuttgart-macinda-deniz-undav-a-sert-tepki-p375738",
-        "description": "Galatasaray-Stuttgart maçında Deniz Undav'a sert tepki!",
-        "source": "Sözcü",
-        "published": "2026-11-03T21:42:46+03:00"
-      },
-      {
-        "title": "Selahattin Demirtaş'tan uzun süre sonra süreç açıklaması geldi",
-        "link": "https://www.sozcu.com.tr/selahattin-demirtastan-uzun-sure-sonra-surec-aciklamasi-p375737",
-        "description": "Selahattin Demirtaş'tan uzun süre sonra süreç açıklaması geldi",
-        "source": "Sözcü",
-        "published": "2026-11-03T21:36:46+03:00"
-      },
-      {
-        "title": "Bakan Işıkhan: İşsizlik Sigortası Fonu'nun, tasfiye edilen fonlarla bir ilgisi bulunmamaktadır",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-isikhan-issizlik-sigortasi-fonunun-tasfiye-edilen-fonlarla-bir-ilgisi-bulunmamaktadir-1749262",
-        "description": "Çalışma Bakanı Vedat Işıkhan, İşsizlik Sigortası Fonu kaynaklarının tartışmalı fonlarda kullanılıp kullanılmadığına ilişkin \"Herhangi bir fona takılan 1 kuruşumuz dahi bulunmamaktadır.'' dedi.",
-        "source": "NTV",
-        "published": "2026-11-03T21:09:30+03:00"
-      },
-      {
-        "title": "AKP'li tayyar fon krizinin bilançosunu açıkladı: Vatandaşın kaybı 2 trilyon lirayı aştı",
-        "link": "https://www.sozcu.com.tr/samil-tayyar-fon-paylasimi-3-kasim-2026-p375726",
-        "description": "AKP'li tayyar fon krizinin bilançosunu açıkladı: Vatandaşın kaybı 2 trilyon lirayı aştı",
-        "source": "Sözcü",
-        "published": "2026-11-03T20:24:58+03:00"
-      },
-      {
-        "title": "Kadroya alınmayan Arda Güler'den şok açıklama! 'Sakatlığım yok, hocamızın kararı'",
-        "link": "https://www.sozcu.com.tr/kadroya-alinmayan-arda-guler-den-sok-aciklama-sakatligim-yok-hocamizin-karari-p375722",
-        "description": "Kadroya alınmayan Arda Güler'den şok açıklama! 'Sakatlığım yok, hocamızın kararı'",
-        "source": "Sözcü",
-        "published": "2026-11-03T20:04:34+03:00"
-      },
-      {
-        "title": "Bir saatlik yolculuk kabusa dönüştü: 3 ay sonra 5 bin 400 kilometre uzakta bulundular",
-        "link": "https://www.sozcu.com.tr/bir-saatlik-yolculuk-kabusa-donustu-3-ay-sonra-5-bin-400-kilometre-uzakta-bulundular-p375718",
-        "description": "Bir saatlik yolculuk kabusa dönüştü: 3 ay sonra 5 bin 400 kilometre uzakta bulundular",
-        "source": "Sözcü",
-        "published": "2026-11-03T19:49:03+03:00"
-      },
-      {
-        "title": "Fenerbahçe'de istifa depremi! Tüm yöneticiler aynı anda imza attı",
-        "link": "https://www.sozcu.com.tr/fenerbahce-de-istifa-depremi-tum-yoneticiler-ayni-anda-imza-atti-p375716",
-        "description": "Fenerbahçe'de istifa depremi! Tüm yöneticiler aynı anda imza attı",
-        "source": "Sözcü",
-        "published": "2026-11-03T19:42:24+03:00"
-      },
-      {
-        "title": "Türkiye'de 89 mağazası bulunan teknoloji devi Çinlilere satılıyor!",
-        "link": "https://www.sozcu.com.tr/mediamarkt-satiliyor-p375717",
-        "description": "Türkiye'de 89 mağazası bulunan teknoloji devi Çinlilere satılıyor!",
-        "source": "Sözcü",
-        "published": "2026-11-03T19:38:09+03:00"
-      },
-      {
-        "title": "İstanbul'da sağanak etkili oluyor. Valilik uyardı, bu saatlere dikkat",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-1749258",
-        "description": "Meteoroloji'nin uyarılarının ardından İstanbul'da beklenen sağanak yağış akşam saatlerinde etkili oldu. Trafik durma noktasına geldi. İstanbul Valiliği sabah saatleri için uyarıda bulundu.",
-        "source": "NTV",
-        "published": "2026-11-03T19:16:19+03:00"
+        "title": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart'ı 2-0 yendi",
+        "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
+        "description": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Aleksey Batrakov'un attığı iki golle Almanya temsilcisi Stuttgart'ı 2-0 yendi",
+        "source": "BBC Turkish",
+        "published": "2026-11-03T19:47:49+00:00"
       },
       {
         "title": "Okul bahçesindeki ağacı yakıp poz verdiler. İki öğrenci gözaltında",
@@ -663,13 +712,6 @@
         "description": "İzmir'de bir grup öğrenci okul bahçesindeki palmiye ağacını yakarak önünde poz verdi. Olayla ilgili 2 öğrenci gözaltına alındı.",
         "source": "NTV",
         "published": "2026-11-03T18:54:41+03:00"
-      },
-      {
-        "title": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart karşısında 2-0 önde",
-        "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-        "description": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Almanya temsilcisi Stuttgart'ı konuk ediyor. Sarı kırmızılı takım ilk yarıyı 2-0 önde kapattı",
-        "source": "BBC Turkish",
-        "published": "2026-11-03T18:42:00+00:00"
       },
       {
         "title": "İstanbul'da trafik kilit. Yoğunluk yüzde 89'a çıktı",
@@ -707,27 +749,6 @@
         "published": "2026-11-03T16:54:51+00:00"
       },
       {
-        "title": "İBB yöneticisi Erhan Karaal'ı evinin önünden kaçırmışlardı. İstenen cezalar belli oldu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-ibb-yoneticisi-erhan-karaali-evinin-onunden-kacirmislardi-istenen-cezalar-belli-oldu-1749245",
-        "description": "İstanbul Büyükşehir Belediyesi (İBB) Kültür AŞ Genel Müdür Yardımcısı Erhan Karaal'ın kaçırılmasına ilişkin soruşturma tamamlandı. 24 sanığa 4 ayrı suçtan toplam 37 yıla kadar hapis cezası istendi.",
-        "source": "NTV",
-        "published": "2026-11-03T16:24:53+03:00"
-      },
-      {
-        "title": "Muğla’da fırtına sonrası denizde hortum oluştu",
-        "link": "https://www.ntv.com.tr/turkiye/video-muglada-firtina-sonrasi-denizde-hortum-olustu-1749246",
-        "description": "Muğla'nın Milas ilçesinde etkili olan sağanak ve fırtınanın ardından denizde oluşan hortum, cep telefonu kameralarıyla kaydedildi.",
-        "source": "NTV",
-        "published": "2026-11-03T16:20:11+03:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan: 24 yıl önce bugün bir Anadolu ihtilaline imza attık",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-24-yil-once-bugun-bir-anadolu-ihtilaline-imza-attik-1749237",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan \"3 Kasım 2002 seçimleriyle büyük ve güçlü Türkiye'nin kapılarını araladık.\" dedi.",
-        "source": "NTV",
-        "published": "2026-11-03T15:15:24+03:00"
-      },
-      {
         "title": "Memur ve memur emeklilerine 2027'de yüzde 5 ve yüzde 4 toplu sözleşme zammı",
         "link": "https://www.bbc.com/turkce/articles/cwzd6m2y21r8o?at_medium=RSS&at_campaign=rss",
         "description": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, 2027 yılında memur ve memur emeklileri için yüzde beş ve yüzde dört oranında artış yapılacağını söyledi.",
@@ -735,32 +756,11 @@
         "published": "2026-11-03T13:13:03+00:00"
       },
       {
-        "title": "Büyü, fal, ruhlar ve casuslar: İran siyasetinin doğaüstü dünyası",
-        "link": "https://www.bbc.com/turkce/articles/cwly0xr8dmz0o?at_medium=RSS&at_campaign=rss",
-        "description": "Ali Hamaney’in falla ilgilenmesinden ilgilenmesinden, Ahmedinejad yönetiminin \"cin çıkaranlar ve falcılarla\" bağlantılı olduğu yönündeki suçlamalara ve İsrail’in büyü ve sihir kullandığına dair iddialara kadar doğaüstü inanışlar İran'da iktidarın en...",
-        "source": "BBC Turkish",
-        "published": "2026-11-03T12:08:24+00:00"
-      },
-      {
         "title": "Özel Kılıçdaroğlu'nu neden eleştirdi, Emir Sarıgül'ün iddialarına ne yanıt verdi?",
         "link": "https://www.bbc.com/turkce/articles/cqglwjdx3043o?at_medium=RSS&at_campaign=rss",
         "description": "Yeni Parti Genel Başkanı Özgür Özel, CHP Genel Başkanı Kemal Kılıçdaroğlu'nu anayasa değişikliği ve dokunulmazlıkların kaldırılmaları konusunda eleştirdi: \"Nasıl Selahattin Başkanın [Demirtaş] anayasa değişikliğiyle içeriye girmesine sebep olduysa,...",
         "source": "BBC Turkish",
         "published": "2026-11-03T11:59:35+00:00"
-      },
-      {
-        "title": "İspanyol futbolcu Jesus De Miguel sahadaki çarpışma sonucu hayatını kaybetti",
-        "link": "https://www.bbc.com/turkce/articles/cx5yn0j3e2yyo?at_medium=RSS&at_campaign=rss",
-        "description": "Tenerife'nin 30 yaşındaki forvet oyuncusu Jesus de Miguel, İspanya ikinci ligi maçındaki çarpışmada aldığı ağır sakatlığın ardından hayatını kaybetti.",
-        "source": "BBC Turkish",
-        "published": "2026-11-03T11:26:34+00:00"
-      },
-      {
-        "title": "ABD ara seçimleri Ankara-Washington ilişkilerini nasıl etkileyebilir?",
-        "link": "https://www.bbc.com/turkce/articles/ckqxn781l88po?at_medium=RSS&at_campaign=rss",
-        "description": "Bugünkü ara seçimler, ABD'nin iç politikasının yanı sıra dış politikasında da önemli değişimlere yol açabilir. Cumhuriyetçilerin, Senato ve Temsilciler Meclisi'nde çoğunluğu kaybetmesi, Türkiye'nin savunma sanayi yaptırımlarının kaldırılması ve F-35...",
-        "source": "BBC Turkish",
-        "published": "2026-11-03T11:15:12+00:00"
       },
       {
         "title": "Ekim ayı enflasyonu TÜİK'e göre yüzde 29,77; ENAG'a göre 45,12",
@@ -784,9 +784,9 @@
     "eur_usd": 0.8933
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+53°F",
-    "wind": "↓5mph",
-    "humidity": "50%"
+    "condition": "Açık",
+    "temp": "+43°F",
+    "wind": "↘10mph",
+    "humidity": "65%"
   }
 }
