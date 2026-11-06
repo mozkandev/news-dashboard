@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-05T23:18:36.460133+00:00",
+  "updated_at": "2026-11-06T03:31:20.432992+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "ABD seçimi teknoloji hisselerini çökertti",
+        "link": "https://shiftdelete.net/abd-secimi-teknoloji-piyasa-degeri-kaybi",
+        "description": "ABD seçimi, yapay zeka ve veri merkezi karşıtı adayları öne çıkarınca Nasdaq tek günde yaklaşık 2,5 trilyon dolar kaybetti. Nvidia, AMD ve Micron sert düştü.",
+        "source": "ShiftDelete",
+        "published": "2026-11-06T06:20:00+03:00"
+      },
+      {
+        "title": "One UI 9 SIM kart ve Wi-Fi sorunu yaygınlaşıyor",
+        "link": "https://shiftdelete.net/one-ui-9-sim-kart-sorunu-wifi-kopuyor",
+        "description": "One UI 9 SIM kart sorunu, güncellemeyi alan bazı Galaxy kullanıcılarının işini zorlaştırıyor. Wi-Fi ve hücresel veri kopuyor, fiziksel SIM kart algılanmıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-11-06T06:00:00+03:00"
+      },
+      {
+        "title": "AMD Umbra kuantum hata düzeltmeyi hızlandıracak",
+        "link": "https://shiftdelete.net/amd-umbra-ibm-kuantum-hata-duzeltme",
+        "description": "AMD'nin MI355X GPU'ları, IBM'in kuantum işlemcisiyle birlikte çalışacak. Yeni platform, 2028'e kadar hata düzeltmede büyük bir ilerleme sağlayabilir.",
+        "source": "ShiftDelete",
+        "published": "2026-11-06T02:41:37+03:00"
+      },
+      {
+        "title": "NVIDIA Cosmos 3 otonom testleri değiştiriyor",
+        "link": "https://shiftdelete.net/nvidia-cosmos-3-nano-otonom",
+        "description": "NVIDIA'nın 5 Kasım'da tanıttığı 4 açık ağırlıklı model, otonom sürüş ve robot testleri için veri üretiyor. Bu araçlar geliştirme sürecini nasıl değiştirecek?",
+        "source": "ShiftDelete",
+        "published": "2026-11-06T02:17:53+03:00"
+      },
       {
         "title": "NVIDIA Kyber rafı 500 evlik elektrik çekecek",
         "link": "https://shiftdelete.net/nvidia-kyber-raf-600-kw-elektrik",
@@ -15,6 +43,13 @@
         "description": "Kale Jet Motorları'nın ürettiği KTJ turbojet motorları 1000 adetlik üretim seviyesine ulaştı. Yerli üretim sayesinde en az 200 milyon dolarlık kaynak ülkede kaldı.",
         "source": "ShiftDelete",
         "published": "2026-11-06T01:10:00+03:00"
+      },
+      {
+        "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+        "link": "https://github.com/matthewmrichter/mooftcp",
+        "description": "Article URL: https://github.com/matthewmrichter/mooftcp Comments URL: https://news.ycombinator.com/item?id=50386789 Points: 15 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-11-06T00:54:15+00:00"
       },
       {
         "title": "Galaxy Tab S10'a One UI 9.0 güncellemesi geldi",
@@ -38,6 +73,27 @@
         "published": "2026-11-06T00:10:00+03:00"
       },
       {
+        "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+        "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+        "description": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+        "source": "TechCrunch",
+        "published": "2026-11-06T00:07:18+00:00"
+      },
+      {
+        "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+        "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+        "description": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+        "source": "TechCrunch",
+        "published": "2026-11-06T00:01:38+00:00"
+      },
+      {
+        "title": "Inkling 2 Small",
+        "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+        "description": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/ Comments URL: https://news.ycombinator.com/item?id=50386338 Points: 92 # Comments: 41",
+        "source": "HackerNews",
+        "published": "2026-11-06T00:00:24+00:00"
+      },
+      {
         "title": "TSMC 1 nm fabrikası Tainan'da kurulabilir",
         "link": "https://shiftdelete.net/tsmc-1-nm-fabrikasi-tainan-shalun-parki",
         "description": "Tayvan Ulusal Bilim Konseyi Başkanı Cheng-Wen Wu, TSMC'nin 1 nm fabrikasının Tainan'da kurulacağına işaret etti. Tesisin Shalun Parkı'nda yer alabileceği belirtiliyor.",
@@ -45,32 +101,18 @@
         "published": "2026-11-05T23:55:00+03:00"
       },
       {
-        "title": "GeForce 8800 GTX 20 yaşında: Steam'e demo geldi",
-        "link": "https://shiftdelete.net/geforce-8800-gtx-20-yasinda",
-        "description": "NVIDIA, 2006'da 599 dolara çıkan ve CUDA'yı başlatan GeForce 8800 GTX için Steam'de ücretsiz demo yayınladı. Peki bu kart yapay zekâ çağını nasıl başlattı?",
-        "source": "ShiftDelete",
-        "published": "2026-11-05T23:50:17+03:00"
+        "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+        "link": "https://www.fgc.org.br/comunicado",
+        "description": "Article URL: https://www.fgc.org.br/comunicado Comments URL: https://news.ycombinator.com/item?id=50386104 Points: 26 # Comments: 5",
+        "source": "HackerNews",
+        "published": "2026-11-05T23:32:36+00:00"
       },
       {
-        "title": "Discord Electron'u bırakıp Rust'a geçiyor",
-        "link": "https://shiftdelete.net/discord-rust-electron-phoenix-290-mb-ram",
-        "description": "Discord Rust diliyle yazılan yeni masaüstü uygulamasına geçiyor. Phoenix adlı erken Windows sürümü 290 MB RAM kullanırken Electron dönemi kapanıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-05T23:40:00+03:00"
-      },
-      {
-        "title": "OPPO 12.000 mAh bataryalı telefon hazırlıyor",
-        "link": "https://shiftdelete.net/oppo-12000-mah-bataryali-telefon-geliyor",
-        "description": "OPPO'nun PNC110 model numaralı yeni telefonu 11.640 mAh nominal batarya kapasitesiyle sertifika aldı. Cihazın 12.000 mAh ile tanıtılması bekleniyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-05T23:10:00+03:00"
-      },
-      {
-        "title": "Huawei Nova 17 Pro'nun özellikleri sızdı",
-        "link": "https://shiftdelete.net/huawei-nova-17-pro-ozellikleri-sizdi",
-        "description": "Huawei Nova 17 Pro, sızıntılara göre 6,84 inç 1,5K OLED ekranı, 200 MP ana kamerası ve 50 MP telefoto lensiyle geliyor. Seri ay sonuna kadar Çin'de tanıtılabilir.",
-        "source": "ShiftDelete",
-        "published": "2026-11-05T22:55:00+03:00"
+        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+        "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+        "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 156 # Comments: 66",
+        "source": "HackerNews",
+        "published": "2026-11-05T23:09:57+00:00"
       },
       {
         "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -82,16 +124,9 @@
       {
         "title": "Claude Code sends your email address to websites",
         "link": "https://github.com/anthropics/claude-code/issues/107757",
-        "description": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 110 # Comments: 23",
+        "description": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 637 # Comments: 219",
         "source": "HackerNews",
         "published": "2026-11-05T22:17:15+00:00"
-      },
-      {
-        "title": "$2.5T has been wiped from US stocks",
-        "link": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
-        "description": "Article URL: https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks Comments URL: https://news.ycombinator.com/item?id=50384822 Points: 82 # Comments: 60",
-        "source": "HackerNews",
-        "published": "2026-11-05T21:39:26+00:00"
       },
       {
         "title": "Serve Robotics launches new business to become the AWS for robots",
@@ -103,35 +138,28 @@
       {
         "title": "MS Paint Remote Code Execution Vulnerability",
         "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-        "description": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 188 # Comments: 49",
+        "description": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 358 # Comments: 135",
         "source": "HackerNews",
         "published": "2026-11-05T20:43:42+00:00"
       },
       {
         "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
         "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-        "description": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/ Comments URL: https://news.ycombinator.com/item?id=50383963 Points: 56 # Comments: 1",
+        "description": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/ Comments URL: https://news.ycombinator.com/item?id=50383963 Points: 94 # Comments: 4",
         "source": "HackerNews",
         "published": "2026-11-05T20:21:43+00:00"
       },
       {
-        "title": "The Cost of Blogging",
-        "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-        "description": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/ Comments URL: https://news.ycombinator.com/item?id=50383877 Points: 31 # Comments: 25",
-        "source": "HackerNews",
-        "published": "2026-11-05T20:14:25+00:00"
-      },
-      {
-        "title": "Kagi Search for Everyone",
-        "link": "https://kagi.com/changelog",
-        "description": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 333 # Comments: 169",
+        "title": "Search for everyone",
+        "link": "https://kagi.com/changelog#11820",
+        "description": "Article URL: https://kagi.com/changelog#11820 Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 580 # Comments: 281",
         "source": "HackerNews",
         "published": "2026-11-05T20:03:34+00:00"
       },
       {
         "title": "Goodbye from Salon",
         "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-        "description": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 300 # Comments: 105",
+        "description": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 477 # Comments: 173",
         "source": "HackerNews",
         "published": "2026-11-05T20:03:29+00:00"
       },
@@ -145,16 +173,9 @@
       {
         "title": "Introducing Pangram Image 1.0",
         "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-        "description": "Article URL: https://www.pangram.com/blog/introducing-pangram-image-1-0 Comments URL: https://news.ycombinator.com/item?id=50383294 Points: 30 # Comments: 2",
+        "description": "Article URL: https://www.pangram.com/blog/introducing-pangram-image-1-0 Comments URL: https://news.ycombinator.com/item?id=50383294 Points: 72 # Comments: 29",
         "source": "HackerNews",
         "published": "2026-11-05T19:27:52+00:00"
-      },
-      {
-        "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-        "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-        "description": "Article URL: https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed Comments URL: https://news.ycombinator.com/item?id=50383163 Points: 104 # Comments: 22",
-        "source": "HackerNews",
-        "published": "2026-11-05T19:16:34+00:00"
       },
       {
         "title": "Meta warns that election backlash against data centers could make AI expansion harder",
@@ -164,11 +185,11 @@
         "published": "2026-11-05T19:12:39+00:00"
       },
       {
-        "title": "The Hackintosh Reborn",
-        "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-        "description": "Article URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50383057 Points: 149 # Comments: 57",
-        "source": "HackerNews",
-        "published": "2026-11-05T19:08:22+00:00"
+        "title": "Airbnb is working on an AI travel agent",
+        "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+        "description": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a...",
+        "source": "The Verge",
+        "published": "2026-11-05T19:06:12-05:00"
       },
       {
         "title": "OpenAI released a new cybersecurity model. Is that enough?",
@@ -185,6 +206,20 @@
         "published": "2026-11-05T18:48:34+00:00"
       },
       {
+        "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+        "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+        "description": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently...",
+        "source": "The Verge",
+        "published": "2026-11-05T18:45:10-05:00"
+      },
+      {
+        "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+        "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+        "description": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super...",
+        "source": "The Verge",
+        "published": "2026-11-05T18:17:10-05:00"
+      },
+      {
         "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
         "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
         "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
@@ -197,20 +232,6 @@
         "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
         "source": "TechCrunch",
         "published": "2026-11-05T18:00:00+00:00"
-      },
-      {
-        "title": "Claude can now analyze your spending with its new Personal Finance tool",
-        "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-        "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-        "source": "TechCrunch",
-        "published": "2026-11-05T18:00:00+00:00"
-      },
-      {
-        "title": "Harbinger raises $240M after expanding into defense",
-        "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-        "description": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-        "source": "TechCrunch",
-        "published": "2026-11-05T17:52:44+00:00"
       },
       {
         "title": "Muse has a voice mode now",
@@ -330,36 +351,64 @@
         "description": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the...",
         "source": "The Verge",
         "published": "2026-11-05T14:27:06-05:00"
-      },
-      {
-        "title": "‘Total repudiation’: The blue wave is about to hit AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-        "description": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native...",
-        "source": "The Verge",
-        "published": "2026-11-05T12:51:52-05:00"
-      },
-      {
-        "title": "Claude AI can plug directly into your bank account",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-        "description": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my...",
-        "source": "The Verge",
-        "published": "2026-11-05T12:49:25-05:00"
-      },
-      {
-        "title": "Ember’s smallest self-heating mug is on sale for just $33",
-        "link": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
-        "description": "We’ve been fans of Ember’s temperature-controlled mugs for years, though given the price tag, we admit that they’re somewhat of a luxury purchase. Thankfully, if you’ve been looking for a more affordable option, Woot is selling the Ember Cup in...",
-        "source": "The Verge",
-        "published": "2026-11-05T12:34:23-05:00"
       }
     ],
     "dunya": [
       {
-        "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
-        "link": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss",
-        "description": "The car was torched after officers answered reports of an injured man in the Provanmill area of Glasgow.",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
         "source": "BBC News",
-        "published": "2026-11-05T23:15:08+00:00"
+        "published": "2026-11-06T03:17:39+00:00"
+      },
+      {
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "source": "BBC News",
+        "published": "2026-11-06T02:57:24+00:00"
+      },
+      {
+        "title": "Russell Brand found guilty of rape and sexual assault",
+        "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+        "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
+        "source": "BBC News",
+        "published": "2026-11-06T02:21:20+00:00"
+      },
+      {
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+        "source": "BBC News",
+        "published": "2026-11-06T02:08:57+00:00"
+      },
+      {
+        "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+        "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+        "description": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden...",
+        "source": "The Guardian",
+        "published": "2026-11-06T01:22:49+00:00"
+      },
+      {
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+        "source": "BBC News",
+        "published": "2026-11-06T01:13:53+00:00"
+      },
+      {
+        "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
+        "link": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
+        "description": "The income went to the former prince rather than his landlord the Crown Estate.",
+        "source": "BBC News",
+        "published": "2026-11-06T00:39:18+00:00"
+      },
+      {
+        "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+        "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+        "description": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
+        "source": "BBC News",
+        "published": "2026-11-06T00:09:56+00:00"
       },
       {
         "title": "California governor commutes sentences for state's 548 death row inmates",
@@ -369,11 +418,11 @@
         "published": "2026-11-05T23:09:33+00:00"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+        "title": "Firms told to publish salaries in job adverts ahead of new law",
+        "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
         "source": "BBC News",
-        "published": "2026-11-05T22:13:38+00:00"
+        "published": "2026-11-05T22:32:02+00:00"
       },
       {
         "title": "King relishes 'politically charged' deployments, Palace aide says",
@@ -383,18 +432,25 @@
         "published": "2026-11-05T22:04:44+00:00"
       },
       {
-        "title": "UK doctor infected with Ebola being treated at London hospital",
-        "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
-        "description": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
-        "source": "BBC News",
-        "published": "2026-11-05T21:26:09+00:00"
+        "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+        "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+        "description": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
+        "source": "NPR",
+        "published": "2026-11-05T19:16:53-05:00"
       },
       {
-        "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
-        "description": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
-        "source": "BBC News",
-        "published": "2026-11-05T18:53:47+00:00"
+        "title": "These are the races in the House and Senate that haven't been called yet",
+        "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+        "description": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP.",
+        "source": "NPR",
+        "published": "2026-11-05T19:03:45-05:00"
+      },
+      {
+        "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+        "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+        "description": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+        "source": "NPR",
+        "published": "2026-11-05T18:52:48-05:00"
       },
       {
         "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
@@ -404,32 +460,11 @@
         "published": "2026-11-05T18:48:07+00:00"
       },
       {
-        "title": "Russell Brand found guilty of rape and sexual assault",
-        "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
-        "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-        "source": "BBC News",
-        "published": "2026-11-05T18:28:35+00:00"
-      },
-      {
-        "title": "Messages reveal how hoax threat was passed on by air traffic control",
-        "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-        "source": "BBC News",
-        "published": "2026-11-05T18:22:46+00:00"
-      },
-      {
-        "title": "Interest rates hiked to 4% in first increase in over three years",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-        "description": "Most analysts expected the increase from 3.75% to 4%.",
-        "source": "BBC News",
-        "published": "2026-11-05T17:09:55+00:00"
-      },
-      {
-        "title": "Watch: Met Police release Brand interview footage",
-        "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
-        "description": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
-        "source": "BBC News",
-        "published": "2026-11-05T16:01:56+00:00"
+        "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+        "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+        "description": "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
+        "source": "NPR",
+        "published": "2026-11-05T18:34:36-05:00"
       },
       {
         "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
@@ -481,34 +516,6 @@
         "published": "2026-11-05T07:24:14-05:00"
       },
       {
-        "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-        "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-        "description": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
-        "source": "NPR",
-        "published": "2026-11-05T07:02:24-05:00"
-      },
-      {
-        "title": "After sweeping midterm wins, here's what Democrats hope to get done in the majority",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year",
-        "description": "Democrats ran on lowering costs and stamping out corruption. Now that they've won, party leaders will have to unite a sometimes fractious caucus to fulfill those pledges.",
-        "source": "NPR",
-        "published": "2026-11-05T06:45:35-05:00"
-      },
-      {
-        "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
-        "description": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.",
-        "source": "NPR",
-        "published": "2026-11-05T06:45:30-05:00"
-      },
-      {
-        "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
-        "description": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.",
-        "source": "NPR",
-        "published": "2026-11-05T05:02:00-05:00"
-      },
-      {
         "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
         "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
         "description": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that...",
@@ -535,13 +542,6 @@
         "description": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear...",
         "source": "The Guardian",
         "published": "2026-11-03T22:08:50+00:00"
-      },
-      {
-        "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-        "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-        "description": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic...",
-        "source": "The Guardian",
-        "published": "2026-11-03T13:00:07+00:00"
       },
       {
         "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -571,7 +571,84 @@
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-kasim-2026-1749577",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-11-06T02:00:00+03:00"
+        "published": "2026-11-06T06:30:00+03:00"
+      },
+      {
+        "title": "38 yıldır ilk defa: Sonar anketinde çarpıcı sonuç",
+        "link": "https://www.sozcu.com.tr/sonar-anketinde-akp-ile-yeni-parti-arasinda-15-puan-fark-p376500",
+        "description": "38 yıldır ilk defa: Sonar anketinde çarpıcı sonuç",
+        "source": "Sözcü",
+        "published": "2026-11-06T06:19:07+03:00"
+      },
+      {
+        "title": "Avrupa Birliği’nin dayattığı yeni şartlar böyle dedirtti: Pes be annem!",
+        "link": "https://www.sozcu.com.tr/avrupa-birligi-nin-dayattigi-yeni-sartlar-boyle-dedirtti-pes-be-annem-p376498",
+        "description": "Avrupa Birliği’nin dayattığı yeni şartlar böyle dedirtti: Pes be annem!",
+        "source": "Sözcü",
+        "published": "2026-11-06T05:30:22+03:00"
+      },
+      {
+        "title": "Okumayı sökemeyen 1. sınıflara din eğitimi",
+        "link": "https://www.sozcu.com.tr/okumayi-sokemeyen-1-siniflara-din-egitimiturkiye-deki-5-bin-131-imam-hatip-ortaokulu-ve-lisesinde-1-p376496",
+        "description": "Okumayı sökemeyen 1. sınıflara din eğitimi",
+        "source": "Sözcü",
+        "published": "2026-11-06T05:30:22+03:00"
+      },
+      {
+        "title": "'Haksızlığın böylesine insan aklını yitirir'",
+        "link": "https://www.sozcu.com.tr/haksizligin-boylesine-insan-aklini-yitirir-p376489",
+        "description": "'Haksızlığın böylesine insan aklını yitirir'",
+        "source": "Sözcü",
+        "published": "2026-11-06T05:30:22+03:00"
+      },
+      {
+        "title": "SÖZCÜ manşeti Meclis gündeminde",
+        "link": "https://www.sozcu.com.tr/sozcu-manseti-meclis-gundeminde-p376490",
+        "description": "SÖZCÜ manşeti Meclis gündeminde",
+        "source": "Sözcü",
+        "published": "2026-11-06T05:20:22+03:00"
+      },
+      {
+        "title": "Limondan pancara üzümden zeytine üretici kan ağlıyor",
+        "link": "https://www.sozcu.com.tr/limondan-pancara-uzumden-zeytine-uretici-kan-agliyor-p376492",
+        "description": "Limondan pancara üzümden zeytine üretici kan ağlıyor",
+        "source": "Sözcü",
+        "published": "2026-11-06T05:10:22+03:00"
+      },
+      {
+        "title": "Parayla mutluluk oluyor, işte resmi: 100 binlik maaş halayı",
+        "link": "https://www.sozcu.com.tr/parayla-mutluluk-oluyor-iste-resmi-100-binlik-maas-halayi-p376497",
+        "description": "Parayla mutluluk oluyor, işte resmi: 100 binlik maaş halayı",
+        "source": "Sözcü",
+        "published": "2026-11-06T05:00:21+03:00"
+      },
+      {
+        "title": "Erdoğan, uçakta konuştu: Hiç ummadığınız isimler bu işlerin içerisine girmiş!",
+        "link": "https://www.sozcu.com.tr/erdogan-ucakta-konustu-hic-ummadiginiz-isimler-bu-islerin-icerisine-girmis-p376495",
+        "description": "Erdoğan, uçakta konuştu: Hiç ummadığınız isimler bu işlerin içerisine girmiş!",
+        "source": "Sözcü",
+        "published": "2026-11-06T04:56:05+03:00"
+      },
+      {
+        "title": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
+        "link": "https://www.ntv.com.tr/turkiye/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti-1749569",
+        "description": "Eski Bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmada, Adli Tıp Kurumu incelemesinde ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği bildirildi.",
+        "source": "NTV",
+        "published": "2026-11-06T04:48:24+03:00"
+      },
+      {
+        "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 06 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-06-kasim-2026-1749584",
+        "description": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 06 Kasım 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu...",
+        "source": "NTV",
+        "published": "2026-11-06T04:40:00+03:00"
+      },
+      {
+        "title": "Benzinin litresine 6 lira indirim",
+        "link": "https://www.sozcu.com.tr/benzinin-litresine-6-lira-indirim-p376493",
+        "description": "Benzinin litresine 6 lira indirim",
+        "source": "Sözcü",
+        "published": "2026-11-06T02:17:51+03:00"
       },
       {
         "title": "Vincenzo Italiano mağlubiyeti değerlendirdi! 'Çok sinirliyim'",
@@ -581,13 +658,6 @@
         "published": "2026-11-06T01:31:47+03:00"
       },
       {
-        "title": "Beşiktaş'ta düşündüren görüntü! Son 5 maçta dikkat çeken istatistik",
-        "link": "https://www.sozcu.com.tr/besiktas-ta-dusunduren-goruntu-son-5-macta-dikkat-ceken-istatistik-p376488",
-        "description": "Beşiktaş'ta düşündüren görüntü! Son 5 maçta dikkat çeken istatistik",
-        "source": "Sözcü",
-        "published": "2026-11-06T01:23:48+03:00"
-      },
-      {
         "title": "Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
         "description": "Afyonkarahisar'da 8 kişiyi öldüren, 1 kişiyi de ağır yaralayan şahıs, Eskişehir'de yakalandı. Şüpheli Afyonkarahisar'a götürüldü.",
@@ -595,39 +665,11 @@
         "published": "2026-11-06T01:23:32+03:00"
       },
       {
-        "title": "BDDK'dan flaş karar: Bir bankanın faaliyet izni kaldırıldı",
-        "link": "https://www.sozcu.com.tr/bddk-dan-flas-karar-bir-bankanin-faaliyet-izni-kaldirildi-p376478",
-        "description": "BDDK'dan flaş karar: Bir bankanın faaliyet izni kaldırıldı",
-        "source": "Sözcü",
-        "published": "2026-11-06T00:59:22+03:00"
-      },
-      {
-        "title": "Thomas Reis: Çok basit top kayıpları yaptık",
-        "link": "https://www.sozcu.com.tr/thomas-reis-cok-basit-top-kayiplari-yaptik-p376476",
-        "description": "Thomas Reis: Çok basit top kayıpları yaptık",
-        "source": "Sözcü",
-        "published": "2026-11-06T00:58:49+03:00"
-      },
-      {
-        "title": "Fatma Betül Sayan Kaya'nın tutuklama talebinin ardından Akın Gürlek'ten dikkat çeken paylaşım",
-        "link": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-nin-tutuklama-talebinin-ardindan-akin-gurlek-ten-dikkat-ceken-paylasim-p376474",
-        "description": "Fatma Betül Sayan Kaya'nın tutuklama talebinin ardından Akın Gürlek'ten dikkat çeken paylaşım",
-        "source": "Sözcü",
-        "published": "2026-11-06T00:44:57+03:00"
-      },
-      {
-        "title": "Mekke Anlaşması mecliste kabul edildi",
-        "link": "https://www.sozcu.com.tr/mekke-antlasmasi-mecliste-kabul-edildi-p376471",
-        "description": "Mekke Anlaşması mecliste kabul edildi",
-        "source": "Sözcü",
-        "published": "2026-11-06T00:25:14+03:00"
-      },
-      {
-        "title": "Mehmet Şimşek’ten fon listesi çıkışı",
-        "link": "https://www.sozcu.com.tr/mehmet-simsek-ten-fon-listesi-cikisi-p376473",
-        "description": "Mehmet Şimşek’ten fon listesi çıkışı",
-        "source": "Sözcü",
-        "published": "2026-11-06T00:21:19+03:00"
+        "title": "Yeni Parti ilk kurultayına hazırlanıyor: Özel'den kapsamlı kadro revizyonu",
+        "link": "https://www.bbc.com/turkce/articles/c6d7q9128xqvo?at_medium=RSS&at_campaign=rss",
+        "description": "Yeni Parti Genel Başkan Özgür Özel, partisinin 14-15 Kasım'da yapılacak ilk olağan kurultayına hazırlanıyor. Özel, kuruluş sürecinde oluşturulan geçici yönetim yapısını geride bırakarak partiyi iktidar hedefine taşıyacak daha geniş ve işlevsel bir...",
+        "source": "BBC Turkish",
+        "published": "2026-11-06T00:15:24+00:00"
       },
       {
         "title": "Mekke Anlaşması TBMM'de kabul edildi",
@@ -637,32 +679,11 @@
         "published": "2026-11-06T00:07:17+03:00"
       },
       {
-        "title": "Tutuklama talebi sonrası Fatma Betül Sayan Kaya gözyaşlarını tutamadı",
-        "link": "https://www.sozcu.com.tr/tutuklama-talebi-sonrasi-fatma-betul-sayan-kaya-gozyaslarini-tutamadi-p376470",
-        "description": "Tutuklama talebi sonrası Fatma Betül Sayan Kaya gözyaşlarını tutamadı",
-        "source": "Sözcü",
-        "published": "2026-11-05T23:59:22+03:00"
-      },
-      {
-        "title": "Dizlerinden zehirli sıvı çıkarıyor: 60 yıl sonra yeniden ortaya çıktı",
-        "link": "https://www.sozcu.com.tr/dizlerinden-zehirli-sivi-cikariyor-60-yil-sonra-yeniden-ortaya-cikti-p376461",
-        "description": "Dizlerinden zehirli sıvı çıkarıyor: 60 yıl sonra yeniden ortaya çıktı",
-        "source": "Sözcü",
-        "published": "2026-11-05T23:23:58+03:00"
-      },
-      {
         "title": "Fatma Betül Sayan Kaya tutuklandı",
         "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
         "description": "Savcılığın, \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklama talep ettiği eski AKP'li bakan Fatma Betül Sayan Kaya, çıkarıldığı nöbetçi mahkemece tutuklandı.",
         "source": "BBC Turkish",
-        "published": "2026-11-05T23:15:54+00:00"
-      },
-      {
-        "title": "Fenerbahçe Tarfin, Baskonia'ya fark attı",
-        "link": "https://www.sozcu.com.tr/fenerbahce-tarfin-baskonia-ya-fark-atti-p376458",
-        "description": "Fenerbahçe Tarfin, Baskonia'ya fark attı",
-        "source": "Sözcü",
-        "published": "2026-11-05T23:08:52+03:00"
+        "published": "2026-11-05T23:23:19+00:00"
       },
       {
         "title": "Süper Loto çekiliş sonuçları belli oldu: 5 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
@@ -691,13 +712,6 @@
         "description": "Türkiye, Suudi Arabistan ve Pakistan'ı askeri bir ittifakta bir araya getiren Mekke Ortak Savunma Anlaşması TBMM'de onaylandı. Böylece üç ülke de anlaşmanın yürürlüğe girmesi için gerekli iç onay süreçlerini tamamlamış oldu. Mekke İttifakı'nı ve...",
         "source": "BBC Turkish",
         "published": "2026-11-05T21:18:32+00:00"
-      },
-      {
-        "title": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
-        "link": "https://www.ntv.com.tr/turkiye/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti-1749569",
-        "description": "Eski Bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmada, Adli Tıp Kurumu incelemesinde ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği bildirildi.",
-        "source": "NTV",
-        "published": "2026-11-05T20:08:28+03:00"
       },
       {
         "title": "Afyon'da 8 kişiyi öldüren saldırgan yakalandı",
@@ -735,13 +749,6 @@
         "published": "2026-11-05T16:35:00+03:00"
       },
       {
-        "title": "Mevsimin ilk kar tatili haberi: Okullar yarım gün tatil edildi",
-        "link": "https://www.ntv.com.tr/turkiye/mevsimin-ilk-kar-tatili-haberi-okullar-yarim-gun-tatil-edildi-1749545",
-        "description": "Giresun'un yüksek kesimlerinde etkili olan kar yağışı nedeniyle Görele ilçesinde eğitime bugün yarım gün ara verildi.",
-        "source": "NTV",
-        "published": "2026-11-05T15:13:05+03:00"
-      },
-      {
         "title": "Cristiano Ronaldo milli takım kariyerini noktaladı",
         "link": "https://www.bbc.com/turkce/articles/c69qzr8gn0wro?at_medium=RSS&at_campaign=rss",
         "description": "Portekiz futbolunun efsane ismi Cristiano Ronaldo, milli takım kariyerini noktaladığını açıkladı.",
@@ -763,13 +770,6 @@
         "published": "2026-11-05T13:53:16+00:00"
       },
       {
-        "title": "'Suç yapısı tespit edilen' fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
-        "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
-        "description": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
-        "source": "BBC Turkish",
-        "published": "2026-11-05T13:14:04+00:00"
-      },
-      {
         "title": "Erdoğan'dan fon açıklaması: 'Hiç ummadığınız insanlar bu işlerin içerisine girmişler'",
         "link": "https://www.bbc.com/turkce/articles/cr15j811q309o?at_medium=RSS&at_campaign=rss",
         "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, yüzbinlerce yatırımcıyı etkileyen ve hacmi yüzmilyarlarca lirayı aşan fon krizine \"ummadığı kişilerin\" dahil olduğunu öğrendiklerini söyledi, \"yargının gerekeni yaptığını\" belirtti.",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 50.0322,
-    "eur_try": 56.2245,
-    "eur_usd": 0.8899
+    "usd_try": 50.0762,
+    "eur_try": 56.2509,
+    "eur_usd": 0.8905
   },
   "weather": {
-    "condition": "Sisli",
-    "temp": "+63°F",
-    "wind": "↑4mph",
-    "humidity": "98%"
+    "condition": "Kapalı",
+    "temp": "+48°F",
+    "wind": "↓10mph",
+    "humidity": "74%"
   }
 }
