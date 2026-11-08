@@ -1,32 +1,116 @@
 {
-  "updated_at": "2026-11-08T00:50:04.070381+00:00",
+  "updated_at": "2026-11-08T06:56:26.137930+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "NVIDIA özel HBM için Samsung ve TSMC bir arada",
+        "link": "https://shiftdelete.net/nvidia-ozel-hbm-samsung-tsmc-3nm-base-die",
+        "description": "NVIDIA özel HBM çözümü NVHBM için Samsung ve TSMC, base die üretiminde 3nm düğümünde birlikte çalışıyor. Micron ve SK hynix de aynı sürece dahil edildi.",
+        "source": "ShiftDelete",
+        "published": "2026-11-08T09:42:00+03:00"
+      },
+      {
+        "title": "Assassin's Creed için iki yeni oyun iddiası",
+        "link": "https://shiftdelete.net/assassins-creed-antik-roma-kudus-yeni-oyun-iddiasi",
+        "description": "Assassin's Creed serisine Antik Roma'da geçen Mars ve Kudüs'te geçen Pocket adlı iki yeni oyun eklendiği iddia ediliyor. Ubisoft'tan resmî açıklama yok.",
+        "source": "ShiftDelete",
+        "published": "2026-11-08T09:15:00+03:00"
+      },
+      {
+        "title": "One UI 9.5 küçük bir güncelleme olabilir",
+        "link": "https://shiftdelete.net/one-ui-9-5-kucuk-guncelleme-one-ui-10",
+        "description": "Ice Universe, One UI 9.5 değişikliklerinin çok sınırlı kalacağını söyledi. Samsung'un asıl hedefi, tarihinin en büyük güncellemesi olması beklenen One UI 10.",
+        "source": "ShiftDelete",
+        "published": "2026-11-08T08:48:00+03:00"
+      },
+      {
+        "title": "Audi'nin Çin modellerinde neden halka yok?",
+        "link": "https://shiftdelete.net/audi-cin-logosu-dort-halka-yerine-audi-yazisi",
+        "description": "Audi Çin logosu kararıyla dikkat çekiyor: SAIC ile kurulan yeni marka, dört halka yerine büyük harflerle yazılan AUDI adını taşıyor. Peki neden?",
+        "source": "ShiftDelete",
+        "published": "2026-11-08T08:21:00+03:00"
+      },
+      {
+        "title": "Shawn Layden: PS6 çok daha güçlü olmamalı",
+        "link": "https://shiftdelete.net/shawn-layden-ps6-guc-degil-fiyat-onemli",
+        "description": "Eski PlayStation başkanı Shawn Layden PS6 için ilginç bir görüş paylaştı. Layden'a göre yeni konsolun asıl yeniliği daha fazla güç değil, daha uygun fiyat olmalı.",
+        "source": "ShiftDelete",
+        "published": "2026-11-08T07:54:00+03:00"
+      },
+      {
+        "title": "Red Magic 12 Pro söküldü: AquaCore 3.0 şaşırttı",
+        "link": "https://shiftdelete.net/red-magic-12-pro-sokum-aquacore-3-0",
+        "description": "JerryRigEverything, Red Magic 12 Pro söküm videosuyla telefonun çift devreli sıvı soğutma sistemini gösterdi. Cihaz 8400 mAh batarya ve Snapdragon 8 Elite Extreme Gen 6 ile geliyor.",
+        "source": "ShiftDelete",
+        "published": "2026-11-08T07:27:00+03:00"
+      },
+      {
+        "title": "Huawei Enjoy 100 serisi 4 günde 215 bin sattı",
+        "link": "https://shiftdelete.net/huawei-enjoy-100-serisi-satis-rakamlari",
+        "description": "Huawei Enjoy 100 serisi, satışa çıktığı ilk günlerde yaklaşık 215 bin adede ulaştı. Satışların yüzde 60'ı 8800 mAh bataryalı Pro Max modelinden geldi.",
+        "source": "ShiftDelete",
+        "published": "2026-11-08T07:00:00+03:00"
+      },
+      {
+        "title": "Kirlian Photography: Building Your Own Equipment",
+        "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+        "description": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 15 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-11-08T04:14:12+00:00"
+      },
+      {
+        "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+        "link": "https://github.com/dmunozv04/isponsorblocktv",
+        "description": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 5 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-11-08T03:47:19+00:00"
+      },
+      {
+        "title": "Goodbye Claude, Hello Pi",
+        "link": "https://caleb.software/posts/claude-to-pi.html",
+        "description": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 124 # Comments: 73",
+        "source": "HackerNews",
+        "published": "2026-11-08T03:11:48+00:00"
+      },
+      {
+        "title": "Consumer brain wave headsets threaten privacy",
+        "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+        "description": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 19 #...",
+        "source": "HackerNews",
+        "published": "2026-11-08T02:02:38+00:00"
+      },
+      {
+        "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+        "link": "https://github.com/crmne/zapfast",
+        "description": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 48 # Comments: 22",
+        "source": "HackerNews",
+        "published": "2026-11-08T02:02:27+00:00"
+      },
+      {
         "title": "Commodore PET – The Worlds First Personal Computer",
         "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-        "description": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 3 # Comments: 0",
+        "description": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 44 # Comments: 15",
         "source": "HackerNews",
         "published": "2026-11-07T23:15:34+00:00"
       },
       {
         "title": "GitHub New pull request overview page in public preview",
         "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-        "description": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 32 # Comments: 22",
+        "description": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 112 # Comments: 80",
         "source": "HackerNews",
         "published": "2026-11-07T23:09:40+00:00"
       },
       {
         "title": "IRA Velinsky – Commodore's Industrial Designer",
         "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-        "description": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 7 # Comments: 0",
+        "description": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 28 # Comments: 1",
         "source": "HackerNews",
         "published": "2026-11-07T22:45:39+00:00"
       },
       {
         "title": "Making any integer with four 2s (2025)",
         "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-        "description": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 41 # Comments: 8",
+        "description": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 106 # Comments: 26",
         "source": "HackerNews",
         "published": "2026-11-07T22:38:58+00:00"
       },
@@ -52,39 +136,11 @@
         "published": "2026-11-07T22:02:00+03:00"
       },
       {
-        "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-        "link": "https://eyesrhythm.com/",
-        "description": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets...",
-        "source": "HackerNews",
-        "published": "2026-11-07T21:47:47+00:00"
-      },
-      {
         "title": "Snapchat'te 18 yaş altına Find Friends kapanıyor",
         "link": "https://shiftdelete.net/snapchat-find-friends-18-yas-alti-ingiltere",
         "description": "Snapchat Find Friends özelliği, İngiltere'de 18 yaşından küçük kullanıcılar için varsayılan olarak kapalı gelecek. Düzenleyici kurum Ofcom, değişikliğin bu ay tamamlanmasını bekliyor.",
         "source": "ShiftDelete",
         "published": "2026-11-07T21:47:37+03:00"
-      },
-      {
-        "title": "DJI Matrice 5T LiDAR ve 176x zoom ile geldi",
-        "link": "https://shiftdelete.net/dji-matrice-5t-lidar-176x-zoom-tanitildi",
-        "description": "DJI Matrice 5T, LiDAR, milimetre dalga radarı ve termal kamerayı kompakt gövdede birleştiriyor. 176x hibrit zoom ve 59 dakikalık uçuş süresi sunan drone satışa çıktı.",
-        "source": "ShiftDelete",
-        "published": "2026-11-07T21:32:37+03:00"
-      },
-      {
-        "title": "Ekran Görüntüsü Alma: PC ve Telefon Kısayolları",
-        "link": "https://shiftdelete.net/bilgisayarda-ekran-goruntusu-alma-kisayolu",
-        "description": "Windows 11, macOS Tahoe 26, iOS 26 ve Android için 12 kısayolu, kayıt yerlerini, uzun ekran görüntüsünü ve siyah ekran nedenlerini tek rehberde topladık.",
-        "source": "ShiftDelete",
-        "published": "2026-11-07T21:21:36+03:00"
-      },
-      {
-        "title": "iPhone Air 2 için eksikler listesi uzun",
-        "link": "https://shiftdelete.net/iphone-air-2-eksikleri-apple-neleri-duzeltmeli",
-        "description": "Gelecek bahara beklenen ikinci nesil model, ilk iPhone Air'in sorunlarını çözmek zorunda. iPhone Air 2 eksikleri arasında hoparlör, USB hızı, şarj ve kamera öne çıkıyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-07T21:17:37+03:00"
       },
       {
         "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -94,53 +150,11 @@
         "published": "2026-11-07T21:17:08+00:00"
       },
       {
-        "title": "MeccanicOS",
-        "link": "https://meccanicos.com/",
-        "description": "Article URL: https://meccanicos.com/ Comments URL: https://news.ycombinator.com/item?id=50408129 Points: 14 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-11-07T21:13:44+00:00"
-      },
-      {
-        "title": "Shadow of the Sun (2021)",
-        "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-        "description": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 18 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-11-07T21:11:05+00:00"
-      },
-      {
-        "title": "Binance CFO'su Kaiser Ng şirketten ayrılıyor",
-        "link": "https://shiftdelete.net/binance-cfosu-kaiser-ng-ayriliyor",
-        "description": "Binance CFO'su Kaiser Ng, beş yılı aşkın süredir çalıştığı kripto para borsasından ayrılıyor. Karar, 6,3 milyar dolarlık saldırının üzerinden bir haftadan biraz fazla süre geçtikten sonra geldi.",
-        "source": "ShiftDelete",
-        "published": "2026-11-07T21:02:37+03:00"
-      },
-      {
         "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
         "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "description": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 131 # Comments: 96",
+        "description": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 316 # Comments: 216",
         "source": "HackerNews",
         "published": "2026-11-07T20:45:32+00:00"
-      },
-      {
-        "title": "Dokunmatik ekranlı MacBook Pro kutudan çıktı",
-        "link": "https://shiftdelete.net/dokunmatik-ekranli-macbook-pro-kutu-acilisi",
-        "description": "Apple'ın ilk dokunmatik ekranlı MacBook Pro'sunu SDNTV'de kutusundan çıkardık. 234.990 TL'lik M5 Pro'lu 16 inç modelin ekranını, donanımını ve macOS'taki dokunmatik deneyimini değerlendirdik.",
-        "source": "ShiftDelete",
-        "published": "2026-11-07T20:25:56+03:00"
-      },
-      {
-        "title": "Opel Fiyat Listesi Kasım 2026",
-        "link": "https://shiftdelete.net/opel-fiyat-listesi",
-        "description": "Resmi 7 Kasım PDF'ye göre en ucuz Opel Corsa kampanyalı 1.335.000 TL, liste 1.535.000 TL. Grandland Elektrik 4.220.000 TL. Hangi model kaç para?",
-        "source": "ShiftDelete",
-        "published": "2026-11-07T20:22:52+03:00"
-      },
-      {
-        "title": "Solar Roof davasında Tesla aleyhine karar",
-        "link": "https://shiftdelete.net/tesla-solar-roof-davasi-dolandiricilik-karari",
-        "description": "Tesla Solar Roof davasında California'daki hakim, delilleri defalarca vermeyen Tesla'yı dolandırıcılıktan sorumlu tuttu. Ev sahibi onarımın 2,5 milyon dolardan fazlaya mal olacağını söylüyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-07T19:22:27+03:00"
       },
       {
         "title": "Parents want safer phones for kids. These companies are answering the call.",
@@ -148,20 +162,6 @@
         "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
         "source": "TechCrunch",
         "published": "2026-11-07T19:00:00+00:00"
-      },
-      {
-        "title": "What I run on my $10 USD OpenStick homelab",
-        "link": "https://blog.bosscher.ch/posts/openstick/",
-        "description": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 307 # Comments: 76",
-        "source": "HackerNews",
-        "published": "2026-11-07T18:12:12+00:00"
-      },
-      {
-        "title": "The end of Microsoft Research's AI Frontiers group",
-        "link": "https://hunch.net/?p=13764006",
-        "description": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 344 # Comments: 200",
-        "source": "HackerNews",
-        "published": "2026-11-07T18:02:17+00:00"
       },
       {
         "title": "OMODA ve JAECOO Fiyat Listesi - Kasım 2026",
@@ -355,6 +355,41 @@
     ],
     "dunya": [
       {
+        "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+        "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
+        "description": "Police say more than 30 vehicles were involved in the incident on the M20 around 18:40 on Saturday.",
+        "source": "BBC News",
+        "published": "2026-11-08T04:09:21+00:00"
+      },
+      {
+        "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+        "description": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+        "source": "BBC News",
+        "published": "2026-11-08T03:34:22+00:00"
+      },
+      {
+        "title": "Royal Family join veterans and families at Festival of Remembrance",
+        "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+        "description": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
+        "source": "BBC News",
+        "published": "2026-11-08T01:24:58+00:00"
+      },
+      {
+        "title": "My parents chose to die together and I was left to grieve alone",
+        "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+        "description": "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child.",
+        "source": "BBC News",
+        "published": "2026-11-08T01:10:21+00:00"
+      },
+      {
+        "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities say the attacker, described as being \"fascinated by far-right ideologies\", drove into a popular city centre square and opened fire.",
+        "source": "BBC News",
+        "published": "2026-11-08T00:55:17+00:00"
+      },
+      {
         "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
         "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
         "description": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
@@ -362,18 +397,11 @@
         "published": "2026-11-08T00:49:00+00:00"
       },
       {
-        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-        "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "description": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
+        "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+        "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+        "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
         "source": "BBC News",
-        "published": "2026-11-08T00:31:53+00:00"
-      },
-      {
-        "title": "Briton among six killed in 'far-right' shooting in Krakow",
-        "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
-        "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
-        "source": "BBC News",
-        "published": "2026-11-07T23:41:00+00:00"
+        "published": "2026-11-08T00:48:59+00:00"
       },
       {
         "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
@@ -383,13 +411,6 @@
         "published": "2026-11-07T23:02:35+00:00"
       },
       {
-        "title": "What we know so far after Krakow gun attack",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-        "source": "BBC News",
-        "published": "2026-11-07T22:58:49+00:00"
-      },
-      {
         "title": "Israel's president tasks opposition leader Eisenkot with forming government",
         "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
         "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
@@ -397,25 +418,11 @@
         "published": "2026-11-07T22:19:59+00:00"
       },
       {
-        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-        "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-        "source": "BBC News",
-        "published": "2026-11-07T21:36:16+00:00"
-      },
-      {
         "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
         "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
         "description": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
         "source": "NPR",
         "published": "2026-11-07T19:19:52-05:00"
-      },
-      {
-        "title": "Gaza wedding festival sees 250 couples married at the same time",
-        "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-        "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-        "source": "BBC News",
-        "published": "2026-11-07T17:58:41+00:00"
       },
       {
         "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
@@ -432,13 +439,6 @@
         "published": "2026-11-07T17:12:07-05:00"
       },
       {
-        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-        "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-        "source": "BBC News",
-        "published": "2026-11-07T15:19:35+00:00"
-      },
-      {
         "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
         "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
         "description": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
@@ -446,7 +446,7 @@
         "published": "2026-11-07T15:18:18-05:00"
       },
       {
-        "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+        "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
         "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
         "description": "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight.",
         "source": "NPR",
@@ -567,67 +567,130 @@
     ],
     "turkiye": [
       {
+        "title": "Nihat Kahveci'den Galatasaraylı yıldıza olay eleştiri: 'Krediler bitiyor'",
+        "link": "https://www.sozcu.com.tr/nihat-kahveciden-galatasarayli-yildiza-olay-elestiri-krediler-bitiyor-p377118",
+        "description": "Nihat Kahveci'den Galatasaraylı yıldıza olay eleştiri: 'Krediler bitiyor'",
+        "source": "Sözcü",
+        "published": "2026-11-08T09:55:45+03:00"
+      },
+      {
+        "title": "Galatasaray'ın paylaşımı 'sarı torba' tartışması yarattı: Gerçek sonradan ortaya çıktı",
+        "link": "https://www.sozcu.com.tr/galatasaray-in-paylasimi-sari-torba-tartismasi-yaratti-gercek-sonradan-ortaya-cikti-p377092",
+        "description": "Galatasaray'ın paylaşımı 'sarı torba' tartışması yarattı: Gerçek sonradan ortaya çıktı",
+        "source": "Sözcü",
+        "published": "2026-11-08T09:49:55+03:00"
+      },
+      {
+        "title": "Gümrüklerde 10 ayda 54 ton uyuşturucuya el konuldu",
+        "link": "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919",
+        "description": "Ticaret Bakanlığı gümrük muhafaza ekipleri tarafından ocak-ekim döneminde düzenlenen operasyonlarda, yaklaşık 54,5 ton uyuşturucu madde ele geçirildi.",
+        "source": "NTV",
+        "published": "2026-11-08T09:40:01+03:00"
+      },
+      {
+        "title": "Almanya, Türk baronun film gibi firarını konuşuyor",
+        "link": "https://www.sozcu.com.tr/gorevlileri-kendi-kelepceleriyle-baglayip-hukumluyu-kacirdilar-p377111",
+        "description": "Almanya, Türk baronun film gibi firarını konuşuyor",
+        "source": "Sözcü",
+        "published": "2026-11-08T09:34:44+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 08 Kasım 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-08-kasim-2026-1749878",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-11-08T03:30:00+03:00"
+        "published": "2026-11-08T09:30:00+03:00"
       },
       {
-        "title": "Ankara'da gece başlayan kar sokakları beyaza bürüdü",
-        "link": "https://www.sozcu.com.tr/ankarada-gece-baslayan-kar-sokaklari-beyaza-burudu-p377054",
-        "description": "Ankara'da gece başlayan kar sokakları beyaza bürüdü",
+        "title": "Haciz korkusuyla ödediği 77 bin TL'yi geri istedi: Ivana Sert'in davasında karar çıktı",
+        "link": "https://www.sozcu.com.tr/haciz-korkusuyla-odedigi-77-bin-tl-yi-geri-istedi-ivana-sert-in-davasinda-karar-cikti-p377107",
+        "description": "Haciz korkusuyla ödediği 77 bin TL'yi geri istedi: Ivana Sert'in davasında karar çıktı",
         "source": "Sözcü",
-        "published": "2026-11-08T03:17:07+03:00"
+        "published": "2026-11-08T09:28:51+03:00"
       },
       {
-        "title": "Ankara'da kar yağışı etkili oldu",
-        "link": "https://www.ntv.com.tr/turkiye/ankarada-kar-yagisi-etkili-oldu-1749884",
-        "description": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu.",
+        "title": "Kocaeli'de akılalmaz olay: Camlarını kırdığı otomobili 1 saat sonra ateşe verdi",
+        "link": "https://www.ntv.com.tr/turkiye/video-kocaelide-akilalmaz-olay-camlarini-kirdigi-otomobili-1-saat-sonra-atese-verdi-1749915",
+        "description": "Kocaeli Derince ilçesinde park halindeki otomobilin camlarını kıran şüpheli, yaklaşık 1 saat sonra olay yerine dönerek aracı ateşe verdi.",
         "source": "NTV",
-        "published": "2026-11-08T02:23:37+03:00"
+        "published": "2026-11-08T09:28:07+03:00"
       },
       {
-        "title": "Brezilya'da yağmur altında pole pozisyonu Norris'in",
-        "link": "https://www.sozcu.com.tr/brezilyada-yagmur-altinda-pole-pozisyonu-norrisin-p377040",
-        "description": "Brezilya'da yağmur altında pole pozisyonu Norris'in",
+        "title": "Dünyanın havası en kirli şehri ilan edildi: Kentin üzerine zehirli sis çöktü",
+        "link": "https://www.sozcu.com.tr/dunyanin-havasi-en-kirli-sehri-ilan-edildi-kentin-uzerine-zehirli-sis-coktu-p377104",
+        "description": "Dünyanın havası en kirli şehri ilan edildi: Kentin üzerine zehirli sis çöktü",
         "source": "Sözcü",
-        "published": "2026-11-08T01:19:40+03:00"
+        "published": "2026-11-08T09:23:44+03:00"
       },
       {
-        "title": "Arda Güler yine şov yaptı! Son 6 maçta inanılmaz performansıyla hayran bıraktı",
-        "link": "https://www.sozcu.com.tr/arda-guler-yine-sov-yapti-son-6-macta-inanilmaz-performansiyla-hayran-birakti-p377037",
-        "description": "Arda Güler yine şov yaptı! Son 6 maçta inanılmaz performansıyla hayran bıraktı",
+        "title": "Fenerbahçe, Emre Belözoğlu ile Çorum FK deplasmanına çıkıyor",
+        "link": "https://www.sozcu.com.tr/emre-belozoglunun-fenerbahcedeki-yeni-doneminde-ilk-sinav-corum-fk-p377101",
+        "description": "Fenerbahçe, Emre Belözoğlu ile Çorum FK deplasmanına çıkıyor",
         "source": "Sözcü",
-        "published": "2026-11-08T01:14:10+03:00"
+        "published": "2026-11-08T09:23:06+03:00"
       },
       {
-        "title": "Çocukların gözde oyuncağının satışı yasaklandı: Bakanlık denetiminde ortaya çıkan tehlike",
-        "link": "https://www.sozcu.com.tr/cocuklarin-gozde-oyuncaginin-satisi-yasaklandi-bakanlik-denetiminde-ortaya-cikan-tehlike-p377031",
-        "description": "Çocukların gözde oyuncağının satışı yasaklandı: Bakanlık denetiminde ortaya çıkan tehlike",
+        "title": "Hisseli tapuda kural değişti: Milyonları ilgilendiren karar",
+        "link": "https://www.sozcu.com.tr/aym-onalimda-rayic-bedel-kuralini-iptal-etti-p377085",
+        "description": "Hisseli tapuda kural değişti: Milyonları ilgilendiren karar",
         "source": "Sözcü",
-        "published": "2026-11-08T00:47:07+03:00"
+        "published": "2026-11-08T09:14:27+03:00"
       },
       {
-        "title": "Eski bakan CHP'den istifa ettiğini duyurdu",
-        "link": "https://www.sozcu.com.tr/nihat-matkap-chpden-istifa-etti-gerekcesi-kurultay-sureci-p377030",
-        "description": "Eski bakan CHP'den istifa ettiğini duyurdu",
+        "title": "Dünyanın en büyük küresel zirvesinin ev sahibi Antalya'da taksi krizi",
+        "link": "https://www.sozcu.com.tr/dunyanin-en-buyuk-kuresel-zirvesinin-ev-sahibi-antalya-da-taksi-krizi-p377090",
+        "description": "Dünyanın en büyük küresel zirvesinin ev sahibi Antalya'da taksi krizi",
         "source": "Sözcü",
-        "published": "2026-11-08T00:36:58+03:00"
+        "published": "2026-11-08T09:11:17+03:00"
       },
       {
-        "title": "Eda Ece haberi alır almaz hastaneye koştu",
-        "link": "https://www.sozcu.com.tr/eda-ece-haberi-alir-almaz-hastaneye-kostu-p377029",
-        "description": "Eda Ece haberi alır almaz hastaneye koştu",
+        "title": "Burak Özçivit'in dizisi yayından çıkarıldı: Nedeni ve yeni bölüm tarihi belli oldu",
+        "link": "https://www.sozcu.com.tr/burak-ozcivit-in-dizisi-yayindan-cikarildi-nedeni-ve-yeni-tarihi-belli-oldu-p377093",
+        "description": "Burak Özçivit'in dizisi yayından çıkarıldı: Nedeni ve yeni bölüm tarihi belli oldu",
         "source": "Sözcü",
-        "published": "2026-11-08T00:26:40+03:00"
+        "published": "2026-11-08T09:03:48+03:00"
       },
       {
-        "title": "Burcu Biricik de gelir adaletsizliğine isyan etti",
-        "link": "https://www.sozcu.com.tr/burcu-biricik-de-gelir-adaletsizligine-isyan-etti-p377026",
-        "description": "Burcu Biricik de gelir adaletsizliğine isyan etti",
+        "title": "Survivor aşıkları ikinci kez anne baba oldu: Kızlarının ismindeki sır çözüldü",
+        "link": "https://www.sozcu.com.tr/survivor-asiklari-ikinci-kez-anne-baba-oldu-kizlarinin-ismindeki-sir-cozuldu-p377087",
+        "description": "Survivor aşıkları ikinci kez anne baba oldu: Kızlarının ismindeki sır çözüldü",
         "source": "Sözcü",
-        "published": "2026-11-08T00:06:07+03:00"
+        "published": "2026-11-08T08:56:03+03:00"
+      },
+      {
+        "title": "KYK burs taahhütname onayı ne zaman ve nasıl yapılır? KYK burs sonuçları sonrası gündemde",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-taahhutname-onayi-ne-zaman-ve-nasil-yapilir-kyk-burs-sonuclari-sonrasi-gundemde-1749905",
+        "description": "Kredi ve Yurtlar Kurumu (KYK) burs ve kredi başvuru sonuçları için milyonlarca öğrencinin heyecanlı bekleyişi sona erdi ve sonuçlar açıklandı. Şimdi öğrenciler KYK burslarını alabilmek için taahhütname onayı yapacak. Peki, KYK burs taahhütname onayı...",
+        "source": "NTV",
+        "published": "2026-11-08T08:52:51+03:00"
+      },
+      {
+        "title": "Ankara ve Kayseri'de yılın ilk karı yağdı",
+        "link": "https://www.ntv.com.tr/turkiye/ankara-ve-kayseride-yilin-ilk-kari-yagdi-1749884",
+        "description": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu. Hava sıcaklığının hissedilir derecede düştüğü Kayseri'ye de yılın ilk karı yağdı.",
+        "source": "NTV",
+        "published": "2026-11-08T07:17:21+03:00"
+      },
+      {
+        "title": "18 il için kar ve fırtına uyarısı. Yoğun kar yağışı var",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-21-il-icin-kar-ve-firtina-uyarisi-yogun-kar-yagisi-var-1749889",
+        "description": "Ülkeye kış bu yıl her zamankinden daha erken geldi. Bazı noktalarda dün başlayan yoğun kar yağışı bugün de birçok ilde devam ediyor.",
+        "source": "NTV",
+        "published": "2026-11-08T06:25:21+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan bugün Azerbaycan'a gidecek",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bugun-azerbaycana-gidecek-1749891",
+        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan 8 Kasım Zafer Günü dolayısıyla bugün Azerbaycan'ı ziyaret edecek. Erdoğan öncesindeyse Azerbaycan Cumhurbaşkanı İlham Aliyev'e tebrik mektubu gönderdi.",
+        "source": "NTV",
+        "published": "2026-11-08T06:05:42+03:00"
+      },
+      {
+        "title": "Yeni Parti'de bugün genel başkanlık ön seçimi yapılacak",
+        "link": "https://www.ntv.com.tr/turkiye/yeni-partide-bugun-genel-baskanlik-on-secimi-yapilacak-1749890",
+        "description": "Yeni Parti'de kurultay öncesinde bugün genel başkanlık ön seçimi yapılacak. Partinin il ve ilçe başkanlıklarında sandıklarda parti üyesi olan herkes oy kullanabilecek.",
+        "source": "NTV",
+        "published": "2026-11-08T05:53:24+03:00"
       },
       {
         "title": "Bakan Kurum: Antalya'dan tüm dünyaya çağrı yapacağız",
@@ -637,74 +700,11 @@
         "published": "2026-11-07T23:50:56+03:00"
       },
       {
-        "title": "Fenerbahçe deplasmanda Bursa'yı farklı geçti",
-        "link": "https://www.sozcu.com.tr/fenerbahce-deplasmanda-bursayi-farkli-gecti-p377022",
-        "description": "Fenerbahçe deplasmanda Bursa'yı farklı geçti",
-        "source": "Sözcü",
-        "published": "2026-11-07T23:46:35+03:00"
-      },
-      {
-        "title": "Manchester City'ye neler oluyor? Üst üste 3. mağlubiyet",
-        "link": "https://www.sozcu.com.tr/manchester-cityye-neler-oluyor-ust-uste-3-maglubiyet-p377021",
-        "description": "Manchester City'ye neler oluyor? Üst üste 3. mağlubiyet",
-        "source": "Sözcü",
-        "published": "2026-11-07T23:39:36+03:00"
-      },
-      {
-        "title": "Van'da feci kaza. 9 kişi hayatını kaybetti",
-        "link": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
-        "description": "Van'da tır ile minibüsün çarpıştığı kazada 9 kişi hayatını kaybetti, 5 kişi de yaralandı.",
-        "source": "NTV",
-        "published": "2026-11-07T23:27:30+03:00"
-      },
-      {
-        "title": "Başakşehir'e galibiyeti 36'lık Visca getirdi",
-        "link": "https://www.sozcu.com.tr/izmirde-kazanan-basaksehir-geriden-gelip-kazandi-p377017",
-        "description": "Başakşehir'e galibiyeti 36'lık Visca getirdi",
-        "source": "Sözcü",
-        "published": "2026-11-07T23:18:24+03:00"
-      },
-      {
-        "title": "Afyonkarahisar'da 8 kişinin öldüğü katliamdan böyle kurtulmuş. Öğretmen dehşet anlarını anlattı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisinin-oldugu-katliamdan-boyle-kurtulmus-ogretmen-dehset-anlarini-anlatti-1749862",
-        "description": "Afyonkarahisar'da 8 kişinin öldürüldüğü olaydan sağ kurtulan öğretmen Sultan Sema Gökçe'nin ifadesi ortaya çıktı. İfadesinde Gökçe, dehşet anlarını anlattı.",
-        "source": "NTV",
-        "published": "2026-11-07T22:24:46+03:00"
-      },
-      {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 7 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1749872",
         "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
         "source": "NTV",
         "published": "2026-11-07T22:07:29+03:00"
-      },
-      {
-        "title": "Fon soruşturmasında dört isim hakkında gözaltı kararı",
-        "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-ve-takasbank-genel-muduru-yeniden-gozaltinda-1749863",
-        "description": "Fon soruşturmasında Kemal Akkaya ve Yunus Arıncı yeniden gözaltına alındı. Ayrıca Muhammet Erişen ve Mehmed Nureddin Çevik hakkında gözaltı kararı verildi.",
-        "source": "NTV",
-        "published": "2026-11-07T21:52:16+03:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1749866",
-        "description": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede ikili gelişmeler ile bölgesel ve küresel gelişmeler ele alındı.",
-        "source": "NTV",
-        "published": "2026-11-07T20:36:49+03:00"
-      },
-      {
-        "title": "Fenerbahçe otobüsünün kurşunlanmasında yeni detaylar ortaya çıktı. \"Saldırı önceden planlandı\"",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-fenerbahce-otobusunun-kursunlanmasinda-yeni-detaylar-ortaya-cikti-saldiri-onceden-planlandi-1749858",
-        "description": "Fenerbahçe takım otobüsüne 2015'te yapılan saldırıya ilişkin iddianameden yeni detaylar ortaya çıktı. Saldırının rastgele gerçekleştirilemeyeceği, eylemin önceden planlanlandığı belirtildi.",
-        "source": "NTV",
-        "published": "2026-11-07T18:45:41+03:00"
-      },
-      {
-        "title": "\"İçi boş\" deyip tetiğe bastı. Erzurum'da acı olay",
-        "link": "https://www.ntv.com.tr/turkiye/ici-bos-deyip-tetige-basti-erzurumda-aci-olay-1749857",
-        "description": "Erzurum'da esnaf komşusu tarafından pompalı tüfekle vurulan kişi hayatını kaybetti. Şüpheli, şakalaşma sırasında vurduğunu öne sürdü.",
-        "source": "NTV",
-        "published": "2026-11-07T17:40:55+03:00"
       },
       {
         "title": "Polonya'nın Krakow kentinde silahlı saldırı: Altı ölü, en az 10 yaralı",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 50.1774,
+    "usd_try": 50.172,
     "eur_try": 55.9549,
-    "eur_usd": 0.8961
+    "eur_usd": 0.8958
   },
   "weather": {
     "condition": "Açık",
-    "temp": "+52°F",
-    "wind": "↘8mph",
-    "humidity": "62%"
+    "temp": "+53°F",
+    "wind": "↘2mph",
+    "humidity": "78%"
   }
 }
