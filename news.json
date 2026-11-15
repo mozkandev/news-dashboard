@@ -1,13 +1,41 @@
 {
-  "updated_at": "2026-11-14T20:26:52.654379+00:00",
+  "updated_at": "2026-11-15T00:06:13.733628+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "TÜBİTAK, 54 kübitlik ARF Kuantum kuracak",
+        "link": "https://shiftdelete.net/arf-kuantum",
+        "description": "Sanayi ve Teknoloji Bakanı Kacır, TÜBİTAK bünyesinde 54 kübitlik IQM Radiance R3 sisteminin 2027'de devreye alınacağını duyurdu. Resmi adı ARF Kuantum.",
+        "source": "ShiftDelete",
+        "published": "2026-11-15T01:05:22+03:00"
+      },
+      {
+        "title": "Starship'te yıllardır beklenen an geldi",
+        "link": "https://shiftdelete.net/starship-ust-kademe-mechazilla-ilk-yakalama",
+        "description": "SpaceX, Starship'in üst kademesini ilk kez Mechazilla kulesinin kollarıyla yakaladı; Super Heavy ilk kademesi ise kuleye dönemedi.",
+        "source": "ShiftDelete",
+        "published": "2026-11-15T00:51:48+03:00"
+      },
+      {
+        "title": "Samsung bir uygulamasını daha emekliye ayırıyor",
+        "link": "https://shiftdelete.net/samsung-news-kapaniyor-one-ui",
+        "description": "Samsung, Güney Kore ve Hindistan'da Samsung News'i 21 Aralık'ta kapatıyor; hizmetin diğer pazarlarda da kapanması bekleniyor.",
+        "source": "ShiftDelete",
+        "published": "2026-11-14T23:40:00+03:00"
+      },
       {
         "title": "Huang gitti, yapay zeka girişimleri ne yapacak?",
         "link": "https://shiftdelete.net/jensen-huang-ayrilisi-yapay-zeka-girisim-finansmani",
         "description": "Yatırımcılara göre Jensen Huang'ın Nvidia'dan ayrılması, şirketin bu yıl 105 tura katıldığı yapay zeka girişim finansmanında büyük bir boşluk açıyor.",
         "source": "ShiftDelete",
         "published": "2026-11-14T23:10:00+03:00"
+      },
+      {
+        "title": "L3Harris Statement on the Nov. 13 Ground Stop",
+        "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+        "description": "Article URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop Comments URL: https://news.ycombinator.com/item?id=50501844 Points: 38 # Comments: 11",
+        "source": "HackerNews",
+        "published": "2026-11-14T22:51:44+00:00"
       },
       {
         "title": "RTX 50'de eriyen konnektör listesi uzuyor",
@@ -17,6 +45,20 @@
         "published": "2026-11-14T22:40:00+03:00"
       },
       {
+        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+        "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+        "description": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 46 # Comments: 23",
+        "source": "HackerNews",
+        "published": "2026-11-14T22:26:30+00:00"
+      },
+      {
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "link": "https://retrocomputing.stackexchange.com/questions/17957",
+        "description": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 29 # Comments: 4",
+        "source": "HackerNews",
+        "published": "2026-11-14T22:22:49+00:00"
+      },
+      {
         "title": "WoW Forever artık Android telefonda açılıyor",
         "link": "https://shiftdelete.net/wow-forever-galaxy-z-fold-8-android",
         "description": "WoW Forever, WoW Foreverywhere adlı GitHub projesi sayesinde Galaxy Z Fold 8'de oynanabiliyor. Android 17, ARM işlemci ve Adreno GPU şart.",
@@ -24,11 +66,25 @@
         "published": "2026-11-14T22:10:00+03:00"
       },
       {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "source": "TechCrunch",
+        "published": "2026-11-14T21:41:22+00:00"
+      },
+      {
         "title": "Huang'ın ayrılığında çip kaçağı izi olabilir",
         "link": "https://shiftdelete.net/nvidia-cip-kacakciligi-jensen-huang-ayrilik",
         "description": "SemiAnalysis'e göre Nvidia çip kaçakçılığı, Jensen Huang'ın ayrılığında rol oynamış olabilir. Çin'e ulaşan donanım xAI'nin Colossus veri merkezini bile aşabilecek büyüklükte.",
         "source": "ShiftDelete",
         "published": "2026-11-14T21:40:00+03:00"
+      },
+      {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+        "description": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 492 # Comments: 302",
+        "source": "HackerNews",
+        "published": "2026-11-14T21:22:24+00:00"
       },
       {
         "title": "Google Arama'ya yeni zeka motoru geldi",
@@ -59,32 +115,18 @@
         "published": "2026-11-14T20:04:44+00:00"
       },
       {
-        "title": "6,3 inçlik kompakt telefonun ekranı dar çerçeveli",
-        "link": "https://shiftdelete.net/6-3-inc-ekranli-telefon-ltpo-lipo",
-        "description": "6,3 inç ekranlı telefon geliştiriliyor. Digital Chat Station'a göre cihaz 1,5K çözünürlüklü LTPO ekran ve LIPO ile çok ince çerçeve sunacak.",
-        "source": "ShiftDelete",
-        "published": "2026-11-14T19:40:00+03:00"
-      },
-      {
-        "title": "Huawei'nin giriş seviyesine geniş ekran geliyor",
-        "link": "https://shiftdelete.net/huawei-enjoy-genis-ekran-telefon-2027",
-        "description": "Huawei Enjoy geniş ekran form faktörüne geçebilir. Weibo'daki iddiaya göre 2027'de şirketin bütün telefon serileri geniş ekranlı birer model alacak.",
-        "source": "ShiftDelete",
-        "published": "2026-11-14T19:10:00+03:00"
+        "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+        "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+        "description": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year Comments URL: https://news.ycombinator.com/item?id=50499945 Points: 61 # Comments: 17",
+        "source": "HackerNews",
+        "published": "2026-11-14T19:23:40+00:00"
       },
       {
         "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
         "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-        "description": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 64 # Comments: 13",
+        "description": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 160 # Comments: 81",
         "source": "HackerNews",
         "published": "2026-11-14T18:56:47+00:00"
-      },
-      {
-        "title": "Siri, rakiplerine yetişmekte neden zorlanıyor?",
-        "link": "https://shiftdelete.net/siri-yapay-zeka-gemini-alexa-gerisinde",
-        "description": "Tom's Guide'ın genel yayın yönetmenine göre Apple'ın yapay zeka destekli Siri'si, HomeView ve Apple TV 4K testlerinde Gemini ve Alexa+'nın gerisinde kaldı.",
-        "source": "ShiftDelete",
-        "published": "2026-11-14T18:40:00+03:00"
       },
       {
         "title": "Got an iPhone Duo? These 9 settings make it easier to use",
@@ -94,23 +136,9 @@
         "published": "2026-11-14T18:00:00+00:00"
       },
       {
-        "title": "US IRS free online tax filing open source repo",
-        "link": "https://github.com/IRS-Public/direct-file",
-        "description": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 90 # Comments: 26",
-        "source": "HackerNews",
-        "published": "2026-11-14T17:48:20+00:00"
-      },
-      {
-        "title": "The 'europoors' rants reflect an American insecurity",
-        "link": "https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american",
-        "description": "Article URL: https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american Comments URL: https://news.ycombinator.com/item?id=50499041 Points: 33 # Comments: 34",
-        "source": "HackerNews",
-        "published": "2026-11-14T17:45:35+00:00"
-      },
-      {
-        "title": "A Family Tree of Software Job Titles",
+        "title": "A family tree of software job titles",
         "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "description": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 76 # Comments: 23",
+        "description": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 177 # Comments: 83",
         "source": "HackerNews",
         "published": "2026-11-14T17:45:19+00:00"
       },
@@ -124,9 +152,16 @@
       {
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "link": "https://www.crissyfield.de/research/lovable-en/",
-        "description": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 313 # Comments: 97",
+        "description": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 580 # Comments: 239",
         "source": "HackerNews",
         "published": "2026-11-14T17:43:10+00:00"
+      },
+      {
+        "title": "Will we put data centers in space?",
+        "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+        "description": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space Comments URL: https://news.ycombinator.com/item?id=50498945 Points: 53 # Comments: 156",
+        "source": "HackerNews",
+        "published": "2026-11-14T17:35:33+00:00"
       },
       {
         "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -136,6 +171,13 @@
         "published": "2026-11-14T17:30:00+00:00"
       },
       {
+        "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+        "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+        "description": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is...",
+        "source": "The Verge",
+        "published": "2026-11-14T16:44:44-05:00"
+      },
+      {
         "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
         "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
         "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
@@ -143,39 +185,18 @@
         "published": "2026-11-14T16:34:15+00:00"
       },
       {
-        "title": "Creating a self booting ZIP archive",
-        "link": "https://goliath32.com/blog/ziphead.html",
-        "description": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 16 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-11-14T16:29:05+00:00"
-      },
-      {
-        "title": "How to Create Your Own Decentralized Messenger Protocol",
-        "link": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
-        "description": "Article URL: https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol Comments URL: https://news.ycombinator.com/item?id=50498073 Points: 29 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-11-14T16:01:04+00:00"
-      },
-      {
-        "title": "Formalizing US Tax Code (Using Lean)",
-        "link": "https://lexifina.com/blog/formalizing-the-us-tax-code",
-        "description": "Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code Comments URL: https://news.ycombinator.com/item?id=50497900 Points: 103 # Comments: 64",
-        "source": "HackerNews",
-        "published": "2026-11-14T15:41:20+00:00"
+        "title": "Work to replace old copper wire led to the FAA’s ground stop",
+        "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+        "description": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said...",
+        "source": "The Verge",
+        "published": "2026-11-14T15:46:54-05:00"
       },
       {
         "title": "PyPI's redesigned project pages with clearer security signals are now live",
         "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-        "description": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 148 # Comments: 53",
+        "description": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 190 # Comments: 86",
         "source": "HackerNews",
         "published": "2026-11-14T15:40:52+00:00"
-      },
-      {
-        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-        "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "description": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 85 # Comments: 4",
-        "source": "HackerNews",
-        "published": "2026-11-14T15:04:15+00:00"
       },
       {
         "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
@@ -183,13 +204,6 @@
         "description": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic:...",
         "source": "The Verge",
         "published": "2026-11-14T14:47:40-05:00"
-      },
-      {
-        "title": "Work to replace old copper wire led to the FAA’s ground stop",
-        "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-        "description": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said...",
-        "source": "The Verge",
-        "published": "2026-11-14T13:12:57-05:00"
       },
       {
         "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
@@ -276,25 +290,11 @@
         "published": "2026-11-13T19:48:59-05:00"
       },
       {
-        "title": "AI agent startup LangChain hits $3B valuation",
-        "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-        "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-        "source": "TechCrunch",
-        "published": "2026-11-13T19:37:57+00:00"
-      },
-      {
         "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
         "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
         "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and...",
         "source": "The Verge",
         "published": "2026-11-13T19:06:40-05:00"
-      },
-      {
-        "title": "Amazon has a plan to index the world’s online shopping data",
-        "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-        "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product...",
-        "source": "The Verge",
-        "published": "2026-11-13T18:49:11-05:00"
       },
       {
         "title": "Toplam Değeri 2.400 TL'den Fazla 4 Oyun, Xbox'ta Bu Hafta Sonu Ücretsiz Oldu",
@@ -355,11 +355,46 @@
     ],
     "dunya": [
       {
+        "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+        "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+        "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+        "source": "BBC News",
+        "published": "2026-11-15T00:01:07+00:00"
+      },
+      {
+        "title": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
+        "link": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo?at_medium=RSS&at_campaign=rss",
+        "description": "Russell Brand continues to feature on Sunday's front pages, nearly a week after he was jailed.",
+        "source": "BBC News",
+        "published": "2026-11-14T23:56:54+00:00"
+      },
+      {
         "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
         "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+        "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
         "source": "BBC News",
-        "published": "2026-11-14T19:21:10+00:00"
+        "published": "2026-11-14T22:37:25+00:00"
+      },
+      {
+        "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+        "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+        "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+        "source": "BBC News",
+        "published": "2026-11-14T22:37:14+00:00"
+      },
+      {
+        "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
+        "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+        "description": "All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision.",
+        "source": "BBC News",
+        "published": "2026-11-14T22:27:06+00:00"
+      },
+      {
+        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+        "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+        "source": "BBC News",
+        "published": "2026-11-14T22:09:40+00:00"
       },
       {
         "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -369,18 +404,32 @@
         "published": "2026-11-14T19:12:25+00:00"
       },
       {
-        "title": "Philippines wins first Eurovision Song Contest Asia",
-        "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-        "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-        "source": "BBC News",
-        "published": "2026-11-14T18:17:58+00:00"
+        "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+        "description": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+        "source": "NPR",
+        "published": "2026-11-14T17:48:38-05:00"
       },
       {
-        "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-        "link": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
-        "description": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.",
+        "title": "US has lost measles elimination status, global health authorities say",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+        "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+        "source": "NPR",
+        "published": "2026-11-14T17:15:02-05:00"
+      },
+      {
+        "title": "SpaceX successfully catches Starship and makes history",
+        "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+        "description": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+        "source": "NPR",
+        "published": "2026-11-14T16:42:41-05:00"
+      },
+      {
+        "title": "Wales stun New Zealand to end 73-year losing streak",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
+        "description": "Wales celebrate a first victory against New Zealand since 1953 with a brilliant 35-28 win to spark astonishing scenes in Cardiff.",
         "source": "BBC News",
-        "published": "2026-11-14T17:20:33+00:00"
+        "published": "2026-11-14T16:38:04+00:00"
       },
       {
         "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
@@ -390,25 +439,11 @@
         "published": "2026-11-14T15:12:34-05:00"
       },
       {
-        "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-        "link": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
-        "description": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
-        "source": "BBC News",
-        "published": "2026-11-14T14:46:26+00:00"
-      },
-      {
         "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
         "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
         "description": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.",
         "source": "NPR",
         "published": "2026-11-14T14:13:54-05:00"
-      },
-      {
-        "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-        "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
-        "source": "BBC News",
-        "published": "2026-11-14T13:48:37+00:00"
       },
       {
         "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
@@ -460,46 +495,11 @@
         "published": "2026-11-14T05:00:00-05:00"
       },
       {
-        "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-        "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
-        "source": "NPR",
-        "published": "2026-11-14T05:00:00-05:00"
-      },
-      {
-        "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-        "description": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
-        "source": "NPR",
-        "published": "2026-11-14T05:00:00-05:00"
-      },
-      {
         "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
         "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
         "description": "Thirty years after they dreamt up the series, Dave Jones and Brian Baglow are as desperate as everyone else to get their hands on the new game.",
         "source": "BBC News",
         "published": "2026-11-14T00:37:01+00:00"
-      },
-      {
-        "title": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
-        "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
-        "description": "Noor Nanji, culture correspondent, explores how these stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
-        "source": "BBC News",
-        "published": "2026-11-14T00:29:38+00:00"
-      },
-      {
-        "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-        "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-        "description": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
-        "source": "NPR",
-        "published": "2026-11-14T00:12:43-05:00"
-      },
-      {
-        "title": "The search to find a friend for Jojo the gorilla after a lifetime of being alone",
-        "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-        "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-        "source": "BBC News",
-        "published": "2026-11-14T00:03:56+00:00"
       },
       {
         "title": "Storm Charles causes floods and flight cancellations across southern Europe",
@@ -567,11 +567,95 @@
     ],
     "turkiye": [
       {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-kasim-2026-1750900",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-11-15T03:00:00+03:00"
+      },
+      {
         "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon tasfiyesinde devlet bütçesinden bir lira kullanılmadı",
         "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiyesinde-devlet-butcesinden-bir-lira-kullanilmadi-1750897",
         "description": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fonların tasfiyesi için devlet bütçesinden bir lira bile kullanılmasını belirtirken, \"Bugüne kadar 444 bin 987 tekil yatırımcıya ödeme yapıldı\" dedi.",
         "source": "NTV",
-        "published": "2026-11-14T23:24:28+03:00"
+        "published": "2026-11-15T01:55:32+03:00"
+      },
+      {
+        "title": "Emeklileri umutlandıran haber Cumhurbaşkanlığı'ndan geldi",
+        "link": "https://www.sozcu.com.tr/emeklileri-umutlandiran-haber-cumhurbaskanligindan-geldi-p381403",
+        "description": "Emeklileri umutlandıran haber Cumhurbaşkanlığı'ndan geldi",
+        "source": "Sözcü",
+        "published": "2026-11-15T01:10:05+03:00"
+      },
+      {
+        "title": "Faciaya ramak kaldı: Yol çöktü, 6 metrelik çukur oluştu",
+        "link": "https://www.sozcu.com.tr/faciaya-ramak-kaldi-yol-coktu-6-metrelik-cukur-olustu-p381400",
+        "description": "Faciaya ramak kaldı: Yol çöktü, 6 metrelik çukur oluştu",
+        "source": "Sözcü",
+        "published": "2026-11-15T01:07:47+03:00"
+      },
+      {
+        "title": "Ankara'da silahlı ve bıçaklı kavga: 1'i ağır 11 yaralı",
+        "link": "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
+        "description": "Ankara'da silahlı ve bıçaklı kavga: 1'i ağır 11 yaralı",
+        "source": "Sözcü",
+        "published": "2026-11-15T01:03:43+03:00"
+      },
+      {
+        "title": "Kış lastiği uygulaması başladı. Değiştirmeyen 6 bin lira ceza ödeyecek",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-kis-lastigi-uygulamasi-basladi-degistirmeyen-6-bin-lira-ceza-odeyecek-1750901",
+        "description": "Zorunlu kış lastiği uygulaması bugün itibarıyla başladı. Kış lastiğine geçmeyen ticari araçlara 6 bin TL ceza yazılacak. Peki kış lastiği seçiminde nelere dikkat edilmeli, işaretler ne anlama geliyor?",
+        "source": "NTV",
+        "published": "2026-11-15T00:45:25+03:00"
+      },
+      {
+        "title": "Portekiz, Ronaldo'suz ilk maçta darmaduman oldu",
+        "link": "https://www.sozcu.com.tr/portekiz-ronaldo-suz-ilk-macta-darmaduman-oldu-p381398",
+        "description": "Portekiz, Ronaldo'suz ilk maçta darmaduman oldu",
+        "source": "Sözcü",
+        "published": "2026-11-15T00:40:45+03:00"
+      },
+      {
+        "title": "İki ülke yeniden karşı karşıya: Sınır hattında patlama sesleri",
+        "link": "https://www.sozcu.com.tr/iki-ulke-yeniden-karsi-karsiya-sinir-hattinda-patlama-sesleri-p381392",
+        "description": "İki ülke yeniden karşı karşıya: Sınır hattında patlama sesleri",
+        "source": "Sözcü",
+        "published": "2026-11-15T00:19:25+03:00"
+      },
+      {
+        "title": "Reklam Kurulu'ndan fal, medyumluk ve büyü reklamlarına durdurma kararı",
+        "link": "https://www.sozcu.com.tr/reklam-kurulundan-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-p381388",
+        "description": "Reklam Kurulu'ndan fal, medyumluk ve büyü reklamlarına durdurma kararı",
+        "source": "Sözcü",
+        "published": "2026-11-15T00:02:16+03:00"
+      },
+      {
+        "title": "Portekiz'de Ronaldo'ya veda: 7 numara sürprizi",
+        "link": "https://www.sozcu.com.tr/portekizde-ronaldoya-veda-7-numara-surprizi-p381387",
+        "description": "Portekiz'de Ronaldo'ya veda: 7 numara sürprizi",
+        "source": "Sözcü",
+        "published": "2026-11-14T23:54:33+03:00"
+      },
+      {
+        "title": "Fal, medyum ve büyü reklamlarına durdurma kararı",
+        "link": "https://www.ntv.com.tr/turkiye/fal-medyum-ve-buyu-reklamlarina-durdurma-karari-1750898",
+        "description": "Ticaret Bakanlığı Reklam Kurulu, internet siteleri ve sanal medya platformlarında fal, medyumluk ve büyü hizmetlerinin tanıtımına yönelik reklamların durdurulmasına karar verdi.",
+        "source": "NTV",
+        "published": "2026-11-14T23:32:36+03:00"
+      },
+      {
+        "title": "Mansur Yavaş’tan Özgür Özel paylaşımı",
+        "link": "https://www.sozcu.com.tr/mansur-yavastan-ozgur-ozel-paylasimi-p381382",
+        "description": "Mansur Yavaş’tan Özgür Özel paylaşımı",
+        "source": "Sözcü",
+        "published": "2026-11-14T23:29:39+03:00"
+      },
+      {
+        "title": "Zelenskiy resti çekti, Trump’ın teklifini reddetti",
+        "link": "https://www.sozcu.com.tr/zelenskiy-resti-cekti-trump-in-teklifini-reddetti-p381381",
+        "description": "Zelenskiy resti çekti, Trump’ın teklifini reddetti",
+        "source": "Sözcü",
+        "published": "2026-11-14T23:27:50+03:00"
       },
       {
         "title": "Serdar Aziz'den Galatasaraylıları kızdıran sözler",
@@ -581,41 +665,6 @@
         "published": "2026-11-14T23:16:15+03:00"
       },
       {
-        "title": "Ankara’da yarın trafiğe çıkacaklar dikkat: Çok sayıda yol kapatılacak",
-        "link": "https://www.sozcu.com.tr/ankara-da-yarin-trafige-cikacaklar-dikkat-cok-sayida-yol-kapatilacak-p381375",
-        "description": "Ankara’da yarın trafiğe çıkacaklar dikkat: Çok sayıda yol kapatılacak",
-        "source": "Sözcü",
-        "published": "2026-11-14T22:44:39+03:00"
-      },
-      {
-        "title": "Potanın Perileri, İsrail'i devirdi: 2'de 2 yaptı",
-        "link": "https://www.sozcu.com.tr/potanin-perileri-israili-devirdi-2de-2-yapti-p381374",
-        "description": "Potanın Perileri, İsrail'i devirdi: 2'de 2 yaptı",
-        "source": "Sözcü",
-        "published": "2026-11-14T22:42:28+03:00"
-      },
-      {
-        "title": "Tarlalardan rant fışkıracak: Kanal İstanbul’da 15 mahallelik imar hamlesi",
-        "link": "https://www.sozcu.com.tr/tarlalardan-rant-fiskiracak-kanal-istanbul-da-15-mahallelik-imar-hamlesi-p381373",
-        "description": "Tarlalardan rant fışkıracak: Kanal İstanbul’da 15 mahallelik imar hamlesi",
-        "source": "Sözcü",
-        "published": "2026-11-14T22:19:55+03:00"
-      },
-      {
-        "title": "Beş setlik derbide Fenerbahçe galibiyete uzandı",
-        "link": "https://www.sozcu.com.tr/bes-setlik-derbide-fenerbahce-galibiyete-uzandi-p381370",
-        "description": "Beş setlik derbide Fenerbahçe galibiyete uzandı",
-        "source": "Sözcü",
-        "published": "2026-11-14T22:05:53+03:00"
-      },
-      {
-        "title": "ABD’de kaos devam ediyor: Bugün de binlerce uçuş iptal edilecek",
-        "link": "https://www.sozcu.com.tr/abd-de-kaos-devam-ediyor-bugun-de-binlerce-ucus-iptal-edilecek-p381369",
-        "description": "ABD’de kaos devam ediyor: Bugün de binlerce uçuş iptal edilecek",
-        "source": "Sözcü",
-        "published": "2026-11-14T21:49:18+03:00"
-      },
-      {
         "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
         "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1750894",
         "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
@@ -623,39 +672,11 @@
         "published": "2026-11-14T21:42:24+03:00"
       },
       {
-        "title": "Zidane açıkladı: Mbappe Türkiye'ye karşı oynayacak mı?",
-        "link": "https://www.sozcu.com.tr/zidane-acikladi-mbappe-turkiyeye-karsi-oynayacak-mi-p381368",
-        "description": "Zidane açıkladı: Mbappe Türkiye'ye karşı oynayacak mı?",
-        "source": "Sözcü",
-        "published": "2026-11-14T21:27:51+03:00"
-      },
-      {
-        "title": "A Milli Takım, Fransa deplasmanına hazır",
-        "link": "https://www.sozcu.com.tr/a-milli-takim-fransa-deplasmanina-hazir-p381366",
-        "description": "A Milli Takım, Fransa deplasmanına hazır",
-        "source": "Sözcü",
-        "published": "2026-11-14T21:25:57+03:00"
-      },
-      {
         "title": "Hidayet Türkoğlu, COP31'de NTV'ye konuştu",
         "link": "https://www.ntv.com.tr/turkiye/video-hidayet-turkoglu-cop31de-ntvye-konustu-1750891",
         "description": "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, COP31 İklim Zirvesi'nde NTV'den Deniz Tüysüz'e konuştu. Türkoğlu, \"Sıfır Atık Projesi'ni basketbol salonlarına da taşıdık\" dedi.",
         "source": "NTV",
         "published": "2026-11-14T21:24:41+03:00"
-      },
-      {
-        "title": "Hacı Yakışıklı geri adım attı: 10 Kasım sözlerine tepki yağmıştı",
-        "link": "https://www.sozcu.com.tr/haci-yakisikli-geri-adim-atti-10-kasim-sozlerine-tepki-yagmisti-p381364",
-        "description": "Hacı Yakışıklı geri adım attı: 10 Kasım sözlerine tepki yağmıştı",
-        "source": "Sözcü",
-        "published": "2026-11-14T21:22:32+03:00"
-      },
-      {
-        "title": "Galatasaray son saniye basketiyle yenildi",
-        "link": "https://www.sozcu.com.tr/galatasaray-son-saniye-basketiyle-yenildi-p381365",
-        "description": "Galatasaray son saniye basketiyle yenildi",
-        "source": "Sözcü",
-        "published": "2026-11-14T21:08:08+03:00"
       },
       {
         "title": "COP31'de 6. gün geride kaldı",
@@ -686,32 +707,11 @@
         "published": "2026-11-14T18:41:29+03:00"
       },
       {
-        "title": "Fırtınada iş yerinin tabelası düştü, anne ve kızı son anda kurtuldu",
-        "link": "https://www.ntv.com.tr/turkiye/video-firtinada-is-yerinin-tabelasi-dustu-anne-ve-kizi-son-anda-kurtuldu-1750883",
-        "description": "Bursa’da etkili olan ve saatteki hızı 50 kilometreye ulaşan lodos, yaşamı olumsuz etkilerken, Yıldırım ilçesinde kaldırımda yürüyen anne ile kızı, çatıdan kopan metal parçadan son anda kurtuldu.",
-        "source": "NTV",
-        "published": "2026-11-14T17:50:11+03:00"
-      },
-      {
-        "title": "Ankara'da bazı yollar yarın araç trafiğine kapatılacak",
-        "link": "https://www.ntv.com.tr/turkiye/ankarada-bazi-yollar-yarin-arac-trafigine-kapatilacak-1750882",
-        "description": "Ankara'da yarın düzenlenecek OYAK 65. Yıl Ankara Koşusu dolayısıyla bazı yollar araç trafiğine kapatılacak.",
-        "source": "NTV",
-        "published": "2026-11-14T17:20:38+03:00"
-      },
-      {
         "title": "Bir Başkadır'ın ikinci sezonu bize ne anlatıyor?",
         "link": "https://www.bbc.com/turkce/articles/c6jeq0vy4vz0o?at_medium=RSS&at_campaign=rss",
         "description": "Bir Başkadır dizisi, altı yıl sonra dört bölümlük ikinci sezonla geri döndü. Dizi bu sezonda da yine Türkiye'nin farklı sosyo-ekonomik sınıflarından karakterleri, günlük hayatın akışı içinde biraraya getiriyor.",
         "source": "BBC Turkish",
         "published": "2026-11-14T16:53:52+00:00"
-      },
-      {
-        "title": "Bahçeli: Kıbrıs Türk Devleti'nin yaşatılması milli davamızın vazgeçilmez hedefi",
-        "link": "https://www.ntv.com.tr/turkiye/bahceli-kibris-turk-devletinin-yasatilmasi-milli-davamizin-vazgecilmez-hedefi-1750881",
-        "description": "MHP Genel Başkanı Devlet Bahçeli, Kuzey Kıbrıs Türk Cumhuriyeti'nin yaşatılması, egemenliğinin güçlendirilmesi ve hak ettiği konuma ulaşmasının milli davanın vazgeçilmez bir hedefi olduğunu söyledi.",
-        "source": "NTV",
-        "published": "2026-11-14T16:50:07+03:00"
       },
       {
         "title": "Yeni Parti'nin ilk kurultayında Özel yeniden genel başkan: 'Seçimi kazanacak cesarete sahibiz'",
@@ -784,9 +784,9 @@
     "eur_usd": 0.906
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+52°F",
-    "wind": "↘11mph",
-    "humidity": "36%"
+    "condition": "Açık",
+    "temp": "+36°F",
+    "wind": "↖4mph",
+    "humidity": "70%"
   }
 }
