@@ -1,13 +1,41 @@
 {
-  "updated_at": "2026-11-21T22:16:43.418962+00:00",
+  "updated_at": "2026-11-22T02:30:04.680895+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+        "link": "https://github.com/ItsNotRexed/Leonida",
+        "description": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 7 # Comments: 1",
+        "source": "HackerNews",
+        "published": "2026-11-22T00:57:26+00:00"
+      },
+      {
+        "title": "Sandwich Simulator",
+        "link": "https://stulle.app/",
+        "description": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 29 # Comments: 15",
+        "source": "HackerNews",
+        "published": "2026-11-22T00:07:59+00:00"
+      },
+      {
+        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+        "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+        "description": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 66 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-11-21T22:09:58+00:00"
+      },
       {
         "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
         "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
         "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
         "source": "TechCrunch",
         "published": "2026-11-21T21:37:10+00:00"
+      },
+      {
+        "title": "Advice for the next 100 Rust GUIs",
+        "link": "https://linebender.org/blog/next-100-guis/",
+        "description": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 99 # Comments: 16",
+        "source": "HackerNews",
+        "published": "2026-11-21T21:17:53+00:00"
       },
       {
         "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
@@ -26,7 +54,7 @@
       {
         "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
         "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-        "description": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 5 # Comments: 1",
+        "description": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 32 # Comments: 12",
         "source": "HackerNews",
         "published": "2026-11-21T21:06:14+00:00"
       },
@@ -36,6 +64,13 @@
         "description": "Full HD alışkanlığını koruyup RTX 50 serisine geçmek isteyen oyunculara Casper Excalibur G870’in RTX 5060’lı sürümü (G870.1362-BE60A-C) uygun düşer.",
         "source": "ShiftDelete",
         "published": "2026-11-21T21:00:08+03:00"
+      },
+      {
+        "title": "Pandex – Official European Law for AI Agents, over MCP",
+        "link": "https://www.pandex.io",
+        "description": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 38 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-11-21T20:47:41+00:00"
       },
       {
         "title": "RAM dostu lokal yapay zeka: Inkling 2 Mini",
@@ -66,9 +101,9 @@
         "published": "2026-11-21T18:30:12+03:00"
       },
       {
-        "title": "Upload2Shell · CVE-2026-125396",
+        "title": "Upload2Shell (CVE-2026-125396)",
         "link": "https://pwn.ai/upload2shell",
-        "description": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 49 # Comments: 12",
+        "description": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 79 # Comments: 33",
         "source": "HackerNews",
         "published": "2026-11-21T18:29:29+00:00"
       },
@@ -82,7 +117,7 @@
       {
         "title": "Inkling-2-Mini in 5.4 GB Memory",
         "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-        "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 269 # Comments: 55",
+        "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 366 # Comments: 94",
         "source": "HackerNews",
         "published": "2026-11-21T18:02:19+00:00"
       },
@@ -110,7 +145,7 @@
       {
         "title": "PostgreSQL Extensions in Go",
         "link": "https://jespino.github.io/gopgext/",
-        "description": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 96 # Comments: 11",
+        "description": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 121 # Comments: 20",
         "source": "HackerNews",
         "published": "2026-11-21T17:08:04+00:00"
       },
@@ -157,20 +192,6 @@
         "published": "2026-11-21T16:00:00+00:00"
       },
       {
-        "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-        "link": "https://math.mit.edu/~drew/grh/",
-        "description": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 70 # Comments: 23",
-        "source": "HackerNews",
-        "published": "2026-11-21T15:54:34+00:00"
-      },
-      {
-        "title": "Show HN: Zero C# – C# without a runtime or GC",
-        "link": "https://onurgumus.github.io/zero-csharp/index.html",
-        "description": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 103 # Comments: 78",
-        "source": "HackerNews",
-        "published": "2026-11-21T15:39:09+00:00"
-      },
-      {
         "title": "Alaska, your next governor is a Wikipedia nerd",
         "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
         "description": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
@@ -185,32 +206,11 @@
         "published": "2026-11-21T15:03:37-05:00"
       },
       {
-        "title": "Lean verification of the Riemann Hypothesis",
-        "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-        "description": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 680 # Comments: 544",
-        "source": "HackerNews",
-        "published": "2026-11-21T14:36:45+00:00"
-      },
-      {
-        "title": "Detonating a pile of lead azide",
-        "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "description": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 453 # Comments: 300",
-        "source": "HackerNews",
-        "published": "2026-11-21T13:23:14+00:00"
-      },
-      {
         "title": "The FBI and USDA were reportedly hacked",
         "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
         "description": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National...",
         "source": "The Verge",
         "published": "2026-11-21T12:51:21-05:00"
-      },
-      {
-        "title": "My monitor was cutting my download speed by 75%",
-        "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-        "description": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 404 # Comments: 206",
-        "source": "HackerNews",
-        "published": "2026-11-21T10:36:32+00:00"
       },
       {
         "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
@@ -355,6 +355,41 @@
     ],
     "dunya": [
       {
+        "title": "How a teen gamer and his mother helped rescue a missing girl",
+        "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+        "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+        "source": "BBC News",
+        "published": "2026-11-22T00:09:58+00:00"
+      },
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+        "source": "BBC News",
+        "published": "2026-11-22T00:04:07+00:00"
+      },
+      {
+        "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+        "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+        "source": "BBC News",
+        "published": "2026-11-22T00:01:27+00:00"
+      },
+      {
+        "title": "Australia hold on for narrow win against Wales",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+        "description": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+        "source": "BBC News",
+        "published": "2026-11-21T22:25:36+00:00"
+      },
+      {
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+        "source": "BBC News",
+        "published": "2026-11-21T22:19:43+00:00"
+      },
+      {
         "title": "Spitting Image co-creator Peter Fluck dies aged 85",
         "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
         "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
@@ -362,18 +397,32 @@
         "published": "2026-11-21T21:39:22+00:00"
       },
       {
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-        "source": "BBC News",
-        "published": "2026-11-21T19:33:49+00:00"
-      },
-      {
         "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
         "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-        "description": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on...",
+        "description": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday...",
         "source": "The Guardian",
         "published": "2026-11-21T17:46:55+00:00"
+      },
+      {
+        "title": "Trump orders federal contractors to check with White House before responding to Congress",
+        "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+        "description": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+        "source": "NPR",
+        "published": "2026-11-21T17:40:36-05:00"
+      },
+      {
+        "title": "Google employees protest AI in schools policy",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+        "description": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+        "source": "NPR",
+        "published": "2026-11-21T17:01:40-05:00"
+      },
+      {
+        "title": "Highlights and challenges from covering an historic month in South America",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+        "description": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+        "source": "NPR",
+        "published": "2026-11-21T17:01:35-05:00"
       },
       {
         "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
@@ -404,7 +453,7 @@
         "published": "2026-11-21T13:17:38+00:00"
       },
       {
-        "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+        "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
         "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
         "description": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
         "source": "NPR",
@@ -458,55 +507,6 @@
         "description": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
         "source": "NPR",
         "published": "2026-11-21T07:40:17-05:00"
-      },
-      {
-        "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-        "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-        "description": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to...",
-        "source": "NPR",
-        "published": "2026-11-21T07:30:16-05:00"
-      },
-      {
-        "title": "5 ways to turn off your 'work brain' after the day ends",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
-        "description": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters.",
-        "source": "NPR",
-        "published": "2026-11-21T05:01:00-05:00"
-      },
-      {
-        "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
-        "description": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
-        "source": "NPR",
-        "published": "2026-11-21T05:00:00-05:00"
-      },
-      {
-        "title": "'I was exhausted': Two days in the shoes of a tradwife",
-        "link": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
-        "description": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
-        "source": "BBC News",
-        "published": "2026-11-21T00:29:00+00:00"
-      },
-      {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-        "source": "BBC News",
-        "published": "2026-11-21T00:06:11+00:00"
-      },
-      {
-        "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-        "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
-        "description": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
-        "source": "BBC News",
-        "published": "2026-11-21T00:03:16+00:00"
-      },
-      {
-        "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-        "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-        "description": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-        "source": "BBC News",
-        "published": "2026-11-20T23:20:33+00:00"
       },
       {
         "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
@@ -567,6 +567,48 @@
     ],
     "turkiye": [
       {
+        "title": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı",
+        "link": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964",
+        "description": "Ticaret Bakanlığı, yanıltıcı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen ve \"Hep Ucuz\" ifadesini içeren reklamlar nedeniyle bir zincir markete 1 milyon 83 bin lira ceza verildi.",
+        "source": "NTV",
+        "published": "2026-11-22T05:22:59+03:00"
+      },
+      {
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-kasim-2026-1751970",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-11-22T05:00:00+03:00"
+      },
+      {
+        "title": "Bakan Fidan'dan vize açıklaması: Birkaç konunun Meclis'ten geçmesi gerekiyor",
+        "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-vize-aciklamasi-birkac-konu-meclisten-gecmesi-gerekiyor-1751968",
+        "description": "Dışişleri Bakanı Hakan Fidan, Schengen vizesi sorununun çözümüne ilişkin, “Tamamlamamız gereken birkaç konu var, Meclis’ten geçmesi gerekiyor, Cumhurbaşkanımız da talimat verdi.\" dedi.",
+        "source": "NTV",
+        "published": "2026-11-22T04:53:53+03:00"
+      },
+      {
+        "title": "Son dakika İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir deprem Kandilli ve AFAD son depremler listesi 22 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-izmirde-deprem-mi-oldu-az-once-deprem-izmirde-nerede-oldu-izmir-deprem-kandilli-ve-afad-son-depremler-listesi-22-kasim-2026-1751979",
+        "description": "Son dakika İzmir deprem haberleri.. İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir Kandilli ve AFAD son depremler.. 22 Kasım 2026 İzmir deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu İzmir'de? İzmir son...",
+        "source": "NTV",
+        "published": "2026-11-22T03:40:00+03:00"
+      },
+      {
+        "title": "5 araçlı zincirleme kaza: Ölü ve çok sayıda yaralı var",
+        "link": "https://www.sozcu.com.tr/hatayda-5-aracli-zincirleme-kaza-1-olu-10-yarali-p383331",
+        "description": "5 araçlı zincirleme kaza: Ölü ve çok sayıda yaralı var",
+        "source": "Sözcü",
+        "published": "2026-11-22T03:13:44+03:00"
+      },
+      {
+        "title": "Son dakika... Türkiye-İran sınırında korkutan deprem",
+        "link": "https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330",
+        "description": "Son dakika... Türkiye-İran sınırında korkutan deprem",
+        "source": "Sözcü",
+        "published": "2026-11-22T01:39:50+03:00"
+      },
+      {
         "title": "Real Madrid geriden gelip kazandı! Zirvede Barcelona'yı yakaladı",
         "link": "https://www.sozcu.com.tr/real-madrid-geriden-gelip-kazandi-zirvede-barcelona-yi-yakaladi-p383327",
         "description": "Real Madrid geriden gelip kazandı! Zirvede Barcelona'yı yakaladı",
@@ -581,25 +623,11 @@
         "published": "2026-11-22T01:01:43+03:00"
       },
       {
-        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Kasım 2026",
-        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-kasim-2026-1751970",
-        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
-        "source": "NTV",
-        "published": "2026-11-22T01:00:00+03:00"
-      },
-      {
         "title": "Ünlü rapçi Killa Hakan’ın son sağlık durumu belli oldu: Yoğun bakımda tedavi görüyordu",
         "link": "https://www.sozcu.com.tr/unlu-rapci-killa-hakan-in-son-saglik-durumu-belli-oldu-yogun-bakimda-tedavi-goruyordu-p383326",
         "description": "Ünlü rapçi Killa Hakan’ın son sağlık durumu belli oldu: Yoğun bakımda tedavi görüyordu",
         "source": "Sözcü",
         "published": "2026-11-22T00:58:09+03:00"
-      },
-      {
-        "title": "Bakan Fidan'dan vize açıklaması: Birkaç konu Meclis'ten geçmesi gerekiyor",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-vize-aciklamasi-birkac-konu-meclisten-gecmesi-gerekiyor-1751968",
-        "description": "Dışişleri Bakanı Hakan Fidan, Schengen vizesi sorununun çözümüne ilişkin, “Tamamlamamız gereken birkaç konu var, Meclis’ten geçmesi gerekiyor, Cumhurbaşkanımız da talimat verdi.\" dedi.",
-        "source": "NTV",
-        "published": "2026-11-22T00:55:42+03:00"
       },
       {
         "title": "Son dakika Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 22 Kasım 2026",
@@ -651,13 +679,6 @@
         "published": "2026-11-22T00:05:17+03:00"
       },
       {
-        "title": "Tümer Metin'den Fenerbahçeli futbolcu için olay yorum! 'Halı sahaya bile çağırmam'",
-        "link": "https://www.sozcu.com.tr/tumer-metinden-semedoya-haltumer-metin-den-fenerbahceli-futbolcu-icin-olay-yorum-hali-sahaya-bile-p383318",
-        "description": "Tümer Metin'den Fenerbahçeli futbolcu için olay yorum! 'Halı sahaya bile çağırmam'",
-        "source": "Sözcü",
-        "published": "2026-11-21T23:36:03+03:00"
-      },
-      {
         "title": "Fren yerine gaza basan vale ortalığı birbirine kattı",
         "link": "https://www.sozcu.com.tr/fren-yerine-gaza-basan-vale-ortaligi-birbirine-katti-p383319",
         "description": "Fren yerine gaza basan vale ortalığı birbirine kattı",
@@ -665,25 +686,11 @@
         "published": "2026-11-21T23:31:04+03:00"
       },
       {
-        "title": "Süper Lig'in yıldız forveti kayıplara karıştı! Teknik direktöründen ulaşamıyoruz açıklaması",
-        "link": "https://www.sozcu.com.tr/super-lig-in-yildiz-forveti-kayiplara-karisti-teknik-direktorunden-ulasamiyoruz-aciklamasi-p383317",
-        "description": "Süper Lig'in yıldız forveti kayıplara karıştı! Teknik direktöründen ulaşamıyoruz açıklaması",
-        "source": "Sözcü",
-        "published": "2026-11-21T23:28:44+03:00"
-      },
-      {
         "title": "Son dakika Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 21 Kasım 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-21-kasim-2026-1751966",
         "description": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 21 Kasım 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü...",
         "source": "NTV",
         "published": "2026-11-21T22:40:00+03:00"
-      },
-      {
-        "title": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı",
-        "link": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964",
-        "description": "Ticaret Bakanlığı, yanıltıcı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen ve \"Hep Ucuz\" ifadesini içeren reklamlar nedeniyle bir zincir markete 1 milyon 83 bin lira ceza verildi.",
-        "source": "NTV",
-        "published": "2026-11-21T22:28:32+03:00"
       },
       {
         "title": "İETT otobüsünde yolcuları bıçakla tehdit etti: Alkollü yolcu gözaltına alındı",
@@ -698,13 +705,6 @@
         "description": "Beykoz’da seyir halindeki İETT otobüsünde bıçakla tehditte bulunduğu belirtilen şüpheli, polis ekipleri tarafından yakalanarak gözaltına alındı. Şüphelinin 2,41 promil alkollü olduğu belirlendi.",
         "source": "NTV",
         "published": "2026-11-21T22:02:05+03:00"
-      },
-      {
-        "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1751958",
-        "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
-        "source": "NTV",
-        "published": "2026-11-21T21:48:58+03:00"
       },
       {
         "title": "Yeni 'Bond kızı' kim olacak?",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 50.5343,
-    "eur_try": 55.468,
-    "eur_usd": 0.9107
+    "usd_try": 50.602,
+    "eur_try": 55.532,
+    "eur_usd": 0.9113
   },
   "weather": {
-    "condition": "Kapalı",
-    "temp": "+42°F",
-    "wind": "↙7mph",
-    "humidity": "73%"
+    "condition": "Patchy rain nearby",
+    "temp": "+45°F",
+    "wind": "↖3mph",
+    "humidity": "71%"
   }
 }
