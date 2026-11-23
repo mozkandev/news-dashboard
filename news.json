@@ -1,48 +1,118 @@
 {
-  "updated_at": "2026-11-22T23:30:41.611117+00:00",
+  "updated_at": "2026-11-23T05:59:19.531461+00:00",
   "categories": {
     "teknoloji": [
       {
+        "title": "Switch 2'ye pilsiz mobil internet adaptörü",
+        "link": "https://shiftdelete.net/switch-2-pilsiz-mobil-internet-adaptoru",
+        "description": "Japon şirketi Kaus Media, Switch 2'nin USB-C girişine takılan ve gücünü konsoldan alan 4G LTE adaptörü Switch Direct Link için ön sipariş topluyor. Ürün Nintendo onaylı değil.",
+        "source": "ShiftDelete",
+        "published": "2026-11-23T08:30:11+03:00"
+      },
+      {
+        "title": "Anthropic'e erken yatırım yapanlar kazandı",
+        "link": "https://shiftdelete.net/anthropic-halka-arz-oncesi-yatirimcilar-notable-gic-baillie-gifford",
+        "description": "Anthropic'in 81,3 milyar dolarlık rekor halka arzı, Notable Capital, GIC ve Baillie Gifford gibi erken yatırımcıları büyük kağıt üzerinde kazançla buluşturdu.",
+        "source": "ShiftDelete",
+        "published": "2026-11-23T07:30:07+03:00"
+      },
+      {
+        "title": "OpenAI'dan yapay zekaya ortak hız sınırı önerisi",
+        "link": "https://shiftdelete.net/openai-pachocki-perplexity-ortak-hiz-siniri",
+        "description": "OpenAI'ın baş bilim insanı Jakub Pachocki, modellerinin iç ölçüm verilerini ilk kez paylaştı ve yapay zeka şirketlerine perplexity temelli ortak gelişim sınırları önerdi.",
+        "source": "ShiftDelete",
+        "published": "2026-11-23T07:00:09+03:00"
+      },
+      {
+        "title": "Activision NPC'leri sesli sohbetle eğitecek",
+        "link": "https://shiftdelete.net/activision-npc-sesli-sohbet-yapay-zeka-patenti",
+        "description": "Activision'ın yeni patent başvurusu, oyuncuların Discord gibi uygulamalardaki sesli sohbet tepkilerini yapay zekaya öğretip oyun karakterlerine konuşturmayı anlatıyor.",
+        "source": "ShiftDelete",
+        "published": "2026-11-23T06:30:07+03:00"
+      },
+      {
+        "title": "Meta'nın yapay zeka şefinden süper zeka uyarısı",
+        "link": "https://shiftdelete.net/alexandr-wang-super-zeka-geliyor-riemann",
+        "description": "Meta'nın yapay zeka şefi Alexandr Wang, Riemann Hipotezi'nin yapay zeka yardımıyla ispatlanmasını süper zekanın habercisi saydı ve sektöre 'varsayılan yoldan' çıkma çağrısı yaptı.",
+        "source": "ShiftDelete",
+        "published": "2026-11-23T06:00:08+03:00"
+      },
+      {
+        "title": "A Partial Evaluator for C",
+        "link": "https://phoenix.labri.fr/software/tempo/",
+        "description": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 6 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-11-23T04:51:48+00:00"
+      },
+      {
+        "title": "Mass destruction of weapons",
+        "link": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
+        "description": "Article URL: https://computer.rip/2026-11-22-mass-destruction-of-weapons.html Comments URL: https://news.ycombinator.com/item?id=50607591 Points: 7 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-11-23T04:47:35+00:00"
+      },
+      {
+        "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+        "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+        "description": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://news.ycombinator.com/item?id=50607498 Points: 18 # Comments: 2",
+        "source": "HackerNews",
+        "published": "2026-11-23T04:31:32+00:00"
+      },
+      {
+        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+        "link": "https://github.com/AFK-surf/xnulinux",
+        "description": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 81 # Comments: 29",
+        "source": "HackerNews",
+        "published": "2026-11-23T03:49:24+00:00"
+      },
+      {
+        "title": "The New Docker: Built to Run on Trust",
+        "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+        "description": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 23 # Comments: 31",
+        "source": "HackerNews",
+        "published": "2026-11-23T03:34:29+00:00"
+      },
+      {
+        "title": "Treemap of the Riemann Hypothesis Lean Proof",
+        "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+        "description": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 22 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-11-23T01:50:23+00:00"
+      },
+      {
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "source": "TechCrunch",
+        "published": "2026-11-23T01:25:53+00:00"
+      },
+      {
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "link": "https://spelunkr.tv",
+        "description": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 304 # Comments: 48",
+        "source": "HackerNews",
+        "published": "2026-11-23T01:13:51+00:00"
+      },
+      {
+        "title": "What we learned operating auth for 1k APIs",
+        "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+        "description": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 27 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-11-23T01:01:11+00:00"
+      },
+      {
+        "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "link": "https://0rwx.com/",
+        "description": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 34 # Comments: 6",
+        "source": "HackerNews",
+        "published": "2026-11-22T23:53:00+00:00"
+      },
+      {
         "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
         "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-        "description": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 5 # Comments: 0",
+        "description": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 197 # Comments: 154",
         "source": "HackerNews",
         "published": "2026-11-22T23:12:10+00:00"
-      },
-      {
-        "title": "GL.iNet Security Notice 2026-11-20",
-        "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-        "description": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 7 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-11-22T23:06:37+00:00"
-      },
-      {
-        "title": "Do Not Accept",
-        "link": "https://donotaccept.ai/",
-        "description": "Article URL: https://donotaccept.ai/ Comments URL: https://news.ycombinator.com/item?id=50604959 Points: 13 # Comments: 6",
-        "source": "HackerNews",
-        "published": "2026-11-22T23:02:20+00:00"
-      },
-      {
-        "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
-        "link": "https://philpapers.org/rec/NIEIOT-2",
-        "description": "Article URL: https://philpapers.org/rec/NIEIOT-2 Comments URL: https://news.ycombinator.com/item?id=50604742 Points: 23 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-11-22T22:41:33+00:00"
-      },
-      {
-        "title": "The Usefulness of Useless Knowledge [pdf]",
-        "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-        "description": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 17 # Comments: 1",
-        "source": "HackerNews",
-        "published": "2026-11-22T22:10:58+00:00"
-      },
-      {
-        "title": "Agent swarm trying to solve P vs. NP",
-        "link": "https://pequalnp.com/",
-        "description": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 38 # Comments: 29",
-        "source": "HackerNews",
-        "published": "2026-11-22T21:53:45+00:00"
       },
       {
         "title": "‘You Can See Everything’ has made more than $100M worldwide",
@@ -52,11 +122,11 @@
         "published": "2026-11-22T21:42:48+00:00"
       },
       {
-        "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-        "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-        "description": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 13 # Comments: 3",
-        "source": "HackerNews",
-        "published": "2026-11-22T21:33:12+00:00"
+        "title": "We haven’t seen the last of the major tech outages",
+        "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+        "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of...",
+        "source": "The Verge",
+        "published": "2026-11-22T21:41:02-05:00"
       },
       {
         "title": "Windows 11'de Bluetooth kulaklık sesi düzeliyor",
@@ -73,20 +143,6 @@
         "published": "2026-11-22T21:14:07+00:00"
       },
       {
-        "title": "Will the first approved psychedelic become a blockbuster?",
-        "link": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
-        "description": "Article URL: https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/ Comments URL: https://news.ycombinator.com/item?id=50603962 Points: 9 # Comments: 5",
-        "source": "HackerNews",
-        "published": "2026-11-22T21:13:10+00:00"
-      },
-      {
-        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "description": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 99 # Comments: 28",
-        "source": "HackerNews",
-        "published": "2026-11-22T21:01:16+00:00"
-      },
-      {
         "title": "Oyun ve iş için tek laptop hangisi?",
         "link": "https://shiftdelete.net/oyun-ve-is-icin-tek-laptop-hangisi",
         "description": "Casper Excalibur G915'in 32 GB RAM ve 2 TB SSD'li sürümü, 16 inç 16:10 ekran ve Thunderbolt 4 ile geliyor.",
@@ -99,13 +155,6 @@
         "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
         "source": "TechCrunch",
         "published": "2026-11-22T21:00:00+00:00"
-      },
-      {
-        "title": "I did a meditation and it sort of changed my personality?!",
-        "link": "https://www.benkuhn.net/meditation/",
-        "description": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50603674 Points: 24 # Comments: 12",
-        "source": "HackerNews",
-        "published": "2026-11-22T20:41:59+00:00"
       },
       {
         "title": "Çinlilerin Ekran Kartı İddialı",
@@ -129,25 +178,11 @@
         "published": "2026-11-22T19:20:08+03:00"
       },
       {
-        "title": "Signal sohbetleri Siri ve Gemini'ye kapatıyor",
-        "link": "https://shiftdelete.net/signal-siri-gemini-yapay-zeka-engeli",
-        "description": "Signal, iOS 27'de ekran görüntüsünü engelleyerek ve Android'de ekran güvenliğini kendiliğinden açarak Siri ve Gemini gibi yapay zeka asistanlarının sohbetleri yakalamasının önüne geçiyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-22T18:50:09+03:00"
-      },
-      {
         "title": "Why data centers are at the center of the Big Tech backlash",
         "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
         "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
         "source": "TechCrunch",
         "published": "2026-11-22T18:08:43+00:00"
-      },
-      {
-        "title": "iPad mini 8 inceleme: OLED ekran ve A20 Pro",
-        "link": "https://shiftdelete.net/ipad-mini-8-inceleme",
-        "description": "iPad mini 8'i inceledik. OLED ekran, 2 nm A20 Pro işlemci, IP67 dayanıklılık ve daha ince tasarımıyla gelen yeni kompakt tabletin Türkiye fiyatını ve tüm özelliklerini anlattık.",
-        "source": "ShiftDelete",
-        "published": "2026-11-22T18:06:32+03:00"
       },
       {
         "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
@@ -157,39 +192,11 @@
         "published": "2026-11-22T17:58:40-05:00"
       },
       {
-        "title": "We haven’t seen the last of the major tech outages",
-        "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-        "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of...",
-        "source": "The Verge",
-        "published": "2026-11-22T17:48:02-05:00"
-      },
-      {
         "title": "TechCrunch Mobility: A/B testing robots vs. humans",
         "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
         "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
         "source": "TechCrunch",
         "published": "2026-11-22T17:06:00+00:00"
-      },
-      {
-        "title": "Zayıflama ilaçları tarım arazisini azaltabilir",
-        "link": "https://shiftdelete.net/glp1-zayiflama-ilaclari-tarim-arazisi-arastirma",
-        "description": "Nature Communications'ta yayımlanan bir çalışmaya göre GLP-1 ilaçlarının yaygınlaşması 2050'ye kadar 32 milyon hektar araziyi tarımdan çıkarabilir. Daha ucuz gıda ise tedavi görmeyenlerin tüketimini artırabilir.",
-        "source": "ShiftDelete",
-        "published": "2026-11-22T16:30:08+03:00"
-      },
-      {
-        "title": "Yapay zeka sıfırdan işlemci tasarladı",
-        "link": "https://shiftdelete.net/architect-labs-frostbite-yapay-zeka-islemci",
-        "description": "Architect Labs, komut setinden devre yerleşimine kadar tamamen yapay zekanın tasarladığı Frostbite işlemcisini tanıttı. Şirket watt başına 4,59 kat performans iddia ediyor, ancak rakamlar henüz silikon öncesi.",
-        "source": "ShiftDelete",
-        "published": "2026-11-22T16:00:10+03:00"
-      },
-      {
-        "title": "Samsung 2027'de yeni Galaxy Watch çıkarmayacak",
-        "link": "https://shiftdelete.net/samsung-2027-yeni-galaxy-watch-yok",
-        "description": "ETNews'e göre Samsung, Galaxy Watch serisini iki yılda bir yenileyecek. Zarar eden mobil bölüm Galaxy A üretimini azaltıyor, Galaxy S27'de Pro ve Ultra'ya ağırlık veriyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-22T15:30:09+03:00"
       },
       {
         "title": "Can a TV be too large? An investigation",
@@ -241,11 +248,11 @@
         "published": "2026-11-22T08:15:27-05:00"
       },
       {
-        "title": "Your questions about Apple HomeView’s audio, answered",
-        "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-        "description": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps -...",
+        "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+        "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+        "description": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the...",
         "source": "The Verge",
-        "published": "2026-11-22T08:11:50-05:00"
+        "published": "2026-11-22T07:28:42-05:00"
       },
       {
         "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -274,13 +281,6 @@
         "description": "2026'nın en iyi ekran koruyucu markalarını karşılaştırıyor; Spigen, Baseus, Nillkin, Benks, ESR, Belkin ve PanzerGlass modellerinin özelliklerini ve detaylarını inceliyoruz.",
         "source": "Webtekno",
         "published": "2026-11-21T17:12:14+03:00"
-      },
-      {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "source": "TechCrunch",
-        "published": "2026-11-21T17:00:00+00:00"
       },
       {
         "title": "Mercedes-AMG GT 4-Kapı Coupé Türkiye'de Satışa Çıktı: İşte Fiyatı ve Özellikleri",
@@ -355,18 +355,67 @@
     ],
     "dunya": [
       {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+        "source": "BBC News",
+        "published": "2026-11-23T05:34:39+00:00"
+      },
+      {
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+        "source": "BBC News",
+        "published": "2026-11-23T05:33:17+00:00"
+      },
+      {
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+        "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "source": "BBC News",
+        "published": "2026-11-23T05:15:06+00:00"
+      },
+      {
+        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+        "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+        "source": "BBC News",
+        "published": "2026-11-23T04:21:50+00:00"
+      },
+      {
+        "title": "Pip assessments need 'fundamental overhaul', report to say",
+        "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "description": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+        "source": "BBC News",
+        "published": "2026-11-23T04:01:13+00:00"
+      },
+      {
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+        "source": "BBC News",
+        "published": "2026-11-23T02:59:35+00:00"
+      },
+      {
+        "title": "NHS launches world's largest AI breast cancer screening trial",
+        "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "source": "BBC News",
+        "published": "2026-11-23T00:49:22+00:00"
+      },
+      {
+        "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+        "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+        "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+        "source": "BBC News",
+        "published": "2026-11-23T00:40:36+00:00"
+      },
+      {
         "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
         "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
         "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
         "source": "BBC News",
         "published": "2026-11-22T22:49:10+00:00"
-      },
-      {
-        "title": "Boy, 7, pulled from rubble hours after Russian strike in Ukraine, rescuers say",
-        "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-        "description": "Six people are dead, with rescue efforts ongoing to find those still missing from the residential building.",
-        "source": "BBC News",
-        "published": "2026-11-22T22:25:00+00:00"
       },
       {
         "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
@@ -376,32 +425,18 @@
         "published": "2026-11-22T21:33:44+00:00"
       },
       {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+        "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+        "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+        "description": "The couple have been together for four years and were engaged in 2025.",
         "source": "BBC News",
-        "published": "2026-11-22T20:28:09+00:00"
+        "published": "2026-11-22T21:22:40+00:00"
       },
       {
-        "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-        "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-        "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-        "source": "BBC News",
-        "published": "2026-11-22T20:26:24+00:00"
-      },
-      {
-        "title": "What's next after no deal at COP31 climate talks?",
-        "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-        "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "source": "BBC News",
-        "published": "2026-11-22T18:57:24+00:00"
-      },
-      {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-        "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-        "source": "BBC News",
-        "published": "2026-11-22T18:17:59+00:00"
+        "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+        "description": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible.",
+        "source": "NPR",
+        "published": "2026-11-22T20:53:48-05:00"
       },
       {
         "title": "What it's like at a climate conference as talks collapse",
@@ -416,34 +451,6 @@
         "description": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
         "source": "NPR",
         "published": "2026-11-22T17:40:19-05:00"
-      },
-      {
-        "title": "Russell Brand's wife says she'll honour prison rules after message row",
-        "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
-        "description": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-        "source": "BBC News",
-        "published": "2026-11-22T16:51:57+00:00"
-      },
-      {
-        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-        "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
-        "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-        "source": "BBC News",
-        "published": "2026-11-22T14:19:06+00:00"
-      },
-      {
-        "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-        "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-        "source": "BBC News",
-        "published": "2026-11-22T13:50:21+00:00"
-      },
-      {
-        "title": "BBC apologises after noise disruption during Strictly",
-        "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
-        "description": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
-        "source": "BBC News",
-        "published": "2026-11-22T13:46:00+00:00"
       },
       {
         "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
@@ -509,13 +516,6 @@
         "published": "2026-11-21T17:40:36-05:00"
       },
       {
-        "title": "Google employees protest AI in schools policy",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-        "description": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
-        "source": "NPR",
-        "published": "2026-11-21T17:01:40-05:00"
-      },
-      {
         "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
         "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
         "description": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main...",
@@ -567,60 +567,137 @@
     ],
     "turkiye": [
       {
+        "title": "Miss Turkey birincisi Hande Subaşı ikinci kez gelin oluyor: Nikah yeri bile belli oldu",
+        "link": "https://www.sozcu.com.tr/miss-turkey-birincisi-hande-subasi-ikinci-kez-gelin-oluyor-nikah-yeri-bile-belli-oldu-p383590",
+        "description": "Miss Turkey birincisi Hande Subaşı ikinci kez gelin oluyor: Nikah yeri bile belli oldu",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:50:27+03:00"
+      },
+      {
+        "title": "İstanbul'da aslan alarmı... Her yerde aranıyor: Vatandaşlara \"evinizden çıkmayın\" uyarısı",
+        "link": "https://www.sozcu.com.tr/istanbul-da-aslan-alarmi-her-yerde-araniyor-vatandaslara-evinizden-cikmayin-uyarisi-p383573",
+        "description": "İstanbul'da aslan alarmı... Her yerde aranıyor: Vatandaşlara \"evinizden çıkmayın\" uyarısı",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:49:02+03:00"
+      },
+      {
+        "title": "Türkiye'nin bu mahallesinde kadınlar 6 dil konuşuyor: Okula gitmeden öğrendiler",
+        "link": "https://www.sozcu.com.tr/turkiye-nin-bu-mahallesinde-kadinlar-6-dil-konusuyor-okula-gitmeden-ogrendiler-p383587",
+        "description": "Türkiye'nin bu mahallesinde kadınlar 6 dil konuşuyor: Okula gitmeden öğrendiler",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:47:31+03:00"
+      },
+      {
+        "title": "İçişleri Bakanlığı 1170 personel alımı yapacak. Başvurular ne zaman, şartlar neler?",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-icisleri-bakanligi-1170-personel-alimi-yapacak-basvurular-ne-zaman-sartlar-neler-1752134",
+        "description": "Kamu kurumlarında görev almak isteyen binlerce aday için İçişleri Bakanlığı’ndan beklenen istihdam duyurusu geldi. Bakanlık merkez ve taşra teşkilatı birimlerinde görevlendirilmek üzere toplam 1170 sözleşmeli personel alımı yapacak. Peki, İçişleri...",
+        "source": "NTV",
+        "published": "2026-11-23T08:47:10+03:00"
+      },
+      {
+        "title": "Ara tatil bitti, milyonlarca öğretmen ve öğrenci yeniden dersbaşı yaptı",
+        "link": "https://www.ntv.com.tr/turkiye/ara-tatil-bitti-milyonlarca-ogretmen-ve-ogrenci-yeniden-dersbasi-yapti-1752137",
+        "description": "Milli Eğitim Bakanlığı'na bağlı ilk ve ortaöğretim kurumlarında ilk ara tatilinin ardından bu sabah dersbaşı yapıldı.",
+        "source": "NTV",
+        "published": "2026-11-23T08:42:50+03:00"
+      },
+      {
+        "title": "Borsada herkes yapay zekaya koşarken milyarder Buffett'ın halefi bu 3 hisseyi seçti",
+        "link": "https://www.sozcu.com.tr/borsada-herkes-yapay-zekaya-kosarken-milyarder-buffett-in-halefi-bu-3-hisseyi-secti-p383586",
+        "description": "Borsada herkes yapay zekaya koşarken milyarder Buffett'ın halefi bu 3 hisseyi seçti",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:32:34+03:00"
+      },
+      {
+        "title": "İstanbul ve Ankara değil: Türkiye'nin en iyi simidi bu ilimizden çıktı",
+        "link": "https://www.sozcu.com.tr/istanbul-ve-ankara-degil-turkiye-nin-en-iyi-simidi-bu-ilimizden-cikti-p383582",
+        "description": "İstanbul ve Ankara değil: Türkiye'nin en iyi simidi bu ilimizden çıktı",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:30:12+03:00"
+      },
+      {
+        "title": "3,5 saatlik yol 1,5 saate indi: 400 metrede iki yakayı birleştirdiler",
+        "link": "https://www.sozcu.com.tr/3-5-saatlik-yol-1-5-saate-indi-400-metre-yukseklikteki-koprude-iki-yaka-birlesti-p383572",
+        "description": "3,5 saatlik yol 1,5 saate indi: 400 metrede iki yakayı birleştirdiler",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:30:06+03:00"
+      },
+      {
         "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
         "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
         "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
         "source": "NTV",
-        "published": "2026-11-23T02:30:00+03:00"
+        "published": "2026-11-23T08:30:00+03:00"
       },
       {
-        "title": "Futbol, aynasıdır bir ülkenin",
-        "link": "https://www.sozcu.com.tr/futbol-aynasidir-bir-ulkenin-p383549",
-        "description": "Futbol, aynasıdır bir ülkenin",
+        "title": "Dilan Çiçek Deniz'den Birkan Nasuhoğlu'na romantik sözler: \"Hayat arkadaşım\"",
+        "link": "https://www.sozcu.com.tr/dilan-cicek-deniz-den-birkan-nasuhoglu-na-romantik-sozler-hayat-arkadasim-p383581",
+        "description": "Dilan Çiçek Deniz'den Birkan Nasuhoğlu'na romantik sözler: \"Hayat arkadaşım\"",
         "source": "Sözcü",
-        "published": "2026-11-23T02:17:17+03:00"
+        "published": "2026-11-23T08:27:11+03:00"
       },
       {
-        "title": "Sarıyer'de aslan alarmı. Ekipler çalışma başlattı",
+        "title": "Arzum Onan'dan oğluna duygusal mesaj: \"Bugün anne olduğum yaştasın\"",
+        "link": "https://www.sozcu.com.tr/arzum-onan-dan-ogluna-duygusal-mesaj-bugun-anne-oldugum-yastasin-p383578",
+        "description": "Arzum Onan'dan oğluna duygusal mesaj: \"Bugün anne olduğum yaştasın\"",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:19:06+03:00"
+      },
+      {
+        "title": "Ev alıp, kiralayacaklardan yeni ücret istenmeye başlandı: Meğer tamamen yasakmış",
+        "link": "https://www.sozcu.com.tr/ev-alip-kiralayacaklardan-yeni-ucret-istenmeye-baslandi-meger-tamamen-yasakmis-p383577",
+        "description": "Ev alıp, kiralayacaklardan yeni ücret istenmeye başlandı: Meğer tamamen yasakmış",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:12:30+03:00"
+      },
+      {
+        "title": "Bakırda alım fırsatı geldi mi? UBS yükseliş için tarih verdi",
+        "link": "https://www.sozcu.com.tr/bakirda-alim-firsati-geldi-mi-ubs-yukselis-icin-tarih-verdi-p383574",
+        "description": "Bakırda alım fırsatı geldi mi? UBS yükseliş için tarih verdi",
+        "source": "Sözcü",
+        "published": "2026-11-23T08:10:50+03:00"
+      },
+      {
+        "title": "Sarıyer'de aslan alarmı. Yeri bulundu, çember daraldı",
         "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
-        "description": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
+        "description": "Sarıyer'de Uskumruköy'de bir evden kaçtığı değerlendirilen aslanı yakalama çalışmaları gece boyunca sürdü. Ormandaki yeri tespit edilen aslan için çember giderek daraltıldı. Çalışmalar sürüyor.",
         "source": "NTV",
-        "published": "2026-11-23T01:33:21+03:00"
+        "published": "2026-11-23T07:44:41+03:00"
       },
       {
-        "title": "Van'da iki ilçede eğitime kar engeli! Okullar tatil edildi",
-        "link": "https://www.sozcu.com.tr/van-okullar-tatil-mi-caldiran-muradiye-egitime-ara-23-kasim-2026-p383547",
-        "description": "Van'da iki ilçede eğitime kar engeli! Okullar tatil edildi",
-        "source": "Sözcü",
-        "published": "2026-11-23T01:09:35+03:00"
-      },
-      {
-        "title": "Marmara ve Ege'de feribot seferlerine fırtına engeli",
-        "link": "https://www.ntv.com.tr/turkiye/marmara-ve-egede-feribot-seferlerine-firtina-engeli-1752096",
-        "description": "Bursa Deniz Otobüsleri (BUDO), İstanbul Deniz Otobüsleri (İDO) ile Çanakkale’nin Gökçeada ve Bozcaada ilçelerine yapılması planlanan bazı feribot seferleri iptal edildi.",
+        "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 23 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-23-kasim-2026-1752119",
+        "description": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 23 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son...",
         "source": "NTV",
-        "published": "2026-11-23T01:07:31+03:00"
+        "published": "2026-11-23T03:10:00+03:00"
       },
       {
-        "title": "Yüzlerce taş tabutun bulunduğu mezarlıkta altın diller keşfedildi",
-        "link": "https://www.sozcu.com.tr/yuzlerce-tas-tabutun-bulundugu-mezarlikta-altin-diller-kesfedildi-p383548",
-        "description": "Yüzlerce taş tabutun bulunduğu mezarlıkta altın diller keşfedildi",
-        "source": "Sözcü",
-        "published": "2026-11-23T01:01:15+03:00"
+        "title": "Muğla açıklarında 4,2 büyüklüğünde deprem",
+        "link": "https://www.ntv.com.tr/turkiye/mugla-aciklarinda-42-buyuklugunde-deprem-1752118",
+        "description": "Ege Denizi'nde Muğla açıklarında 4,2 büyüklüğünde deprem meydana geldi.",
+        "source": "NTV",
+        "published": "2026-11-23T03:06:08+03:00"
       },
       {
-        "title": "Sarıyer'de aslan paniği! İhbar üzerine ekipler harekete geçti",
-        "link": "https://www.sozcu.com.tr/sariyer-de-aslan-ihbari-p383538",
-        "description": "Sarıyer'de aslan paniği! İhbar üzerine ekipler harekete geçti",
-        "source": "Sözcü",
-        "published": "2026-11-23T00:36:33+03:00"
+        "title": "İstanbul'da bugün fırtına yarın kış. Sıcaklık 12 derece birden düşecek",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-firtina-yarin-kis-sicaklik-12-derece-birden-dusecek-1752117",
+        "description": "İstanbul bugün fırtınalı ve kuvvetli yağışlı bir havanın etkisine giriyor. Yarın ise sıcaklıklar 12 derece birden düşecek. Yağışların, yüksek yerlerde sulu kar şeklinde görülmesi bekleniyor.",
+        "source": "NTV",
+        "published": "2026-11-23T03:01:26+03:00"
       },
       {
-        "title": "Sarıyer'de aslan arama çalışmaları sürerken Abdülkerim Bardakcı'dan dikkat çeken paylaşım",
-        "link": "https://www.sozcu.com.tr/abdulkerim-bardakci-aslan-paylasimi-p383545",
-        "description": "Sarıyer'de aslan arama çalışmaları sürerken Abdülkerim Bardakcı'dan dikkat çeken paylaşım",
-        "source": "Sözcü",
-        "published": "2026-11-23T00:29:40+03:00"
+        "title": "Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin önemli bir aşamasıdır?",
+        "link": "https://www.bbc.com/turkce/articles/c5742kxe9pexo?at_medium=RSS&at_campaign=rss",
+        "description": "Çocuğunuzun ilk yalanları sizi kaygılandırabilir. Ancak bu, zihinsel gelişimlerinde önemli bir aşamayı temsil ediyor. Doğruyu söyleme ve açık olma alışkanlığının nasıl geliştirilebileceği üzerine düşünmek gerekiyor.",
+        "source": "BBC Turkish",
+        "published": "2026-11-23T00:20:04+00:00"
+      },
+      {
+        "title": "Demokratlar, 1992'den bu yana ABD Temsilciler Meclisi'ndeki en fazla sandalyeye ulaştı",
+        "link": "https://www.bbc.com/turkce/articles/c50mdr0mp04ro?at_medium=RSS&at_campaign=rss",
+        "description": "Demokratlar ara seçimlerde en az 258 sandalye kazanırken Cumhuriyetçiler en az 173 sandalye elde etti. Henüz açıklanmayan dört yer var.",
+        "source": "BBC Turkish",
+        "published": "2026-11-23T00:18:59+00:00"
       },
       {
         "title": "Van’ın 3 ilçesinde eğitime kar engeli",
@@ -630,46 +707,11 @@
         "published": "2026-11-23T00:03:56+03:00"
       },
       {
-        "title": "Uçurumun kenarına bina diktiler",
-        "link": "https://www.sozcu.com.tr/ucurumun-kenarina-bina-kondurdular-p383541",
-        "description": "Uçurumun kenarına bina diktiler",
-        "source": "Sözcü",
-        "published": "2026-11-22T23:33:00+03:00"
-      },
-      {
-        "title": "Hollywood efsanesi Edward Norton, oğluyla beraber hayranı olduğu Türk yıldızı açıkladı",
-        "link": "https://www.sozcu.com.tr/hollywood-efsanesi-edward-norton-ogluyla-beraber-hayrani-oldugu-turk-yildizi-acikladi-p383542",
-        "description": "Hollywood efsanesi Edward Norton, oğluyla beraber hayranı olduğu Türk yıldızı açıkladı",
-        "source": "Sözcü",
-        "published": "2026-11-22T23:25:25+03:00"
-      },
-      {
-        "title": "ATP Finalleri'nde şampiyon Carlos Alcaraz",
-        "link": "https://www.sozcu.com.tr/atp-finallerinde-sampiyon-carlos-alcaraz-p383540",
-        "description": "ATP Finalleri'nde şampiyon Carlos Alcaraz",
-        "source": "Sözcü",
-        "published": "2026-11-22T23:06:28+03:00"
-      },
-      {
-        "title": "Nefes kesen derbiyi Beşiktaş Fuzul kazandı",
-        "link": "https://www.sozcu.com.tr/nefes-kesen-derbiyi-besiktas-fuzul-kazandi-p383539",
-        "description": "Nefes kesen derbiyi Beşiktaş Fuzul kazandı",
-        "source": "Sözcü",
-        "published": "2026-11-22T23:03:12+03:00"
-      },
-      {
         "title": "Sarıyer'de \"aslan gördüm\" ihbarı",
         "link": "https://www.ntv.com.tr/turkiye/video-sariyerde-aslan-gordum-ihbari-1752110",
         "description": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
         "source": "NTV",
         "published": "2026-11-22T22:57:30+03:00"
-      },
-      {
-        "title": "Trump'tan İran'a yeni saldırı tehdidi; tarih verdi",
-        "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklamasi-22-kasim-2026-p383536",
-        "description": "Trump'tan İran'a yeni saldırı tehdidi; tarih verdi",
-        "source": "Sözcü",
-        "published": "2026-11-22T22:33:31+03:00"
       },
       {
         "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
@@ -679,34 +721,6 @@
         "published": "2026-11-22T22:06:17+03:00"
       },
       {
-        "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1752107",
-        "description": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
-        "source": "NTV",
-        "published": "2026-11-22T22:04:54+03:00"
-      },
-      {
-        "title": "Bakan Çiftçi: 111 bin 904 ton insani yardım malzemesi Gazze'ye ulaştırıldı",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-ciftci-111-bin-904-ton-insani-yardim-malzemesi-gazzeye-ulastirildi-1752101",
-        "description": "İçişleri Bakanı Mustafa Çiftçi, 7 Ekim 2023'ten bugüne kadar toplam 111 bin 904 ton insani yardım malzemesinin Gazze'ye ulaştırıldığını bildirdi.",
-        "source": "NTV",
-        "published": "2026-11-22T21:37:39+03:00"
-      },
-      {
-        "title": "COP31'de Örtü Karar'a itiraz. Bakan Murat Kurum: Yeni bir metin olmayacak",
-        "link": "https://www.ntv.com.tr/turkiye/cop31de-ortu-karara-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayacak-1752080",
-        "description": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 zirvesi \"Örtü Karar\" taslak metnine ilişkin, \"Artık söz de karar da tarafların. Biz yapacağımız her şeyi yaptık.\" dedi.",
-        "source": "NTV",
-        "published": "2026-11-22T20:13:14+03:00"
-      },
-      {
-        "title": "Bakan Gürlek'ten fon soruşturması açıklaması: 9 ülkeye kaçırılan 13 milyar TL donduruldu",
-        "link": "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-9-ulkeye-kacirilan-13-milyar-tl-donduruldu-1752084",
-        "description": "Adalet Bakanı Akın Gürlek fon soruşturmasında, 9 ülkeye kaçırılan yaklaşık 13 milyar TL'lik varlığın dondurulduğunu açıkladı. Gürlek ayrıca 44 milyar 580 milyon TL'nin iade edildiğini duyurdu.",
-        "source": "NTV",
-        "published": "2026-11-22T18:45:57+03:00"
-      },
-      {
         "title": "Bakan Gürlek: HGS'yle ilgili soruşturma başlatıldı",
         "link": "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo?at_medium=RSS&at_campaign=rss",
         "description": "Adalet Bakanı Akın Gürlek, Hızlı Geçiş Sistemi (HGS) üzerinden haksız kazanç elde edildiği yönündeki iddialar ve şikayetler üzerine soruşturma başlatıldığını açıkladı.",
@@ -714,9 +728,9 @@
         "published": "2026-11-22T18:39:43+00:00"
       },
       {
-        "title": "COP31 sona erdi, 'Antalya Paktı' kabul edilmedi",
+        "title": "COP31 sona erdi: Ülkeler arasında anlaşma neden sağlanamadı?",
         "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
-        "description": "Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Avrupa Birliği, Panama ve Norveç dahil ülkelerin teklife itiraz etmesiyle anlaşma sağlanamadı. Konferans sona...",
+        "description": "Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Avrupa Birliği, Panama ve Norveç dahil bazı ülkelerin teklife itiraz etmesiyle anlaşma sağlanamadı. Konferans...",
         "source": "BBC Turkish",
         "published": "2026-11-22T17:33:33+00:00"
       },
@@ -728,25 +742,11 @@
         "published": "2026-11-22T15:50:24+00:00"
       },
       {
-        "title": "'Çağımızın en büyük mücevheratçısı': Paolo Bulgari 89 yaşında hayatını kaybetti",
-        "link": "https://www.bbc.com/turkce/articles/c9ly41k071r2o?at_medium=RSS&at_campaign=rss",
-        "description": "İtalyan medyasına yapılan açıklamada ailesi onu \"çağımızın en büyük mücevheratçısı\" olarak anıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-11-22T15:41:43+00:00"
-      },
-      {
         "title": "Antalya Kepez Belediyesi'ne soruşturma: 20 kişi gözaltına alındı",
         "link": "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo?at_medium=RSS&at_campaign=rss",
         "description": "Antalya Cumhuriyet Başsavcılığı tarafından Antalya Kepez Belediyesi'ne karşı yürütülen soruşturma kapsamında 20 kişinin gözaltına alındığı bildirildi.",
         "source": "BBC Turkish",
         "published": "2026-11-22T12:14:28+00:00"
-      },
-      {
-        "title": "Kapadokya'daki antik yeraltı şehrinden iklim dersleri",
-        "link": "https://www.bbc.com/turkce/articles/cm702e55rp84o?at_medium=RSS&at_campaign=rss",
-        "description": "Yüzyıllar önce Kapadokyalılar düşmanlarından kaçmak için yer altına sığınmış ve aşırı hava koşullarından da korunmuşlardı. Bugün ise yer altı mağaraları iklim krizinde yeniden bir çözüm sunabilir.",
-        "source": "BBC Turkish",
-        "published": "2026-11-22T09:49:25+00:00"
       },
       {
         "title": "Son dönemde yaşanan teknolojik kesinti, saldırı ve güvenlik açıklarının sebebi ne?",
@@ -779,14 +779,14 @@
     ]
   },
   "exchange_rates": {
-    "usd_try": 50.602,
-    "eur_try": 55.532,
-    "eur_usd": 0.9113
+    "usd_try": 50.5836,
+    "eur_try": 55.5281,
+    "eur_usd": 0.9111
   },
   "weather": {
-    "condition": "Patchy rain nearby",
-    "temp": "+55°F",
-    "wind": "↓3mph",
-    "humidity": "69%"
+    "condition": "Açık",
+    "temp": "+47°F",
+    "wind": "↙2mph",
+    "humidity": "86%"
   }
 }
