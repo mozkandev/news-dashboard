@@ -1,13 +1,146 @@
 {
-  "updated_at": "2026-11-25T18:05:50.875424+00:00",
+  "updated_at": "2026-11-26T01:53:43.015428+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Neuralink'in son aşama çalışmasına FDA onayı",
+        "link": "https://shiftdelete.net/neuralink-link-pivotal-calisma-fda-onayi",
+        "description": "Neuralink, beyin çipinin ALS nedeniyle ağır felç yaşayan kişilerde güvenliğini ve etkinliğini ölçecek LINK pivotal çalışması için FDA'dan onay aldı. Bu, satış izninden önceki son büyük klinik aşama.",
+        "source": "ShiftDelete",
+        "published": "2026-11-26T00:46:37+03:00"
+      },
+      {
+        "title": "Tell HN: Lots of Ask HNs again",
+        "link": "https://news.ycombinator.com/item?id=50649864",
+        "description": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HN posts - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments)...",
+        "source": "HackerNews",
+        "published": "2026-11-26T00:43:34+00:00"
+      },
+      {
+        "title": "PS Plus Aralık 2026 oyunları belli oldu",
+        "link": "https://shiftdelete.net/ps-plus-aralik-2026-oyunlari",
+        "description": "Sony, PS Plus'ın Aralık oyunlarını açıkladı: Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 ve Amnesia: The Bunker 1 Aralık ile 4 Ocak arasında tüm abonelerin kütüphanesine eklenebilecek.",
+        "source": "ShiftDelete",
+        "published": "2026-11-26T00:06:32+03:00"
+      },
+      {
+        "title": "WhatsApp, mesaj zamanlama özelliğini sunuyor",
+        "link": "https://shiftdelete.net/whatsapp-zamanlanmis-mesaj-ozelligi",
+        "description": "WhatsApp'ın planlanmış mesajlar özelliğiyle metin, fotoğraf ve videoları 10 dakika ile 14 gün sonrası arasında gönderilecek şekilde ayarlayabileceksiniz. Özellik önümüzdeki haftalarda tüm dünyada açılacak.",
+        "source": "ShiftDelete",
+        "published": "2026-11-25T23:39:37+03:00"
+      },
+      {
+        "title": "1Password hacklendi: Kasalar güvende",
+        "link": "https://shiftdelete.net/1password-hacklendi-musteri-bilgileri-calindi",
+        "description": "Parola yöneticisi 1Password, saldırganların şirketin sistemlerine sızdığını ve bazı müşterilerin ad ve e-posta adreslerini kopyaladığını doğruladı. Şirkete göre kasalardaki şifreler güvende.",
+        "source": "ShiftDelete",
+        "published": "2026-11-25T23:12:08+03:00"
+      },
+      {
+        "title": "Jev is probably Qwen3.5-35B-A3B",
+        "link": "https://modaic.dev/blog/latency-doesnt-lie",
+        "description": "Article URL: https://modaic.dev/blog/latency-doesnt-lie Comments URL: https://news.ycombinator.com/item?id=50648823 Points: 216 # Comments: 60",
+        "source": "HackerNews",
+        "published": "2026-11-25T22:57:04+00:00"
+      },
+      {
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T22:44:32+00:00"
+      },
+      {
+        "title": "Bare Metal Qwen",
+        "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+        "description": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 59 # Comments: 7",
+        "source": "HackerNews",
+        "published": "2026-11-25T22:15:34+00:00"
+      },
+      {
+        "title": "Deploying a payphone on a tiny Pacific Island",
+        "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+        "description": "Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/ Comments URL: https://news.ycombinator.com/item?id=50648323 Points: 36 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-11-25T22:12:25+00:00"
+      },
+      {
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "link": "https://github.com/lsernau/grh-lean",
+        "description": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 275 # Comments: 124",
+        "source": "HackerNews",
+        "published": "2026-11-25T21:48:10+00:00"
+      },
+      {
+        "title": "Defang Security Incident",
+        "link": "https://defang.io/blog/post/security-incident-november-2026/",
+        "description": "Article URL: https://defang.io/blog/post/security-incident-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50648035 Points: 59 # Comments: 19",
+        "source": "HackerNews",
+        "published": "2026-11-25T21:47:16+00:00"
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "description": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 198 # Comments: 148",
+        "source": "HackerNews",
+        "published": "2026-11-25T21:18:02+00:00"
+      },
+      {
+        "title": "FCC approves SpaceX plan to put AI data centers in space",
+        "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+        "description": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T20:56:44+00:00"
+      },
+      {
+        "title": "Slow Ubuntu security response times",
+        "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+        "description": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 140 # Comments: 56",
+        "source": "HackerNews",
+        "published": "2026-11-25T20:38:00+00:00"
+      },
+      {
+        "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+        "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+        "description": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 83 # Comments: 28",
+        "source": "HackerNews",
+        "published": "2026-11-25T20:35:50+00:00"
+      },
+      {
+        "title": "72-hour fasting can reset your immune system, USC study shows",
+        "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+        "description": "Article URL: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/ Comments URL: https://news.ycombinator.com/item?id=50647158 Points: 163 # Comments: 115",
+        "source": "HackerNews",
+        "published": "2026-11-25T20:35:39+00:00"
+      },
       {
         "title": "iPhone 18e'ye kare kamera çıkıntısı iddiası",
         "link": "https://shiftdelete.net/iphone-18e-kamera-tasarimi-sizdirildi",
         "description": "Engadget'ın paylaştığı CAD çizimlerine göre iPhone 18e'de tek arka kamera, flaş ve mikrofon, iPad Pro'yu andıran kareye yakın bir modülde toplanacak. Aynı çizimler iPhone 18 ve iPhone Air 2 hakkında da ipuçları veriyor.",
         "source": "ShiftDelete",
         "published": "2026-11-25T20:33:38+03:00"
+      },
+      {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T20:03:27+00:00"
+      },
+      {
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T19:54:57+00:00"
+      },
+      {
+        "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+        "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+        "description": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T19:54:32+00:00"
       },
       {
         "title": "Yayıncıların PS5'i GTA 6 oynarken bozuldu",
@@ -17,11 +150,32 @@
         "published": "2026-11-25T19:49:19+03:00"
       },
       {
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T19:44:24+00:00"
+      },
+      {
         "title": "Todoist veri ihlali: hesapların %6'sı etkilendi",
         "link": "https://shiftdelete.net/todoist-veri-ihlali-kullanicilarin-yuzde-6si",
         "description": "Görev yönetimi uygulaması Todoist, çalınan bir geliştirici kimlik bilgisiyle sistemlerine giren saldırganın kullanıcıların yaklaşık %6'sına ait e-posta adreslerini ve eski yöntemle saklanan parola özetlerini indirdiğini açıkladı.",
         "source": "ShiftDelete",
         "published": "2026-11-25T19:27:22+03:00"
+      },
+      {
+        "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+        "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+        "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera...",
+        "source": "The Verge",
+        "published": "2026-11-25T19:04:34-05:00"
+      },
+      {
+        "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+        "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+        "description": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued...",
+        "source": "The Verge",
+        "published": "2026-11-25T18:56:44-05:00"
       },
       {
         "title": "Honor, OPPO ve iPhone'a dokunarak dosya atıyor",
@@ -31,11 +185,25 @@
         "published": "2026-11-25T18:52:01+03:00"
       },
       {
+        "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+        "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+        "description": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T18:49:52+00:00"
+      },
+      {
         "title": "Samsung'un yeni Galaxy Watch'u IMEI'de göründü",
         "link": "https://shiftdelete.net/galaxy-watch-2027-sm-l616-imei",
         "description": "Samsung'un 2027'de yeni Galaxy Watch çıkarmayacağı iddia edilirken SM-L616U model numaralı yeni bir saat GSMA IMEI veritabanında görüldü. Ticaret kayıtlarında ise bu modelle ilişkilendirilen parçaların ekim sonunda sevk edildiği aktarılıyor.",
         "source": "ShiftDelete",
         "published": "2026-11-25T18:18:44+03:00"
+      },
+      {
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+        "source": "TechCrunch",
+        "published": "2026-11-25T18:11:46+00:00"
       },
       {
         "title": "One UI 9.5 ile Galaxy'lere gelen yenilikler",
@@ -59,20 +227,6 @@
         "published": "2026-11-25T17:51:54+03:00"
       },
       {
-        "title": "BMW'ler ABD'de kırmızı ışıkta kendi duracak",
-        "link": "https://shiftdelete.net/bmw-highway-commuting-assistant-kirmizi-isik",
-        "description": "BMW, Aralık'ta başlayacak uzaktan güncellemeyle ABD'deki Operating System X'li araçlarda Highway & Commuting Assistant'a kırmızı ışıkta durma özelliği getiriyor. Araç yeşil ışıkta kendiliğinden yeniden yola çıkabiliyor ya da sürücüden onay istiyor.",
-        "source": "ShiftDelete",
-        "published": "2026-11-25T17:44:36+03:00"
-      },
-      {
-        "title": "Why aren't we working 2-days a week?",
-        "link": "https://anihil.com/why-arent-we-working-2-days-a-week",
-        "description": "Article URL: https://anihil.com/why-arent-we-working-2-days-a-week Comments URL: https://news.ycombinator.com/item?id=50645010 Points: 13 # Comments: 13",
-        "source": "HackerNews",
-        "published": "2026-11-25T17:37:17+00:00"
-      },
-      {
         "title": "En İyi eSIM Uygulamaları",
         "link": "\n                    https://www.webtekno.com/en-iyi-e-sim-uygulamalari-h229399.html\n                    ",
         "description": "En iyi eSIM uygulamaları hangileri? Yurt dışında internet kullanmak için en uygun seçeneği keşfedin!",
@@ -87,25 +241,18 @@
         "published": "2026-11-25T17:36:51+00:00"
       },
       {
-        "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
         "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
         "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
         "source": "TechCrunch",
         "published": "2026-11-25T17:35:58+00:00"
       },
       {
-        "title": "X’s latest update for creators focuses on vertical video",
-        "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-        "description": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T17:28:29+00:00"
-      },
-      {
-        "title": "1Password Security Incident",
-        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "description": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 106 # Comments: 43",
-        "source": "HackerNews",
-        "published": "2026-11-25T17:18:26+00:00"
+        "title": "The Verge’s 2026 holiday gift guide for travelers",
+        "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+        "description": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your...",
+        "source": "The Verge",
+        "published": "2026-11-25T17:14:12-05:00"
       },
       {
         "title": "Bir Yayıncının PS5'i GTA 6 Oynarken Yandı: Birden Fazla Vaka Bildirilmiş Durumda!",
@@ -115,18 +262,11 @@
         "published": "2026-11-25T17:00:20+03:00"
       },
       {
-        "title": "WhatsApp now lets you schedule messages in group and individual chats",
-        "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-        "description": "Users can schedule messages from 10 minutes later to after 14 days.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T16:57:51+00:00"
-      },
-      {
-        "title": "Elektrikli Porsche 718 Boxster'ın ilk detayları",
-        "link": "https://shiftdelete.net/elektrikli-porsche-718-boxster-2027",
-        "description": "Porsche, tamamen elektrikli 718 Boxster'ın dünya prömiyerini 2027'nin ilk çeyreğinde yapacağını açıkladı. Şirket, 800 voltluk bataryayı koltukların arkasına yerleştiren E-Core mimarisini ve 3 saniyenin altındaki 0-100 km/s performansını ilk kez...",
-        "source": "ShiftDelete",
-        "published": "2026-11-25T16:36:30+03:00"
+        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+        "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+        "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected,...",
+        "source": "The Verge",
+        "published": "2026-11-25T16:51:26-05:00"
       },
       {
         "title": "Teknoloji Devlerinden 2027 İçin Şok Karar: Samsung ve Apple Bile Telefon Üretimini Kısıyor (Bir Marka Hariç!)",
@@ -134,13 +274,6 @@
         "description": "Artan bellek maliyetleri yüzünden telefon markaları 2027 sevkiyat hedeflerini düşürürken Honor mevcut hedefini koruyor.",
         "source": "Webtekno",
         "published": "2026-11-25T16:19:29+03:00"
-      },
-      {
-        "title": "Galaxy Z TriFold 2'nin kod adı ortaya çıktı",
-        "link": "https://shiftdelete.net/galaxy-z-trifold-2-sinirli-cikis-kod-adi",
-        "description": "Samsung'un ikinci üç katlı telefonu Galaxy Z TriFold 2'nin Q9m kod adıyla geliştirildiği iddia edildi. Sızıntıya göre telefon, ilk model gibi yalnızca sınırlı sayıda ülkede satışa çıkabilir.",
-        "source": "ShiftDelete",
-        "published": "2026-11-25T16:11:29+03:00"
       },
       {
         "title": "En İyi Araç İçi Telefon Tutucuları - 2026",
@@ -164,46 +297,11 @@
         "published": "2026-11-25T16:05:05+03:00"
       },
       {
-        "title": "Investigating degraded experiences across GitHub products",
-        "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-        "description": "Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx Comments URL: https://news.ycombinator.com/item?id=50643720 Points: 126 # Comments: 62",
-        "source": "HackerNews",
-        "published": "2026-11-25T15:59:23+00:00"
-      },
-      {
-        "title": "Xiaomi'nin karı 3. çeyrekte yarıdan fazla eridi",
-        "link": "https://shiftdelete.net/xiaomi-3-ceyrek-kari-yuzde-57-dustu",
-        "description": "Xiaomi, 30 Eylül'de biten çeyrekte 107,2 milyar yuan gelir elde etti ve gelir geçen yılın aynı dönemine göre yüzde 5,2 geriledi. Bellek maliyetleri yükselirken şirket daha az ama daha pahalı telefon sattı; ortalama satış fiyatı rekor seviyeye çıktı.",
-        "source": "ShiftDelete",
-        "published": "2026-11-25T15:42:55+03:00"
-      },
-      {
-        "title": "In C++, = default and {} are not the same constructor",
-        "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-        "description": "Article URL: https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/ Comments URL: https://news.ycombinator.com/item?id=50643199 Points: 41 # Comments: 75",
-        "source": "HackerNews",
-        "published": "2026-11-25T15:20:15+00:00"
-      },
-      {
-        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-        "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-        "description": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 257 # Comments: 73",
-        "source": "HackerNews",
-        "published": "2026-11-25T15:14:32+00:00"
-      },
-      {
-        "title": "Rumors swirling that labs might have cracked Factoring in P",
-        "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-        "description": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 209 # Comments: 147",
-        "source": "HackerNews",
-        "published": "2026-11-25T15:08:44+00:00"
-      },
-      {
-        "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
-        "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-        "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T15:08:37+00:00"
+        "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+        "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+        "description": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very...",
+        "source": "The Verge",
+        "published": "2026-11-25T15:31:48-05:00"
       },
       {
         "title": "Sağlık Verilerinizi Yorumlayabilen ChatGPT Health, Android'e Geldi",
@@ -220,46 +318,18 @@
         "published": "2026-11-25T15:00:01+03:00"
       },
       {
-        "title": "I checked Clojure's core with Lean and found unreported bugs",
-        "link": "https://s.conao3.com/blog/2026/e4f733",
-        "description": "Article URL: https://s.conao3.com/blog/2026/e4f733 Comments URL: https://news.ycombinator.com/item?id=50642939 Points: 54 # Comments: 18",
-        "source": "HackerNews",
-        "published": "2026-11-25T14:56:52+00:00"
+        "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+        "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+        "description": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition...",
+        "source": "The Verge",
+        "published": "2026-11-25T14:47:46-05:00"
       },
       {
-        "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
-        "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-        "description": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T14:20:28+00:00"
-      },
-      {
-        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T14:10:18+00:00"
-      },
-      {
-        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-        "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-        "description": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 289 # Comments: 230",
-        "source": "HackerNews",
-        "published": "2026-11-25T13:33:07+00:00"
-      },
-      {
-        "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-        "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-        "description": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T13:08:19+00:00"
-      },
-      {
-        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-        "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-        "description": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T13:00:00+00:00"
+        "title": "1Password breach leaked customer names and emails, but not passwords",
+        "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+        "description": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts,...",
+        "source": "The Verge",
+        "published": "2026-11-25T14:10:15-05:00"
       },
       {
         "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -269,55 +339,6 @@
         "published": "2026-11-25T12:44:57-05:00"
       },
       {
-        "title": "Hazel (YC W24) Is Hiring a Product Designer",
-        "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-        "description": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract Comments URL: https://news.ycombinator.com/item?id=50641323 Points: 0 # Comments: 0",
-        "source": "HackerNews",
-        "published": "2026-11-25T12:00:34+00:00"
-      },
-      {
-        "title": "The Verge’s guide to the best gifts under $100",
-        "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-        "description": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt...",
-        "source": "The Verge",
-        "published": "2026-11-25T12:00:24-05:00"
-      },
-      {
-        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-        "link": "https://github.com/xoxorwr/pw-loudness-eq",
-        "description": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 244 # Comments: 138",
-        "source": "HackerNews",
-        "published": "2026-11-25T11:34:25+00:00"
-      },
-      {
-        "title": "Nothing offers a full look at its AI earbuds and charging case",
-        "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-        "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the...",
-        "source": "The Verge",
-        "published": "2026-11-25T11:00:59-05:00"
-      },
-      {
-        "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
-        "link": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
-        "description": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch...",
-        "source": "The Verge",
-        "published": "2026-11-25T10:02:14-05:00"
-      },
-      {
-        "title": "The Verge’s guide to affordable holiday gifts under $25",
-        "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-        "description": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For...",
-        "source": "The Verge",
-        "published": "2026-11-25T09:33:07-05:00"
-      },
-      {
-        "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-        "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-        "description": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends...",
-        "source": "The Verge",
-        "published": "2026-11-25T09:12:33-05:00"
-      },
-      {
         "title": "The loneliest peptide party in New York",
         "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
         "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an...",
@@ -325,79 +346,107 @@
         "published": "2026-11-25T07:37:55-05:00"
       },
       {
-        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-        "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile...",
-        "source": "TechCrunch",
-        "published": "2026-11-25T00:12:02+00:00"
-      },
-      {
         "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
         "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
         "description": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s...",
         "source": "The Verge",
         "published": "2026-11-24T18:03:54-05:00"
-      },
-      {
-        "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
-        "link": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
-        "description": "As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 2049 and imagines a bleak future...",
-        "source": "The Verge",
-        "published": "2026-11-24T16:29:14-05:00"
-      },
-      {
-        "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
-        "description": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably...",
-        "source": "The Verge",
-        "published": "2026-11-23T19:36:46-05:00"
       }
     ],
     "dunya": [
+      {
+        "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+        "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+        "description": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian...",
+        "source": "The Guardian",
+        "published": "2026-11-26T00:39:10+00:00"
+      },
+      {
+        "title": "BBC launches partnership with Met Office for weather coverage",
+        "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+        "description": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+        "source": "BBC News",
+        "published": "2026-11-26T00:12:37+00:00"
+      },
+      {
+        "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+        "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+        "description": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+        "source": "BBC News",
+        "published": "2026-11-26T00:08:07+00:00"
+      },
+      {
+        "title": "US approves SpaceX plan to send a million data satellites to space",
+        "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+        "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+        "source": "BBC News",
+        "published": "2026-11-26T00:07:51+00:00"
+      },
+      {
+        "title": "Stalking law simplified to become one offence",
+        "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+        "description": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+        "source": "BBC News",
+        "published": "2026-11-26T00:02:50+00:00"
+      },
+      {
+        "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+        "description": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+        "source": "BBC News",
+        "published": "2026-11-25T22:19:38+00:00"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+        "source": "BBC News",
+        "published": "2026-11-25T22:18:06+00:00"
+      },
       {
         "title": "Poundland collapses putting 11,000 jobs at risk",
         "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
         "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
         "source": "BBC News",
-        "published": "2026-11-25T18:04:13+00:00"
+        "published": "2026-11-25T21:31:10+00:00"
       },
       {
-        "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-        "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
-        "description": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+        "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+        "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+        "description": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all...",
+        "source": "The Guardian",
+        "published": "2026-11-25T20:20:23+00:00"
+      },
+      {
+        "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+        "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+        "description": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
         "source": "BBC News",
-        "published": "2026-11-25T17:48:28+00:00"
+        "published": "2026-11-25T20:11:46+00:00"
       },
       {
-        "title": "US stocks fall further as fears over AI intensify",
-        "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-        "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+        "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+        "link": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+        "description": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from...",
+        "source": "The Guardian",
+        "published": "2026-11-25T19:57:49+00:00"
+      },
+      {
+        "title": "What we know about Trump's Thanksgiving tariffs",
+        "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+        "description": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
         "source": "BBC News",
-        "published": "2026-11-25T17:48:09+00:00"
+        "published": "2026-11-25T19:38:05+00:00"
       },
       {
-        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-        "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-        "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-        "source": "BBC News",
-        "published": "2026-11-25T17:30:16+00:00"
+        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+        "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+        "description": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+        "source": "NPR",
+        "published": "2026-11-25T16:02:58-05:00"
       },
       {
-        "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-        "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-        "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-        "source": "BBC News",
-        "published": "2026-11-25T16:42:11+00:00"
-      },
-      {
-        "title": "Why has Poundland collapsed and what happens next?",
-        "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-        "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-        "source": "BBC News",
-        "published": "2026-11-25T16:24:30+00:00"
-      },
-      {
-        "title": "Wife drugged and raped by husband asked police if she was to blame, mass-sexual offence trial hears",
+        "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
         "link": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
         "description": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
         "source": "BBC News",
@@ -411,39 +460,11 @@
         "published": "2026-11-25T14:03:18+00:00"
       },
       {
-        "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
-        "link": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
-        "description": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
-        "source": "BBC News",
-        "published": "2026-11-25T13:57:12+00:00"
-      },
-      {
-        "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
-        "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-        "description": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong...",
-        "source": "The Guardian",
-        "published": "2026-11-25T13:56:55+00:00"
-      },
-      {
-        "title": "Energy bills to rise by 26% from January after gas prices surge",
-        "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-        "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-        "source": "BBC News",
-        "published": "2026-11-25T13:42:08+00:00"
-      },
-      {
         "title": "Group of Senate Democrats push to add freshman to leadership",
         "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
         "description": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
         "source": "NPR",
         "published": "2026-11-25T12:30:47-05:00"
-      },
-      {
-        "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
-        "description": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
-        "source": "BBC News",
-        "published": "2026-11-25T11:57:31+00:00"
       },
       {
         "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
@@ -509,13 +530,6 @@
         "published": "2026-11-25T05:00:00-05:00"
       },
       {
-        "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-        "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-        "description": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-        "source": "NPR",
-        "published": "2026-11-25T04:44:13-05:00"
-      },
-      {
         "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
         "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
         "description": "Abelardo de la Espriella to take control of operation trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage inside a...",
@@ -537,13 +551,6 @@
         "published": "2026-11-24T22:02:13+00:00"
       },
       {
-        "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-        "link": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-        "description": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since 1950 as the island reels from a severe economic crisis, the head of...",
-        "source": "The Guardian",
-        "published": "2026-11-24T19:07:26+00:00"
-      },
-      {
         "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
         "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
         "description": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the...",
@@ -556,43 +563,169 @@
         "description": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the...",
         "source": "The Guardian",
         "published": "2026-11-23T11:42:51+00:00"
-      },
-      {
-        "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-        "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-        "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone...",
-        "source": "The Guardian",
-        "published": "2026-11-22T21:33:44+00:00"
       }
     ],
     "turkiye": [
       {
-        "title": "Her an yıkılacakmış gibi görünen ev 600 yıldır ayakta duruyor",
-        "link": "https://www.sozcu.com.tr/her-an-yikilacakmis-gibi-gorunen-ev-600-yildir-ayakta-duruyor-p384409",
-        "description": "Her an yıkılacakmış gibi görünen ev 600 yıldır ayakta duruyor",
-        "source": "Sözcü",
-        "published": "2026-11-25T20:46:58+03:00"
+        "title": "\"Hayalet Arıza\" oyunu. Şikayetler arttı, her yıl yüz binlerce kişi kandırılıyor",
+        "link": "https://www.ntv.com.tr/turkiye/hayalet-ariza-oyunu-her-yil-yuzbinlerce-kisi-kandiriliyor-nelere-dikkat-edilmeli-1752602",
+        "description": "İstanbul’daki bir lastik servisinde yaşanan aldatmaca olayı Türkiye'deki \"hayalet arıza\" vurgununu gözler önüne serdi. Her yıl yüz binlerce müşteri bu kandırmaca ile mağdur oluyor. Haber: Osman Terkan",
+        "source": "NTV",
+        "published": "2026-11-26T04:33:40+03:00"
       },
       {
-        "title": "Prens William ve Kate Middleton'ın evine hırsız girdi!",
-        "link": "https://www.sozcu.com.tr/prens-william-ve-kate-middleton-in-evine-hirsiz-girdi-p384410",
-        "description": "Prens William ve Kate Middleton'ın evine hırsız girdi!",
-        "source": "Sözcü",
-        "published": "2026-11-25T20:45:28+03:00"
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-kasim-2026-1752585",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-11-26T04:30:00+03:00"
       },
       {
-        "title": "VakıfBank Şampiyonlar Ligi'ne set vermeden başladı",
-        "link": "https://www.sozcu.com.tr/vakifbank-sampiyonlar-ligine-set-vermeden-basladi-p384408",
-        "description": "VakıfBank Şampiyonlar Ligi'ne set vermeden başladı",
+        "title": "Beykoz'da 3 katlı villayı uyuşturucu tarlasına çevirmişler",
+        "link": "https://www.sozcu.com.tr/beykozda-3-katli-villayi-uyusturucu-tarlasina-cevirmisler-p384455",
+        "description": "Beykoz'da 3 katlı villayı uyuşturucu tarlasına çevirmişler",
         "source": "Sözcü",
-        "published": "2026-11-25T20:43:41+03:00"
+        "published": "2026-11-26T04:09:26+03:00"
       },
       {
-        "title": "Dünyaca ünlü futbol yıldızı Raheem Sterling'e hapis şoku",
-        "link": "https://www.sozcu.com.tr/dunyaca-unlu-futbol-yildizi-raheem-sterling-e-hapis-soku-p384405",
-        "description": "Dünyaca ünlü futbol yıldızı Raheem Sterling'e hapis şoku",
+        "title": "Angelina Jolie ve Brad Pitt şato davasında anlaştı",
+        "link": "https://www.sozcu.com.tr/jolie-ve-pitt-sato-kavgasini-mahkeme-disinda-bitirdi-p384453",
+        "description": "Angelina Jolie ve Brad Pitt şato davasında anlaştı",
         "source": "Sözcü",
-        "published": "2026-11-25T20:09:29+03:00"
+        "published": "2026-11-26T03:56:24+03:00"
+      },
+      {
+        "title": "Sosyal medyada tanışıp ormanda tuzağa düşürdüler",
+        "link": "https://www.ntv.com.tr/turkiye/sosyal-medyada-tanisip-ormanda-tuzaga-dusurduler-1752601",
+        "description": "Ankara'da sosyal medyada tanıştığı erkekleri orman alana çağırarak gasp ve santaj yapan bir kadın ile erkek suç ortakları yakalandı.",
+        "source": "NTV",
+        "published": "2026-11-26T03:30:59+03:00"
+      },
+      {
+        "title": "Fenerbahçe'nin beş maçlık kazancı 5,6 milyon euroya ulaştı",
+        "link": "https://www.sozcu.com.tr/fenerbahcenin-bes-maclik-kazanci-56-milyon-euroya-ulasti-p384452",
+        "description": "Fenerbahçe'nin beş maçlık kazancı 5,6 milyon euroya ulaştı",
+        "source": "Sözcü",
+        "published": "2026-11-26T03:19:05+03:00"
+      },
+      {
+        "title": "Sahte \"mehdi\" tutuklandı. Şifa vaadi ile dolandırıcılık ve cinsel istismar suçlaması",
+        "link": "https://www.ntv.com.tr/turkiye/sahte-mehdi-tutuklandi-sifa-vaadi-ile-dolandiricilik-ve-cinsel-istismar-suclamasi-1752600",
+        "description": "İzmir'de kendisini \"mehdi\" olarak tanıtarak şifa vaaden kişi, bir aileyi 3 milyon TL dolandırmak ve cinsel istismarda bulunduğu suçlamasıyla tutuklandı.",
+        "source": "NTV",
+        "published": "2026-11-26T03:13:17+03:00"
+      },
+      {
+        "title": "Villayı uyuşturucu serasını çevirmiş. Bir kişi gözaltında",
+        "link": "https://www.ntv.com.tr/turkiye/villayi-uyusturucu-serasini-cevirmis-bir-kisi-gozaltinda-1752599",
+        "description": "Beykoz'da 3 katlı villaya düzenlenen uyuşturucu operasyonunda 1 kişi gözaltına alındı.",
+        "source": "NTV",
+        "published": "2026-11-26T03:01:40+03:00"
+      },
+      {
+        "title": "İtalya Kilisesi'nin raporu skandalı ortaya çıkardı! Mide bulandıran iddiaları doğruladılar",
+        "link": "https://www.sozcu.com.tr/italya-kilisesinin-raporu-skandali-ortaya-cikardi-mide-bulandiran-iddialari-dogruladilar-p384451",
+        "description": "İtalya Kilisesi'nin raporu skandalı ortaya çıkardı! Mide bulandıran iddiaları doğruladılar",
+        "source": "Sözcü",
+        "published": "2026-11-26T02:57:46+03:00"
+      },
+      {
+        "title": "İngiltere hava üslerinde İHA alarmı: Uçaklar sığınaklara alınıyor",
+        "link": "https://www.sozcu.com.tr/ingilterede-iha-tehdidine-karsi-savas-ucaklarina-gece-korumasi-iddiasi-p384448",
+        "description": "İngiltere hava üslerinde İHA alarmı: Uçaklar sığınaklara alınıyor",
+        "source": "Sözcü",
+        "published": "2026-11-26T02:46:57+03:00"
+      },
+      {
+        "title": "Fon soruşturmasıyla ilgili ortak basın toplantısı. Yılmaz, Şimşek ve Gürlek bugün açıklama yapacak",
+        "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-bugun-aciklama-yapacak-1752597",
+        "description": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek ve Adalet Bakanı Gürlek fon meselesinde son duruma ilişkin bugün basın toplantısı yapacak.",
+        "source": "NTV",
+        "published": "2026-11-26T02:45:51+03:00"
+      },
+      {
+        "title": "1Password'a siber saldırı: Hesap bilgileri ele geçirildi",
+        "link": "https://www.sozcu.com.tr/1passworda-siber-saldiri-hesap-bilgileri-ele-gecirildi-p384445",
+        "description": "1Password'a siber saldırı: Hesap bilgileri ele geçirildi",
+        "source": "Sözcü",
+        "published": "2026-11-26T02:35:39+03:00"
+      },
+      {
+        "title": "Kayseri'de uyuşturucu operasyonu: 20 şüpheliden 19'u tutuklandı",
+        "link": "https://www.sozcu.com.tr/kayseri-de-uyusturucu-operasyonu-20-supheliden-19-u-tutuklandi-p384444",
+        "description": "Kayseri'de uyuşturucu operasyonu: 20 şüpheliden 19'u tutuklandı",
+        "source": "Sözcü",
+        "published": "2026-11-26T02:13:49+03:00"
+      },
+      {
+        "title": "Milyonlarca kişinin borcu siliniyor! Düzenleme Meclis'te",
+        "link": "https://www.sozcu.com.tr/gss-borclarinin-tahsilinden-vazgecilmesini-ongoren-teklif-mecliste-p384441",
+        "description": "Milyonlarca kişinin borcu siliniyor! Düzenleme Meclis'te",
+        "source": "Sözcü",
+        "published": "2026-11-26T02:08:56+03:00"
+      },
+      {
+        "title": "Emre Belözoğlu: Oyunculara inanıyorum, gelme sebeplerimden biri bu",
+        "link": "https://www.sozcu.com.tr/emre-belozoglu-oyunculara-inaniyorum-gelme-sebeplerimden-biri-bu-p384443",
+        "description": "Emre Belözoğlu: Oyunculara inanıyorum, gelme sebeplerimden biri bu",
+        "source": "Sözcü",
+        "published": "2026-11-26T01:49:21+03:00"
+      },
+      {
+        "title": "Vedat Muriqi: \"Sanki Kadıköy'de oynadık\"",
+        "link": "https://www.sozcu.com.tr/vedat-muriqi-sanki-kadikoyde-oynadik-p384442",
+        "description": "Vedat Muriqi: \"Sanki Kadıköy'de oynadık\"",
+        "source": "Sözcü",
+        "published": "2026-11-26T01:46:50+03:00"
+      },
+      {
+        "title": "Dünyaya çarpacak bir asteroitin yönünü değiştirebilir miyiz? İlk denemeden fotoğraflar",
+        "link": "https://www.bbc.com/turkce/articles/c3grexk47dx9o?at_medium=RSS&at_campaign=rss",
+        "description": "Dünyayı tehdit eden bir asteroitin yönünü değiştirebiliriz miyiz? Bilim kurgu senaryoları uzun yıllardır bu soruyu işliyor. Şimdi elimizde, bir uzay aracının kasıtlı olarak çaptırılmasının bir asteroitte oluşturduğu etkiye ait fotoğraflar var.",
+        "source": "BBC Turkish",
+        "published": "2026-11-26T00:35:00+00:00"
+      },
+      {
+        "title": "Fon soruşturmasıyla ilgili bakanlar ortak basın toplantısı düzenleyecek",
+        "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
+        "description": "Ajanslar, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in 26 Kasım perşembe günü fon soruşturmasına ilişkin ortak basın toplantısı düzenleyeceğini duyurdu.",
+        "source": "BBC Turkish",
+        "published": "2026-11-26T00:26:58+00:00"
+      },
+      {
+        "title": "Avrupa'nın tartışmalı 'Ruanda'ya sürgün' planı düzensiz göçmenleri nasıl etkileyecek?",
+        "link": "https://www.bbc.com/turkce/articles/cw05360g5p0ro?at_medium=RSS&at_campaign=rss",
+        "description": "Göç uzmanları, Almanya'nın da aralarında yer aldığı 5 Avrupa Birliği (AB) üyesi ülkenin istenmeyen göçmenleri Ruanda'ya gönderme planını \"Avrupa demokrasisini zayıflatan\" bir girişim olarak nitelendiriyor. Peki Avrupa hükümetlerinin bu planının...",
+        "source": "BBC Turkish",
+        "published": "2026-11-26T00:13:12+00:00"
+      },
+      {
+        "title": "Fenerbahçe Londra'da Shakhtar Donetsk'i tek golle geçti",
+        "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+        "description": "Fenerbahçe, UEFA Şampiyonlar Ligi'ndeki beşinci hafta maçında Ukrayna'nın Shakhtar Donetsk takımıyla Londra'da karşılaştı. Sarı-lacivertliler Arda Turan'ın çalıştırdığı Shakhtar Donetsk'i 56. dakikada Vedat Muriqi'nin kaydettiği golle 1-0 mağlup...",
+        "source": "BBC Turkish",
+        "published": "2026-11-26T00:05:51+00:00"
+      },
+      {
+        "title": "Şans Topu Sonuçları Sorgulama Ekranı 25 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1752583",
+        "description": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+        "source": "NTV",
+        "published": "2026-11-25T23:46:50+03:00"
+      },
+      {
+        "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 25 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1752582",
+        "description": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) üzerinden...",
+        "source": "NTV",
+        "published": "2026-11-25T23:44:27+03:00"
+      },
+      {
+        "title": "Cumhurbaşkanlığı Hukuk Politikaları Kurulu, Çankaya Köşkü'nde toplandı",
+        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskanligi-hukuk-politikalari-kurulu-cankaya-koskunde-toplandi-1752577",
+        "description": "Siber Güvenlik Başkanı Ümit Önal, \"Dijital egemenlik; kendi verimiz, kendi altyapımız, kendi teknolojimiz ve kendi kararlarımız üzerinde söz sahibi olabilmek.\" dedi.",
+        "source": "NTV",
+        "published": "2026-11-25T21:20:46+03:00"
       },
       {
         "title": "Bursa'dan Kars'a 18 şehir daha YHT ile buluşacak",
@@ -602,81 +735,18 @@
         "published": "2026-11-25T20:08:56+03:00"
       },
       {
-        "title": "Beşiktaş Fuzul'da Wenyen Gabriel şoku",
-        "link": "https://www.sozcu.com.tr/besiktas-fuzul-da-wenyen-gabriel-soku-p384404",
-        "description": "Beşiktaş Fuzul'da Wenyen Gabriel şoku",
-        "source": "Sözcü",
-        "published": "2026-11-25T20:04:38+03:00"
-      },
-      {
-        "title": "HSK kararnamesiyle 957 hakim ve savcının görev yeri değişti",
-        "link": "https://www.sozcu.com.tr/hsk-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-p384401",
-        "description": "HSK kararnamesiyle 957 hakim ve savcının görev yeri değişti",
-        "source": "Sözcü",
-        "published": "2026-11-25T20:01:11+03:00"
-      },
-      {
-        "title": "Thomas Reis, CSKA Sofya maçı öncesi hedefini açıkladı",
-        "link": "https://www.sozcu.com.tr/thomas-reis-cska-sofya-maci-oncesi-hedefini-acikladi-p384403",
-        "description": "Thomas Reis, CSKA Sofya maçı öncesi hedefini açıkladı",
-        "source": "Sözcü",
-        "published": "2026-11-25T19:52:22+03:00"
-      },
-      {
-        "title": "Batum'a giden Beşiktaş kafilesi Rize'ye indi",
-        "link": "https://www.sozcu.com.tr/batuma-giden-besiktas-kafilesi-rizeye-indi-p384402",
-        "description": "Batum'a giden Beşiktaş kafilesi Rize'ye indi",
-        "source": "Sözcü",
-        "published": "2026-11-25T19:50:23+03:00"
-      },
-      {
-        "title": "HSK'nin mazeret kararnamesiyle 957 hakim ve savcının görev yeri değişti",
-        "link": "https://www.ntv.com.tr/turkiye/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
-        "description": "Hakimler ve Savcılar Kurulunun (HSK), mazeret kararnamesiyle 957 hakim ve Cumhuriyet savcısının görev yeri değiştirildi.",
-        "source": "NTV",
-        "published": "2026-11-25T19:32:48+03:00"
-      },
-      {
-        "title": "Yapay zekayla Avrupa'daki 82 belediyeyi hedef aldılar: 1,2 milyon kişinin bilgileri çalındı",
-        "link": "https://www.sozcu.com.tr/yapay-zekayla-avrupa-daki-82-belediyeyi-hedef-aldilar-1-2-milyon-kisinin-bilgileri-calindi-p384399",
-        "description": "Yapay zekayla Avrupa'daki 82 belediyeyi hedef aldılar: 1,2 milyon kişinin bilgileri çalındı",
-        "source": "Sözcü",
-        "published": "2026-11-25T19:27:20+03:00"
-      },
-      {
-        "title": "Köyü su baskınlarından kurtarmak için sıra dışı bir yöntem geliştirdiler",
-        "link": "https://www.sozcu.com.tr/koyu-su-baskinlarindan-kurtarmak-icin-sira-disi-bir-yontem-gelistirdiler-p384398",
-        "description": "Köyü su baskınlarından kurtarmak için sıra dışı bir yöntem geliştirdiler",
-        "source": "Sözcü",
-        "published": "2026-11-25T19:19:53+03:00"
-      },
-      {
-        "title": "Dışişleri'nden Husilerin Riyad'a yönelik saldırısına kınama",
-        "link": "https://www.ntv.com.tr/turkiye/disislerinden-husilerin-riyada-yonelik-saldirisina-kinama-1752570",
-        "description": "Dışişleri Bakanlığı, Husilerin Suudi Arabistan'ın başkenti Riyad'daki Kral Abdullah Finans Merkezi'ne yönelik saldırısını kınadı.",
-        "source": "NTV",
-        "published": "2026-11-25T19:05:21+03:00"
-      },
-      {
-        "title": "25 Kasım'da kadınlar sokakta: 'Yoksulluğa, şiddete ve baskılara karşı birbirimizin güvencesiyiz'",
+        "title": "25 Kasım'da kadınlar sokaktaydı: 'Yoksulluğa, şiddete ve baskılara karşı birbirimizin güvencesiyiz'",
         "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
         "description": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenleniyor.",
         "source": "BBC Turkish",
-        "published": "2026-11-25T17:57:36+00:00"
+        "published": "2026-11-25T19:43:26+00:00"
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Genel Komutanı Hafter'i kabul etti",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafteri-kabul-etti-1752566",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya'nın doğusundaki güçlerin lideri Halife Hafter ile Ankara'da bir araya geldi.",
-        "source": "NTV",
-        "published": "2026-11-25T17:18:35+03:00"
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan: Siyaset çözüm üretme yeridir",
-        "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-1752561",
-        "description": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefet partilerine terörsüz Türkiye sürecine ilişkin tutumları nedeniyle tepki gösterirken \"Kendilerine perde yapıyorlar. Siyaset çözüm üretme yeridir.\" dedi.",
-        "source": "NTV",
-        "published": "2026-11-25T17:11:47+03:00"
+        "title": "Anayasa Mahkemesi Ekrem İmamoğlu'nun tutukluluğunu değerlendirecek",
+        "link": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo?at_medium=RSS&at_campaign=rss",
+        "description": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun tutukluluğunun sona ermesi hakkında yapılan bireysel başvuruyu değerlendirecek. AYM'nin 15 üyesinden sekizinin lehte oy vermesi durumunda tutuklu siyasetçinin serbest bırakılması gündeme gelebilir. Ancak...",
+        "source": "BBC Turkish",
+        "published": "2026-11-25T18:45:33+00:00"
       },
       {
         "title": "Özgür Özel yeni MYK'sını belirledi: Hangi tercihler öne çıktı?",
@@ -686,74 +756,11 @@
         "published": "2026-11-25T16:14:41+00:00"
       },
       {
-        "title": "İstanbul'a ne zaman kar yağacak? AKOM en kuvvetli ihtimali paylaştı",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-istanbula-ne-zaman-kar-yagacak-akom-en-kuvvetli-ihtimali-paylasti-1752560",
-        "description": "İstanbul'a ne zaman kar yağacağını merak eden milyonlarca öğrenci ve vatandaş, AKOM'un açıklamaları sonrasında sorgulamalara başladı. İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM) yaptığı açıklamayla, İstanbul'a kar yağışının...",
-        "source": "NTV",
-        "published": "2026-11-25T15:21:12+03:00"
-      },
-      {
         "title": "Libya ordusu komutanı Halife Hafter'in Türkiye ziyareti neden önemli?",
         "link": "https://www.bbc.com/turkce/articles/c6dj1xey8e81o?at_medium=RSS&at_campaign=rss",
         "description": "Libya Ulusal Ordusu Genel Komutanı Halife Hafter ve üç oğlunun 24-25 Kasım'da Ankara'ya yaptıkları ziyaret, Türkiye'nin Trablus yönetiminin ardından Bingazi'deki lider kadrosuyla da ilişkilerini güçlendirdiğini göstermesi açısından önem arz ediyordu.",
         "source": "BBC Turkish",
         "published": "2026-11-25T14:31:37+00:00"
-      },
-      {
-        "title": "İsa Aras Mersinli için yeniden otopsi istendi. \"Mekanik bir robot gibiydi\"",
-        "link": "https://www.ntv.com.tr/turkiye/isa-aras-mersinli-icin-yeniden-otopsi-istendi-mekanik-bir-robot-gibiydi-1752553",
-        "description": "Kahramanmaraş'ta 10 kişinin hayatını kaybettiği okul saldırısını gerçekleştiren İsa Aras Mersinli için yeniden otopsi istendi.",
-        "source": "NTV",
-        "published": "2026-11-25T14:01:00+03:00"
-      },
-      {
-        "title": "İngiltere'de gençler ve yetişkinlere cinsellik araştırması ne sonuçlar verdi?",
-        "link": "https://www.bbc.com/turkce/articles/c6lykxd4knmeo?at_medium=RSS&at_campaign=rss",
-        "description": "Büyük Britanya'yı oluşturan İngiltere, İskoçya ve Galler'de yapılan büyük bir araştırmaya göre özellikle genç ve genç yetişkin Britanyalılar, geçmiş nesillere kıyasla daha az cinsel ilişkiye giriyor veya tamamen uzak duruyor.",
-        "source": "BBC Turkish",
-        "published": "2026-11-25T13:34:46+00:00"
-      },
-      {
-        "title": "Yeni Parti'de MYK üyeleri açıklandı. İşte Özgür Özel'in A takımı",
-        "link": "https://www.ntv.com.tr/turkiye/yeni-parti-myk-uyelerini-belirledi-iste-ozgur-ozelin-a-takimi-1752544",
-        "description": "Yeni Parti Genel Başkanı Özgür Özel, \"A Takımı\" olarak nitelenen Merkez Yönetim Kurulu (MYK) üyelerini belirledi. Genel Sekreter Selin Sayek Böke oldu.",
-        "source": "NTV",
-        "published": "2026-11-25T13:30:31+03:00"
-      },
-      {
-        "title": "ZDF'ye silahlı röportaj veren Daltonlar üyelerine İstanbul'da baskın",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-zdfye-silahli-roportaj-veren-daltonlar-uyelerine-istanbulda-baskin-1752551",
-        "description": "Alman ZDF kanalına ellerinde silahlarla röportaj veren Daltonlar Çetesi üyelerine operasyon düzenlendi. Polis dokuz şüpheliyi yakaladı.",
-        "source": "NTV",
-        "published": "2026-11-25T13:22:55+03:00"
-      },
-      {
-        "title": "Korku dolu anlar; TIR'dan uçtu, motosikletlinin kaskına yapıştı",
-        "link": "https://www.ntv.com.tr/turkiye/video-korku-dolu-anlar-tirdan-uctu-motosikletlinin-kaskina-yapisti-1752545",
-        "description": "Bursa'da otoyolda seyreden TIR'ın dorsesinden uçan karton, arkadaki motosikletlinin kaskına yapıştı. Motosiklet sürücüsünün önünü görmeden ilerlediği anlar, kask kamerasına yansıdı.",
-        "source": "NTV",
-        "published": "2026-11-25T12:59:31+03:00"
-      },
-      {
-        "title": "Fenerbahçe, Londra'da Shakhtar Donetsk deplasmanına çıkıyor",
-        "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-        "description": "Fenerbahçe, Şampiyonlar Ligi'ndeki beşinci hafta maçında bu akşam Ukrayna'nın Shaktar Donetsk takımıyla karşılaşacak",
-        "source": "BBC Turkish",
-        "published": "2026-11-25T12:51:48+00:00"
-      },
-      {
-        "title": "Irak başbakanının petrol sahaları kararı sonrası Erbil-Bağdat gerilimi",
-        "link": "https://www.bbc.com/turkce/articles/cmzx9wg64dxlo?at_medium=RSS&at_campaign=rss",
-        "description": "Irak'ta Bağdat yönetiminin petrol kaçakçılığını önleme amacıyla Irak Kürdistan Bölgesel Yönetimi (IKBY) denetimindeki sınır kapıları ve bazı petrol sahalarını kontrolüne alacağını açıklaması, Erbil yönetimi ile ilişkileri gerdi.",
-        "source": "BBC Turkish",
-        "published": "2026-11-25T12:09:19+00:00"
-      },
-      {
-        "title": "Numan Kurtulmuş: İzleme Komisyonu 19 üyeden oluşacak",
-        "link": "https://www.bbc.com/turkce/articles/cqlymzd4l1r5o?at_medium=RSS&at_campaign=rss",
-        "description": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye süreci için mecliste kurulacak İzleme Komisyonu'nun kurulması için siyasi parti liderlerine yazı gönderildiğini açıkladı. Komisyonda yedi siyasi partinin meclisteki dağılımlarına göre temsil edilmesi...",
-        "source": "BBC Turkish",
-        "published": "2026-11-25T09:57:57+00:00"
       },
       {
         "title": "Danıştay, İmamoğlu'nun diploma iptali kararını neye dayandırdı?",
@@ -768,13 +775,6 @@
         "description": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı süreçte, PKK'nın silah bıraktığının teyidi konusunda gözler 26 Kasım Perşembe günü yapılması beklenen Milli Güvenlik Kurulu (MGK) toplantısına çevrildi.",
         "source": "BBC Turkish",
         "published": "2026-11-25T09:02:03+00:00"
-      },
-      {
-        "title": "Rusya'nın kendi verilerine göre Ukrayna'daki savaşta yaklaşık 500 bin kişi öldü",
-        "link": "https://www.bbc.com/turkce/articles/cqrlg0z9zywwo?at_medium=RSS&at_campaign=rss",
-        "description": "Rusya İstatistik Kurumu'nun (Rosstat) sızdırılan verileri, Ukrayna'nın topyekün işgaliyle Rusya'daki ölüm oranlarının nasıl değiştirdiğini ortaya koyuyor.",
-        "source": "BBC Turkish",
-        "published": "2026-11-25T07:05:22+00:00"
       }
     ]
   },
@@ -784,9 +784,9 @@
     "eur_usd": 0.9124
   },
   "weather": {
-    "condition": "Parçalı bulutlu",
-    "temp": "+43°F",
-    "wind": "↑2mph",
-    "humidity": "76%"
+    "condition": "Hafif yağmurlu",
+    "temp": "+49°F",
+    "wind": "↙19mph",
+    "humidity": "95%"
   }
 }
