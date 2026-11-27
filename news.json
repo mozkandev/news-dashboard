@@ -1,13 +1,55 @@
 {
-  "updated_at": "2026-11-26T19:46:31.383867+00:00",
+  "updated_at": "2026-11-27T02:40:24.284571+00:00",
   "categories": {
     "teknoloji": [
+      {
+        "title": "Hard Drive pricing has gotten bad",
+        "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+        "description": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 14 # Comments: 3",
+        "source": "HackerNews",
+        "published": "2026-11-27T01:13:49+00:00"
+      },
+      {
+        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "description": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 32 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-11-27T00:03:18+00:00"
+      },
+      {
+        "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+        "link": "https://kendell.dev/blog/arkwrapper/",
+        "description": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 52 # Comments: 9",
+        "source": "HackerNews",
+        "published": "2026-11-26T21:59:19+00:00"
+      },
+      {
+        "title": "AI made self-hosting fun again",
+        "link": "https://janlukas.blog/posts/ai-self-hosting",
+        "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 339 # Comments: 183",
+        "source": "HackerNews",
+        "published": "2026-11-26T21:47:45+00:00"
+      },
       {
         "title": "Instagram Direkt Mesaj uygulaması iPhone'a geldi",
         "link": "https://shiftdelete.net/instagram-direct-mesaj-uygulamasi-iphone-app-store",
         "description": "Instagram, mesajlaşmayı ayrı bir uygulamaya taşıdı. \"Direct - Arkadaşlarla Sohbet\" adlı uygulama Türkiye App Store'unda iPhone kullanıcıları için ücretsiz olarak yayında.",
         "source": "ShiftDelete",
         "published": "2026-11-26T21:16:38+03:00"
+      },
+      {
+        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+        "description": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 256 # Comments: 49",
+        "source": "HackerNews",
+        "published": "2026-11-26T21:08:05+00:00"
+      },
+      {
+        "title": "Company Culture = Slack Emoji ÷ √Headcount",
+        "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+        "description": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 123 # Comments: 34",
+        "source": "HackerNews",
+        "published": "2026-11-26T20:49:49+00:00"
       },
       {
         "title": "HMD Rise tanıtıldı: 5.000 mAh pil, Android Go",
@@ -24,6 +66,20 @@
         "published": "2026-11-26T20:21:47+03:00"
       },
       {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "source": "TechCrunch",
+        "published": "2026-11-26T20:03:54+00:00"
+      },
+      {
+        "title": "Is Alice Huang a spy or not?",
+        "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+        "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+        "source": "TechCrunch",
+        "published": "2026-11-26T20:00:00+00:00"
+      },
+      {
         "title": "X finally gets parental controls after 20 years",
         "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
         "description": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
@@ -38,11 +94,25 @@
         "published": "2026-11-26T19:26:39+03:00"
       },
       {
+        "title": "Rvoip: VoIP stack in Rust",
+        "link": "https://github.com/eisenzopf/rvoip",
+        "description": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 93 # Comments: 18",
+        "source": "HackerNews",
+        "published": "2026-11-26T19:18:09+00:00"
+      },
+      {
         "title": "GTA 6, oyun konsollarına ilgiyi yüzde 125 artırdı!",
         "link": "https://shiftdelete.net/gta-6-oyun-konsollarina-ilgi-yuzde-125-artti",
         "description": "Satış ve gelir rekorlarıyla çıkış yapan GTA 6'nın etkisi Türkiye'deki ikinci el konsol pazarına da yansıdı. Oyun konsolu ilanlarına ilgi bir ayda yüzde 125 arttı, satıcılara gelen telefonlar dört katına çıktı.",
         "source": "ShiftDelete",
         "published": "2026-11-26T19:17:54+03:00"
+      },
+      {
+        "title": "An introduction to uncertainty in machine learning",
+        "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+        "description": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombinator.com/item?id=50658498 Points: 13 # Comments: 0",
+        "source": "HackerNews",
+        "published": "2026-11-26T19:04:50+00:00"
       },
       {
         "title": "Branda Yırtıldı, MediaMarkt Şahane Cuma İndirimleri Başladı!",
@@ -66,9 +136,16 @@
         "published": "2026-11-26T18:44:46+03:00"
       },
       {
+        "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+        "link": "https://bui.preetham.top/charts/",
+        "description": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 62 # Comments: 10",
+        "source": "HackerNews",
+        "published": "2026-11-26T18:37:24+00:00"
+      },
+      {
         "title": "George Whitesides, 1939-2026",
         "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-        "description": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 12 # Comments: 2",
+        "description": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 68 # Comments: 7",
         "source": "HackerNews",
         "published": "2026-11-26T18:13:07+00:00"
       },
@@ -115,25 +192,11 @@
         "published": "2026-11-26T17:57:09+03:00"
       },
       {
-        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-        "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-        "description": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 72 # Comments: 27",
-        "source": "HackerNews",
-        "published": "2026-11-26T17:47:45+00:00"
-      },
-      {
         "title": "Nvidia 621.40 sürücüsünde siyah ekran şikayeti",
         "link": "https://shiftdelete.net/nvidia-geforce-621-40-surucu-siyah-ekran-sinyal-kaybi",
         "description": "SSD'ye aşırı yazma hatasını düzelten GeForce 621.40 sürücüsünü kuran bazı kullanıcılar, Nvidia forumunda siyah ekran ve sinyal kaybı bildiriyor. Nvidia sorunu henüz doğrulamadı.",
         "source": "ShiftDelete",
         "published": "2026-11-26T17:38:29+03:00"
-      },
-      {
-        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-        "link": "https://github.com/antonpictures/youtube-punisher",
-        "description": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 60 # Comments: 83",
-        "source": "HackerNews",
-        "published": "2026-11-26T17:36:47+00:00"
       },
       {
         "title": "İstanbul Gelişim Üniversitesi’nden Yerli Çip Teknolojilerine Katkı: AR CHIP",
@@ -150,32 +213,11 @@
         "published": "2026-11-26T17:31:31+03:00"
       },
       {
-        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
-        "link": "https://github.com/deepseek-ai/deepseek-math",
-        "description": "Article URL: https://github.com/deepseek-ai/deepseek-math Comments URL: https://news.ycombinator.com/item?id=50657355 Points: 30 # Comments: 8",
-        "source": "HackerNews",
-        "published": "2026-11-26T17:21:14+00:00"
-      },
-      {
         "title": "Dokunmatik MacBook Pro inceleme: 30 bin TL farka değer mi?",
         "link": "https://shiftdelete.net/dokunmatik-macbook-pro-proled-xdr-inceleme",
         "description": "Apple'ın ilk dokunmatik ekranlı MacBook Pro'sunu birkaç gün kullandık. Ekran gerçekten daha iyi, peki dokunmatik özellik ve 25–30 bin TL'lik fark buna değer mi?",
         "source": "ShiftDelete",
         "published": "2026-11-26T17:17:57+03:00"
-      },
-      {
-        "title": "Tracking Diseases Cured by AI",
-        "link": "https://diseasescuredbyai.com/",
-        "description": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 278 # Comments: 159",
-        "source": "HackerNews",
-        "published": "2026-11-26T17:16:41+00:00"
-      },
-      {
-        "title": "AMD Specific Patches for Llama.cpp",
-        "link": "https://devnull.land/amd-specific-llama-cpp",
-        "description": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 128 # Comments: 39",
-        "source": "HackerNews",
-        "published": "2026-11-26T17:11:29+00:00"
       },
       {
         "title": "A month with the iPhone Duo has changed how I use my phone",
@@ -185,32 +227,11 @@
         "published": "2026-11-26T17:00:00+00:00"
       },
       {
-        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-        "link": "https://github.com/rxliuli/sim-drop",
-        "description": "Hi HN, I made a small macOS utility for my own iOS simulator workflow. I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo...",
-        "source": "HackerNews",
-        "published": "2026-11-26T16:51:38+00:00"
-      },
-      {
-        "title": "NP_R ≠ PAR_R",
-        "link": "https://github.com/samueleverett01/bss-permanent-separations",
-        "description": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 110 # Comments: 117",
-        "source": "HackerNews",
-        "published": "2026-11-26T16:50:55+00:00"
-      },
-      {
         "title": "Tesla Uçan Araba Kaç TL Olurdu?",
         "link": "\n                    https://www.webtekno.com/tesla-ucan-araba-ne-kadar-h229490.html\n                    ",
         "description": "Tesla'nın uçan arabası kaç TL olabilir? Elon Musk'ın yeni Roadster modelinin özelliklerini, yurt dışı fiyatını ve Türkiye'deki vergilerle tahmini fiyatını hesapladık!",
         "source": "Webtekno",
         "published": "2026-11-26T16:39:39+03:00"
-      },
-      {
-        "title": "Kagi Watch",
-        "link": "https://kagi.com/watch",
-        "description": "Article URL: https://kagi.com/watch Comments URL: https://news.ycombinator.com/item?id=50656862 Points: 42 # Comments: 73",
-        "source": "HackerNews",
-        "published": "2026-11-26T16:28:54+00:00"
       },
       {
         "title": "Resmî Olmayan GTA 6 PC Sürümleri Artık 20-30 FPS'de Çalışıyor [Video]",
@@ -220,18 +241,18 @@
         "published": "2026-11-26T16:24:44+03:00"
       },
       {
-        "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-        "link": "https://news.ycombinator.com/item?id=50656763",
-        "description": "Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy,...",
-        "source": "HackerNews",
-        "published": "2026-11-26T16:16:41+00:00"
-      },
-      {
         "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
         "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
         "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
         "source": "TechCrunch",
         "published": "2026-11-26T16:00:00+00:00"
+      },
+      {
+        "title": "Netflix’s coziest show has made a very quiet return",
+        "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+        "description": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows,...",
+        "source": "The Verge",
+        "published": "2026-11-26T15:50:57-05:00"
       },
       {
         "title": "The best Black Friday deals we’ve already found",
@@ -318,32 +339,11 @@
         "published": "2026-11-25T19:54:32+00:00"
       },
       {
-        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-        "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T19:44:24+00:00"
-      },
-      {
-        "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-        "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-        "description": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
-        "source": "TechCrunch",
-        "published": "2026-11-25T18:49:52+00:00"
-      },
-      {
         "title": "Why GTA VI’s version of Florida feels so real",
         "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
         "description": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is...",
         "source": "The Verge",
         "published": "2026-11-25T17:18:23-05:00"
-      },
-      {
-        "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-        "link": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
-        "description": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some...",
-        "source": "The Verge",
-        "published": "2026-11-25T17:05:18-05:00"
       },
       {
         "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
@@ -355,32 +355,60 @@
     ],
     "dunya": [
       {
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+        "source": "BBC News",
+        "published": "2026-11-27T00:52:11+00:00"
+      },
+      {
+        "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+        "description": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+        "source": "BBC News",
+        "published": "2026-11-27T00:48:11+00:00"
+      },
+      {
+        "title": "Huw Edwards gives first interviews since child abuse image conviction",
+        "link": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+        "description": "Minister Anna Turley said she was \"deeply uncomfortable\" with the interviews, while Channel 4 has insisted it \"holds Edwards to account\".",
+        "source": "BBC News",
+        "published": "2026-11-27T00:38:03+00:00"
+      },
+      {
+        "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+        "description": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+        "source": "BBC News",
+        "published": "2026-11-27T00:20:10+00:00"
+      },
+      {
+        "title": "UK to pay 'participation' fee to deliver EU deals",
+        "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+        "description": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+        "source": "BBC News",
+        "published": "2026-11-26T23:17:12+00:00"
+      },
+      {
+        "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+        "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+        "description": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+        "source": "BBC News",
+        "published": "2026-11-26T23:03:16+00:00"
+      },
+      {
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+        "source": "BBC News",
+        "published": "2026-11-26T22:49:27+00:00"
+      },
+      {
         "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
         "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
         "description": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
         "source": "BBC News",
         "published": "2026-11-26T19:00:33+00:00"
-      },
-      {
-        "title": "Boxing chiefs to assess Fury mental health before fight",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
-        "description": "Tyson Fury's mental health wil be assessed to ensure he is fit to fight Anthony Joshua following documentary revelations.",
-        "source": "BBC News",
-        "published": "2026-11-26T18:54:27+00:00"
-      },
-      {
-        "title": "Burnham joined by former PMs at Ann Widdecombe service",
-        "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
-        "source": "BBC News",
-        "published": "2026-11-26T18:26:09+00:00"
-      },
-      {
-        "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
-        "link": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
-        "description": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
-        "source": "BBC News",
-        "published": "2026-11-26T18:22:31+00:00"
       },
       {
         "title": "Drug rape husband says wife 'would have been terrified', court hears",
@@ -390,39 +418,11 @@
         "published": "2026-11-26T18:21:59+00:00"
       },
       {
-        "title": "Huw Edwards gives first interviews since child abuse image conviction",
-        "link": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
-        "description": "The disgraced ex-BBC News presenter will appear in a TV documentary, newspaper interview and podcast.",
-        "source": "BBC News",
-        "published": "2026-11-26T18:15:09+00:00"
-      },
-      {
-        "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
-        "link": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
-        "description": "Energy Secretary Miatta Fahnbulleh is due to make a decision on whether to give the go-ahead for drilling in the oil field off the north-west coast of Shetland within weeks.",
-        "source": "BBC News",
-        "published": "2026-11-26T16:29:54+00:00"
-      },
-      {
-        "title": "Watch: How knife attack on train unfolded",
-        "link": "https://www.bbc.co.uk/news/videos/cq36gjw04pgjo?at_medium=RSS&at_campaign=rss",
-        "description": "Video filmed by train passengers and CCTV captures the situation on board as 10 people are injured.",
-        "source": "BBC News",
-        "published": "2026-11-26T16:03:04+00:00"
-      },
-      {
         "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
         "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
         "description": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
         "source": "BBC News",
         "published": "2026-11-26T15:38:38+00:00"
-      },
-      {
-        "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
-        "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
-        "description": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
-        "source": "BBC News",
-        "published": "2026-11-26T14:55:16+00:00"
       },
       {
         "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
@@ -567,60 +567,151 @@
     ],
     "turkiye": [
       {
-        "title": "Skandal olaylar sonrası Beşiktaş'tan ilk açıklama",
-        "link": "https://www.sozcu.com.tr/besiktastan-skandal-olaylara-buyuk-tepki-p384721",
-        "description": "Skandal olaylar sonrası Beşiktaş'tan ilk açıklama",
+        "title": "AB bütçesinde kesinti çıkmazı: Liderler anlaşamadı",
+        "link": "https://www.sozcu.com.tr/ab-butcesinde-kesinti-cikmazi-liderler-anlasamadi-p384759",
+        "description": "AB bütçesinde kesinti çıkmazı: Liderler anlaşamadı",
         "source": "Sözcü",
-        "published": "2026-11-26T22:41:10+03:00"
+        "published": "2026-11-27T05:36:44+03:00"
       },
       {
-        "title": "Nehirleri istila eden bitkiyi iş makineleriyle bile temizleyemiyorlar",
-        "link": "https://www.sozcu.com.tr/nehirleri-istila-eden-bitkiyi-is-makineleriyle-bile-temizleyemiyorlar-p384719",
-        "description": "Nehirleri istila eden bitkiyi iş makineleriyle bile temizleyemiyorlar",
-        "source": "Sözcü",
-        "published": "2026-11-26T22:21:36+03:00"
+        "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-kasim-2026-1752759",
+        "description": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar?...",
+        "source": "NTV",
+        "published": "2026-11-27T05:30:00+03:00"
       },
       {
-        "title": "Beşiktaş'a destek yağıyor! UEFA'nın çifte standardına büyük tepki",
-        "link": "https://www.sozcu.com.tr/besiktas-a-destek-yagiyor-uefa-nin-cifte-standardina-buyuk-tepki-p384710",
-        "description": "Beşiktaş'a destek yağıyor! UEFA'nın çifte standardına büyük tepki",
+        "title": "Gürcü polisinin maç öncesi orantısız müdahalesi kameralara yansıdı",
+        "link": "https://www.sozcu.com.tr/gurcu-polisinin-mac-oncesi-orantisiz-mudahalesi-kameralara-yansidi-p384753",
+        "description": "Gürcü polisinin maç öncesi orantısız müdahalesi kameralara yansıdı",
         "source": "Sözcü",
-        "published": "2026-11-26T22:20:13+03:00"
+        "published": "2026-11-27T04:14:11+03:00"
       },
       {
-        "title": "TFF’den Beşiktaş açıklaması: UEFA nezdinde girişimde bulunacağız",
-        "link": "https://www.sozcu.com.tr/tffden-besiktas-aciklamasi-uefa-nezdinde-girisimde-bulunacagiz-p384718",
-        "description": "TFF’den Beşiktaş açıklaması: UEFA nezdinde girişimde bulunacağız",
-        "source": "Sözcü",
-        "published": "2026-11-26T22:19:04+03:00"
+        "title": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+        "link": "https://www.ntv.com.tr/turkiye/bddk-baskanligina-yusuf-kenan-bagir-atandi-1752770",
+        "description": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) başkanlığına Yusuf Kenan Bağır atandı.",
+        "source": "NTV",
+        "published": "2026-11-27T04:09:24+03:00"
       },
       {
-        "title": "Gürcü polisinden skandal hareket! Beşiktaş taraftarını yumrukla bayılttı",
-        "link": "https://www.sozcu.com.tr/gurcu-polisinden-skandal-hareket-besiktas-taraftarini-yumrukla-bayiltti-p384717",
-        "description": "Gürcü polisinden skandal hareket! Beşiktaş taraftarını yumrukla bayılttı",
+        "title": "Yargıtay'a 5 üye seçildi: Karar Resmi Gazete'de",
+        "link": "https://www.sozcu.com.tr/yargitaya-5-uye-secildi-karar-resmi-gazetede-p384757",
+        "description": "Yargıtay'a 5 üye seçildi: Karar Resmi Gazete'de",
         "source": "Sözcü",
-        "published": "2026-11-26T22:09:56+03:00"
+        "published": "2026-11-27T04:01:50+03:00"
       },
       {
-        "title": "Beşiktaş maçında yaşananlara siyasilerden art arda tepkiler",
-        "link": "https://www.sozcu.com.tr/besiktas-macinda-yasananlara-siyasilerden-tepki-p384716",
-        "description": "Beşiktaş maçında yaşananlara siyasilerden art arda tepkiler",
+        "title": "Türkiye ile Karadağ arasındaki vize muafiyeti anlaşması askıya alındı",
+        "link": "https://www.sozcu.com.tr/turkiye-karadagin-umuma-mahsus-pasaport-sahiplerine-vize-muafiyetini-durdurdu-p384754",
+        "description": "Türkiye ile Karadağ arasındaki vize muafiyeti anlaşması askıya alındı",
         "source": "Sözcü",
-        "published": "2026-11-26T22:07:16+03:00"
+        "published": "2026-11-27T03:59:36+03:00"
       },
       {
-        "title": "Okul kantininde korku dolu anlar: Kantin görevlisi hayat kurtardı",
-        "link": "https://www.sozcu.com.tr/okul-kantininde-korku-dolu-anlar-kantin-gorevlisi-hayat-kurtardi-p384714",
-        "description": "Okul kantininde korku dolu anlar: Kantin görevlisi hayat kurtardı",
-        "source": "Sözcü",
-        "published": "2026-11-26T21:45:34+03:00"
+        "title": "Ünlülere uyuşturucu soruşturmasında 3 kişi hakkında tutuklama talebi",
+        "link": "https://www.ntv.com.tr/turkiye/unlulere-uyusturucu-sorusturmasinda-3-kisi-hakkinda-tutuklama-talebi-1752774",
+        "description": "İstanbul'da ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltı süresi uzatılan şüphelilerden 3'ü hakkında tutuklama, 10 kişi için ise adli kontrol istendi.",
+        "source": "NTV",
+        "published": "2026-11-27T03:49:08+03:00"
       },
       {
-        "title": "Bulgaristan'da kıyıya vuran gizemli konteyner 22 gün sonra açıldı",
-        "link": "https://www.sozcu.com.tr/bulgaristan-da-kiyiya-vuran-gizemli-konteyner-22-gun-sonra-acildi-p384711",
-        "description": "Bulgaristan'da kıyıya vuran gizemli konteyner 22 gün sonra açıldı",
+        "title": "Son dakika Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya deprem Kandilli ve AFAD son depremler listesi 27 Kasım 2026",
+        "link": "https://www.ntv.com.tr/turkiye/son-dakika-antalyada-deprem-mi-oldu-az-once-deprem-antalyada-nerede-oldu-antalya-deprem-kandilli-ve-afad-son-depremler-listesi-27-kasim-2026-1752773",
+        "description": "Son dakika Antalya deprem haberleri.. Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya Kandilli ve AFAD son depremler.. 27 Kasım 2026 Antalya deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Antalya'da?...",
+        "source": "NTV",
+        "published": "2026-11-27T02:50:00+03:00"
+      },
+      {
+        "title": "Gürcistan İçişleri Bakanlığı: 16 gözaltı, 3 görevli yaralı",
+        "link": "https://www.sozcu.com.tr/besiktasin-batumdaki-macinda-olaylar-16-gozalti-3-gorevli-yarali-p384752",
+        "description": "Gürcistan İçişleri Bakanlığı: 16 gözaltı, 3 görevli yaralı",
         "source": "Sözcü",
-        "published": "2026-11-26T21:39:00+03:00"
+        "published": "2026-11-27T02:43:26+03:00"
+      },
+      {
+        "title": "Fransız haber ajansı AFP'ye siber saldırı: Fotoğraf ve görüntü platformu erişime kapatıldı",
+        "link": "https://www.sozcu.com.tr/afpye-siber-saldiri-fotograf-ve-goruntu-platformu-erisime-kapatildi-p384750",
+        "description": "Fransız haber ajansı AFP'ye siber saldırı: Fotoğraf ve görüntü platformu erişime kapatıldı",
+        "source": "Sözcü",
+        "published": "2026-11-27T02:09:25+03:00"
+      },
+      {
+        "title": "Son dakika... BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+        "link": "https://www.sozcu.com.tr/bddk-baskanligina-yusuf-kenan-bagir-atandi-p384749",
+        "description": "Son dakika... BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+        "source": "Sözcü",
+        "published": "2026-11-27T02:04:07+03:00"
+      },
+      {
+        "title": "Beşiktaş, İsrail ekibi Hapoel'i Batum'daki maçta 2-1'le geçti",
+        "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
+        "description": "Beşiktaş, UEFA Avrupa Ligi'nde beşinci maçında İsrail ekibi Hapoel ile karşılaştı. Siyah-beyazlılar Olaitan ve Kökçü'nün golleriyle maçtan 2-1 galip ayrıldı.",
+        "source": "BBC Turkish",
+        "published": "2026-11-27T01:29:04+00:00"
+      },
+      {
+        "title": "Avrupa'da muhteşem hafta! Ülke puanında son durum",
+        "link": "https://www.sozcu.com.tr/avrupa-da-muhtesem-hafta-ulke-puaninda-son-durum-p384745",
+        "description": "Avrupa'da muhteşem hafta! Ülke puanında son durum",
+        "source": "Sözcü",
+        "published": "2026-11-27T01:09:25+03:00"
+      },
+      {
+        "title": "Küresel cihatçılık başarısız mı oldu, yoksa sadece şekil mi değiştiriyor?",
+        "link": "https://www.bbc.com/turkce/articles/c51k9z72nlrdo?at_medium=RSS&at_campaign=rss",
+        "description": "Cihatçı gruplar küresel emelleri yerine yerel sorunlara odaklanıyor gibi görünüyor. Peki, bu gerçek bir değişimin işareti mi?",
+        "source": "BBC Turkish",
+        "published": "2026-11-27T01:02:13+00:00"
+      },
+      {
+        "title": "Trabzonspor uzatmada kazandı! Bordo-mavililerden ikinci yarı müthiş dönüş",
+        "link": "https://www.sozcu.com.tr/trabzonspor-uzatmada-kazandi-bordo-mavililerden-ikinci-yari-muthis-donus-p384743",
+        "description": "Trabzonspor uzatmada kazandı! Bordo-mavililerden ikinci yarı müthiş dönüş",
+        "source": "Sözcü",
+        "published": "2026-11-27T01:01:59+03:00"
+      },
+      {
+        "title": "Yürürken daha az yorulmayı sağlayan çorap geliştirdiler",
+        "link": "https://www.sozcu.com.tr/yururken-daha-az-yorulmayi-saglayan-corap-gelistirdiler-p384744",
+        "description": "Yürürken daha az yorulmayı sağlayan çorap geliştirdiler",
+        "source": "Sözcü",
+        "published": "2026-11-27T01:00:40+03:00"
+      },
+      {
+        "title": "DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene talep edenlerin sayısı artıyor",
+        "link": "https://www.bbc.com/turkce/articles/cm8940051ddwo?at_medium=RSS&at_campaign=rss",
+        "description": "Pek çok insan DEHB veya otizm teşhisini kendilerini doğrulayan ve onlara yardımcı bir süreç olarak görürken İsveç'te devlet destekli bir klinik, bu teşhisin kendilerini yansıtmadığını düşünen kişileri yeniden muayene ediyor.",
+        "source": "BBC Turkish",
+        "published": "2026-11-27T00:46:40+00:00"
+      },
+      {
+        "title": "Husilerin saldırılarını artırdığı Suudi başkenti Riyad'da neler yaşanıyor?",
+        "link": "https://www.bbc.com/turkce/articles/crjwj6nlx3peo?at_medium=RSS&at_campaign=rss",
+        "description": "Riyad gibi Suudi şehirleri, Husilerin düzenlediği insansız hava aracı ve füze saldırılarına son dönemde düzenli olarak maruz kalıyor. Saldırılara rağmen, Riyad'daki pazarlar ve restoranlar hareketliliğini koruyor; şehrin sakinleri hükümetin...",
+        "source": "BBC Turkish",
+        "published": "2026-11-27T00:31:11+00:00"
+      },
+      {
+        "title": "BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+        "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
+        "description": "Şahap Kavcıoğlu'nun fon kriziyle ilgili hakkında çıkan iddialar nedeniyle istifa etmesinin ardından Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı olarak Yusuf Kenan Bağır atandı.",
+        "source": "BBC Turkish",
+        "published": "2026-11-27T00:29:34+00:00"
+      },
+      {
+        "title": "Süper Loto çekiliş sonuçları belli oldu: 26 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+        "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1752757",
+        "description": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye...",
+        "source": "NTV",
+        "published": "2026-11-26T23:07:48+03:00"
+      },
+      {
+        "title": "TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
+        "link": "https://www.ntv.com.tr/turkiye/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar-1752756",
+        "description": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likidite yönetimi ve makroihtiyati çerçeveye ilişkin yeni kararlar aldı.",
+        "source": "NTV",
+        "published": "2026-11-26T23:01:26+03:00"
       },
       {
         "title": "Fon soruşturmasıyla ilgili ortak basın toplantısı. ''119 fonda 444 bin 987 yatırımcı ödeme aldı''",
@@ -630,39 +721,11 @@
         "published": "2026-11-26T21:23:47+03:00"
       },
       {
-        "title": "Deniz evleri yutmasın diye harekete geçtiler: Kıyıları korumak için milyonlar harcayacaklar",
-        "link": "https://www.sozcu.com.tr/deniz-karayi-yutmasin-diye-harekete-gectiler-kiyilari-korumak-icin-milyonlar-harcayacaklar-p384707",
-        "description": "Deniz evleri yutmasın diye harekete geçtiler: Kıyıları korumak için milyonlar harcayacaklar",
-        "source": "Sözcü",
-        "published": "2026-11-26T21:22:51+03:00"
-      },
-      {
-        "title": "Beşiktaşlı futbolcular İsrailli rakibiyle tokalaşmadı",
-        "link": "https://www.sozcu.com.tr/besiktasli-futbolcular-israilli-rakibiyle-tokalasmadi-p384706",
-        "description": "Beşiktaşlı futbolcular İsrailli rakibiyle tokalaşmadı",
-        "source": "Sözcü",
-        "published": "2026-11-26T21:01:47+03:00"
-      },
-      {
         "title": "Dışişleri'nden Avrupa Parlamentosu'nun Libya kararına tepki",
         "link": "https://www.ntv.com.tr/turkiye/disislerinden-avrupa-parlamentosunun-libya-kararina-tepki-1752751",
         "description": "Dışişleri Bakanlığı, Avrupa Parlamentosu'nun Türkiye ile Libya arasındaki deniz yetki alanları mutabakatına ilişkin kararına tepki gösterdi.",
         "source": "NTV",
         "published": "2026-11-26T20:12:58+03:00"
-      },
-      {
-        "title": "Beşiktaş ile İsrail ekibi Hapoel arasındaki maç verilen aranın ardından devam ediyor",
-        "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
-        "description": "Beşiktaş, UEFA Avrupa Ligi'nde beşinci maçında İsrail ekibi Hapoel ile karşılaşıyor. Tribünlerde polisin müdahalesi sonrası çıkan olaylar nedeniyle müsabakaya 25. dakikada ara verildi.",
-        "source": "BBC Turkish",
-        "published": "2026-11-26T19:13:31+00:00"
-      },
-      {
-        "title": "Fon krizinde ortak basın toplantısı: 'İddianame çıktığı zaman bütün isimleri kamuoyu duyacak'",
-        "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
-        "description": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in fon soruşturmasına ilişkin ortak basın toplantısı düzenledi.",
-        "source": "BBC Turkish",
-        "published": "2026-11-26T18:24:16+00:00"
       },
       {
         "title": "İddianame, ödemeler: Fon krizi ortak basın toplantısından neler öğrendik?",
@@ -679,32 +742,11 @@
         "published": "2026-11-26T18:01:11+03:00"
       },
       {
-        "title": "Gerard Depardieu, aktris Arnould'ya tecavüz suçlamasıyla yargılanacak",
-        "link": "https://www.bbc.com/turkce/articles/cqrmg478l99yo?at_medium=RSS&at_campaign=rss",
-        "description": "Fransız sinemasının önde gelen isimlerinden Gerard Depardieu, aktris Charlotte Arnould'ya sekiz yıl önce tecavüz ettiği iddiasıyla yargılanacak. Davada 7 Ağustos 2018 günü yaşanan olaylar dinlenecek.",
-        "source": "BBC Turkish",
-        "published": "2026-11-26T16:02:06+00:00"
-      },
-      {
         "title": "Dünya tarihinde bir ilk: Küresel sıcaklık 2 dereceyi aştı",
         "link": "https://www.ntv.com.tr/turkiye/video-dunya-tarihinde-bir-ilk-kuresel-sicaklik-2-dereceyi-asti-1752738",
         "description": "Küresel yüzey sıcaklığı, sanayi öncesi dönem ortalamasının 2 derece üzerine çıkarak altı gün boyunca bu seviyede kaldı. Böylece dünya tarihinde bir ilk yaşandı",
         "source": "NTV",
         "published": "2026-11-26T15:45:49+03:00"
-      },
-      {
-        "title": "MasterChef'in Kızıl Sakal'ı Eren Kaşıkçı'nın kesin ölüm nedeni belli oldu",
-        "link": "https://www.ntv.com.tr/turkiye/galeri-masterchefin-kizil-sakali-eren-kasikcinin-kesin-olum-nedeni-belli-oldu-1752721",
-        "description": "MasterChef yarışmasıyla adını duyuran \"Kızıl Sakal\" lakaplı Eren Kaşıkçı'nın otopsi raporu tamamlandı. Raporla birlikte Kaşıkçı'nın kesin ölüm nedeni netleşti.",
-        "source": "NTV",
-        "published": "2026-11-26T15:37:35+03:00"
-      },
-      {
-        "title": "İsa Aras Mersinli için yeniden otopsi talebi. \"Raporda çelişki var\"",
-        "link": "https://www.ntv.com.tr/turkiye/isa-aras-mersinli-icin-yeniden-otopsi-talebi-raporda-celiski-var-1752699",
-        "description": "Milli Eğitim Bakanı Yusuf Tekin, Kahramanmaraş'taki okul saldırısının faili İsa Aras Mersinli'nin otopsi raporunda çelişkiler bulunduğunu açıkladı.",
-        "source": "NTV",
-        "published": "2026-11-26T15:25:40+03:00"
       },
       {
         "title": "Abdullah Öcalan'dan Özgür Özel'e İzleme Komisyonu mesajı",
@@ -721,20 +763,6 @@
         "published": "2026-11-26T14:50:37+00:00"
       },
       {
-        "title": "Trafikte araçlarından inip kavga eden 3 kişiye toplam 640 bin lira ceza",
-        "link": "https://www.ntv.com.tr/turkiye/video-trafikte-araclarindan-inip-kavga-eden-3-kisiye-toplam-640-bin-lira-ceza-1752718",
-        "description": "Tekirdağ'ınKapaklı ilçesinde, trafikte araçlarından inip kavga eden 3 kişiye toplam 640 bin lira para cezası uygulandı.",
-        "source": "NTV",
-        "published": "2026-11-26T14:41:46+03:00"
-      },
-      {
-        "title": "Hikmet Çetin Ankara'ya uğurlandı",
-        "link": "https://www.ntv.com.tr/turkiye/hikmet-cetin-ankaraya-ugurlandi-1752725",
-        "description": "Tedavi gördüğü hastanede yaşamını yitiren eski TBMM Başkanı Hikmet Çetin'in cenazesi, hastane önünde düzenlenen törenin ardından Ankara'ya uğurlandı.",
-        "source": "NTV",
-        "published": "2026-11-26T14:23:46+03:00"
-      },
-      {
         "title": "İsrail'de Eisenkot, Netanyahu'yu koltuğundan indirmeye yakın mı?",
         "link": "https://www.bbc.com/turkce/articles/cr3wgnqpeq60o?at_medium=RSS&at_campaign=rss",
         "description": "İsrail seçimlerinden yaklaşık dört hafta sonra, yeni hükümetin kurulmasına yönelik müzakerelerde hızlı gelişmeler yaşanıyor. Yashar Partisi lideri Gadi Eisenkot'un gelecek hafta Binyamin Netanyahu'nun iktidarını sona erdirebileceğine dair işaretler...",
@@ -742,51 +770,23 @@
         "published": "2026-11-26T13:49:09+00:00"
       },
       {
-        "title": "YSK Başkanı Mutta açıkladı: Yurt dışı seçmen için elektronik oy hazırlığı",
-        "link": "https://www.ntv.com.tr/turkiye/ysk-baskani-mutta-acikladi-yurt-disi-secmen-icin-elektronik-oy-hazirligi-1752719",
-        "description": "YSK Başkanı Serdar Mutta, yasaların yurt dışındaki seçmenlerin elektronik oy kullanmasına izin verdiğini ancak bu sisteme geçilmediğini belirterek, bu konuda adım atma niyetinde olduklarını söyledi.",
-        "source": "NTV",
-        "published": "2026-11-26T13:37:36+03:00"
-      },
-      {
-        "title": "Anayasa Mahkemesi'nden Ekrem İmamoğlu kararı",
-        "link": "https://www.ntv.com.tr/turkiye/anayasa-mahkemesinden-ekrem-imamoglu-karari-1752708",
-        "description": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun tutukluluğunun hak ihlali olduğu iddiasıyla yaptığı başvuruyu reddetti.",
-        "source": "NTV",
-        "published": "2026-11-26T13:07:54+03:00"
-      },
-      {
-        "title": "Anayasa Mahkemesi'nden İmamoğlu'nun tutukluluk itirazına ret",
-        "link": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo?at_medium=RSS&at_campaign=rss",
-        "description": "Anayasa Mahkemesi (AYM) görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun tutukluluğuna itirazını reddetti. AYM, hak ihlali olmadığına karar verdi.",
-        "source": "BBC Turkish",
-        "published": "2026-11-26T12:20:54+00:00"
-      },
-      {
         "title": "Avrupa Parlamentosu, Türkiye-Libya mutabakatına karşı önlem istedi",
         "link": "https://www.bbc.com/turkce/articles/cvde1371y6z3o?at_medium=RSS&at_campaign=rss",
         "description": "Avrupa Parlamentosu (AP), Türkiye ile Libya arasındaki deniz yetki alanlarının sınırlandırılmasına ilişkin önlem almasını istedi. Parlamento egemenlik haklarını savunma konusunda Yunanistan ve Kıbrıs'la tam ve kesin bir dayanışma içinde olduğu...",
         "source": "BBC Turkish",
         "published": "2026-11-26T12:08:25+00:00"
-      },
-      {
-        "title": "Yeni Parti'nin komisyona üye vermeme kararı Diyarbakır'da nasıl karşılandı?",
-        "link": "https://www.bbc.com/turkce/articles/cqp8364dklm4o?at_medium=RSS&at_campaign=rss",
-        "description": "Diyarbakır'da seçmenlerin bir kısmı Yeni Parti'nin çözüm süreci kapsamında TBMM'de oluşturulacak İzleme Komisyonu'na üye vermeme kararının partiyi \"barış sürecine mesafeli\" bir konuma düşürdüğüne inanıyor.",
-        "source": "BBC Turkish",
-        "published": "2026-11-26T06:22:32+00:00"
       }
     ]
   },
   "exchange_rates": {
-    "usd_try": 50.7233,
-    "eur_try": 55.6265,
-    "eur_usd": 0.9121
+    "usd_try": 50.7374,
+    "eur_try": 55.6777,
+    "eur_usd": 0.9113
   },
   "weather": {
-    "condition": "Güneşli",
-    "temp": "+71°F",
-    "wind": "↙2mph",
-    "humidity": "20%"
+    "condition": "Patchy rain nearby",
+    "temp": "+50°F",
+    "wind": "↑11mph",
+    "humidity": "88%"
   }
 }
